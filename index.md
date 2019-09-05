@@ -4,7 +4,7 @@ CommunityBridge is a platform created by the Linux Foundation to empower develop
 
 ### Table of Contents
 
-- [Frequently Asked Questions (FAQ)](faq.md)
+  - [Frequently Asked Questions (FAQ)](faq.md)
 
 ### Support or Contact
 
