@@ -1,3 +1,5 @@
+# CommunityBridge FAQ
+
 ## What is CommunityBridge?
   
 CommunityBridge is a platform created by the Linux Foundation to empower developers — and the individuals and organizations who support them — to advance open source sustainability, security, and diversity CommunityBridge brings together project maintainers, contributors, and users to fund open source projects, improve code security, boost the size and diversity of open source communities, and much more.
