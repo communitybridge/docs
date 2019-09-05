@@ -1,16 +1,21 @@
 <details>
+  
   <summary>What is CommunityBridge?</summary>
   
   > CommunityBridge is a platform created by the Linux Foundation to empower developers — and the individuals and organizations who support them — to advance open source sustainability, security, and diversity CommunityBridge brings together project maintainers, contributors, and users to fund open source projects, improve code security, boost the size and diversity of open source communities, and much more.
+
 </details>
 
 <details>
+  
   <summary>Will the CommunityBridge code be open source?</summary>
   
   > With the public release, we also wanted to update everyone on the open source plans for the software itself. We are currently cleaning up the code, enhancing documentation and getting ready to open source the codebase so that it will be easier for developers to learn the code and contribute. We are a nonprofit and don't have an army of developers so it will take a bit more time. We're also working on soliciting feedback from developers about our plans for the license, code upstreaming model, and code of conduct. In particular we are seeking to align the licensing structure with free software principles. We will open source the codebase with the next release targeted for early Q3.
+
 </details>
  
 <details>
+  
   <summary>Why was CommunityBridge created?</summary>
   
   > Open source powers more than 80% of the technology we all use every day, yet many of the world’s most critical developers and open source projects face barriers to growing and sustaining their communities, ranging from challenges with generating funding to improving security to advancing developers’ ability to further excel and contribute.
@@ -24,6 +29,7 @@
 </details>
 
 <details>
+  
   <summary>What services does CommunityBridge provide?</summary>
   
   > Throughout 2019 and 2020, the Linux Foundation will unveil a full suite of CommunityBridge services and tools designed to support maintainers, contributors, aspiring developers, and organizations that create and depend on open source software.
@@ -39,6 +45,7 @@
 </details>
 
 <details>
+  
   <summary>Who can access CommunityBridge?</summary>
   
   > CommunityBridge is open to the public. Anyone can view the public dashboards for open source projects on CommunityBridge, apply to participate as a mentor or mentee, or donate funds to a project. Maintainers of open source projects that have made an impact on the world can apply to run crowdfunding campaigns or mentorship programs through CommunityBridge.
@@ -46,6 +53,7 @@
 </details>
 
 <details>
+  
   <summary>Is there a cost to host my project on CommunityBridge?</summary>
   
   > CommunityBridge is free for open source projects. No fees of any kind are assessed to open source projects on the platform.
@@ -53,6 +61,7 @@
 </details>
 
 <details>
+  
   <summary>Is there a cost to donors?</summary>
   
   > No fees of any kind will be charged for the first $10M USD raised through CommunityBridge; the Linux Foundation will underwrite the platform fees and payment processor fees for these donations. Every dollar of the first $10M raised will be available to the projects hosted on CommunityBridge for their use. Once the $10M milestone has been reached, contributions from individual and corporate donors will be subject to a 5% platform fee plus a payment processor fee.
@@ -60,6 +69,7 @@
 </details>
 
 <details>
+  
   <summary>How do I submit my project to CommunityBridge?</summary>
   
   > Simply log in with your Google, GitHub, or Linux Foundation ID and follow the step-by-step guide. The application process takes just a few minutes, but please note that only project maintainers and/or collaborators with administrative control can submit a project to CommunityBridge to be reviewed for inclusion.
@@ -67,6 +77,7 @@
 </details>
 
 <details>
+  
   <summary>Can I add other maintainers on my project?</summary>
   
   > At this time, CommunityBridge supports one maintainer per project who serves as the admin of that project within the platform.
@@ -74,6 +85,7 @@
 </details>
 
 <details>
+  
   <summary>How are CommunityBridge projects selected?</summary>
   
   > Inclusion of an open source project on CommunityBridge will be subject to the review and approval of the Linux Foundation. Among others, relevant considerations may include confirmation that the project is entirely an open source project; that it has sufficient indicia of broad community usage; and that it is aligned to the Linux Foundation’s purposes for the support of open source projects.
