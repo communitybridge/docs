@@ -5,12 +5,12 @@ CommunityBridge by the Linux Foundation empowers developers⏤and the individual
 
 * [Log In Using Your LFID or Email](Log-In-With-Your-LFID-Email.md)
 
-* [Log in with Google](Log-In-With-Google.md)
+* [Log In with Google](Log-In-With-Google.md)
 
-* [Log in with GitHub](Log-In-with-GitHub.md)
+* [Log In with GitHub](Log-In-With-GitHub.md)
 
-* [Forgot password?](Forgot-Password?.md)
+* [Forgot Password?](Forgot-Password.md)
 
-* [Get Help](Have-a-Question?.md)
+* [Get Help](Have-a-Question.md)
 
-* [Log out of CommunityBridge](Log-Out-of-CommunityBridge.md)
+* [Log Out of CommunityBridge](Log-Out-of-CommunityBridge.md)

@@ -1,9 +1,9 @@
-# Have a Question? Get Help.
+# Have a Question? Get Help
 Get your questions answered and the help you need by making a request to Support.
 
 **Do these steps:**
 
-1. Go to <https://lfx.platform.linuxfoundation.org/> and click **Log me in**:
+1. Go to [communitybridge.org](https://communitybridge.org/) and click **Log me in**:
 
    ![Log me in button](imgs/LFX-CB-Log-me-In.png)
 
