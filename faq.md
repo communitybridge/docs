@@ -56,4 +56,4 @@ Inclusion of an open source project on CommunityBridge will be subject to the re
 
 ## How do I get CommunityBridge support?
   
-Click Support in the top menu or go to [https://support.communitybridge.org/](https://support.communitybridge.org/) to contact CommunityBridge support.
+Click **Support** in the top menu or go to <https://support.communitybridge.org/> to contact CommunityBridge support.

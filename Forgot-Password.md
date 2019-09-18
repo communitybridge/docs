@@ -1,17 +1,15 @@
 # Forgot Your Password?
-If you do not remember your Linux Foundation login password, make a request to get your password reset. A password change invalidates any of your CommunityBridge sessions and you will need to log in again.
+If you do not remember your Linux Foundation login password, you can submit a password reset request. A request sends an email to your registered email address and from that email  you can set a new password.
 
-**Do these steps:**
+**Note:** A password change invalidates any of your CommunityBridge sessions and you will need to log in again.
 
-1. Go to <https://lfx.platform.linuxfoundation.org/> and click **Log me in**:
-
-   ![Log me in button](imgs/LFX-CB-Log-me-In.png)
+1. Go to [communitybridge.org](https://communitybridge.org/) and click **Log me in**.
 
    The Login to LFX pane appears:
 
    ![Login to LFX](imgs/LFX-Login-to-LFX.png)
 
-1. Click **Forgot Password?** ![Forgot Password?](imgs/LFX-Forgot-Password.png).
+1. Click **Forgot Password?**.
 
    The ”Forgot your Password?” pane appears:
 
