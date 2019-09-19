@@ -3,7 +3,7 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
 ## Initial Login
 
-1. Go to [communitybridge.org](https://communitybridge.org/) and  click **Log me in**:
+1. Go to [communitybridge.org](https://communitybridge.org/) and  click **Log me in**.
 
    The Login to LFX form appears:
 
@@ -30,7 +30,7 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
 ## Subsequent Logins
 
-1. Go to [communitybridge.org](https://communitybridge.org/) and click **Log me in**:
+1. Go to [communitybridge.org](https://communitybridge.org/) and click **Log me in**.
 
    The Login to LFX form appears.
 
