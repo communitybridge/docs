@@ -2,7 +2,7 @@
 
 You can connect to Github Account from your CommunityBridge account.
 
-1. On the Account Settings page, click **Connect** ![Connect to GitHub](imgs/GitHub_connect.png) next to the GitHub symbol.
+1. On the Account Settings page, click **Connect** ![Connect to GitHub](imgs/Github_connect.png) next to the GitHub symbol.
 2. You are navigated to the Github login page. Enter your username and password.
 3. The Connect but changes to green color confirming the successful connection. 
 The text on the button changes to *Connected*.
