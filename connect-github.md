@@ -4,13 +4,13 @@ You can connect to Github Account from your CommunityBridge account.
 
 1. On the Account Settings page, click **Connect** ![Connect to GitHub](imgs/Github_connect.png) next to the GitHub symbol.
 2. You are navigated to the Github login page. Enter your username and password.
-3. The Connect but changes to green color confirming the successful connection. 
+3. The Connect button changes to green color confirming the successful connection. ![Connected to GitHub](imgs/github_connected.png)
 The text on the button changes to *Connected*.
 
 # To Disconnect your GitHub Account
 
 1. When you move your mouse over the green *Connected* button, 
 you are provided with an option to *disconnect* from your GitHub account. The text changes to *Disconnect*. 
-![Disconnect from Google](imgs/disconnect_google.png.png)
+![Disconnect from GitHub](imgs/github_disconected.png)
 2. Click **Disconnect**. On the Confirm Social Disconnection window, 
 click **Yes** to confirm your disconnection. You are now disconnected from your GitHub account.
