@@ -15,7 +15,7 @@ The Account settings page is displayed.
  
  - [Set a Timezone](Set-Timezone.md)
  - [Connect to your Gmail account](connect-google-id.md)
- - Connect to your Github account
+ - [Connect to your Github account](connect-github.md)
  - [Add another email ID](Add-email.md)
  - Reset password
  - Close account
