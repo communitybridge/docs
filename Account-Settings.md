@@ -1,7 +1,7 @@
 # How to Manage Your Profile?
 Linux Foundations allows you to edit your existing CommunityBridge account, after you login. You need *Edit permission* to use this feature.
 
-**Note:** You cannot change your User Name, while editing your profile.
+**Note:** You cannot change your User Name while editing your profile.
 
 ## To Edit your profile
 
