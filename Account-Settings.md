@@ -13,9 +13,14 @@ The Account settings page is displayed.
  
  - [Edit First name and Last name](Edit-First-Last-name.md)
  
- - [Set a Timezone](Set-Timezone.md)
+ - [Set a Timezone](set-timezone.md)
+ 
  - [Connect to your Gmail account](connect-google-id.md)
+ 
  - [Connect to your Github account](connect-github.md)
+ 
  - [Add another email ID](Add-email.md)
+ 
  - Reset password
+ 
  - Close account
