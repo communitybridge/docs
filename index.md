@@ -6,19 +6,9 @@ CommunityBridge is a platform created by the Linux Foundation to empower develop
 
   - [Frequently Asked Questions (FAQ)](faq.md)
 
-### Getting Started
+  - [Log In](login/index-login.md)
 
-  - [Log In With Your LFID Email](Log-In-With-Your-LFID-Email.md)
-
-  - [Log In With GitHub](Log-In-With-GitHub.md)
-
-  - [Log In With Google](Log-In-With-Google.md)
-
-  - [Log Out of CommunityBridge](Log-Out-of-CommunityBridge.md)
-
-  - [Forgot Password?](Forgot-Password.md)
-
-  - [Have a Question?](Have-a-Question.md)
+  - [Manage Your Account](Account/index-account.md)
 
 ### Support or Contact
 
