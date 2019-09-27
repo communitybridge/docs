@@ -8,7 +8,7 @@ CommunityBridge is a platform created by the Linux Foundation to empower develop
 
   - [Log In](login/index-login.md)
 
-  - [Manage Your Account](Account/index-account.md)
+  - [Manage Your Account](account/index-account.md)
 
 ### Support or Contact
 

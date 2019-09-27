@@ -5,15 +5,15 @@ Get your questions answered and the help you need by making a request to Support
 
    The Login to LFX form appears:
 
-   ![Login to LFX](imgs/LFX-Login-to-LFX.png)
+   ![Login to LFX](imgs/lfx-login-to-lfx.png)
 
 1. Click **Let us Help** at the bottom of the CommunityBridge pane.
 
-   ![Let us Help](imgs/LFX-Let-us-Help-link.png)
+   ![Let us Help](imgs/lfx-Let-us-help-link.png)
 
    The Request Support form appears:
 
-   ![Request Support](imgs/LFX-Request-Support.png)
+   ![Request Support](imgs/lfx-request-support.png)
 
 1. Complete the form fields and click **Send**.
 
