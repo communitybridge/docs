@@ -1,3 +1,0 @@
-# What are Foundations?
-
-sdfdsf
