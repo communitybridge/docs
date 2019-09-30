@@ -6,3 +6,5 @@ When you sign up to the CommunityBridge, you are asked to provide an email addre
 Do the following to another email address:
 1. On the Account Settings page, click **Add Email**. ![Add another email](imgs/Add_email.png)
 2. Enter the email ID and click **Save** to update the changes.
+
+More on Managing your profile [here](Account-Settings.md).
