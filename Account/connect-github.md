@@ -14,3 +14,5 @@ you are provided with an option to *disconnect* from your GitHub account. The te
 ![Disconnect from GitHub](imgs/github_disconected.png)
 2. Click **Disconnect**. On the Confirm Social Disconnection window, 
 click **Yes** to confirm your disconnection. You are now disconnected from your GitHub account.
+
+More on Managing your profile [here](Account-Settings.md).
