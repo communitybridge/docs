@@ -7,4 +7,6 @@ Once you login to the CommunityBridge, you are directed to the Dashboard. The Da
 |Color on the top of the Foundation card|The level of membership, for example, gold, silver, bronze|
 |Community|The size of the community|
 |Organization|The number of members of your organization contributing to the Foundation|
+|Contributors|The total number of contributors of a community or an organization|
+|Commits|The total number of commits made by the members of the community or an organization|
 
