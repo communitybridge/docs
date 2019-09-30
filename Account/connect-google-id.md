@@ -12,3 +12,5 @@ The text on the button changes to *Connected*.
 1. When you move your mouse over the green *Connected* button, you are provided with an option to *disconnect* from your Google account. The text changes to *Disconnect*. 
 ![Disconnect from Google](imgs/disconnect_google.png.png)
 2. Click **Disconnect**. On the Confirm Social Disconnection window, click **Yes** to confirm your disconnection. You are now disconnected from your social Google account.
+
+More on Managing your profile [here](Account-Settings.md).
