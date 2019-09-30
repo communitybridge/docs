@@ -7,25 +7,25 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
    The Login to LFX form appears:
 
-   ![Login to LFX](imgs/LFX-Login-to-LFX.png)
+   ![Login to LFX](imgs/lfx-login-to-lfx.png)
 
 1. Click **Login with GitHub**.
 
    The Sign in to GitHub page appears.
 
-   ![Sign In to GitHub](imgs/LFX-Sign-in-to-GitHub-page.png)
+   ![Sign In to GitHub](imgs/lfx-sign-in-to-github-page.png)
 
 1. Enter your GitHub user credentials and click **Sign in**.
 
    The Authorize Linux Foundation ID page appears.
 
-   ![Authorize Linux Foundation](imgs/LFX-GitHub-Authorize-LF-ID-Dev.png)
+   ![Authorize Linux Foundation](imgs/lfx-github-authorize—lf-id-dev.png)
 
 1. Click **Authorize linuxfoundation**.
 
    The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
-   ![Sign In Role](imgs/LFX-Sign-In-Role-Identification.png)
+   ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
 
 ## Subsequent Logins

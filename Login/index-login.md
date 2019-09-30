@@ -1,13 +1,13 @@
 # Log In
 
-- [Log In Using Your LFID Email](Log-In-With-Your-LFID-Email.md)
+- [Log In Using Your LFID Email](log-in-with-your-lfid-email.md)
 
-- [Log In With Google](Log-In-With-Google.md)
+- [Log In With Google](log-in-with-google.md)
 
-- [Log In With GitHub](Log-In-With-GitHub.md)
+- [Log In With GitHub](log-in-with-github.md)
 
-- [Forgot Password?](Forgot-Password.md)
+- [Forgot Password?](forgot-password.md)
 
-- [Get Help](Have-a-Question.md)
+- [Get Help](have-a-question.md)
 
-- [Log Out of Community Bridge](Log-Out-of-CommunityBridge.md)
+- [Log Out of Community Bridge](log-out-of-communitybridge.md)
