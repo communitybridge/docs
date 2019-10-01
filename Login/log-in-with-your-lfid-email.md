@@ -1,4 +1,5 @@
-lfx-# Log In Using Your LFID or Email
+# Log In Using Your LFID or Email
+
 You can use your Linux Foundation identity (LFID) or email to log in to CommunityBridge. 
 
 1. Go to [communitybridge.org](https://communitybridge.org/) and click **Log me in**.
