@@ -5,9 +5,9 @@ The various entities of the Dashboard are described in the following table:
 
 |Entity| Description|
 |---|---|
-|FOUNDATIONS MY ORGANIZATION IS A MEMBER OF|The Foundations your organization or you is a member. It also lists the standalone projects of the Foundation.|
-|FOUNDATION PROJECTS SUPPORTED BY OUR MEMBERSHIP|Description|
-|CROWDFUNDING|Descr|
+|Foundations my organization is a member of|The Foundations your organization or you is a member. It also lists the standalone projects of the Foundation.|
+|Foundation projects supported by our membership|Description|
+|Crowdfunding|Descr|
 |Contributor License Agreement (CLA)|desc|
 |Vulnerability Detection|desc|
 |Collaborations|desc|
