@@ -2,7 +2,9 @@
 
 Foundations are a group of individual standalone projects. For example, Kubernetes is a standalone project  and is a member of the CNCF Foundation (Cloud Native Computing Foundation).
 
-This page shows a list of Foundations and the projects you are a member of. Each Foundation card summarizes information such as total number of members and contributors. The Foundatins can be sorted on the basis of Category ![Category](imgs/category.png) and time of access (Recent/Old/New)![Filter by](imgs/Filter_by.png). You can also search a Foundation using the Search ![Search](imgs/search_foundation.png) option. The following table decribes the various entities on the Foundation card:
+This page shows a list of Foundations and the projects you are a member of. Each Foundation card summarizes information such as total number of members and contributors. The Foundatins can be sorted on the basis of Category ![Category](imgs/category.png) and time of access (Recent/Old/New)![Filter by](imgs/Filter_by.png). You can also search a Foundation using the Search ![Search](imgs/search_foundation.png) option. If you click **Learn More** on the project mini-card you will be directed to the [Project Details(https://github.com/communitybridge/communitybridge.github.io/blob/master/Foundation/project_details.md) page.
+
+The following table decribes the various entities on the Foundation card:
 
 |Entity|Description|
 |---|---|
@@ -17,4 +19,4 @@ This page shows a list of Foundations and the projects you are a member of. Each
 
  - [Dashboard](https://github.com/communitybridge/communitybridge.github.io/blob/master/Dashboard/dashboard.md)
  
- - [Project Details]
+ - [Project Details](https://github.com/communitybridge/communitybridge.github.io/blob/master/Foundation/project_details.md)
