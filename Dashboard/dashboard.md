@@ -5,12 +5,7 @@ The various entities of the Dashboard are described in the following table:
 
 |Entity| Description|
 |---|---|
-|Foundations my organization is a member of|The Foundations your organization or you is a member. It also lists the standalone projects of the Foundation.
- - Community - 
- - Organization - 
- - Contributors - 
- - Commits - 
- - Members - |
+|Foundations my organization is a member of|The Foundations your organization or you is a member. It also lists the standalone projects of the Foundation. <ul><li>Community - </li><li>Organization - </li><li>Contributors - </li><li>Commits - </li><li>Members - </li></ul> |
 |Foundation projects supported by our membership|Description|
 |Crowdfunding|Descr|
 |Contributor License Agreement (CLA)|desc|
