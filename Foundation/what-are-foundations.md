@@ -13,7 +13,7 @@ This page shows a list of Foundations and the projects you are a member of. Each
 |Commits|The total number of commits made by the members of the community or an organization|
 
 
-Related Links
+**Related Links**
 
  - [Dashboard](https://github.com/communitybridge/communitybridge.github.io/blob/master/Dashboard/dashboard.md)
  
