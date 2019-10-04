@@ -19,4 +19,4 @@ The following table decribes the various entities on the Foundation card:
 
  - [Dashboard](https://github.com/communitybridge/communitybridge.github.io/blob/master/Dashboard/dashboard.md)
  
- - [Project Details](https://github.com/communitybridge/communitybridge.github.io/blob/master/Foundation/project_details.md)
+ - [Foundation Details](https://github.com/communitybridge/communitybridge.github.io/blob/master/Foundation/foundation_details.md)
