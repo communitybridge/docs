@@ -10,7 +10,8 @@ The various entities of the Dashboard are described in the following table:
   - Organization
   - Contributors
   - Commits
-  - Members|
+  - Members
+  |
 |Foundation projects supported by our membership|The projects you are funding money. They might or might not be Linux Foundation entity.. The details are as follows:<ul><li>cii best practices</li><li>Community - </li><li>Organization - </li><li>Contributors - </li><li>Commits - </li><li>Members - </li></ul> |
 |Crowdfunding|Description. The details are as follows: <ul><li>cii best practices</li><li>Funding - </li><li>Mentorship - </li><li>Donation - </li><li>Subscriber since - </li><li>Sponsors - </li><li>Backers - </li></ul>|
 |Contributor License Agreement (CLA)|Description. The details are as follows: <ul>**CLA management**<li>Pending</li><li>Signed - </li><li>Project - </li><li>Signature - </li><li>Academy Software Foundation - </li></ul><ul>**Developer Whitelist**<li>Requests </li><li>Approved - </li><li>Developer - </li><li>Status - </li></ul>|
