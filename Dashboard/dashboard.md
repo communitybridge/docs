@@ -5,7 +5,7 @@ The various entities of the Dashboard are described in the following table:
 
 |Entity| Description|
 |---|---|
-|Foundations my organization is a member of|The Foundations your organization or you is a member. It also lists the standalone projects of the Foundation. The details are as follows: - community 
+|Foundations my organization is a member of|The Foundations your organization or you is a member. It also lists the standalone projects of the Foundation. The details are as follows: * community 
                                                                                   - Organization
                                                                                   - Contributors|
 |Foundation projects supported by our membership|The projects you are funding money. They might or might not be Linux Foundation entity.. The details are as follows:<ul><li>cii best practices</li><li>Community - </li><li>Organization - </li><li>Contributors - </li><li>Commits - </li><li>Members - </li></ul> |
