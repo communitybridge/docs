@@ -8,3 +8,5 @@ Linux Foundations allows you to edit your existing CommunityBridge account, afte
 1. Click the user name in the top left pane, a drop-down list appears. Select **Edit Profile** from the drop-down list.
 The Account settings page is displayed. 
 2. You can make the following changes to your profile:
+  - [Add a Profile Photo](Add-Profile-Photo.md)
+  - [Edit First name and Last name](Edit-First-Last-Name.md)
