@@ -9,9 +9,8 @@ You can make the following changes to your profile:
 |Component| Description|
 |---|---|
 |<ul><li>Edit First name and Last name|You should have *Edit permission* to do this task. You can update your First name and Last name after you have created an account.
-
 On the Account Settings page, change the name in First name and Last name.
-Click Save to update the changes.
+Click **Save** to update the changes.
 Note: You cannot change your User Name while editing your profile.</li><li>Set TimeZone</li></ul>|
 |||
 
