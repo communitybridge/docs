@@ -1,6 +1,13 @@
 # Adding a Profile Photo
 
-By adding a profile photo to your account, other users will be able to identify you.
+A profile photo provides a visual reference to your identity.
+
+## Before you begin
+
+<ul><li>The supported file formats are JPEG, PNG, and GIF. SVG and TIF are not currently supoorted.</li><li>You can crop your profile picture to show only a specific part of the photo. However, the minimum resolution of your profile pictue should be 128x128 pixels or more.</li></ul>
+
+
+## To edit your profile photo
 
 1. On the Account Settings page, click **Edit Image**.
 2. Navigate to the folder on your drive and select the desired image as your profile picture. 
