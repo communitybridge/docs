@@ -1,6 +1,6 @@
 # Log In or Sign Up
 
-<ul><li>Create an account</li><li>Verify email</li><li>Login</li><li>Forgot password</li><li>Login with Google</li><li>Login with GitHub</li></ul>
+<ul><li>[Create an account](#markdown-header-create-an-account)</li><li>Verify email</li><li>Login</li><li>Forgot password</li><li>Login with Google</li><li>Login with GitHub</li></ul>
 
 ####  **Create an account**
 
