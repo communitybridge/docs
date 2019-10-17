@@ -17,8 +17,6 @@ To create a Linux Foundation account, do the following:
 4. Click the <b>Create Account</b> button. You are directed to the Verify Account page
 5. Click <b>Resend Email</b> if you did not receive a account verification email from Linux Foundations.
 
-[Up](####Create-an-account)
-
 ##  **Verify email**
 
 To verify your account, do the following:
@@ -65,7 +63,7 @@ To reset your password, do the following:
 
    ![Change Password](imgs/lfx-change-password.png)
  
->##  **Login with Google**
+##  **Login with Google**
 
 Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new CommunityBridge  account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
 
@@ -100,6 +98,3 @@ You can use your existing login credentials from GitHub (social network provider
 #####  Subsequent login:
 
 Subsequent logins do not require you to enter your credentials. You can click 'Login with GitHub' option. This one-click approach simplifies your logins.
-
----
----
