@@ -11,7 +11,7 @@ To create a Linux Foundation account, do the following:
 3. Enter your Email address, Username, First name, Last name, and Password.
 4. Click the <b>Create Account</b> button.
 
-![Create Account screen](/imgs/createaccount.png)
+![Create Account](/imgs/createaccount.png)
 
 
 After pressing the 'Create account' button, it will redirect the user to 'Verify your account' screen.
