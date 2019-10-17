@@ -16,37 +16,51 @@ To create a Linux Foundation account, do the following:
 
 To verify your account, do the following:
 
-1. Open your registered Email account and open the email received from Linux Foundations.
+1. Open your registered Email account and open the email received from Linux Foundations. An example is shown below:
 
 ![Home screen](./imgs/3.png)
 
-- Click on the 'Verify account' button.
-- it will redirect the user to 'Log in' screen.
+2. Click <b>Verify account</b>. You will be directed to the Login page.
 
+####  **Login Using your Linux Foundation ID**
 
->#### 3. **Login**
+To log in to your Linux Foundations' account, do the following:
 
-You can log in to your Linux foundation account, by using the following easy steps.
+1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
 
-- Visit [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
-- Enter your Email/Username and password.
-- Click on 'Sign in' button.
+![Login to LFX](imgs/lfx-login-to-lfx.png)
 
-![Home screen](./imgs/4.png)
+2. Enter your Linux Foundation **credentials** and click **Sign in**.
+3.  The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
->#### 4. **Forgot password**
+   ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
+
+#### **Forgot password**
 
 If you do not remember your Linux Foundation login password, you can submit a password reset request. A request sends an email to your registered email address and from that email, you can set a new password.
 
-You can reset your password, using the following steps:
+To reset your password, do the following:
 
-- Visit [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
-- Click on [Forgot password?](https://linuxfoundation-dev.auth0.com/login/?state=g6Fo2SBxei12M2tXYVVMUDdFenR5UTExeEhMZGFGeDlNWmhtM6N0aWTZIHM4dTh2SjhkRlY0cEp4clY4OTlUdHZfSlR0aWJSMGlFo2NpZNkgN0R4dDJva3cxeVRSZ3BxNXBqNk1mbURrMFJGdlphZ0M&client=7Dxt2okw1yTRgpq5pj6MfmDk0RFvZagC&protocol=oauth2&prompt=login&response_type=token%20id_token&redirect_uri=https:%2F%2Fconsole.dev.itx.linuxfoundation.org&scope=manage:projects%20read:projects%20manage:domains%20manage:forwards%20manage:github%20manage:groupsio&audience=https:%2F%2Fapi.dev.itx.linuxfoundation.org%2F&nonce=k7O7GkEu8H3qQA8qxARpvhZqQ06Q6QC.&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xMC4xIn0%3D) link 
+1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
+2. Click **Forgot Password?**. The ”Forgot your Password?” pane appears:
 
-![Home screen](./imgs/5.png)
+   ![Forgot your password?](imgs/lfx-forgot-your-password.png)
+   
+3. Enter your email address or username and click **Reset Password**. A message informs you:
 
-- Enter your username or email address. 
-- Click on the 'Reset password' button.
+   ![Email Sent Message](imgs/lfx-email-has-been-sent.png)
+
+4. Check your email inbox for a “CommunityBridge Reset Password” email and open it. If you did not receive an email, click **Did not Receive Link** in the ”Forgot your Password?” pane to resend the email. The status bar informs you:
+
+   ![New Reset Password Email Sent](imgs/lfx-new-reset-password-email-sent.png)
+   
+5. Click **Reset Password** in the email. The Change Password pane appears:
+
+   ![Change Password](imgs/lfx-change-password.png)
+   
+   
+   
+Click on the 'Reset password' button.
 
 you will receive a link to reset your password, on your registered email address.
 
