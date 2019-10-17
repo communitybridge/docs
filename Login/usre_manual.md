@@ -1,6 +1,6 @@
 # Log In or Sign Up
 
-[Create an account](#### Create-an-account)
+[Create an account](####Create-an-account)
 
 <ul><li>[Create an account](#Create an account)</li><li>Verify email</li><li>Login</li><li>Forgot password</li><li>Login with Google</li><li>Login with GitHub</li></ul>
 
