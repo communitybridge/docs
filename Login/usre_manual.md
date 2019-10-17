@@ -13,7 +13,7 @@ To create a Linux Foundation account, do the following:
 
 You are directed to the Verify Account page
 
-![Home screen](./imgs/2.png)
+![Verify Account](/imgs/verify_account.png)
 
 User can click on the 'Resend Email' button if the user did not receive an email from the Linux foundation on their respective email account.
 
