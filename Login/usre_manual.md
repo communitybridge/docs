@@ -71,7 +71,7 @@ Social login is a single sign-on for end users. You can use your existing login 
 
 1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
 2. On the login screen, click 'Login with Google'
-3.Follow the prompts to enter your email or phone number, your password, and verification code.
+3.Follow the prompts to enter your email or phone number, your password, and the verification code.
 
    The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
@@ -89,7 +89,7 @@ You can use your existing login credentials from GitHub (social network provider
 
 1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
 2. Click 'Login with GitHub' option at the bottom.
-3. Follow the prompts to enter your email or phone number, your password, and verification code.
+3. Follow the prompts to enter your email or phone number, your password, and the verification code.
 
    The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
