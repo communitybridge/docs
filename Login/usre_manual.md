@@ -7,8 +7,6 @@
 - [Login with Google](####Login-with-Google)
 - [Login with GitHub](####Login-with-GitHub)
 
-<ul><li>[Create an account](####Create-an-account)</li><li>Verify email</li><li></li><li></li><li></li><li></li></ul>
-
 ####  Create an account
 
 To create a Linux Foundation account, do the following:
@@ -18,6 +16,8 @@ To create a Linux Foundation account, do the following:
 3. Enter your Email address, Username, First name, Last name, and Password.
 4. Click the <b>Create Account</b> button. You are directed to the Verify Account page
 5. Click <b>Resend Email</b> if you did not receive a account verification email from Linux Foundations.
+
+[Up](####Create-an-account)
 
 ####  **Verify email**
 
