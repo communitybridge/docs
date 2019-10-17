@@ -2,27 +2,21 @@
 
 <ul><li>Create an account</li><li>Verify email</li><li>Login</li><li>Forgot password</li><li>Login with Google</li><li>Login with GitHub</li></ul>
 
->####  **Create an account**
+####  **Create an account**
 
 To create a Linux Foundation account, do the following:
 
 1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
 2. Click <b>Create Account</b> button. ![Create Account](imgs/create_account.png)
 3. Enter your Email address, Username, First name, Last name, and Password.
-4. Click the <b>Create Account</b> button.
+4. Click the <b>Create Account</b> button. You are directed to the Verify Account page
+5. Click <b>Resend Email</b> if you did not receive a account verification email from Linux Foundations.
 
-You are directed to the Verify Account page
+####  **Verify email**
 
-![Verify Account](/imgs/verify_account.png)
+To verify your account, do the following:
 
-User can click on the 'Resend Email' button if the user did not receive an email from the Linux foundation on their respective email account.
-
->#### 2. **Verify email**
-
-To verify the your account, use the following steps :
-
-- Open your respective Email account and open the email received from Linux foundation.
-
+1. Open your registered Email account and open the email received from Linux Foundations.
 
 ![Home screen](./imgs/3.png)
 
