@@ -1,13 +1,13 @@
 # Log In or Sign Up
 
-- [Create an account](####Create-an-account)
-- [Verify email](####Verify-email)
-- [Login](####Login)
-- [Forgot password](####Forgot-password)
-- [Login with Google](####Login-with-Google)
-- [Login with GitHub](####Login-with-GitHub)
+- Create an account
+- Verify email
+- Login
+- Forgot password
+- Login with Google
+- Login with GitHub
 
-####  Create an account
+##  Create an account
 
 To create a Linux Foundation account, do the following:
 
@@ -19,7 +19,7 @@ To create a Linux Foundation account, do the following:
 
 [Up](####Create-an-account)
 
-####  **Verify email**
+##  **Verify email**
 
 To verify your account, do the following:
 
@@ -29,7 +29,7 @@ To verify your account, do the following:
 
 2. Click <b>Verify account</b>. You will be directed to the Login page.
 
-####  **Login Using your Linux Foundation ID**
+##  **Login Using your Linux Foundation ID**
 
 To log in to your Linux Foundations' account, do the following:
 
@@ -42,7 +42,7 @@ To log in to your Linux Foundations' account, do the following:
 
    ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
-#### **Forgot password**
+## **Forgot password**
 
 If you do not remember your Linux Foundation login password, you can submit a password reset request. A request sends an email to your registered email address and from that email, you can set a new password.
 
@@ -65,7 +65,7 @@ To reset your password, do the following:
 
    ![Change Password](imgs/lfx-change-password.png)
  
->####  **Login with Google**
+>##  **Login with Google**
 
 Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new CommunityBridge  account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
 
@@ -83,7 +83,7 @@ Social login is a single sign-on for end users. You can use your existing login 
 
 Subsequent logins do not require you to enter your credentials. You can click 'Login with Google' option. This one-click approach simplifies your logins.
 
-#### **Login with GitHub**
+## **Login with GitHub**
 
 You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
 
