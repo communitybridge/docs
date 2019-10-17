@@ -57,79 +57,42 @@ To reset your password, do the following:
 5. Click **Reset Password** in the email. The Change Password pane appears:
 
    ![Change Password](imgs/lfx-change-password.png)
-   
-   
-   
-Click on the 'Reset password' button.
+ 
+>####  **Login with Google**
 
-you will receive a link to reset your password, on your registered email address.
+Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new CommunityBridge  account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
 
-- if you did not receive the 'Reset password email' on your registered email address, then click on 'Did not receive link' button, which will send you the new ''Reset password email'
+ ##### Initial login: 
 
-![Home screen](./imgs/6.png)
+1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
+2. On the login screen, click 'Login with Google'
+3.Follow the prompts to enter your email or phone number, your password, and verification code.
 
+   The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
-_*Set new password: *_
+   ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
-- Go to your respective email account and open the 'Reset password email you received from the Linux foundation.
+#####  Subsequent login:
 
-![Home screen](./imgs/8.png)
+Subsequent logins do not require you to enter your credentials. You can click 'Login with Google' option. This one-click approach simplifies your logins.
 
-- Click on the 'Reset password' button, it will redirect you to the change password screen.
+#### **Login with GitHub**
 
-![Home screen](./imgs/10.png)
+You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
 
-- Enter your new password in the 'New password' and 'Confirm password' field.
-- Click on the 'Submit' button.
-- The "password changed successfully messaged will get displayed and you will get redirect to the Login screen again, where you can log in to the portal with your Email/Username and a new password.
+ ##### Initial login: 
 
->#### 5. **Login with Google**
+1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
+2. Click 'Login with GitHub' option at the bottom.
+3. Follow the prompts to enter your email or phone number, your password, and verification code.
 
-Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new account. During your initial login, you enter your Google credentials to authenticate your Google account. 
+   The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
- _*Initial login: *_
+![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
-- Visit [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
-- Click on 'Login with Google' option at the bottom
+#####  Subsequent login:
 
-![Home screen](./imgs/11.png)
-
-- Enter your email or phone number and click the next button.
-- Enter your password and click on the Next button.
-- Now enter the username, check the terms and condition checkbox and click on create account.
-
-![Home screen](./imgs/13.jpg)
-
-- It will redirect you to the home screen.
-
-
-_*Subsequent login: *_
-
-Subsequent logins do not require you to enter your credentials.you simply click on 'Login with Google' option. This one-click approach simplifies your logins.
-
->#### 6. **Login with GitHub**
-
-Users can also login using GitHub credentials, using the following steps. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials.you simply click Login with GitHub. This one-click approach simplifies your logins.
-
-_*Initial login: *_
-
-- Visit [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
-- Click on 'Login with GitHub' option at the bottom.
-
-![Home screen](./imgs/14.jpg)
-
-- Enter Username/Email address and password.
-- Click on Sign-in button.
-- Now enter the username, check the terms and condition checkbox and click on create an account.
-
-![Home screen](./imgs/13.jpg)
-
-- It will redirect you to the home screen.
-
-
-_*Subsequent login: *_
-
-Subsequent logins do not require you to enter your credentials.you simply click on 'Login with GitHub' option. This one-click approach simplifies your logins.
+Subsequent logins do not require you to enter your credentials. You can click 'Login with GitHub' option. This one-click approach simplifies your logins.
 
 ---
 ---
