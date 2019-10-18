@@ -25,7 +25,7 @@ To verify your account, do the following:
 
 ![Home screen](./imgs/3.png)
 
-2. Click <b>Verify account</b>. You will be directed to the Login page.
+2. Click <b>Verify Email</b>. You will be directed to the Login page.
 
 ##  **Login Using your Linux Foundation ID**
 
@@ -35,7 +35,7 @@ To log in to your Linux Foundations' account, do the following:
 
 ![Login to LFX](imgs/lfx-login-to-lfx.png)
 
-2. Enter your Linux Foundation **credentials** and click **Sign in**.
+2. Enter your Linux Foundations credentials and click **Sign in**.
 3.  The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
    ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
@@ -65,15 +65,15 @@ To reset your password, do the following:
  
 ##  **Login with Google**
 
-Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new CommunityBridge  account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
+Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new Linux Foundations account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
 
  ##### Initial login: 
 
 1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
-2. On the login screen, click 'Login with Google'
-3.Follow the prompts to enter your email or phone number, your password, and the verification code.
+2. On the login screen, click 'Login with Google'.
+3. Follow the prompts to enter your email or phone number, your password, and the verification code.
 
-   The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
+   The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
    ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
@@ -83,7 +83,7 @@ Subsequent logins do not require you to enter your credentials. You can click 'L
 
 ## **Login with GitHub**
 
-You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
+You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a Linux Foundations account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
 
  ##### Initial login: 
 
@@ -91,7 +91,7 @@ You can use your existing login credentials from GitHub (social network provider
 2. Click 'Login with GitHub' option at the bottom.
 3. Follow the prompts to enter your email or phone number, your password, and the verification code.
 
-   The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
+   The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
 
 ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
