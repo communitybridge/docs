@@ -53,7 +53,7 @@ To reset your password, do the following:
    
 3. Enter your email address or username and click **Reset Password**. A message informs you:
 
-   ![Email Sent Message](imgs/lfx-email-has-been-sent.png)
+   ![Email Sent Message](./imgs/lfx-email-has-been-sent.png)
 
 4. Check your email inbox for a “CommunityBridge Reset Password” email and open it. If you did not receive an email, click **Did not Receive Link** in the ”Forgot your Password?” pane to resend the email. The status bar informs you:
 
