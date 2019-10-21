@@ -67,7 +67,7 @@ To reset your password, do the following:
  
 ##  **Login with Google**
 
-Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the LFX portal rather than creating a new Linux Foundations account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
+Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the Linux Foundations rather than creating a new Linux Foundations account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
 
  ### Initial login: 
 
@@ -75,13 +75,11 @@ Social login is a single sign-on for end users. You can use your existing login 
 2. On the login screen, click 'Login with Google'.
 3. Enter your email or phone number and click **Next**.
 4. Enter your password, and and click **Next**.
-5. Enter the username, accept the **Terms and condition** and click **Create account**.
+5. Enter the Username, accept the **Terms and condition** and click **Create account**.
 
 ![Home screen](./imgs/13.jpg)
 
 The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner, above the Navigation pane:
-
-   ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
 ###  Subsequent login:
 
@@ -89,17 +87,21 @@ Subsequent logins do not require you to enter your credentials. You can click 'L
 
 ## **Login with GitHub**
 
-You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a Linux Foundations account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
+You can use your existing login credentials from GitHub (social network provider) to log in to Linux Foundations rather than creating a Linux Foundations account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
 
  ##### Initial login: 
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 2. Click 'Login with GitHub' option at the bottom.
-3. Follow the prompts to enter your email or phone number, your password, and the verification code.
+![Home screen](./imgs/14.jpg)
 
-   The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
+3. Enter Username or Email address and password.
+4. Click **Sign-in**.
+5. Enter the Username, accept the **Terms and condition** and click **Create account**.
 
-![Sign In Role](imgs/lfx-sign-in-role-identification.png)
+![Home screen](./imgs/13.jpg)
+
+   The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner, above the Navigation pane:
 
 #####  Subsequent login:
 
