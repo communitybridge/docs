@@ -9,13 +9,17 @@
 
 ##  Create an account
 
-To create a Linux Foundation account, do the following:
+If this is the first time you are logging in to Linux Foundations, you need to first create an account. To create a Linux Foundation account, do the following:
 
-1. Go to [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
-2. Click <b>Create Account</b> button. ![Create Account](imgs/create_account.png)
-3. Enter your Email address, Username, First name, Last name, and Password.
-4. Click the <b>Create Account</b> button. You are directed to the Verify Account page
-5. Click <b>Resend Email</b> if you did not receive a account verification email from Linux Foundations.
+1. Go to the [Linux Foundation website.](https://confluence.linuxfoundation.org/)
+2. Click <b>Create Account</b>. ![Create Account](imgs/create_account.png)
+3. Enter your Email address.
+    **_NOTE:_** Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already exisitng email address.
+4. Enter Username, First name, Last name, and Password.
+
+   **_NOTE:_** <ul><li>The Username is alphanumeric and should be atleast 8 characters long.</li><li>The First name and the Last name should be atleast 2 characters long.</li><li>The password must have at least 8 characters, including upper, lower, numeric, and special characters.</li></ul>
+4. Click <b>Create Account</b>. You are directed to the Verify Account page.
+5. Click <b>Resend Email</b> if you did not receive an account verification email from Linux Foundations.
 
 ##  **Verify email**
 
