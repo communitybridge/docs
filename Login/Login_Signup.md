@@ -14,7 +14,7 @@ If this is the first time you are logging in to Linux Foundations, you need to f
 1. Go to the [Linux Foundation website.](https://confluence.linuxfoundation.org/)
 2. Click <b>Create Account</b>. ![Create Account](imgs/create_account.png)
 3. Enter your Email address.
-    **_NOTE:_** Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already exisitng email address.
+    **_NOTE:_** Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already existing email address.
 4. Enter Username, First name, Last name, and Password.
 
    **_NOTE:_** <ul><li>The Username is alphanumeric and should be atleast 8 characters long.</li><li>The First name and the Last name should be atleast 2 characters long.</li><li>The password must have at least 8 characters, including upper, lower, numeric, and special characters.</li></ul>
@@ -23,9 +23,9 @@ If this is the first time you are logging in to Linux Foundations, you need to f
 
 ##  **Verify Email**
 
-When you creeate a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
+When you create a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
 
-1. Open your registered Email account and open the email received from Linux Foundations. An example is shown below:
+1. Open your registered email account and open the email received from Linux Foundations. An example is shown below:
 
 ![Home screen](./imgs/3.png)
 
@@ -74,7 +74,7 @@ Social login is a single sign-on for end users. You can use your existing login 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 2. On the login screen, click 'Login with Google'.
 3. Enter your email or phone number and click **Next**.
-4. Enter your password, and and click **Next**.
+4. Enter your password, and click **Next**.
 5. Enter the Username, accept the **Terms and condition** and click **Create account**.
 
 ![Home screen](./imgs/13.jpg)
