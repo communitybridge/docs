@@ -69,7 +69,7 @@ To reset your password, do the following:
 
 Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the Linux Foundations rather than creating a new Linux Foundations account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
 
- ### Initial login: 
+ #### Initial login: 
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 2. On the login screen, click 'Login with Google'.
@@ -81,7 +81,7 @@ Social login is a single sign-on for end users. You can use your existing login 
 
 The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner, above the Navigation pane:
 
-###  Subsequent login:
+####  Subsequent login:
 
 Subsequent logins do not require you to enter your credentials. You can click 'Login with Google' option. This one-click approach simplifies your logins.
 
@@ -89,7 +89,7 @@ Subsequent logins do not require you to enter your credentials. You can click 'L
 
 You can use your existing login credentials from GitHub (social network provider) to log in to Linux Foundations rather than creating a Linux Foundations account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
 
- ##### Initial login: 
+ #### Initial login: 
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 2. Click 'Login with GitHub' option at the bottom.
@@ -103,6 +103,6 @@ You can use your existing login credentials from GitHub (social network provider
 
    The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner, above the Navigation pane:
 
-#####  Subsequent login:
+####  Subsequent login:
 
 Subsequent logins do not require you to enter your credentials. You can click 'Login with GitHub' option. This one-click approach simplifies your logins.
