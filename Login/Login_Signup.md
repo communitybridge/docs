@@ -118,13 +118,13 @@ Subsequent logins do not require you to enter your credentials. You can click **
 
 If you encounter any problem while doing a task, for example, Login, Create Account,  and you do not get the expected outcome, you are directed to the Get Help page. You can describe the nature of your problem and request help from the Support team.
 
-![Get Help](/imgs/get_help.jpg)
+![Get Help](/imgs/get_help.png)
 
 To submit your help request do the following:
 
 1. Click **Get Help** on the Linux Foundation Get Help page.
 2. On the <i>Request Support</i> page, enter your name, registered email address and the description of your problem. Click **Send**.
 
-   ![Request Support](/imgs/req_support.jpg)
+   ![Request Support](/imgs/req_support.png)
    
 A request is submitted to the Support team.
