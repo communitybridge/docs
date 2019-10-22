@@ -73,7 +73,7 @@ To reset your password, do the following:
 
     ![Change Password](imgs/change_passwd.png)
     
-    **_NOTE:_** The <i>New Password</i> and <i>Confirm Password</i> should be exactly identical. Also,  you can reset your password either via Linux Foundation Email or Username
+    **_NOTE:_** The <i>New Password</i> and <i>Confirm Password</i> should be exactly identical. You can reset your password either via Linux Foundation Email or Username.
  
 ##  **Login with Google**
 
@@ -116,11 +116,12 @@ Subsequent logins do not require you to enter your credentials. You can click **
 
 ## Get Help?
 
-If you encounter any problem while doing a task, for example, Login, Create Account, you are directed to the Get Help page.
+If you encounter any problem while doing a task, for example, Login, Create Account,  and you do not get the expected outcome, you are directed to the Get Help page. You can describe the nature of your problem and request help from the Support team.
 
 ![Get Help](/imgs/get_help.jpg)
 
 To submit your help request do the following:
+
 1. Click **Get Help** on the Linux Foundation Get Help page.
 2. On the <i>Request Support</i> page, enter your name, registered email address and the description of your problem. Click **Send**.
 
