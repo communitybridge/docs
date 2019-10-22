@@ -6,6 +6,7 @@
 - Forgot password
 - Login with Google
 - Login with GitHub
+- Get Help?
 
 ##  Create an account
 
@@ -115,3 +116,16 @@ You can use your existing login credentials from GitHub (social network provider
 ####  Subsequent login:
 
 Subsequent logins do not require you to enter your credentials. You can click **Login with GitHub** option. This one-click approach simplifies your logins.
+
+## Get Help?
+
+If encounter any problem while doing a task, for example, Login, Create Account, you are directed to the Get Help page.
+
+![GEt Help](./imgs/get_help.jpg)
+
+To submit your help request do the following:
+1. Click **Get Help** on the Linux Foundation Get Help page.
+2. On the <i>Request Support</i> page, enter your Name, registered email address and the description of your problem. Click **Send**.
+   ![Request Support](./imgs/req_support.jpg)
+   
+A request is submitted to the Support team.
