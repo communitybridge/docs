@@ -6,7 +6,7 @@
 - Forgot password
 - Login with Google
 - Login with GitHub
-- Get Help?
+- Let us Help?
 
 ##  Create an account
 
