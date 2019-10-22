@@ -11,36 +11,33 @@
 
 If this is the first time you are logging in to Linux Foundation, you need to first create an account. To create a Linux Foundation account, do the following:
 
-1. Go to the [Linux Foundation Login page.](https://sso.linuxfoundation.org/login?state=g6Fo2SBNdGJJelo4Q3NZRlIyX2hxMll3c0NDMkRVRjNwdzBIcaN0aWTZIHYtMmZwU04ta2MtQnR3TWE5RlFwajBLcE5JOWk2OVlOo2NpZNkgVmFGcUU0VjRyWTlTdzhSd2g5RExSMFVGektjbXJSczY&client=VaFqE4V4rY9Sw8Rwh9DLR0UFzKcmrRs6&protocol=samlp)
-2. Click <b>Create Account</b>. 
+1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 
-![Create Account](imgs/create_acct.png)
+2. Click <b>Create Account</b>. ![Create Account](imgs/create_account.png)
 
-3. Enter your email address, username, password, first name, and last name .
+3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name and Password .
    
    **_NOTE:_** <ul><li></li>Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already existing email address.<li>The Username is alphanumeric and should be atleast 8 characters long.</li><li>The First name and the Last name should be atleast 2 characters long.</li><li>The password must have at least 8 characters, including upper, lower, numeric, and special characters.</li></ul>
-4. Select [I accept the Terms of Use and Privacy Policy](https://www.linuxfoundation.org/terms/) option.
-5. Click <b>Create Account</b>.
+   
+   ![Create Account page](imgs/create_acct_linux_foundation.png)
 
-![Create Account](imgs/create_acct_logo.png)
+4. Click <b>Create Account</b>. You are directed to the <i>Verify your account</i> page. If you did not receive an email, click **Resend Email**.
 
-6. A verification message appear on your screen. Click <b>Resend Email</b> if you did not receive an account verification email from Linux Foundations.
-
-![Verification message](imgs/verification_msg.png)
+   ![Verify Account page](imgs/verify_acct_lf.png)
 
 ##  **Verify Email**
 
 When you create a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
 
-1. Open your registered email account and open the email with Subject as **Verify your Linux Foundation ID email** from Linux Foundation. An example of the email is as follows:
+1. Open your registered email account and open the verification email. An example of the email is as follows:
 
-![Verification Email](./imgs/verify_email.png)
+![Verification Email](./imgs/verification_email.png)
 
-2. Click <b>Confirm my email</b>. A confirmation message that the email has been verified is displayed.
+2. Click <Verify Email</b>. A confirmation message that the email has been verified is displayed.
 
 ![Email Verified](./imgs/email_verification.png)
 
-You will be directed to the Home page of Linux Foundation.
+You will be directed to Login page.
 
 ##  **Login with your Linux Foundation Id**
 
