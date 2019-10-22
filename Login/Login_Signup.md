@@ -33,15 +33,15 @@ When you create a new account, an account verification email is sent to your reg
 
 ![Verification Email](./imgs/verification_email.png)
 
-2. Click <Verify Email</b>. A confirmation message that the email has been verified is displayed.
+2. Click <b>Verify Email</b>. A confirmation message that the email has been verified is displayed.
 
 ![Email Verified](./imgs/email_verification.png)
 
-You will be directed to Login page.
+You are directed to Login page.
 
-##  **Login with your Linux Foundation Id**
+##  **Login with your Linux Foundation Id/Email**
 
-After you have created a new account and verified the account, you can now log in using your Linux Foundation ID. To log in to your Linux Foundations' account, do the following:
+After you have created a new account and verified the account, you can now log in using your Linux Foundation ID. To log in to your Linux Foundation's account, do the following:
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/).
 
@@ -75,7 +75,7 @@ To reset your password, do the following:
 
     ![Change Password](imgs/change_passwd.png)
     
-    **_NOTE:_** The New Password and Confirm Password should be exactly identical.
+    **_NOTE:_** The <i>New Password</i> and <i>Confirm Password</i> should be exactly identical. Also,  you can reset your password either via Linux Foundation Email or Username
  
 ##  **Login with Google**
 
@@ -84,14 +84,12 @@ Social login is a single sign-on for end users. You can use your existing login 
  #### Initial login: 
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
-2. On the login screen, click 'Login with Google'.
-3. Enter your email or phone number and click **Next**.
+2. On the login screen, click <b>Login with Google</b> ![Login with Google](imgs/login_google.png).
+3. Enter your Google email or phone number and click **Next**.
 4. Enter your password, and click **Next**.
 5. Enter the Username, accept the **Terms and condition** and click **Create account**.
 
 ![Home screen](./imgs/13.jpg)
-
-The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner, above the Navigation pane:
 
 ####  Subsequent login:
 
@@ -104,7 +102,7 @@ You can use your existing login credentials from GitHub (social network provider
  #### Initial login: 
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
-2. Click 'Login with GitHub' option at the bottom.
+2. On the Login page, click <b>Login with GitHub</b> ![Login with Google](imgs/login_google.png).
 ![Home screen](./imgs/14.jpg)
 
 3. Enter Username or Email address and password.
@@ -112,8 +110,6 @@ You can use your existing login credentials from GitHub (social network provider
 5. Enter the Username, accept the **Terms and condition** and click **Create account**.
 
 ![Home screen](./imgs/13.jpg)
-
-   The Linux Foundations' Dashboard appears. Your user account appears in the top-right corner, above the Navigation pane:
 
 ####  Subsequent login:
 
