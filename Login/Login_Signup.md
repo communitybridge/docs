@@ -37,7 +37,7 @@ After you have created a new account and verified the account, you can now log i
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 
-![Login to LFX](imgs/lfx-login-to-lfx.png)
+![Login to Linux](imgs/lfx-login-to-lfx.png)
 
 2. Enter your Linux Foundations credentials and click **Sign in**.
 3. Your user account name appears in the top-right corner, above the Navigation pane.
