@@ -62,11 +62,8 @@ To reset your password, do the following:
    
 3. Enter your Email/Username and click **Reset Password**. A confirmation message informs you:
 
-   ![Email Sent Message](./imgs/lfx-email-has-been-sent.png)
-
-4. Check your email inbox for a “Reset Password” email and open it. If you did not receive an email, click **Did not Receive Link** in the ”Forgot your Password?” pane to resend the email. The status bar informs you:
-
    ![New Reset Password Email Sent](imgs/did_nt_rec_link.png)
+    If you did not receive an email, click **Did not Receive Link** in the ”Forgot your Password?” pane to resend the email. 
    
 5. Open the <i>Reset Password</i> email from your registered email account. 
 
