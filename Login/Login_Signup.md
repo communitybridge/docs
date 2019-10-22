@@ -16,9 +16,9 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 
 2. Click <b>Create Account</b>. ![Create Account](imgs/create_account.png)
 
-3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name and Password .
+3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name and Password.
    
-   **_NOTE:_** <ul><li>Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already existing email address.</li><li>The Username is alphanumeric and should be atleast 8 characters long.</li><li>The First name and the Last name should be atleast 2 characters long.</li><li>The password must have at least 8 characters, including upper, lower, numeric, and special characters.</li></ul>
+   **_NOTE:_** <ul><li>Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already existing email address.</li><li>The Username is alphanumeric and should be at least 8 characters long.</li><li>The First name and the Last name should be at least 2 characters long.</li><li>The password must have at least 8 characters, including upper, lower, numeric, and special characters.</li></ul>
    
    ![Create Account page](imgs/create_acct_linux_foundation.png)
 
@@ -119,13 +119,14 @@ Subsequent logins do not require you to enter your credentials. You can click **
 
 ## Get Help?
 
-If encounter any problem while doing a task, for example, Login, Create Account, you are directed to the Get Help page.
+If you encounter any problem while doing a task, for example, Login, Create Account, you are directed to the Get Help page.
 
-![GEt Help](./imgs/get_help.jpg)
+![Get Help](/imgs/get_help.jpg)
 
 To submit your help request do the following:
 1. Click **Get Help** on the Linux Foundation Get Help page.
-2. On the <i>Request Support</i> page, enter your Name, registered email address and the description of your problem. Click **Send**.
-   ![Request Support](./imgs/req_support.jpg)
+2. On the <i>Request Support</i> page, enter your name, registered email address and the description of your problem. Click **Send**.
+
+   ![Request Support](/imgs/req_support.jpg)
    
 A request is submitted to the Support team.
