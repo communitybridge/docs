@@ -87,13 +87,13 @@ Social login is a single sign-on for end users. You can use your existing login 
 2. On the login screen, click <b>Login with Google</b> ![Login with Google](imgs/login_google.png).
 3. Enter your Google email or phone number and click **Next**.
 4. Enter your password, and click **Next**.
-5. Enter the Username, accept the **Terms and condition** and click **Create account**.
+5. Enter the Username, and click **Create account**.
 
 ![Home screen](./imgs/13.jpg)
 
 ####  Subsequent login:
 
-Subsequent logins do not require you to enter your credentials. You can click 'Login with Google' option. This one-click approach simplifies your logins.
+Subsequent logins do not require you to enter your credentials. You can click **Login with Google** option. This one-click approach simplifies your logins.
 
 ## **Login with GitHub**
 
@@ -103,14 +103,15 @@ You can use your existing login credentials from GitHub (social network provider
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 2. On the Login page, click <b>Login with GitHub</b> ![Login with Google](imgs/login_google.png).
-![Home screen](./imgs/14.jpg)
-
-3. Enter Username or Email address and password.
+3. On the GitHub Sign page, enter Username or Email address and password.
+   
+   ![Home screen](./imgs/14.jpg)
+   
 4. Click **Sign-in**.
-5. Enter the Username, accept the **Terms and condition** and click **Create account**.
+5. Enter the Username, and click **Create account**.
 
 ![Home screen](./imgs/13.jpg)
 
 ####  Subsequent login:
 
-Subsequent logins do not require you to enter your credentials. You can click 'Login with GitHub' option. This one-click approach simplifies your logins.
+Subsequent logins do not require you to enter your credentials. You can click **Login with GitHub** option. This one-click approach simplifies your logins.
