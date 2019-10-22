@@ -32,7 +32,7 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 
 When you create a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
 
-1. Open your registered email account and open the email with subject **Verify your Linux Foundation ID email** from Linux Foundation. An example of the email is as follows:
+1. Open your registered email account and open the email with Subject as **Verify your Linux Foundation ID email** from Linux Foundation. An example of the email is as follows:
 
 ![Verification Email](./imgs/verify_email.png)
 
