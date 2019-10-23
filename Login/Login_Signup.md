@@ -2,7 +2,7 @@
 
 - [Create an account](#create-an-account)
   - [Verify email](#verify-email)
-- [Login with your Linux Foundation ID](#Login-with-your-Linux-Foundation-ID)
+- [Login with Linux Foundation ID](#Login-with-Linux-Foundation-ID)
 - [Forgot password](#Forgot-password)
 - [Login with Google](#Login-with-Google)
 - [Login with GitHub](#Login-with-GitHub)
