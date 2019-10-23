@@ -25,7 +25,9 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 4. Click <b>Create Account</b>. You are directed to the <i>Verify your account</i> page. If you did not receive an email, click **Resend Email**.
 
    ![Verify Account page](imgs/verify_acct_lf.png)
-[Top](#Log-in-or-Sign-up)
+   
+[Top of page](#Log-in-or-Sign-up)
+
 ###  **Verify Email**
 
 When you create a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
@@ -39,7 +41,9 @@ When you create a new account, an account verification email is sent to your reg
 ![Email Verified](./imgs/email_verification.png)
 
 You are directed to Login page.
-[Top](#Log-in-or-Sign-up)
+
+[Top of page](#Log-in-or-Sign-up)
+
 ##  **Login with Linux Foundation ID**
 
 After you have created a new account and verified the account, you can now log in using your Linux Foundation ID/Email. To log in to your Linux Foundation's account, do the following:
@@ -49,6 +53,8 @@ After you have created a new account and verified the account, you can now log i
 2. Enter your Linux Foundation Email/Username and Password, and click **Sign in**.
 
 ![Login to LF Confluence](imgs/Login_with_LF.png). You are now logged in to Linux Foundation.
+
+[Top of page](#Log-in-or-Sign-up)
 
 ## **Forgot password**
 
@@ -74,7 +80,9 @@ To reset your password, do the following:
     ![Change Password](imgs/change_passwd.png)
     
     **_NOTE:_** The <i>New Password</i> and <i>Confirm Password</i> should be exactly identical. You can reset your password either via Linux Foundation Email or Username.
- 
+
+[Top of page](#Log-in-or-Sign-up)
+
 ##  **Login with Google**
 
 Social login is a single sign-on for end users. You can use your existing login credentials from Google to log in to the Linux Foundations rather than creating a new Linux Foundations account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**.
@@ -92,6 +100,8 @@ Social login is a single sign-on for end users. You can use your existing login 
 ####  Subsequent login:
 
 Subsequent logins do not require you to enter your credentials. You can click **Login with Google** option. This one-click approach simplifies your logins.
+
+[Top of page](#Log-in-or-Sign-up)
 
 ## **Login with GitHub**
 
@@ -114,6 +124,8 @@ You can use your existing login credentials from GitHub (social network provider
 
 Subsequent logins do not require you to enter your credentials. You can click **Login with GitHub** option. This one-click approach simplifies your logins.
 
+[Top of page](#Log-in-or-Sign-up)
+
 ## Get Help
 
 If you encounter any problem while doing a task, for example, Login, Create Account,  and you do not get the expected outcome, you are directed to the Get Help page. You can describe the nature of your problem and request help from the Support team.
@@ -128,3 +140,5 @@ To submit your help request do the following:
    ![Request Support](./imgs/req_support.png)
    
 A request is submitted to the Support team.
+
+[Top of page](#Log-in-or-Sign-up)
