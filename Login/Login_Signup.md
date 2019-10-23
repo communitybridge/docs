@@ -4,7 +4,7 @@
   - [Verify email](#verify-email)
 - [Login with your Linux Foundation ID](#Login-with-your-Linux-Foundation-ID)
 - [Forgot password](#Forgot-password)
-- Login with Google(#Login--with-Google)
+- Login with Google(#Login-with-Google)
 - [Login with GitHub](#Login-with-GitHub)
 - [Let us Help?](#Let-us-Help?)
 
