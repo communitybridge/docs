@@ -25,7 +25,7 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 4. Click <b>Create Account</b>. You are directed to the <i>Verify your account</i> page. If you did not receive an email, click **Resend Email**.
 
    ![Verify Account page](imgs/verify_acct_lf.png)
-
+[Top](#Log-in-or-Sign-up)
 ###  **Verify Email**
 
 When you create a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
@@ -39,7 +39,7 @@ When you create a new account, an account verification email is sent to your reg
 ![Email Verified](./imgs/email_verification.png)
 
 You are directed to Login page.
-
+[Top](#Log-in-or-Sign-up)
 ##  **Login with Linux Foundation ID**
 
 After you have created a new account and verified the account, you can now log in using your Linux Foundation ID/Email. To log in to your Linux Foundation's account, do the following:
