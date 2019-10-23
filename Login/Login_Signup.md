@@ -1,11 +1,11 @@
 # Log In or Sign Up
 
-- Create an account
-- Verify email
+- [Create an account](#create-an-account)
+  - Verify email
 - Login with your Linux Foundation Id
 - Forgot password
 - Login with Google
-- Login with GitHub
+- [Login with GitHub](#Login-with-GitHub)
 - Let us Help?
 
 ##  Create an account
@@ -26,7 +26,7 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 
    ![Verify Account page](imgs/verify_acct_lf.png)
 
-##  **Verify Email**
+###  **Verify Email**
 
 When you create a new account, an account verification email is sent to your registered email address. To verify your account, do the following:
 
