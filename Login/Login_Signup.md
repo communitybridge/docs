@@ -1,12 +1,12 @@
 # Log In or Sign Up
 
 - [Create an account](#create-an-account)
-  - Verify email
-- Login with your Linux Foundation Id
-- Forgot password
-- Login with Google
+  - [Verify email](#verify-email)
+- [Login with your Linux Foundation ID](#Login-with-your-Linux-Foundation-ID)
+- [Forgot password](#Forgot-password)
+- Login with Google(#Login--with-Google)
 - [Login with GitHub](#Login-with-GitHub)
-- Let us Help?
+- [Let us Help?](#Let-us-Help?)
 
 ##  Create an account
 
@@ -40,7 +40,7 @@ When you create a new account, an account verification email is sent to your reg
 
 You are directed to Login page.
 
-##  **Login with your Linux Foundation Id/Email**
+##  **Login with your Linux Foundation ID/Email**
 
 After you have created a new account and verified the account, you can now log in using your Linux Foundation ID. To log in to your Linux Foundation's account, do the following:
 
