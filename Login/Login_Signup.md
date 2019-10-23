@@ -16,7 +16,7 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 
 2. Click <b>Create Account</b>. ![Create Account](imgs/create_account.png)
 
-3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name and Password.
+3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name, and Password.
    
    **_NOTE:_** <ul><li>Make sure you enter a valid email address. Also, because you are creating an account for the first time, you cannot enter an already existing email address.</li><li>The Username is alphanumeric and should be at least 8 characters long.</li><li>The First name and the Last name should be at least 2 characters long.</li><li>The password must have at least 8 characters, including upper, lower, numeric, and special characters.</li></ul>
    
@@ -42,7 +42,7 @@ You are directed to Login page.
 
 ##  **Login with Linux Foundation ID**
 
-After you have created a new account and verified the account, you can now log in using your Linux Foundation ID. To log in to your Linux Foundation's account, do the following:
+After you have created a new account and verified the account, you can now log in using your Linux Foundation ID/Email. To log in to your Linux Foundation's account, do the following:
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/).
 
@@ -69,7 +69,7 @@ To reset your password, do the following:
 
    ![Reset Password](imgs/reset_passwd.png)
 
-6. Click **Reset Password** in the email. On the <i>Change Password</i> page, enter New Password and Confirm Password, and click **Submit**. Your passowrd is reset.
+6. Click **Reset Password** in the email. On the <i>Change Password</i> page, enter New Password and Confirm Password, and click **Submit**. Your password is reset.
 
     ![Change Password](imgs/change_passwd.png)
     
