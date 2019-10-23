@@ -6,7 +6,7 @@
 - [Forgot password](#Forgot-password)
 - [Login with Google](#Login-with-Google)
 - [Login with GitHub](#Login-with-GitHub)
-- [Get Help?](#Get-Help?)
+- [Get Help](#Get-Help)
 
 ##  Create an account
 
@@ -114,7 +114,7 @@ You can use your existing login credentials from GitHub (social network provider
 
 Subsequent logins do not require you to enter your credentials. You can click **Login with GitHub** option. This one-click approach simplifies your logins.
 
-## Get Help?
+## Get Help
 
 If you encounter any problem while doing a task, for example, Login, Create Account,  and you do not get the expected outcome, you are directed to the Get Help page. You can describe the nature of your problem and request help from the Support team.
 
