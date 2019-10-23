@@ -6,7 +6,7 @@
 - [Forgot password](#Forgot-password)
 - [Login with Google](#Login-with-Google)
 - [Login with GitHub](#Login-with-GitHub)
-- [Let us Help?](#Let-us-Help?)
+- [Get Help?](#Get-Help?)
 
 ##  Create an account
 
