@@ -23,7 +23,7 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
 1. Click **Authorize linuxfoundation**.
 
-   The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
+   The CommunityBridge Dashboard appears. Your user account appears in the top-left corner and above the Navigation pane:
 
    ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
