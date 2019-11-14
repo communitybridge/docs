@@ -10,7 +10,7 @@ You can use your Linux Foundation identity (LFID) or email to log in to Communit
 
 1. Enter your Linux Foundation **credentials** and click **Sign in**.
 
-   The CommunityBridge Dashboard appears. Your user account appears in the top-right corner and above the Navigation pane:
+   The CommunityBridge Dashboard appears. Your user account appears in the top-left corner and above the Navigation pane:
 
    ![Sign In Role](imgs/lfx-sign-in-role-identification.png)
 
