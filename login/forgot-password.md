@@ -34,3 +34,5 @@ If you do not remember your Linux Foundation login password, you can submit a pa
 
    The status bar confirms that your password is updated.
 
+7. This just a sample step.
+
