@@ -8,6 +8,7 @@ You can set the timezone to a specified timezone in Linux Foundtions/ CommunityB
 2. Click **Save** to save the update.
 3. This is from Github to GitBook.
 4. This is step 4.
+5. This is step 5.
 
 More on Managing your profile [here](account-settings.md).
 
