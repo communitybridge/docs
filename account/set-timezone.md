@@ -1,6 +1,6 @@
 # Set Timezone
 
-You can set the timezone to a specified timezone.
+You can set the timezone to a specified timezone in Linux Foundtions.
 
 ## To set the Timezone
 
