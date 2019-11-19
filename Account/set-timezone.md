@@ -10,4 +10,6 @@ You can set the timezone to a specified timezone.
 
 2. Click **Save** to save the update.
 
+3. This is bullet 3.
+
 More on Managing your profile [here](Account-Settings.md).
