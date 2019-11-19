@@ -6,6 +6,7 @@ You can set the timezone to a specified timezone in Linux Foundtions.
 
 1. Select the timezone from the list.  ![Set Timezone](../.gitbook/assets/set-timezone.png) 
 2. Click **Save** to save the update.
+3. This is from Github to GitBook.
 
 More on Managing your profile [here](account-settings.md).
 
