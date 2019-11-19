@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [CommunityBridge Documentation](index.md)
+* [CommunityBridge Documentation](README.md)
 * [Account](account/README.md)
   * [How to Manage Your Profile?](account/account-settings.md)
   * [Edit First and Last Name](account/edit-first-last-name.md)
