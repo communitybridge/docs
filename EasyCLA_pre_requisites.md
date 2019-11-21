@@ -40,6 +40,15 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs.
 
+As the Project Manager, following are the pre-requisites to get access to EasyCLA:
+
+1. If you do not have a Linux Foundation identification and credentials, go to https://identity.linuxfoundation.org and complete the form to sign up.
+1. Share your sign-up username with the CLA administration team at docucla@linuxfoundation.org.
+1. Provide sample ICLA and CCLA template documents to the CLA administration team at docucla@linuxfoundation.org.
+1. After the CLA administration team confirms your setup, you can Sign In to the CLA Management Console to do the EasyCLA activities for Project Managers.
+
+Fill out this form to provide information : [Pre-requisite form for Project Manager ](https://forms.gle/RuUgDKVg6m6Lj7LBA)
+
 With EasyCLA, you do the following CLA set-up tasks:
 
 1. [Install the EasyCLA Application](install-the-easycla-application.md).
@@ -63,7 +72,16 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 ### Corporate CLA Manager
 
-You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. With this responsibility, you use EasyCLA to:
+You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA.
+
+1. As the CLA Manager or the CLA signatory, following are the pre-requisites for the CLA tasks after you Sign In to the CLA Corporate Console:
+
+1. CLA manager: Add a Company to a Project.
+1. CLA signatory: Sign a Corporate CLA on behalf of the company and Review and Sign a Corporate CLA by Request—this signatory has legal authority to sign documents on behalf of the company.
+
+1. CLA manager: Whitelist Contributors—each whitelist applies to the project for which the company has signed a Corporate CLA.
+
+With this responsibility, you use EasyCLA to:
 
 * [Add companies to a project](add-a-company-to-a-project.md).
 * [Whitelist contributors](whitelist-contributors.md).
