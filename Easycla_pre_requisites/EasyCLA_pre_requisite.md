@@ -47,7 +47,7 @@ As the Project Manager, **fill out this pre-requisite form to provide the follow
 - Project Details.
 - Sample ICLA and CCLA template documents.
 
-The CLA ADministrator team will get back within a week. If you have any questions, contact the CLA Support team.
+The CLA Administrator team will get back within a week. If you have any questions, contact the [CLA Support team](https://jira.linuxfoundation.org/servicedesk/customer/portal/4).
 After the CLA administration team confirms your setup, you can sign in to the CLA Management Console to do the EasyCLA activities for project managers.
 
 With EasyCLA, you do the following CLA set-up tasks:
@@ -56,15 +56,6 @@ With EasyCLA, you do the following CLA set-up tasks:
 2. Add a CLA Group.
 3. Add Contributor License Agreements).
 4. Add GitHub repositories or Gerrit instances to enforce CLA monitoring.
-
-### Contributor
-
-You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
-
-* **GitHub company contributor**: confirm your association with a company that has a signed Corporate Contributor License Agreement.
-* **GitHub individual contributor**: sign an Individual Contributor License Agreement.
-* **Gerrit company contributor**: confirm your association with a company that has a signed Corporate Contributor License Agreement.
-* **Gerrit individual contributor**: sign an Individual Contributor License Agreement.
 
 ### Corporate CLA Manager
 
@@ -76,13 +67,22 @@ As the CLA Manager or the CLA signatory, **Fill out this pre-requisite form to p
 - Project details
 - Company details
 
-The CLA ADministrator team will get back within a week. If you have any questions, contact the CLA Support team.
+The CLA ADministrator team will get back within a week. If you have any questions, contact the [CLA Support team](https://jira.linuxfoundation.org/servicedesk/customer/portal/4).
 
 Following are the CLA tasks after you Sign In to the CLA Corporate Console:
 
 1. CLA manager: Add a Company to a Project.
 1. CLA signatory: Sign a Corporate CLA on behalf of the company and Review and Sign a Corporate CLA by Request—this signatory has legal authority to sign documents on behalf of the company.
 1. CLA manager: Whitelist Contributors—each whitelist applies to the project for which the company has signed a Corporate CLA.
+
+### Contributor
+
+You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
+
+* **GitHub company contributor**: confirm your association with a company that has a signed Corporate Contributor License Agreement.
+* **GitHub individual contributor**: sign an Individual Contributor License Agreement.
+* **Gerrit company contributor**: confirm your association with a company that has a signed Corporate Contributor License Agreement.
+* **Gerrit individual contributor**: sign an Individual Contributor License Agreement.
 
 ### Corporate CLA Signatory
 
