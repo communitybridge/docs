@@ -40,12 +40,14 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs.
 
-As the Project Manager, following are the **pre-requisites** to get access to EasyCLA:
+As the Project Manager, **fill out this pre-requisite form to provide the following information** : [Pre-requisite form for Project Manager](https://forms.gle/RuUgDKVg6m6Lj7LBA)
 
-1. If you do not have a Linux Foundation identification and credentials, go to [https://identity.linuxfoundation.org](https://identity.linuxfoundation.org) and complete the form to sign up.
-2. Share your sign-up username with the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
-3. Provide sample ICLA and CCLA template documents to the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
+- Linux Foundation identification (LFID).
+- Contact information.
+- Project Details.
+- Sample ICLA and CCLA template documents.
 
+The CLA ADministrator team will get back within a week. If you have any questions, contact the CLA Support team.
 After the CLA administration team confirms your setup, you can sign in to the CLA Management Console to do the EasyCLA activities for project managers.
 
 **Fill out this pre-requisite form to provide information** : [Pre-requisite form for Project Manager](https://forms.gle/RuUgDKVg6m6Lj7LBA)
@@ -70,18 +72,19 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA.
 
-As the CLA Manager or the CLA signatory, following are the **pre-requisites** for the CLA tasks after you Sign In to the CLA Corporate Console:
+As the CLA Manager or the CLA signatory, **Fill out this pre-requisite form to provide the following information** : [Pre-requisite form for CLA Manager](https://forms.gle/RiW8CVBxX7QTE9JQA) 
+
+- Linux Foundation Identification (LFID)
+- Project details
+- Company details
+
+The CLA ADministrator team will get back within a week. If you have any questions, contact the CLA Support team.
+
+Following are the CLA tasks after you Sign In to the CLA Corporate Console:
 
 1. CLA manager: Add a Company to a Project.
 1. CLA signatory: Sign a Corporate CLA on behalf of the company and Review and Sign a Corporate CLA by Request—this signatory has legal authority to sign documents on behalf of the company.
 1. CLA manager: Whitelist Contributors—each whitelist applies to the project for which the company has signed a Corporate CLA.
-
-**Fill out this pre-requisite form to provide information** : [Pre-requisite form for CLA Manager](https://forms.gle/RiW8CVBxX7QTE9JQA)
-
-With this responsibility, you use EasyCLA to:
-
-* Add companies to a project.
-* Whitelist contributors.
 
 ### Corporate CLA Signatory
 
