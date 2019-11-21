@@ -91,3 +91,5 @@ You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to 
 * Sign a Corporate CLA on behalf of the company - as a signatory you need to have legal authority to sign documents on behalf of the company.
 * Review and sign a Corporate CLA by request.
 
+The CLA ADministrator team will get back within a week. If you have any questions, contact the CLA Support team.
+
