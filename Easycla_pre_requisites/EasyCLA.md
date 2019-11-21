@@ -40,35 +40,31 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs.
 
-As the Project Manager, following are the pre-requisites to get access to EasyCLA:
+As the Project Manager, following are the **pre-requisites** to get access to EasyCLA:
 
-1. If you do not have a Linux Foundation identification and credentials, go to https://identity.linuxfoundation.org and complete the form to sign up.
-1. Share your sign-up username with the CLA administration team at docucla@linuxfoundation.org.
-1. Provide sample ICLA and CCLA template documents to the CLA administration team at docucla@linuxfoundation.org.
-1. After the CLA administration team confirms your setup, you can Sign In to the CLA Management Console to do the EasyCLA activities for Project Managers.
+1. If you do not have a Linux Foundation identification and credentials, go to [https://identity.linuxfoundation.org](https://identity.linuxfoundation.org) and complete the form to sign up.
+2. Share your sign-up username with the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
+3. Provide sample ICLA and CCLA template documents to the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
 
-Fill out this form to provide information : [Pre-requisite form for Project Manager ](https://forms.gle/RuUgDKVg6m6Lj7LBA)
+After the CLA administration team confirms your setup, you can sign in to the CLA Management Console to do the EasyCLA activities for project managers.
+
+Fill out this form to provide information : [Pre-requisite form for Project Manager](https://forms.gle/RuUgDKVg6m6Lj7LBA)
 
 With EasyCLA, you do the following CLA set-up tasks:
 
-1. [Install the EasyCLA Application](install-the-easycla-application.md).
-2. [Add a CLA Group](add-a-cla-group.md).
-3. [Add Contributor License Agreements](https://github.com/communitybridge/easycla/tree/9d90365534e45b86032affe9fbdcaab3f4cd16a2/docs/add-contributor-license-agreements/README.md).
-4. Add [GitHub repositories](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) or [Gerrit instances](add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md) to enforce CLA monitoring.
-
-At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
-
-* [View Current and Previous CLA PDFs](view-current-and-previous-cla-pdfs.md)
-* [Manage CLA Group Details](manage-cla-group-details.md)
+1. Install the EasyCLA Application.
+2. Add a CLA Group.
+3. Add Contributor License Agreements).
+4. Add GitHub repositories or Gerrit instances to enforce CLA monitoring.
 
 ### Contributor
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **GitHub company** contributor: [confirm your association with a company](contribute-to-a-github-company-project.md) that has a signed Corporate Contributor License Agreement.
-* **GitHub individual** contributor: [sign an Individual Contributor License Agreement](sign-a-cla-as-an-individual-contributor-to-github.md).
-* **Gerrit company** contributor: [confirm your association with a company](contribute-to-a-gerrit-project.md) that has a signed Corporate Contributor License Agreement.
-* **Gerrit individual** contributor: [sign an Individual Contributor License Agreement](contribute-to-a-gerrit-project.md).
+* **GitHub company** contributor: confirm your association with a company that has a signed Corporate Contributor License Agreement.
+* **GitHub individual** contributor: sign an Individual Contributor License Agreement.
+* **Gerrit company** contributor: confirm your association with a company that has a signed Corporate Contributor License Agreement.
+* **Gerrit individual** contributor: sign an Individual Contributor License Agreement.
 
 ### Corporate CLA Manager
 
@@ -83,13 +79,13 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authori
 
 With this responsibility, you use EasyCLA to:
 
-* [Add companies to a project](add-a-company-to-a-project.md).
-* [Whitelist contributors](whitelist-contributors.md).
+* Add companies to a project.
+* Whitelist contributors.
 
 ### Corporate CLA Signatory
 
 You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
 
-* [Sign a Corporate CLA on behalf of the company](sign-a-corporate-cla-on-behalf-of-the-company.md)—as a signatory you need to have legal authority to sign documents on behalf of the company.
-* [Review and sign a Corporate CLA by request](review-and-sign-a-corporate-cla-by-request.md).
+* Sign a Corporate CLA on behalf of the company - as a signatory you need to have legal authority to sign documents on behalf of the company.
+* Review and sign a Corporate CLA by request.
 
