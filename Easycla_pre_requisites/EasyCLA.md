@@ -48,7 +48,7 @@ As the Project Manager, following are the **pre-requisites** to get access to Ea
 
 After the CLA administration team confirms your setup, you can sign in to the CLA Management Console to do the EasyCLA activities for project managers.
 
-Fill out this form to provide information : [Pre-requisite form for Project Manager](https://forms.gle/RuUgDKVg6m6Lj7LBA)
+**Fill out this pre-requisite form to provide information** : [Pre-requisite form for Project Manager](https://forms.gle/RuUgDKVg6m6Lj7LBA)
 
 With EasyCLA, you do the following CLA set-up tasks:
 
@@ -70,12 +70,13 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA.
 
-1. As the CLA Manager or the CLA signatory, following are the pre-requisites for the CLA tasks after you Sign In to the CLA Corporate Console:
+As the CLA Manager or the CLA signatory, following are the **pre-requisites** for the CLA tasks after you Sign In to the CLA Corporate Console:
 
 1. CLA manager: Add a Company to a Project.
 1. CLA signatory: Sign a Corporate CLA on behalf of the company and Review and Sign a Corporate CLA by Request—this signatory has legal authority to sign documents on behalf of the company.
-
 1. CLA manager: Whitelist Contributors—each whitelist applies to the project for which the company has signed a Corporate CLA.
+
+**Fill out this pre-requisite form to provide information** : [Pre-requisite form for CLA Manager](https://forms.gle/RiW8CVBxX7QTE9JQA)
 
 With this responsibility, you use EasyCLA to:
 
