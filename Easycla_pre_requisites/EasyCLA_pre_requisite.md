@@ -50,8 +50,6 @@ As the Project Manager, **fill out this pre-requisite form to provide the follow
 The CLA ADministrator team will get back within a week. If you have any questions, contact the CLA Support team.
 After the CLA administration team confirms your setup, you can sign in to the CLA Management Console to do the EasyCLA activities for project managers.
 
-**Fill out this pre-requisite form to provide information** : [Pre-requisite form for Project Manager](https://forms.gle/RuUgDKVg6m6Lj7LBA)
-
 With EasyCLA, you do the following CLA set-up tasks:
 
 1. Install the EasyCLA Application.
