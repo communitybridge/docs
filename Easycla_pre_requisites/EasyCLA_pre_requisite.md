@@ -61,10 +61,10 @@ With EasyCLA, you do the following CLA set-up tasks:
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **GitHub company** contributor: confirm your association with a company that has a signed Corporate Contributor License Agreement.
-* **GitHub individual** contributor: sign an Individual Contributor License Agreement.
-* **Gerrit company** contributor: confirm your association with a company that has a signed Corporate Contributor License Agreement.
-* **Gerrit individual** contributor: sign an Individual Contributor License Agreement.
+* **GitHub company contributor**: confirm your association with a company that has a signed Corporate Contributor License Agreement.
+* **GitHub individual contributor**: sign an Individual Contributor License Agreement.
+* **Gerrit company contributor**: confirm your association with a company that has a signed Corporate Contributor License Agreement.
+* **Gerrit individual contributor**: sign an Individual Contributor License Agreement.
 
 ### Corporate CLA Manager
 
