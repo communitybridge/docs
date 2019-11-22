@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Account](README.md)
-  * [Edit Your Profile](Account-Settings.md)
-  * [Edit Your First or Last Name](Edit-First-Last-name.md)
+  * [Edit Your Profile](Account/Account-Settings.md)
+  * [Edit Your First or Last Name](Account/Edit-First-Last-name.md)
   * [Add an Email Address](index-account/add-email.md)
   * [Add a Profile Photo](index-account/add-profile-photo.md)
   * [Set a Time Zone](index-account/set-timezone.md)
