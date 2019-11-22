@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Account](index-account/README.md)
-  * [Edit Your Profile](index-account/account-settings.md)
-  * [Edit Your First or Last Name](index-account/edit-first-last-name.md)
+* [Account](communitybridge.github.io/README.md)
+  * [Edit Your Profile](Account/account-settings.md)
+  * [Edit Your First or Last Name](Account/edit-first-last-name.md)
   * [Add an Email Address](index-account/add-email.md)
   * [Add a Profile Photo](index-account/add-profile-photo.md)
   * [Set a Time Zone](index-account/set-timezone.md)
