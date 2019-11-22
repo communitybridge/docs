@@ -1,3 +1,7 @@
+---
+description: This is short description for the LFID Email.
+---
+
 # Log In Using Your LFID Email
 
 You can use your Linux Foundation identity \(LFID\) or email to log in to CommunityBridge.
