@@ -8,17 +8,17 @@ If you do not remember your Linux Foundation login password, you can submit a pa
 
    The Login to LFX pane appears:
 
-   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%281%29.png)
+   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%282%29.png)
 
 2. Click **Forgot Password?**.
 
    The ”Forgot your Password?” pane appears:
 
-   ![Forgot your password?](../.gitbook/assets/lfx-forgot-your-password%20%281%29.png)
+   ![Forgot your password?](../.gitbook/assets/lfx-forgot-your-password.png)
 
 3. Enter your email address or username and click **Reset Password**. A message informs you:
 
-   ![Email Sent Message](../.gitbook/assets/lfx-email-has-been-sent%20%281%29.png)
+   ![Email Sent Message](../.gitbook/assets/lfx-email-has-been-sent.png)
 
 4. Check your email inbox for a “CommunityBridge Reset Password” email and open it. If you did not receive an email, click the **Did not Receive Link** button in the ”Forgot your Password?” pane to resend the email. The status bar informs you:
 

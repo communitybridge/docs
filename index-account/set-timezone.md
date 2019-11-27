@@ -6,7 +6,7 @@ You can set the timezone to a specified timezone in Linux Foundations.
 
 1. Select the timezone from the list.
 
-![Set Timezone](../.gitbook/assets/set-timezone%20%281%29.png)
+![Set Timezone](../.gitbook/assets/set-timezone.png)
 
 1. Click **Save** to save the update.
 2. This is bullet 3.

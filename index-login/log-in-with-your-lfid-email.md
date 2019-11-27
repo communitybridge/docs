@@ -1,7 +1,3 @@
----
-description: This is short description for the LFID Email.
----
-
 # Log In Using Your LFID Email
 
 You can use your Linux Foundation identity \(LFID\) or email to log in to CommunityBridge.
@@ -10,7 +6,7 @@ You can use your Linux Foundation identity \(LFID\) or email to log in to Commun
 
    The Login to LFX form appears:
 
-   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%281%29.png)
+   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx.png)
 
 2. Enter your Linux Foundation **credentials** and click **Sign in**.
 

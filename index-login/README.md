@@ -1,7 +1,3 @@
----
-description: This is a short description for the Login page.
----
-
 # Login
 
 * [Log In Using Your LFID Email](log-in-with-your-lfid-email.md)

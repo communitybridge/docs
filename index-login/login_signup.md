@@ -22,7 +22,7 @@ If this is the first time you are logging in to Linux Foundation, you need to fi
 
 4. Click **Create Account**. You are directed to the Verify your account page. If you did not receive an email, click **Resend Email**.
 
-   ![Verify Account page](../.gitbook/assets/verify_acct_lf%20%281%29.png)
+   ![Verify Account page](../.gitbook/assets/verify_acct_lf.png)
 
 [Top of page](login_signup.md#Log-in-or-Sign-up)
 
@@ -32,11 +32,11 @@ When you create a new account, an account verification email is sent to your reg
 
 1. Open your registered email account and open the verification email. An example of the email is as follows:
 
-![Verification Email](../.gitbook/assets/verification_email%20%281%29.png)
+![Verification Email](../.gitbook/assets/verification_email.png)
 
 1. Click **Verify Email**. A confirmation message that the email has been verified is displayed.
 
-![Email Verified](../.gitbook/assets/email_verification%20%281%29.png)
+![Email Verified](../.gitbook/assets/email_verification.png)
 
 You are directed to Login page.
 
@@ -49,7 +49,7 @@ After you have created a new account and verified the account, you can now log i
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/).
 2. Enter your Linux Foundation Email/Username and Password, and click **Sign in**.
 
-![Login to LF Confluence](../.gitbook/assets/login_with_lf%20%281%29.png). You are now logged in to Linux Foundation.
+![Login to LF Confluence](../.gitbook/assets/login_with_lf.png). You are now logged in to Linux Foundation.
 
 [Top of page](login_signup.md#Log-in-or-Sign-up)
 
@@ -60,7 +60,7 @@ If you do not remember your Linux Foundation login password, you can submit a pa
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
 2. On the Sign In page, click **Forgot Password?**. The ”Forgot your Password?” page appears.
 
-   ![Forgot your password?](../.gitbook/assets/5.png)
+   ![Forgot your password?](../.gitbook/assets/5%20%281%29.png)
 
 3. Enter your Email/Username and click **Reset Password**. A confirmation message informs you:
 
@@ -68,11 +68,11 @@ If you do not remember your Linux Foundation login password, you can submit a pa
 
 4. Open the Reset Password email from your registered email account.
 
-   ![Reset Password](../.gitbook/assets/reset_passwd%20%281%29.png)
+   ![Reset Password](../.gitbook/assets/reset_passwd.png)
 
 5. Click **Reset Password** in the email. On the Change Password page, enter New Password and Confirm Password, and click **Submit**. Your password is reset.
 
-   ![Change Password](../.gitbook/assets/change_passwd%20%281%29.png)
+   ![Change Password](../.gitbook/assets/change_passwd.png)
 
    _**NOTE:**_ The New Password and Confirm Password should be exactly identical. You can reset your password either via Linux Foundation Email or Username.
 
@@ -85,12 +85,12 @@ Social login is a single sign-on for end users. You can use your existing login 
 #### Initial login:
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
-2. On the login screen, click **Login with Google** ![Login with Google](../.gitbook/assets/login_google%20%281%29.png).
+2. On the login screen, click **Login with Google** ![Login with Google](../.gitbook/assets/login_google.png).
 3. Enter your Google email or phone number and click **Next**.
 4. Enter your password, and click **Next**.
 5. Enter the Username, and click **Create account**.
 
-![Home screen](../.gitbook/assets/13.jpg)
+![Home screen](../.gitbook/assets/13%20%283%29.jpg)
 
 #### Subsequent login:
 
@@ -105,7 +105,7 @@ You can use your existing login credentials from GitHub \(social network provide
 #### Initial login:
 
 1. Go to [Linux Foundation Confluence website.](https://confluence.linuxfoundation.org/)
-2. On the Login page, click **Login with GitHub** ![Login with Google](../.gitbook/assets/login_google%20%282%29.png).
+2. On the Login page, click **Login with GitHub** ![Login with Google](../.gitbook/assets/login_google%20%281%29.png).
 3. On the GitHub Sign page, enter Username or Email address and password.
 
    ![Home screen](../.gitbook/assets/14%20%281%29.jpg)
@@ -113,7 +113,7 @@ You can use your existing login credentials from GitHub \(social network provide
 4. Click **Sign-in**.
 5. Enter the Username, and click **Create account**.
 
-![Home screen](../.gitbook/assets/13%20%283%29.jpg)
+![Home screen](../.gitbook/assets/13.jpg)
 
 #### Subsequent login:
 
@@ -132,7 +132,7 @@ To submit your help request do the following:
 1. Click **Get Help** on the Linux Foundation Get Help page.
 2. On the Request Support page, enter your name, registered email address and the description of your problem. Click **Send**.
 
-   ![Request Support](../.gitbook/assets/req_support%20%281%29.png)
+   ![Request Support](../.gitbook/assets/req_support.png)
 
 A request is submitted to the Support team.
 

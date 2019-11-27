@@ -20,7 +20,7 @@ To create a Linux foundation account, follow these easy steps.
 
 After pressing the 'Create account' button, it will redirect the user to 'Verify your account' screen.
 
-![Home screen](../.gitbook/assets/2%20%281%29.png)
+![Home screen](../.gitbook/assets/2.png)
 
 User can click on the 'Resend Email' button if the user did not receive an email from the Linux foundation on their respective email account.
 
@@ -30,7 +30,7 @@ To verify the your account, use the following steps :
 
 * Open your respective Email account and open the email received from Linux foundation.
 
-![Home screen](../.gitbook/assets/3%20%281%29.png)
+![Home screen](../.gitbook/assets/3.png)
 
 * Click on the 'Verify account' button.
 * it will redirect the user to 'Log in' screen.
@@ -54,7 +54,7 @@ You can reset your password, using the following steps:
 * Visit [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
 * Click on [Forgot password?](https://linuxfoundation-dev.auth0.com/login/?state=g6Fo2SBxei12M2tXYVVMUDdFenR5UTExeEhMZGFGeDlNWmhtM6N0aWTZIHM4dTh2SjhkRlY0cEp4clY4OTlUdHZfSlR0aWJSMGlFo2NpZNkgN0R4dDJva3cxeVRSZ3BxNXBqNk1mbURrMFJGdlphZ0M&client=7Dxt2okw1yTRgpq5pj6MfmDk0RFvZagC&protocol=oauth2&prompt=login&response_type=token%20id_token&redirect_uri=https:%2F%2Fconsole.dev.itx.linuxfoundation.org&scope=manage:projects%20read:projects%20manage:domains%20manage:forwards%20manage:github%20manage:groupsio&audience=https:%2F%2Fapi.dev.itx.linuxfoundation.org%2F&nonce=k7O7GkEu8H3qQA8qxARpvhZqQ06Q6QC.&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xMC4xIn0%3D) link 
 
-![Home screen](../.gitbook/assets/5%20%282%29.png)
+![Home screen](../.gitbook/assets/5.png)
 
 * Enter your username or email address. 
 * Click on the 'Reset password' button.
@@ -69,7 +69,7 @@ _Set new password:_
 
 * Go to your respective email account and open the 'Reset password email you received from the Linux foundation.
 
-![Home screen](../.gitbook/assets/8%20%281%29.png)
+![Home screen](../.gitbook/assets/8.png)
 
 * Click on the 'Reset password' button, it will redirect you to the change password screen.
 
@@ -88,7 +88,7 @@ _Initial login:_
 * Visit [Linux Foundation Confluence website.](https://console.dev.itx.linuxfoundation.org/#/)
 * Click on 'Login with Google' option at the bottom
 
-![Home screen](../.gitbook/assets/11%20%281%29.png)
+![Home screen](../.gitbook/assets/11.png)
 
 * Enter your email or phone number and click the next button.
 * Enter your password and click on the Next button.
@@ -117,7 +117,7 @@ _Initial login:_
 * Click on Sign-in button.
 * Now enter the username, check the terms and condition checkbox and click on create an account.
 
-![Home screen](../.gitbook/assets/13%20%284%29.jpg)
+![Home screen](../.gitbook/assets/13%20%281%29.jpg)
 
 * It will redirect you to the home screen.
 

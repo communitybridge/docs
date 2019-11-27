@@ -6,7 +6,7 @@ Get your questions answered and the help you need by making a request to Support
 
    The Login to LFX form appears:
 
-   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%282%29.png)
+   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx.png)
 
 2. Click **Let us Help** at the bottom of the CommunityBridge pane.
 
@@ -14,7 +14,7 @@ Get your questions answered and the help you need by making a request to Support
 
    The Request Support form appears:
 
-   ![Request Support](../.gitbook/assets/lfx-request-support%20%281%29.png)
+   ![Request Support](../.gitbook/assets/lfx-request-support.png)
 
 3. Complete the form fields and click **Send**.
 

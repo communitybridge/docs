@@ -16,7 +16,7 @@ You can connect to Github Account from your CommunityBridge account.
 
    you are provided with an option to _disconnect_ from your GitHub account. The text changes to _Disconnect_. 
 
-   ![Disconnect from GitHub](../.gitbook/assets/github_disconected%20%281%29.png)
+   ![Disconnect from GitHub](../.gitbook/assets/github_disconected.png)
 
 2. Click **Disconnect**. On the Confirm Social Disconnection window, 
 

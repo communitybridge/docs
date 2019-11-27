@@ -8,19 +8,19 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
    The Login to LFX form appears:
 
-   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%281%29.png)
+   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%283%29.png)
 
 2. Click **Login with Google**.
 
    The Sign in with Google page appears.
 
-   ![Google Sign in](../.gitbook/assets/lfx-sign-in-with-google%20%281%29.png)
+   ![Google Sign in](../.gitbook/assets/lfx-sign-in-with-google.png)
 
 3. Follow the prompts to enter your email or phone number, your password, and verification code.
 
    The CommunityBridge Dashboard appears. Your user account appears in the top-left corner and above the Navigation pane:
 
-   ![Sign In Role](../.gitbook/assets/lfx-sign-in-role-identification%20%281%29.png)
+   ![Sign In Role](../.gitbook/assets/lfx-sign-in-role-identification.png)
 
 ## Subsequent Logins
 
