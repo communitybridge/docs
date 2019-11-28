@@ -4,10 +4,10 @@
 
 You can connect your CommunityBridge account to your Google account.
 
-1. On the Account Settings page, click **Connect**  ![Connect to Google](../.gitbook/assets/gmail_connect%20%281%29.png) next to the Google account symbol. You are navigated to your Google login page.
+1. On the Account Settings page, click **Connect**  ![Connect to Google](../.gitbook/assets/gmail_connect.png) next to the Google account symbol. You are navigated to your Google login page.
 2. Select the Google account. The Connect but changes to green color confirming the successful connection. 
 
-   ![Connected to Google](../.gitbook/assets/google_connected%20%281%29.png)
+   ![Connected to Google](../.gitbook/assets/google_connected.png)
 
    The text on the button changes to _Connected_.
 

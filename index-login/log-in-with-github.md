@@ -8,7 +8,7 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
    The Login to LFX form appears:
 
-   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx%20%285%29.png)
+   ![Login to LFX](../.gitbook/assets/lfx-login-to-lfx.png)
 
 2. Click **Login with GitHub**.
 
@@ -26,7 +26,7 @@ A _social login_ is single sign-on for end users. You can use your existing logi
 
    The CommunityBridge Dashboard appears. Your user account appears in the top-left corner and above the Navigation pane:
 
-   ![Sign In Role](../.gitbook/assets/lfx-sign-in-role-identification%20%281%29.png)
+   ![Sign In Role](../.gitbook/assets/lfx-sign-in-role-identification.png)
 
 ## Subsequent Logins
 
