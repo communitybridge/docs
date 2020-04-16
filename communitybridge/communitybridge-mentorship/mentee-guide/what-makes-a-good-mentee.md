@@ -1,0 +1,6 @@
+# What Makes a Good Mentee
+
+**Research:** Before you ask questions, you are advised to take some time to find the answer by yourself, either using public channels like stackover flow, medium or check with other mentees in the channel. This way it helps you to enhance your research and analytical skills. Even if you don’t find an answer, it ultimately sharpens your question.
+
+**Be Inclusive:** It’s not just between you and your mentor. This mentorship program gives you an opportunity to interact with the entire community and its members. So, interact with other members in the community, and ensure that you follow the code of conduct and professionalism. Though you are allowed to socialize with the community on a professional level, know where to draw the line.
+
