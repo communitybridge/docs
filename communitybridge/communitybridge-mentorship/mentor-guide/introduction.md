@@ -2,7 +2,7 @@
 
 ### **What is CommunityBridge Mentorship Program?**
 
-CommunityBridge Mentorship program, developed by Linux Foundation, serves an important role in creating a structured hands-on learning opportunity for mentees—Mentees, new and active programmers who want to learn open source software development— to gain exposure to open source development. The program matches mentees, based on their skills and interests, with mentors to learn and contribute code to open source projects, and get paid for it. This program serves an important role in keeping open source communities strong, healthy, and sustainable. 
+CommunityBridge Mentorship program, developed by Linux Foundation, serves an important role in creating a structured hands-on learning opportunity for mentees—students, new and active programmers who want to learn open source software development— to gain exposure to open source development. The program matches mentees, based on their skills and interests, with mentors to learn and contribute code to open source projects, and get paid for it. This program serves an important role in keeping open source communities strong, healthy, and sustainable. 
 
 CommunityBridge Mentorship program brings in the accepted mentees and mentors from participating projects to a single platform. Accepted mentees get opportunities to learn open-source software development, and get hired by the potential employers participating in the program. A structured and well-defined mentoring program is crucial to attract and develop new talent. In a nutshell, it is all about making connections between new developers and experts in communities, and prospective employers, and get more open source code written for the benefit of all.
 
