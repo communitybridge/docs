@@ -1,2 +1,0 @@
-# Corporate Learner's Guide
-

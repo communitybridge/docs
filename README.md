@@ -1,31 +1,20 @@
-# Linux Foundation Product Documentation
+# CommunityBridge
 
-Linux Foundation provides a platform to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by Linux Foundation to support the creation of sustainable open source software development:
+CommunityBridge is a platform created by the Linux Foundation to support the sustainability of open source ecosystem by providing various services, events, and training. This empowers developers — the individuals and companies who support them — to advance sustainability, security, and diversity in open source technology.
 
-{% tabs %}
-{% tab title="CommunityBridge" %}
-#### [CommunityBridge](communitybridge-1/)
+Following are the services provided by Linux Foundation to support the creation of sustainable open source software development:
 
-#### [CommunityBridge Funding](communitybridge-1/communitybridge-funding/)
+#### [CommunityBridge User Account Details](https://docs.linuxfoundation.org/user-account/)
 
-#### [CommunityBridge Mentorship](communitybridge-1/communitybridge-mentorship/)
+#### [CommunityBridge Funding](https://docs.linuxfoundation.org/communitybridge-funding/)
 
-#### [CommunityBridge Dev Analytics](communitybridge-1/dev-analytics-getting-started/)
+#### [CommunityBridge Mentorship](https://docs.linuxfoundation.org/communitybridge-mentorship/)
 
-#### [CommunityBridge Security](communitybridge-1/communitybridge-security/)
+#### [CommunityBridge Dev Analytics](https://docs.linuxfoundation.org/communitybridge-dev-analytics/)
 
-#### [CommunityBridge EasyCLA](communitybridge-1/communitybridge-easycla.md)
-{% endtab %}
+#### [CommunityBridge Security](https://docs.linuxfoundation.org/communitybridge-security/)
 
-{% tab title="Training and Certification" %}
-[**Training and Certification**](training-and-certification/)  
-****[**Training and Certification Admin Guide**](training-and-certification/panorama-manager-manual/training-and-certification-admin-guide.md)  
-****[**Corporate Learner's Guide**](training-and-certification/panorama-manager-manual/corporate-learners-guide.md)  
-****[**Agreement Book** ](training-and-certification/corporate-learners-manual/linux-foundation-global-certification-and-confidentiality-agreement.md)  
-****[**FAQs**](training-and-certification/corporate-learners-manual/frequently-asked-questions-cka-and-ckad.md)  
-****
-{% endtab %}
-{% endtabs %}
+#### [CommunityBridge EasyCLA](https://docs.linuxfoundation.org/easycla/) ****
 
 
 
