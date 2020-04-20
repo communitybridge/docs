@@ -12,5 +12,5 @@ Mentors are community members who guide mentees. They help mentees learn open so
 
 ### **Program Maintainer**
 
-Program maintainers are employees of Linux Foundation. They manage the entire program, and take a wide range of responsibilities, such as creating and analyzing the program evaluations, ensuring that mentees are paid on time, ensuring that mentors and mentees are in sync throughout the program, responding to inquiries, and so on.
+Program maintainers are the individuals who enroll projects to CommunityBridge. They can be employees of Linux Foundation, and manage the entire program, and take a wide range of responsibilities, such as creating and analyzing the program evaluations, ensuring that mentees are paid on time, ensuring that mentors and mentees are in sync throughout the program, responding to inquiries, and so on.
 
