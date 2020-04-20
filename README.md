@@ -15,7 +15,7 @@ Linux Foundation provides a platform to support the sustainability of open sourc
 ### Training and Certification
 
 * [Panaroma Manage Overview](training-and-certification/training/panorama-manager-manual/)
-* [Corporate Learner's Guide](training-and-certification/certification/corporate-learners-manual/)
+* [Corporate Learner's Guide]()
 
 #### 
 
