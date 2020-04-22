@@ -1,4 +1,4 @@
 # Training and Certification
 
-## This is heading 3!
+For Complete documentation on Training and Certification, please refer Training and Certification Documentation
 
