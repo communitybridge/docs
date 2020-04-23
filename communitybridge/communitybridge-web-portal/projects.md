@@ -60,11 +60,11 @@ You can select values from drop-down lists on the top right corner to view only 
 Dependencies lists an inventory of repositories and its associated dependencies used in the project, and helps you gain insight into various aspects of your repository dependencies. Click dependency under a repository to go to the Issues dashboard to find out more information about a dependency. Click a repository to view the direct and deep \(indirect\) dependencies in the repository in a tree format:
 
 * **Direct Dependencies:** A direct dependency is a package that you have included in your own repository.
-* **Deep Dependencies:** A deep \(indirect\) dependency is a package that you are not using directly, but one that is used by one of your direct dependencies. For example, if your application is using package A, and package A is using package B, then your application is indirectly depending on package B. And if package B is vulnerable, your project is vulnerable.
+* **Indirect/Deep Dependencies:** A indirect or dependency is a package that you are not using directly, but one that is used by one of your direct dependencies. For example, if your application is using package A, and package A is using package B, then your application is indirectly depending on package B. And if package B is vulnerable, your project is vulnerable.
 
 You can sort dependencies for a repository and package by selecting a value from the Repository and Packages drop-down lists.
 
-![Security Dependencies](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M3LMaEhqv_y3tiJX_HJ%2F-M3Lff0un3xMTkg80QdN%2Fsecuirty%20dependencies.png?alt=media&token=fbdc610c-6aa4-4d46-b2ef-846b30f3e7d3)
+![Dependencies](../../.gitbook/assets/dependency.png)
 
 ### Packages <a id="packages"></a>
 

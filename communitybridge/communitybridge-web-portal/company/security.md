@@ -14,14 +14,14 @@ Represents a doughnut chart that shows total number of licenses \(in the middle 
 
 The value in the middle of the doughnut chart shows the total number of licenses. Mouse over a color to see the license name, and its percentage of usage.
 
-![Unique License in Stack](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4OO9DwMnM0dQcf0ssi%2F-M4ORsGH4n3u7K9svlbc%2Funique%20license%20in%20stack.png?alt=media&token=28743c19-6332-4909-bd06-64a97982b85c)
+![Unique License in Stack](../../../.gitbook/assets/unique-license-in-stack.png)
 
 ### REMEDIATION RATE
 
 Shows a bar graph that represents total number of vulnerabilities count for all the projects from the time the projects were on-boarded to CommunityBridge Security for scanning.
 
-* **Upstream** shows number of vulnerabilities in code libraries, and percentage wise breakup of vulnerabilities for which whether fixes were recommended or not.
-* **Base** shows total number of libraries in base code, and percentage wise breakup of whether fixes were recommended or not.
+* **Upstream** shows total number of vulnerabilities found in libraries code, and percentage wise breakup of total number of vulnerabilities into fixes recommended and not recommended categories.
+* **Base** shows total number of  vulnerabilities found in base code, and percentage wise breakup of total number of vulnerabilities into fixes recommended and not recommended categories.
 
 Mouse over a color to see the total number of vulnerabilities for recommended or not recommended category.
 
@@ -31,7 +31,7 @@ Mouse over a color to see the total number of vulnerabilities for recommended or
 
 Represents a doughnut chart that shows total number of projects \(in the middle of the chart\), and name of individual programming languages by percentage with respect to the language's usage in all projects. This chart shows the top 10 licenses by name, and all other licenses are grouped in **OTHERS** category.
 
-![Language Distribution Across Projects](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4O_5m174YFCZi5nfNQ%2F-M4OhTEGbM_Ov-s4vxiV%2Flanguage%20distribution%20across%20projects.png?alt=media&token=8a71833a-f272-4154-8240-6eaff41299f5)
+![Language Distribution Across Projects](../../../.gitbook/assets/language-distribution-across-projects.png)
 
 The value in the middle of the doughnut chart shows the total number of projects. Mouse over a color to see the language name, and its percentage of usage.
 
@@ -63,7 +63,7 @@ Shows list of projects that have vulnerabilities. By default, card view is shown
 
 * project name, logo, and description
 * **Vulnerability Report:** shows number of issues based on severity level, fixable issues for each severity, total number of issues and total number of fixable issues.
-* **Last Updated/Updated:** Date and time of last scan for the project repositories.
+* **Updated:** Date and time of last scan for the project repositories in MM DD YYYY format along with the timezone name.
 * Click **View Details** to know more about [vulnerability details](https://docs.linuxfoundation.org/community-bridge/projects#security) of the project.
 * Click **Show more** to view more project cards
 

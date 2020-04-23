@@ -9,6 +9,8 @@
 * [Change password](change-password.md)
 * [Connect/ Disconnect your Gmail account](connect-using-google.md)
 * [Connect/ Disconnect your Github account](connect-using-github.md)
+* [Connect/ Disconnect your Facebook account](connect-disconnect-your-facebook-account.md)
+* [Connect/ Disconnect your LinkedIn account](connect-disconnect-your-linkedin-account.md)
 
 
 
