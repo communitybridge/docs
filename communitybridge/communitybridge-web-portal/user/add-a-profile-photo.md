@@ -1,6 +1,6 @@
 # Add a Profile Photo
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 A profile photo provides a visual reference to your identity.
 
@@ -15,5 +15,5 @@ A profile photo provides a visual reference to your identity.
 2. Navigate to the folder on your drive and select the desired image as your profile picture.
 3. On the Update Avatar window, click **Save**.
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 

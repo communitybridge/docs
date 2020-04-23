@@ -1,6 +1,6 @@
 # Connect/Disconnect your LinkedIn Account
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 ## Connect your LinkedIn Account <a id="connect-your-github-account"></a>
 
@@ -24,5 +24,5 @@ The text changes to _Disconnect_.​​ ![](../../../.gitbook/assets/disconnect-
 2. Click **Disconnect**. On the Confirm Social Disconnection window, click **Yes** to confirm your disconnection.   
 You are now disconnected your LinkedIn account.
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 

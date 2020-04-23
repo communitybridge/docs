@@ -8,5 +8,5 @@ Linux Foundation allows you to edit your existing CommunityBridge profile.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M-Dly05HQ6E_7DxVxFY%2F-M-DqRf5mcGgVyr_l6Up%2Faccount%20settings%20page.png?alt=media&token=b58ea2cc-7f10-4ea9-bf51-fcf47c7d760c)
 
-For details about editing profile, see [Edit Your Profile](edit-your-profile.md)​
+For details about editing profile, see [Edit Your Profile](account-settings.md)​
 

@@ -1,6 +1,6 @@
 # Change Password
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 If you want to change your current password for security reasons, you can raise a reset password request.
 
@@ -20,5 +20,5 @@ You will get a message informing you about the status:
 
 ![Change Password Status](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4O9p0jZ8Zqf1OhYpJz%2F-M4OAktWu5PlWEZn40Fb%2Fpassword%20change%20status.png?alt=media&token=fbce7517-fdf9-4f6d-a1d2-4e421e090d9b)
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 

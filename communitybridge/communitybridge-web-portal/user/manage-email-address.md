@@ -1,6 +1,6 @@
 # Manage Email Address
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 When you sign up to the CommunityBridge, you are asked to provide an email address that is used as the primary source of communication. However, you can associate multiple email addresses with your account. Any authentication you do that uses one of these email addresses is automatically linked to your account.
 
@@ -30,5 +30,5 @@ Click **Remove** next to an email address, and click **Save**.
 
 ![Account Settings](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4O1fhTjUCs_nMlyBoE%2F-M4O5Ivhdi6181nB7BJ-%2Fremove%20email%20address.png?alt=media&token=2d937f0d-eb79-47a3-a578-fdf5d9d416a5)
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 

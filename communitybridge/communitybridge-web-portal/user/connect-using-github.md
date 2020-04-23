@@ -1,6 +1,6 @@
 # Connect/Disconnect your GitHub Account
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 ## Connect your GitHub Account <a id="connect-your-github-account"></a>
 
@@ -24,5 +24,5 @@ The text changes to _Disconnect_.​![Disconnect from GitHub](https://firebasest
 2. Click **Disconnect**. On the Confirm Social Disconnection window, click **Yes** to confirm your disconnection.   
 You are now disconnected from your GitHub account.
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 

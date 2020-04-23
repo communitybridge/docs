@@ -6,7 +6,7 @@ CommunityBridge web portal is a specially designed website that brings informati
 
 * [Frequently Asked Questions \(FAQ\)](../)
 * [Log In](../user-profile/log-in-to-communitybridge/)
-* [Manage Your Account](manage-your-profile/)
+* [Manage Your Account](user/)
 
 ### Support or Contact
 

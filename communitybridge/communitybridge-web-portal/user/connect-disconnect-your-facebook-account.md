@@ -1,6 +1,6 @@
 # Connect/Disconnect your Facebook Account
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 ## Connect your Facebook account <a id="connect-your-google-account"></a>
 
@@ -25,5 +25,5 @@ The text changes to _Disconnect_. ![](../../../.gitbook/assets/disconnect-facebo
 2. Click **Disconnect**. On the Confirm Social Disconnection window, click **Yes** to confirm your disconnection.   
 You are now disconnected from your facebook account.
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 

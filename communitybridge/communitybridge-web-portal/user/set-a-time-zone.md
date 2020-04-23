@@ -2,7 +2,7 @@
 
 ## Set a Time Zone
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
 You can set the timezone to a specified timezone in Linux Foundations.
 
@@ -14,5 +14,5 @@ You can set the timezone to a specified timezone in Linux Foundations.
 
 2. Click **Save** to save the update.
 
-​[&lt;&lt;Back](edit-your-profile.md#to-edit-profile)​
+​[&lt;&lt;Back](account-settings.md#to-edit-profile)​
 
