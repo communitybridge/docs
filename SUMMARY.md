@@ -230,6 +230,7 @@
     * [Company](communitybridge/communitybridge-web-portal/company/README.md)
       * [Dashboard](communitybridge/communitybridge-web-portal/company/dashboard.md)
       * [Security](communitybridge/communitybridge-web-portal/company/security.md)
+      * [CLA](communitybridge/communitybridge-web-portal/company/cla.md)
       * [Manage Your Organization](communitybridge/communitybridge-web-portal/company/manage-your-organization.md)
     * [Foundations](communitybridge/communitybridge-web-portal/foundations/README.md)
       * [Foundation Details](communitybridge/communitybridge-web-portal/foundations/foundation-details.md)
