@@ -6,7 +6,7 @@ Stipend [amounts](total-stipend-amount.md) are calculated based on your location
 
 **How is my location determined?**
 
-Your location is determined by where you are currently enrolled in school. If you are enrolled at an online institution or are a recent graduate, your stipend is determined by the location of your permanent residence.
+Your location is determined by where you currently reside, that is country of current residence. If you are enrolled at an online institution or are a recent graduate, your stipend is determined by the location of your permanent residence.
 
 **How are the stipend amounts determined?**
 
