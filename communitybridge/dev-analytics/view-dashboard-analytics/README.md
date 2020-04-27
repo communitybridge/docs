@@ -2,6 +2,7 @@
 
 Dev Analytics aggregates data and creates comprehensive dashboards from specific data sources. Dashboards include relevant visualizations that display analytic metrics and important data points. You can select and open a dashboard from drop-down lists corresponding to each data source.
 
+* [Summary](../view-dashboard-catalog-of-a-project/summary.md)
 * [Code](../view-dashboard-catalog-of-a-project/code/)
 * [Community](../view-dashboard-catalog-of-a-project/community/)
 * [Distribution](../view-dashboard-catalog-of-a-project/distribution/)
@@ -15,8 +16,8 @@ A drop-down list is only available when a related data source is available. This
 
 **Follow these steps:**
 
-1. From a project overview page, select a drop-down list. 
-2. Select a **dashboard** from the drop-down list, for example:  ![](../../../.gitbook/assets/18088134.png) The selected dashboard appears and shows relevant visualizations.
+1. From a project overview page, click a data source, for example Project Management.
+2. Select a **dashboard** from the drop-down list:  ![](../../../.gitbook/assets/18088134.png) The selected dashboard appears and shows relevant visualizations.
 
 ## Refine Your View <a id="ViewDashboardAnalytics-RefineYourView"></a>
 

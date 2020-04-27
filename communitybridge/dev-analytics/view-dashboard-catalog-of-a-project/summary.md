@@ -10,11 +10,13 @@ Summary provides a high-level metrics about each data source for which the proje
 
 * **Highlights** shows the number of committers and organizations in the project.
 * **Commits** shows a stacked area chart that compares the number of code or issue commits per calendar period. The number of the commits submitted and the contributors who submitted to the project during each period are color-coded. Click **Commits** or **Contributors** to eliminate the corresponding data, for example: ![](../../../.gitbook/assets/18088223.png). Click the caption again to include the data.
-* **Top 10 Contributors** lists the top-ten contributors to the project by name, number of commits, and percentage of the total number of commits. Click **COMPANY** or **INDIVIDUAL** to show the corresponding commit data. A pie chart shows proportional data for the total number of commits per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. Mouse over a slice to show the number of commits and the company or individual name.
+* **Top 10 Contributors** lists the top-ten contributors to the project by name, number of commits, and percentage of the total number of commits. Click **COMPANY** or **INDIVIDUAL** to show the corresponding commit data. A pie chart shows proportional data for the total number of commits per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. 
+
+Mouse over a slice to show the number of commits and the company or individual name.
 
 Following is an example of code overview section:
 
-![](../../../.gitbook/assets/18088213.png)
+![Code](../../../.gitbook/assets/code.png)
 
 **Project Management** shows overview analytics about issues, their statuses, and contributors:
 
