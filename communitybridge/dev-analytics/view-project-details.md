@@ -6,7 +6,7 @@ Dev Analytics shows projects to which you have access on the Linux Foundation pl
 
 **Follow these steps:**
 
-1. [Sign in](../user-profile/log-in-to-communitybridge/) to [https://lfanalytics.io](https://lfanalytics.io/). The Projects page appears and lists the projects to which you have access.
+1. Open [https://lfanalytics.io](https://lfanalytics.io/). The Projects page appears and lists the projects to which you have access.
 2. Navigate to a project card on the page . Each project card shows the following information:
    * Project name identifies the project by name.
    * Description briefly describes the project. When a project description shows only an excerpt, click the **excerpt** to see the entire description.
