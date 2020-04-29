@@ -8,9 +8,11 @@ Where: The Gerrit dashboards are available from the **Code** drop-down list.
 
 SUMMARY: Overview shows visualizations that provide information about changeset statuses, submitters, and organizations. Changeset information per organization and repository is also shown.
 
-**Gerrit** shows the total number of Changesets, Changesets Submitters, and Repositories.
+**Summary** shows the total number of changesets, total number of individuals who submitted changesets, total number of repositories, and average time in days to first review a changeset after it is submitted.
 
-**Changesets by Status** shows a stacked bar graph that represents the number of changesets that were started per day for the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the graph to see the status, total number of reviews, and the date the changesets was started.
+**Changesets Statistics \(Open Time in Days\)** shows the total number of changesets that were open in days by percentile: 50th, 75th, 95th, and the percentile of rank 4 for time open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
+
+**Changesets by Status** **Per Day** shows a stacked bar graph that represents the number of changesets that were started per day for the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the graph to see the status, total number of reviews, and the date the changesets was started.
 
 **Changeset Submitters** shows a bar graph that represents submitters and their corresponding number of changesets per day over time. Mouse over a color in the graph to see the total number of changeset submitters for a date.
 
@@ -22,8 +24,6 @@ SUMMARY: Overview shows visualizations that provide information about changeset 
 **Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number of changesets for the status, and the percentage of the project's changesets for that status.
 
 **Repositories** shows a table that lets you sort values by Repository, \# Changesets, and \# Submitters.
-
-**Changesets Statistics \(Open Time in Days\)** shows the total number of changesets that were open in days by percentile: 50th, 75th, 95th, and the percentile of ran for time open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
 **Patchset Statistics per Changeset** shows the total number of 50th percentile of patchsets, 75th percentile of patchsets, 95th percentile of patchsets, and the percentile rank of patchsets per review. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
