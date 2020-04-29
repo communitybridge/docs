@@ -35,18 +35,23 @@ For Slack and/or Groups.io communication mediums:
 
 * **Highlights** shows total number of messages shared across the communication mediums, total number of channels and groups created for communication.
 * **Messaging** shows a stacked area chart that compares the number of messages and unique contributors per calendar period. Hover mouse over the graph to see the numbers for a particular date. The number of messages and unique contributors for the project during each period are color-coded. Click **Contributors \(unique\)** or **Messages** to eliminate the corresponding data, for example ![](../../../.gitbook/assets/messages.png) . Click the caption again to include the data.
-* **Top 10 Contributors** lists the top ten contributors—Individuals and Organizations— of the project by name, total number of messages contributed by an individual or an organization, and percentage of messages in comparison with the total number of messages by the community. Click **COMPANY** or **INDIVIDUAL** to show the corresponding messaging data. A pie chart shows proportional data for the total number of messages per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. Mouse over a slice to show the number of issues and the company or individual name.
-* **Weekday** shows a doughnut chart that shows the total number of messages shared by the community on a particular day, based on the selected time range. This doughnut chart shows numbers such as 500, 1000, and so on to indicate the maximum number of messages shared on a particular day.
+* **Top 10 Contributors** lists the top ten contributors—Individuals and Organizations— of the project by name, total number of messages contributed by an individual or an organization, and percentage of messages in comparison with the total number of messages shared by the community. Click **COMPANY** or **INDIVIDUAL** to show the corresponding messaging data. A pie chart shows proportional data for the total number of messages per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. Mouse over a slice to show the number of issues and the company or individual name.
+* **Weekday** shows a doughnut chart that shows the total number of messages shared by the community on a particular day, based on the selected time range. This doughnut chart shows numbers such as 500 and 1000 on circle boundary to indicate the highest number of message counts shared by the contributors.
 * **Timezone**
-* **Groups**
+* **Groups** lists the name of groups created, total number of messages per group, and percentage of messages in comparison with the total number of messages shared by the community.
 
-![community for slack and groups.io](../../../.gitbook/assets/community-slack.png)
+![slack communication](../../../.gitbook/assets/community-slack.png)
 
 For Mailing List communication medium:
 
+* **Highlights** shows total number of emails shared by the community members, total number of e-mail lists created for communication.
+* **Messaging** shows a stacked area chart that compares the number of emails and unique contributors per calendar period. Hover mouse over the graph to see the numbers for a particular date. The number of e-mails and unique contributors of the project during each period are color-coded. Click **Contributors \(unique\)** or **Emails** to eliminate the corresponding data, for example ![](../../../.gitbook/assets/emails.png) . Click the caption again to include the data.
+* **Top 10 Contributors** lists the top ten contributors—Individuals and Organizations— of the project by name, total number of e-mails sent and received by an individual or an organization, and percentage of e-mails in comparison with the total number of e-mails shared by the community. Click **COMPANY** or **INDIVIDUAL** to show the corresponding messaging data. A pie chart shows proportional data for the total number of e-mails per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. Mouse over a slice to show the number of issues and the company or individual name.
+* **Weekday** shows a doughnut chart that shows the total number of e-mails shared by the community members on a particular day, based on the selected time range. This doughnut chart shows numbers such as 50 and 100 on circle boundary to indicate the highest number of e-mail counts shared by the contributors.
+* **Timezone**
+* **Lists** shows the name of e-mail lists created, total number of e-mails per list, and percentage of e-mails in comparison with the total number of e-mails shared by the community members.
 
-
-
+![mailing list communication](../../../.gitbook/assets/community-mailing-list.png)
 
 **Technical Management** shows an overview analytics of the number of servers, jobs, and build numbers of a project for a selected time range. Following is an example of Distribution overview section
 
