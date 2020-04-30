@@ -148,7 +148,7 @@
       * [Summary](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/summary.md)
       * [Code](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/README.md)
         * [Gerrit](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/gerrit.md)
-        * [Git Repositories](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/git-repositories.md)
+        * [All Repositories](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/git-repositories.md)
         * [GitHub PRs](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/github-prs.md)
       * [Community](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/community/README.md)
         * [Mailing List](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/community/mailing-list.md)

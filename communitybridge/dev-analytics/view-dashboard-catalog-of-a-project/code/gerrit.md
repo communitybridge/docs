@@ -1,7 +1,7 @@
 # Gerrit
 
 {% hint style="info" %}
-Where: The Gerrit dashboards are available from the **Code** drop-down list, and represents a set of metrics that show information about the number of changesets, submitters, repositories and average time to review the first changeset.
+Where: The Gerrit dashboards are available from the **Code** drop-down list. It represents a set of metrics that shows information about the number of changesets, submitters, repositories and average time to review the first changeset.
 {% endhint %}
 
 ## Gerrit &gt; **Overview** <a id="Gerrit-Gerrit&gt;Overview"></a>
@@ -99,7 +99,5 @@ SUMMARY: Approvals shows statistical information about changesets that are appro
 
 **Approvals by Reviewer and Repo** shows a table that lists reviewer name, corresponding repository name, total number approved commits, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer for the repository over time.
 
-**Approvals by Submitter** shows a table that lists submitter name, total number of commits that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter over time.
-
-**Approvals by Submitter** shows a table that lists submitter name, total number of commits that are approved by the submitter, and number of code review ratings \(-2, -1, 1, 2\) given by the submitter over time.
+**Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
 
