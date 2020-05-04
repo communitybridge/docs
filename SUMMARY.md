@@ -2,6 +2,7 @@
 
 * [Linux Foundation Documentation](README.md)
 * [Single Sign-On \(SSO\)](sso/README.md)
+  * [Create an Account](sso/create-an-account.md)
   * [Have a question](sso/have-a-question.md)
   * [Log Out of your SSO Account](sso/log-out-of-community-bridge.md)
   * [Forgot Password](sso/forgot-password.md)
@@ -10,7 +11,6 @@
     * [Log in With GitHub](sso/log-in-to-communitybridge/log-in-with-github.md)
     * [Log in with LinkedIn](sso/log-in-to-communitybridge/log-in-with-linkedin.md)
     * [Log in with Facebook](sso/log-in-to-communitybridge/log-in-with-facebook.md)
-  * [Create an Account](sso/create-an-account.md)
 * [CommunityBridge](communitybridge/README.md)
   * [CommunityBridge Funding](communitybridge/communitybridge-funding/README.md)
     * [Dashboard](communitybridge/communitybridge-funding/dashboard/README.md)

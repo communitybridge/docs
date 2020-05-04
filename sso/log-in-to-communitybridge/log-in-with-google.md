@@ -22,5 +22,5 @@ You can use your existing login credentials from Google \(social network provide
 
 The CommunityBridge Dashboard appears. Your user account appears on the top-left corner and above the Navigation pane:
 
-​![Sign In Role](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz96uOla_zzNWxxk8%2Flfx-sign-in-role-identification.png?generation=1574407295014660&alt=media)​
+​
 
