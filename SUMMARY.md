@@ -10,7 +10,7 @@
       * [Log in with LinkedIn](sso/user-profile/log-in-to-communitybridge/log-in-with-linkedin.md)
       * [Log in with Facebook](sso/user-profile/log-in-to-communitybridge/log-in-with-facebook.md)
     * [Forgot Password](sso/user-profile/forgot-password.md)
-    * [Log Out of your Account](sso/user-profile/log-out-of-community-bridge.md)
+    * [Log Out of your SSO Account](sso/user-profile/log-out-of-community-bridge.md)
     * [Have a question](sso/user-profile/have-a-question.md)
 * [CommunityBridge](communitybridge/README.md)
   * [CommunityBridge Funding](communitybridge/communitybridge-funding/README.md)

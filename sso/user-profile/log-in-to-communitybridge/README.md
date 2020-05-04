@@ -1,4 +1,4 @@
-# Log in to your SSO Account
+# Log in to CommunityBridge
 
 You must [create an account](../create-an-account.md#create-an-account) with Linux Foundation before you log in to CommuntiyBridge using Linux Foundation credentials.
 
