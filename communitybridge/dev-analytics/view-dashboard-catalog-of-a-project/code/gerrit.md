@@ -8,9 +8,9 @@ The Gerrit dashboards represent a set of metrics that shows information about th
 * Approvals
 * Backlog
 
-##  <a id="Gerrit-Gerrit&gt;Overview"></a>
+## Overview
 
-SUMMARY: Overview shows visualizations that provide information about changeset statuses, submitters, and organizations. Changeset information per organization and repository is also shown.
+Overview shows visualizations that provide information about changeset statuses, submitters, and organizations. Changeset information per organization and repository is also shown.
 
 **Summary** shows the total number of changesets, total number of individuals who submitted changesets, total number of repositories, and average time in days to review the first changeset.
 
@@ -34,9 +34,9 @@ SUMMARY: Overview shows visualizations that provide information about changeset 
 
 **Repositories** shows a table that lets you sort values by Repository, \# Changesets, and \# Submitters.
 
-##  <a id="Gerrit-Gerrit&gt;Efficiency"></a>
+## Efficiency
 
-SUMMARY: Efficiency offers a view of efficiency closing reviews based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
+Efficiency offers a view of efficiency closing reviews based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
 **Efficiency Closing Gerrit Reviews** lets you select an Organization and Repository as values for the dashboard data.
 
@@ -50,9 +50,9 @@ SUMMARY: Efficiency offers a view of efficiency closing reviews based on metrics
 
 **Repositories** shows a table with 50th percentile of Median Time Open by repository, giving an insight on the efficiency of closing reviews per repository.
 
-##  <a id="Gerrit-Gerrit&gt;Timing"></a>
+### Timing
 
-SUMMARY: Timing shows information about open and closed changesets in time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
+Timing shows information about open and closed changesets in time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
 
 **Gerrit Timing Summary** shows the total \# Changesets, \# Changeset Submitters, \# Repositories, and Average time in days to review the first changeset.
 
@@ -70,9 +70,9 @@ SUMMARY: Timing shows information about open and closed changesets in time. The 
 
 **Changesets** shows a table that lets you sort values by changeset URLs in the project. For each changeset, the table shows the changeset summary, the number of days that the changeset was open, the submitter name, the changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
-##  <a id="Gerrit-Gerrit&gt;Timing"></a>
+## Approvals <a id="Gerrit-Gerrit&gt;Timing"></a>
 
-SUMMARY: Approvals shows statistical information about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
+Approvals shows statistical information about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
 
 **Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of changesets that are approved.
 
@@ -84,9 +84,9 @@ SUMMARY: Approvals shows statistical information about changesets that are appro
 
 **Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
 
-##  <a id="Gerrit-Gerrit&gt;Backlog"></a>
+### Backlog
 
-SUMMARY: Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
+Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
 
 **NEW Changesets Statistics** shows the total \# Changesets \(Status: NEW\), Accumulated Open Time in Days \(Status: NEW\), and Average Time Open in Days per Changeset \(Status: NEW\).
 
