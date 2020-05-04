@@ -7,7 +7,7 @@ Linux Foundation provides a platform to support the sustainability of open sourc
 * [Create an Account](sso/create-an-account.md)
 * [Log in to your Account](sso/log-in-to-communitybridge/)
 * [Forgot Password](sso/forgot-password.md)
-* [Logout](sso/log-out-of-community-bridge.md)
+* [Logout]()
 * [Have a question](sso/have-a-question.md)
 
 ### CommunityBridge

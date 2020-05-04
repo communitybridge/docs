@@ -10,5 +10,5 @@ You can use your Linux Foundation user profile to log in to CommuntiyBridge webs
   * [Login with Facebook](log-in-to-communitybridge/log-in-with-facebook.md)
 * ​[Forgot Password](forgot-password.md)​
 * ​[Get Help](have-a-question.md)​
-* ​[Log Out ](log-out-of-community-bridge.md)
+* ​[Log Out ]()
 
