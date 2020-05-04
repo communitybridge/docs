@@ -14,20 +14,26 @@ If you do not remember your Linux Foundation login password, you can make a requ
 
    The **Forgot your Password?** window appears:
 
-   ​![Forgot your password?](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz91oADk9i8DMy22x%2Flfx-forgot-your-password.png?generation=1574407294365246&alt=media)​
+   ​![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.40.37-pm.png)​
 
 3. Enter your email address or username and click **Reset Password**. A message informs you:
 
-   ​![Email Sent Message](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz91qvJEI51tEx2R7%2Flfx-email-has-been-sent.png?generation=1574407286562900&alt=media)​
+   ​​
 
-4. Check your email inbox for a `Community Bridge: Reset Password` email and open it.
-5. Click **Reset Password**.
+              ![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.42.25-pm.png)![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.44.40-pm.png)
+
+
+
+                        
+
+1. Check your email inbox for a `The Linux Foundation: Reset Password` email and open it.
+2. Click **Reset Password**.
 
    The Change Password window appears:
 
-   ​![Change Password](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz91ufBnRjfVBnu8p%2Flfx-change-password.png?generation=1574407287169021&alt=media)​
+          ​![Change Password](../.gitbook/assets/screen-shot-2020-05-04-at-6.45.53-pm.png)​
 
-6. Enter a new password and confirm it. Click **Submit**.
+3. Enter a new password and confirm it. Click **Submit**.
 
    The status bar confirms that your password is updated.
 
