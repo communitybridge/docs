@@ -4,7 +4,7 @@
 * [Single Sign-On \(SSO\)](sso/README.md)
   * [User Profile](sso/user-profile/README.md)
     * [Create an Account](sso/user-profile/create-an-account.md)
-    * [Log in to CommunityBridge](sso/user-profile/log-in-to-communitybridge/README.md)
+    * [Log in to your Account](sso/user-profile/log-in-to-communitybridge/README.md)
       * [Log in With Google](sso/user-profile/log-in-to-communitybridge/log-in-with-google.md)
       * [Log in With GitHub](sso/user-profile/log-in-to-communitybridge/log-in-with-github.md)
       * [Log in with LinkedIn](sso/user-profile/log-in-to-communitybridge/log-in-with-linkedin.md)
