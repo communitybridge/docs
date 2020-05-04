@@ -5,6 +5,7 @@ The Gerrit dashboards represent a set of metrics that shows information about th
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)
 * [Timing](gerrit.md#timing)
+* Approvals
 * [Backlog](gerrit.md#backlog)
 
 ## Overview
@@ -49,7 +50,7 @@ Efficiency offers a view of efficiency closing reviews based on metrics: Review 
 
 **Repositories** shows a table with 50th percentile of Median Time Open by repository, giving an insight on the efficiency of closing reviews per repository.
 
-### Timing
+## Timing
 
 Timing shows information about open and closed changesets in time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
 
@@ -69,7 +70,7 @@ Timing shows information about open and closed changesets in time. The dashboard
 
 **Changesets** shows a table that lets you sort values by changeset URLs in the project. For each changeset, the table shows the changeset summary, the number of days that the changeset was open, the submitter name, the changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
-## Approvals <a id="Gerrit-Gerrit&gt;Timing"></a>
+Approvals
 
 Approvals shows statistical information about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
 
@@ -83,7 +84,7 @@ Approvals shows statistical information about changesets that are approved. The 
 
 **Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
 
-### Backlog
+## Backlog
 
 Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
 
