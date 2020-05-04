@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Linux Foundation Product Documentation](README.md)
+* [Linux Foundation Documentation](README.md)
 * [Single Sign-On \(SSO\)](sso/README.md)
   * [User Profile](sso/user-profile/README.md)
     * [Create an Account](sso/user-profile/create-an-account.md)
