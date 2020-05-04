@@ -1,28 +1,30 @@
 # Groups.io
 
-{% hint style="info" %}
-Where: The Groups.io dashboard is available from the **Community** drop-down list.
-{% endhint %}
+The Groups.io dashboard is available from the **Community** drop-down list, and represents a set of metrics that shows information about the groups.io communication channel.
 
-## Groups.io &gt; Overview <a id="Groups.io-Groups.io&gt;Overview"></a>
+Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
-SUMMARY: Overview shows a high-level information about email activity of groups for a project.
+## Overview <a id="Groups.io-Groups.io&gt;Overview"></a>
 
-**groupsio\_main\_numbers** shows the total \#Messages, \#Participants, and \#Tags.
+Overview shows a high-level information about email activity of groups for a project.
 
-**groupsio\_author\_organizations** shows a doughnut chart that represents the total number of individuals, who sent the messages/emails, by organization. Mouse over a color in the chart to see the organization name and total number of individuals from that organization who sent emails/messages. 
+**Summary** shows the total \#Messages \(that includes both sent and received\), \#Participants, and \#Lists.
 
-**groupsio\_participants\_evolutionary** shows a bar graph that represents the total number of participants per day over time. Mouse over a color to see the total number of participants for a particular day.
+**Authors By Organization** shows a doughnut chart that represents the total number of individuals per organization who have sent the messages/emails. Mouse over a color in the chart to see the organization name, total number and percentage of individuals of that organization out of the total number of authors who have sent emails/messages.
 
-**groupsio\_messages\_evolutionary** shows a bar graph that represents the total number of messages per day over time. Mouse over a color to see the total number of messages for a particular day.
+**Top Trending Subjects** shows a subject cloud of most discussed topics/subjects in the channel. Click a subject to view the corresponding data in dashboard. Close or delete the filter to see default values. ![](../../../../.gitbook/assets/clear-filter.png) 
 
-**groupsio\_messages\_timezone** shows a bar graph that represents the number of messages based on time zones. Mouse over a color to see the total number of messages for a time zone.
+**Active Participants Per Day** shows a bar graph that represents the total number of participants per day over time. Mouse over a color to see the total number of participants for a particular day.
 
-**groupsio\_main\_participants** shows a table that lets you sort values by Participants, Messages, 1st Message, and Last Message.
+**Messages Sent Per Day** shows a bar graph that represents the total number of messages per day over time. Mouse over a color to see the total number of messages for a particular day.
 
-**groupsio\_organizations** shows a table that lets you sort values by Organization, Messages, and Participants.
+**Messages By Timezone** shows a bar graph with a count of messages per Coordinated Universal Time \(UTC\) time zone. Mouse over a color in the graph to see the total number of messages for each time zone.
 
-**groupsio\_terms\_cloud** shows a term cloud of the top 20 terms that participants used. Click a **term** to show the corresponding data in the dashboard.
+**Top Participating Authors** shows a table that lists participant names, number of messages per participant, date and time of first and last message sent by the participant.
 
-**groupsio\_authorname\_messages** shows a table that lets you sort values by Time, Subject, Body, and Participants.
+**Top Participating Organizations** shows a table that lists organization name, number of messages shared by the organization, and number of participants of the organization.
+
+**Recent Messages** shows a table lists the recent date and time when the message was sent, subject of the message, and the participant name who sent the message.
+
+**Top Mailinglist** shows a table that lists links of top 5 mailing lists, number of emails, senders, and organizations associated with the mailing list.
 
