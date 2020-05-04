@@ -8,7 +8,7 @@ The Gerrit dashboards represent a set of metrics that shows information about th
 * [Approvals](gerrit.md#Gerrit-Gerrit>Timing-1)
 * [Backlog](gerrit.md#Gerrit-Gerrit>Backlog)
 
-## **Overview** <a id="Gerrit-Gerrit&gt;Overview"></a>
+##  <a id="Gerrit-Gerrit&gt;Overview"></a>
 
 SUMMARY: Overview shows visualizations that provide information about changeset statuses, submitters, and organizations. Changeset information per organization and repository is also shown.
 
@@ -34,7 +34,7 @@ SUMMARY: Overview shows visualizations that provide information about changeset 
 
 **Repositories** shows a table that lets you sort values by Repository, \# Changesets, and \# Submitters.
 
-## **Efficiency** <a id="Gerrit-Gerrit&gt;Efficiency"></a>
+##  <a id="Gerrit-Gerrit&gt;Efficiency"></a>
 
 SUMMARY: Efficiency offers a view of efficiency closing reviews based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
@@ -50,7 +50,7 @@ SUMMARY: Efficiency offers a view of efficiency closing reviews based on metrics
 
 **Repositories** shows a table with 50th percentile of Median Time Open by repository, giving an insight on the efficiency of closing reviews per repository.
 
-## **Timing** <a id="Gerrit-Gerrit&gt;Timing"></a>
+##  <a id="Gerrit-Gerrit&gt;Timing"></a>
 
 SUMMARY: Timing shows information about open and closed changesets in time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
 
@@ -70,7 +70,7 @@ SUMMARY: Timing shows information about open and closed changesets in time. The 
 
 **Changesets** shows a table that lets you sort values by changeset URLs in the project. For each changeset, the table shows the changeset summary, the number of days that the changeset was open, the submitter name, the changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
-## **Approvals** <a id="Gerrit-Gerrit&gt;Timing"></a>
+##  <a id="Gerrit-Gerrit&gt;Timing"></a>
 
 SUMMARY: Approvals shows statistical information about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
 
@@ -84,7 +84,7 @@ SUMMARY: Approvals shows statistical information about changesets that are appro
 
 **Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
 
-## **Backlog** <a id="Gerrit-Gerrit&gt;Backlog"></a>
+##  <a id="Gerrit-Gerrit&gt;Backlog"></a>
 
 SUMMARY: Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
 
