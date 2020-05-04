@@ -2,12 +2,14 @@
 
 The GitHub dashboards represent a set of metrics that shows Pull request information about the GitHub repositories. Following are the various dashboards of GitHub:
 
-* PR Overview
-* PR Backlog
-* PR Efficiency
-* PR Timing
+* [PR Overview](github-prs.md#pr-overview)
+* [PR Backlog](github-prs.md#pr-backlog)
+* [PR Efficiency](github-prs.md#pr-efficiency)
+* [PR Timing](github-prs.md#pr-timing)
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
+Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+
+## PR Overview
 
 Pull Request Overview shows all the information about pull requests for a project.
 
@@ -29,6 +31,8 @@ Pull Request Overview shows all the information about pull requests for a projec
 
 **Repositories** shows a table that lets you sort values by Repository, Pull Requests, Authors, Assignees, and Labels. You can select a repository to view its details in GitHub.
 
+## PR Backlog
+
 PR Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
 **Open Pull Requests Statistics** shows the total number of Open Pull Requests, Accumulated Open Time in Days, and the Average Time Open per Pull Request.
@@ -47,6 +51,8 @@ PR Backlog focuses on open pull requests \(data is retrieved at the moment of da
 **Backlog Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Avg. Time Open \(Days\), and Repositories.
 
 **Projects** shows a table that lets you sort values by Project, Pull Requests Open, Submitters, and Repositories.
+
+## PR Efficiency
 
 PR Efficiency offers a view of efficiency closing issues based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
@@ -71,6 +77,8 @@ This panel focuses on **closed** GitHub pull requests.
 **REI**: Review Efficiency Index, defined as the number of closed pull requests divided by the number of open ones in a given period of time. Measures efficiency closing pull requests.
 
 **Lead time**: the time expressed in days between the initiation and completion of a production process, in this case, a pull request. Shown in average.
+
+## PR Timing
 
 Timing shows information about open and closed pull requests in time. The dashboard shows submitters, repositories and organizations, but focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
 
