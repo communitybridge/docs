@@ -1,8 +1,6 @@
 # GitHub PRs
 
-{% hint style="info" %}
-Where: The GitHub dashboards are available from the **Code** drop-down list.
-{% endhint %}
+Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
 ## GitHub PRs &gt; **PR Overview** <a id="GitHubPRs-GitHubPRs&gt;PROverview"></a>
 

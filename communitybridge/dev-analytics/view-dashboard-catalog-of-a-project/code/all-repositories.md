@@ -2,7 +2,9 @@
 
 The All Repositories dashboard represents a set of metrics that shows information about all the git repositories of the project.
 
-## All Repositories &gt; **Overview** <a id="GitRepositories-GitRepositories&gt;Overview"></a>
+Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
+
+## **Overview** <a id="GitRepositories-GitRepositories&gt;Overview"></a>
 
 Overview shows information about commits in Git repositories. For each commit, Git stores information about who and when authored the commit \(author\), and about the organization that included the commit in the repository.
 
