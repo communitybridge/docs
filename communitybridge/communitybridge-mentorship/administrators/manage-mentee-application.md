@@ -9,7 +9,7 @@ You can manage your project mentees from the Mentees tab on the project detail p
 
 **To Manage Mentee Application:**
 
-1. [Log in](../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
+1. [Log in](../../../sso/log-in-to-communitybridge/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
 
 2. Go to your account and select **My Projects** from the drop-down list.  
   

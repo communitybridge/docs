@@ -4,7 +4,7 @@ Your CommunityBridge Mentorship account lets you manage your Linux Foundation ac
 
 **Follow these steps:**
 
-1. [Log in](../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/) 
+1. [Log in](../../../sso/log-in-to-communitybridge/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/) 
 2. Navigate to your user account and select an **option** from the drop-down list: ![](../../../.gitbook/assets/my-account.png) 
    * [My Profile](manage-your-mentorship-account.md#my-profile)
    * [My Projects](manage-your-mentorship-account.md#my-projects)

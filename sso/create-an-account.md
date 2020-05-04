@@ -11,11 +11,11 @@ If you are logging in to Linux Foundation for the first time, you must create an
 1. Go to [Linux Foundation website](https://lfx.platform.linuxfoundation.org/).
 2. Click **Create Account**.
 
-      ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-6.24.03-pm.png)​
+      ![Create Account](../.gitbook/assets/screen-shot-2020-05-04-at-6.24.03-pm.png)​
 
 3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name, and Password.
 
-   ​![Create Account page](../../.gitbook/assets/screen-shot-2020-05-04-at-6.22.28-pm%20%282%29.png)​
+   ​![Create Account page](../.gitbook/assets/screen-shot-2020-05-04-at-6.22.28-pm%20%282%29.png)​
 
 4. Click **Create Account**. Verify your account page opens. If you did not receive an email, click **Resend Email**.
 

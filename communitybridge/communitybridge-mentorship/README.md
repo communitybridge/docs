@@ -4,7 +4,7 @@ CommunityBridge Mentorship is a platform that offers a structured remote learnin
 
 ## How to Participate <a id="CommunityBridgeMentorship-HowtoParticipate"></a>
 
-**Note:** You must have an [account](../../sso/user-profile/create-an-account.md) or log in to [CommunityBridge Mentorship](https://people.communitybridge.org/) website to participate in the Mentorship programs.  For details, see [Login to CommunityBridge](../../sso/user-profile/log-in-to-communitybridge/).
+**Note:** You must have an [account](../../sso/create-an-account.md) or log in to [CommunityBridge Mentorship](https://people.communitybridge.org/) website to participate in the Mentorship programs.  For details, see [Login to CommunityBridge](../../sso/log-in-to-communitybridge/).
 
 You can participate in Mentorship program based on your role. CommunityBridge Mentorship supports the following roles:
 

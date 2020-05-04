@@ -12,7 +12,7 @@ Keep these items ready before you begin:
 
 **Follow these steps:**
 
-1. [Log in](../../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Mentorship](https://people.communitybridge.org/) website.
+1. [Log in](../../../../sso/log-in-to-communitybridge/) to [CommunityBridge Mentorship](https://people.communitybridge.org/) website.
 
 2. Click **Become a Mentor** on the top menu.  
 A Mentor Application appears.

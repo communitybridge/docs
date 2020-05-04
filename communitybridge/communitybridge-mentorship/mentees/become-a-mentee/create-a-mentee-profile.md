@@ -13,7 +13,7 @@ Keep these items ready before you begin:
 
 **Follow these steps:**
 
-1. [Log in](../../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
+1. [Log in](../../../../sso/log-in-to-communitybridge/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
 
 2. Click **Become a Mentee** on the top menu.
 

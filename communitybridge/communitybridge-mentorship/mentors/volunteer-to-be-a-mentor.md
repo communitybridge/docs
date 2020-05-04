@@ -6,7 +6,7 @@ As an experienced professional, if you are interested in teaching and guiding me
 
 **Do these steps:**
 
-1. [Log in](../../../sso/user-profile/log-in-to-communitybridge/) to[ CommunityBridge Mentorship](https://people.communitybridge.org/).
+1. [Log in](../../../sso/log-in-to-communitybridge/) to[ CommunityBridge Mentorship](https://people.communitybridge.org/).
 
 2. Click **Become a Mentor** on the top menu.  
      My Account page appears.

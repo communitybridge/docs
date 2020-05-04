@@ -13,7 +13,7 @@ Keep these items ready before you begin, although they are not required:
 
 **Do these steps:**
 
-1. [Log in](../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
+1. [Log in](../../../sso/log-in-to-communitybridge/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
 2. Click **Apply and** Select **ADD GIT PROJECT.**  ![](../../../.gitbook/assets/add-git-project.png)  ****
 3. Complete a project application form; red asterisks indicate required fields. For information about fields, see [Project Application Form](../project-application-form.md).
 
