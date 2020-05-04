@@ -2,7 +2,7 @@
 
 * [Linux Foundation Product Documentation](README.md)
 * [CommunityBridge](communitybridge/README.md)
-  * [User Profile](communitybridge/user-profile/README.md)
+  * [User Profile- Test](communitybridge/user-profile/README.md)
     * [Create an Account](communitybridge/user-profile/create-an-account.md)
     * [Log in to CommunityBridge](communitybridge/user-profile/log-in-to-communitybridge/README.md)
       * [Log in With Google](communitybridge/user-profile/log-in-to-communitybridge/log-in-with-google.md)
