@@ -1,17 +1,10 @@
-# Linux Foundation Documentation
+# Linux Foundation Product Documentation
 
 Linux Foundation provides a platform to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by Linux Foundation to support the creation of sustainable open source software development:
 
-### Single Sign-On \(SSO\)
-
-* Create an Account
-* Log in to your Account
-* Forgot Password
-* Logout
-* Have a question
-
 ### CommunityBridge
 
+* [User Profile](sso/user-profile/)
 * [CommunityBridge Funding](communitybridge/communitybridge-funding/)
 * [CommunityBridge Mentorship](communitybridge/communitybridge-mentorship/)
 * [CommunityBridge Dev Analytics](communitybridge/dev-analytics/)
