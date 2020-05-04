@@ -4,7 +4,7 @@
 Where: The GitHub Issues dashboards are available from the **Project Management** drop-down list.
 {% endhint %}
 
-## GitHub Issues &gt; **Issues Overview** <a id="GitHubIssues-GitHubIssues&gt;IssuesOverview"></a>
+## **Issues Overview** <a id="GitHubIssues-GitHubIssues&gt;IssuesOverview"></a>
 
 Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided. 
 

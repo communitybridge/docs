@@ -2,7 +2,7 @@
 
 The slack dashboard is available from the **Community** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
+Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 
 ## Overview  <a id="Slack-Slack&gt;Overview"></a>
 
