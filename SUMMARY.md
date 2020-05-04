@@ -11,7 +11,6 @@
     * [Log in with LinkedIn](sso/log-in-to-communitybridge/log-in-with-linkedin.md)
     * [Log in with Facebook](sso/log-in-to-communitybridge/log-in-with-facebook.md)
   * [Create an Account](sso/create-an-account.md)
-  * [User Profile](sso/user-profile.md)
 * [CommunityBridge](communitybridge/README.md)
   * [CommunityBridge Funding](communitybridge/communitybridge-funding/README.md)
     * [Dashboard](communitybridge/communitybridge-funding/dashboard/README.md)
