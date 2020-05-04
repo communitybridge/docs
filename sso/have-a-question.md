@@ -8,7 +8,7 @@ Get your questions answered and the help you need by making a request to Support
 
    The Request Support form appears:
 
-   ​![Request Support](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz9SvPT8TMQE30NA9%2Flfx-request-support.png?generation=1574407287846867&alt=media)​
+   ​![Request Support](../.gitbook/assets/screen-shot-2020-05-04-at-6.39.28-pm.png)​
 
 2. Complete the form fields and click **Send**.
 
