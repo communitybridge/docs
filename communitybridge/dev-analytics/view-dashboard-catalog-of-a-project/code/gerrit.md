@@ -5,7 +5,7 @@ The Gerrit dashboards represent a set of metrics that shows information about th
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)
 * [Timing](gerrit.md#timing)
-* Approvals
+* [Approvals](gerrit.md#approvals)
 * [Backlog](gerrit.md#backlog)
 
 ## Overview
@@ -70,7 +70,7 @@ Timing shows information about open and closed changesets in time. The dashboard
 
 **Changesets** shows a table that lets you sort values by changeset URLs in the project. For each changeset, the table shows the changeset summary, the number of days that the changeset was open, the submitter name, the changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
-Approvals
+## Approvals
 
 Approvals shows statistical information about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
 
