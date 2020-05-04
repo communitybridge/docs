@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Linux Foundation Product Documentation](README.md)
-* [SSO](sso.md)
+* [Single Sign-On \(SSO\)](sso.md)
 * [CommunityBridge](communitybridge/README.md)
   * [User Profile- Test](communitybridge/user-profile/README.md)
     * [Create an Account](communitybridge/user-profile/create-an-account.md)
