@@ -4,7 +4,7 @@ As a mentee, you can get the opportunity to engage in an open source project und
 
 **Follow these steps:**
 
-1.  [Log in](../../../user-profile/log-in-to-communitybridge/) to [CommunityBridge Mentorship](https://people.dev.platform.linuxfoundation.org/).
+1.  [Log in](../../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Mentorship](https://people.dev.platform.linuxfoundation.org/).
 2. Click **Become a Mentee** on the top menu.
 
 ![](../../../../.gitbook/assets/7418802.png)

@@ -11,7 +11,7 @@ Have these items handy before you begin:
 
 **Do these steps:**
 
-1. [Log in](../../user-profile/log-in-to-communitybridge/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
+1. [Log in](../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
 2. Click **Apply** and select **ADD EVENT**. ****![](../../../.gitbook/assets/7418552.png)
 3. Complete the application form. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form. For information about fields, see [Event Application](../event-application.md).
 4. Click **Submit Application**. The Linux Foundation administrator will review and approve or reject the application.

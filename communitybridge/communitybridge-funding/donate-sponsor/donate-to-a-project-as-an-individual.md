@@ -4,7 +4,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 **To donate to a project:** 
 
-1.  [Log in](../../user-profile/log-in-to-communitybridge/) to [CommunityBridge Funding](https://funding.communitybridge.org).
+1.  [Log in](../../../sso/user-profile/log-in-to-communitybridge/) to [CommunityBridge Funding](https://funding.communitybridge.org).
 
 2. Click **Donate** CTA on a project card.
 

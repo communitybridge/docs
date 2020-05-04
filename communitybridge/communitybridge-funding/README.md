@@ -27,7 +27,7 @@ Designated **beneficiaries** get reimbursed for their support of open source com
 
 You can participate by applying and submitting your open source project to receive funding through the CommunityBridge platform, as well as by donating to projects, and sponsoring events and travel scholarships. 
 
-**Note:** You must have an [account](../user-profile/create-an-account.md) or log in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, please see [Login to CommunityBridge](../user-profile/log-in-to-communitybridge/).
+**Note:** You must have an [account](../../sso/user-profile/create-an-account.md) or log in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, please see [Login to CommunityBridge](../../sso/user-profile/log-in-to-communitybridge/).
 
 ### **Applying for Funding** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 
