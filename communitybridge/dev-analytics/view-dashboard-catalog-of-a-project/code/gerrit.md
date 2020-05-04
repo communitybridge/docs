@@ -2,11 +2,10 @@
 
 The Gerrit dashboards represent a set of metrics that shows information about the number of changesets, submitters, repositories and average time to review the first changeset. Following are the various dashboards of Gerrit:
 
-* Overview
-* Efficiency
-* Timing
-* Approvals
-* Backlog
+* [Overview](gerrit.md#overview)
+* [Efficiency](gerrit.md#efficiency)
+* [Timing](gerrit.md#timing)
+* [Backlog](gerrit.md#backlog)
 
 ## Overview
 
