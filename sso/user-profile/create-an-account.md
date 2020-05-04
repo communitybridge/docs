@@ -9,10 +9,13 @@ description: This page describes the steps to create an account with Linux Found
 If you are logging in to Linux Foundation for the first time, you must create an account. To create a Linux Foundation account, do the following:
 
 1. Go to [Linux Foundation website](https://lfx.platform.linuxfoundation.org/).
-2. Click **Create Account**. ![Create Account](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz9Osv1-UM17yHzlX%2Fcreate_account.png?generation=1574407297199144&alt=media)​
+2. Click **Create Account**.
+
+      ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-6.24.03-pm.png)​
+
 3. On the Create a Linux Foundation Account page, enter your email address, Username, First name, Last name, and Password.
 
-   ​![Create Account page](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz9OuvDfKSSoO-zAa%2Fcreate_acct_linux_foundation.png?generation=1574407289778844&alt=media)​
+   ​![Create Account page](../../.gitbook/assets/screen-shot-2020-05-04-at-6.22.28-pm%20%282%29.png)​
 
 4. Click **Create Account**. Verify your account page opens. If you did not receive an email, click **Resend Email**.
 
