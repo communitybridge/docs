@@ -26,13 +26,14 @@ If you are logging in for the first time to any Linux Foundation managed service
 
 ![Verify Account page](../.gitbook/assets/screen-shot-2020-05-04-at-6.25.26-pm.png)
 
-6. Open the email that you received from the Linux Foundation SSO service, and click **Verify Email**. Following is an example:
+6. Please Check your email inbox for a `The Linux Foundation: Create Account` email, and open it. Click **Verify Email**. Following is an example:
 
 ![Verify Account page](../.gitbook/assets/screen-shot-2020-05-04-at-6.29.47-pm.png)
 
- 6. You are re-directed to **Sign In** page of the system/service you are trying to access.             
+ 6. You are re-directed to **Sign In** page of the Linux Foundation service you are trying to access.             
 
 ![Create Account](../.gitbook/assets/screen-shot-2020-05-04-at-6.24.03-pm.png)
 
-7. Enter details, and click **Sign In**.
+7. Enter details, and click **Sign In**.  
+You will be re-directed to the Linux Foundation service page that you are trying to access
 
