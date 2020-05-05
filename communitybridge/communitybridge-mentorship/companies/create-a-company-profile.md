@@ -12,7 +12,7 @@ Keep these items ready before you begin:
 **Do these steps:**
 
 1. Log in to CommunityBridge Mentorship.  
-For details, see [Login to CommunityBridge](../../../sso/log-in-to-communitybridge/).  
+For details, see [Login to CommunityBridge](../../../sso/sign-in-to-your-account/).  
   
 2. Click **Companies** on the top menu.  
 A Company application form appears.

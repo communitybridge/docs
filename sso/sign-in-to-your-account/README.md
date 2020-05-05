@@ -9,11 +9,11 @@ You must [create an account](../create-an-account.md#create-an-account) with Lin
 
 **Also See:**
 
-#### ​[Login with Google](log-in-with-google.md)​
+#### ​[Login with Google](sign-in-with-google.md)​
 
-#### ​[Login with GitHub](log-in-with-github.md)​
+#### ​[Login with GitHub](sign-in-with-github.md)​
 
-#### ​[Login with LinkedIn](log-in-with-linkedin.md)​
+#### ​[Login with LinkedIn](sign-in-with-linkedin.md)​
 
-#### ​[Login with Facebook](log-in-with-facebook.md)​
+#### ​[Login with Facebook](sign-in-with-facebook.md)​
 

@@ -4,7 +4,7 @@ As a project administrator, you can edit your CommunityBridge Mentorship project
 
 **Follow these steps:**
 
- 1. [Log in](../../../sso/log-in-to-communitybridge/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
+ 1. [Log in](../../../sso/sign-in-to-your-account/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
 
 2. Go to your account and select **My Projects** from the drop-down list.  
   
