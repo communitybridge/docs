@@ -2,23 +2,12 @@
 
 The GitHub dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub:
 
-The GitHub dashboards represent a set of metrics that shows Pull request information about the GitHub repositories. Following are the various dashboards of GitHub:
-
-* PR Overview
-* PR Backlog
-* PR Efficiency
-* PR Timing
+* [PR Overview](github.md#pr-overview)
+* [PR Backlog](github.md#pr-backlog)
+* [PR Efficiency](github.md#pr-efficiency)
+* [PR Timing](github.md#pr-timing)
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
-
-## **PR Overview** <a id="GitHubPRs-GitHubPRs&gt;PROverview"></a>
-
-* [PR Overview](github-prs.md#pr-overview)
-* [PR Backlog](github-prs.md#pr-backlog)
-* [PR Efficiency](github-prs.md#pr-efficiency)
-* [PR Timing](github-prs.md#pr-timing)
-
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 
 ## PR Overview
 
