@@ -5,7 +5,7 @@ Linux Foundation provides a platform to support the sustainability of open sourc
 ### Single Sign-On \(SSO\)
 
 * [Create an Account](sso/create-an-account.md)
-* [Sign in to your Account](sso/sign-in-to-your-account/)
+* [Sign in to your Account](sso/sign-in/)
 * [Forgot Password](sso/forgot-password.md)
 * [Have a question](sso/have-a-question.md)
 * [Sign out](sso/log-out.md)
