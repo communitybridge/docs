@@ -1,9 +1,8 @@
 # Sign in to your Account
 
-You must [create an account](../create-an-account.md#create-an-account) with Linux Foundation before you log in to CommuntiyBridge using Linux Foundation credentials.
+To access protected Linux Foundation services, you will need to sign in using your SSO account. If you already have a legacy Linux Foundation account also known as LFID, you can simple re-use that. If you just [created a brand new account](../create-an-account.md), please proceed as follows: 
 
-1. Go to [Linux Foundation](https://lfx.platform.linuxfoundation.org/) website.
-2. On the **Sign In** window, enter your Linux Foundation credentials and click **Sign in**.
+1. On the **Sign In** window, enter your SSO account credentials and click **Sign in**.
 
                                      ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.26.09-pm.png)
 
