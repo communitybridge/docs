@@ -11,8 +11,8 @@ Keep these items ready before you begin:
 
 **Do these steps:**
 
-1. Log in to CommunityBridge Mentorship.  
-For details, see [Login to CommunityBridge](../../../sso/sign-in/).  
+1. Sign in to CommunityBridge Mentorship.  
+For details, see [Sign in to CommunityBridge](../../../sso/sign-in/).  
   
 2. Click **Companies** on the top menu.  
 A Company application form appears.

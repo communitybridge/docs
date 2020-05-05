@@ -4,7 +4,7 @@ As a project administrator, you can open or close mentorship applications for a 
 
 **Do these steps:**
 
-1. Log in to your account.
+1. Sign in to your account.
 2. Go to your account and select **My Projects** from the drop-down list.
 3. On the **project** for which you want to open or close mentorship applications, click the toggle link: **Open Applications**/**Close Applications**.
 

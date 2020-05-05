@@ -4,7 +4,7 @@ Your CommunityBridge Mentorship account lets you manage your Linux Foundation ac
 
 **Follow these steps:**
 
-1. [Log in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/) 
+1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/) 
 2. Navigate to your user account and select an **option** from the drop-down list: ![](../../../.gitbook/assets/my-account.png) 
    * [My Profile](manage-your-mentorship-account.md#my-profile)
    * [My Projects](manage-your-mentorship-account.md#my-projects)
@@ -15,7 +15,7 @@ Your CommunityBridge Mentorship account lets you manage your Linux Foundation ac
 
 **My Profile** lets you manage your Linux Foundation identity account and your CommunityBridge profile.‌
 
-* **Manage LFID** opens your Linux Foundation account details, and lets you edit settings such as adding an avatar or more email addresses. Click **Manage LFID** to log in and open your account details. After you edit your account, click **Save**.
+* **Manage LFID** opens your Linux Foundation account details, and lets you edit settings such as adding an avatar or more email addresses. Click **Manage LFID** to sign in and open your account details. After you edit your account, click **Save**.
 
 ### Profiles <a id="profiles"></a>
 

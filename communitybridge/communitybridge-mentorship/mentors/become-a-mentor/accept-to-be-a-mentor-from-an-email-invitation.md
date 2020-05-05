@@ -12,3 +12,5 @@ When project administrator invites you to participate in the Mentorship program,
 
    2. Click **My Profile** in your email to [manage your mentorship account](../../administrators/manage-your-mentorship-account.md#profiles).
 
+
+
