@@ -26,14 +26,15 @@ If you do not remember your Linux Foundation login password, you can make a requ
 
                         
 
-1. Check your email inbox for a `The Linux Foundation: Reset Password` email and open it.
-2. Click **Reset Password**.
+4. Check your email inbox for a `The Linux Foundation: Reset Password` email and open it.
 
-   The Change Password window appears:
+5. Click **Reset Password**.
 
-          ​![Change Password](../.gitbook/assets/screen-shot-2020-05-04-at-6.45.53-pm.png)​
+The Change Password window appears:
 
-3. Enter a new password and confirm it. Click **Submit**.
+       ​![Change Password](../.gitbook/assets/screen-shot-2020-05-04-at-6.45.53-pm.png)​
+
+1. Enter a new password and confirm it. Click **Submit**.
 
    The status bar confirms that your password is updated.
 
