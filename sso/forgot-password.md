@@ -1,40 +1,21 @@
 # Forgot Password
 
-If you do not remember your Linux Foundation login password, you can make a request to reset your password.
+If you do not remember your SSO account password, you can make a request to reset your password.
 
-**Note:** A password change invalidates any of your CommunityBridge sessions and you will need to log in again.
+**Note:** A password change invalidates any of your active sessions for the protected services that you are currently logged in to and you will need to sign in again.
 
-1. Go to [Linux Foundation website](https://lfx.platform.linuxfoundation.org/)
+1. On the SSO page, simply click the **"Forgot Password?"** link.​![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.40.37-pm.png)​
+2. Enter your email address or username and click **Reset Password**. 
 
-   The Login to LFX pane appears:
+   ​ ![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.42.25-pm.png)
 
-   ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4Yart16GYwTIMIh0Qt%2F-M4YbTfrYligKsGBJuRQ%2Fforgot%20password.png?alt=media&token=77ac6c40-1eed-4cbf-853f-2024915f2a29)
+3. An email should be sent to the inbox of the email address you have on file as associated with your SSO account. In case you don't have access to the email address on file anymore, you can provide a desired email address, where you need the link to reset your SSO account password. You should see a notification as below:                    
 
-2. Click **Forgot Password?**.
-
-   The **Forgot your Password?** window appears:
-
-   ​![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.40.37-pm.png)​
-
-3. Enter your email address or username and click **Reset Password**. A message informs you:
-
-   ​​
-
-              ![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.42.25-pm.png)![Forgot your password?](../.gitbook/assets/screen-shot-2020-05-04-at-6.44.40-pm.png)
-
-
-
-                        
-
-4. Check your email inbox for a `The Linux Foundation: Reset Password` email and open it.
+4. Please Check your email inbox for a `The Linux Foundation: Reset Password` email and open it.
 
 5. Click **Reset Password**.
 
-The Change Password window appears:
+The Change Password window appears:                      ​![Change Password](../.gitbook/assets/screen-shot-2020-05-04-at-6.45.53-pm.png)​
 
-       ​![Change Password](../.gitbook/assets/screen-shot-2020-05-04-at-6.45.53-pm.png)​
-
-1. Enter a new password and confirm it. Click **Submit**.
-
-   The status bar confirms that your password is updated.
+Enter a new password and confirm it. Click **Submit**. The status bar confirms that your password is updated.
 
