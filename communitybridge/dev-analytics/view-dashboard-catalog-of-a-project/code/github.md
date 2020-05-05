@@ -48,8 +48,6 @@ PR Backlog focuses on open pull requests \(data is retrieved at the moment of da
 
 **Backlog Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Avg. Time Open \(Days\), and Repositories.
 
-**Projects** shows a table that lets you sort values by Project, Pull Requests Open, Submitters, and Repositories.
-
 ## PR Efficiency
 
 PR Efficiency offers a view of efficiency closing issues based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
@@ -98,12 +96,4 @@ Timing shows information about open and closed pull requests in time. The dashbo
 * shows a table that lets you sort values by Submitter, Pull Requests, Repositories, and Avg. Open Days.
 
 **Organizations** shows a table that lets you sort values by Organization, Pull Requests, Submitters, Assignees, and Avg. Open Days.
-
-**Projects** shows a table that lets you sort values by Project, Pull Requests, Submitters, Repositories, and Avg. Open Days.
-
-**Repositories** shows a table that lets you sort values by Repository, Pull Requests, Submitters, Assignees, and Avg. Open Days.
-
-**Latest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Created on. The default sort is by most recently created issues.
-
-**The Oldest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Open Days. The default sort is by the greatest number of open days.
 
