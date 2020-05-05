@@ -19,9 +19,9 @@ Linux Foundation provides a platform to support the sustainability of open sourc
 * [CommunityBridge EasyCLA](communitybridge/communitybridge-easycla/)
 * [CommunityBridge  Portal](communitybridge/communitybridge-web-portal/)
 
-### [Training and Certification](training-and-certification/)
+### [Training and Certification](training-and-certification.md)
 
-* [Panaroma Manage Overview](training-and-certification/training/panorama-manager-manual/)
+* [Panaroma Manage Overview]()
 * [Corporate Learner's Guide]()
 
 #### 
