@@ -6,7 +6,7 @@ While [applying for funding](../apply-for-funding/add-a-github-project.md), you 
 
 **To Add Mentees:** 
 
-1. [Log in](https://docs.linuxfoundation.org/display/PROD/.Login+to+CommunityBridge+vInitial) to [CommunityBridge Funding](https://funding.communitybridge.org/).
+1. [Sign in](https://docs.linuxfoundation.org/display/PROD/.Login+to+CommunityBridge+vInitial) to [CommunityBridge Funding](https://funding.communitybridge.org/).
 2. Go to your account and select **My Projects** from the drop-down list.
 3. Click **Edit Project** on the project to which you want to add a beneficiary.
 4. Add each mentee \(beneficiary\) in the Project Beneficiaries section: ![](../../../.gitbook/assets/7416648.png)

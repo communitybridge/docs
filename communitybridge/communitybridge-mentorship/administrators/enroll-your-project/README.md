@@ -19,7 +19,7 @@ Keep these items ready before you begin:
 * The URL for your code of conduct \(the rules of behavior for the members of that group or organization\)
 * A list of names and email addresses for the individuals who you want to invite as mentors
 
-1. Log in to CommunityBridge Mentorship as a project administrator. For details, see [Login to CommunityBridge](../../../../sso/sign-in/).
+1. Sign in to CommunityBridge Mentorship as a project administrator. For details, see [Sign in to CommunityBridge](../../../../sso/sign-in/).
 
 2. Click **Enroll Your Project**.
 

@@ -6,7 +6,7 @@ The Mentorship Program aims at providing a structured and guided learning opport
 
 **Step 2: Create LFID**
 
-An LFID helps us to identify an application easily. Creating an LFID is also beneficial for you to raise any request or concern during your mentorship program. You can also connect your social media accounts with your LFID, to showcase your achievements in open source software development. You can create Linux Foundation ID \(LFID\), as described [here](). 
+An LFID helps us to identify an application easily. Creating an LFID is also beneficial for you to raise any request or concern during your mentorship program. You can also connect your social media accounts with your LFID, to showcase your achievements in open source software development. You can create Linux Foundation ID \(LFID\), as described [here](../../../sso/create-an-account.md).
 
 **Step 3: Prepare Application Material**
 

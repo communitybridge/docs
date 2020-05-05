@@ -4,7 +4,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 **To donate to a project:** 
 
-1.  [Log in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org).
+1.  [Sign in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org).
 
 2. Click **Donate** CTA on a project card.
 
@@ -37,9 +37,10 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 9. Agree to the terms and select the checkbox.
 
-10. Click **Submit Donation** or **Submit Subscription,** depending on your donation selection. **Result:** Your Account page appears.
+10. Click **Submit Donation** or **Submit Subscription,** depending on your donation selection.   
+**Result:** Your Account page appears.
 
 {% hint style="info" %}
-At any time, you can log in to [CommunityBridge Funding](https://funding.communitybridge.org), go to your user account and select **My Transactions** to edit your monthly donation amount—click **Edit monthly donation** on the project of interest.
+At any time, you can [sign in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org), go to your user account and select **My Transactions** to edit your monthly donation amount—click **Edit monthly donation** on the project of interest.
 {% endhint %}
 

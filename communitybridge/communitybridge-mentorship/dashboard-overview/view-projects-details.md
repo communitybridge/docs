@@ -4,7 +4,7 @@ Projects details can indicate how active a mentorship is in the open source comm
 
 **To View Project Details:**
 
-1. Open CommunityBridge Mentorship. Projects, Mentors, and Companies appear in alphabetical order with their respective items. 
+1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/profile). Projects, Mentors, and Companies appear in alphabetical order with their respective items. 
 2. From **Projects** tab, click a **project** of interest. For quick access, you can search for the project by typing the name of the project in the search field. 
 3. Browse the details that appear. Depending on the data available, some or all of the following items appear:
 

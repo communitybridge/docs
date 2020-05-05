@@ -36,7 +36,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 * Type a project name in the **Search** box for quick search. 
 
 {% hint style="info" %}
-When you log in and the project application is open, the Apply button is enabled for mentees to apply to the project. When a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md), the Apply button is updated to Applications Closed.
+When you sign in and the project application is open, the Apply button is enabled for mentees to apply to the project. When a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md), the Apply button is updated to Applications Closed.
 {% endhint %}
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
