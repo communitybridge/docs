@@ -14,7 +14,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 ![](../../../.gitbook/assets/7418566.png)
 
-**Note:** If you clickt **Donate** CTA on a project card on the CommunityBridge Mentorship section, you will be re-directed to the CommunityBridge Funding section and the New Donation form appears.
+**Note:** If you click **Donate** CTA on a project card on the CommunityBridge Mentorship section, you will be re-directed to the CommunityBridge Funding section and the New Donation form appears.
 
 3. Select **Individual** option. The **I want to give** options show preset amounts for individual donor.
 
