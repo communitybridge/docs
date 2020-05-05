@@ -13,19 +13,19 @@ Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for resp
 
 Pull Request Overview shows all the information about pull requests for a project.
 
-**Summary** shows the total number of commits, authors, and repositories of the project.
+**PRs** shows the total number of pull requests, submitters, and repositories of the project.
 
 **Pull Requests by Status, over time** shows a stacked bar graph that represents the number of open and closed pull requests over time. Mouse over a color in the graph to see the total number of pull requests by status that occurred on a date.
 
+**Submitters by Organization** shows a doughnut chart that represents the total number of submitters per organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
+
 **Submitters, over time** shows a bar graph that represents the number of pull request submitters over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
 
-**Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Repositories, and Avg. Open Days.
-
-**Submitters by Organization** shows a doughnut chart that represents the total number of submitters by each organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
-
-**Projects** shows a table that lets you sort values by Project, Pull Requests, Submitters, and Repositories. 
+**Submitters** shows a table that lists submitter name, number of pull requests by the submitter, number of repositories the submitter submitted PRs, and average number of days the submitter's PRs were open before they were closed.
 
 **Pull Request by Organization, over time** shows a stacked bar graph that represents the number of pull requests by the organization over time. Mouse over a color in the graph to see the total number of pull requests that occurred on a date for the organization.
+
+**Projects** shows a table that lets you sort values by Project, Pull Requests, Submitters, and Repositories. 
 
 **github\_pullrequests\_organizations** shows a table that lets you sort values by Organization, Pull Requests, Submitters, and Repositories.
 
