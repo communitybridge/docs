@@ -5,7 +5,7 @@ You must [create an account](../create-an-account.md#create-an-account) with Lin
 1. Go to [Linux Foundation](https://lfx.platform.linuxfoundation.org/) website.
 2. On the **Sign In** window, enter your Linux Foundation credentials and click **Sign in**.
 
-                                     ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-6.48.20-pm.png)
+                                     ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.26.09-pm.png)
 
 **Also See:**
 
