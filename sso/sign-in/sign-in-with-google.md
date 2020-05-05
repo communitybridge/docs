@@ -20,9 +20,9 @@ You can use your login credentials from Google \(gmail\) to Sign in to the prote
 
 ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.17.41-pm.png)
 
-4. If you do not have an SSO account associated with the email address that you provided, the **Create an account** page appears. 
+4. If you do not have an SSO account associated with the email address that you provided, the **Create an account** page appears.                                      
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.27.26-am.png)
+![](../../.gitbook/assets/screen-shot-2020-05-05-at-5.55.23-pm.png)
 
 5. Enter a username, and click **Create Account**.  
 You will be re-directed to the Linux Foundation service page that you are trying to access.

@@ -18,13 +18,13 @@ You can use your login credentials from GitHub to Sign in to the protected Linux
 Two-factor authentication page appears if your account has Two-factor authentication turned on. Based on your choice of delivery mechanism, you may receive this code via SMS, email or text on your device. 
 {% endhint %}
 
- ![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.29.08-am.png) 
+                                             ![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.29.08-am.png) 
 
 4. After verifying your code, you can access the protected Linux Foundation service. If you already have a new or existing Linux Foundation SSO account, Linux Foundation maps your SSO account to the social/3rd party login.
 
-5. If you do not have an SSO account created earlier, then the **Create an account** page appears.                                                                          
+5. If you do not have an SSO account created earlier, then the **Create an account** page appears.                                                                           
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.27.26-am.png)
+![](../../.gitbook/assets/screen-shot-2020-05-05-at-5.55.23-pm.png)
 
 6. Enter a username, and click **Create Account**.  
 You will be re-directed to the Linux Foundation service page that you are trying to access.

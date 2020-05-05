@@ -14,7 +14,7 @@ You can use your Facebook login credentials to Sign in to the protected Linux Fo
 
 3. If you have an existing Linux Foundation SSO account, Linux Foundation maps your SSO account to the social/3rd party login, and you can access the protected Linux Foundation service. If you do not have an SSO account created earlier, then the **Create an account** page appears.                                                                          
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.27.26-am.png)
+![](../../.gitbook/assets/screen-shot-2020-05-05-at-5.55.23-pm.png)
 
 4. Enter a username, and click **Create Account**.  
 You will be then directed to the protected service that you are trying to access.
