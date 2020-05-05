@@ -1,10 +1,13 @@
 # GitHub Issues
 
-{% hint style="info" %}
-Where: The GitHub Issues dashboards are available from the **Project Management** drop-down list.
-{% endhint %}
+The GitHub Issues dashboards are available from the **Project Management** drop-down list, and represent a set of metrics that shows analysis of GitHub issues. Following are the various dashboards of GitHub Issues:
 
-## **Issues Overview** <a id="GitHubIssues-GitHubIssues&gt;IssuesOverview"></a>
+* [Issues Overview](github-issues.md#issues-overview)
+* [Issue Backlog](github-issues.md#issues-backlog)
+* [Issue Efficiency](github-issues.md#issues-efficiency)
+* [Issue Timing](github-issues.md#issues-timing)
+
+## Issues Overview
 
 Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided. 
 
@@ -12,27 +15,25 @@ Overview shows information about issues in project repositories and who submitte
 
 **issues by Status, over time** shows a stacked bar graph that represents the number of open and closed issues over time.
 
-**Submitters, over time** shows a bar graph of the number of issue submitters of issues over time.
-
-**Submitters** shows a table that lets you sort values by Submitter, Issues, Repositories, and Avg. Open Days. 
-
 **Submitters by Organization** shows a doughnut chart that represents the total number of submitters by each organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
 
-**Projects** shows a table that lets you sort values by Project, Issues Open, Submitters, and Repositories. 
+**Submitters, over time** shows a bar graph of the number of issue submitters of issues over time.
 
 **Issues by Organization, over time** shows a stacked bar graph that represents the number of issues by organization over time.
+
+**Submitters** shows a table that lets you sort values by Submitter, Issues, Repositories, and Avg. Open Days.
 
 **Organizations** shows a table that lets you sort values by Organization, Issues Open, Submitters, Assignees, and Labels. 
 
 **Repositories** lists the project's repositories. This table shows the total \# Issues Open, \# Submitters, \# Assignees, and \# Labels per repository. You can select a repository to view its details in GitHub.
 
-## GitHub Issues &gt; Issues **Backlog** <a id="GitHubIssues-GitHubIssues&gt;IssuesBacklog"></a>
+## Issues Backlog
 
 Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
 **Open Issues Statistics** shows the total number of Open Issues, Accumulated Open Days, and Average Time Open per Issue.
 
-**Backlog \(Open Issues\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click a URL to go to the issue in the project.
+**Backlog \(Open Issues\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** from URL column to go to the issue in the project.
 
 **Backlog** shows a bar graph of the number of issues by open days over time.
 
@@ -44,9 +45,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 **Organizations** shows a table that lets you sort values by Organization, Issues open, Submitters, Assignees, and Labels.
 
-**Projects** shows a table that lets you sort values by Project, Issues Open, Submitters, and Repositories.
-
-## GitHub Issues &gt; Issues **Efficiency** <a id="GitHubIssues-GitHubIssues&gt;IssuesEfficiency"></a>
+## Issues Efficiency
 
 Efficiency offers a view of efficiency closing issues based on metrics: Backlog Management Index \(BMI\), Lead Time, and Time to Close.
 
@@ -62,7 +61,7 @@ Efficiency offers a view of efficiency closing issues based on metrics: Backlog 
 
 **Repositories** shows a table that lets you sort values by Repository and 50th percentile of Median Time Open \(days\).
 
-## GitHub Issues &gt; Issues Timing <a id="GitHubIssues-GitHubIssues&gt;IssuesTiming"></a>
+## Issues Timing
 
 Timing shows information about open and closed issues in time. The dashboard shows submitters, repositories and organizations, but focuses on how long Issues remain open. Statistical information provides closing times and also tables with the latest and the oldest Issues.
 
@@ -83,8 +82,6 @@ Timing shows information about open and closed issues in time. The dashboard sho
 **Organizations** shows a table that lets you sort values by Organization, Issues Open, Submitters, Assignees, and Avg. Open Days.
 
 **Submitters** shows a table of submitters and their corresponding number of Issues, Repositories, and Avg. Open Days.
-
-**Projects** shows a table listing projects by name and Issues Open, Submitters, Repositories, and Avg. Open Days.
 
 **Repositories** shows a table listing repositories by name and Issues Open, Submitters, Assignees, and Avg. Open Days.
 
