@@ -4,7 +4,7 @@ To access protected Linux Foundation services, you will need to sign in using yo
 
 1. On the **Sign In** window, enter your SSO account credentials and click **Sign in**   ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.26.09-pm.png)
 2. The Single Sign-On service permits the use of social and 3rd party authentication providers instead of a username. 
-3. The tradeoff between creating an account vs. using a 3rd party authentication provider is between ease of use and control. While you can choose your own _Username_ when creating a SSO account, using a 3rd party provider auto-generates a system designated _Username_
+3. The tradeoff between creating an account vs. using a 3rd party authentication provider is between ease of use and control. While you can choose your own _Username_ when creating a SSO account, using a 3rd party provider, with the exception of Google, auto-generates a system designated _Username._ 
 
 **Learn more about using 3rd party Authentication Providers for your SSO Account:**
 
