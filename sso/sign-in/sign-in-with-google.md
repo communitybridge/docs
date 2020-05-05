@@ -16,11 +16,13 @@ You can use your existing login credentials from Google \(social network provide
 
    ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4N5Ixsz6n_niWmmhI0%2F-M4NA0l6pGaStfjaUJvp%2Fsign%20in%20to%20google.png?alt=media&token=f8a7caaa-00b8-4faa-9acc-f565365823a8)
 
-3. Provide email address and click **Next**.
-4.   ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.17.41-pm.png)
+3. Provide email address and click **Next**.  
 
-5. Provide password and click **Next**. If you do not have a Linux Foundation account with the email address that you entered, the **Create an account** page appears. ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4N5Ixsz6n_niWmmhI0%2F-M4NACUStDcTiRGz08oD%2Fcreate%20an%20account%20username.png?alt=media&token=d5eaf448-1cc1-4c9e-a00f-0e56f41ff3d8)
-6. Enter a username, and click **Create Account**. **Note:** This username will be your Linux Foundation username, and will be synced with your email address.
+
+   ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.17.41-pm.png)  
+
+4. Provide password and click **Next**. If you do not have a Linux Foundation account with the email address that you entered, the **Create an account** page appears. ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4N5Ixsz6n_niWmmhI0%2F-M4NACUStDcTiRGz08oD%2Fcreate%20an%20account%20username.png?alt=media&token=d5eaf448-1cc1-4c9e-a00f-0e56f41ff3d8)
+5. Enter a username, and click **Create Account**.  **Note:** This username will be your Linux Foundation username, and will be synced with your email address.
 
 The CommunityBridge Dashboard appears. Your user account appears on the top-left corner and above the Navigation pane:
 

@@ -8,11 +8,8 @@ To access protected Linux Foundation services, you will need to sign in using yo
 
 **Learn more about using 3rd party Authentication Providers for your SSO Account:**
 
-#### ​[Login with Google](sign-in-with-google.md)​
-
-#### ​[Login with GitHub](sign-in-with-github.md)​
-
-#### ​[Login with LinkedIn](sign-in-with-linkedin.md)​
-
-#### ​[Login with Facebook](sign-in-with-facebook.md)​
+* ​[Sign in with Google](sign-in-with-google.md)​
+* ​[Sign in with GitHub](sign-in-with-github.md)​
+* ​[Sign in with LinkedIn](sign-in-with-linkedin.md)​
+* ​[Sign in with Facebook](sign-in-with-facebook.md)​
 
