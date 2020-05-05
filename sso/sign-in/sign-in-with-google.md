@@ -4,7 +4,7 @@ description: This page describes the social login as single sign-on for end user
 
 # Sign in with Google
 
-You can use your login credentials from Google \(gmail\) to Sign in to the protected Linux Foundation service instead of creating a SSO account. The first time you sign in, you would enter your Google credentials to authenticate your Google account. Subsequent logins would not require you to enter your credentials⏤you simply click **Login with Google**. This one-click approach simplifies your logins.
+You can use your login credentials from Google \(gmail\) to Sign in to the protected Linux Foundation service instead of creating a SSO account. The first time you sign in, you would enter your Google credentials to authenticate your Google account. Subsequent logins would not require you to enter your credentials⏤you simply click the **Google** icon to sign in.. This one-click approach simplifies your logins.
 
 ## To Sign in with Google  <a id="to-log-in-with-google"></a>
 
