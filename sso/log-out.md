@@ -1,12 +1,14 @@
 # Sign out
 
-## Sign Out of the application
+## Sign out of the protected Linux Foundation service
 
-Log out to end your CommunityBridge session.
+For some of the protected Linux Foundation services like CommunityBridge Funding, Mentorship, EasyCLA, Security, Dev Analytics or Confluence, Jira and other protected systems, you can simply go to your **user account** and select **Log Out** 
 
-1. Go to your **user account** and select **Log Out** from the drop-down list, for example:
+Here is an example from the CommunityBridge Mentorship service.
 
-   ​![Log Out](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-LuGz82LqEUywqFA_GQT%2F-LuGz92cAa2UrFgOU2P9%2Flfx-profile-options.png?generation=1574407286204622&alt=media)​
+![](../.gitbook/assets/screen-shot-2020-05-05-at-3.56.17-am%20%281%29.png) 
+
+
 
 
 
