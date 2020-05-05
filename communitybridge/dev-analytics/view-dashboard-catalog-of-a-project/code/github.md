@@ -25,11 +25,9 @@ Pull Request Overview shows all the information about pull requests for a projec
 
 **Pull Request by Organization, over time** shows a stacked bar graph that represents the number of pull requests by the organization over time. Mouse over a color in the graph to see the total number of pull requests that occurred on a date for the organization.
 
-**Projects** shows a table that lets you sort values by Project, Pull Requests, Submitters, and Repositories. 
-
 **github\_pullrequests\_organizations** shows a table that lets you sort values by Organization, Pull Requests, Submitters, and Repositories.
 
-**Repositories** shows a table that lets you sort values by Repository, Pull Requests, Authors, Assignees, and Labels. You can select a repository to view its details in GitHub.
+**Repositories** shows a table that lets you sort values by repository link, number of pull requests, authors, assignees, and labels per repository. You can select a repository to view details on GitHub.
 
 ## PR Backlog
 
