@@ -39,13 +39,13 @@ CLA frontend consists of three independent SPA build with [Ionic](https://ionicf
 
 The following diagram explains the EasyCLA architecture.
 
-![CLA Architecture](https://gblobscdn.gitbook.com/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LvFm-YulOshzgA1Kfzg%2F-LvFmqFxsKkGTll9a7b1%2Farchitecture-overview.png?alt=media&token=8b3df13f-a0f2-4870-9e8a-da248874c538)
+![CLA Architecture](https://github.com/communitybridge/docs/blob/master/.gitbook/assets/cla-architecture-overview.png)
 
 ## EasyCLA Release Process <a id="easycla-release-process"></a>
 
 The following diagram illustrates the EasyCLA release process:
 
-![CLA Release Process](https://gblobscdn.gitbook.com/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LyilN4iKk2l6ah1BcZW%2F-LyZsXEP-98DeNAhNcRt%2Feasycla_software_development_and_release_process.png?generation=1579185181857214&alt=media)
+![CLA Release Process](https://github.com/communitybridge/docs/blob/master/.gitbook/assets/easycla-software-development-and-release_process.png)
 
 ## License <a id="license"></a>
 
