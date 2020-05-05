@@ -4,7 +4,7 @@ description: This page describes the social login as single sign-on for end user
 
 # Sign in with Google
 
-You can use your existing login credentials from Google \(social network provider\) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**. This one-click approach simplifies your logins.
+You can use your existing login credentials from Google \(gmail\) to Sign in to the protected Linux Foundation service instead of creating a SSO account. During your initial login, you enter your Google credentials to authenticate your Google account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with Google**. This one-click approach simplifies your logins.
 
 ## To Sign in with Google  <a id="to-log-in-with-google"></a>
 
