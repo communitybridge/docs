@@ -1,12 +1,14 @@
 ---
-description: This page describes the steps to create an account with Linux Foundation.
+description: >-
+  This page describes the steps to create an account with the Linux Foundation
+  Single Sign-On service.
 ---
 
 # Create an Account
 
 ## Create an account <a id="create-an-account"></a>
 
-If you are logging in to Linux Foundation for the first time, you must create an account. To create a Linux Foundation account, do the following:
+If you are logging in to any Linux Foundation managed service for the first time, you must create an account. To create a Linux Foundation SSO account, do the following:
 
 1. Go to [Linux Foundation website](https://lfx.platform.linuxfoundation.org/).
 2. Click **Create Account**.

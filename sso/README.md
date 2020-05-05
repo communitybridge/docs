@@ -1,6 +1,12 @@
 # Single Sign-On \(SSO\)
 
-You can use your Linux Foundation user profile to log in to CommuntiyBridge website. Before you log in to CommunityBridge platform, you must create an account with Linux Foundation. After you create an account, you can log in using your Linux Foundation credentials. You can also log in using your social accounts, such as Google or GitHub. Following are the different methods that help you to connect with CommunityBridge platform, seamlessly:
+The Linux Foundation provides a unified Single Sign-On service \(SSO\) to provide secure access and protect the identities of all its communities. Linux Foundation managed systems and services like Events Registration, Training and Certification, Jenkins, JIRA, Gerrit, Confluence,  CommunityBridge \(Funding, Mentorship, EasyCLA, Dev Analytics, Security\) are already protected by this SSO service. Additional services to be covered in near future will include Zoom, Slack, Groups.io among others. 
+
+Creating an account is a simple one time exercise. All you need is an email. You can create a username and password of your choice. In case you already have a legacy Linux Foundation login \(formerly known as LFID\), you can re-use that. Most of us forget passwords; hence the SSO service provides an easy way of resetting your password.
+
+You can also log in using 3rd party authentication service providers, such as Google, GitHub, LinkedIn and Facebook. Singing in with a 3rd party provider will automatically generate a new SSO account for you or map to your legacy LF login account.
+
+## Getting Started
 
 * [Create an Account](create-an-account.md)
 * [Sign in to your Account](sign-in/)
