@@ -4,7 +4,7 @@
 
 **As the project manager, do these steps to get access to EasyCLA:**
 
-1. If you do not have a Linux Foundation identification and credentials, go to [https://identity.linuxfoundation.org](https://identity.linuxfoundation.org/) and complete the form to sign up.
+1. If you do not have a Single Sign-on account, go to [https://identity.linuxfoundation.org](https://identity.linuxfoundation.org/) and complete the form to sign up.
 2. Share your sign-up username with the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
 3. Provide sample ICLA and CCLA template documents to the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
 
