@@ -1,12 +1,14 @@
-# Log in With GitHub
+# Sign in With GitHub
 
 A _social login_ is single sign-on for end users. You can use your existing login credentials from GitHub \(social network provider\) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
 
-## To Log in with GitHub: <a id="to-log-in-with-github"></a>
+## To Sign in with GitHub: <a id="to-log-in-with-github"></a>
 
 1. Go to [Linux Foundation website](https://lfx.platform.linuxfoundation.org/) .
 2. On the **Sign In** window, click **Login with GitHub**.  
-    ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4N5Ixsz6n_niWmmhI0%2F-M4NBLJknocVK34ljUgX%2Flogin%20with%20github.png?alt=media&token=fe3218bc-cc79-443d-9326-9f4edd538bd9)
+ 
+
+   ![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.21.17-pm.png)
 
    The Sign in to GitHub page appears.
 
