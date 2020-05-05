@@ -4,7 +4,7 @@ The Linux Foundation provides a unified Single Sign-On service \(SSO\) to provid
 
 Creating an account is a simple one time exercise. All you need is an email. You can create a username and password of your choice. In case you already have a legacy Linux Foundation login \(formerly known as LFID\), you can re-use that. Most of us forget passwords; hence the SSO service provides an easy way of resetting your password.
 
-You can also log in using 3rd party authentication service providers, such as Google, GitHub, LinkedIn and Facebook. Singing in with a 3rd party provider, with the exception of Google, will automatically generate a new SSO account for you or map to your legacy LF login account.
+You can also log in using 3rd party authentication service providers, such as Google, GitHub, LinkedIn and Facebook. 
 
 ## Getting Started
 
