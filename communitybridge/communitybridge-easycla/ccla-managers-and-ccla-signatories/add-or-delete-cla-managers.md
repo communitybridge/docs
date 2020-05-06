@@ -18,7 +18,7 @@ You can add CCLA managers to your project or remove them.
 
    The CLA Corporate Console shows Signed CLAs.
 
-   ​![Signed CLAs](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUgxp2Gfw1K9xp_jp%2Fcla-signed-clas.png?generation=1574684254209917&alt=media)​
+   ​![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)​
 
 3. Click a **CLA**.
 
@@ -34,11 +34,11 @@ You can add CCLA managers to your project or remove them.
 
    The Add CLA Manager dialog appears.
 
-   ​![Add CLA Manager pane](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUiYbj2DWL_cJr_Kd%2Fcla-managers-pane.png?generation=1574684258618129&alt=media)​
+   ​![Add CLA Manager pane](../../../.gitbook/assets/cla-managers-pane.png)​
 
 2. Enter the Linux Foundation identification of the CCLA manager who you want to add and click **SAVE**.
 
-   ​![Add CLA Manager](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUiYkmDD6RpDRz0UJ%2Fcla-add-cla-manager.png?generation=1574684263510673&alt=media)​
+   ​![Add CLA Manager](../../../.gitbook/assets/cla-add-cla-manager.png)​
 
 The CCLA manager is listed under CLA Managers.
 
