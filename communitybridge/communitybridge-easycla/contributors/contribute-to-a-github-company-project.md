@@ -15,18 +15,18 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 3. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names involved in that pull request based on their CLA status.  
 **Note:** A cross next to your contributor name means the CLA check failed.
 
-![GitHub Company Contributor Fail](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhk_mfIgnaAI7v1C%2Fcla-github-company-contributor-fail.png?generation=1574684262600439&alt=media)
+![CLA GitHub Company Contributor Fail](../../../.gitbook/assets/cla-github-company-contributor-fail.png)
 
 4. Click **Please click here to be authorized**.  
 **Note:** The Authorize CommunityBridge: EasyCLA dialog appears.
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-​![Authorize CommunityBridge: EasyCLA](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkbhRFX-XoByAKj%2Fcla-authorize-easycla.png?generation=1574684257473715&alt=media)​
+​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla.png)​
 
 6. The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
 
-![Select a CLA Type](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkdg9TANQf32mrr%2Fcla-github-select-company-or-individual.png?generation=1574684261979680&alt=media)
+![CLA GitHub Select Company or Individual](../../../.gitbook/assets/cla-github-select-company-or-individual.png)
 
 7. Select **Company**.  
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
@@ -40,11 +40,11 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 1. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
 
-   ​ ![](../../../.gitbook/assets/cla-github-confirmation-of-association.png) 
+   ​ ![](../../../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png) 
 
    A dialog appears and informs you: You are done!
 
-   ​ ![](../../../.gitbook/assets/cla-github-you-are-done.png) ​
+   ​ ![](../../../.gitbook/assets/cla-github-you-are-done%20%281%29.png) ​
 
 2. Click **RETURN TO REPO**.
 
@@ -52,7 +52,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    A tick appears next to your branch. A notification appears:
 
-   ​![All Checks Have Passed](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkma4myS0J7gQLQ%2Fcla-github-all-checks-passed.png?generation=1574684262508969&alt=media)​
+   ​![All Checks Have Passed](../../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)​
 
 3. Click **Merge pull request** and confirm the merge.
 
@@ -82,11 +82,11 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 4. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
 
-   ​![Confirmation of Association](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhksevS0mD5sO-pA%2Fcla-github-confirmation-of-association.png?generation=1574684256782807&alt=media)​
+   ​![Confirmation of Association](../../../.gitbook/assets/cla-github-confirmation-of-association.png)​
 
    A dialog appears and informs you: You are done!
 
-   ​![You Are Done](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkuceNLgJhkyMad%2Fcla-github-you-are-done.png?generation=1574684257899960&alt=media)​
+   ​![You Are Done](../../../.gitbook/assets/cla-github-you-are-done.png)​
 
 5. You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
 

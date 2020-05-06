@@ -17,7 +17,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 3. A warning link that you need to sign a CLA appears:
 
-![Gerrit Warning Link](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUiczKY9z4rRu1ABM%2Fcla-gerrit-sign-a-cla.png?generation=1574684258824057&alt=media)
+![CLA Gerrit Sign a CLA](../../../.gitbook/assets/cla-gerrit-sign-a-cla.png)
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
@@ -25,17 +25,15 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
 
-​![Settings Icon](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tI90CYw2rfn6DE%2Fsettings-icon.png?generation=1582568321703096&alt=media)​
-
-​![Gerrit Agreements](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tKwQX1_R0qH-25%2Fagreements.png?generation=1582568317645706&alt=media)​
+​![Settings Icon](../../../.gitbook/assets/settings-icon.png)​    ​![Gerrit Agreements](../../../.gitbook/assets/agreements.png)​
 
 7. Click **New Contributor Agreement**.
 
-![Gerrit Agreements](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tMyXANtSNlJrul%2Fagreement-link.png?generation=1582568318592032&alt=media)
+![Agreement Link](../../../.gitbook/assets/agreement-link.png)
 
 8. New Contributor Agreement types appear:
 
-![Gerrit New Contributor Agreement](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tOh2CZYVupvS0a%2Fnew-contributor-agreement.png?generation=1582568319617093&alt=media)
+![New Contributor Agreement](../../../.gitbook/assets/new-contributor-agreement.png)
 
 9. Continue to contribute as an individual or employee \(corporate contributor\):
 
@@ -48,18 +46,18 @@ EasyCLA presents a review agreement link to individual contributors to open a CL
 
 1. Select an individual CLA type.
 
-![New Contributor Agreement](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUid9V3wWrb5qP9PT%2Fcla-gerrit-icla-type.png?generation=1574684259199163&alt=media)
+![CLA Gerrit ICLA Type](../../../.gitbook/assets/cla-gerrit-icla-type.png)
 
 2. Click the **Please review the agreement link** and then click the message link that appears:
 
-![Gerrit Sign ICLA Link](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUidBaucdFiItVUTG%2Fcla-gerrit-icla-proceed-to-sign-cla.png?generation=1574684259240733&alt=media)
+![CLA Gerrit ICLA Proceed to Sign CLA](../../../.gitbook/assets/cla-gerrit-icla-proceed-to-sign-cla.png)
 
-3. Log in to EasyCLA if you are prompted.
+3. Sign in to EasyCLA if you are prompted.
 
 4. Click **OPEN CLA** on the dialog that appears:  
 DocuSign presents the agreement that you must sign. The Individual CLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 
-![Gerrit Open CLA](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUidDStM8S4znmklP%2Fcla-gerrit-individual-cla-open-cla.png?generation=1574684263649189&alt=media)
+![CLA Gerrit Individual CLA](../../../.gitbook/assets/cla-gerrit-individual-cla-open-cla.png)
 
 5. Follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
@@ -71,11 +69,11 @@ EasyCLA presents a review agreement link where you confirm your association with
 
 1. Select **Corporate CLA**.
 
-![Gerrit Corporate CLA Agreement](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tSh95a0MHJb9uA%2Fcorporate-cla.png?generation=1582568313585586&alt=media)
+![Corporate CLA](../../../.gitbook/assets/corporate-cla.png)
 
 2. Click the **Please review the agreement link** and then click the message link that appears:
 
-![Gerrit Sign ICLA Link](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUidBaucdFiItVUTG%2Fcla-gerrit-icla-proceed-to-sign-cla.png?generation=1574684259240733&alt=media)
+![](../../../.gitbook/assets/cla-gerrit-icla-proceed-to-sign-cla.png)
 
 3. Sign in to EasyCLA if you are prompted.
 
@@ -93,13 +91,13 @@ EasyCLA presents a review agreement link where you confirm your association with
 
 1. Read the Confirmation of Association statement and select the checkbox.
 
-![Gerrit Confirmation of Association](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUidK-TK78aOSvi1f%2Fcla-gerrit-confirmation-of-association.png?generation=1574684264057082&alt=media)
+![](../../../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png)
 
 2. Click **CONTINUE**.
 
 A dialog appears and informs you: You are done!
 
-![](../../../.gitbook/assets/cla-github-you-are-done.png)
+![](../../../.gitbook/assets/cla-github-you-are-done%20%281%29.png)
 
 3. Click **RETURN TO REPO**.
 
@@ -113,7 +111,7 @@ To send an email notification to your company's CLA manager to sign Corporate CL
 
 1. Select your email address from the **Email to Authorize** drop-down list. This is the email address that you want your company manager to include in the approved list while signing the Corporate CLA.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tWTupkkIt8wWdA%2Fcompany-not-signed-ccla.png?generation=1582568314578893&alt=media)
+![Company not signed CCLA](../../../.gitbook/assets/company-not-signed-ccla.png)
 
 2. Click **SEND**.
 
@@ -127,7 +125,7 @@ To send a request to your company's CLA manager to be authorized:
 
 1. Click **CONTACT**.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-t_FlAeFCRXtOxM%2Frequest-to-be-whitelisted.png?generation=1582568320703308&alt=media)
+![Request to be Approved](../../../.gitbook/assets/request-to-be-whitelisted.png)
 
 2. A **Request Access** window appears.
 
@@ -137,7 +135,7 @@ To send a request to your company's CLA manager to be authorized:
 
 A message shows that your email is successfully sent.
 
-​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-M0sPzf_2jCD36OzVcc-%2F-M0sQ-tY8jVOYvsL_vEM%2Femail-to-whitelist.png?generation=1582568315861854&alt=media)​
+![](../../../.gitbook/assets/email-to-whitelist.png)
 
 ## If Company is not in the list <a id="if-company-is-not-in-the-list"></a>
 
