@@ -1,12 +1,10 @@
 # DockerHub
 
-{% hint style="info" %}
-Where: The DockerHub dashboard is available under **Distribution** drop-down list
-{% endhint %}
+The DockerHub dashboard is available under **Distribution** drop-down list, and represents a set of metrics that provide information about DockerHub.
 
-## DockerHub &gt; Overview <a id="DockerHub-DockerHub&gt;Overview"></a>
+## Overview <a id="DockerHub-DockerHub&gt;Overview"></a>
 
-SUMMARY: Overview shows high-level information about docker images.
+Overview shows high-level information about docker images.
 
 **DockerHub** shows the total number of Docker Images, 50th percentile of Median Stars by Image, and 50th percentile of Median Pulls by Image.
 
