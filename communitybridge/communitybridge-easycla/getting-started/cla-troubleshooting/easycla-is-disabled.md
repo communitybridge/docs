@@ -20,13 +20,13 @@ This is a known issue. GitHub is set up to permit administrators and organizatio
 
 ![CLA GitHub Options](../../../../.gitbook/assets/cla-github-options.png)
 
-Branch settings appears.
+**Result:** Branch settings appears.
 
-5. Select **master** for the Default branch. **Edit** or **Add rule** for Branch protection rules of your organization.
+5. Select **master** for the Default branch. Click **Edit** or **Add rule** for Branch protection rules of your organization.
 
 ![CLA GitHub branch Add Rule](../../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
-Branch protection rule settings appear.
+**Result:** Branch protection rule settings appears
 
 6. Select the following check boxes in Rule settings and click **Create**.
 
