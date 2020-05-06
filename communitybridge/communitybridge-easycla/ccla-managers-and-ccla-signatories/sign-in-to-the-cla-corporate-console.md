@@ -15,5 +15,5 @@ As a CCLA manager, sign in to the CLA Corporate Console to add your company to a
 
    The CLA Corporate Console appears and shows Companies.
 
-![CLA Corporate Console](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhBzXKslKr6ka1HD%2Fcla-corporate-console.png?generation=1574684255686714&alt=media)
+![CLA Corporate Console](../../../.gitbook/assets/cla-corporate-console.png)
 
