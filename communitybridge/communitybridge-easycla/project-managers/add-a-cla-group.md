@@ -18,7 +18,7 @@ As a project manager, you use the CLA Management Console to add and name a CLA g
    A message informs you that your project needs a CLA group. A CLA group defines one or more CLA types that contributors must sign before they can contribute to a project.
 
 3. Click **ADD CLA GROUP**.
-4. Complete the dialog options: ​![CLA CLA Group](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUgYXq_Ll_nt7CN9f%2Fcla-cla-group.png?generation=1574684258854286&alt=media)​
+4. Complete the dialog options: ​![CLA CLA Group](../../../.gitbook/assets/cla-cla-group.png)
    1. Enter a **CLA Group Name**. The CLA Group Name indicates that a project has one or more CLAs \(Individual CLA, Corporate CLA, or both\). Consider matching the CLA group name to the project name for easy identification.
    2. Select the CLA types that you want applied to contributions to the project:
       1. **Corporate CLA: to be signed by a company** - This Corporate CLA must be signed by the CCLA signatory for your company. This person has authority to enter into legal contracts on behalf of the corporation.
@@ -28,7 +28,7 @@ As a project manager, you use the CLA Management Console to add and name a CLA g
 
 The CLA group that you added and the CLA types that you specified appear under CLA Groups.
 
-## Next Steps:
+### Next Steps:
 
 * [Add Contributor License Agreements](add-contributor-license-agreements.md)
 * [Add GitHub Repositories to CLA Monitoring or Remove Them From CLA Monitoring](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md)
