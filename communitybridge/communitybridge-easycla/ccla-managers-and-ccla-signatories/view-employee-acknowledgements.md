@@ -14,7 +14,7 @@ CCLA managers can view a list of employee acknowledgements.
 
    The CLA Corporate Console shows Signed CLAs.
 
-   ​![Signed CLAs](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUgxp2Gfw1K9xp_jp%2Fcla-signed-clas.png?generation=1574684254209917&alt=media)​
+   ​![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)​
 
 3. Click a **CLA**.
 
