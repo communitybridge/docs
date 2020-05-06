@@ -130,6 +130,7 @@
       * [Add an Identity to a Profile](communitybridge/dev-analytics/manage-contributor-affiliations/add-an-identity-to-a-profile.md)
       * [Add or Delete a Profile Organization Affiliation](communitybridge/dev-analytics/manage-contributor-affiliations/add-or-delete-a-profile-organization-affiliation.md)
       * [Blacklist an Email Address](communitybridge/dev-analytics/manage-contributor-affiliations/blacklist-an-email-address.md)
+    * [Active Contributor Summary](communitybridge/dev-analytics/active-contributor-summary.md)
     * [View Dashboard Analytics](communitybridge/dev-analytics/view-dashboard-analytics/README.md)
       * [Select Time Range](communitybridge/dev-analytics/view-dashboard-analytics/select-time-range.md)
       * [Add and Manage Data Filters](communitybridge/dev-analytics/view-dashboard-analytics/add-and-manage-data-filters.md)
