@@ -20,7 +20,7 @@ A _Contributor License Agreement_ \(CLA\) defines the terms under which intellec
 
 This high-level diagram shows the different flows and roles that EasyCLA supports:
 
-![CLA Diagram](https://gblobscdn.gitbook.com/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXNuz7Mj8F2jCpflFA%2F-LuXNvbQ1K1spOZX0q1D%2Fcla_diagram_v8.png?generation=1574682476250344&alt=media)
+![CLA Diagram](../../../.gitbook/assets/cla_diagram_v8.png)
 
 ## What Role are You? <a id="what-role-are-you"></a>
 

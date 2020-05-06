@@ -45,7 +45,7 @@ The following diagram explains the EasyCLA architecture.
 
 The following diagram illustrates the EasyCLA release process:
 
-![CLA Release Process](https://github.com/communitybridge/docs/blob/master/.gitbook/assets/easycla-software-development-and-release_process.png)
+![EasyCLA Release Process](../../.gitbook/assets/easycla-software-development-and-release_process.png)
 
 ## License <a id="license"></a>
 
