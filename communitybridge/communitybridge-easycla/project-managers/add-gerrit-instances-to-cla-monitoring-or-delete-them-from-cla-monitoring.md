@@ -11,42 +11,43 @@ If you already added a Gerrit instance during the CLA onboarding process, skip t
 **Do these steps:**
 
 1. [Sign in](sign-in-to-the-cla-management-console.md).
-2. Click a **project** of interest.
 
-   The project page appears.
+2. Click a **project** of interest  
+The project page appears.
 
-3. Click **ADD GERRIT INSTANCE**.
-
-   The Add Gerritt Instance form appears.
+3. Click **ADD GERRIT INSTANCE**  
+The Add Gerritt Instance form appears.
 
 4. Complete the form fields, and click **SUBMIT**.  
-   **Gerrit Instance Name** - Name of the Gerrit Instance  
-   **Gerrit Instance URL** - URL of the Gerrit Instance  
-   **ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
-   **CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs  
-   ![CLA Add Gerrit Instance](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUptZOvZe2VuSJqlQ%2F-LuXUq_hSzrmzh8uzOmD%2Fcla-add-gerrit-instance.png?generation=1574684290372051&alt=media)​  
-   **Notes:**
+**Gerrit Instance Name** - Name of the Gerrit Instance  
+**Gerrit Instance URL** - URL of the Gerrit Instance  
+**ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
+**CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
 
-   1. Contact the Linux Foundation IT if you do not know the LDAP Group IDs.
-   2. One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
+![CLA Add Gerrit Instance](../../../.gitbook/assets/cla-add-gerrit-instance.png)
 
+**Notes:**
 
+1. Contact the Linux Foundation IT if you do not know the LDAP Group IDs.
+2. One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
 
-   The CLA Management Console lists the instance under Gerrit Instances.​![CLA Gerrit Instances](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUptZOvZe2VuSJqlQ%2F-LuXUq_jEi5Jecbx9Jod%2Fcla-gerrit-instances.png?generation=1574684290393611&alt=media)​  
-   The CLA Management Console presents a CLA block of code:  
+The CLA Management Console lists the instance under Gerrit Instances.​​  
+The CLA Management Console presents a CLA block of code:  
   
-   `[contributor-agreement "{ICLA-Name} “]  
-   description = ICLA for Linux Foundation  
-   agreementUrl = {URL }  
-   accepted = group {Group-Name}  
-   [contributor-agreement "{CCLA-Name} “]  
-   description = CCLA for Linux Foundation  
-   agreementUrl = {URL }  
-   accepted = group {Group-Name}`
+`[contributor-agreement "{ICLA-Name} “]  
+description = ICLA for Linux Foundation  
+agreementUrl = {URL }  
+accepted = group {Group-Name}  
+[contributor-agreement "{CCLA-Name} “]  
+description = CCLA for Linux Foundation  
+agreementUrl = {URL }  
+accepted = group {Group-Name}`
+
+![CLA Gerrit Instances](../../../.gitbook/assets/cla-gerrit-instances.png)
 
 5. Copy the block. As the Gerrit instance administrator, you will modify CLA configurations for the following files under the Gerrit instance’s All-Projects repository. If you are not the administrator, contact the Gerrit instance administrator to include the following files under the Gerrit instance’s All-Projects repository. Projects are organized hierarchically as a tree with the All-Projects project as root from which all projects inherit.
 
-   You can get and set the configuration variables by using the git config command with the -l option \(this option provides the current configuration\), or if you are using the Gerrit web interface, go to Projects and click List. Select your project and click **Edit Config**.
+You can get and set the configuration variables by using the git config command with the -l option \(this option provides the current configuration\), or if you are using the Gerrit web interface, go to Projects and click List. Select your project and click **Edit Config**.
 
 **project.config** - Add the contributor license agreement block to this project configuration file. This is the project configuration file across all repositories of the Gerrit instance. At the end of the file, replace the variables with your project CLA values and then save the file:
 
@@ -61,5 +62,5 @@ accepted = group {Group-Name}`
 * **groups** - If the Group-Name value that you specified in the project.config file does not exist in this file, add it to this file, and then save the file.
 * Provide these files and Gerrit configuration to the Linux Foundation Release Engineering team to finish configuration.  The CLA Management Console shows the repositories that the CLA application will monitor.
 
-To delete an instance from monitoring, click **DELETE** next to the instance that you want to delete. A confirmation dialog appears. Click **DELETE**.
+6. To delete an instance from monitoring, click **DELETE** next to the instance that you want to delete. A confirmation dialog appears. Click **DELETE**.
 
