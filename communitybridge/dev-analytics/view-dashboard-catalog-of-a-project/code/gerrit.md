@@ -1,6 +1,6 @@
 # Gerrit
 
-The Gerrit dashboards represent a set of metrics that shows information about the number of changesets, submitters, repositories and average time to review the first changeset. Following are the various dashboards of Gerrit:
+The Gerrit dashboards represent a set of metrics that shows information about the number of changesets, submitters, repositories and average time to review the first changeset for Gerrit platform. Following are the various dashboards of Gerrit:
 
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)
