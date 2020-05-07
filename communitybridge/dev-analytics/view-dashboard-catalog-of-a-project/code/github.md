@@ -2,14 +2,14 @@
 
 The GitHub dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub:
 
-* [Overview](github.md#overview)
-* [Backlog](github.md#backlog)
-* [Efficiency](github.md#efficiency)
-* [Timing](github.md#timing)
+* [PR Overview](github.md#pr-overview)
+* [PR Backlog](github.md#pr-backlog)
+* [PR Efficiency](github.md#pr-efficiency)
+* [PR Timing](github.md#pr-timing)
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
-## Overview
+## PR Overview
 
 Pull Request Overview shows all the information about pull requests for a project.
 
@@ -29,7 +29,7 @@ Pull Request Overview shows all the information about pull requests for a projec
 
 **Repositories** shows a table that lets you sort values by repository link, number of pull requests, authors, assignees, and labels per repository. You can select a repository to view details on GitHub.
 
-## Backlog
+## PR Backlog
 
 PR Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
@@ -48,7 +48,7 @@ PR Backlog focuses on open pull requests \(data is retrieved at the moment of da
 
 **Backlog Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Avg. Time Open \(Days\), and Repositories.
 
-## Efficiency
+## PR Efficiency
 
 PR Efficiency offers a view of efficiency closing issues based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
@@ -74,7 +74,7 @@ This panel focuses on **closed** GitHub pull requests.
 
 **Lead time**: the time expressed in days between the initiation and completion of a production process, in this case, a pull request. Shown in average.
 
-## Timing
+## PR Timing
 
 Timing shows information about open and closed pull requests in time. The dashboard shows submitters, repositories and organizations, but focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
 
