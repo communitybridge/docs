@@ -6,7 +6,7 @@ CommunityBridge Dev Analytics is a centralized platform that collects and visual
 
 * [View Project Details](view-project-details.md)
 * [Manage Contributor Affiliations](manage-contributor-affiliations/)
-* [Active Contributor Summary](active-contributor-summary.md)
+* [Active Contributor Summary](active-contributor-summary/)
 * [View Dashboard Analytics](view-dashboard-analytics/)
 * [View Dashboard Use Case Examples](view-dashboard-use-case-examples/)
 * \*\*\*\*[View Dashboard Catalog of a Project](view-dashboard-catalog-of-a-project/)

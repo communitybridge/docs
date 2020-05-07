@@ -1,6 +1,6 @@
 # Gerrit
 
-The Gerrit dashboards represent a set of metrics that shows information about the number of changesets, submitters, repositories and average time to review the first changeset. Following are the various dashboards of Gerrit:
+The Gerrit dashboards represent a set of metrics that shows information about the number of changesets, submitters, repositories and average time to review the first changeset for Gerrit platform. Following are the various dashboards of Gerrit:
 
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)
@@ -32,14 +32,14 @@ Overview shows visualizations that provide information about changeset statuses,
 
 **Patchsets per Changeset Per Day** shows a stacked bar graph that represents the number of patchsets by percentile: 50th, 75th, and 95th percentile. Mouse over a color in the graph to see the total number of patchsets per percentile.
 
-**Submitters** shows a table that lists
+**Submitters** shows a table that lets you sort values by:
 
 * Submitter: Name of the submitter
 * \#Changesets: Total number of changesets submitted by the submitter for the entire project
 * \#Projects: Total number of projects the submitter is submitting changeset for
 * Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
 
-**Repositories** shows a table that lists 
+**Repositories** shows a table that lets you sort values by: 
 
 * Repository: Name of the repository
 * \#Changesets: Total number of changesets submitted for the repository
@@ -67,9 +67,9 @@ Timing shows information about open and closed changesets in time. The dashboard
 
 **Gerrit Timing Summary** shows the total \# Changesets, \# Changeset Submitters, \# Repositories, and Average time in days to review the first changeset.
 
-**Changesets Open in Median** shows a bar graph that represents the median number of changesets that were open per day over time. Mouse over a color in the graph to see the median number of days changesets were open on a date.
+**Changesets Open in Median** shows a bar graph that represents number of days for which the median number of changesets out of total number of changesets that were created per day, are open. Mouse over a color in the graph to see the data.
 
-**Changesets Open \(best 80 percentile\)** shows a bar graph that represents the 80th percentile number of changesets that were open per day over time. Mouse over a color in the graph to see the 80th percentile number of days changesets were open on a date.
+**Changesets Open \(best 80 percentile\)** shows a bar graph that represents number of days for which 80th percentile of total number of changesets that were created per day, are open. Mouse over a color in the graph to see the data.
 
 **Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number of changesets for the status, and the percentage of the project's changesets for that status.
 

@@ -5,9 +5,9 @@ Affiliation Management lets you perform actions such as affiliating identities t
 **Do these steps:**
 
 1. Go to [https://lfanalytics.io](https://lfanalytics.io/), and click **Sign In**.  
-The LF DA login dialog appears.
+The Sign In window appears.
 
-2. Log in using Linux Foundation credentials.
+2. Sign in using your Single Sign-On \(SSO\) account.
 
 3. Select a project for which you have been granted access to use Affiliation Management.  
 **Affiliation Management** appears in the menu, next to **Time Range**. If you do not have access, Affiliation Management does not appear.
