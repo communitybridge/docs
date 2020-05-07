@@ -2,10 +2,10 @@
 
 The GitHub dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub:
 
-* Overview
-* Backlog
-* Efficiency
-* Timing
+* [Overview](github.md#overview)
+* [Backlog](github.md#backlog)
+* [Efficiency](github.md#efficiency)
+* [Timing](github.md#timing)
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
