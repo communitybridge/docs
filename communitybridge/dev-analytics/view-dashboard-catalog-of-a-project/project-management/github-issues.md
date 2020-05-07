@@ -67,9 +67,9 @@ Timing shows information about open and closed issues in time. The dashboard sho
 
 **Summary** shows the total number of Issues, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\).
 
-**Median Open Time \(days\)** shows a bar graph that represents number of days for which the median number of total number of issues that were created per day overtime, are open.
+**Median Open Time \(days\)** shows a bar graph of the median number of issues that were created per day overtime.
 
-**80 Percent Open Time \(days\)** shows a bar graph that represents number of days for which the 80th percentile of total number of issues that were created per day overtime, are open.
+**80 Percent Open Time \(days\)** shows a bar graph of the 80th percentile number of issues that were created per day overtime.
 
 **Status** shows a doughnut chart that represents the total number of issues in the project by status: closed or open. Mouse over a color in the chart to see the status, the total number of issues for the status, and the percentage of the project's issues for that status.
 
