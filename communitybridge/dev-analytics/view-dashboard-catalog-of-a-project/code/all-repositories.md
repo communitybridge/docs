@@ -1,6 +1,6 @@
 # All Repositories
 
-The All Repositories dashboard represents a set of metrics that shows information about all the git based repositories, such as Gerrit or GitHub code base of the project.
+The All Repositories dashboard represents a set of metrics that shows information about all the git repositories of the project.
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
