@@ -14,7 +14,7 @@ When contributors are relevant for Dev Analytics analysis, affiliating all the i
 * [View and Address the Top Unaffiliated Contributors](view-and-address-the-top-unaffiliated-contributors.md)
 * [Find a Profile](find-a-profile.md)
 * [Edit Profile Personal Details](edit-profile-personal-details.md)
-* [Add an Identity to a Profile](add-an-identity-to-a-profile.md)
+* [Add an Identity to a Profile](add-or-unmerge-a-profile-identity.md)
 * [Add or Delete a Profile Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md)
 * [Blacklist an Email Address](blacklist-an-email-address.md)
 

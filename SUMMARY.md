@@ -127,7 +127,7 @@
       * [View and Address the Top Unaffiliated Contributors](communitybridge/dev-analytics/manage-contributor-affiliations/view-and-address-the-top-unaffiliated-contributors.md)
       * [Find a Profile](communitybridge/dev-analytics/manage-contributor-affiliations/find-a-profile.md)
       * [Edit Profile Personal Details](communitybridge/dev-analytics/manage-contributor-affiliations/edit-profile-personal-details.md)
-      * [Add or Delete an Identity Affiliation](communitybridge/dev-analytics/manage-contributor-affiliations/add-an-identity-to-a-profile.md)
+      * [Add or Unmerge a Profile Identity](communitybridge/dev-analytics/manage-contributor-affiliations/add-or-unmerge-a-profile-identity.md)
       * [Add or Delete a Profile Organization Affiliation](communitybridge/dev-analytics/manage-contributor-affiliations/add-or-delete-a-profile-organization-affiliation.md)
       * [Blacklist an Email Address](communitybridge/dev-analytics/manage-contributor-affiliations/blacklist-an-email-address.md)
     * [Active Contributor Summary](communitybridge/dev-analytics/active-contributor-summary/README.md)

@@ -17,5 +17,5 @@ The Affiliation Management Home page shows Search Profiles field.
   * Affiliations shows the name of the organization that is affiliated with the profile.
   * Number \(\#\) shows the number of identities that are affiliated with the profile.
 
-4. \(Optional\) Continue to [Add an Identity to a Profile](add-an-identity-to-a-profile.md).
+4. \(Optional\) Continue to [Add an Identity to a Profile](add-or-unmerge-a-profile-identity.md).
 
