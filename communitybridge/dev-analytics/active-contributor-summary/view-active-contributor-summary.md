@@ -29,8 +29,8 @@ The Active Community Memebers Table lets you sort values by the following data:
 * **Wiki Pages Edited**: Total number of confluence pages edited by the contributor over time
 * **Comments In Wiki:** Total number of comments on confluence pages provided by the contributor over time
 * **Wiki Blogs:** Total number of blogs on confluence written by the contributor over time
-* **Date of Last Documentation:** Date when the contributor had contributed for the last time to documentation on confluence
-* **Days since Last Documentation:** Total number of days since the contributor has not contributed anything to documentation on confluence
+* **Date of Last Documentation:** Date when the contributor had contributed for the last time to wiki pages on confluence
+* **Days since Last Documentation:** Total number of days since the contributor has not contributed anything to wiki pages on confluence
 
 
 
