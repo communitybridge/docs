@@ -8,9 +8,9 @@ Dev Analytics uses _Affiliation Management_ to handle data affiliations as follo
 
 Open source projects rely on a variety of data sources and tools to support and coordinate development activities, for example:
 
-* Git repositories or GitHub projects
-* Issue trackers such as Jira or Bugzilla
-* Messaging tools such as Slack or mailing lists
+* Git repositories, such as Gerrit or GitHub projects
+* Issue trackers such as Jira, GitHub Issues or Bugzilla
+* Messaging tools such as Slack, Groups.io or mailing lists
 * Build tools such as Jenkins
 
 Project contributors can access the tools using different identities, for example: email, username. In Dev Analytics, each contributor has a _profile_. A profile has personal details and can include multiple identities and organization affiliations. 
