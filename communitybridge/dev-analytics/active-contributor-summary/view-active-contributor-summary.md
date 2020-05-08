@@ -1,6 +1,6 @@
 # View Active Contributor Summary
 
-Active Contributor Summary displays a table that represents an aggregated data for individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
+Active Contributor Summary displays a Active Community Memebrs Table that represents an aggregated data for individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
 
 The Active Community Memebers Table lets you sort values by the following data:
 
@@ -11,7 +11,7 @@ The Active Community Memebers Table lets you sort values by the following data:
 * **LOC Added:** Total number of lines of code added by the contributor to git repositories over time
 * **LOC Modified:** Total number of lines of code modified by the contributor on git repositories over time
 * **LOC Deleted:** Total number of lines of code deleted by the contributor on git repository over time
-* **Gerrit Merges:** Total number of changesets and patchsets merged by the contributor to Gerrit over time
+* **Gerrit Merges:** Total number of changesets merged by the contributor to Gerrit over time
 * **Gerrit Approvals:** Total number of changesets and patchsets approved by the contributor for merge to Gerrit over time
 * **Gerrit Changesets:** Total number of changesets submitted by the contributor to Gerrit over time
 * **GitHub PRs Closed**: Total number of pull requests closed by the contributor on GitHub over time
