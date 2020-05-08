@@ -1,6 +1,10 @@
 # View Active Contributor Summary
 
-Active Contributor Summary displays a Active Community Memebrs Table that represents an aggregated data for individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
+After you sign in, you can see Active Contributor Summary next to **Select Time Range**. If you do not have access, Active Contributor Summary does not appear.
+
+![](../../../.gitbook/assets/active-contributor-summary.png)
+
+When you click Active Contributor Summary, Active Community Memebrs Table is displayed that represents an aggregated data for individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
 
 The Active Community Memebers Table lets you sort values by the following data:
 
