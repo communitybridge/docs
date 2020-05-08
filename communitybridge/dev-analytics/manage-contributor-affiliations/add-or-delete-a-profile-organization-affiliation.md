@@ -15,21 +15,23 @@ Organizations are shared accounts where open source projects can collaborate acr
 6. Continue to add or delete organization affiliations:
    * [Add an Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md#AddorDeleteaProfileOrganizationAffiliation-AddanOrganizationAffiliation)
    * [Delete an Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md#AddorDeleteaProfileOrganizationAffiliation-DeleteanOrganizationAffiliation)
+   * [Update an Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md#update-an-organization-affiliation)
 
 ## Add an Organization Affiliation <a id="AddorDeleteaProfileOrganizationAffiliation-AddanOrganizationAffiliation"></a>
 
 An organization affiliation relates a profile \(unique identity\) and an organization. An enrollment specifies that the person is associated with \(employed at\) an organization during a certain period.
 
-**Do these steps:**
+**Follow these steps:**
 
 1. Click **Add New**.  
-The Add an Enrollment pane appears.
+The Add an Enrollment pane appears.  
+**Note:** Organization Name and Start date are mandatory fields.
 
-![](../../../.gitbook/assets/18088281.png)
+![Add Organization Affiliation](../../../.gitbook/assets/add-organization-affiliation.png)
 
 2. In the Organization Name field, start typing the name you want to add and select a **name** from the drop-down list that appears. \(Click **X** next to the field to cancel your selection.\)
 
-3. \(Optional\) Specify an enrollment period by selecting start and end dates. Enter in a date field or click the **down arrow** to open a calendar and select a date.  
+3. Specify an enrollment period by selecting start and end dates. Enter in a date field or click the **down arrow** to open a calendar and select a date.  
 You can change the enrollment period at anytime.
 
 4. Click **Add Enrollment**.  
@@ -37,10 +39,19 @@ The organization is listed in Affiliations.
 
 ## Delete an Organization Affiliation <a id="AddorDeleteaProfileOrganizationAffiliation-DeleteanOrganizationAffiliation"></a>
 
-**Do these steps:**
+**Follow these steps:**
 
 1. Click **Delete** next to the organization that you want to withdraw.
 2. Click **Delete** on the Confirm dialog that appears.
 
    The organization affiliation is deleted.
+
+## Update an Organization Affiliation
+
+You can update only enrollment dates.
+
+**Follow these steps:**
+
+1. Click **Update** next to the organization for which you want to update the enrollment dates.
+2. Change enrollment dates, and click **Update Enrollment Dates**. The organization affiliation is updated.
 

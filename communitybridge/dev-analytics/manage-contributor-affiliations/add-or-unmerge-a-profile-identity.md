@@ -15,7 +15,7 @@ Each unique identity has a profile that summarizes the user data. The profile ca
    1. [Add an Identity Affiliation](add-or-unmerge-a-profile-identity.md#add-a-profile-identity)
    2. [Unmerge a Profile Identity](add-or-unmerge-a-profile-identity.md#unmerge-a-profile-identity)
 
-### Add a Profile Identity
+## Add a Profile Identity
 
 An identity affiliation relates a profile with a unique identity.
 
@@ -34,7 +34,7 @@ Matching results appear.
 9. Click **X** to close the window.  
 The added identity is listed in Profile Identities.
 
-### Unmerge a Profile Identity
+## Unmerge a Profile Identity
 
 After you add a unique identity to a profile, the identity appears under Profile Affiliations.
 
