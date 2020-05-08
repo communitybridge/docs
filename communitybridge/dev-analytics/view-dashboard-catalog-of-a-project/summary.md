@@ -1,5 +1,9 @@
 # Summary
 
+{% hint style="info" %}
+The data on Summary and other dashboards do not include commits by bot and empty commits.
+{% endhint %}
+
 Summary provides a high-level metrics about each data source for which the project is configured. Following are examples of some data sources for a project:
 
 **Highlights** shows the total number of repositories, contributors, and commits for the project for  a selected time range. Following is an example of Highlights section:
