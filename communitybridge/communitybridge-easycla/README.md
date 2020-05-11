@@ -21,19 +21,19 @@ Besides integration with Auth0 and Salesforce, the CLA system has the following 
 
 The CLA project has two backend projects.
 
-The majority of the backend APIs are implemented in python, and can be found in the `cla-backend` directory.
+The majority of the backend APIs are implemented in python, and can be found in the [`cla-backend`](https://github.com/communitybridge/easycla/tree/master/cla-backend) directory.
 
-Recent backend development was implemented in Golang, and can be found in the `cla-backend-go` directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
+Recent backend development was implemented in Golang, and can be found in the [`cla-backend-go`](https://github.com/communitybridge/easycla/tree/master/cla-backend-go) directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
 
 ## CLA Frontend <a id="cla-frontend"></a>
 
 ### Overview <a id="overview"></a>
 
-CLA frontend consists of three independent SPA build with [Ionic](https://ionicframework.com/) framework.
+CLA frontend consists of three independent SPA build with [Ionic](https://ionicframework.com/) framework:
 
-* `cla-frontend-project-console` for LinuxFoundation director/admin/user to manage project CLA
-* `cla-frontend-corporate-console` for any concrete company CCLA manager to sign a CCLA and manage employee CLA approved list
-* `cla-frontend-contributor-console` for any project contributor to sign ICLA or CCLA
+* [CLA front-end project console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-project-console) for LinuxFoundation director/admin/user to manage project CLA
+* [CLA front-end corporate console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-corporate-console) for company CCLA manager to sign a CCLA and manage employee CLA approved list
+* [CLA front-end contributor console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-contributor-console) for any project contributor to sign ICLA or CCLA
 
 ## EasyCLA Architechture <a id="easycla-architechture"></a>
 
