@@ -1,6 +1,6 @@
 # Gerrit
 
-The Gerrit dashboards represent a set of metrics that shows detailed information about changesets and patchsets. Following are the various dashboards of Gerrit:
+The Gerrit dashboards represent a set of metrics that shows detailed information about changesets and patchsets. Following are the various dashboards of Gerrit data source:
 
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)

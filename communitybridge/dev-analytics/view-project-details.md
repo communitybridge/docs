@@ -7,7 +7,9 @@ Dev Analytics shows projects to which you have access on the Linux Foundation pl
 **Follow these steps:**
 
 1. Open [https://lfanalytics.io](https://lfanalytics.io/). The Projects page appears and lists the projects to which you have access.
-2. Navigate to a project card on the page . Each project card shows the following information:
+2. Navigate to a project card on the page .  
+   Each project card shows the following information:
+
    * Project name identifies the project by name.
    * Description briefly describes the project. When a project description shows only an excerpt, click the **excerpt** to see the entire description.
    * **Contributors** shows the total number of contributors to the project.
@@ -15,12 +17,13 @@ Dev Analytics shows projects to which you have access on the Linux Foundation pl
    * **Commits** shows the total number of commits to the project.
    * **Repositories** shows the total number of repositories created for the project.
 
-     Some or all of the following information displays depending on what data is available:
+   Some or all of the following information displays depending on what data is available:
 
-     * **Projects** ![](../../.gitbook/assets/18088267.png)shows the logos for foundation member projects.
-     * **Project Management** shows the logos of the data sources such as ![](../../.gitbook/assets/18088261.png) for GitHub or Gerrit, ![](../../.gitbook/assets/18088260.png) for Jira, or ![](../../.gitbook/assets/18088259.png) for Slack .
-     * Labels identify the project repository subjects.
-     * An icon ![](../../.gitbook/assets/18088258.png) on each Cloud Native Computing Foundation \(CNCF\) project indicates its [maturity stages](https://www.cncf.io/projects/): sandbox, incubating, or graduated.
+   * **Projects** ![](../../.gitbook/assets/18088267.png)shows the logos for foundation member projects.
+   * **Data Sources** shows the logos of different data sources, such as ![](../../.gitbook/assets/18088261.png) for GitHub and/or Gerrit, ![](../../.gitbook/assets/18088260.png) for Jira, or ![](../../.gitbook/assets/18088259.png) for Slack, and so on.
+   * Labels identify the project repository subjects.
+   * An icon ![](../../.gitbook/assets/18088258.png) on each Cloud Native Computing Foundation \(CNCF\) project indicates its [maturity stages](https://www.cncf.io/projects/): sandbox, incubating, or graduated.
+
 3. Select a **project** of interest:
    * A foundation member project shows sub-projects. Select a **sub-project**. A page shows overviews.
    * A nonmember project shows a page with overviews.

@@ -4,7 +4,7 @@ Affiliation Management lets you perform actions such as affiliating identities t
 
 **Do these steps:**
 
-1. Go to [https://lfanalytics.io](https://lfanalytics.io/), and click **Admin Sign In**.  
+1. Go to [https://lfanalytics.io](https://lfanalytics.io/), and click **Sign In**.  
 The Sign In window appears.
 
 2. Sign in using your Single Sign-On \(SSO\) account.
