@@ -1,4 +1,4 @@
-# Linux Foundation Documentation
+# Welcome to Linux Foundation
 
 Linux Foundation provides a platform to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by Linux Foundation to support the creation and growth of sustainable open source software:
 
