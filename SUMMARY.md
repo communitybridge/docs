@@ -156,6 +156,7 @@
       * [Community](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/community/README.md)
         * [Groups.io](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/community/groups.io.md)
         * [Slack](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/community/slack.md)
+        * [Mailing List](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/community/mailing-list.md)
       * [Distribution](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/distribution/README.md)
         * [DockerHub](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/distribution/dockerhub.md)
       * [Documentation](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/documentation/README.md)
