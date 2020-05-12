@@ -4,5 +4,5 @@
 
 * [Groups.io](groups.io.md)
 * [Slack](slack.md)
-* [Mailing List](mailing-list.md)
+* Mailing List
 

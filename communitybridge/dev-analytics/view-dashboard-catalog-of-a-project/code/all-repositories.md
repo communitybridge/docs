@@ -18,7 +18,7 @@ Overview shows information about commits in Git repositories. For each commit, G
 
 **Active Contributors Per Day** shows  a bar graph that represents the number of contributors per day over time. Mouse over a color in the graph to see the total number of contributors for a date.
 
-**Contributors By Organization Per Day** shows  a bar graph that represents the number of contributors of an organization per day over time. Mouse over a color in the graph to see the total number of contributors of an organization including organization's name for a date.
+**Commits By Organization Per Day** shows  a bar graph that represents the number of commits by an organization per day over time. Mouse over a color in the graph to see the total number of contributors of an organization including organization's name for a date.
 
 **Authors** shows a table that lists author name, number of commits by the author, number of projects the author has committed code to, number of lines the author has added and removed codes, and the average number of files the author has worked over time.
 

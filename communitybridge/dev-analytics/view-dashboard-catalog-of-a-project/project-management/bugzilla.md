@@ -22,5 +22,5 @@ Overview shows information about issues and submitters in Bugzilla organizations
 
 **Issues by Organization, over time** shows a stacked bar graph that represents the number of issues by organization per day over time. Mouse over a color in the graph to see the total number of issues that occurred on a date for the organization.
 
-**Organizations** shows a table that lets you sort values by organization name, number of issues, submitters, assignees, average time to close \(days\) issues, and average updates per product.
+**Products** shows a table that lets you sort values by product name, number of issues, submitters, assignees, average time to close \(days\) issues, and average updates per product.
 

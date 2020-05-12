@@ -7,15 +7,13 @@ The GitHub Issues dashboards are available from the **Project Management** drop-
 * [Issue Efficiency](github-issues.md#issues-efficiency)
 * [Issue Timing](github-issues.md#issues-timing)
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
-
 ## Issues Overview
 
 Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided. 
 
 **Issues** shows the total number of Issues, Submitters, and Repositories for the project.
 
-**Issues by Status Over Time** shows a stacked bar graph that represents the number of open and closed issues over time.
+**issues by Status, over time** shows a stacked bar graph that represents the number of open and closed issues over time.
 
 **Submitters by Organization** shows a doughnut chart that represents the total number of submitters by each organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
 
@@ -27,7 +25,7 @@ Overview shows information about issues in project repositories and who submitte
 
 **Organizations** shows a table that lets you sort values by Organization, Issues Open, Submitters, Assignees, and Labels. 
 
-**Repositories** lists the project's repositories. This table shows the total number of Issues Open, \# Submitters, \# Assignees, and \# Labels per repository. You can select a repository to view its details in GitHub.
+**Repositories** lists the project's repositories. This table shows the total \# Issues Open, \# Submitters, \# Assignees, and \# Labels per repository. You can select a repository to view its details in GitHub.
 
 ## Issues Backlog
 
