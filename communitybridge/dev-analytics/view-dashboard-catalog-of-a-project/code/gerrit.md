@@ -65,7 +65,7 @@ Efficiency offers a view of efficiency closing reviews based on metrics: Review 
 
 Timing shows information about open and closed changesets in time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
 
-**Gerrit Timing Summary** shows the total \# Changesets, \# Changeset Submitters, \# Repositories, and Average time in days to review the first changeset.
+**Gerrit Timing Summary** shows the total number of Changesets, Changeset Submitters, Repositories, and Average time in days to review the first changeset.
 
 **Changesets Open in Median** shows a bar graph that represents number of days for which the median number of changesets out of total number of changesets that were created per day, are open. Mouse over a color in the graph to see the data.
 
@@ -84,11 +84,11 @@ Timing shows information about open and closed changesets in time. The dashboard
 
 **Repositories** shows a table that lists repository name, total number of changesets submitted to the repository, and total number of submitters of the repository.
 
-**Changesets** shows a table that shows changeset URLs for the project. For each changeset, the table shows the changeset summary, the number of days that the changeset was open, the submitter name, the changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
+**Changesets** shows a table that shows changeset URLs for the project. For each changeset, the table shows summary, number of days for which the changeset was open, submitter's name, changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
 ## Approvals
 
-Approvals shows statistical information about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
+Approvals shows statistics about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
 
 **Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of changesets that are approved.
 
@@ -104,11 +104,11 @@ Approvals shows statistical information about changesets that are approved. The 
 
 Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
 
-**NEW Changesets Statistics Summary** shows the total \# Changesets \(Status: NEW\), Accumulated Open Time in Days \(Status: NEW\), and Average Time Open in Days per Changeset \(Status: NEW\).
+**NEW Changesets Statistics Summary** shows the total number of Changesets with Status as NEW, Accumulated Time in Days over time for changestes that were open with Status as NEW, and Average Time in Days over time per Changeset \(Status: NEW\) that was open.
 
 **Backlog** shows a table that shows backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was opened, and the number of days that the backlog was open. You can click a URL to go to the changeset in the project.
 
-**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the number of changesets by accumulated open days per day over time. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
+**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the number of days for which changesets by accumulated open days per day over time. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
 
 **Backlog: New Changesets waiting to be Closed** shows a bar graph that represents the number of changesets that are new per day over time. Mouse over a color in the graph to see the accumulated number of days new changesets were waiting to be closed on a date.
 
@@ -117,8 +117,8 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 **Changeset Submitters** shows a table that lists
 
 * Submitters: Name of the submitter
-* \#Changesets: Total number of changesets submitted by the submitter for the entire project
-* \#Projects: Total number of projects the submitter is submitting changeset for
+* Changesets: Total number of changesets submitted by the submitter for the entire project
+* Projects: Total number of projects the submitter is submitting changeset for
 * Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
 
 **Organizations** shows a table that lists the organization name, and total number of changesets submitted by the organization.
