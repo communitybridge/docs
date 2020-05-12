@@ -1,6 +1,6 @@
 # View Dashboard Use Case Examples
 
-You can refer to these examples to get started using INSIGHTS. These examples provide simple steps that represent how to find the dashboards and data you need.
+You can refer to these examples to get started using Dev Analytics. These examples provide simple steps that represent how to find the dashboards and data you need.
 
 #### [Analyze Efficiency Closing GitHub Issues](analyze-efficiency-closing-github-issues.md)
 

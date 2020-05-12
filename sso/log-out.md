@@ -2,7 +2,7 @@
 
 ## Sign out of the Protected Linux Foundation Service
 
-For some of the protected Linux Foundation services like CommunityBridge Funding, Mentorship, EasyCLA, Security, Dev Analytics or Confluence, Jira and other protected systems, navigate to your **user account** and click **Log Out.**
+For some of the protected Linux Foundation services like CommunityBridge Funding, Mentorship, EasyCLA, Security, INSIGHTS or Confluence, Jira and other protected systems, navigate to your **user account** and click **Log Out.**
 
 Here is an example from the CommunityBridge Mentorship service:
 
