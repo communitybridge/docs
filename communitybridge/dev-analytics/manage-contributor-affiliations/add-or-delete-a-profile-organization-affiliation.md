@@ -2,8 +2,8 @@
 
 Organizations are shared accounts where open source projects can collaborate across many projects at once. Affiliation Management lets you:
 
-* Affiliate a profile with one or more organizations and for a specific enrollment period—this means that Dev Analytics counts the affiliated profile data in various organization charts and graphs.
-* Delete an organization affiliation—this means that Dev Analytics does not count the affiliated profile data in organization charts and graphs.
+* Affiliate a profile with one or more organizations and for a specific enrollment period—this means that INSIGHTS counts the affiliated profile data in various organization charts and graphs.
+* Delete an organization affiliation—this means that INSIGHTS does not count the affiliated profile data in organization charts and graphs.
 
 **Do these steps:**
 
