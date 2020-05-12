@@ -1,6 +1,6 @@
-# Dev Analytics Glossary
+# INSIGHTS Glossary
 
-Dev Analytics uses the following common terms in the product documentation and in the user interface:
+INSIGHTS uses the following common terms in the product documentation and in the user interface:
 
 ## approve <a id="DevAnalyticsGlossary-approve"></a>
 

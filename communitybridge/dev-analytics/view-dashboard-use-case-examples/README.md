@@ -1,6 +1,6 @@
-# View Dashboard Use Case Examples
+# Dashboard Use Case Examples
 
-You can refer to these examples to get started using Dev Analytics. These examples provide simple steps that represent how to find the dashboards and data you need.
+You can refer to these examples to get started using INSIGHTS. These examples provide simple steps that represent how to find the dashboards and data you need.
 
 #### [Analyze Efficiency Closing GitHub Issues](analyze-efficiency-closing-github-issues.md)
 
@@ -10,9 +10,9 @@ You can refer to these examples to get started using Dev Analytics. These exampl
 
 #### [Understand the Jira Backlog](understand-the-jira-backlog.md)
 
-#### [View Bugzilla Issue and Submitter Analytics](view-bugzilla-issue-and-submitter-analytics.md)
+#### [View Bugzilla Issue and Submitter Analytics](bugzilla-issue-and-submitter-analytics.md)
 
-#### [View Confluence Activities](view-confluence-activities.md)
+#### [View Confluence Activities](confluence-activities.md)
 
 #### [View Mailing List Activity](view-mailing-list-activity.md)
 

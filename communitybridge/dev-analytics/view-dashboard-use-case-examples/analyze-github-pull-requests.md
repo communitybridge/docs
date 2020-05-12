@@ -6,7 +6,7 @@ Roles: Developers, Community Managers
 Where: GitHub PRs dashboards are available from the **Code** drop-down list.
 {% endhint %}
 
-Dev Analytics lets you look at the pull request contributions to the project and answer questions such as:
+INSIGHTS lets you look at the pull request contributions to the project and answer questions such as:
 
 * Who contributes to the community by submitting pull requests?
 * How responsive is the project to changes?

@@ -1,4 +1,4 @@
-# View Dashboard Catalog of a Project
+# View Data Source Dashboards of a Project
 
 Refer to the following catalog of dashboard data to see details. When you navigate to a project's dashboard, by default the **Summary** page appears that displays overview of the project status. 
 

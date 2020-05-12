@@ -8,7 +8,7 @@ Where: GitHub Issues dashboards are available from the **Project Management** dr
 
 Users who cannot submit a pull request, but encounter problems with code can submit their bugs and feature requests as issues. The number of issues, and how they are addressed, can indicate your projects’ levels of user adoption as well as how responsive maintainers are to user needs. This number depends on how issues are tracked. Consider that issues may remain open longer for a project that uses GitHub issues only for bugs rather than one that uses issues for bugs and feature requests.
 
-This example demonstrates how you can view GitHub issues and then analyze how efficiently a project and its organizations handle the issues. How quickly a project closes issues can determine if you want to participate in the project. Dev Analytics lets you see how efficiently organizations and projects close issues. 
+This example demonstrates how you can view GitHub issues and then analyze how efficiently a project and its organizations handle the issues. How quickly a project closes issues can determine if you want to participate in the project. INSIGHTS lets you see how efficiently organizations and projects close issues. 
 
 **Follow these steps:**
 

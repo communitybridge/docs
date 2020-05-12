@@ -1,4 +1,4 @@
-# View Bugzilla Issue and Submitter Analytics
+# Bugzilla Issue and Submitter Analytics
 
 {% hint style="info" %}
 Roles: Project Manager

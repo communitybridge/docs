@@ -7,7 +7,7 @@ Active Contributor Summary becomes available to you after you request and are gr
 **Do these steps:**
 
 1. Go to the [Linux Foundation Help Center](https://jira.linuxfoundation.org/servicedesk/customer/portal/4).
-2. Select **Get Help with CommunityBridge Dev Analytics**. A ticket form appears.
+2. Select **Get Help with CommunityBridge INSIGHTS**. A ticket form appears.
 3. In the ticket, request access to Active Contributor Summary. Include this information:
    * Your Linux Foundation username
    * A list of projects maintained by you in the Linux Foundation

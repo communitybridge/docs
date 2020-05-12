@@ -1,4 +1,4 @@
-# View Confluence Activities
+# Confluence Activities
 
 {% hint style="info" %}
 Role: Project Manager
