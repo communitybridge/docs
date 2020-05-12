@@ -1,4 +1,4 @@
-# View Dashboard Analytics
+# Analyze Dashboard Analytics
 
 INSIGHTS aggregates data and creates comprehensive dashboards from specific data sources. Dashboards include relevant visualizations that display analytic metrics and important data points. You can select and open a dashboard from drop-down lists corresponding to each data source.
 

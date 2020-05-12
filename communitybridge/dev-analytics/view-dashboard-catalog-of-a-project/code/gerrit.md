@@ -1,6 +1,6 @@
 # Gerrit
 
-The Gerrit dashboards represent a set of metrics that shows detailed information about changesets and patchsets. Following are the various dashboards of Gerrit data source:
+The Gerrit dashboards represent a set of metrics that shows detailed information about changesets and patchsets per changeset. Following are the various dashboards of Gerrit data source:
 
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)
@@ -16,13 +16,13 @@ Overview shows visualizations that provide information about changeset statuses,
 
 **Summary** shows the total number of changesets, total number of individuals who submitted changesets, total number of repositories, and average time in days to review the first changeset.
 
-**Changesets Statistics \(Open Time in Days\)** shows the total number of changesets by percentile that were open for a certain time period in a day: 50th, 75th, 95th, and the percentile rank 4 of time open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
+**Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets by percentile were open: 50th, 75th, 95th, and the percentile rank 4 of time open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
-**Patchset Statistics per Changeset** shows the total number of patches by percentile: 50th, 75th, 95th, and the percentile rank of patchsets per review. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
+**Patchset Statistics per Changeset** shows the total number of patchsets by percentile—50th, 75th, 95th, and the percentile rank 4 of "patchsets per review" —per changeset . The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
-**Changesets by Status** **Per Day** shows a stacked bar graph that represents the number of changesets that were started per day for the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the graph to see the status along with its number, and the date the changesets was started.
+**Changesets by Status** **Per Day** shows a stacked bar graph that represents the number of changesets by status—MERGED, ABANDONED, NEW, DRAFT— that were started per day. Mouse over a color in the graph to see the status along with its number, and the date the changesets was started.
 
-**Changeset Submitters** **Per Day** shows a bar graph that represents submitters and their corresponding number of changesets per day over time. Mouse over a color in the graph to see the total number of changeset submitters for a date.
+**Changeset Submitters** **Per Day** shows a bar graph that represents total number of changeset submitters per day over time. Mouse over a color in the graph to see the number for a date.
 
 **Authors Percentage by Organization** shows a doughnut chart that represents the total number of changesets per organization for the project. Mouse over a color in the chart to see the total number of changesets per organization, and the percentage of changesets for that organization out of the total number.
 
@@ -30,20 +30,20 @@ Overview shows visualizations that provide information about changeset statuses,
 
 **Changeset Percentage By Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number, and percentage of changesets by status.
 
-**Patchsets per Changeset Per Day** shows a stacked bar graph that represents the number of patchsets by percentile: 50th, 75th, and 95th percentile. Mouse over a color in the graph to see the total number of patchsets per percentile.
+**Patchsets per Changeset Per Day** shows a stacked bar graph that represents the number of patchsets by percentile: 50th, 75th, and 95th percentile per changeset for a day. Mouse over a color in the graph to see the total number of patchsets per percentile.
 
 **Submitters** shows a table that lets you sort values by:
 
 * Submitter: Name of the submitter
-* \#Changesets: Total number of changesets submitted by the submitter for the entire project
-* \#Projects: Total number of projects the submitter is submitting changeset for
+* Changesets: Total number of changesets submitted by the submitter for the entire project
+* Projects: Total number of projects the submitter is submitting changeset to
 * Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
 
 **Repositories** shows a table that lets you sort values by: 
 
 * Repository: Name of the repository
-* \#Changesets: Total number of changesets submitted for the repository
-* \#Submitters: Number of contributors who submitted changesets to the repository
+* Changesets: Total number of changesets submitted to the repository
+* Submitters: Number of contributors who submitted changesets to the repository
 
 ## Efficiency
 
