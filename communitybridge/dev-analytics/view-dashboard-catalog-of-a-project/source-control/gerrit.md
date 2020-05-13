@@ -69,9 +69,9 @@ Timing shows information about open and closed changesets over time. The dashboa
 
 **Gerrit Timing Summary** shows the total number of Changesets, Changeset Submitters, Repositories, and Average time in days to review the first changeset.
 
-**Changesets Open in Median** shows a bar graph that represents number of days for which the median number of changesets out of total number of changesets that were created per day, were open before they were closed. Mouse over a color in the graph to see the data.
+**Changesets Open in Median** shows a bar graph that represents 50th percentile of days for which changesets were open on a day. Mouse over a color in the graph to see the data.
 
-**Changesets Open \(best 80 percentile\)** shows a bar graph that represents number of days for which 80th percentile of total number of changesets that were created per day, were open before they were closed. Mouse over a color in the graph to see the data.
+**Changesets Open \(best 80 percentile\)** shows a bar graph that represents 80th percentile of days for which changesets were open on a day. Mouse over a color in the graph to see the data.
 
 **Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number of changesets for the status, and the percentage of the project's changesets for that status.
 
@@ -114,9 +114,9 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 
 **Backlog** shows a table that shows backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was opened, and the number of days that the backlog was open. You can click a URL to go to the changeset in the project.
 
-**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the summation of number of days for which individual changesets are open. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
+**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the accumulated number of days for which individual changesets are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
 
-**Backlog: New Changesets waiting to be Closed** shows a bar graph that represents the number of changesets that are new per day over time. Mouse over a color in the graph to see the accumulated number of days new changesets were waiting to be closed on a date.
+**Backlog: New Changesets waiting to be Closed** shows a bar graph that represents the cumulative number of newly opened changesets that are yet to be closed, on a particular day.
 
 **Percentage of Backlog Accumulated By Organization** shows a doughnut chart that represents the total number of changesets accumulated by an organization in the project. Mouse over a color in the chart to see the total number of changesets, and their percentage of the project's organization.
 
