@@ -51,7 +51,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 Effort shows data about authors and assignees, and their effort in hours per project and organization.
 
-**Summary** shows the \# Items, \# Authors, \# Assignees, Total Hours Estimated, Total Hours Remaining, and Total Hours Logged for the project.
+**Summary** shows the total number of Items, Authors, Assignees, Total Hours Estimated, Total Hours Remaining, and Total Hours Logged for the project.
 
 **Assigned Organizations** shows a doughnut chart that represents the total number of assignees per organization. Mouse over a color in the chart to see the total number of assignees per organization, and the percentage of assignees for that organization out of the total assignees.
 
@@ -77,7 +77,7 @@ Effort shows data about authors and assignees, and their effort in hours per pro
 
 Timing shows information about open and closed issues in time and lets you focus on how long Issues remain open. Statistical information shows the 50th percentile of median time open in days. The number indicates the median number of days that issues were open. This number indicates that 50 percent of the issues were open longer than that number and 50 percent of the issues were below that number. A 50th percentile is the same as a median.
 
-**Summary** shows the \# issues, \# Submitters, \# Assigned, 50th percentile of Median Open Days, and Avg. Open Days.
+**Summary** shows the total number of Issues, Submitters, Assigned, 50th percentile of Median Open Days, and Avg. Open Days.
 
 **Issues Open in Median** shows a bar graph that represents number of days for which the median number of total issues that were created per day over time, are open. Mouse over a color in the graph to see the median number of days issues were open on a date.
 

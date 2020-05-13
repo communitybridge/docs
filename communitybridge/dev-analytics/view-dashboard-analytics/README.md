@@ -8,7 +8,7 @@ INSIGHTS aggregates data and creates comprehensive dashboards from specific data
 * [Distribution](../view-dashboard-catalog-of-a-project/registry/)
 * [Documentation](../view-dashboard-catalog-of-a-project/documentation/)
 * [Project Management](../view-dashboard-catalog-of-a-project/project-management/)
-* [Technical Management](../view-dashboard-catalog-of-a-project/technical-management/)
+* [Technical Management](../view-dashboard-catalog-of-a-project/ci-cd/)
 
 A drop-down list is only available when a related data source is available. This example shows that the Code, Documentation, Community, and Project Management data sources are available whereas the Technical Management and Distribution data sources are not: 
 
