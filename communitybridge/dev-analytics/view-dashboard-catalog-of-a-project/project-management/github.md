@@ -39,7 +39,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 **Backlog: Issues \(Accumulated Time\)** shows a bar graph that represents the cumulative number of days for which individual issues are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the issues were waiting to be closed on a date.
 
-**Percentage of Issues Opened By Organizations** shows a doughnut chart that represents the total number of issues in the project by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
+**Percentage of Issues Opened By Organizations** shows a doughnut chart that represents the total number of issues opened by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
 
 **Backlog Submitters** shows a table that lets you sort values by Submitters, Issues, Avg. Time Open \(Days\), and Repositories.
 
