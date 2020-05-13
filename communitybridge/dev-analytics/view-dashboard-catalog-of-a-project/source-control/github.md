@@ -37,9 +37,9 @@ PR Backlog focuses on open pull requests \(data is retrieved at the moment of da
 
 **Backlog \(Open Pull Requests\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** to open the URL to go to the pull request in the project.
 
-**Backlog** shows a bar graph that represents the cumulative number of pull requests that are open, for a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
+**Backlog** shows a bar graph that represents the number of pull requests that are open on a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
 
-**Backlog: Pull Requests \(Accumulated Time\)** shows a bar graph that represents the accumulated number of days for which individual pull requests are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the pull requests were waiting to be closed on a date.
+**Backlog: Pull Requests \(Accumulated Time\)** shows a bar graph that represents the cumulative number of days for which individual pull requests are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the pull requests were waiting to be closed on a date.
 
 **Organizations** shows a table that lets you sort values by Organization, Pull Requests Open, Submitters, and Repositories.
 

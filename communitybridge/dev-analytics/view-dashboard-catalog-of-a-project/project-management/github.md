@@ -2,12 +2,12 @@
 
 The GitHub dashboards under **Issue Management** represent a set of metrics that shows analysis of GitHub issues. Following are the various dashboards of GitHub:
 
-* [Overview](github.md#issues-overview)
-* [Backlog](github.md#issues-backlog)
-* [Efficiency](github.md#issues-efficiency)
-* [Timing](github.md#issues-timing)
+* [Overview](github.md#overview)
+* [Backlog](github.md#backlog)
+* [Efficiency](github.md#efficiency)
+* [Timing](github.md#timing)
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 
 ## Overview
 
@@ -17,31 +17,29 @@ Overview shows information about issues in project repositories and who submitte
 
 **Issues by Status Over Time** shows a stacked bar graph that represents the number of open and closed issues over time.
 
-**Submitters by Organization** shows a doughnut chart that represents the total number of submitters by each organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
+**Issues by Organization** shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color \(organization\) in the chart to see the organization name, total number of issues, and the percentage of the issues created by the organization.
 
-**Submitters, over time** shows a bar graph of the number of issue submitters of issues over time.
-
-**Issues by Organization, over time** shows a stacked bar graph that represents the number of issues by organization over time.
+**Issue Submitters Over Time** shows a bar graph that shows the number of submitters of issues per day over time.
 
 **Submitters** shows a table that lets you sort values by Submitter, Issues, Repositories, and Avg. Open Days.
 
 **Organizations** shows a table that lets you sort values by Organization, Issues Open, Submitters, Assignees, and Labels. 
 
-**Repositories** lists the project's repositories. This table shows the total number of Issues Open, \# Submitters, \# Assignees, and \# Labels per repository. You can select a repository to view its details in GitHub.
+**Repositories** shows a table that lists project's repositories, total number of Issues Open, Submitters, Assignees, and Labels per repository. You can select a repository to view its details in GitHub.
 
 ## Backlog
 
 Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
-**Open Issues Statistics** shows the total number of Open Issues, Accumulated Open Days, and Average Time Open per Issue.
+**Open Issues Statistics Summary** shows the total number of Open Issues, Accumulated time in days for Open issues, and Average Time Open per Issue.
 
 **Backlog \(Open Issues\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** from URL column to go to the issue in the project.
 
-**Backlog** shows a bar graph of the number of issues by open days over time.
+**Backlog** shows a bar graph that represents the number of issues that are open on a particular day. Mouse over a color in the graph to see the total number of issues on a date.
 
-**Backlog: Issues \(Accumulated Time\)** shows a bar graph that represents the number of issues by accumulated open days over time.
+**Backlog: Issues \(Accumulated Time\)** shows a bar graph that represents the cumulative number of days for which individual issues are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the issues were waiting to be closed on a date.
 
-**Organizations** shows a doughnut chart that represents the total number of issues in the project by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
+**Percentage of Issues Opened By Organizations** shows a doughnut chart that represents the total number of issues in the project by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
 
 **Backlog Submitters** shows a table that lets you sort values by Submitters, Issues, Avg. Time Open \(Days\), and Repositories.
 
@@ -69,21 +67,22 @@ Timing shows information about open and closed issues in time. The dashboard sho
 
 **Summary** shows the total number of Issues, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\).
 
-**Median Open Time \(days\)** shows a bar graph that represents number of days for which the median number of total number of issues that were created per day overtime, are open.
-
-**80 Percent Open Time \(days\)** shows a bar graph that represents number of days for which the 80th percentile of total number of issues that were created per day overtime, are open.
+**Issues** shows a stacked bar graph that represents the total number of issues over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issue for the status, and the date.
 
 **Status** shows a doughnut chart that represents the total number of issues in the project by status: closed or open. Mouse over a color in the chart to see the status, the total number of issues for the status, and the percentage of the project's issues for that status.
 
+**Median of Days An Issue is in Open State** shows a bar graph that represents 50th percentile of days for which an issue was in open state for a day.
+
+**80 Percent Open Time \(days\)** shows a bar graph that represents number of days for which the 80th percentile of total number of issues that were created per day overtime, are open.
+
 **Issues by Organization** shows a doughnut chart that represents the total number of issues in the project by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
 
-**Issues** shows a stacked bar graph that represents the total number of issues over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issue for the status, and the date.
+**Submitters** shows
 
-**Submitters** shows a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see the status, total number of submitters and the date.
+* a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see the status, total number of submitters and the date.
+* a table of submitters and their corresponding number of Issues, Repositories, and Avg. Open Days.
 
 **Organizations** shows a table that lets you sort values by Organization, Issues Open, Submitters, Assignees, and Avg. Open Days.
-
-**Submitters** shows a table of submitters and their corresponding number of Issues, Repositories, and Avg. Open Days.
 
 **Repositories** shows a table listing repositories by name and Issues Open, Submitters, Assignees, and Avg. Open Days.
 

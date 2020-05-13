@@ -114,9 +114,9 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 
 **Backlog** shows a table that shows backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was opened, and the number of days that the backlog was open. You can click a URL to go to the changeset in the project.
 
-**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the accumulated number of days for which individual changesets are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
+**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the cumulative number of days for which individual changesets are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
 
-**Backlog: New Changesets waiting to be Closed** shows a bar graph that represents the cumulative number of newly opened changesets that are yet to be closed, on a particular day.
+**Backlog: New Changesets waiting to be Closed** shows a bar graph that represents the number of newly opened changesets that are yet to be closed, on a particular day.
 
 **Percentage of Backlog Accumulated By Organization** shows a doughnut chart that represents the total number of changesets accumulated by an organization in the project. Mouse over a color in the chart to see the total number of changesets, and their percentage of the project's organization.
 

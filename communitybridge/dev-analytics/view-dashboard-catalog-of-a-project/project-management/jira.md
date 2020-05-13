@@ -1,6 +1,6 @@
 # Jira
 
-The Jira dashboards are available from the **Project Management** drop-down list, and represent a set of metrics that shows an analysis of Jira issues . Following are the various dashboards of Jira dashboard:
+The Jira dashboards under **Issue Management** represents a set of metrics that shows an analysis of Jira issues . Following are the various dashboards of Jira dashboard:
 
 * [Overview](jira.md#overview)
 * [Backlog](jira.md#backlog)
@@ -13,11 +13,11 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Summary** shows total number of issues, submitters , and projects.
 
-**Issues by Status, over time** shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
+**Issues by Status** shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
-**Issues by Organization, over time** shows a bar graph that represents the number of issues by organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues for the organization on a date.
+**Issues by Organization** shows a bar graph that represents the number of issues by organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues for the organization on a date.
 
-**Submitters, over time** shows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters and the date.
+**Submitters** hows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters and the date.
 
 **Submitters by Organization** shows a doughnut chart that represents the total number of submitters in the project per organization. Mouse over a color in the chart to see the total number of submitters for the organization, and their percentage of the project's organization.
 
@@ -35,7 +35,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 **Issues By Projects** shows a table that lets you sort values by project name, number of issues and average time in days the issue were open per project over time.
 
-**Accumulated Time \(days\): Issues waiting to be closed** shows a bar graph that represents accumulated number of days, the issues were waiting to be closed on a date. Mouse over a color in the graph to see the data.
+**Accumulated Time \(days\): Issues waiting to be closed** shows a bar graph that represents cumulative number of days for which individual issues were open, on a date. Mouse over a color in the graph to see the data.
 
 **Issues waiting to be closed** shows a stacked bar graph that represents number of issues \(that are not closed\) per day by status: Open, In Progress, To Do, and so on. These statuses are color coded. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
