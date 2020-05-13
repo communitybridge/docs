@@ -19,7 +19,7 @@ Overview shows visualizations that provide information about changeset statuses,
 **Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets \(by percentile\) are open. **Percentile rank 4 of "timeopen"** shows the percentage of changesets that were open for less than 4 days.   
 The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
-**Patchset Statistics per Changeset** shows the total number of days for which patchsets \(by percentile\) are open. **Percentile rank 4 of "patchsets per review"** shows the percentage of patchsets that were open for less than 4 days.  
+**Patchset Statistics per Changeset** shows the total number of patchsets \(by percentile\) per changeset with reference to the total number of changesets in the project. **Percentile rank 4 of "patchsets per review"** shows the percentage of patchsets that were reviewed per changesets that were open for less than 4 days.  
 The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
 **Changesets By Status** shows a stacked bar graph that represents the number of changesets by status—MERGED, ABANDONED, NEW, DRAFT— that were started per day. Mouse over a color in the graph to see the status along with its number, and the date the changesets was started.
@@ -114,7 +114,7 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 
 **Backlog** shows a table that shows backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was opened, and the number of days that the backlog was open. You can click a URL to go to the changeset in the project.
 
-**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the number of days for which changesets by accumulated open days per day over time. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
+**Backlog: Accumulated Days waiting to be Closed** shows a bar graph that represents the summation of number of days for which individual changesets are open. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
 
 **Backlog: New Changesets waiting to be Closed** shows a bar graph that represents the number of changesets that are new per day over time. Mouse over a color in the graph to see the accumulated number of days new changesets were waiting to be closed on a date.
 

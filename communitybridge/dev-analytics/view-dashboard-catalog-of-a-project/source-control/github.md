@@ -7,7 +7,7 @@ The GitHub dashboards represent a set of metrics that shows pull request informa
 * [PR Efficiency](github.md#pr-efficiency)
 * [PR Timing](github.md#pr-timing)
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
+By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
 ## Pull Requests
 
@@ -15,11 +15,11 @@ Pull Requests shows all the information about pull requests for a project.
 
 **Summary** shows the total number of pull requests, submitters, and repositories of the project over time.
 
-**Pull Requests by Status, over time** shows a stacked bar graph that represents the number of open and closed pull requests over time. Mouse over a color in the graph to see the total number of pull requests by status that occurred on a date.
+**Submitters Over Time** shows a bar graph that represents the number of pull request submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
 
 **Submitters by Organization** shows a doughnut chart that represents the total number of submitters per organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
 
-**Submitters Over Time** shows a bar graph that represents the number of pull request submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
+**Pull Requests by Status Over Time** shows a stacked bar graph that represents the number of open and closed pull requests over time. Mouse over a color in the graph to see the total number of pull requests by status that occurred on a date.
 
 **Pull Requests By Submitters** shows a table that lists submitter name, number of pull requests by the submitter, number of repositories the submitter submitted PRs, and average number of days the submitter's PRs were open before they were closed.
 
