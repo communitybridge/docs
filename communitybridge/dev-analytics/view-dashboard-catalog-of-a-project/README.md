@@ -1,12 +1,13 @@
 # View Data Source Dashboards of a Project
 
-Refer to the following catalog of dashboard data to see details. When you navigate to a project's dashboard, by default the **Summary** page appears that displays overview of the project status. 
+Refer to the following catalog of dashboard data to see details. When you navigate to a project's dashboard, by default the **Summary** page appears that displays overview of the project's data sources. 
 
 * [Summary](summary.md)
-* [Code](code/)
-* [Community](community/)
+* Source Control
+* Chat Room
+* Mailing List
 * [Documentation](documentation/)
-* [Project Management](project-management/)
-* [Technical Management](technical-management/)
-* [Distribution](distribution/)
+* Issue Management
+* CI/CD
+* Registry
 

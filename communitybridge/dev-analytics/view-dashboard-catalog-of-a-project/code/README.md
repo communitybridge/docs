@@ -1,13 +1,13 @@
-# Code
+# Source Control
 
-**Code** dashboards show analytics for the following data sources based on a project:
+**Source Control** dashboards show analytics for the following data sources based on a project's source control platform:
 
 * [Gerrit](gerrit.md)
 * [GitHub](github.md)
-* [All Repositories](all-repositories.md)
+* Git
 
 {% hint style="info" %}
-The data on Code dashboards do not include commits by Bots and empty commits. By default, Bot commit is filtered, however, you can include Bot commits by navigating to the filter section of dashboard.
+The data on Source Control dashboards do not include commits by Bots and empty commits. By default, Bot commit is filtered, however, you can include Bot commits by navigating to the filter section of dashboard.
 {% endhint %}
 
 

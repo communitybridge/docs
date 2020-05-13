@@ -149,7 +149,7 @@
       * [View Mailing List Activity](communitybridge/dev-analytics/view-dashboard-use-case-examples/view-mailing-list-activity.md)
     * [View Data Source Dashboards of a Project](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/README.md)
       * [Summary](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/summary.md)
-      * [Code](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/README.md)
+      * [Source Control](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/README.md)
         * [Gerrit](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/gerrit.md)
         * [GitHub](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/github.md)
         * [All Repositories](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/code/all-repositories.md)

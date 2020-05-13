@@ -16,7 +16,7 @@ Overview shows visualizations that provide information about changeset statuses,
 
 **Summary** shows the total number of changesets, total number of individuals who submitted changesets, total number of repositories, and average time in days to review the first changeset.
 
-**Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets by percentile were open: 50th, 75th, 95th, and the percentile rank 4 of time open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
+**Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets by percentile were open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
 **Patchset Statistics per Changeset** shows the total number of patchsets by percentile—50th, 75th, 95th, and the percentile rank 4 of "patchsets per review" —per changeset . The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
