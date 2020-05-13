@@ -1,6 +1,6 @@
 # DockerHub
 
-The DockerHub dashboard is available under **Distribution** drop-down list, and represents a set of metrics that provide information about DockerHub.
+The DockerHub dashboard is available from Registry ****drop-down list, and represents a set of metrics that provide information about DockerHub container images.
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 

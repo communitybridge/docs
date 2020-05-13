@@ -1,15 +1,15 @@
-# GitHub Issues
+# GitHub
 
-The GitHub Issues dashboards are available from the **Project Management** drop-down list, and represent a set of metrics that shows analysis of GitHub issues. Following are the various dashboards of GitHub Issues:
+The GitHub dashboards under **Issue Management** represent a set of metrics that shows analysis of GitHub issues. Following are the various dashboards of GitHub:
 
-* [Issues Overview](github-issues.md#issues-overview)
-* [Issue Backlog](github-issues.md#issues-backlog)
-* [Issue Efficiency](github-issues.md#issues-efficiency)
-* [Issue Timing](github-issues.md#issues-timing)
+* [Overview](github.md#issues-overview)
+* [Backlog](github.md#issues-backlog)
+* [Efficiency](github.md#issues-efficiency)
+* [Timing](github.md#issues-timing)
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 
-## Issues Overview
+## Overview
 
 Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided. 
 
@@ -29,7 +29,7 @@ Overview shows information about issues in project repositories and who submitte
 
 **Repositories** lists the project's repositories. This table shows the total number of Issues Open, \# Submitters, \# Assignees, and \# Labels per repository. You can select a repository to view its details in GitHub.
 
-## Issues Backlog
+## Backlog
 
 Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
@@ -47,7 +47,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 **Organizations** shows a table that lets you sort values by Organization, Issues open, Submitters, Assignees, and Labels.
 
-## Issues Efficiency
+## Efficiency
 
 Efficiency offers a view of efficiency closing issues based on metrics: Backlog Management Index \(BMI\), Lead Time, and Time to Close.
 
@@ -63,7 +63,7 @@ Efficiency offers a view of efficiency closing issues based on metrics: Backlog 
 
 **Repositories** shows a table that lets you sort values by Repository and 50th percentile of Median Time Open \(days\).
 
-## Issues Timing
+## Timing
 
 Timing shows information about open and closed issues in time. The dashboard shows submitters, repositories and organizations, but focuses on how long Issues remain open. Statistical information provides closing times and also tables with the latest and the oldest Issues.
 

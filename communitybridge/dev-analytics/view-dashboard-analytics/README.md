@@ -4,8 +4,8 @@ INSIGHTS aggregates data and creates comprehensive dashboards from specific data
 
 * [Summary](../view-dashboard-catalog-of-a-project/summary.md)
 * [Code](../view-dashboard-catalog-of-a-project/source-control/)
-* [Community](../view-dashboard-catalog-of-a-project/community/)
-* [Distribution](../view-dashboard-catalog-of-a-project/distribution/)
+* [Community](../view-dashboard-catalog-of-a-project/chat-room/)
+* [Distribution](../view-dashboard-catalog-of-a-project/registry/)
 * [Documentation](../view-dashboard-catalog-of-a-project/documentation/)
 * [Project Management](../view-dashboard-catalog-of-a-project/project-management/)
 * [Technical Management](../view-dashboard-catalog-of-a-project/technical-management/)

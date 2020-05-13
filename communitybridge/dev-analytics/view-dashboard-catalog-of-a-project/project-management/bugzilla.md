@@ -1,16 +1,16 @@
 # Bugzilla
 
-The Bugzilla dashboard is available from the **Project Management** drop-down list, and represents a set of metrics that provide information about the Bugzilla. 
+The Bugzilla dashboard is available from the **Issue Management** drop-down list, and represents a set of metrics that provide information about Bugzilla. 
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 
 ## Overview <a id="Bugzilla-Bugzilla&gt;Overview"></a>
 
 Overview shows information about issues and submitters in Bugzilla organizations.
 
-**Issues** shows the total \# Issues, \# Submitters, and \# Products.
+**Issues** shows the total number of Issues, Submitters, and Products.
 
-**Issues by Status, over time** shows a stacked bar graph that represents the number of issues by status per day over time such as: RESOLVED, CONFIRMED, IN\_PROGRESS, VERIFIED, UNCONFIRMED. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
+**Issues by Status Over Time** shows a stacked bar graph that represents the number of issues by status per day over time such as: RESOLVED, CONFIRMED, IN\_PROGRESS, VERIFIED, UNCONFIRMED. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
 **Submitters by Organization** shows a doughnut chart that represents the total number of submitters in the project by organization. Mouse over a color in the chart to see the total number of submitters for the organization, and their percentage of the project's organization.
 
