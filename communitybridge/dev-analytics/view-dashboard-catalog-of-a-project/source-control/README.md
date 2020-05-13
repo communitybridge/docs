@@ -4,7 +4,7 @@
 
 * [Gerrit](gerrit.md)
 * [GitHub](github.md)
-* Git
+* [Git](git.md)
 
 {% hint style="info" %}
 The data on Source Control dashboards do not include commits by Bots and empty commits. By default, Bot commit is filtered, however, you can include Bot commits by navigating to the filter section of dashboard.

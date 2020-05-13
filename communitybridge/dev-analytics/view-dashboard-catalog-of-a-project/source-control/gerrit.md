@@ -8,7 +8,7 @@ The Gerrit dashboards represent a set of metrics that shows detailed information
 * [Approvals](gerrit.md#approvals)
 * [Backlog](gerrit.md#backlog)
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
+By default, Bots and Changesets Only filters are applied. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
 ## Overview
 
@@ -16,27 +16,29 @@ Overview shows visualizations that provide information about changeset statuses,
 
 **Summary** shows the total number of changesets, total number of individuals who submitted changesets, total number of repositories, and average time in days to review the first changeset.
 
-**Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets by percentile were open. The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
+**Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets \(by percentile\) are open. **Percentile rank 4 of "timeopen"** shows the percentage of changesets that were open for less than 4 days.   
+The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
-**Patchset Statistics per Changeset** shows the total number of patchsets by percentile—50th, 75th, 95th, and the percentile rank 4 of "patchsets per review" —per changeset . The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
+**Patchset Statistics per Changeset** shows the total number of days for which patchsets \(by percentile\) are open. **Percentile rank 4 of "patchsets per review"** shows the percentage of patchsets that were open for less than 4 days.  
+The percentile rank of a score is the percentage of scores in its frequency distribution that are equal to or lower than it.
 
-**Changesets by Status** **Per Day** shows a stacked bar graph that represents the number of changesets by status—MERGED, ABANDONED, NEW, DRAFT— that were started per day. Mouse over a color in the graph to see the status along with its number, and the date the changesets was started.
+**Changesets By Status** shows a stacked bar graph that represents the number of changesets by status—MERGED, ABANDONED, NEW, DRAFT— that were started per day. Mouse over a color in the graph to see the status along with its number, and the date the changesets was started.
 
-**Changeset Submitters** **Per Day** shows a bar graph that represents total number of changeset submitters per day over time. Mouse over a color in the graph to see the number for a date.
+**Changeset Submitters** shows a bar graph that represents total number of changeset submitters per day over time. Mouse over a color in the graph to see the number for a date.
 
-**Authors Percentage by Organization** shows a doughnut chart that represents the total number of changesets per organization for the project. Mouse over a color in the chart to see the total number of changesets per organization, and the percentage of changesets for that organization out of the total number.
+**Authors Percentage By Organization** shows a doughnut chart that represents the total number of changesets per organization over time. Mouse over a color in the chart to see the total number of changesets per organization, and the percentage of changesets for that organization out of the total number.
 
 **Organizations** shows a stacked bar graph that represents the number of changesets by an organization per day over time. Mouse over a color in the graph to see the total number of changesets for the organization and the date.
 
 **Changeset Percentage By Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number, and percentage of changesets by status.
 
-**Patchsets per Changeset Per Day** shows a stacked bar graph that represents the number of patchsets by percentile: 50th, 75th, and 95th percentile per changeset for a day. Mouse over a color in the graph to see the total number of patchsets per percentile.
+**Patchsets per Changeset** shows a stacked bar graph that represents the number of patchsets \(by percentile\) per changeset for a day. Mouse over a color in the graph to see the total number of patchsets per percentile.
 
 **Submitters** shows a table that lets you sort values by:
 
 * Submitter: Name of the submitter
 * Changesets: Total number of changesets submitted by the submitter for the entire project
-* Projects: Total number of projects the submitter is submitting changeset to
+* Projects: Total number of projects the submitter has submitted changeset to
 * Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
 
 **Repositories** shows a table that lets you sort values by: 
@@ -63,13 +65,13 @@ Efficiency offers a view of efficiency closing reviews based on metrics: Review 
 
 ## Timing
 
-Timing shows information about open and closed changesets in time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
+Timing shows information about open and closed changesets over time. The dashboard shows submitters, repositories and organizations, but focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
 
 **Gerrit Timing Summary** shows the total number of Changesets, Changeset Submitters, Repositories, and Average time in days to review the first changeset.
 
-**Changesets Open in Median** shows a bar graph that represents number of days for which the median number of changesets out of total number of changesets that were created per day, are open. Mouse over a color in the graph to see the data.
+**Changesets Open in Median** shows a bar graph that represents number of days for which the median number of changesets out of total number of changesets that were created per day, were open before they were closed. Mouse over a color in the graph to see the data.
 
-**Changesets Open \(best 80 percentile\)** shows a bar graph that represents number of days for which 80th percentile of total number of changesets that were created per day, are open. Mouse over a color in the graph to see the data.
+**Changesets Open \(best 80 percentile\)** shows a bar graph that represents number of days for which 80th percentile of total number of changesets that were created per day, were open before they were closed. Mouse over a color in the graph to see the data.
 
 **Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number of changesets for the status, and the percentage of the project's changesets for that status.
 
@@ -90,7 +92,7 @@ Timing shows information about open and closed changesets in time. The dashboard
 
 Approvals shows statistics about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
 
-**Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of changesets that are approved.
+**Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of approvals made for the changesets.
 
 **Approvals by Reviewer** shows a table that lists reviewer's name, number of changesets approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer over time.
 
@@ -104,7 +106,11 @@ Approvals shows statistics about changesets that are approved. The dashboard sho
 
 Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
 
-**NEW Changesets Statistics Summary** shows the total number of Changesets with Status as NEW, Accumulated Time in Days over time for changestes that were open with Status as NEW, and Average Time in Days over time per Changeset \(Status: NEW\) that was open.
+**NEW Changesets Statistics Summary** shows:
+
+* Total number of newly created/opened Changesets over time.
+* Accumulated Open Time in Days\(Status: NEW\) shows summation of number of days for which each newly created changeset was open.
+* Average Time Open in Days over time per Changeset \(Status: NEW\) that was open.
 
 **Backlog** shows a table that shows backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was opened, and the number of days that the backlog was open. You can click a URL to go to the changeset in the project.
 

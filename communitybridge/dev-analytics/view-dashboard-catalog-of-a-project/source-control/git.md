@@ -1,4 +1,4 @@
-# All Repositories
+# Git
 
 The All Repositories dashboard represents a set of metrics that shows high level information, such as total number of commits, authors, repositories, and so on for  all the git based repositories, such as Gerrit and/or GitHub.
 

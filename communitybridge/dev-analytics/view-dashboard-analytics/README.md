@@ -3,7 +3,7 @@
 INSIGHTS aggregates data and creates comprehensive dashboards from specific data sources. Dashboards include relevant visualizations that display analytic metrics and important data points. You can select and open a dashboard from drop-down lists corresponding to each data source.
 
 * [Summary](../view-dashboard-catalog-of-a-project/summary.md)
-* [Code](../view-dashboard-catalog-of-a-project/code/)
+* [Code](../view-dashboard-catalog-of-a-project/source-control/)
 * [Community](../view-dashboard-catalog-of-a-project/community/)
 * [Distribution](../view-dashboard-catalog-of-a-project/distribution/)
 * [Documentation](../view-dashboard-catalog-of-a-project/documentation/)
