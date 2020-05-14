@@ -75,7 +75,7 @@ Timing shows information about open and closed changesets over time. The dashboa
 
 **Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number of changesets for the status, and the percentage of the project's changesets for that status.
 
-**Organizations** shows a doughnut chart that represents the total number of changesets  by organization over a time range. Mouse over a color in the chart to see the total number of changesets for the organization, and their percentage of the project's organization.
+**Organizations** shows a doughnut chart that represents the total number of activities related to changeset, patchset, and approvals submitted  by an organization over a time range. Mouse over a color in the chart to see the total number of data activities for the organization, and their percentage.
 
 **Submitters** shows a table that lists
 
