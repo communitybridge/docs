@@ -17,5 +17,5 @@ We are using a Purchasing Power Parity \(PPP\) based calculation to determine th
 Purchasing Power Parity is a way to estimate the exchange rate between two currencies to determine equivalent purchasing power. For details, refer following links:
 
 * [Wikipedia: Purchasing Power Parity](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-* [World Bank: What is Purchasing Power Parity?](http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1338834270350/FVogel_WhatisPurchasingPowerParity.pdf)
+* [World Bank: What is Purchasing Power Parity?](http://pubdocs.worldbank.org/en/332341517441011666/PPP-brochure-2017-webformat-rev.pdf)
 
