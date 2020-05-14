@@ -16,11 +16,11 @@ Overview shows information about issues and submitters in Bugzilla organizations
 
 **Projects** shows a table that lets you sort values by Organizations, Issues, Submitters, Assignees, Avg. Time to close \(days\) and Avg. Updates.
 
-**Submitters, over time** shows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
+**Submitters Over Time** shows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
 
 **Submitters** shows a table that lets you sort values by Submitter, Issues, Products, and Avg. Open Days.
 
-**Issues by Organization, over time** shows a stacked bar graph that represents the number of issues by organization per day over time. Mouse over a color in the graph to see the total number of issues that occurred on a date for the organization.
+**Issues by Organization Over Time** shows a stacked bar graph that represents the number of issues by organization per day over time. Mouse over a color in the graph to see the total number of issues that occurred on a date for the organization.
 
 **Organizations** shows a table that lets you sort values by organization name, number of issues, submitters, assignees, average time to close \(days\) issues, and average updates per product.
 

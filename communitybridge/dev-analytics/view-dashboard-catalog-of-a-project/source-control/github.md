@@ -17,7 +17,7 @@ Pull Requests shows all the information about pull requests for a project.
 
 **Submitters Over Time** shows a bar graph that represents the number of pull request submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
 
-**Submitters by Organization** shows a doughnut chart that represents the total number of submitters per organization. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
+**Submitters by Organization** shows a doughnut chart that represents the total number of submitters per organization over a time range. Mouse over a color \(organization\) in the chart to see the organization name, total number of submitters, and the percentage of the project's submitters.
 
 **Pull Requests by Status Over Time** shows a stacked bar graph that represents the number of open and closed pull requests over time. Mouse over a color in the graph to see the total number of pull requests by status that occurred on a date.
 
@@ -33,7 +33,7 @@ Pull Requests shows all the information about pull requests for a project.
 
 PR Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
-**Open Pull Requests Statistics** shows the total number of Open Pull Requests, Accumulated Open Time in Days, and the Average Time Open per Pull Request.
+**Open Pull Requests Statistics Summary** shows the total number of Open Pull Requests, cumulative number of days for which individual PRs are open, and the average time in days Open per Pull Request.
 
 **Backlog \(Open Pull Requests\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** to open the URL to go to the pull request in the project.
 
@@ -75,24 +75,24 @@ This panel focuses on **closed** GitHub pull requests.
 
 ## PR Timing
 
-Timing shows information about open and closed pull requests in time. The dashboard shows submitters, repositories and organizations, but focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
+Timing shows information about open and closed pull requests in time. The dashboard focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
 
-**Summary** shows the total number of Pull Requests, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\) over time.
+**Summary** shows the total number of Pull Requests, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\) over time—number of days for which 50% of Open Pull Requests remained open.
 
-**Median Open Time \(days\)** shows a bar graph that represents 50th percentile of days a PR is in open state for a day. Mouse over a color in the graph to see the  number.
+**Median Open Time \(days\)** shows a bar graph that represents number of days for which 50% of open pull requests \(out of all PRs created on a date\) remained open. Mouse over a color in the graph to see the number.
 
-**80 Percent Open Time \(days\)** shows a bar graph that represents 80th percentile of days a PR is in open state for a day. Mouse over a color in the graph to see the  number.
+**80 Percent Open Time \(days\)** shows a bar graph that represents number of days for which 80% of open pull requests \(out of all PRs created on a date\) remained open. Mouse over a color in the graph to see the number. Mouse over a color in the graph to see the  number.
 
 **Status** shows a doughnut chart that represents the total number of pull requests in the project by status: closed or open. Mouse over a color in the chart to see the status, total number of pull requests for the status, and the percentage of the project's pull requests for that status.
 
-**Pull Requests by Organization** shows a doughnut chart that represents the total number of pull requests in the project by organization. Mouse over a color in the chart to see the total number of pull requests for the organization, and their percentage of the project's organization.
+**Pull Requests by Organization** shows a doughnut chart that represents the total number of pull requests submitted by an organization. Mouse over a color in the chart to see the total number of pull requests for the organization, and their percentage.
 
-**Pull Requests** shows a stacked bar graph that represents the total number of pull requests over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issues for the status, and the date.
+**Pull Requests By Status** shows a stacked bar graph that represents the total number of pull requests over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issues for the status, and the date.
 
 **Submitters:**
 
 * shows a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see total number of submitters and the date.
-* shows a table that lets you sort values by Submitter, Pull Requests, Repositories, and Avg. Open Days.
+* shows a table that lets you sort values by Submitter, number of pull requests, repositories, and average number of days for which the PRs remained opened .
 
 **Organizations** shows a table that lets you sort values by Organization, Pull Requests, Submitters, Assignees, and Avg. Open Days.
 
