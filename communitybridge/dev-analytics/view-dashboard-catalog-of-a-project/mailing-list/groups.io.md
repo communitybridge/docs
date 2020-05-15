@@ -10,7 +10,7 @@ Overview shows a high-level information about email activity of groups for a pro
 
 **Summary** shows the total number of Messages \(that includes both sent and received\), Participants, and Lists over time.
 
-**Authors By Organization** shows a doughnut chart that represents the total number of individuals per organization who have sent the messages/emails. Mouse over a color in the chart to see the organization name, total number and percentage of individuals of that organization out of the total number of authors who have sent emails/messages.
+**Participants By Organization** shows a doughnut chart that represents the total number of individuals per organization who have sent the messages/emails. Mouse over a color in the chart to see the organization name, total number and percentage of individuals of that organization out of the total number of authors who have sent emails/messages.
 
 **Top Trending Subjects** shows a subject cloud of most discussed topics/subjects in the channel. Click a subject to view the corresponding data in dashboard. Close or delete the filter to see default values. ![](../../../../.gitbook/assets/clear-filter.png) 
 
