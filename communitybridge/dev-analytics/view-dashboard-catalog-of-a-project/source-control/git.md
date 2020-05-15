@@ -12,7 +12,7 @@ Overview shows information about commits in Git repositories. For each commit, G
 
 **Commits** shows a bar graph that represents the number of commits per day for the project over time. Mouse over a color in the graph to see the total number of commits for a date.
 
-**Commits By Organization** shows a doughnut chart that represents the total number of commits by organization for the project. Mouse over a color in the chart to see the total number of commits by the organization, and the percentage of commits out of the total commits for the project.
+**Commits Percentage By Organization** shows a doughnut chart that represents the total number of commits by organization for the project. Mouse over a color in the chart to see the total number of commits by the organization, and the percentage of commits out of the total commits for the project.
 
 **Commits by Time Zone** shows a bar graph with a count of commits per Coordinated Universal Time \(UTC\) time zone. Dates and times \(author time, committer time\) in Git use the time zone of the computer where the contributor performed the action. This data is used to display time zone information. Mouse over a color in the graph to see the total number of commits for each time zone.
 

@@ -15,9 +15,11 @@ Overview shows information about issues in project repositories and who submitte
 
 **Summary** shows the total number of Issues, Submitters, and Repositories for the project.
 
+**Issues by Organization Over Time** shows a stacked bar graph that represents the number of issues created by organizations per day.
+
 **Issues by Status Over Time** shows a stacked bar graph that represents the number of open and closed issues over time.
 
-**Issues by Organizations Over Time** shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color \(organization\) in the chart to see the organization name, total number of issues, and the percentage of the issues created by the organization.
+**Issues Percentage by Organization** shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color \(organization\) in the chart to see the organization name, total number and percentage of issues.
 
 **Issue Submitters Over Time** shows a bar graph that shows the number of submitters of issues per day over time.
 
@@ -71,9 +73,9 @@ Timing shows information about open and closed issues in time. The dashboard foc
 
 **Status** shows a doughnut chart that represents the total number of issues in the project by status: closed or open. Mouse over a color in the chart to see the status, the total number of issues for the status, and the percentage of the project's issues for that status.
 
-**Median of Days An Issue is in Open State** shows a bar graph that represents 50th percentile of days for which an issue was in open state for a day.
+**Median of Days An Issue is in Open State** shows a bar graph that represents number of days for which 50% of issues, out of total issues that are created on a particular day, are open.
 
-**80 Percent Open Time \(days\)** shows a bar graph that represents number of days for which the 80th percentile of total number of issues that were created per day overtime, are open.
+**95th Percentile of Days An issue is in Open State** shows a bar graph that represents number of days for which 95% of issues, out of total issues that are created on a particular day, are open.
 
 **Issues by Organization** shows a doughnut chart that represents the total number of issues in the project by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
 
