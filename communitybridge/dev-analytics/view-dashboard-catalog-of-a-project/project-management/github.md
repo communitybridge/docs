@@ -13,11 +13,11 @@ By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/shar
 
 Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided. 
 
-**Issues** shows the total number of Issues, Submitters, and Repositories for the project.
+**Summary** shows the total number of Issues, Submitters, and Repositories for the project.
 
 **Issues by Status Over Time** shows a stacked bar graph that represents the number of open and closed issues over time.
 
-**Issues by Organization** shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color \(organization\) in the chart to see the organization name, total number of issues, and the percentage of the issues created by the organization.
+**Issues by Organizations Over Time** shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color \(organization\) in the chart to see the organization name, total number of issues, and the percentage of the issues created by the organization.
 
 **Issue Submitters Over Time** shows a bar graph that shows the number of submitters of issues per day over time.
 
@@ -37,7 +37,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 **Backlog** shows a bar graph that represents the number of issues that are open on a particular day. Mouse over a color in the graph to see the total number of issues on a date.
 
-**Backlog: Issues \(Accumulated Time\)** shows a bar graph that represents the cumulative number of days for which individual issues are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the issues were waiting to be closed on a date.
+**Backlog: Issues \(Accumulated Over Time\)** shows a bar graph that represents the cumulative number of days for which individual issues are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the issues were waiting to be closed on a date.
 
 **Percentage of Issues Opened By Organizations** shows a doughnut chart that represents the total number of issues opened by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
 
@@ -63,9 +63,9 @@ Efficiency offers a view of efficiency closing issues based on metrics: Backlog 
 
 ## Timing
 
-Timing shows information about open and closed issues in time. The dashboard shows submitters, repositories and organizations, but focuses on how long Issues remain open. Statistical information provides closing times and also tables with the latest and the oldest Issues.
+Timing shows information about open and closed issues in time. The dashboard focuses on how long Issues remain open. Statistical information provides closing times and also tables with the latest and the oldest Issues.
 
-**Summary** shows the total number of Issues, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\).
+**Summary** shows the total number of Issues, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\)—number of days for which 50% of open issues remained open.
 
 **Issues** shows a stacked bar graph that represents the total number of issues over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issue for the status, and the date.
 
