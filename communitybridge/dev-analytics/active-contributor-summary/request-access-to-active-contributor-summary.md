@@ -13,5 +13,5 @@ Active Contributor Summary becomes available to you after you request and are gr
    * A list of projects maintained by you in the Linux Foundation
 4. Click **Create**.
 
-You are notified when your access is granted. After you are granted access, use your SSO account credentials to sign in and [view](view-active-contributor-summary.md) Active Contributor Summary for the project that you are granted access to.
+You are notified when your access is granted. After you are granted access, use your SSO account credentials to sign in and [view](view-active-community-members-table.md) Active Contributor Summary for the project that you are granted access to.
 

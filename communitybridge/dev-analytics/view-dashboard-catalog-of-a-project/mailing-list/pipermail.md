@@ -1,6 +1,6 @@
-# Mailing List
+# Pipermail
 
-The Mailing List dashboard is available from the **Community** drop-down list, and represents a set of metrics that shows information about the Mailing List communication channel.
+Pipermail dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows email details about Pipermail communication channel.
 
 Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 

@@ -1,4 +1,4 @@
-# View Active Contributor Summary
+# View Active Community MembersTable
 
 After you sign in, you can see Active Contributor Summary next to **Select Time Range**. If you do not have access, Active Contributor Summary does not appear.
 
