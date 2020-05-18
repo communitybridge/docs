@@ -13,7 +13,7 @@ Each unique identity has a profile that summarizes the user data. The profile ca
 5. Go to **User Affiliations**. The profile identities are listed. Each identity shows Name, E-mail, Username, and Source. 
 6. Continue to add or delete identity affiliations:
    1. [Add an Identity Affiliation](add-or-remove-a-profile-identity.md#add-an-identity-affiliation)
-   2. [Remove an Identity Affiliation](add-or-remove-a-profile-identity.md#unmerge-an-identity-affiliation)
+   2. [Remove an Identity Affiliation](add-or-remove-a-profile-identity.md#remove-an-identity-affiliation)
 
 ## Add an Identity Affiliation
 
@@ -33,6 +33,8 @@ Matching results appear.
 
 9. Click **X** to close the window.  
 The added identity is listed in Profile Identities.
+
+## Remove an Identity Affiliation
 
 After you add a unique identity to a profile, the identity appears under Profile Affiliations.
 
