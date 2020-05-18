@@ -146,7 +146,7 @@
       * [Understand the Jira Backlog](communitybridge/dev-analytics/view-dashboard-use-case-examples/understand-the-jira-backlog.md)
       * [Bugzilla Issue and Submitter Analytics](communitybridge/dev-analytics/view-dashboard-use-case-examples/bugzilla-issue-and-submitter-analytics.md)
       * [Confluence Activities](communitybridge/dev-analytics/view-dashboard-use-case-examples/confluence-activities.md)
-      * [View Mailing List Activity](communitybridge/dev-analytics/view-dashboard-use-case-examples/view-mailing-list-activity.md)
+      * [View Mailing Activity](communitybridge/dev-analytics/view-dashboard-use-case-examples/view-mailing-list-activity.md)
     * [View Data Source Dashboards of a Project](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/README.md)
       * [Summary](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/summary.md)
       * [Source Control](communitybridge/dev-analytics/view-dashboard-catalog-of-a-project/source-control/README.md)

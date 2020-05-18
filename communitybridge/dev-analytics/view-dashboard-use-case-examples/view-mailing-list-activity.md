@@ -1,9 +1,9 @@
-# View Mailing List Activity
+# View Mailing Activity
 
 {% hint style="info" %}
 Roles: Developer, Community Manager, Project Manager
 
-Where: Mailing List dashboards are available from the **Community** drop-down list.
+Where: Mailing dashboards are available from the **Mailing List** drop-down list.
 {% endhint %}
 
 A mailing list is a common way for project community members to interact with others in a project. Mailing lists are often set up so that all members can send to the list. Members can ask questions and get help or provide information to others on the list. A busy mailing list can be a good indicator of the health of community engagement in the project. 
