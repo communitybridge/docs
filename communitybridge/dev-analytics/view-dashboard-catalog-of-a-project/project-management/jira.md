@@ -19,9 +19,9 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Submitters** hows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters and the date.
 
-**Submitters by Organization** shows a doughnut chart that represents the total number of submitters in the project per organization. Mouse over a color in the chart to see the total number of submitters for the organization, and their percentage of the project's organization.
+**Submitters by Organization** shows a doughnut chart that represents the organizations that submitted issues \(not unique issues; it includes activities on issues, such as comments, approvals, and so on\) in the project. Mouse over a color in the chart to see the total number of submitters for the organization, and their percentage of the project's organization.
 
-**Assignees by Organization** shows a doughnut chart that represents the total number of assignees of an organization in the project. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
+**Assignees by Organization** shows a doughnut chart that represents the organizations that are assigned with the issues \(not unique issues; it includes activities on issues, such as comments, approvals, and so on\) in the project. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
 
 **Projects** shows a table that lets you sort values by project name, number of issues, submitters, assignees, average number of watchers, and average time in days to close the issues per project over time.
 
@@ -41,7 +41,7 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 
 **Issues By Organizations** shows a table that lets you sort values by organization name, number of issues, average time in days the issues were open per organization over time, and average number of watchers per issue over time.
 
-**Assignee Organizations** shows a doughnut chart that represents the total number of assignees in the project per organization. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
+**Assignee Organizations** shows a doughnut chart that represents the assigned organizations that have open issues to be closed. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
 
 **Issues Submitters** shows a table that lets you sort values by submitter name, number of issues, average time in days the issue was open for the submitter, and number of projects the submitter is associated with.
 
