@@ -38,14 +38,6 @@ To be eligible for a mentorship stipend, you:
 * Must be the intended final recipient of the stipend; you may not receive the stipend on behalf of someone else
 * Must not be restricted from participating and receiving payment by United States sanctions programs
 
-### Diversity Matching Stipends <a id="Mentees-DiversityMatchingStipends"></a>
-
-To support diversity initiatives and to encourage participation from a diverse group of mentees, the Linux Foundation is offering matching stipends for the first 100 mentees selected for diversity mentorships through CommunityBridge Mentorship. These stipends consist of $3,000 USD funded by the project and a matching grant of $3,000 USD funded by the Linux Foundation. In the case of the Linux Foundation’s hosted projects, the stipend will be fully funded by the project.
-
-The Linux Foundation strongly encourages applicants who are from traditionally underrepresented or marginalized groups in the technology and open source communities, including, but not limited to: persons identifying as LGBTQ, women, persons of color, and/or persons with disabilities. Interested candidates should email [mentorship@linuxfoundation.org](mailto:mentorship@linuxfoundation.org) to apply or to ask any questions.
-
-Eligibility for the stipends will be determined by the Linux Foundation, following a confirmation of the mentee’s acceptance to the Mentorship program. Receiving the stipend is a subject to meeting the applicable milestones set by the project.
-
 ### Your Activities <a id="Mentees-YourActivities"></a>
 
 Get started by creating your profile, and then continue with the next steps:
