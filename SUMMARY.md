@@ -110,7 +110,7 @@
         * [Accept to be a Mentor from an Email Invitation](communitybridge/communitybridge-mentorship/mentors/become-a-mentor/accept-to-be-a-mentor-from-an-email-invitation.md)
       * [Volunteer to be a Mentor](communitybridge/communitybridge-mentorship/mentors/volunteer-to-be-a-mentor.md)
       * [View Mentee Profile](communitybridge/communitybridge-mentorship/mentors/view-mentee-profile.md)
-      * [Review Mentee Applications](communitybridge/communitybridge-mentorship/mentors/review-mentee-application.md)
+      * [Review Mentee Applications](communitybridge/communitybridge-mentorship/mentors/review-mentee-applications.md)
       * [Manage Mentee Tasks](communitybridge/communitybridge-mentorship/mentors/manage-mentee-tasks.md)
       * [Manage Your Mentorship Account](communitybridge/communitybridge-mentorship/mentors/manage-your-mentorship-account.md)
     * [Companies](communitybridge/communitybridge-mentorship/companies/README.md)
