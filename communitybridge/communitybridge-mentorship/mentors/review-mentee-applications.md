@@ -4,7 +4,6 @@ You can review mentees applications from the Mentees tab on the project detail p
 
 {% hint style="info" %}
 * After a mentee applies to a project, the mentee's name shows under **Mentees** tab with application status **Pending**, by default..
-* After you accept a mentee application from Application Status drop-down, accepted mentee's profile appears under the Mentees section on the profile tab of your project.
 {% endhint %}
 
 **To Review Mentee Application:**

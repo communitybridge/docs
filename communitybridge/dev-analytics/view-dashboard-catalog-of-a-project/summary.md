@@ -1,7 +1,7 @@
 # Summary
 
 {% hint style="info" %}
-The data on Summary and other dashboards do not include commits by Bots and empty commits. By default, Bot commit is filtered, and can't be included for Summary dashboard.
+By default, Bot commit is filtered, and can't be included for Summary dashboard.
 {% endhint %}
 
 Summary provides a high-level metrics about each data source for which the project is configured. Following are examples of some data sources for a project:
