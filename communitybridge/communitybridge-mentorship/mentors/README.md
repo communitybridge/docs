@@ -38,5 +38,5 @@ Get started by creating your profile and then continue with other activities:
 
 * [Become a Mentor](become-a-mentor/)\*\*\*\*
 * [Volunteer to be a Mentor](volunteer-to-be-a-mentor.md)\*\*\*\*
-* [Manage Mentees](manage-mentees.md)
+* [Manage Mentees](review-mentee-application.md)
 
