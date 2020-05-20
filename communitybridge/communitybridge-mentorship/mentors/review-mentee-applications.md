@@ -1,7 +1,5 @@
 # Review Mentee Applications
 
-
-
 You can review mentees applications from the Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
 
 {% hint style="info" %}
@@ -9,7 +7,7 @@ You can review mentees applications from the Mentees tab on the project detail p
 * After you accept a mentee application from Application Status drop-down, accepted mentee's profile appears under the Mentees section on the profile tab of your project.
 {% endhint %}
 
-**To Manage Mentee Application:**
+**To Review Mentee Application:**
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
 
@@ -21,8 +19,6 @@ An overview of each of your projects appears.
 3. Click a project for which you want to review mentee application.
 
 4. Navigate to **Mentees** tab.
-
-![Mentee Application Status](../../../.gitbook/assets/mentee-application-status%20%281%29.png)
 
 A list of the persons who have applied to your project appears. The following table describes the additional information:
 
@@ -86,7 +82,7 @@ A list of the persons who have applied to your project appears. The following ta
     <tr>
       <td style="text-align:left"><b>Filter by Status</b>
       </td>
-      <td style="text-align:left">Allows you to select a value from tdrop-down list to show only results
+      <td style="text-align:left">Allows you to select a value from the drop-down list to show only results
         that match the filter value.</td>
     </tr>
   </tbody>
