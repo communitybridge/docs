@@ -14,4 +14,5 @@ The data on the dashboards do not include commits by Bots and empty commits.
 * [Issue Management](project-management/)
 * [CI/CD](ci-cd/)
 * [Registry](registry/)
+* [Active Contributors](active-contributors/)
 

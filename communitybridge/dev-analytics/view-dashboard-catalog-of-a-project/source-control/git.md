@@ -1,6 +1,6 @@
-# Git
+# Commits
 
-The Git dashboard represents a set of metrics that shows high level information, such as total number of commits, authors, repositories, and so on for  all the git based repositories, such as Gerrit and/or GitHub.
+The Commits dashboard represents a set of metrics that shows high level information, such as total number of commits, authors, repositories, and so on for  all repositories of the project.
 
 By default, commits by Bots, and empty commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
