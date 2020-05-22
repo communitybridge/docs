@@ -5,7 +5,7 @@ Active Community Leaderboard displays an aggregated data of individual contribut
 Click **Search** to search for a contributor's details, and click **Export** to download the table data to a `.csv` file. The Active Community Leaderboard Table lets you sort values by the following data:
 
 * **Author Name**: Name of the contributor.
-* **Email Id:** Email address of the contributor. Only Project Administrators can view Email Ids of contributors.
+* **Email Id:** Email address of the contributor. Only Project Administrators, after signing in to the portal, can view Email Ids of contributors.
 * **Organization:** Name of affiliated organization.
 * **Commits:** Total number of commits to git repositories over time.
 * **LOC Added:** Total number of lines of code added by the contributor to git repositories over time.
