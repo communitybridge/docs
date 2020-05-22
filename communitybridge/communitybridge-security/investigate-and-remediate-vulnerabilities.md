@@ -7,14 +7,14 @@ If possible, address a vulnerability by upgrading to a vulnerability-free versio
 **Do these steps:**
 
 1. Select **Issues** from the top menu.  
-Types of vulnerabilities such as Information Exposure and External Entity Injection appear with their details. By default, only Open status issues appear—use the filter to show Fixed issues.
+The dashboard shows all vulnerabilities with their details, and total number of open and fixed issues. By default, only Open status issues appear—use the filter to show Fixed issues.
 
-![](../../.gitbook/assets/7410898.png)
+![Issues Dashboard](../../.gitbook/assets/issues-dashboard.png)
 
-2. \(Optional\) Narrow your issue results:
+2. \(Optional\) Filter your issue results:
 
-* Mark any of the **checkboxes** on Filters to narrow your issue results by Issue Severity and Status. These filters help you focus your attention on issues of concern, for example, issues with a High severity and an Open status. The Filters heading refreshes to match your selections for easy reference. ![](../../.gitbook/assets/7410899.png) 
-* Select a **repository** \(and optionally a **project**\) from the Repository drop-down list. ![](../../.gitbook/assets/7410897.png)
+* Select any of the check boxes from **Filters** drop down list, and click **Filter** to narrow your issue results by Issue Severity and Status. These filters help you focus your attention on issues of concern, for example, issues with a High severity and an Open status. The Filters heading refreshes to match your selections for easy reference.  ![](../../.gitbook/assets/filters-drop-down.png)  
+* Select a **repository** \(and optionally a **project**\) from the Repository drop-down list. Hover mouse over a repository to view total number of open and fixed issues per project.  ![](../../.gitbook/assets/repositories-drop-down.png) 
 
 3. Investigate the vulnerabilities by opening the provided links to go directly to various websites for specific information about the vulnerability. For example:
 
