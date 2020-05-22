@@ -10,6 +10,7 @@ INSIGHTS aggregates data and creates comprehensive dashboards from specific data
 * [Mailing List](../view-dashboard-catalog-of-a-project/mailing-list/)
 * [CI/CD](../view-dashboard-catalog-of-a-project/ci-cd/)
 * [Registry](../view-dashboard-catalog-of-a-project/registry/)
+* [Active Contributors](../view-dashboard-catalog-of-a-project/active-contributors/)
 
 A drop-down list is only available when a related data source is available.
 
@@ -18,7 +19,7 @@ A drop-down list is only available when a related data source is available.
 1. From a project overview page, click a data source, for example Source Control.
 2. Select a **dashboard** from the drop-down list: The selected dashboard appears and shows relevant visualizations.
 
-![](../../../.gitbook/assets/source-control-drop-down.png)
+![Source Control](../../../.gitbook/assets/source-control-drop-down%20%281%29.png)
 
 ## Refine Your View <a id="ViewDashboardAnalytics-RefineYourView"></a>
 
