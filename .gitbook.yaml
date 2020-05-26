@@ -1,0 +1,9 @@
+root: ./
+
+structure:
+    readme: README.md
+    summary: SUMMARY.md
+    
+redirects:
+  communitybridge/communitybridge-security/vulnerability-detection-faqs: ./communitybridge/communitybridge-security/vulnerability-detection-faqs.md
+    
