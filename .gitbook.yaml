@@ -6,4 +6,4 @@ structure:
     
 redirects:
   communitybridge/communitybridge-security/vulnerability-detection-faqs: ./communitybridge/communitybridge-security/vulnerability-detection-faqs.md
-    
+  communitybridge/communitybridge-security: ./communitybridge/communitybridge-security/READ.md
