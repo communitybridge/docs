@@ -4,7 +4,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 **Get started:**
 
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/). Features tab appears. Projects, Mentors, and Companies appear in alphabetical order.
+1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/). Featured tab appears. Projects, Mentors, and Companies appear in alphabetical order.
 2. Navigate to each section, such as Projects, Mentors, Companies, and click an entity under a section to know more about the entity or select a **tab**:
    * [Projects](./#DashboardOverview-Projects)
    * [Mentors](./#DashboardOverview-Mentors)
@@ -28,7 +28,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 * **Current Projects:** Shows the on going projects for mentorship program.
 * **Past Projects:** Shows the past projects for which mentorship program is completed.
 * **Project name and logo**. Select the project to see more information about it.
-* **Description** excerpt describes the project. Mouse over an excerpt and click **Open** when a blue bar pops up to view detail description of a project. Select the project for more information.
+* **Description** excerpt describes the project. Select the project for more information.
 * **Mentee Funding** shows the total project fund amount to date for mentee stipends.
 * **Term** shows the Mentorship program timelines that are available for mentees and mentors.
 * **Opportunities** shows the logos of the companies that have interview opportunities.
@@ -36,7 +36,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 * Type a project name in the **Search** box for quick search. 
 
 {% hint style="info" %}
-When you sign in and the project application is open, the Apply button is enabled for mentees to apply to the project. When a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md), the Apply button is updated to Applications Closed.
+Apply button is enabled for mentees to apply to the project if the project application is open. Applications Closed is shown when a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md).
 {% endhint %}
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
