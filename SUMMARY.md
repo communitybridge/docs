@@ -172,7 +172,7 @@
     * [INSIGHTS Glossary](communitybridge/dev-analytics/dev-analytics-glossary.md)
     * [INSIGHTS - Get Help](communitybridge/dev-analytics/dev-analytics-get-help.md)
   * [CommunityBridge Security](communitybridge/communitybridge-security/README.md)
-    * [Vulnerability Detection FAQs](communitybridge/communitybridge-security/vulnerability-detection-faqs-1.md)
+    * [Vulnerability Detection FAQs](communitybridge/communitybridge-security/vulnerability-detection-faqs.md)
     * [CommunityBridge Security Requirements](communitybridge/communitybridge-security/communitybridge-security-requirements/README.md)
       * [Supported Languages](communitybridge/communitybridge-security/communitybridge-security-requirements/supported-languages.md)
     * [Add a Project to CommunityBridge Vulnerability Detection](communitybridge/communitybridge-security/add-a-project-to-communitybridge-vulnerability-detection/README.md)
