@@ -3,7 +3,7 @@
 You can review mentees applications from the Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
 
 {% hint style="info" %}
-* After a mentee applies to a project, the mentee's name shows under **Mentees** tab with application status **Pending**, by default..
+After a mentee applies to a project, the mentee's name shows under **Mentees** tab with application status **Pending**, by default.
 {% endhint %}
 
 **To Review Mentee Application:**

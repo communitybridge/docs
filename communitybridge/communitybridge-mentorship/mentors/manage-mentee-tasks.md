@@ -3,7 +3,7 @@
 A mentee applicant must have at least one application task to complete, for example an interview. When you enroll your project in Mentorship program, you select or define prerequisites that a mentee applicant must complete—these tasks appear in the Tasks view. This view lets you add and edit new tasks and update their statuses. 
 
 {% hint style="info" %}
-[View profile of the mentee](../administrators/view-mentee-profile.md) applicant to learn about their interests, skills, and see if they already working on other projects to help you  decide if they're a good fit. You can also [Contact a Mentee](../administrators/contact-a-mentee.md) if you have questions.  
+[View profile of the mentee](../administrators/view-mentee-profile.md) applicant to learn about their interests, skills, and see if they already working on other projects to help you  decide if they're a good fit. You can also [Contact a Mentee](../administrators/contact-a-mentee.md) if you have questions.
 {% endhint %}
 
 ## **To Manage Mentee Tasks:** 
