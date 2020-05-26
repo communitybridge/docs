@@ -2,7 +2,7 @@
 
 INSIGHTS shows projects to which you have access on CommunityBridge platform. The Projects page includes projects that are members of Linux Foundation and of other foundations such as the Cloud Native Computing Foundation.
 
-![](../../.gitbook/assets/project-cards.png)
+![Project Cards](../../.gitbook/assets/project-cards%20%281%29.png)
 
 **Follow these steps:**
 
@@ -13,7 +13,7 @@ INSIGHTS shows projects to which you have access on CommunityBridge platform. Th
    * Project name identifies the project by name.
    * Description briefly describes the project. When a project description shows only an excerpt, click the **excerpt** to see the entire description.
    * **Contributors** shows the total number of contributors to the project.
-   * **Contributions** shows the total number of contributions to the project.
+   * **Lines Changed** shows the total number of lines of codes that are changed in the project. It includes lines of code added, modified, and deleted.
    * **Commits** shows the total number of commits to the project.
    * **Repositories** shows the total number of repositories created for the project.
 
