@@ -4,7 +4,7 @@ CommunityBridge Security is a centralized way for the Linux Foundation to manage
 
 Every project with a crowdfunding program on CommunityBridge receives daily vulnerability scans, and security stats are listed on each project’s public dashboard. The money that projects raise helps them pay developers and volunteers to improve code security—and can also go to other critical expenses like infrastructure, travel, and events. 
 
-* [Vulnerability Detection FAQs]()
+* [Vulnerability Detection FAQs](vulnerability-detection-faqs.md)
 * [CommunityBridge Security Requirements](communitybridge-security-requirements/)
 * [Add a Project to CommunityBridge Vulnerability Detection](add-a-project-to-communitybridge-vulnerability-detection/)
 * [Open CommunityBridge Vulnerability Detection](open-communitybridge-vulnerability-detection.md)
