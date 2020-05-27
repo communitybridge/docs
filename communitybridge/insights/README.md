@@ -6,7 +6,7 @@ CommunityBridge INSIGHTS is a centralized platform that collects and visualizes 
 
 * [View Project Details](view-project-details.md)
 * [Manage Contributor Affiliations](manage-contributor-affiliations/)
-* [View Dashboard Analytics](view-dashboard-analytics/)
+* [View Dashboard Analytics](manage-dashboard-analytics/)
 * [View Dashboard Use Case Examples](view-dashboard-use-case-examples/)
 * \*\*\*\*[View Data Source Dashboards of a Project](view-dashboard-catalog-of-a-project/)
 * [Insights Troubleshooting](insights-troubleshooting.md)

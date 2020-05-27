@@ -26,7 +26,7 @@ The profile appears, showing projects and mentors, the mentee is associated with
 **Do these steps:**
 
 1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/) website.  
-Features tab appears. Projects, Mentors, and Companies appear in alphabetical order with their respective items.
+Featured tab appears. Projects, Mentors, and Companies appear in alphabetical order with their respective items.
 
 2. Click a **project** of interest form the Projects section or navigate to Projects tab, and click a project of interest.  
 The project details page appear.
