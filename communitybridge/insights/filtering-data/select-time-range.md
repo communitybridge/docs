@@ -5,9 +5,9 @@ You can pick a time range to apply to all the data in an overview or dashboard. 
 **Follow these steps:**
 
 1. Open a project dashboard and click **Select Time Range**.  
-    The Time Range picker opens.
+    The Time Range picker opens. Default time range is last 90 days.
 
-![Select Time Range](../../../.gitbook/assets/18088138.png)
+![Select Time range](../../../.gitbook/assets/select-time-range.png)
 
 2. Select a quick filter to apply a time range and a value:
 
