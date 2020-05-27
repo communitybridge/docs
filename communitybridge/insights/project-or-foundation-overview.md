@@ -1,6 +1,6 @@
 # Project or Foundation Overview
 
-INSIGHTS shows projects to which you have access on CommunityBridge platform. The Projects page includes projects that are members of Linux Foundation and of other foundations such as the Cloud Native Computing Foundation.
+Insights shows projects to which you have access on CommunityBridge platform. The Projects page includes projects that are members of Linux Foundation and of other foundations such as the Cloud Native Computing Foundation.
 
 ![Project Cards](../../.gitbook/assets/project-cards%20%281%29.png)
 
