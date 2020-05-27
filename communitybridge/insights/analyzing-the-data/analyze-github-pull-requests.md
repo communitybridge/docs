@@ -18,7 +18,7 @@ INSIGHTS lets you look at the pull request contributions to the project and answ
 1. Click a **project name** of interest that shows the GitHub logo![](../../../.gitbook/assets/18088194.png)under data sources.
 2. From the **Source Control** drop-down list, select **GitHub** &gt; **Pull Requests**.
 
-   A dashboard shows information about pull requests for a project and organization, and information about who submitted the pull request and when. For details, see [Source Control &gt; GitHub &gt; Pull Requests](../viewing-dashboards/source-control/github.md#pull-requests).
+   A dashboard shows information about pull requests for a project and organization, and information about who submitted the pull request and when. For details, see [Source Control &gt; GitHub &gt; Pull Requests](../viewing-dashboards/source-control/github-pr.md#pull-requests).
 
 3. Use the visualizations to understand the project activity and other aspects of the pull requests:
 

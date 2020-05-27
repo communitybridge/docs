@@ -1,11 +1,11 @@
-# GitHub
+# GitHub Issues
 
 The GitHub dashboards under **Issue Management** represent a set of metrics that shows analysis of GitHub issues. Following are the various dashboards of GitHub:
 
-* [Overview](github.md#overview)
-* [Backlog](github.md#backlog)
-* [Efficiency](github.md#efficiency)
-* [Timing](github.md#timing)
+* [Overview](github-issues.md#overview)
+* [Backlog](github-issues.md#backlog)
+* [Efficiency](github-issues.md#efficiency)
+* [Timing](github-issues.md#timing)
 
 By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
 

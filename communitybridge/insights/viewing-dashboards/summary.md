@@ -6,15 +6,17 @@ By default, Bot commit is filtered, and can't be included for Summary dashboard.
 
 Summary provides a high-level metrics about each data source for which the project is configured. Following are examples of some data sources for a project:
 
-**Highlights** shows the total number of repositories, contributors, and commits for the project for  a selected time range. Following is an example of Highlights section:
+**Highlights** shows the total number of repositories, contributors, and commits for the project for  a selected time range. Click any of the three to go to [Commits Overview](source-control/git.md#GitRepositories-GitRepositories>Overview) page.
 
-![](../../../.gitbook/assets/18088218.png)
+Following is an example of Highlights section:
+
+![](../../../.gitbook/assets/summary-highlights.png)
 
 **Source Control** shows overview analytics of project commits and contributors for a selected time range:
 
 * **Highlights** shows the total number of number of contributors and organizations associated with the project.
 * **Commits** shows a stacked area chart that compares the number of commits and contributors per calendar period. The total number of commits and contributor values are color-coded. Hover mouse over the graph to see the numbers for a particular date. Click **Commits** or **Contributors** to eliminate the corresponding data, for example: ![](../../../.gitbook/assets/18088223.png). Click the caption again to include the data.
-* **Top 10 Contributors** lists the top ten contributors—Individuals and Organizations— to the project by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community. This percentage calculation does not include empty commits and commits by bot. Click **COMPANY** or **INDIVIDUAL** to show the corresponding commit data.  A pie chart shows proportional data for the total number of commits per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. Mouse over a slice to show the number of commits and the company or individual name.
+* **Top 10 Contributors** lists the top ten contributors—Individuals and Organizations— to the project by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community. This percentage calculation does not include empty commits and commits by bot. Click **COMPANY** or **INDIVIDUAL** to show the corresponding commit data. **Note:** Data for **Unknown** under Company shows number/percentage of issues submitted by those contributors who are not affiliated with any organization.  A pie chart shows proportional data for the total number of commits per company or individual as a slice of the pie. The pie chart data corresponds to your Contributors selection: COMPANY or INDIVIDUAL. Mouse over a slice to show the number of commits and the company or individual name.
 * **Top 10 Projects** lists top ten projects that receive more number of commits, and the total number of repositories for each project.
 
 Click **VIEW MORE** to open [Commits &gt; Overview](source-control/git.md#GitRepositories-GitRepositories>Overview) to see metrics of project's repositories. 

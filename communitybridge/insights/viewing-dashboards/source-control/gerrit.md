@@ -5,8 +5,8 @@ The Gerrit dashboards represent a set of metrics that shows detailed information
 * [Overview](gerrit.md#overview)
 * [Efficiency](gerrit.md#efficiency)
 * [Timing](gerrit.md#timing)
-* [Approvals](gerrit.md#approvals)
 * [Backlog](gerrit.md#backlog)
+* [Approvals](gerrit.md#approvals)
 
 By default, Bots and Changesets Only filters are applied. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
@@ -88,20 +88,6 @@ Timing shows information about open and closed changesets over time. The dashboa
 
 **Changesets** shows a table that shows changeset URLs for the project. For each changeset, the table shows summary, number of days for which the changeset was open, submitter's name, changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
-## Approvals
-
-Approvals shows statistics about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
-
-**Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of approvals made for the changesets.
-
-**Approvals by Reviewer** shows a table that lists reviewer's name, number of changesets approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer over time.
-
-**Activity by Repository** shows a table that lists repository name, total number of changesets and patchsets pushed to the repository, and the total number of approved commits.
-
-**Approvals by Reviewer Per Repo** shows a table that lists reviewer name, corresponding repository name, number of changes approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer for the repository over time.
-
-**Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
-
 ## Backlog
 
 Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
@@ -128,4 +114,18 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 * Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
 
 **Organizations** shows a table that lists the organization name, and total number of changesets submitted by the organization.
+
+## Approvals
+
+Approvals shows statistics about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
+
+**Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of approvals made for the changesets.
+
+**Approvals by Reviewer** shows a table that lists reviewer's name, number of changesets approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer over time.
+
+**Activity by Repository** shows a table that lists repository name, total number of changesets and patchsets pushed to the repository, and the total number of approved commits.
+
+**Approvals by Reviewer Per Repo** shows a table that lists reviewer name, corresponding repository name, number of changes approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer for the repository over time.
+
+**Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
 

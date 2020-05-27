@@ -1,17 +1,17 @@
-# GitHub
+# GitHub PR
 
-The GitHub dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub:
+The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub:
 
-* [Pull Requests](github.md#pull-requests)
-* [PR Backlog](github.md#pr-backlog)
-* [PR Efficiency](github.md#pr-efficiency)
-* [PR Timing](github.md#pr-timing)
+* [Overview](github-pr.md#overview)
+* [Efficiency](github-pr.md#efficiency)
+* [Timing](github-pr.md#timing)
+* [Backlog](github-pr.md#backlog)
 
 By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
-## Pull Requests
+## Overview
 
-Pull Requests shows all the information about pull requests for a project.
+Overview shows all the information about pull requests for a project.
 
 **Summary** shows the total number of pull requests, submitters, and repositories of the project over time.
 
@@ -31,25 +31,7 @@ Pull Requests shows all the information about pull requests for a project.
 
 **Pull Requests By Project** shows a table and lists and lets you sort values by project name, number of pull requests, submitters, and repositories per project.
 
-## PR Backlog
-
-PR Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
-
-**Open Pull Requests Statistics Summary** shows the total number of Open Pull Requests, cumulative number of days for which individual PRs are open, and the average time in days Open per Pull Request.
-
-**Backlog \(Open Pull Requests\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** to open the URL to go to the pull request in the project.
-
-**Backlog** shows a bar graph that represents the number of pull requests that are open on a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
-
-**Backlog: Pull Requests \(Accumulated Over Time\)** shows a bar graph that represents the cumulative number of days for which individual pull requests are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the pull requests were waiting to be closed on a date.
-
-**Pull Requests Backlog Percentage By Organizations** shows a doughnut chart that represents the total number of pull requests in the project by organizations that are yet be closed. Mouse over a color in the chart to see the total number of pull requests by the organization, and their percentage of the project's organization.
-
-**Organizations** shows a table that lets you sort values by Organization, Pull Requests Open, Submitters, and Repositories.
-
-**Backlog Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Avg. Time Open \(Days\), and Repositories.
-
-## PR Efficiency
+## Efficiency
 
 PR Efficiency offers a view of efficiency closing issues based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
@@ -75,7 +57,7 @@ This panel focuses on **closed** GitHub pull requests.
 
 **Lead time**: the time expressed in days between the initiation and completion of a production process, in this case, a pull request. Shown in average.
 
-## PR Timing
+## Timing
 
 Timing shows information about open and closed pull requests in time. The dashboard focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
 
@@ -102,5 +84,23 @@ Timing shows information about open and closed pull requests in time. The dashbo
 
 **Latest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Created on. The default sort is by most recently created issues.
 
-**The Oldest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Open Days. The default sort is by the greatest number of open days
+**The Oldest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Open Days. The default sort is by the greatest number of open days.
+
+## Backlog
+
+PR Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+
+**Open Pull Requests Statistics Summary** shows the total number of Open Pull Requests, cumulative number of days for which individual PRs are open, and the average time in days Open per Pull Request.
+
+**Backlog \(Open Pull Requests\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** to open the URL to go to the pull request in the project.
+
+**Backlog** shows a bar graph that represents the number of pull requests that are open on a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
+
+**Backlog: Pull Requests \(Accumulated Over Time\)** shows a bar graph that represents the cumulative number of days for which individual pull requests are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the pull requests were waiting to be closed on a date.
+
+**Pull Requests Backlog Percentage By Organizations** shows a doughnut chart that represents the total number of pull requests in the project by organizations that are yet be closed. Mouse over a color in the chart to see the total number of pull requests by the organization, and their percentage of the project's organization.
+
+**Organizations** shows a table that lets you sort values by Organization, Pull Requests Open, Submitters, and Repositories.
+
+**Backlog Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Avg. Time Open \(Days\), and Repositories.
 
