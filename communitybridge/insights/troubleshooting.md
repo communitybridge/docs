@@ -20,6 +20,6 @@ Do _not_ perform any of the following repository actions, which can impact Insig
 To achieve any of those actions, do these steps:
 
 1. Sign in to the [Linux Foundation Help Center](https://jira.linuxfoundation.org/servicedesk/customer/portal/4).
-2. Select CB Insights, click an option.
+2. Select CB Insights, and click an option.
 3. Complete the ticket form fields requesting the repository change that you want and click **Create**.
 
