@@ -19,9 +19,9 @@ In Top Unaffiliated Contributors, look for a contributor who belongs to your pro
 
 **Do these steps:**
 
-1. In Top Unaffiliated Contributor, click the name of the contributor or hover the mouse over the Count **number** for the contributor of interest and click **search**. The profile identities are listed. Each identity shows Name, Email, Affiliations, Bot, Country, Last Modified, and \# specifying the number of identities the person is affiliated with.
+1. In Top Unaffiliated Contributor, click the name of the contributor or hover the mouse over the Commits **number** for the contributor of interest and click **search**. The profile identities are listed. Each identity shows Name, Email, Affiliations, Bot, Country, Last Modified, and \# specifying the number of identities associated with the person.
 2. Look for a name that does not have an affiliation \(Affiliations is blank\) and click the **name**. Profile information for the name appears.
-3. Continue to Step 5 in [Add an Identity to a Profile](add-or-remove-a-profile-identity.md).
+3. Continue to Step 5 of [Merge or Un-merge an Identity Profile](add-or-remove-a-profile-identity.md).
 4. Select **Home** and scan Top Unaffiliated Contributors. The contributor name is no longer listed because you have addressed the missing affiliations.
 
 {% hint style="info" %}

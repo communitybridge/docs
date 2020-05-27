@@ -15,7 +15,7 @@ The Affiliation Management Home page shows Search Profiles field.
 
 * Profile results show Name, Email, Affiliations, Bot, Country, Last Modified, and \#. The following column headers require explanation:
   * Affiliations shows the name of the organization that is affiliated with the profile.
-  * Number \(\#\) shows the number of identities that are affiliated with the profile.
+  * Number \(\#\) shows the number of identities associated with the profile.
 
-4. \(Optional\) Continue to [Add an Identity to a Profile](add-or-remove-a-profile-identity.md).
+4. \(Optional\) Continue to [Merge or Un-merge an Identity Profile](add-or-remove-a-profile-identity.md).
 

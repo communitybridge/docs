@@ -8,12 +8,11 @@ Affiliation Management becomes available to you after you request and are grante
 
 1. Sign in to the [Linux Foundation Help Center](https://jira.linuxfoundation.org/servicedesk/customer/portal/4).
 
+2. From CB Insights, click **Submit other Insights Request**.
+
 ![Community Bridge Support](../../../.gitbook/assets/submit-insights-request.png)
 
-2. From CB Insights, click **Submit other Insights Request**.  
-A ticket form appears.
-
-3. Provide details in the form.
+3. Provide details in the form that appears.
 
 4. Click **Create**.
 
