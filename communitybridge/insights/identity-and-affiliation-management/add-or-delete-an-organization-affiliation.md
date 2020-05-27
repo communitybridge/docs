@@ -29,7 +29,8 @@ The Add an Enrollment pane appears.
 
 ![Add Organization Affiliation](../../../.gitbook/assets/add-organization-affiliation.png)
 
-2. In the Organization Name field, start typing the name you want to add and select a **name** from the drop-down list that appears. \(Click **X** next to the field to cancel your selection.\)
+2. In the **Organization Name** field, start typing the name you want to add and select a **name** from the drop-down list that appears. \(Click **X** next to the field to cancel your selection.\)  
+**Note:** If organization name doesn't appear from list, click **Add new Organization** from the option shown.
 
 3. Specify an enrollment period by selecting start and end dates. Enter in a date field or click the **down arrow** to open a calendar and select a date.  
 You can change the enrollment period at anytime.
