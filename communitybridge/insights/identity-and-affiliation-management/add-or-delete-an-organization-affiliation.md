@@ -1,4 +1,4 @@
-# Add or Delete a Organization Affiliation
+# Add or Delete an Organization Affiliation
 
 Organizations are shared accounts where open source projects can collaborate across many projects at once. Affiliation Management lets you:
 
@@ -13,9 +13,9 @@ Organizations are shared accounts where open source projects can collaborate acr
 4. Click a **row** that corresponds to a name of interest. Profile Information appears.
 5. Go to **Organization Affiliation**. Organizations and their corresponding enrollment dates are listed.
 6. Continue to add or delete organization affiliations:
-   * [Add an Organization Affiliation](add-or-delete-a-organization-affiliation.md#AddorDeleteaProfileOrganizationAffiliation-AddanOrganizationAffiliation)
-   * [Delete an Organization Affiliation](add-or-delete-a-organization-affiliation.md#AddorDeleteaProfileOrganizationAffiliation-DeleteanOrganizationAffiliation)
-   * [Update an Organization Affiliation](add-or-delete-a-organization-affiliation.md#update-an-organization-affiliation)
+   * [Add an Organization Affiliation](add-or-delete-an-organization-affiliation.md#AddorDeleteaProfileOrganizationAffiliation-AddanOrganizationAffiliation)
+   * [Delete an Organization Affiliation](add-or-delete-an-organization-affiliation.md#AddorDeleteaProfileOrganizationAffiliation-DeleteanOrganizationAffiliation)
+   * [Update an Organization Affiliation](add-or-delete-an-organization-affiliation.md#update-an-organization-affiliation)
 
 ## Add an Organization Affiliation <a id="AddorDeleteaProfileOrganizationAffiliation-AddanOrganizationAffiliation"></a>
 

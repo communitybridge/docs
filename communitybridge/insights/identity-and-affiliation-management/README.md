@@ -18,6 +18,6 @@ When contributors are relevant for CommunityBridge Insights analysis, affiliatin
 * [Find a Profile](find-a-profile.md)
 * [Edit Profile Personal Details](edit-profile-personal-details.md)
 * [Add an Identity to a Profile](merge-or-un-merge-an-identity-profile.md)
-* [Add or Delete a Profile Organization Affiliation](add-or-delete-a-organization-affiliation.md)
+* [Add or Delete a Profile Organization Affiliation](add-or-delete-an-organization-affiliation.md)
 * [Blacklist an Email Address](blacklist-an-email-address.md)
 
