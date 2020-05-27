@@ -23,21 +23,20 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 ![Projects](../../../.gitbook/assets/projects.png)
 
-**Projects** shows current and past projects. Navigate to both the tabs to view 
+**Projects** shows current and past projects. Navigate to a project card of interest of type a project name in the **Search** box for quick search. Each project card shows the following information: 
 
-* **Current Projects:** Shows the on going projects for mentorship program.
-* **Past Projects:** Shows the past projects for which mentorship program is completed.
-* **Project name and logo**. Select the project to see more information about it.
+* **Project name and logo**. Click the project title or logo to see more information about it.
 * **Description** excerpt describes the project. Select the project for more information.
-* **Mentee Funding** shows the total project fund amount to date for mentee stipends.
-* **Term** shows the Mentorship program timelines that are available for mentees and mentors.
+* **Funding To Date** shows the total project fund amount received to date for mentee stipends.
+* **Mentors** shows images of mentors for the project.
+* **Mentees** shows images of mentees for the project.
+* Clicking **CLICK TO APPLY** \(not enabled for past projects\) flips over the project card ****and shows the following information:
+  * **Terms** shows the Mentorship program timelines that are available for mentees and mentors.
+  * **Required Skills** shows names of the technologies that are required to apply to the project.
+  * **Apply** lets you apply to the project.
+  * **Applications Closed** is shown when a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md).
+  * **BACK TO PROJECT OVERVIEW** lets you to go back to the overview card
 * **Opportunities** shows the logos of the companies that have interview opportunities.
-* **Mentors** shows the images of the mentors for the project.
-* Type a project name in the **Search** box for quick search. 
-
-{% hint style="info" %}
-Apply button is enabled for mentees to apply to the project if the project application is open. Applications Closed is shown when a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md).
-{% endhint %}
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
 
