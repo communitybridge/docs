@@ -23,7 +23,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 ![Projects](../../../.gitbook/assets/projects.png)
 
-**Projects** shows the following features:
+**Projects** shows current and past projects. Navigate to both the tabs to view 
 
 * **Current Projects:** Shows the on going projects for mentorship program.
 * **Past Projects:** Shows the past projects for which mentorship program is completed.

@@ -1,6 +1,6 @@
 # Merge or Un-merge an Identity Profile
 
-A relational database maintains identities and related information that is automatically extracted from the software tools of your project. An identity is a record \(tuple\) composed of a name, email, username, and the name of the source from where it was extracted. Records are converted to unique identifiers. By default, all identities are considered as unique ones. Heuristics automatically merge identities based on perfect matches of unique identifier, name, email or username. When a match occurs, an identity is randomly selected as the unique one and the other identities are linked to it.
+A relational database maintains identities and related information that is automatically extracted from the software tools of your project. An identity is a record \(tuple\) composed of a name, email, username, and the name of the source from where it was extracted. Records are converted to unique identifiers.
 
 Each unique identity has a profile that summarizes the user data. The profile can be linked to more than one identity and you can merge an identity to the profile. 
 
