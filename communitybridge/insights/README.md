@@ -4,12 +4,12 @@ CommunityBridge Insights is a centralized platform that collects and visualizes 
 
 ## Get Started <a id="DevAnalyticsGettingStarted-GetStarted"></a>
 
-* [View Project Details](project-or-foundation-overview.md)
-* [Manage Contributor Affiliations](identity-and-affiliation-management/)
-* [View Dashboard Analytics](filtering-data/)
-* [View Dashboard Use Case Examples](analyzing-the-data/)
-* \*\*\*\*[View Data Source Dashboards of a Project](viewing-dashboards/)
-* [Insights Troubleshooting](troubleshooting.md)
-* [Insights Glossary](glossary.md)
-* [Insights - Get Help](get-help.md)
+* [Project or Foundation Overview](project-or-foundation-overview.md)
+* [Viewing Dashboards](viewing-dashboards/)
+* [Filtering Data](filtering-data/)
+* [Analyzing the Data](analyzing-the-data/)
+* [Identity and Affiliation Management](identity-and-affiliation-management/)
+* [Troubleshooting](troubleshooting.md)
+* [Glossary](glossary.md)
+* [Get Help](get-help.md)
 
