@@ -1,4 +1,4 @@
-# Manage Contributor Affiliations
+# Identity and Affiliation Management
 
 **Note:** Only Project Administrators can manage affiliations of contributors for their projects.
 
@@ -15,6 +15,6 @@ When contributors are relevant for INSIGHTS analysis, affiliating all the identi
 * [Find a Profile](find-a-profile.md)
 * [Edit Profile Personal Details](edit-profile-personal-details.md)
 * [Add an Identity to a Profile](add-or-remove-a-profile-identity.md)
-* [Add or Delete a Profile Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md)
+* [Add or Delete a Profile Organization Affiliation](add-or-delete-a-organization-affiliation.md)
 * [Blacklist an Email Address](blacklist-an-email-address.md)
 

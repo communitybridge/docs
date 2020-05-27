@@ -1,6 +1,6 @@
 # Edit Profile Personal Details
 
-Edit a profile to add or update contributor information. For example, you want a proper noun to appear in names in dashboards and not a contributor username. You can edit the Name field to the proper nouns, for example: `John Smith` rather than `j_smith`. In another example, you want to mark a profile as a bot to indicate that the activity may not be worth counting. When you [add a dashboard filter](../manage-dashboard-analytics/add-and-manage-data-filters.md#AddandManageDataFilters-AddaFilter) to exclude bots, the contributions for this profile are not counted in dashboards.
+Edit a profile to add or update contributor information. For example, you want a proper noun to appear in names in dashboards and not a contributor username. You can edit the Name field to the proper nouns, for example: `John Smith` rather than `j_smith`. In another example, you want to mark a profile as a bot to indicate that the activity may not be worth counting. When you [add a dashboard filter](../filtering-data/add-and-manage-data-filters.md#AddandManageDataFilters-AddaFilter) to exclude bots, the contributions for this profile are not counted in dashboards.
 
 **Do these steps:**
 
