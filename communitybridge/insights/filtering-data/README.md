@@ -2,15 +2,15 @@
 
 INSIGHTS aggregates data and creates comprehensive dashboards from specific data sources. Dashboards include relevant visualizations that display analytic metrics and important data points. You can select and open a dashboard from drop-down lists corresponding to each data source.
 
-* [Summary](../view-dashboard-catalog-of-a-project/summary.md)
-* [Source Control](../view-dashboard-catalog-of-a-project/source-control/)
-* [Issue Management](../view-dashboard-catalog-of-a-project/project-management/)
-* [Documentation](../view-dashboard-catalog-of-a-project/documentation/)
-* [Chat Room](../view-dashboard-catalog-of-a-project/chat-room/)
-* [Mailing List](../view-dashboard-catalog-of-a-project/mailing-list/)
-* [CI/CD](../view-dashboard-catalog-of-a-project/ci-cd/)
-* [Registry](../view-dashboard-catalog-of-a-project/registry/)
-* [Active Contributors](../view-dashboard-catalog-of-a-project/active-contributors/)
+* [Summary](../viewing-dashboards/summary.md)
+* [Source Control](../viewing-dashboards/source-control/)
+* [Issue Management](../viewing-dashboards/project-management/)
+* [Documentation](../viewing-dashboards/documentation/)
+* [Chat Room](../viewing-dashboards/chat-room/)
+* [Mailing List](../viewing-dashboards/mailing-list/)
+* [CI/CD](../viewing-dashboards/ci-cd/)
+* [Registry](../viewing-dashboards/registry/)
+* [Active Contributors](../viewing-dashboards/active-contributors/)
 
 A drop-down list is only available when a related data source is available.
 

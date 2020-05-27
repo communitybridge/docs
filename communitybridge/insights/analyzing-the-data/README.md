@@ -1,4 +1,4 @@
-# Dashboard Use Case Examples
+# Analyzing the Data
 
 You can refer to these examples to get started using INSIGHTS. These examples provide simple steps that represent how to find the dashboards and data you need.
 

@@ -1,8 +1,8 @@
-# INSIGHTS Troubleshooting
+# Troubleshooting
 
 Troubleshooting helps you solve problematic symptoms in your INSIGHTS implementation.
 
-## INSIGHTS Data Scan Problems <a id="DevAnalyticsTroubleshooting-DevAnalyticsDataScanProblems"></a>
+## Insights Data Scan Problems <a id="DevAnalyticsTroubleshooting-DevAnalyticsDataScanProblems"></a>
 
 ### Symptom: <a id="DevAnalyticsTroubleshooting-Symptom:"></a>
 

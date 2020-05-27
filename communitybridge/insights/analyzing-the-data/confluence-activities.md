@@ -11,6 +11,6 @@ You use Confluence for your project documentation. You are interested in getting
 **Do these steps:**
 
 1. Click a **project name** of interest.
-2. From the **Documentation** drop-down list, select **Confluence** &gt; **Overview**. The Overview dashboard shows information about Confluence activities. For details, see [Confluence Overview](../view-dashboard-catalog-of-a-project/documentation/confluence.md#Confluence-Confluence>Overview).
+2. From the **Documentation** drop-down list, select **Confluence** &gt; **Overview**. The Overview dashboard shows information about Confluence activities. For details, see [Confluence Overview](../viewing-dashboards/documentation/confluence.md#Confluence-Confluence>Overview).
 3. Use the visualizations to understand aspects of documentation activities and pages.
 
