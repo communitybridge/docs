@@ -165,7 +165,7 @@
       * [View and Address the Top Unaffiliated Contributors](communitybridge/insights/identity-and-affiliation-management/view-and-address-the-top-unaffiliated-contributors.md)
       * [Find a Profile](communitybridge/insights/identity-and-affiliation-management/find-a-profile.md)
       * [Edit Profile Personal Details](communitybridge/insights/identity-and-affiliation-management/edit-profile-personal-details.md)
-      * [Merge or Un-merge an Identity Profile](communitybridge/insights/identity-and-affiliation-management/add-or-remove-a-profile-identity.md)
+      * [Merge or Un-merge an Identity Profile](communitybridge/insights/identity-and-affiliation-management/merge-or-un-merge-an-identity-profile.md)
       * [Add or Delete a Organization Affiliation](communitybridge/insights/identity-and-affiliation-management/add-or-delete-a-organization-affiliation.md)
       * [Blacklist an Email Address](communitybridge/insights/identity-and-affiliation-management/blacklist-an-email-address.md)
     * [Troubleshooting](communitybridge/insights/troubleshooting.md)
