@@ -1,6 +1,6 @@
 # Glossary
 
-INSIGHTS uses the following common terms in the product documentation and in the user interface:
+Insights uses the following common terms in the product documentation and in the user interface:
 
 ## approve <a id="DevAnalyticsGlossary-approve"></a>
 
