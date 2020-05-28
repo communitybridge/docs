@@ -23,7 +23,7 @@ A Company application form appears.
 **Note:** Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form. Click any of the following links for information about fields that require explanation.
 
 * [Company Details](create-a-company-profile.md#CreateaCompanyProfile-CompanyDetails)
-* [Participation](create-a-company-profile.md#CreateaCompanyProfile-Participation)
+* [Participating Opportunities](create-a-company-profile.md#CreateaCompanyProfile-Participation)
 * [Employment Opportunities](create-a-company-profile.md#CreateaCompanyProfile-EmploymentOpportunities)
 * [Financial Support](create-a-company-profile.md#CreateaCompanyProfile-FinancialSupport)
 * [Invites](create-a-company-profile.md#CreateaCompanyProfile-Invites)
@@ -72,11 +72,9 @@ The Linux Foundation administrator reviews your application and approves or reje
   </tbody>
 </table>![Company Details](../../../.gitbook/assets/company-details.png)
 
-### Participation <a id="CreateaCompanyProfile-Participation"></a>
+### Participating Opportunities <a id="CreateaCompanyProfile-Participation"></a>
 
-**Participation** designates the areas your company wants to get involved. Read the description or each option and select the check box based on your choice.
-
-![Company Participation](../../../.gitbook/assets/company-participation.png)
+**Participation** designates the areas your company wants to get involved. Select the check box based on your choice.
 
 ### Employment Opportunities <a id="CreateaCompanyProfile-EmploymentOpportunities"></a>
 
@@ -118,9 +116,7 @@ This section shows if you select **Employment Opportunities** check box under **
         select a <b>project</b>, and then click <b>+ Add project</b>.</td>
     </tr>
   </tbody>
-</table>![Company Employment Opportunities](../../../.gitbook/assets/company-employment-opportunities.png)
-
-### Financial Support <a id="CreateaCompanyProfile-FinancialSupport"></a>
+</table>### Financial Support <a id="CreateaCompanyProfile-FinancialSupport"></a>
 
 This section shows if you select **Financial Support** check box under **Participation**. Below table describes all the fields:
 
@@ -133,19 +129,15 @@ This section shows if you select **Financial Support** check box under **Partici
 
 Completing Financial Support section is only the first step and it provides the opportunity to commit the funds. The second step is to complete the donation form, see [Donate to a Project as an Organization](../../communitybridge-funding/donate-sponsor/donate-as-a-project-sponsor/). 
 
-![Financial Support](../../../.gitbook/assets/financial-support.png)
-
 ### Invites <a id="CreateaCompanyProfile-Invites"></a>
 
 You can invite mentors to participate in the Mentorship program. When your application is approved, the invitees will receive emails asking them to participate.
 
-**Name** is the first name and last name of the employee.
+**Name** is the first name and last name of the mentor.
 
-**Email** is the email of the employee. 
+**Email** is the email of the mentor. 
 
 Click **+ Add mentor**.
-
-![Invites](../../../.gitbook/assets/invites.png)
 
 ### Terms and Conditions <a id="CreateaCompanyProfile-TermsandConditions"></a>
 
