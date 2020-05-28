@@ -23,9 +23,10 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 ![Projects](../../../.gitbook/assets/projects.png)
 
-**Projects** shows current and past projects. Navigate to a project card of interest of type a project name in the **Search** box for quick search. Each project card shows the following information: 
+**Projects** shows the on-going and past projects in Current Projects and Past Projects tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information: 
 
 * **Project name and logo**. Click the project title or logo to see more information about it.
+* **Donate** Opens a [New Donation form](../../communitybridge-funding/donate-sponsor/donate-to-a-project-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../communitybridge-funding/donate-sponsor/donate-to-a-project-as-an-individual.md) or as an [organization](../../communitybridge-funding/donate-sponsor/donate-as-a-project-sponsor/).
 * **Description** excerpt describes the project. Select the project for more information.
 * **Funding To Date** shows the total project fund amount received to date for mentee stipends.
 * **Mentors** shows images of mentors for the project.
@@ -33,24 +34,21 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 * Clicking **CLICK TO APPLY** \(not enabled for past projects\) flips over the project card ****and shows the following information:
   * **Terms** shows the Mentorship program timelines that are available for mentees and mentors.
   * **Required Skills** shows names of the technologies that are required to apply to the project.
-  * **Apply** lets you apply to the project.
+  * **Apply** lets you [apply](../mentees/become-a-mentee/apply-to-a-project.md) to the project.
   * **Applications Closed** is shown when a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md).
   * **BACK TO PROJECT OVERVIEW** lets you to go back to the overview card
-* **Opportunities** shows the logos of the companies that have interview opportunities.
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
 
 ![Mentors](../../../.gitbook/assets/mentors-tab.png)
 
-**Mentors** shows the following features:
+**Mentors** shows the mentor profile cards. Type a mentor name in the **Search** box for quick search. Each mentor profile card shows the following information :
 
 * Mentor name and image identify the mentor. Click the name to see more information about the mentor.
-* Description briefly describes the mentor. When a description shows only an excerpt, click **open** to see the entire description.
 * **Skills** shows keywords that help you match up with a mentor who has direct experience in the industry or subject for which you need help.
 * **Graduates** shows the mentees who completed the Mentorship program under this mentor's guidance.
 * **Projects** shows the project logos in which the mentor participates/contributes.
 * **Mentees** shows the images for the persons who are learning a skill from the mentor.
-* Type a mentor name in the **Search** box for quick search.
 
 ## Companies <a id="DashboardOverview-Companies"></a>
 

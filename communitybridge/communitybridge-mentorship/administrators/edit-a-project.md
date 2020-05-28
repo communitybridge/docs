@@ -11,9 +11,9 @@ As a project administrator, you can edit your CommunityBridge Mentorship project
 ![](../../../.gitbook/assets/my-projects.png)  
 An overview of each of your projects appears.
 
-3. Under **Projects for which I am an Administrator, c**lick **Edit Project** from the top left corner if your project is approved or click **Edit** if your is not approved or showing Pending Review**.**
+3. Under **Projects for which I am an Administrator**, click **Edit Project**.
 
-![Edit a Project](../../../.gitbook/assets/projects-for-which-i-am-an-admin.png)
+![Edit Project](../../../.gitbook/assets/project.png)
 
 4. Edit the [project application](enroll-your-project/mentorship-project-application.md) form and click **Submit**.
 
