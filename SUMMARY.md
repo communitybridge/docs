@@ -120,6 +120,7 @@
     * [Mentorship FAQs](communitybridge/communitybridge-mentorship/mentorship-faqs.md)
     * [Mentorship - Get Help](communitybridge/communitybridge-mentorship/mentorship-get-help.md)
   * [CommunityBridge Insights](communitybridge/insights/README.md)
+    * [Insights FAQs](communitybridge/insights/insights-faqs.md)
     * [Project or Foundation Overview](communitybridge/insights/project-or-foundation-overview.md)
     * [Viewing Dashboards](communitybridge/insights/viewing-dashboards/README.md)
       * [Summary](communitybridge/insights/viewing-dashboards/summary.md)
