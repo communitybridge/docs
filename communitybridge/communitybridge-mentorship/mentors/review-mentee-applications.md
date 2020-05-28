@@ -1,9 +1,9 @@
 # Review Mentee Applications
 
-You can review mentees applications from the Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
+You can review mentees applications from the Current Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
 
 {% hint style="info" %}
-After a mentee applies to a project, the mentee's name shows under **Mentees** tab with application status **Pending**, by default.
+Mentee's name shows under **Current** **Mentees** tab with the application status.
 {% endhint %}
 
 **To Review Mentee Application:**
@@ -17,7 +17,7 @@ An overview of each of your projects appears.
 
 3. Click a project for which you want to review mentee application.
 
-4. Navigate to **Mentees** tab.
+4. Navigate to **Current** **Mentees** tab.
 
 A list of the persons who have applied to your project appears. The following table describes the additional information:
 
@@ -30,7 +30,7 @@ A list of the persons who have applied to your project appears. The following ta
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Name</b>
+      <td style="text-align:left"><b>Mentee</b>
       </td>
       <td style="text-align:left">Shows mentee details.</td>
     </tr>
@@ -38,38 +38,37 @@ A list of the persons who have applied to your project appears. The following ta
       <td style="text-align:left"><b>Application Status</b>
       </td>
       <td style="text-align:left">
-        <p>Application Status<b> </b>shows the status of the applicant&apos;s application.
-          By-default, it shows <b>Pending</b>. To change the application status, select
-          a <b>status</b> from the Application Status drop-down list:</p>
         <ul>
-          <li><b>Pending: </b>Mentee has applied to the mentorship program, and can
-            see the tasks to complete. You must review the application by viewing mentee&apos;s
-            profile. Click
-            <img src="../../../.gitbook/assets/profile-icon.png" alt/><b> </b>to view mentee profile.</li>
-          <li><b>Accepted: </b>If you select <b>Accepted</b>, mentee gets an email notification
-            that his/her profile is accepted.</li>
-          <li><b>Withdrawn: </b>Status changes to <b>Withdrawn</b> when a mentee withdraws
-            an application.</li>
-          <li><b>Graduated: </b>Change the status to <b>Graduated </b>when a mentee successfully
-            completes the mentorship program.</li>
+          <li><b>Pending: </b>Mentee has applied to the mentorship program. Click the
+            mentee name to view mentee profile.</li>
+          <li><b>Accepted: </b>Mentee application is accepted by the project maintainer.</li>
+          <li><b>Withdrawn: </b>Mentee has withdrawn application.</li>
+          <li><b>Graduated: </b>Mentee has successfully completed the mentorship program.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Application Date</b>
+      <td style="text-align:left"><b>Application Dates</b>
       </td>
-      <td style="text-align:left">Shows the date when the applicant submitted the application.</td>
+      <td style="text-align:left">Shows the dates when the applicant has submitted and updated the application.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Last Updated</b>
+      <td style="text-align:left"><b>View Tasks</b>
       </td>
-      <td style="text-align:left">Shows the date when the application was last updated.</td>
+      <td style="text-align:left">Allows you to <a href="../administrators/manage-mentee-tasks.md">view and manage</a> mentee
+        tasks.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Bulk Email Mentees</b>
+      <td style="text-align:left"><b>+Add Tasks</b>
       </td>
-      <td style="text-align:left">Allows you to send email to all the mentees (based on filter status) at
-        once.</td>
+      <td style="text-align:left">Allows you to <a href="../administrators/manage-mentee-tasks.md#add-task">add tasks</a> for
+        mentees.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Filter By Application Status</b>
+      </td>
+      <td style="text-align:left">Allows you to select a value from tdrop-down list to show only results
+        that match the filter value.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Download list of Mentees</b>
@@ -78,15 +77,11 @@ A list of the persons who have applied to your project appears. The following ta
         (based on filter status), such as first name, last name, email address,
         introduction, and so on.</td>
     </tr>
-    <tr>
-      <td style="text-align:left"><b>Filter by Status</b>
-      </td>
-      <td style="text-align:left">Allows you to select a value from the drop-down list to show only results
-        that match the filter value.</td>
-    </tr>
   </tbody>
-</table>Continue to:
+</table>![Mentee Application Status](../../../.gitbook/assets/mentee-application-status-view-for-mentor.png)
 
-* [Manage Mentee Tasks](manage-mentee-tasks.md)
+Continue to:
+
+* [Manage Mentee Tasks](../administrators/manage-mentee-tasks.md)
 * [Contact a Mentee](../administrators/contact-a-mentee.md)
 

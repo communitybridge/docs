@@ -5,6 +5,7 @@ As a mentee, you can get the opportunity to engage in an open source project und
 **Follow these steps:**
 
 1.  [Sign in](../../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.dev.platform.linuxfoundation.org/).
+
 2. Click **Become a Mentee** on the top menu.
 
 ![](../../../../.gitbook/assets/7418802.png)
@@ -14,13 +15,16 @@ As a mentee, you can get the opportunity to engage in an open source project und
 * If you have a profile, projects that match your skills appear:
 {% endhint %}
 
-    3. Select a project of interest, click **CLICK TO APPLY**, and after the card flips over, click **Apply**.
+3. Select a project of interest, click **CLICK TO APPLY**, and after the card flips over, click **Apply**.
+
+![Apply to a Project](../../../../.gitbook/assets/apply-to-a-project.png)
 
 {% hint style="warning" %}
 * You can apply to maximum three projects in one term.
 * For projects that your application is declined or you have withdrawn your application, you can re-apply to those in next term.
-* 
 {% endhint %}
+
+A Thank you for your application! message informs you that your application is received, and you will need to complete tasks as part of your application process.
 
 ![](../../../../.gitbook/assets/mentee-applied.png)
 

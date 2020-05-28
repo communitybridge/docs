@@ -37,6 +37,6 @@ Consider the following mentorship responsibilities and duties before you apply t
 Get started by creating your profile and then continue with other activities:
 
 * [Become a Mentor](become-a-mentor/)\*\*\*\*
-* [Volunteer to be a Mentor](volunteer-to-be-a-mentor.md)\*\*\*\*
+* [Volunteer to be a Mentor]()\*\*\*\*
 * [Manage Mentees](review-mentee-applications.md)
 

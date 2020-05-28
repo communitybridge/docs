@@ -6,11 +6,9 @@ To view mentee profile:
 
 1. Go to your account and click **My Projects** from the drop-down list.  ![](../../../.gitbook/assets/my-projects.png) 
 2. Under **Project for which I am a Mentor,** click a project.
-3. Under Mentees tab, click ![](../../../.gitbook/assets/profile-icon.png) ****to view a mentee's profile.
+3. Under Mentees section of Dashboard tab, click **View Profile** to view a mentee's profile. You can view graduated mentees from **Graduated Mentees** section.
 
-![](../../../.gitbook/assets/mentee-profile.png)
-
-By-default, **Public** tab appears which shows the projects and mentors that the mentee is associated with. You can navigate to **Applications** and **Tasks** tabs to see and manage application status and tasks assigned to the mentee.
+The associated projects and mentor profiles are shown for the mentee.
 
 
 

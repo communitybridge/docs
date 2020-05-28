@@ -23,7 +23,7 @@ A mentee applicant must have at least one application task to complete, for exam
 
 ### **View Tasks**
 
-1. Click **View Tasks** to view all the tasks that are assigned to mentee. Tasks Assigned to &lt;Mentee&gt; table appears with all the details. 
+1. Click **View Tasks** to view all the tasks that are assigned to mentee. **Tasks Assigned to &lt;Mentee&gt;** table appears with all the details. 
 2. Select or clear the **Hide Prerequisite Tasks** checkbox to view or hide the prerequisite tasks.
 3. Click **Minimize** to minimize the task details for the mentee.
 

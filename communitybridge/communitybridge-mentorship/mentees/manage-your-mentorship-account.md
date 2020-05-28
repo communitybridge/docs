@@ -39,18 +39,7 @@ My Projects shows the project names based on your role in those projects:
 
 ## My Tasks <a id="my-tasks"></a>
 
-‌Your CommunityBridge Mentorship account lets you add and edit tasks. Each task has a status which you assign. These status options give you visibility into the task workflow.‌
-
-### Tasks assigned to me <a id="tasks-assigned-to-my-mentees-shows-for-administrators-and-mentors"></a>
-
-‌Tasks that you have assigned are listed. You can change the status of a particular mentee by selecting an option from drop-down list under **Status**.
-
-![Tasks assigned to menttes](../../../.gitbook/assets/tasks-assigned-to-me.png)
-
-You can change status to
-
-* **In Progress:** To let your project admin/mentor know that you are working on the task.
-* **Submitted:** To let your project admin/mentor know that you have completed the task.
+‌Shows tasks that are assigned to you under **Tasks assigned to me**. You can change the status of a particular task by selecting an option from drop-down list under **Status**.
 
 ## Log Out
 

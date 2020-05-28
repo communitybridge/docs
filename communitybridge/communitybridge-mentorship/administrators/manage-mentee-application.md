@@ -51,7 +51,8 @@ A list of the persons who have applied to your project appears. The following ta
           <li><b>Declined:</b> You can decline an application if mentee application/profile
             is not suitable for the mentorship program.</li>
           <li><b>Accepted: </b>If you select <b>Accepted</b>, mentee gets an email notification
-            that his/her profile is accepted.</li>
+            that his/her profile is accepted. Accepted mentees are shown under Mentees
+            section of Dashborad tab.</li>
           <li><b>Withdrawn: </b>Status changes to <b>Withdrawn</b> when a mentee withdraws
             an application.</li>
           <li><b>Graduated: </b>Change the status to <b>Graduated </b>when a mentee successfully
@@ -82,7 +83,7 @@ A list of the persons who have applied to your project appears. The following ta
     <tr>
       <td style="text-align:left"><b>+Add Task</b>
       </td>
-      <td style="text-align:left">Allow you to <a href="manage-mentee-tasks.md#create-a-task">add tasks</a> for
+      <td style="text-align:left">Allow you to <a href="manage-mentee-tasks.md#add-task">add tasks</a> for
         mentees</td>
     </tr>
     <tr>

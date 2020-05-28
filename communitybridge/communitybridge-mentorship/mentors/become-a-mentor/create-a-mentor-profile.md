@@ -1,6 +1,6 @@
 # Create a Mentor Profile
 
-You can create a mentor profile and apply for the project/projects that you are interested in. After you submit an application, the respective project administrator reviews your profile and if your skills match the project requirement, the project administrator sends you an email inviting you to become a mentor for the particular project. You can [accept the invitation](accept-to-be-a-mentor-from-an-email-invitation.md) to become a mentor.
+You can create a mentor profile and apply for the project/projects that you are interested in. After you submit an application, the respective project administrator reviews your profile and if your skills match the project requirement, the project administrator sends you an email inviting you to become a mentor for the particular project.
 
 Keep these items ready before you begin:
 
@@ -26,11 +26,11 @@ A Mentor Application appears.
 * [Introduction](create-a-mentor-profile.md#CreateaMentorProfile-Introduction)
 * [Skills](create-a-mentor-profile.md#CreateaMentorProfile-Skills)
 * [External Profile Links](create-a-mentor-profile.md#CreateaMentorProfile-ExternalProfileLinks)
-* [Project Details](create-a-mentor-profile.md#CreateaMentorProfile-ProjectDetails)
+* [Mentorship Project Details](create-a-mentor-profile.md#CreateaMentorProfile-ProjectDetails)
 * [Terms and Conditions](create-a-mentor-profile.md#CreateaMentorProfile-TermsandConditions)
 
 4. Select the check box and click **Submit**.  
-     **Profile Created** page appears. You can click **My Profile** to see your profile status on your account page.  
+  **Profile Created** page appears. You can click **My Profile** to see your profile status on your account page.  
   
 5. Look for a _CommunityBridge Team: Your CommunityBridge mentor profile was successfully created_ email in your Inbox.  
 The email includes **View Profile** option.  
@@ -40,19 +40,15 @@ The email includes **View Profile** option.
 
 [Manage Your Mentorship Account](../../administrators/manage-your-mentorship-account.md)
 
-### Mentor Profile <a id="CreateaMentorProfile-MentorProfile"></a>
+### User Information <a id="CreateaMentorProfile-MentorProfile"></a>
 
-Some fields are pre-filled with your Linux Foundation account values. The Linux Foundation uses your email address for corresponding with you.
+Provide your first name, last name, email address, phone details, and upload your image in the respective fields. The Linux Foundation uses your contact information for corresponding with you.
 
-Your avatar \(image\) represents you on your associated CommunityBridge Mentorship projects. Click **Browse** to upload a JPG, PNG, or SVG file. Preview shows the image that you uploaded.
-
-![Mentor Profile](../../../../.gitbook/assets/mentor-profile.png)
+Some fields are pre-filled with your Linux Foundation account values. Use an avatar \(image\) to represents yourself. Your avatar appears on your mentor's card under Mentees. Click **Browse** to upload a JPG, PNG, or SVG file. Preview shows the image that you uploaded.
 
 ### Introduction <a id="CreateaMentorProfile-Introduction"></a>
 
 Introduce yourself to project administrators and inform them why you would excel as a mentor for a project.
-
-![Mentor Introduction](../../../../.gitbook/assets/mentor-introduction.png)
 
 ### Skills <a id="CreateaMentorProfile-Skills"></a>
 
@@ -66,11 +62,17 @@ Showcase your experience by providing links to your external profiles pages, and
 
 ![External Profile Links](../../../../.gitbook/assets/external-profile-links.png)
 
-### Project Details <a id="CreateaMentorProfile-ProjectDetails"></a>
+### Mentorship Project Details <a id="CreateaMentorProfile-ProjectDetails"></a>
 
-Provide information about the project for which you like to mentor individuals.
+This is not a mandatory field while creating a mentor profile.
 
-![Mentorship Project Details](../../../../.gitbook/assets/mentorship-project-details.png)
+Click in the field, type a project name or select from the drop-down list, and click **+Add Project**. Your request is added with status **Requested**. 
+
+**Withdraw Request** lets you withdraw your application.
+
+After the project maintainer adds you to the project, you will get an email notification informing that you are added to the project, and the status changes to **Added**.
+
+![Mentorship Project Details](../../../../.gitbook/assets/mentorship-project-details%20%281%29.png)
 
 ### Terms and Conditions <a id="CreateaMentorProfile-TermsandConditions"></a>
 
