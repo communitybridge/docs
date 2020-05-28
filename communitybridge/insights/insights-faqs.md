@@ -20,11 +20,7 @@ Yes, if your project is set up on Linux Foundations's SFDC \(Sales Force Dot Com
 
 Unaffiliated contributions are not counted under any organization, and are grouped as **Unknown**. CommunityBridge highly recommends to affiliate top contributors of your project.
 
-## Is affiliation data linked with one project?
+## Is affiliation data linked to one project?
 
-No, affiliation data is linked to profiles, and profiles are visible across all the projects 
-
-Is it true that the affiliation data being updated is only for Project Name or does it really apply to all Projects? If the latter then adding a note about aligning this across all projects should be included
-
-Affiliation updated is for the profile and profiles are global. Profiles are visible across projects so if my data is updated for one project, then that update will show up under my profile for any other project i am part of.
+No, affiliation data is linked to profiles, and profiles are visible across all the projects that they are part of. So, affiliation data for profiles are also visible across projects.
 
