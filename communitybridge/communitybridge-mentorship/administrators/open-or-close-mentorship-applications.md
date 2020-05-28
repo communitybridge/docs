@@ -4,9 +4,9 @@ As a project administrator, you can open or close mentorship applications for a 
 
 **Do these steps:**
 
-1. Sign in to your account.
+1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
 2. Go to your account and select **My Projects** from the drop-down list.
-3. On the **project** for which you want to open or close mentorship applications, click the toggle link: **Open Applications**/**Close Applications**.
+3. Under **Projects for which I am an Administrator,** navigate to project cards for which you want to open or close mentorship applications, and click **Open Applications**/**Close Applications**.
 
-![](../../../.gitbook/assets/open-close-application.png)
+![open-close applications](../../../.gitbook/assets/open-close-application%20%281%29.png)
 
