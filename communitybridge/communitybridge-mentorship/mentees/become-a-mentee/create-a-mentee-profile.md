@@ -29,7 +29,7 @@ Red asterisks indicate required fields. A bar at the top of the page shows your 
 
 5. Click any of the following links for information about fields that require explanation.
 
-* [Mentee Profile](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
+* [User Profile](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
 * [Introduction](create-a-mentee-profile.md#CreateaMenteeProfile-Introduction)
 * [Mailing Address](create-a-mentee-profile.md#CreateaMenteeProfile-MailingAddress)
 * [External Profile Links](create-a-mentee-profile.md#CreateaMenteeProfile-ExternalProfileLinks)
@@ -51,19 +51,17 @@ The Linux Foundation administrator reviews your application and approves or reje
 
 [Manage Your Mentorship Account](../manage-your-mentorship-account.md)
 
-## Mentee Profile <a id="CreateaMenteeProfile-MenteeProfile"></a>
+## User Profile <a id="CreateaMenteeProfile-MenteeProfile"></a>
 
-The Linux Foundation uses your contact information for corresponding with you, such as to request tax forms and so on.
+Provide your first name, last name, email address, phone details, and upload your image in the respective fields. The Linux Foundation uses your contact information for corresponding with you, such as to request tax forms and so on.
 
 Some fields are pre-filled with your Linux Foundation account values. Use an avatar \(image\) to represents yourself. Your avatar appears on your mentor's card under Mentees. Click **Browse** to upload a JPG, PNG, or SVG file. Preview shows the image that you uploaded.
-
-![Mentee Profile](../../../../.gitbook/assets/7418800.png)
 
 ## Introduction <a id="CreateaMenteeProfile-Introduction"></a>
 
 Introduce yourself to project owners and inform them why you would excel as a mentee. Below is the section:
 
-![Mentee Introduction](../../../../.gitbook/assets/7418799.jpg)
+![Introduction](../../../../.gitbook/assets/mentee-introduction.png)
 
 ## Mailing Address <a id="CreateaMenteeProfile-MailingAddress"></a>
 
@@ -81,17 +79,10 @@ Showcase your experience by providing links to your external profiles pages, and
 
 Click in the **Skill Name** field, select a skill, and click **+Add skill** to add your current skills and skills that you want to improve.
 
-![Mentee Skills](../../../../.gitbook/assets/skills.png)
-
 ## Demographics <a id="CreateaMenteeProfile-Demographics"></a>
 
 Your demographic information can help support diversity in open source projects and communities. Providing your demographics is optional. Your socioeconomic information can help support diversity in open source projects and communities.  
 Select the check boxes to enable the drop-down list from which you can chose a value.
-
-  
-Demographics section:
-
-![Mentee Demographic](../../../../.gitbook/assets/7418795.jpg)
 
 ## Terms and Conditions <a id="CreateaMenteeProfile-TermsandConditions"></a>
 

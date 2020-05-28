@@ -14,20 +14,18 @@ As a mentee, you can get the opportunity to engage in an open source project und
 * If you have a profile, projects that match your skills appear:
 {% endhint %}
 
-    3. Select a project of interest and then click **Apply**.
+    3. Select a project of interest, click **CLICK TO APPLY**, and after the card flips over, click **Apply**.
 
 {% hint style="warning" %}
 * You can apply to maximum three projects in one term.
 * For projects that your application is declined or you have withdrawn your application, you can re-apply to those in next term.
+* 
 {% endhint %}
-
-![](../../../../.gitbook/assets/7418805.png)  
-Depending on the project, an **Almost There!** message informs you that may have to complete various tasks before you will be eligible for consideration to be matched with a mentor. These tasks can help you see if you like working on the project and also demonstrate to the project administrator and mentor that you can excel as a mentee.
 
 ![](../../../../.gitbook/assets/mentee-applied.png)
 
 You receive an email from CommunityBridge Team informing you that your application is received.  
 
-* After you apply, your application is in **Pending** state until the project admin or mentor changes the status of your application. For details, see [View Status of your Application](../view-status-of-your-application.md)
+* After you apply, your application is in **Pending** state until the project admin  changes the status of your application. For details, see [View Status of your Application](../view-status-of-your-application.md)
 * You must complete the tasks that are assigned to you to graduate from Mentorship program.
 

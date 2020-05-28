@@ -8,5 +8,8 @@ You can invite mentors by adding mentor's name during project enrollment. For de
 
 ## Accepting Mentors: <a id="InviteandAcceptMentors-AcceptingMentors:"></a>
 
-After you receive an email informing you that a mentor shows interest in your project, you can review mentor's profile by clicking **View Submission** CTA in the email. If mentor's profile matches the requirement, you can add the mentor to your project, as described above.
+After you receive an email informing you that a mentor shows interest in your project:
+
+1. Review mentor's profile by navigating to your project page from your account.
+2. Click **Add to Project** CTA in the email if mentor's profile matches the project requirement.
 
