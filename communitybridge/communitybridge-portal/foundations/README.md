@@ -80,7 +80,9 @@ The following table describes the various entities on the foundation card based 
         go through a joining process to become a member of the foundation.</td>
     </tr>
   </tbody>
-</table>## Search a Foundation <a id="search-a-foundation"></a>
+</table>
+
+## Search a Foundation <a id="search-a-foundation"></a>
 
 You can search foundations based on category, such as cloud, networking, blockchain, and so on. Select a value form the ![Category](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M1oydI8B3Z7F6kYlHX6%2F-M1pVQWrMJ7G0Qf11NbV%2Fsearch-category.PNG?alt=media&token=daca7f73-210d-4ea1-9475-c30a0d74d1e3) drop down list to search foundations of the selected category. You can also search a foundation entering its name in the ![Search](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M1oydI8B3Z7F6kYlHX6%2F-M1pWEbKtQXnLsJrJLMf%2Fsearch.PNG?alt=media&token=27845e5f-6397-4d86-96d8-d3d9ee945878) field.
 

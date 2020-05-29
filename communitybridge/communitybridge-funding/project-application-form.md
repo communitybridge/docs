@@ -97,7 +97,9 @@ The following table lists all the fields in the **Project Details** panel of the
         a website to your project by entering a website name and URL.</td>
     </tr>
   </tbody>
-</table>![Project Details](../../.gitbook/assets/7418614.png)
+</table>
+
+![Project Details](../../.gitbook/assets/7418614.png)
 
 ## Project Branding <a id="ProjectApplicationForm-ProjectBranding"></a>
 

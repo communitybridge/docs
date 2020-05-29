@@ -10,9 +10,9 @@
 Following are the descriptions for each status:
 
 * **Application Pending:** You have submitted application, and it is in **Pending** state. The project admin or mentor is yet to review of your application. Anytime, you can withdraw your application.
-* **Accepted:** Project admin or mentor has accepted your application. You receive an email notification from CommunitBridge Team. Click **View Tasks** to view and complete all the tasks or navigate to **My Account &gt;** **My Tasks** to view and complete tasks for a project.
+* **Accepted:** Project admin or mentor has accepted your application. You receive an email notification from CommunityBridge Team. Click **View Tasks** to view and complete all the tasks or navigate to **My Account &gt;** **My Tasks** to view and complete tasks for a project.
 * **Declined:** Your application is declined as your profile doesn't match with the project requirements.
-* **Withdrawn:** Either you or the project admin/mentor has withdrawn your application.
+* **Withdrawn:** Either you or the project admin has withdrawn your application.
 * **Graduated:** You have successfully graduated from the mentorship program.
 
 {% hint style="info" %}

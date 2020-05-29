@@ -111,7 +111,9 @@ Projects details can indicate how active a mentorship is in the open source comm
         as an <a href="../../communitybridge-funding/donate-sponsor/donate-as-a-project-sponsor/">organization</a>.</td>
     </tr>
   </tbody>
-</table>**Mentors** section shows the images and brief description of mentors associated with the particular project. Click **View Profile** to know more about a mentor.
+</table>
+
+**Mentors** section shows the images and brief description of mentors associated with the particular project. Click **View Profile** to know more about a mentor.
 
 **Mentees** section shows the images of mentees associated with the particular project. Click **View Profile** to know more about a mentee.
 

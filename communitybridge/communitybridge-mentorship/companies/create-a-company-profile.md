@@ -70,7 +70,9 @@ The Linux Foundation administrator reviews your application and approves or reje
       <td style="text-align:left">brief description about your company.</td>
     </tr>
   </tbody>
-</table>![Company Details](../../../.gitbook/assets/company-details.png)
+</table>
+
+![Company Details](../../../.gitbook/assets/company-details.png)
 
 ### Participating Opportunities <a id="CreateaCompanyProfile-Participation"></a>
 
@@ -116,7 +118,9 @@ This section shows if you select **Employment Opportunities** check box under **
         select a <b>project</b>, and then click <b>+ Add project</b>.</td>
     </tr>
   </tbody>
-</table>### Financial Support <a id="CreateaCompanyProfile-FinancialSupport"></a>
+</table>
+
+### Financial Support <a id="CreateaCompanyProfile-FinancialSupport"></a>
 
 This section shows if you select **Financial Support** check box under **Participation**. Below table describes all the fields:
 

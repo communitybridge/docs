@@ -44,5 +44,5 @@ Get started by creating your profile, and then continue with the next steps:
 
 * [Become a Mentee](become-a-mentee/)
 * [View Status of your Application](view-status-of-your-application.md)
-* [Mentee Task Management](mentee-task-management.md)
+* [Mentee Task Management](manage-your-task.md)
 

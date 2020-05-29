@@ -107,7 +107,9 @@ The overview shows some or all of the following items depending on the data that
       </td>
     </tr>
   </tbody>
-</table>  
+</table>
+
+  
 View an example of a project overview section:
 
 ![](../../../.gitbook/assets/7418510%20%281%29.png)

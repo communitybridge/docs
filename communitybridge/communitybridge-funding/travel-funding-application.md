@@ -57,7 +57,9 @@
       <td style="text-align:left">Ens date of your travel scholarship</td>
     </tr>
   </tbody>
-</table>![Travel Scholarship Details](../../.gitbook/assets/7418658.jpg)
+</table>
+
+![Travel Scholarship Details](../../.gitbook/assets/7418658.jpg)
 
 ## Travel Scholarship Branding <a id="TravelFundingApplication-TravelScholarshipBranding"></a>
 

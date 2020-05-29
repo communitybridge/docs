@@ -11,6 +11,6 @@ You can add mentors by adding their name during project enrollment. For details,
 After you receive an email informing you that a mentor shows interest in your project:
 
 1. Review mentor's profile by navigating to your project page from your account.
-2. Click **Add to Project** CTA in the email if mentor's profile matches the project requirement.
-3. Add mentor details in the Project Mentors section, and click **Submit**.
+2. Click **Add to Project** CTA in the email if mentor's profile matches the project requirement. Project Edit page opens.
+3. On the project edit page, add mentor details in the Project Mentors section, and click **Submit**.
 

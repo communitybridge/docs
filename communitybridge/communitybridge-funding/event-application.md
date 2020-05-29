@@ -136,7 +136,9 @@ The following table lists all the fields in the **Add Sponsorship Tier** panel:
       <td style="text-align:left">The minimum dollar amount that a sponsor can donate to the tier.</td>
     </tr>
   </tbody>
-</table>## Financial Summary <a id="EventApplication-FinancialSummary"></a>
+</table>
+
+## Financial Summary <a id="EventApplication-FinancialSummary"></a>
 
 The Financial Summary shows the annual financial goal and progress towards it by individual goal. A distributed report is shown based on your selection in the **Fund Distribution** section. 
 

@@ -38,6 +38,7 @@ A list of the persons who have applied to your project appears. The following ta
       <td style="text-align:left"><b>Application Status</b>
       </td>
       <td style="text-align:left">
+        <p>Only Project Maintainers can change application status.</p>
         <ul>
           <li><b>Pending: </b>Mentee has applied to the mentorship program. Click the
             mentee name to view mentee profile.</li>
@@ -78,7 +79,9 @@ A list of the persons who have applied to your project appears. The following ta
         introduction, and so on.</td>
     </tr>
   </tbody>
-</table>![Mentee Application Status](../../../.gitbook/assets/mentee-application-status-view-for-mentor.png)
+</table>
+
+![Mentee Application Status](../../../.gitbook/assets/mentee-application-status-view-for-mentor.png)
 
 Continue to:
 

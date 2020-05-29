@@ -27,6 +27,10 @@ A mentee applicant must have at least one application task to complete, for exam
 2. Select or clear the **Hide Prerequisite Tasks** checkbox to view or hide the prerequisite tasks.
 3. Click **Minimize** to minimize the task details for the mentee.
 
+After a mentee submits a file for a task, you can view or download the file by clicking the respective icon beside a task, as shown below.
+
+![View Mentee Tasks](../../../.gitbook/assets/view-mentee-tasks-for-admin.png)
+
 ### **Change Status**
 
 Select a value from the **Tasks** **Status** drop-down list: In Progress, Submitted, Completed.  
@@ -41,7 +45,7 @@ Following table describes each status:
 | Status Name | Description |
 | :--- | :--- |
 | Pending | Mentee is yet to work on the task. |
-| In Progress | Mentee has changed the status to **In Progress.** |
+| In Progress | Mentee is working on the task, and has changed the status to **In Progress.** |
 | Submitted | Mentee has changed the status to **Submitted.** |
 | Completed | Set to **Completed** if a mentee has completed a task. |
 
@@ -54,9 +58,11 @@ The Create Task page appears. Complete the form fields and click **Add Task**. W
 
 ### **Edit Task**
 
-You can edit a task only for an accepted mentee profile.
+{% hint style="info" %}
+You can not prerequisite tasks.
+{% endhint %}
 
-Click **Edit Task** for a mentee. You can edit only the tasks that you have created, not the prerequisite tasks.  
+Click **Edit Task** for a mentee task.  
  The Edit Task dialog appears. Modify the task and click **Submit**.
 
 ![Edit Task](../../../.gitbook/assets/edit-task.png)

@@ -16,12 +16,12 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 4. Participate:
    * As an administrator– [Enroll Your Project](../administrators/enroll-your-project/).
    * As a mentee– [Create a Mentee Profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and then [Apply to a Project](../mentees/become-a-mentee/apply-to-a-project.md).
-   * As a mentor–[Create a Mentor Profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and then [Accept to be a Mentor from an Email Invitation]().
+   * As a mentor–[Create a Mentor Profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and then [Apply to a Project](../mentors/become-a-mentor/apply-to-or-remove-from-a-project.md#apply-to-a-project).
    * As a company: [Create a Company Profile](../companies/create-a-company-profile.md) and then [Donate to the Project](../../communitybridge-funding/donate-sponsor/).
 
 ## Projects <a id="DashboardOverview-Projects"></a>
 
-![Projects](../../../.gitbook/assets/projects.png)
+![Project Overview](../../../.gitbook/assets/project-overview%20%281%29.png)
 
 **Projects** shows the on-going and past projects in Current Projects and Past Projects tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information: 
 

@@ -4,3 +4,7 @@
 
 **Be Inclusive:** It’s not just between you and your mentor. This mentorship program gives you an opportunity to interact with the entire community and its members. So, interact with other members in the community, and ensure that you follow the code of conduct and professionalism. Though you are allowed to socialize with the community on a professional level, know where to draw the line.
 
+{% hint style="info" %}
+Any interactions you have with a company are strictly between you and the company, and are not part of or connected to the Mentorship program, nor do such interactions involve Linux Foundation.
+{% endhint %}
+

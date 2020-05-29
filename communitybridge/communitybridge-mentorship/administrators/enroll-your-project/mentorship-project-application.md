@@ -114,7 +114,9 @@ The below table describes the fields of Mentorship Project Application:
         values. The gray field refreshes to match your selection.</td>
     </tr>
   </tbody>
-</table>![Project Details](../../../../.gitbook/assets/project-details-page.png)
+</table>
+
+![Project Details](../../../../.gitbook/assets/project-details-page.png)
 
 ### Program Setup <a id="MentorshipProjectApplication-ProgramSetup"></a>
 
@@ -166,7 +168,9 @@ The following table lists all the fields that appear on the Program Setup page o
       </td>
     </tr>
   </tbody>
-</table>![Program SetUp Form](../../../../.gitbook/assets/program-setup-page.png)
+</table>
+
+![Program SetUp Form](../../../../.gitbook/assets/program-setup-page.png)
 
 ### Prerequisites <a id="MentorshipProjectApplication-Prerequisites"></a>
 
