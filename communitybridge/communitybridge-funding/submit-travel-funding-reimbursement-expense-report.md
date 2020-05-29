@@ -53,10 +53,6 @@ Event attendance is required. Expense reports will not be reviewed until after t
 
 ## Create and Submit an Expense Report <a id="SubmitTravelFundingReimbursementExpenseReport-CreateandSubmitanExpenseReport"></a>
 
-**Tip:** Click your **profile** and then select an **expense policy** to use as the default for your expense reports, for example:
-
-![](../../.gitbook/assets/7419230.png)
-
 **To Create or Submit an Expense Report:** 
 
 1. Sign In to Expensify
