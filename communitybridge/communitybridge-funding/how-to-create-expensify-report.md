@@ -1,9 +1,6 @@
 # How to Create Expensify Report
 
-You can create an Expensify report by referring to either of the following method:
-
-* Create the report before you incur expense and add the expenses as they arise. Or, 
-* Consolidate all your expenses from your trip/event/onboarding and apply them to the report. 
+Consolidate all of the expenses from your travel apply them to the report.
 
 #### To create a report:
 
@@ -11,8 +8,7 @@ You can create an Expensify report by referring to either of the following metho
 
 ![](../../.gitbook/assets/expensify-reports-tab.png)
 
-2. On **Reports** page, select **New Report** located in the top-right corner of your screen.  
-**Result:** A report is displayed where you can add expenses. 
+2. On **Reports** page, select **New Report** located in the top-right corner of your screen. 
 
 ![](../../.gitbook/assets/expensify-new-reports.png)
 
