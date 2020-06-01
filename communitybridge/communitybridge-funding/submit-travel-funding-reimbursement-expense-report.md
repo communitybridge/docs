@@ -28,24 +28,17 @@ The Linux Foundation requires that international \(non-U.S.\) individuals receiv
 {% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
 {% hint style="warning" %}
-Event attendance is required. Expense reports will not be reviewed until after the event has ended.
+Event attendance is required for reimbursement. Expense reports will not be reviewed until after the event has ended.
 {% endhint %}
 
-**How to create your Expense Report:**
-
-1. Go to the Expensify website: [https://www.expensify.com/signin](https://www.expensify.com/signin)  
+1. Go to [https://www.expensify.com/signin](https://www.expensify.com/signin)  
      Ensure that you use the same email address linked to your travel funding approval. 
 
 ![](../../.gitbook/assets/7419228.png)
 
-2. Enter your password and click **Next**.  
-     Your Expensify Inbox appears.
+2. Depending on your location:
 
-![](../../.gitbook/assets/7419229.png)
-
-3. Depending on your location:
-
-**United States:** Set up your Expensify reimbursement account: [Add a United States deposit account](https://docs.expensify.com/en/articles/2931-add-a-deposit-account-united-states).
+**United States:** Set up your Expensify reimbursement account: [Add a United States deposit account](https://community.expensify.com/discussion/4641/how-to-add-a-u-s-personal-bank-account-to-receive-reimbursements-via-expensify).
 
 **International:** Upload a completed _The Linux Foundation Wire Transfer Form_ in place of a receipt. 
 
