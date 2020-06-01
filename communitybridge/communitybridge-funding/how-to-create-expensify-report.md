@@ -20,5 +20,3 @@ You can create an Expensify report by referring to either of the following metho
 
 ![](../../.gitbook/assets/expensify-add-report-and-submit.png)
 
-
-
