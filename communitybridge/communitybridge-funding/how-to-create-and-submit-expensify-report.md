@@ -22,22 +22,15 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/add-expense-screenshot-first-step.png)
 
-6. On New Expense window, complete the following fields:  
-    **Merchant Name:** Your name  
-    **Date:** Date of travel  
-    **Total:**The amount you spent on travel to attend the meet up  
-    **Category:** Select a category from the drop-down list  
-    **Description:** Provide a clear and concise description, for example, ****Flight Ticket to attend Hyperledger meet up, Seattle , Or Hotel stay at Hilton in Seattle, WA, USA for Hyperledger meet up
-
-7. Click ![](../../.gitbook/assets/plus-icon.png) on New Expense window to add receipt.
+6. Click ![](../../.gitbook/assets/plus-icon.png) on New Expense window to add receipt.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-8. Upload your travel receipt on **Attach Receipt To Expense** window.
+7. Upload your travel receipt on **Attach Receipt To Expense** window.
 
-9. Click **Save**.
+8. Click **Save**.
 
-10. You will be redirected to Report page. Click **Submit** from the top left corner.
+9. You will be redirected to Report page. Click **Submit** from the top left corner.
 
  
 
