@@ -105,7 +105,7 @@
       * [View Status of your Application](communitybridge/communitybridge-mentorship/mentees/view-status-of-your-application.md)
       * [Manage your Task](communitybridge/communitybridge-mentorship/mentees/manage-your-task.md)
       * [Manage Your Mentorship Account](communitybridge/communitybridge-mentorship/mentees/manage-your-mentorship-account.md)
-      * [Submit Invoice to Receive a Mentorship Stipend](communitybridge/communitybridge-mentorship/mentees/submit-invoice-to-receive-a-mentorship-stipend.md)
+      * [Submit a Report to Receive Mentorship Stipend](communitybridge/communitybridge-mentorship/mentees/submit-a-report-to-receive-a-mentorship-stipend.md)
     * [Mentors](communitybridge/communitybridge-mentorship/mentors/README.md)
       * [Become a Mentor](communitybridge/communitybridge-mentorship/mentors/become-a-mentor/README.md)
         * [Create a Mentor Profile](communitybridge/communitybridge-mentorship/mentors/become-a-mentor/create-a-mentor-profile.md)
