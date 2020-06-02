@@ -10,7 +10,7 @@ Each unique identity has a profile that summarizes the user data. The profile ca
 2. Click **Affiliation Management**.
 3. Select a profile from **Top Unaffiliated Contributor** list or [search for a profile](find-a-profile.md).
 4. Click a **row** that corresponds to a name of interest. Profile Information appears.
-5. Go to **User Affiliations**. The profile identities are listed. Each identity shows Name, E-mail, Username, Source, and an Un-merge button. **Note:** The unique profile to which identities are merged, doesn't have Un-merge button.
+5. Go to **User Identities**. The profile identities are listed. Each identity shows Name, E-mail, Username, Source, and an Un-merge button. **Note:** The unique profile to which identities are merged, doesn't have Un-merge button.
 6. Continue to merge or un-merge an identity profile:
    * [Merge an Identity Profile](merge-or-un-merge-an-identity-profile.md#merge-an-identity-profile)
    * [Un-merge an Identity Profile](merge-or-un-merge-an-identity-profile.md#un-merge-an-identity-profile)
@@ -29,7 +29,7 @@ The Add an Identity pane appears:
 7. Type a name or email in the **Search** field, and press **Enter**.  
 Matching results appear.
 
-8. Find the name you want to add and click **Add** on the row.
+8. Find the unaffiliated identity \(Affiliations is blank\) that you want to add, and click **Add** on the row.
 
 ![Merge an Identity Profile](../../../.gitbook/assets/user-affiliations-add.png)
 

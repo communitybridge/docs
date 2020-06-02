@@ -19,10 +19,20 @@ In Top Unaffiliated Contributors, look for a contributor who belongs to your pro
 
 **Do these steps:**
 
-1. In Top Unaffiliated Contributor, click the name of the contributor or hover the mouse over the Commits **number** for the contributor of interest and click **search**. The profile identities are listed. Each identity shows Name, Email, Affiliations, Bot, Country, Last Modified, and \# specifying the number of identities associated with the person.
-2. Look for a name that does not have an affiliation \(Affiliations is blank\) and click the **name**. Profile information for the name appears.
+1. Under **Top Unaffiliated Contributors**, click the name of the contributor or hover mouse over Commits number for the contributor of interest and click **search**.  
+The unique identity of the profile is displayed with all the details, such as Name, Email, Affiliations, Bot, Country, Last Modified On, and \# specifying the number of identities associated with the person.
+
+{% hint style="info" %}
+* Searching a contributor by clicking his/her name under Top Unaffiliated Contributors, shows the unique identity of the contributor's profile.
+* Searching a contributor by entering his/her name in the **Search Profiles** field, shows all the identities associated with the profile.
+{% endhint %}
+
+2. Click the name under **Name** column to see identities associated with the profile under **User Identities**.
+
 3. Continue to Step 5 of [Merge or Un-merge an Identity Profile](merge-or-un-merge-an-identity-profile.md).
-4. Select **Home** and scan Top Unaffiliated Contributors. The contributor name is no longer listed because you have addressed the missing affiliations.
+
+4. Select **Home** and scan Top Unaffiliated Contributors.  
+The contributor name is no longer listed because you have addressed the missing affiliations.
 
 {% hint style="info" %}
 Due to a lag in the list refresh, names can remain in a Top Unaffiliated list even after you have addressed the missing affiliation. Check the list again later.
