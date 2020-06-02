@@ -2,7 +2,7 @@
 
 Consolidate all of the expenses from your travel to apply them to the report.
 
-**Follow these:**
+**Follow these steps:**
 
 1. Under you account, select **Reports** tab.
 
@@ -22,15 +22,13 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/add-expense-screenshot-first-step.png)
 
-6. Click ![](../../.gitbook/assets/plus-icon.png) on New Expense window to add receipt.
+6. Click ![](../../.gitbook/assets/plus-icon.png) on New Expense window to add receipts.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-7. Upload your travel receipt on **Attach Receipt To Expense** window.
+7. Click **Save**.
 
-8. Click **Save**.
-
-9. You will be redirected to Report page. Click **Submit** from the top left corner.
+8. You will be redirected to Report page. Click **Submit** from the top left corner.
 
  
 
