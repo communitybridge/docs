@@ -33,7 +33,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-8. Upload your travel receipt on Attach Receipt To Expense window.
+8. Upload your travel receipt on **Attach Receipt To Expense** window.
 
 9. Click **Save**.
 
