@@ -22,7 +22,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/add-expense-screenshot-first-step.png)
 
-6. Click ![](../../.gitbook/assets/plus-icon.png) on New Expense window to add receipts.
+6. Click ![](../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
