@@ -1,6 +1,6 @@
 # How to Create Expensify Report
 
-Consolidate all of the expenses from your travel to apply them to the report.
+Consolidate all of the expenses from your travel apply them to the report.
 
 #### To create a report:
 
@@ -12,7 +12,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/expensify-new-reports.png)
 
-**Report Name** must include your name, and the name and date of the event, for example “Jane Brown - Linux Kernel Maintainer Summit 2020”.
+**Report Name** is generated automatically, and some fields, such as Name, Start and End dates, Report Number, and Currency, are auto-populated based on your profile information.
 
 ![](../../.gitbook/assets/expensify-add-report-and-submit.png)
 

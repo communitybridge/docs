@@ -2,7 +2,7 @@
 
 ## How does CommunityBridge Insights work?
 
-CommunityBridge Insights collects data for a project, segregates them to different data sources, such as source control for code related data, issue management for issues statuses, documentation, CI/CD, and so on. It represents these data on different visualization dashboards, such as graphs, charts, and tables. 
+CommunityBridge Insights collects data for a project, segregates them to different data sources, such as source control for code related data, issue management for issues statuses, documentation for confluence and wiki pages, CI/CD for Jenkins, and so on. It represents these data on different visualization dashboards, such as graphs, charts, and tables.
 
 ## Who can see CommunityBridge Insights reports?
 
@@ -22,5 +22,5 @@ Unaffiliated contributions are not counted under any organization, and are group
 
 ## Is affiliation data linked to one project?
 
-No, affiliation data is linked to profiles, and profiles are visible across all the projects that they are part of. So, affiliation data for profiles are also visible across projects.
+No, affiliation data is linked to profiles, and profiles are visible across all the projects that they are part of. So, affiliation data for profiles are also visible across projects that they are part of.
 
