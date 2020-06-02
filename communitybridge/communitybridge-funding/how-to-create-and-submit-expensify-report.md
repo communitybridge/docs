@@ -37,7 +37,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 9. Click **Save**.
 
-10. You will be redirected to Report page. Click **Submit**.
+10. You will be redirected to Report page. Click **Submit** from the top left corner.
 
  
 
