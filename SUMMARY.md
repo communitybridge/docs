@@ -41,7 +41,7 @@
     * [Manage Your Funding Account](communitybridge/communitybridge-funding/manage-your-funding-account.md)
     * [Get Reimbursed](communitybridge/communitybridge-funding/get-reimbursed.md)
     * [Submit Travel Funding Reimbursement Expense Report](communitybridge/communitybridge-funding/submit-travel-funding-reimbursement-expense-report.md)
-    * [How to Create Expensify Report](communitybridge/communitybridge-funding/how-to-create-expensify-report.md)
+    * [How to Create and Submit Expensify Report](communitybridge/communitybridge-funding/how-to-create-and-submit-expensify-report.md)
     * [Funding FAQs](communitybridge/communitybridge-funding/funding-faqs.md)
     * [Funding - Get Help](communitybridge/communitybridge-funding/funding-get-help.md)
   * [CommunityBridge Mentorship](communitybridge/communitybridge-mentorship/README.md)
