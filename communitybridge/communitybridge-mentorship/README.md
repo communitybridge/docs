@@ -14,8 +14,6 @@ You can participate in Mentorship program based on your role. CommunityBridge Me
 
 [**Mentor**](mentors/): Mentors are project contributors who want to donate their time to mentor individuals. You can [create a mentor profile](mentors/become-a-mentor/create-a-mentor-profile.md) to become a mentor for participants/mentees in the open source projects.
 
-[**Company**](companies/) ****\(employer\): You represent a company or other organization that is interested in funding and providing interview opportunities to Mentorship program graduates.
-
 ## How Does it Work? <a id="CommunityBridgeMentorship-HowDoesitWork?"></a>
 
 First, a project administrator enrolls a project. Then, various roles participate as shown in the following high-level diagram:

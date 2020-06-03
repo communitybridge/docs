@@ -8,7 +8,7 @@
 
 Consider the following financial aspects of reimbursement:
 
-* Linux Foundation CommunityBridge uses [Expensify](https://www.expensify.com/), a third-party expense management and payment application. Expensify is an online service application that lets you link your reimbursement account or upload a Wire Transfer form and generate expense reports. 
+* The Linux Foundation uses [Expensify](https://www.expensify.com/), a third-party expense management and payment application. Expensify is an online service application that lets you link your reimbursement account or upload a Wire Transfer form and generate expense reports. 
 
 {% hint style="info" %}
 Have these items handy before you begin:
@@ -20,7 +20,7 @@ Have these items handy before you begin:
 
 ## Set Up a Reimbursement Account in Expensify <a id="SubmitTravelFundingReimbursementExpenseReport-SetUpaReimbursementAccountinExpensify"></a>
 
-You will receive an invitation email from the Expensify Concierge informing you that you have access to the Linux Foundation CommunityBridge policy. Use the same email address linked to your travel funding approval to sign into an existing [Expensify](https://www.expensify.com) account or set up a new one. If you are using a United States bank, please link Expensify to your bank or financial service account.
+You will receive an invitation email from the Expensify Concierge that you have been added to a Linux Foundation Travel Funds Policy. Use the same email address linked to your travel funding approval to sign into an existing [Expensify](https://www.expensify.com) account or set up a new one. If you are using a United States bank, please link Expensify to your bank or financial service account.
 
 {% hint style="warning" %}
 The Linux Foundation requires that international \(non-U.S.\) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
@@ -50,7 +50,7 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 **To Create or Submit an Expense Report:** 
 
 1. Sign In to Expensify
-2. Create and submit an expense report. For details, see [How to Create Expensify Report](how-to-create-and-submit-expensify-report.md). After you submit your report, the approver receives an email notification that your report requires attention. The approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
+2. Create and submit an expense report. For details, see [How to Create and Submit an Expensify Report](how-to-create-and-submit-an-expensify-report.md). After you submit your report, the approver receives an email notification that your report requires attention. The approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
 3.  Upon approval notification, go to your account to access your reimbursement money. It may take up to 45 business days for the funds to be deposited to your bank account.\*
 
 \*Wire Transfer recipients will get the funds deposited to their account directly from Linux Foundation.

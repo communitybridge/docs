@@ -1,10 +1,14 @@
-# How to Create and Submit Expensify Report
+# How to Create and Submit an Expensify Report
 
 Consolidate all of the expenses from your travel to apply them to the report.
 
 **Follow these steps:**
 
-1. Under you account, select **Reports** tab.
+**Note:** If you have been approved for more than one event, please select the applicable travel fund policy.
+
+![](../../.gitbook/assets/select-policy.png)
+
+1. Under your account, select **Reports** tab.
 
 ![](../../.gitbook/assets/expensify-reports-tab.png)
 
@@ -12,7 +16,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/expensify-new-reports.png)
 
-3. Write a **Report Name** that must include your name, and the name and date of the event, for example “Jane Brown - Linux Kernel Maintainer Summit 2020”.
+3. Write a **Report Name** that must include your name, and the name and year of the event, for example “Jane Brown - Open Source Summit + Embedded Linux Conference North America 2020”.
 
 ![](../../.gitbook/assets/expensify-add-report-and-submit.png)
 
@@ -22,7 +26,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 ![](../../.gitbook/assets/add-expense-screenshot-first-step.png)
 
-6. Click ![](../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt.
+6. Click ![](../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt as well as the receipt details.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
