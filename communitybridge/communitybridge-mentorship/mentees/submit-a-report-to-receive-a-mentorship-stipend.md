@@ -35,7 +35,7 @@ Write a report name that must include "_your name - mentee stipend payment &lt;n
 
 ![](../../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-7. Click ![](../../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt.  
+7. Click ![](../../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt. \(Is this sentence applicable to U.S. residents\)  
    **Note:** For **International Mentees \(non-U.S.\)**, upload completed _The Linux Foundation Wire Transfer Form_ in place of a receipt, as given below. 
 
 {% file src="../../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
@@ -45,7 +45,7 @@ Write a report name that must include "_your name - mentee stipend payment &lt;n
 9. You will be redirected to Report page. Click **Submit** from the top left corner.
 
 {% hint style="warning" %}
-**Important:** For United States Residents, add a US bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
+**Important:** If you are a United States resident, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
 {% endhint %}
 
 ![](../../../.gitbook/assets/us-mentee-add-bank-account.png)

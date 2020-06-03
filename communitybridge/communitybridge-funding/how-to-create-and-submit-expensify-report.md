@@ -4,7 +4,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 **Follow these steps:**
 
-1. Under your account, select **Reports** tab.
+1. Under you account, select **Reports** tab.
 
 ![](../../.gitbook/assets/expensify-reports-tab.png)
 
