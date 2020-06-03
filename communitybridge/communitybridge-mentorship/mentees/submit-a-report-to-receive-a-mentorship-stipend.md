@@ -10,7 +10,7 @@ Consider the following financial aspects of reimbursement before you make a requ
 
 #### **To create an Expensify Report:**
 
-1. **Login to Expensify** [**https://www.expensify.com**](https://www.expensify.com/) ****
+1. **Login to Expensify** [**https://www.expensify.com**](https://www.expensify.com/)
 2. **Create an expense and complete the following fields:**
    1. **Merchant: your name**
    2. **Date: the date of the stipend payment**
@@ -27,10 +27,15 @@ Consider the following financial aspects of reimbursement before you make a requ
   
 **NOTE: Each time you will receive a satisfactory mentorship evaluation you will need to submit the invoice to receive your stipend payment.**
 
-## Create an Expensify Report <a id="GetReimbursed-SetUpaReimbursementAccountandCreateaReport"></a>
+## Create and Submit an Expensify Report <a id="GetReimbursed-SetUpaReimbursementAccountandCreateaReport"></a>
 
-1. **United States residents: please add US bank deposit account to Expensify**
-2. **International mentees: please upload completed The Linux Foundation Wire Transfer Form in place of a receipt**
+1. Login to Expensify [https://www.expensify.com](https://www.expensify.com/)
+
+2. Depending on your location:
+
+**United States residents:** Add US bank deposit account to Expensify
+
+**International mentees:** Upload completed _The Linux Foundation Wire Transfer Form_ in place of a receipt
 
 {% hint style="warning" %}
 The Linux Foundation requires that international \(non-U.S.\) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
