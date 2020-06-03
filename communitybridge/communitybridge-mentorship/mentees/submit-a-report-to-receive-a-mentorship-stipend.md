@@ -1,85 +1,61 @@
 # Submit a Report to Receive Mentorship Stipend
 
-Mentees are required to submit their invoices for mentorship stipends through Expensify before the Mentorship Program administrator approves the invoice. 
-
-* [Create an Expensify Invoice](submit-a-report-to-receive-a-mentorship-stipend.md#to-create-an-expensify-invoice)
-* [Set Up a Reimbursement Account and Create a Report](submit-a-report-to-receive-a-mentorship-stipend.md#GetReimbursed-SetUpaReimbursementAccountandCreateaReport)
-* [Submit an Expense Report](submit-a-report-to-receive-a-mentorship-stipend.md#GetReimbursed-SubmitanExpenseReport:)
-
-Consider the following financial aspects of reimbursement before you make a request:
-
-#### **To create an Expensify Report:**
-
-1. **Login to Expensify** [**https://www.expensify.com**](https://www.expensify.com/)
-2. **Create an expense and complete the following fields:**
-   1. **Merchant: your name**
-   2. **Date: the date of the stipend payment**
-   3. **Total: the amount of your stipend payment for each evaluation period Category: mentee**
-   4. **Description: name of your mentorship + mentee stipend payment &lt;number&gt; of  &lt;number&gt;**
-3.  **Create a report titled: your name - mentee stipend payment &lt;number&gt; of &lt;number&gt;**
-4. **Add the expense to the report and submit**
-
-**You will also need to complete bank and financial information upon submitting your initial invoice. Depending on your location:**
-
-1. **United States residents: please add US bank deposit account to Expensify**
-2. **International mentees: please upload completed The Linux Foundation Wire Transfer Form in place of a receipt**
-
-  
-**NOTE: Each time you will receive a satisfactory mentorship evaluation you will need to submit the invoice to receive your stipend payment.**
+Mentees are required to submit their invoices for mentorship stipends through Expensify before the Mentorship Program administrator approves the invoice.
 
 ## Create and Submit an Expensify Report <a id="GetReimbursed-SetUpaReimbursementAccountandCreateaReport"></a>
 
-1. Login to Expensify [https://www.expensify.com](https://www.expensify.com/)
+1. Login to Expensify [https://www.expensify.com](https://www.expensify.com/)  
+Ensure that you use the same email address that you used to set up your account on Expensify.
 
-2. Depending on your location:
+2. Under your account, select **Reports** tab.
 
-**United States residents:** Add US bank deposit account to Expensify
+![](../../../.gitbook/assets/expensify-reports-tab.png)
 
-**International mentees:** Upload completed _The Linux Foundation Wire Transfer Form_ in place of a receipt
+3. On **Reports** page, select **New Report** located in the top-right corner of your screen.
 
-{% hint style="warning" %}
-The Linux Foundation requires that international \(non-U.S.\) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
-{% endhint %}
+![](../../../.gitbook/assets/expensify-new-reports.png)
+
+4. A report name along with a report ID is auto-generated based on your profile information. Or,  
+Write a report name that must include "_your name - mentee stipend payment &lt;number&gt; of &lt;number&gt;",_ for example...................................
+
+![](../../../.gitbook/assets/expensify-add-report-and-submit.png)
+
+5. Click ![](../../../.gitbook/assets/plus-icon.png) to add expense to report.
+
+6. On Add Expense To Report window, click **New Expense**.
+
+![](../../../.gitbook/assets/add-expense-screenshot-first-step.png)
+
+6. Create a new expense by completing the following fields:  
+     **Merchant:** Your name  
+     **Date:** Date of the stipend payment  
+     **Total:** Amount of your stipend payment for each evaluation period   
+     **Category:** Select a category from the drop-down list  
+     **Description:** Name of your mentorship + mentee stipend payment &lt;number&gt; of &lt;number&gt;, for example .....................................................
+
+![](../../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
+
+7. Click ![](../../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt.  
+   **Note:** For **International Mentees \(non-U.S.\)**, upload completed _The Linux Foundation Wire Transfer Form_ in place of a receipt, as given below. 
 
 {% file src="../../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
-As a beneficiary, you receive an invitation email from the Expensify Concierge informing you that you have access to the CommunityBridge project policy. Use your email address to sign in to Expensify.
+8. Click **Save**.
 
-1. Go to the Expensify website: [https://www.expensify.com/signin](https://www.expensify.com/signin)  
-Ensure to use the same email address that the Expensify Concierge used to send you the invitation.  
+9. You will be redirected to Report page. Click **Submit** from the top left corner.
 
+{% hint style="warning" %}
+**Important:** For United States Residents, add a US bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
+{% endhint %}
 
-Depending on your location:
+![](../../../.gitbook/assets/us-mentee-add-bank-account.png)
 
-**United States:** Set up your Expensify reimbursement account: [Add a United States deposit account](https://docs.expensify.com/en/articles/2931-add-a-deposit-account-united-states).
+**Note:** Each time you will receive a satisfactory mentorship evaluation you will need to submit the invoice to receive your stipend payment. 
 
-**International:** Upload a completed _The Linux Foundation Wire Transfer Form_ in place of a receipt\(s\).
+**Payment Receipt Timeline:**
 
-**Instructions to create an Expensify report to receive mentorship stipend:**   
-
-
-1. **Login to Expensify** [**https://www.expensify.com**](https://www.expensify.com/) ****
-2. **Create an expense and complete the following fields:**
-   1. **Merchant: your name**
-   2. **Date: the date of the stipend payment**
-   3. **Total: the amount of your stipend payment for each evaluation period Category: mentee**
-   4. **Description: name of your mentorship + mentee stipend payment &lt;number&gt; of 3** 
-3.  **Create a report titled: your name - mentee stipend payment &lt;number&gt; of 3**
-4. **Add the expense to the report and submit**
-
-**You will also need to complete bank and financial information upon submitting your initial invoice. Depending on your location:**
-
-1. **United States residents: please add US bank deposit account to Expensify**
-2. **International mentees: please upload completed The Linux Foundation Wire Transfer Form in place of a receipt**
-
-**NOTE: Each time you will receive a satisfactory mentorship evaluation you will need to submit the invoice to receive your stipend payment.**   
-
-
-**Payment Receipt Timeline** 
-
-**It may take up to 45 business days for the funds to be deposited to your bank account.\***
-
-**\*Wire Transfer recipients will get the funds deposited to their account directly from Linux Foundation.**
+* It may take up to 45 business days for the funds to be deposited to your bank account.\*
+* \*Wire Transfer recipients will get the funds deposited to their account directly from Linux Foundation.
 
 {% file src="../../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
