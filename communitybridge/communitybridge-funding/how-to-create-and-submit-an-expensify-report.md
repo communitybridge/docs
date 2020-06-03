@@ -4,7 +4,7 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 **Follow these steps:**
 
-**Note:** If you have been approved for more than one event, please select the applicable travel fund policy.
+**Note:** If you are approved for more than one event, select the applicable travel fund policy under your account.
 
 ![](../../.gitbook/assets/select-policy.png)
 
