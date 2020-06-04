@@ -1,10 +1,10 @@
 # How to Create and Submit an Expensify Report
 
-Consolidate all of the expenses from your travel to apply them to the report.
+Consolidate all of the travel expenses eligible for reimbursement to apply them to the report.
 
 **Follow these steps:**
 
-**Note:** If you are approved for more than one event, select the applicable travel fund policy under your account.
+**Note:** Ensure that you select the travel fund policy that is associated with the event you are approved for.
 
 ![](../../.gitbook/assets/select-policy.png)
 
@@ -28,11 +28,17 @@ Consolidate all of the expenses from your travel to apply them to the report.
 
 6. Click ![](../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt as well as the receipt details.
 
+{% hint style="warning" %}
+**Important:** For International \(non-U.S.\) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_ in addition to your receipt\(s\).
+{% endhint %}
+
+{% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
+
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-7. Click **Save**.
+7. Click **Save** and repeat Step 6 to add more receipts.
 
-8. You will be redirected to Report page. Click **Submit** from the top left corner.
+8. After you add the travel expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
 
  
 

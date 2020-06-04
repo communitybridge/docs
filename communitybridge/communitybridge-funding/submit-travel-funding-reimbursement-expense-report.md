@@ -1,4 +1,4 @@
-# Submit Travel Funding Reimbursement Expense Report
+# Submit Travel Funding Reimbursement Expensify Report
 
 * [Prepare for Reimbursement](submit-travel-funding-reimbursement-expense-report.md#SubmitTravelFundingReimbursementExpenseReport-PrepareforReimbursement)
 * [Set Up a Reimbursement Account in Expensify](submit-travel-funding-reimbursement-expense-report.md#SubmitTravelFundingReimbursementExpenseReport-SetUpaReimbursementAccountinExpensify)
@@ -13,7 +13,7 @@ Consider the following financial aspects of reimbursement:
 {% hint style="info" %}
 Have these items handy before you begin:
 
-* The amount of the travel funding awarded to you.
+* The amount of the travel funding awarded to you
 * Your receipts converted to USD
 * The amount of your approved Travel Fund
 {% endhint %}
@@ -49,7 +49,7 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 
 **To Create or Submit an Expense Report:** 
 
-1. Sign In to Expensify
+1. Sign In to Expensify.
 2. Create and submit an expense report. For details, see [How to Create and Submit an Expensify Report](how-to-create-and-submit-an-expensify-report.md). After you submit your report, the approver receives an email notification that your report requires attention. The approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
 3.  Upon approval notification, go to your account to access your reimbursement money. It may take up to 45 business days for the funds to be deposited to your bank account.\*
 
