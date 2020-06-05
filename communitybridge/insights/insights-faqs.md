@@ -24,3 +24,7 @@ Unaffiliated contributions are not counted under any organization, and are group
 
 No, affiliation data is linked to profiles, and profiles are visible across all the projects that they are part of. So, affiliation data for profiles are also visible across projects that they are part of.
 
+## How are contributions calculated?
+
+CommunityBridge Insight calculates contribution data based on commit hash. So, if a changeset or pull request is created to tow different branches with same commit hash identification number, Insight counts it as a single contribution, eliminating chance of duplication.
+
