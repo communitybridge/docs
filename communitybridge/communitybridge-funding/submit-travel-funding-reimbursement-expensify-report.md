@@ -20,7 +20,7 @@ Have these items handy before you begin:
 
 ## Set Up a Reimbursement Account in Expensify <a id="SubmitTravelFundingReimbursementExpenseReport-SetUpaReimbursementAccountinExpensify"></a>
 
-You will receive an invitation email from the Expensify Concierge that you are added to a Linux Foundation Travel Funds Policy. Use the same email address linked to your travel funding approval to sign into an existing [Expensify](https://www.expensify.com) account or set up a new one. If you are using a United States bank, please link Expensify to your bank or financial service account.
+You will receive an invitation email from the Expensify Concierge stating that you are added to a Linux Foundation Travel Funds Policy. Use the same email address linked to your travel funding approval to sign into an existing [Expensify](https://www.expensify.com) account or set up a new one. If you are using a United States bank, please link Expensify to your bank or financial service account.
 
 {% hint style="warning" %}
 The Linux Foundation requires that international \(non-U.S.\) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
