@@ -235,7 +235,7 @@
       * [EasyCLA](communitybridge/communitybridge-portal/foundations/easycla.md)
     * [Projects](communitybridge/communitybridge-portal/projects/README.md)
       * [Overview](communitybridge/communitybridge-portal/projects/overview.md)
-      * [Security](communitybridge/communitybridge-portal/projects/security.md)
+      * [EasyCLA](communitybridge/communitybridge-portal/projects/easycla.md)
     * [Company](communitybridge/communitybridge-portal/company/README.md)
       * [Dashboard](communitybridge/communitybridge-portal/company/dashboard.md)
       * [Services](communitybridge/communitybridge-portal/company/services/README.md)
