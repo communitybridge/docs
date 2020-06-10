@@ -1,10 +1,12 @@
 ---
-description: This page displays details of your company's CLA information.
+description: >-
+  This page describes CLA information for foundations which your company is a
+  member of.
 ---
 
 # EasyCLA
 
-EasyCLA is a CommunityBridge service that provides CLA \(Contributor License Agreement\) information for the foundation\(s\) you are a member of.
+EasyCLA is a CommunityBridge service that provides CLA \(Contributor License Agreement\) information for a foundation you are a member of.
 
 Following are various dashboards of EasyCLA page:
 
