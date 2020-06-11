@@ -219,6 +219,7 @@
       * [View Employee Acknowledgements](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/view-employee-acknowledgements.md)
       * [Edit the Company Name and Manager Details](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/edit-the-company-name-and-manager-details.md)
   * [CommunityBridge Portal](communitybridge/communitybridge-portal/README.md)
+    * [FAQs](communitybridge/communitybridge-portal/faqs.md)
     * [Manage your Profile](communitybridge/communitybridge-portal/manage-your-profile/README.md)
       * [Edit Your Profile](communitybridge/communitybridge-portal/manage-your-profile/edit-your-profile.md)
       * [Add a Profile Photo](communitybridge/communitybridge-portal/manage-your-profile/add-a-profile-photo.md)
