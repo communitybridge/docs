@@ -14,7 +14,7 @@ Following are various dashboards of EasyCLA page:
 
 This provides CLA highlights for the foundation.
 
-* **CLA SIGNED** shows total number of contributor license agreements—ICLA \(Individual CLA\) and CCLA \(Corporate CLA\)—signed by your company for one or more project within the foundation. This includes both the number of CLAs signed for one or more projects, and the individual contributors per signed CLA.
+* **CLA SIGNED** shows total number of contributor license agreements—ICLA \(Individual CLA\) and CCLA \(Corporate CLA\)—signed by your company for one or more project within the foundation. This does not include approved contributors.
 * **TOTAL CONTRIBUTORS** shows the total number of Individual and Corporate contributors including approved contributors.
 * **REPOSITORIES USING EASYCLA** shows total number git repositories of projects that use EasyCLA.
 
@@ -56,7 +56,7 @@ It shows a table that lists projects for which your company has signed CLA, tota
 
 ### PROJECTS WITH EASYCLA ENABLED
 
-It shows projects of the foundation that are EasyCLA enabled. Each project card displays project name, logo, and description. Click **View Details** on a project card to navigate to the project page. 
+It shows projects of the foundation that are EasyCLA enabled. Each project card displays project name, logo, and description. Click **View Details** on a project card to navigate to [project's EasyCLA](../projects/easycla/) page. 
 
 You can also select a project from the Foundation drop down list or type a project name in **Search** field. The drop down list shows projects of the foundation that are EasyCLA enabled.
 
