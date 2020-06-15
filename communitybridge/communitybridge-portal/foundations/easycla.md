@@ -31,12 +31,13 @@ Data in the following sections are displayed if your company has signed CLA for 
 It shows a table that lists the CLAs signed by your company in alphabetical order:
 
 * **Project or Foundation** shows name of project or foundation, including its logo, for which CLA is signed.
-* **\(Only for Foundations\) Projects Using** shows name of projects that have signed CLA at foundation level.
+* **Projects Using** \(shows only for Foundations\) ****shows name of projects that have signed CLA at foundation level.
 * **CLA Type** shows the level—Project or Foundation—at which CLA is signed.
 * **CLA Group** shows CLA group name which the projects of the foundation belong to. 
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
 * **Signatory** shows name of the person who signed the CLA.
+* **Download** \(shows only for Foundations\) lets you download the PDF file of signed CLA.
 
 ### CLA MANAGERS FROM MY ORGANIZATION
 
