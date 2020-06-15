@@ -20,10 +20,10 @@ This provides CLA highlights for the project.
 * **TOTAL CONTRIBUTORS** shows the total number of Individual and Corporate contributors including approved contributors.
 * **REPOSITORIES USING EASYCLA** shows total number git repositories of projects that use EasyCLA.
 
-Data is displayed based on:
+Data for other dashboards are displayed based on:
 
-* If your Company has signed CLA
-* If your Company has not signed CLA
+* [If your Company has signed CLA](./#if-your-company-has-signed-cla)
+* [If your Company has not signed CLA](./#if-your-company-has-not-signed-cla)
 
 ## If your Company has signed CLA
 
@@ -74,4 +74,12 @@ It shows a table that lists contributors from your company associated with this 
 ### RECENT ACTIVITY LOG FOR MY ORGANIZATION
 
 It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
+
+## If your Company has not signed CLA
+
+The following window appears if your company has not signed CLA with a project or foundation.
+
+![CLA not signed](../../../../.gitbook/assets/company-has-not-signed-cla.png)
+
+
 
