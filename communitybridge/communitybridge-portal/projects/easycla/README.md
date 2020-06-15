@@ -26,7 +26,7 @@ Data is displayed based on:
 ## If your Company has signed CLA
 
 {% hint style="warning" %}
-**Important:** Only CLA Managers can add or delete more CLA managers and contributors. All other roles can view CLA details for the project.
+**Important:** Users of a Company with ****CLA Managers permission for a project can add another user as a CLA manager and/or contributor or delete such added users for the same project, however can view CLA managers, Approved List, and Contributor Acknowledgements for other projects of the company. All other roles can view CLA details for the project.
 {% endhint %}
 
 ### CLA FOR MY ORGANIZATION
@@ -47,11 +47,18 @@ It shows a table that lists CLA managers of your company including their details
 * **Name** shows name and image of the CLA Manager
 * **Email Address** shows email address of the CLA Manager.
 * **Added on** shows the date when the individual was added as CLA Manager. 
-* **Action** \(Only for CLA Managers\) ****lets CLA managers delete the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted.
+* **Action** \(Appears only for CLA Managers\) ****lets CLA managers delete the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted. **Note:** As a CLA manager, you can add a user as a CLA manager or delete CLA managers. For details, see [How to Add or Delete a CLA Manager](how-to-add-or-delete-a-cla-manager.md).
 
 ### APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION
 
-It shows a table that lists 
+It shows a table that lists details of approved contributors from your organization for the project.
+
+* **Approved List** shows the user name/email lD/GitHub user ID /GitHub Organization or Domain name that is in the approved list.
+* **Coverage Type** shows the type with which the contributor is listed in the approved list.
+* **Added on** **shows** the date when the user was added to the approved list.
+* **Manage** \(Appears only for CLA Managers\) lets CLA managers edit the approved list or delete it. As a CLA manager, you can add or delete 
+
+
 
 
 

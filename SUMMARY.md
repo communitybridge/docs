@@ -238,6 +238,7 @@
       * [Overview](communitybridge/communitybridge-portal/projects/overview.md)
       * [EasyCLA](communitybridge/communitybridge-portal/projects/easycla/README.md)
         * [How to Add or Delete a CLA Manager](communitybridge/communitybridge-portal/projects/easycla/how-to-add-or-delete-a-cla-manager.md)
+        * [How to Add or Delete a Contributor](communitybridge/communitybridge-portal/projects/easycla/how-to-add-or-delete-a-contributor.md)
     * [Company](communitybridge/communitybridge-portal/company/README.md)
       * [Dashboard](communitybridge/communitybridge-portal/company/dashboard.md)
       * [Services](communitybridge/communitybridge-portal/company/services/README.md)
