@@ -6,7 +6,7 @@ description: >-
 
 # EasyCLA
 
-Companies sign CLA at project level under a foundation. However, for CNCF and CloudFoundry foundations, companies sign CLA at foundation level. So, the following dashboards are not displayed for the aforementioned foundations. 
+Companies sign CLA at project level under a foundation. However, for CNCF and CloudFoundry foundations, companies sign CLA at foundation level. So, the following dashboards are displayed at foundation level for the aforementioned foundations. There is no separate project dashboard for CNCF and CloudFoundry.
 
 The data for individual dashboards of this page varies based on the user's role.
 
