@@ -2,13 +2,13 @@
 description: This page describes how to add or delete a contributor for a project.
 ---
 
-# How to Add or Delete a Contributor
+# How to Add, Edit or Delete a Contributor
 
 {% hint style="warning" %}
 **Important:** Only CLA managers can add or delete a contributor for the project for which the user is added as a CLA manager.
 {% endhint %}
 
-### To Add a Contributor:
+### Add a Contributor:
 
 1. Click **+Add Contributor\(s\)**.
 
@@ -23,6 +23,16 @@ description: This page describes how to add or delete a contributor for a projec
 ![Add Contributors](../../../../.gitbook/assets/add-contributors-window.png)
 
 4. Click **Save**.
+
+### Edit a Contributor's Details:
+
+Click  ![](../../../../.gitbook/assets/edit-icon.png) next to a contributor's row, make edits, and click **Save**.
+
+### Delete a Contributor's Details
+
+Click ![](../../../../.gitbook/assets/delete-icon.png) under Manage column on a contributor's row to delete the contributor's details.
+
+![](../../../../.gitbook/assets/delete-contributor.png)
 
 
 

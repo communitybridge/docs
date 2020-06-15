@@ -6,6 +6,8 @@ description: >-
 
 # EasyCLA
 
+Companies sign CLA at project level under a foundation. However, for CNCF and CloudFoundry foundations, companies sign CLA at foundation level. So, the following dashboards are not displayed for the aforementioned foundations. 
+
 The data for individual dashboards of this page varies based on the user's role.
 
 Following are various dashboards of EasyCLA page:
@@ -56,9 +58,20 @@ It shows a table that lists details of approved contributors from your organizat
 * **Approved List** shows the user name/email lD/GitHub user ID /GitHub Organization or Domain name that is in the approved list.
 * **Coverage Type** shows the type with which the contributor is listed in the approved list.
 * **Added on** **shows** the date when the user was added to the approved list.
-* **Manage** \(Appears only for CLA Managers\) lets CLA managers edit the approved list or delete it. As a CLA manager, you can add or delete 
+* **Manage** \(Appears only for CLA Managers\) lets CLA managers edit the approved list or delete it. As a CLA manager, you can add, edit or delete a contributor. For details, see [How to Add, Edit or Delete a Contributor](how-to-add-edit-or-delete-a-contributor.md).
 
+### CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION
 
+It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
+* **Name** shows the name and image of the contributor. Data is retrieved from the individual profile page.
+* **LFID/GHID** shows the LinuxFoundation ID or GitHub ID of the contributor.
+* **Agreement** shows the version of CLA agreement that was signed by the contributor.
+* **Timestamp** shows date and time when the user acknowledged the agreement.
 
+**Search** lets you to search a contributor by name and LFID/GHID.
+
+### RECENT ACTIVITY LOG FOR MY ORGANIZATION
+
+It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
 

@@ -8,6 +8,10 @@ description: >-
 
 EasyCLA is a CommunityBridge service that provides CLA \(Contributor License Agreement\) information for a foundation you are a member of.
 
+{% hint style="info" %}
+Companies sign CLA at project level for a foundation except CNCF and CloudFoundry foundations. Companies sign CLA at foundation level for the aforementioned foundations.
+{% endhint %}
+
 Following are various dashboards of EasyCLA page:
 
 ### CLA STATISTICS
