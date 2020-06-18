@@ -77,7 +77,7 @@ It shows recent activities of your company for the project. The activity-log dis
 
 ## If your Company has not signed CLA
 
-Following is an example that appears if your company has not signed CLA with a project under a foundation. Sign CLA with the project. For details, see [How to Sign CLA with Project](how-to-sign-cla-with-project.md).
+Following is an example that appears if your company has not signed CLA with a project under a foundation. Sign CLA with the project before you proceed. For details, see [How to Sign CLA with Project](how-to-sign-cla-with-project.md).
 
 ![CLA not signed](../../../../.gitbook/assets/company-has-not-signed-cla.png)
 
