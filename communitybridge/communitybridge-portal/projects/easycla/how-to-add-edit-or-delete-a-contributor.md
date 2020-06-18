@@ -5,7 +5,7 @@ description: This page describes how to add or delete a contributor for a projec
 # How to Add, Edit or Delete a Contributor
 
 {% hint style="warning" %}
-**Important:** Only CLA managers can add or delete a contributor for the project for which the user is added as a CLA manager.
+**Important:** Only CLA managers can add or delete a contributor for the project.
 {% endhint %}
 
 ### Add a Contributor:

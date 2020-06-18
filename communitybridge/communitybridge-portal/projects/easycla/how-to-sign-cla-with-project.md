@@ -11,7 +11,7 @@ description: >-
 ![Start the CLA Process](../../../../.gitbook/assets/start-cla-process.png)
 
 2. Click an answer: **Are you authorized to be a CLA Manager for your organization?  
-Yes**— On Configuring CLA Manager Settings window, click **Proceed**, and continue to step 4.  
+Yes**— A **Configuring CLA Manager Settings** window appears. Click **Proceed**, and continue to step 4.  
 **No**— An **Identify CLA Manager** form appears. Continue to next step.
 
 3. Complete the form, and click **Submit Request**, ****Or click **Contact Company Admin**.  
@@ -23,14 +23,14 @@ A window appears confirming that request is submitted to respective individual.
 
 ![Proceed with Signing CLA](../../../../.gitbook/assets/proceed-with-signing-cla.png)
 
-2. Click an answer: **Are you authorized to sign CLAs on your company's behalf?  
-Yes**— Review CCLA \(Corporate Contributor License Agreement\) window appears. Click **Review & Sign CCLA**, and continue to step 4.  
+5. Click an answer: **Are you authorized to sign CLAs on your company's behalf?  
+Yes**— Review CCLA \(Corporate Contributor License Agreement\) window appears. Click **Review & Sign CCLA**, and continue to step 7.  
 **No**— An **Identify Authorized Signatory** form appears. Continue to next step.
 
-3. Complete the form, and click **Send Signature Request Email**.  
+6. Complete the form, and click **Send Signature Request Email**.  
 A success window appears confirming that the signature request is sent to the email address.
 
-4. Once CCLA preparation is complete, click **SIGN CCLA** on CCLA Ready for Signature window.
+7. Once CCLA preparation is complete, click **SIGN CCLA** on CCLA Ready for Signature window.
 
 ![](../../../../.gitbook/assets/ccla-ready-for-signature.png)
 
