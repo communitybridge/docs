@@ -8,6 +8,8 @@ Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respe
 
 Overview shows high-level information about docker images.
 
+**Filter** lets you filter the dashboard data by docker image. Select values from the drop-down list, and click **Apply changes** to filter the dashboard as per selection.
+
 **DockerHub** shows the total number of Docker Images, 50th percentile of Median Stars by Image, and 50th percentile of Median Pulls by Image.
 
 **Images** shows a table that lets you sort values by Docker Image, Stars, and Pulls.

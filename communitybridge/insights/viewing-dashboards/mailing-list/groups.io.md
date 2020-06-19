@@ -8,6 +8,8 @@ By default, Bot messages are filtered. Click ![](../../../../.gitbook/assets/sha
 
 Overview shows a high-level information about email activity of groups for a project.
 
+**Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of Messages \(that includes both sent and received\), Participants, and Lists over time.
 
 **Participants By Organization** shows a doughnut chart that represents the total number of individuals per organization who have sent the messages/emails. Mouse over a color in the chart to see the organization name, total number and percentage of individuals of that organization out of the total number of authors who have sent emails/messages.

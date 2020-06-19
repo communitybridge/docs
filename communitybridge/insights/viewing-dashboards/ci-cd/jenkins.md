@@ -14,6 +14,8 @@ Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respe
 
 Overview shows an overview of Jenkins build and job data over time.
 
+**Filter** lets you filter the dashboard data by job name. Select values from the drop-down list, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the number of builds, jobs, nodes, and average time of build duration in minute for a project.
 
 **Builds Over Time** shows a bar graph that represents the total number of builds per day over time.
@@ -32,6 +34,8 @@ Overview shows an overview of Jenkins build and job data over time.
 
 Jobs shows data about Jenkins jobs such as duration, successes, and failures over time.
 
+**Filter** lets you filter the dashboard data by job name. Select values from the drop-down list, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the number of success count, failure count, aborted count, and unstable count of builds.
 
 **Results** shows a doughnut chart that represents the total number of jobs in the project by status: SUCCESS, FAILURE, UNSTABLE, ABORTED. Mouse over a color in the chart to see the status, total number of jobs for the status, and the percentage of the project's jobs for that status.
@@ -49,6 +53,8 @@ Jobs shows data about Jenkins jobs such as duration, successes, and failures ove
 ## Job Categories
 
 Job Categories shows data about Jenkins jobs that are grouped into certain categories in a project.
+
+**Filter** lets you filter the dashboard data by job name. Select values from the drop-down list, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows number of builds, jobs, nodes, and job categories for a project.
 

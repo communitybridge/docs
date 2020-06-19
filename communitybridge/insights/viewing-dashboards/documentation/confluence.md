@@ -8,6 +8,8 @@ Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respe
 
 Overview shows information about Confluence documentation reviews, including editions, revisions, editors, organizations, and projects.
 
+**Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of Pages, Comments, and Editors.
 
 **Top Edited Pages** shows a table that lets you sort values by Page, URL, Editions, and Editors. Click **+ Info** to open the corresponding page.

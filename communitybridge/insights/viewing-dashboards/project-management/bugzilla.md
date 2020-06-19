@@ -8,6 +8,8 @@ By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/shar
 
 Overview shows information about issues and submitters in Bugzilla organizations.
 
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Issues** shows the total number of Issues, Submitters, and Products.
 
 **Issues by Status Over Time** shows a stacked bar graph that represents the number of issues by status per day over time such as: RESOLVED, CONFIRMED, IN\_PROGRESS, VERIFIED, UNCONFIRMED. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.

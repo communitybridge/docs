@@ -11,6 +11,8 @@ The Jira dashboards under **Issue Management** represents a set of metrics that 
 
 Overview shows information about issues in repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided.
 
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows total number of issues, submitters , and projects.
 
 **Issues by Status** shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
@@ -31,6 +33,8 @@ Overview shows information about issues in repositories and who submitted the is
 
 Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
 
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of open issues, accumulated time in days while issues were open, and the average time in days per open issue over time.
 
 **Issues By Projects** shows a table that lets you sort values by project name, number of issues and average time in days the issue were open per project over time.
@@ -50,6 +54,8 @@ Backlog focuses on open issues \(data is retrieved at the moment of dashboard cr
 ## Effort
 
 Effort shows data about authors and assignees, and their effort in hours per project and organization.
+
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Items, Authors, Assignees, Total Hours Estimated, Total Hours Remaining, and Total Hours Logged for the project.
 
@@ -76,6 +82,8 @@ Effort shows data about authors and assignees, and their effort in hours per pro
 ## Timing
 
 Timing shows information about open and closed issues in time and lets you focus on how long Issues remain open. Statistical information shows the 50th percentile of median time open in days. The number indicates the median number of days that issues were open. This number indicates that 50 percent of the issues were open longer than that number and 50 percent of the issues were below that number. A 50th percentile is the same as a median.
+
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Issues, Submitters, Assigned, 50th percentile of Median Open Days, and Avg. Open Days.
 

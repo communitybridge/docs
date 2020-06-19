@@ -8,6 +8,8 @@ By default, Server Activity and Bot messages are filtered. Click ![](../../../..
 
 Overview shows high-level information about how developers use Slack. For example, you can see the channels in which people send the most messages. You can sort channels by the number of messages, participants, replies, and other values.
 
+**Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of Channels, Messages, Participants, Replies, Reactions, and Attachments of the project over time.
 
 **Trending Reactions** shows a doughnut chart that represents the total number of reactions in the project per reaction value. Mouse over a color in the chart to see the total number of reactions for each reaction, and their percentage of the project's total reactions.

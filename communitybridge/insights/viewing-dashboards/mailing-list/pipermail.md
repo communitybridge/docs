@@ -8,6 +8,8 @@ Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respe
 
 Overview shows high-level information about email activity in projects, and who sent emails and when. Information about the corresponding organization is also provided.
 
+**Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of Emails, Senders, and Mailing Lists over time.
 
 **Emails** shows a bar graph that represents the number of emails over time. Mouse over a color in the graph to see the total number of emails for a date.
