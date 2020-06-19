@@ -9,8 +9,11 @@ The Sign In window appears.
 
 2. [Sign in](../../../sso/sign-in/) using your [Single Sign-On \(SSO\)](../../../sso/) account.
 
-3. Select a project for which you have been granted access to use Affiliation Management.  
+3. Select a project for which you are granted access to use Affiliation Management.
+
+{% hint style="info" %}
 **Affiliation Management** appears in the menu, next to **Select** **Time Range**. If you do not have access, Affiliation Management does not appear.
+{% endhint %}
 
 ![](../../../.gitbook/assets/affiliation-management.png)
 

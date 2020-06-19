@@ -20,14 +20,14 @@ In Top Unaffiliated Contributors, look for a contributor who belongs to your pro
 **Do these steps:**
 
 1. Under **Top Unaffiliated Contributors**, click the name of the contributor or hover mouse over Commits number for the contributor of interest and click **search**.  
-The unique identity of the profile is displayed with all the details, such as Name, Email, Affiliations, Bot, Country, Last Modified On, and \# specifying the number of identities associated with the person.
+**Note:** The unique identity of the profile is displayed with all the details, such as Name, Email, Affiliations, Bot, Country, Last Modified On, and \# specifying the number of identities associated with the person.
 
 {% hint style="info" %}
 * Searching a contributor by clicking his/her name under Top Unaffiliated Contributors, shows the unique identity of the contributor's profile.
 * Searching a contributor by entering his/her name in the **Search Profiles** field, shows all the identities associated with the profile.
 {% endhint %}
 
-2. Click the name under **Name** column to see identities associated with the profile under **User Identities**.
+2. Click the name under **Contributor** column to see identities associated with the profile.
 
 3. Continue to Step 5 of [Merge or Un-merge an Identity Profile](merge-or-un-merge-an-identity-profile.md).
 

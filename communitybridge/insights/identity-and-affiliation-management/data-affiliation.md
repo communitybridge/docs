@@ -13,7 +13,7 @@ Open source projects rely on a variety of data sources and tools to support and 
 * Messaging tools such as Slack, Groups.io or mailing lists
 * Build tools such as Jenkins
 
-Project contributors can access the tools using different identities, for example: email, username. In INSIGHTS, each contributor has a _profile_. A profile has personal details and can include multiple identities and organization affiliations. 
+Project contributors can access the tools using different identities, for example: email, username. In Insights, each contributor has a _profile_. A profile has personal details and can include multiple identities and organization affiliations. 
 
 ## Identities <a id="DataAffiliation-Identities"></a>
 
