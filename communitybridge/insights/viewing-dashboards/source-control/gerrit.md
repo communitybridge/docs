@@ -14,6 +14,8 @@ By default, Bots and Changesets Only filters are applied. Click ![](../../../../
 
 Overview shows visualizations that provide information about changeset statuses, submitters, and organizations. Changeset information per organization and repository is also shown.
 
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of changesets, total number of individuals who submitted changesets, total number of repositories, and average time in days to review the first changeset.
 
 **Changesets Statistics \(Open Time in Days\)** shows the total number of days for which changesets \(by percentile\) are open. **Percentile rank 4 of "timeopen"** shows the percentage of changesets that were open for less than 4 days.   
@@ -51,7 +53,7 @@ The percentile rank of a score is the percentage of scores in its frequency dist
 
 Efficiency offers a view of efficiency closing reviews based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
-**Efficiency Closing Gerrit Reviews** lets you select an Organization and Repository as values for the dashboard data.
+**Efficiency Closing Gerrit Reviews** lets you select an Organization and Repository as values for the dashboard data. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Review Efficiency Index** shows a multi-line graph that represents the REI. REI is the number of closed reviews divided by the number of open ones in a given period of time. This visualization measures efficiency closing reviews. REI Moving Avg. \(8 weeks\) identifies changes in trends. Average is also shown as a reference. REI values greater than 1 mean the community is closing more reviews than those they are opening. Values smaller than 1 mean the opposite—more reviews open than those closed during a given time frame. Mouse over this graph or **Lead Time** to show a line that displays the date and time at the top of the legend.
 
@@ -66,6 +68,8 @@ Efficiency offers a view of efficiency closing reviews based on metrics: Review 
 ## Timing
 
 Timing shows information about open and closed changesets over time. The dashboard focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Gerrit Timing Summary** shows the total number of Changesets, Changeset Submitters, Repositories, and Average time in days to review the first changeset.
 
@@ -91,6 +95,8 @@ Timing shows information about open and closed changesets over time. The dashboa
 ## Backlog
 
 Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **NEW Changesets Statistics Summary** shows:
 
@@ -118,6 +124,8 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 ## Approvals
 
 Approvals shows statistics about changesets that are approved. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Total Changesets and Approvals** shows total number of changesets submitted for the project, and the total number of approvals made for the changesets.
 

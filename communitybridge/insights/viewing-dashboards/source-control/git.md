@@ -8,6 +8,8 @@ By default, commits by Bots, and empty commits are filtered. Click ![](../../../
 
 Overview shows information about commits in Git repositories. For each commit, Git stores information about who and when authored the commit \(author\), and about the organization that included the commit in the repository.
 
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the number of Commits, Authors, and Repositories of the project.
 
 **Commits** shows a bar graph that represents the number of commits per day for the project over time. Mouse over a color in the graph to see the total number of commits for a date.

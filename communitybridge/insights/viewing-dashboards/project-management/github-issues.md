@@ -11,7 +11,9 @@ By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/shar
 
 ## Overview
 
-Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided. 
+Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Issues, Submitters, and Repositories for the project.
 
@@ -32,6 +34,8 @@ Overview shows information about issues in project repositories and who submitte
 ## Backlog
 
 Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Open Issues Statistics Summary** shows the total number of Open Issues, Accumulated time in days for Open issues, and Average Time Open per Issue.
 
@@ -66,6 +70,8 @@ Efficiency offers a view of efficiency closing issues based on metrics: Backlog 
 ## Timing
 
 Timing shows information about open and closed issues in time. The dashboard focuses on how long Issues remain open. Statistical information provides closing times and also tables with the latest and the oldest Issues.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Issues, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\)—number of days for which 50% of open issues remained open.
 

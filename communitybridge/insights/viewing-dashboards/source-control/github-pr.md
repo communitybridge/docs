@@ -13,6 +13,8 @@ By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/shar
 
 Overview shows all the information about pull requests for a project.
 
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
 **Summary** shows the total number of pull requests, submitters, and repositories of the project over time.
 
 **Submitters Over Time** shows a bar graph that represents the number of pull request submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
@@ -35,7 +37,7 @@ Overview shows all the information about pull requests for a project.
 
 PR Efficiency offers a view of efficiency closing issues based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
 
-**Efficiency Closing GitHub Pull Requests** lets you select an organization and project as values for the dashboard data.
+**Efficiency Closing GitHub Pull Requests** lets you select an organization and project as values for the dashboard data. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Note:** You can select more than one organization.
 
@@ -60,6 +62,8 @@ This panel focuses on **closed** GitHub pull requests.
 ## Timing
 
 Timing shows information about open and closed pull requests in time. The dashboard focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Pull Requests, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\) over time—number of days for which 50% of Open Pull Requests remained open.
 
@@ -89,6 +93,8 @@ Timing shows information about open and closed pull requests in time. The dashbo
 ## Backlog
 
 PR Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Open Pull Requests Statistics Summary** shows the total number of Open Pull Requests, cumulative number of days for which individual PRs are open, and the average time in days Open per Pull Request.
 
