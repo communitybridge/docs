@@ -23,11 +23,7 @@ The selected dashboard appears and shows relevant visualizations.
 
 ![Source Control](../../../.gitbook/assets/source-control-drop-down%20%281%29.png)
 
-3. On a selected dashboard, navigate to the **Filter** visualization, select values from the drop-down lists, and click **Apply Changes** to filter the dashboard data.
-
-* **Apply changes:** Filters the dashboard as per selected values
-* **Cancel changes**: If there are filter values selected before, it shows the previously selected filter values in the respective drop-down fields. If there are no filter values selected before, it cancels the present values.
-* **Clear from:** It clears all the filter values, and lets you add new values in the respective drop-down fields.
+3. On a selected dashboard, navigate to the Filter visualization, select values from the drop-down lists, and click **Apply Changes** to filter the dashboard data.
 
 ![](../../../.gitbook/assets/filter-data.png)
 
