@@ -1,6 +1,6 @@
 # CommunityBridge Mentorship
 
-CommunityBridge Mentorship is a platform that offers a structured remote learning program for individuals. Experienced open source project professionals mentor aspiring individuals and help them contribute to the open source community. Linux Foundation matches a percentage of funds for the first 100 mentees from diverse backgrounds to help projects improve the diversity of their communities. Mentees gain real world experience by working closely with mentors. Companies can hire Mentorship program graduates to expand their workforce.
+CommunityBridge Mentorship is a platform that offers a structured remote learning program for individuals. Experienced open source project professionals mentor aspiring individuals and help them contribute to the open source community. Mentees gain real world experience by working closely with mentors. Companies can hire Mentorship program graduates to expand their workforce.
 
 ## How to Participate <a id="CommunityBridgeMentorship-HowtoParticipate"></a>
 
@@ -18,9 +18,7 @@ You can participate in Mentorship program based on your role. CommunityBridge Me
 
 First, a project administrator enrolls a project. Then, various roles participate as shown in the following high-level diagram:
 
-**Note:** A prospective mentor has two paths towards becoming a mentor: by invitation only \(not shown below\) or by submitting an application.
-
-![Mentorship Workflow](../../.gitbook/assets/how-does-mentorship-work.png)
+![How Mentorship Works](../../.gitbook/assets/how-mentorship-works.png)
 
 ## What is a Mentorship Stipend? <a id="CommunityBridgeMentorship-WhatisaMentorshipStipend?"></a>
 

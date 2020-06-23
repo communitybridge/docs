@@ -5,7 +5,14 @@ A relational database maintains identities and related information that is autom
 Each unique identity has a profile that summarizes the user data. The profile can be linked to more than one identity and you can merge an identity to the profile.
 
 {% hint style="warning" %}
-**Important:** LF Insights automatically merges a new identity to an existing profile if the new identity has the same email address that of the existing profile in the relational database.
+**Important:** 
+
+* LF Insights automatically merges a new identity to an existing profile if the new identity has the same email address and name that of the existing profile in the relational database.
+* LF Insights supports names with special characters while checking for an identity:
+  * Single Apostrophe \('\)
+  * Double Apostrophe \("\)
+  * Dejan Mijić
+  * Ján Srni?ek, and so on
 {% endhint %}
 
 **Follow these steps:**
