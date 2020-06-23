@@ -16,7 +16,7 @@ You can participate in Mentorship program based on your role. CommunityBridge Me
 
 ## How Does it Work? <a id="CommunityBridgeMentorship-HowDoesitWork?"></a>
 
-First, a project administrator enrolls a project. Then, various roles participate as shown in the following high-level diagram:
+First, a project administrator enrolls a project. Then, mentors and mentees participate as shown in the following high-level diagram:
 
 ![How Mentorship Works](../../.gitbook/assets/how-mentorship-works.png)
 
