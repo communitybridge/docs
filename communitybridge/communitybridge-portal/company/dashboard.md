@@ -6,17 +6,15 @@
 * [Security](dashboard.md#security)
 * [Code Contributions](dashboard.md#code-contributions)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M3odRMUjYO1pYvj-mnn%2F-M28G8veD3CzuDHPL988%2Fdashboard%20header.png?alt=media&token=6edebd1b-19bf-4af0-874c-3dced60d31b6)
-
 ## Foundations <a id="foundations"></a>
 
 Following are the components of Foundations page:
 
 * **Discover More:** shows all the foundations irrespective of your membership. For details, see [Foundations](https://docs.linuxfoundation.org/community-bridge/foundation).
-* **FOUNDATIONS MY ORGANIZATION IS A MEMBER OF:** shows the foundations your organization has joined as a member. To view details about the foundation card, see [Foundation Card Details](https://docs.linuxfoundation.org/community-bridge/foundation#foundation-card-details).
+* **FOUNDATIONS MY ORGANIZATION IS A MEMBER OF:** shows the foundations your organization has joined as a member. To view details about the foundation card, see [Foundation Card Details](../foundations/#foundation-card-details).
   * **View Projects:** Shows all the projects that are associated with the foundation.
-  * **View Details:** Opens the foundation detail window. For more information, see [Foundation Details](https://docs.linuxfoundation.org/community-bridge/foundation/foundation-details).
-* **FOUNDATIONS YOU MIGHT BE INTERESTED IN:** shows all the foundations that you can join as a member. Click **Learn More** to know more about the foundation. For details, see [Foundation Details](https://docs.linuxfoundation.org/community-bridge/foundation/foundation-details).
+  * **View Details:** Opens the foundation detail window. For more information, see [Foundation Details](../foundations/).
+* **FOUNDATIONS YOU MIGHT BE INTERESTED IN:** shows all the foundations that you can join as a member. Click **Learn More** to know more about the foundation. For details, see [Foundation Details](../foundations/).
 
 ## **Security** <a id="security"></a>
 
