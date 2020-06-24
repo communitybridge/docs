@@ -14,9 +14,7 @@ Projects and Mentorships detail pages can indicate how active a project is in th
 
 The overview shows some or all of the following items depending on the data that is available:
 
-| A bar shows the donation progress towards the total annual goal. |
-| :--- |
-
+**Note:** A bar shows the donation progress towards the total annual goal.
 
 <table>
   <thead>

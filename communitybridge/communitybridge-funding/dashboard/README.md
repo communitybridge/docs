@@ -19,8 +19,10 @@
 
 ## Events <a id="Dashboard-Events"></a>
 
-**Events** lists events, such as forums or conferences. Event funds can benefit and reimburse organizers for event expenses such as for a venue or food. For each event, a bar shows the donation progress towards the total annual funding goal, and the event beginning and end dates. **Sponsor** lets you donate funds to an event that you want to support. **Register** lets you register to attend the event.  
+**Events** lists events, such as forums or conferences. Event funds can benefit and reimburse organizers for event expenses, such as for a venue or food. For each event, a bar shows the donation progress towards the total annual funding goal, and the event beginning and end dates.
 
+* **Sponsor** lets you donate funds to an event that you want to support. 
+* **Register** lets you register to attend the event. 
 
 ![](../../../.gitbook/assets/7416568%20%281%29.png)
 

@@ -13,12 +13,9 @@ You can learn about Travel Scholarships and donate to the ones you would like to
 
 ## Overview <a id="TravelScholarships-Overview"></a>
 
-The overview shows some or all of the following items depending on the data that is available.  
+The overview shows some or all of the following items depending on the data that is available.
 
-
-| A bar shows the donation progress towards the total annual goal. |
-| :--- |
-
+**Note:** A bar shows the donation progress towards the total annual goal.
 
 | Name | Description |
 | :--- | :--- |
