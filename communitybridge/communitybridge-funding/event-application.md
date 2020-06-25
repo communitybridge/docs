@@ -62,9 +62,15 @@ Any funds remaining at year end can be carried forward to the next year.
 
 ## Fund Distribution <a id="EventApplication-FundDistribution"></a>
 
-**Fund Distribution** enables goals for how you want to distribute funds for your event, and complete the fields that appear—see the example below. Enter a percentage of your total sponsorship goal amount to designate towards the goal. You can use the up/down arrows to select a percentage also.
+**Fund Distribution** enables goals for how you want to distribute funds for your event. Complete the fields that appear—see the example below. Enter a percentage of your total sponsorship goal amount to designate towards the goal. You can use the up/down arrows to select a percentage also. Goal amounts are targets not limits, so you can continue raising money beyond your goal amount. As you see progress in one or more goals, you can \(and should\) update the goals to reflect how you plan to utilize these additional funds.
 
-Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses such as Venue and Travel. Goal amounts are targets not limits, so you can continue raising money beyond your goal amount. As you see progress in one or more goals, you can \(and should\) update the goals to reflect how you plan to utilize these additional funds.
+Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses such as Venue and Travel. Following are various goals towards which you can distribute your fund:
+
+* **Venue:** 
+* **Food and Beverage:**
+* **Travel:**
+* **Equipment:**
+* **Marketing:**
 
 ![](../../.gitbook/assets/7418636.png)
 
