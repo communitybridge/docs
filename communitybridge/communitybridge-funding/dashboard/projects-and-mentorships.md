@@ -108,7 +108,7 @@ The overview shows some or all of the following items depending on the data that
 </table>
 
   
-View an example of a project overview section:
+Following is an example of a project overview section:
 
 ![](../../../.gitbook/assets/7418510%20%281%29.png)
 
@@ -132,17 +132,13 @@ Funding integrates with independent CommunityBridge services:
 * Stacks
 * Bug Bounty \(not shown in the following example\)
 
-You can see additional information about the projects from the above mentioned the integrated services. For more information, see [Integrated Services for a Project](integrated-services-for-a-project.md).  
-  
-View an example of a project dashboard:
+You can see additional information about the projects from the above mentioned the integrated services. For more information, see [Integrated Services for a Project](integrated-services-for-a-project.md).
 
 ![](../../../.gitbook/assets/7418509%20%281%29.jpg)
 
 ## Financial <a id="ProjectsandMentorships-Financial"></a>
 
-The Financial tab lists all transactions with details in chronological order.  
-  
-View an example of a project financial report:
+The Financial tab lists all transactions with details in chronological order.
 
 ![](../../../.gitbook/assets/7418508.jpg)
 

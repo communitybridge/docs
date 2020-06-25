@@ -141,8 +141,16 @@ Only the project administrator can add or remove beneficiaries. The finance team
 
 ## Fund Distribution <a id="ProjectApplicationForm-FundDistribution"></a>
 
-**Fund Distribution** enables goals for how you want to distribute funds in your project, and complete the fields that appear—see the example below. Enter a percentage of your Annual Funding Goal amount to designate towards the goal. You can use the up/down arrows to select a percentage also.  
-Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses such as Marketing and Travel. Goal amounts are targets not limits, so you can continue raising money beyond your goal amount. As you see progress in one or more goals, you can \(and should\) update the goals to reflect how you plan to utilize these additional funds.
+**Fund Distribution** enables goals for how you want to distribute funds in your project. Complete the fields that appear—see the example below. Enter a percentage of your Annual Funding Goal amount to designate towards the selected goal. You can use the up/down arrows to select a percentage also. Goal amounts have no target limit, so you can continue raising money beyond your goal amount. As you see progress in one or more goals, you can \(and should\) update the goals to reflect how you plan to utilize these additional funds.
+
+Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses, such as Marketing, Travel, Bug Bounty, and so on. Following are various goals towards which you can distribute your fund:
+
+* **Development Goal:** Use funds to pay top developers for contributing codes, adding features, fixing bugs, and training and bringing in new talents to the community.
+* **Marketing Goal:** Use funds to promote and grow your project through the development of collateral, website redesign, paying digital marketing agencies or individuals, t-shirts to wear at events, and so on.
+* **Meetups Goal:** Use funds to socially connect with your community through local meetups, annual summits, or big industry events. ****
+* **Bug Bounty Goal:** Use funds to run bug bounty programs through Hackerone \(Linux Foundation has association with Hackerone to run bug bounty programs for projects\), and pay potential hackers for identifying bugs in your project.
+* **Travel Goal:** Use funds to sponsor traveling of mentors, mentees, and other project members to conferences, meetups, or customer meetings.
+* **Documentation Goal:** Use funds to drive specific documentation initiatives, such as paying technical content writers to prepare technical documents or develop documentation process, purchasing subscription premiums from companies to host your knowledge base, and so on.
 
 ![](../../.gitbook/assets/7418622.png)
 

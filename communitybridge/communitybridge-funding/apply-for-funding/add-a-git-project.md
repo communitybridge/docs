@@ -1,4 +1,4 @@
-# Add a Git-Based Project
+# Add a Git Project
 
 As a project administrator, you can submit an application to CommunityBridge Funding by adding a Git-based open source project. Linux Foundation requires access to your code repository to support security vulnerability scanning.
 

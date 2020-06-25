@@ -22,7 +22,7 @@
       * [Toggle Between Funding and Mentorship for a Project](communitybridge/communitybridge-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
     * [Apply for Funding](communitybridge/communitybridge-funding/apply-for-funding/README.md)
       * [Add a GitHub Project](communitybridge/communitybridge-funding/apply-for-funding/add-a-github-project.md)
-      * [Add a Git-Based Project](communitybridge/communitybridge-funding/apply-for-funding/add-a-git-based-project.md)
+      * [Add a Git Project](communitybridge/communitybridge-funding/apply-for-funding/add-a-git-project.md)
       * [Add an Event](communitybridge/communitybridge-funding/apply-for-funding/add-an-event.md)
       * [Add a Scholarship](communitybridge/communitybridge-funding/apply-for-funding/add-a-scholarship.md)
     * [Donate/Sponsor](communitybridge/communitybridge-funding/donate-sponsor/README.md)

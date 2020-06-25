@@ -34,5 +34,5 @@ Follow the steps to submit an application for adding an open source project or o
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
 2. Click **Apply** and then select an **option.** ![](../../../.gitbook/assets/7418532.png) 
-3. Submit an application: [Add a GitHub Project](add-a-github-project.md) [Add a Git-based Project](add-a-git-based-project.md) [Add an Event](add-an-event.md) [Add a Scholarship](add-a-scholarship.md)
+3. Submit an application: [Add GitHub Project](add-a-github-project.md) [Add Git Project](add-a-git-project.md) [Add Event](add-an-event.md) [Add Scholarships](add-a-scholarship.md)
 

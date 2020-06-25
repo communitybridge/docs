@@ -12,7 +12,7 @@ Integrated services for a project let you see additional information about a pro
 
 ## Bug Bounty <a id="IntegratedServicesforaProject-BugBounty"></a>
 
-**Bug Bounty** shows the compensation for solving bugs and security vulnerabilities for projects that allocate funds to run a bug bounty program. You can see the metrics around program details, bounty amounts, bugs detected, and hackers paid, and so on. Anyone can view publicly disclosed bug overviews for the project, but maintainers have privileged access to the detailed full disclosure information. Project maintainers can Include a bug bounty service to address replicable defects and improve the security and robustness of their projects.
+**Bug Bounty** shows the compensation for solving bugs and security vulnerabilities for projects that allocate funds to run a bug bounty program. You can see the metrics around program details, bounty amounts, bugs detected, and hackers paid, and so on. Anyone can view publicly disclosed bug overviews for the project, but maintainers have privileged access to the detailed full disclosure information. Project maintainers can include a bug bounty service to address replicable defects and improve the security and robustness of their projects.
 
 ![](../../../.gitbook/assets/7416586.png)
 
