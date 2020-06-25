@@ -12,7 +12,7 @@ Linux Foundation doesn't charge any fees for the first $10M raised through Commu
 
 **Project Administrators** submit funding applications for financial support from companies and individuals to grow their communities by paying money to developers for their contribution, by sponsoring project related travel meet-ups, spending money in marketing, and so on. Project administrators are the primary maintainers of the open source projects on CommunityBridge.
 
-[Project administrators can also enroll their projects in a Mentorship program](../communitybridge-mentorship/administrators/enroll-your-project/) to help aspiring developers learn and contribute to the open source projects. They utilize raised funds in running the mentorship program, such as paying stipends to mentees, paying money to mentors for their time in mentoring mentees, providing travel scholarships to mentees for events and project summits,
+[Project administrators can also enroll their projects in a mentorship program](../communitybridge-mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel scholarships for events and project summits.
 
 ### [Donate/Sponsor](donate-sponsor/) <a id="CommunityBridgeFunding-Donate/Sponsor7417266.html"></a>
 

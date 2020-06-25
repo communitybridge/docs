@@ -1,4 +1,4 @@
-# Project Application Form
+# Project Application
 
 ## Project Details <a id="ProjectApplicationForm-ProjectDetails"></a>
 
@@ -145,12 +145,12 @@ Only the project administrator can add or remove beneficiaries. The finance team
 
 Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses, such as Marketing, Travel, Bug Bounty, and so on. Following are various goals towards which you can distribute your fund:
 
-* **Development Goal:** You can use this fund to pay top developers for contributing codes, adding features, fixing bugs, and training and bringing in new talents to the community.
-* **Marketing Goal:** You can use marketing fund to promote and grow your project through the development of collateral, website redesign, paying digital marketing agencies or individuals, t-shirts to wear at events, and so on.
-* **Meetups Goal:** You can use meetup goal fund to socially connect with your community through local meetups, annual summits, or big industry events. ****
-* **Bug Bounty Goal:** You can use bug bounty fund to run bug bounty programs through Hackerone \(Linux Foundation has association with Hackerone to run bug bounty programs for projects\), and pay potential hackers for identifying bugs in your project.
-* **Travel Goal:** You can use travel funds to sponsor traveling of mentors, mentees, and other project members to conferences, meetups, or customer meetings.
-* **Documentation Goal:** You can use this ****fund to drive specific documentation initiatives, such as paying technical content writers to prepare technical documents or to develop documentation process, purchasing subscription premiums from companies to host your knowledge base in their content management systems \(CMS\), and so on.
+* **Development Goal:** You can use funds allocated for this category to pay top developers for contributing codes, adding features, fixing bugs, and training and bringing in new talents to the community.
+* **Marketing Goal:** You can use funds allocated for this category to promote and grow your project through the development of collateral, website design, t-shirts to wear at events, and so on.
+* **Meetups Goal:** You can use funds allocated for this category to socially connect with your community through local meetups, annual summits, or big industry events. ****
+* **Bug Bounty Goal:** You can use funds allocated for this category to run bug bounty programs \(for example, through HackerOne or other program\), and pay community to help you identify bugs.
+* **Travel Goal:** You can use funds allocated for this category to sponsor travel for project members to attend conferences, meetups, or customer meetings.
+* **Documentation Goal:** You can use funds allocated for this category to drive specific documentation initiatives, such as paying technical writers, purchasing subscription premiums, and so on.
 
 ![](../../.gitbook/assets/7418622.png)
 

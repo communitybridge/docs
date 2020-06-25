@@ -35,7 +35,7 @@
       * [Opt In Your Project to the Mentorship Program](communitybridge/communitybridge-funding/mentorship-program/opt-in-your-project-to-the-mentorship-program.md)
       * [Set Up a Stipend for a Mentee](communitybridge/communitybridge-funding/mentorship-program/set-up-a-stipend-for-a-mentee.md)
     * [Register for an Event](communitybridge/communitybridge-funding/register-for-an-event.md)
-    * [Project Application Form](communitybridge/communitybridge-funding/project-application-form.md)
+    * [Project Application](communitybridge/communitybridge-funding/project-application.md)
     * [Event Application](communitybridge/communitybridge-funding/event-application.md)
     * [Travel Funding Application](communitybridge/communitybridge-funding/travel-funding-application.md)
     * [Manage Your Funding Account](communitybridge/communitybridge-funding/manage-your-funding-account.md)

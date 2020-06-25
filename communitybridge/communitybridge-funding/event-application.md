@@ -66,11 +66,11 @@ Any funds remaining at year end can be carried forward to the next year.
 
 Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses such as Venue and Travel. Following are various goals towards which you can distribute your fund:
 
-* **Venue:** You can use venue fund to accommodate a venue for your events. Ensure that you have enough fund to accommodate right venue for your events.
-* **Food and Beverage:** You can use this fund to buy coffee, snacks, foods and beverages, and so on for event attendees.
-* **Travel:** You can use travel fund to provide travel assistance to community members to attend events organized by you. Ensure that you have enough funds to sponsor air tickets, hotel stays, and so on for eligible members.
-* **Equipment:** You can use this fund to buy equipment, such as microphones, speakers, projectors, screens, and so on, for your event.
-* **Marketing:** Market your project event to attract sponsors, and individuals to contribute to the project. You can use marketing fund to promote your event by doing digital marketing, designing event websites, providing t-shirts to attendees, and so on.
+* **Venue:** You can use funds allocated for this category to pay for a venue for your event. Ensure that you have enough funds to accommodate your event.
+* **Food and Beverage:** You can use funds allocated for this category to buy coffee, snacks, foods and beverages, and so on for event attendees.
+* **Travel:** You can use funds allocated for this category to provide travel assistance to community members to attend events organized by you. Ensure that you have enough funds to sponsor air tickets, hotel stays, and so on for eligible members.
+* **Equipment:** You can use funds allocated for this category to buy equipment, such as microphones, speakers, projectors, screens, and so on, for your event.
+* **Marketing:** Market your project event to attract sponsors, and individuals to contribute to the project. You can use funds allocated for this category to promote your event by doing digital marketing, designing event websites, providing t-shirts to attendees, and so on.
 
 ![](../../.gitbook/assets/7418636.png)
 
