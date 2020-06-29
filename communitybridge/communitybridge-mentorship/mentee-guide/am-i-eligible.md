@@ -1,9 +1,5 @@
 # Am I Eligible?
 
-{% hint style="warning" %}
-**Important:** You cannot apply to a mentorship program if you are already participating in any CommunityBridge mentorship program or have successfully completed the program in previous terms.
-{% endhint %}
-
 The following eligibility rules apply to program applicants. You must:
 
 * Be at least 18 years of age.
@@ -13,6 +9,7 @@ The following eligibility rules apply to program applicants. You must:
 * Not be subject to any existing obligations to third parties \(such as contractual obligations to an employer, University regulations\) that would restrict or prohibit your participation in the Mentorship program.
 * Meet any additional criteria set by the particular project for which you want to apply. Some projects may have custom requirements for mentees. For example, some projects may limit mentorships to Mentees who are currently enrolled in school.
 * Not be a prior participant or a regular contributor involved with a project for which you want to be a mentee.
+* Not be an active participant in any CommunityBridge mentorship program.
 
 
 
