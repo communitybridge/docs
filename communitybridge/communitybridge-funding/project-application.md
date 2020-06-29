@@ -154,6 +154,8 @@ Be clear to potential sponsors about how you intend to use the funds. You can de
 
 ![](../../.gitbook/assets/7418622.png)
 
+The Mentorship Goal lets you opt in to the Mentorship program and allocate funds for it. For details, see [Opt In Your Project to the Mentorship Program](mentorship-program/opt-in-your-project-to-the-mentorship-program.md).
+
 ## Financial Summary <a id="ProjectApplicationForm-FinancialSummary"></a>
 
 The Financial Summary shows the annual financial goal and progress towards it by individual goal. It shows a distribution report based on your selection from the **Fund Distribution** panel.

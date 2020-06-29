@@ -1,9 +1,5 @@
 # Manage Mentee Application
 
-{% hint style="warning" %}
-**Important:** You should not accept mentee profiles who are actively participating in other CommunityBridge mentorship programs.
-{% endhint %}
-
 You can manage your project mentees from the Current Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
 
 {% hint style="info" %}
@@ -56,9 +52,7 @@ A list of the persons who have applied to your project appears. The following ta
             is not suitable for the mentorship program.</li>
           <li><b>Accepted: </b>If you select <b>Accepted</b>, mentee gets an email notification
             that his/her profile is accepted. Accepted mentees are shown under Mentees
-            section of Dashborad tab.
-            <br /><b>Note: </b>Before you accept mentee, ensure that the mentee is not participating
-            in any other mentorship program.</li>
+            section of Dashborad tab.</li>
           <li><b>Withdrawn: </b>Status changes to <b>Withdrawn</b> when a mentee withdraws
             an application.</li>
           <li><b>Graduated: </b>Change the status to <b>Graduated </b>when a mentee successfully
