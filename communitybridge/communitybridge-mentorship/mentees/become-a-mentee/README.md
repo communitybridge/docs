@@ -4,8 +4,7 @@
 **Eligibility:** 
 
 * You must be 18 years of age and eligible to work in the country you reside in during  the mentorship program.
-* You cannot apply to a mentorship program if you have successfully completed the program in previous terms**.**
-* You will not be accepted to a mentorship program if you are actively participating in any other mentorship programs.
+* You cannot apply to a mentorship program if you are already participating in any CommunityBridge mentorship program or have successfully completed the program in previous terms.
 {% endhint %}
 
 You can become a mentee by:

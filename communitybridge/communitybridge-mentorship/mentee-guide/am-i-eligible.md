@@ -1,5 +1,9 @@
 # Am I Eligible?
 
+{% hint style="warning" %}
+**Important:** You cannot apply to a mentorship program if you are already participating in any CommunityBridge mentorship program or have successfully completed the program in previous terms.
+{% endhint %}
+
 The following eligibility rules apply to program applicants. You must:
 
 * Be at least 18 years of age.
