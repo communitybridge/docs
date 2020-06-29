@@ -19,7 +19,10 @@ Keep these items ready before you begin:
 
 ![](../../../../.gitbook/assets/7418793.png)
 
-3. Check your eligibility on the **Eligibility Requirement** window.
+3. Click an answer to the questions that appear **Eligibility Requirement** window.
+
+1. Are you at least 18 years of age, or will you be by the time the mentorship program starts?
+2. Are you eligible to work in the country you reside in for the duration of the mentorship?
 
 4. Complete the Mentee Application form.
 
