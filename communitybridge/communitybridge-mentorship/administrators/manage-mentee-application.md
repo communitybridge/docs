@@ -1,7 +1,7 @@
 # Manage Mentee Application
 
 {% hint style="warning" %}
-**Important:** You cannot accept mentee profiles who are actively participating in other CommunityBridge mentorship programs.
+**Important:** You cannot accept a mentee who is actively participating in another CommunityBridge mentorship program.
 {% endhint %}
 
 You can manage your project mentees from the Current Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
