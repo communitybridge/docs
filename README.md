@@ -18,5 +18,3 @@ Linux Foundation is a technology association of several companies that helps to 
 
 {% page-ref page="training-and-certification.md" %}
 
-#### 
-
