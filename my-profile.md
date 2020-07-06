@@ -18,7 +18,7 @@ You can view and edit your profile from My Profile page. You can manage your pro
 
 To edit your profile, perform the following steps:
 
-1.Login into My Profile page. The My Profile dashboard appears. Click the **Edit Profile** button.
+1.Login into [My Profile](https://myprofile.linuxfoundation.org/) page. The My Profile dashboard appears. Click the **Edit Profile** button.
 
 ![My Profile](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAyqzhuCFVj1CVWIlNg%2F-MAyuz2ryaEUTS5OI2JK%2F1.png?alt=media&token=f120016e-8c80-4ede-8d9a-39180c4b6de4)
 
