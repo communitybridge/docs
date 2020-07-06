@@ -2,15 +2,15 @@
 
 My Profile page is a dashboard that provides you with the option to manage and update details related to your LF account. In My Profile page you can manage and update the following:
 
-* [Edit your profile](untitled.md#editing-the-profile)
-* [Change the password](untitled.md#changing-account-password)
-* [Manage linked accounts](untitled.md#managing-social-profile-accounts)
-* [Add alternative email accounts](untitled.md#adding-alternative-emails)
-* [Purchase Linux email](untitled.md#purchasing-linux-email)
-* [View your training and certifications ](untitled.md#viewing-certification-badges)
-* [View your certification badges](untitled.md#viewing-certification-badges)
-* [View events](untitled.md#viewing-the-events)
-* [View your transactions](untitled.md#viewing-the-transactions)
+* [Edit your profile](my-profile.md#editing-the-profile)
+* [Change the password](my-profile.md#changing-account-password)
+* [Manage linked accounts](my-profile.md#managing-social-profile-accounts)
+* [Add alternative email accounts](my-profile.md#adding-alternative-emails)
+* [Purchase Linux email](my-profile.md#purchasing-linux-email)
+* [View your training and certifications ](my-profile.md#viewing-certification-badges)
+* [View your certification badges](my-profile.md#viewing-certification-badges)
+* [View events](my-profile.md#viewing-the-events)
+* [View your transactions](my-profile.md#viewing-the-transactions)
 
 ## Editing the Profile  <a id="editing-the-profile"></a>
 
