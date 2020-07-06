@@ -67,7 +67,9 @@ To manage and link your social profile accounts, perform the following steps:
 
 3.The list of accounts related to that social profile account are listed. Select the appropriate account. The selected account will be linked to your LF account.
 
+{% hint style="info" %}
 If you want to remove the linked account, click **Disconnect**.
+{% endhint %}
 
 ## Adding Alternative Emails  <a id="adding-alternative-emails"></a>
 
@@ -107,7 +109,9 @@ To purchase the Linux foundation email, perform the following steps:
 
 2.The Edit @linux.com Email Service screen appears. In the **Email Alias**, enter the Linux email that you want and in the **Forward to** enter the email ID where you want to receive the emails that will be sent to Linux email ID. Click **Save** after entering all the details.
 
+{% hint style="info" %}
 Emails sent to Linux email ID will be forwarded to the Forward email ID. The mails will not be delivered to the Linux email ID.
+{% endhint %}
 
 ![Linux Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzJWfeTXnQINlnG_ZP%2F-MAzdmd_n1c9sHePgd6o%2FLinux_Email2.png?alt=media&token=401c4f2a-7d31-4521-9d8a-af2028619f39)
 
