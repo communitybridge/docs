@@ -1,8 +1,8 @@
 # CommunityBridge Funding
 
-CommunityBridge Funding is a platform that makes it possible for open source projects to raise money via donations from individuals and corporations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source. 
+CommunityBridge Funding is a platform that makes it possible for open source projects to raise money via donations from individuals and corporations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source.
 
-Linux Foundation doesn't charge any fees for the first $10M raised through CommunityBridge, which allows developers to use more money to work, drive innovation, sustainability, and adoption.
+Linux Foundation doesn't charge any fees for the first $10M raised through CommunityBridge, which allows developers to use more money for work, drive innovation, sustainability, and adoption.
 
 ### [Discover Funds](dashboard/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
 
@@ -29,11 +29,12 @@ Designated **beneficiaries** get reimbursed for their support of open source com
 
 You can participate by applying and submitting your open source project to receive funding through the CommunityBridge platform, as well as by donating to projects, and sponsoring events and travel scholarships. 
 
-**Note:** You must have an [account](../../sso/create-an-account.md) or sign in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, please see [Sign in to CommunityBridge](../../sso/sign-in/).
+You must have an [account](../../sso/create-an-account.md) or sign in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, see [Sign in to CommunityBridge](../../sso/sign-in/).  
+**Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can sign in to CommunityBridge using your SSO credentials.
 
 ### **Applying for Funding** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 
-**As an individual/project administrator**, ****you can [apply](apply-for-funding/) to raise funds for your project by submitting an application for your GitHub or Git-based project. After your project is approved by the Linux Foundation, it will be visible on the [CommunityBridge Funding](https://funding.communitybridge.org/) dashboard under [Projects and Mentorships](dashboard/projects-and-mentorships.md) tab. You can apply for event funding or a travel scholarships by submitting an Event or a Travel Scholarship application form. 
+**As an individual/project administrator**, ****you can [apply](apply-for-funding/) to raise funds for your project by submitting an application for your GitHub or Git-based project. After your project is approved by the Linux Foundation, it will be visible on the [CommunityBridge Funding](https://funding.communitybridge.org/) dashboard under [Projects and Mentorships](dashboard/projects.md) tab. You can apply for event funding or a travel scholarships by submitting an Event or a Travel Scholarship application form. 
 
 ### Donating/Sponsoring <a id="CommunityBridgeFunding-Donating/Sponsoring"></a>
 

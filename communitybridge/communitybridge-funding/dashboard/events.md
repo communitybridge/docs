@@ -1,13 +1,12 @@
 # Events
 
-You can find out about events and donate to the ones that you want to support. You can register for an event that you want to attend, and possibly be reimbursed for expenses such as the registration fee. A Dashboard shows high-level information about funding such as how funds are distributed and what the funding goals are. CommunityBridge Funding also maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each event. The Financial tab lists all these transactions with details so that the entire community can view receipts of expenses.
+You can find out about events and donate to the ones that you want to support. You can register for an event that you want to attend, and possibly be reimbursed for expenses, such as the registration fee. A Dashboard shows high-level information about funding such as how funds are distributed and what the funding goals are. CommunityBridge Funding also maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each event. The Financial tab lists all these transactions with details so that the entire community can view receipts of expenses.
 
-**To View an Event:**
+**To view an Event:**
 
 1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Select **Events**.
-3. Click an **event** of your interest.
-4. Browse Dashboard for more information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project
+2. From **Events** tab, click an event ****of your interest.
+3. Browse Dashboard for more information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project
    * [Overview](events.md#Events-Overview)
    * [Dashboard](events.md#Events-Dashboard)
    * [Financial](events.md#Events-Financial)
@@ -15,8 +14,6 @@ You can find out about events and donate to the ones that you want to support. Y
 ## Overview <a id="Events-Overview"></a>
 
 The overview shows some or all of the following items depending on the data that is available:
-
-A bar shows the donation progress towards the total goal.
 
 | Name  | Description |
 | :--- | :--- |
@@ -55,9 +52,9 @@ View an example of an event dashboard section:
 
 ## Financial <a id="Events-Financial"></a>
 
-The Financial tab lists all transactions with details in chronological order.
+The Financial tab lists all transactions with details in chronological order. Click the icon next to Fees to see the see distribution of applicable fees.
 
 View an example of a financial tab section:
 
-![](../../../.gitbook/assets/7418516.jpg)
+![](../../../.gitbook/assets/fees-icon-events.png)
 

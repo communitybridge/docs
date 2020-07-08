@@ -1,20 +1,19 @@
-# Projects and Mentorships
+# Projects
 
-Projects and Mentorships detail pages can indicate how active a project is in the open source community. This information can help you decide what particular open source project to participate in or fund. You can also learn about the financial aspects of a project, view how funds are distributed and what the funding goals are. CommunityBridge Funding maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each project. The Financial tab lists all these transactions with details so that the entire community can view receipts of expenses.
+Projects page indicates how active a project is in the open source community. This information can help you decide what particular open source project to participate in or fund. You can also learn about the financial aspects of a project, view how funds are distributed and what the funding goals are. CommunityBridge Funding maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each project. The Financial tab of a project page lists all these transactions with details so that the entire community can view receipts of expenses.
 
-**Do these steps:**
+**To view project details:**
 
 1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. From **Projects and Mentorships** tab, Click a **project** or **mentorship** of interest.
+2. From **Projects** tab, Click a **project** of interest. The landing page shows overview of the project.
 3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
-   * [Overview](projects-and-mentorships.md#ProjectsandMentorships-Overview)
-   * [Financial](projects-and-mentorships.md#ProjectsandMentorships-Financial)
+   * [Overview](projects.md#ProjectsandMentorships-Overview)
+   * [Dashboard](projects.md#dashboard)
+   * [Financial](projects.md#ProjectsandMentorships-Financial)
 
 ## Overview <a id="ProjectsandMentorships-Overview"></a>
 
 The overview shows some or all of the following items depending on the data that is available:
-
-**Note:** A bar shows the donation progress towards the total annual goal.
 
 <table>
   <thead>
@@ -24,24 +23,6 @@ The overview shows some or all of the following items depending on the data that
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align:left"><b>Current Balance</b>
-      </td>
-      <td style="text-align:left">The total amount of funds available in the account.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Backers</b>
-      </td>
-      <td style="text-align:left">The number of individuals who have donated to the project. This number
-        includes individual and organization donations by unique Linux Foundation
-        accounts.
-        <br />The number of backers indicates the popularity and momentum of the project.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Sponsor Organizations</b>
-      </td>
-      <td style="text-align:left">The logos of companies that sponsor the project.</td>
-    </tr>
     <tr>
       <td style="text-align:left"><b>forks</b>
       </td>
@@ -62,6 +43,29 @@ The overview shows some or all of the following items depending on the data that
       </td>
       <td style="text-align:left">The number of bugs, enhancements, or other requests in a repository. The
         number of issues can indicate the activity in a project.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Donate</b>
+      </td>
+      <td style="text-align:left">Click <b>Donate </b>to <a href="../donate-sponsor/">donate</a> to the project.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Balance</b>
+      </td>
+      <td style="text-align:left">The total amount of funds available in the account.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Backers</b>
+      </td>
+      <td style="text-align:left">The number of individuals who have donated to the project. This number
+        includes individual and organization donations by unique Linux Foundation
+        accounts.
+        <br />The number of backers indicates the popularity and momentum of the project.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sponsor Organizations</b>
+      </td>
+      <td style="text-align:left">The logos of companies that sponsor the project.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>View Repository</b>
@@ -123,11 +127,11 @@ Dashboard shows various aspects of the project.
 | **Expenses** | The amount of money spent or costs incurred for the project, which indicate the cost of doing business. |
 | **Project Funding Distribution** | Shows how project funds are distributed and their dollar amount |
 | **Goals Breakdown** | Shows the annual financial goal and progress towards it by individual goal. |
+| Stacks |  |
 | **Recent Transactions** | Lists recorded financial transactions in chronological order.  Click **View all transactions** to see a log of transactions. |
 
 Funding integrates with independent CommunityBridge services:
 
-* Mentorship Program
 * Vulnerability Detection
 * Stacks
 * Bug Bounty \(not shown in the following example\)
@@ -138,7 +142,7 @@ You can see additional information about the projects from the above mentioned t
 
 ## Financial <a id="ProjectsandMentorships-Financial"></a>
 
-The Financial tab lists all transactions with details in chronological order.
+The Financial tab lists all transactions with details in chronological order. Click the icon next to Fees to see the see distribution of applicable fees.
 
-![](../../../.gitbook/assets/7418508.jpg)
+![](../../../.gitbook/assets/fees-icon.png)
 
