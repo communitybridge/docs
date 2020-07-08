@@ -99,9 +99,7 @@ The following table lists all the fields in the **Project Details** panel of the
   </tbody>
 </table>
 
-![Project Details](../../.gitbook/assets/7418614.png)
-
-## Project Branding <a id="ProjectApplicationForm-ProjectBranding"></a>
+## Project Branding
 
 The following table lists all the fields in the **Project Branding** panel of the Project Application:
 
@@ -114,7 +112,7 @@ The following table lists all the fields in the **Project Branding** panel of th
 
 ## Project Beneficiaries <a id="ProjectApplicationForm-ProjectBeneficiaries"></a>
 
-Beneficiaries are individuals who work on a project and then request reimbursement for their time and expenses. If your project participates in a Mentorship program that includes stipends for mentees, add these mentees as beneficiaries.
+Beneficiaries are individuals who work on a project and then request reimbursement for their time and expenses. You can add names of individuals who you want to submit travel expense for the project related travel such as attending events.
 
 The following table lists all the fields in the **Project Beneficiaries** panel of the Project Application:
 
@@ -133,9 +131,9 @@ Only the project administrator can add or remove beneficiaries. The finance team
 
 ![Project Beneficiaries](../../.gitbook/assets/7418616.jpg)
 
-## Project Funding Goal <a id="ProjectApplicationForm-ProjectFundingGoal"></a>
+## Annual Project Funding <a id="ProjectApplicationForm-ProjectFundingGoal"></a>
 
-**Annual Funding Goal** is a total project funding goal amount for the year. The Total Project Funding amount is a sum of the individual goal amounts.
+**Annual Project Funding** is a total project funding goal amount for the year. The Annual Funding Goal amount is the sum of the individual goal amounts.
 
 ![Annual Project Funding](../../.gitbook/assets/7418619.jpg)
 

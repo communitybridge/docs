@@ -44,7 +44,7 @@ Event Beneficiaries are individuals who are involved with the event and who can 
 
 After you enter the name and email address of the beneficiaries, click **+Add beneficiary** to add the person to the list. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
 
-![](../../.gitbook/assets/7418639.png)
+![Event Beneficiaries](../../.gitbook/assets/event-beneficiaries.png)
 
 After the application is approved, the Linux Foundation finance team sets up an individual Expensify account for each beneficiary. Each beneficiary receives an email notification from the finance team that includes a link to their Expensify account. Beneficiaries are invited to join the custom Expensify policy as part of their participation in CommunityBridge. After accepting the invitation, beneficiaries have access to the policy where they can submit expenses for [reimbursement](get-reimbursed.md) from CommunityBridge funds.
 
