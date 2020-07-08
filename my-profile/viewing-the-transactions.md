@@ -1,6 +1,6 @@
 # Viewing the Transactions
 
-You can manage and view your transactions that you have carried with the Linux Foundation in **My Transactions** tab. My Transactions tab provides you:
+In [My Profile](https://myprofile.linuxfoundation.org/) page you can manage and view your transactions that you have carried with the Linux Foundation in **My Transactions** tab. My Transactions tab provides you:
 
 * List of all your transactions in Linux Foundation
 * Order ID

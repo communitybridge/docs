@@ -8,7 +8,7 @@ You can also checkout the [Individual Supporter FAQs](https://www.linuxfoundatio
 
 To purchase the Linux foundation email, perform the following steps:
 
-1.Login to My Profile page and click the Purchase Email button from the **Linux.Com Email**.
+1.Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Purchase Email button from the **Linux.Com Email**.
 
 ![Purchase Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzJWfeTXnQINlnG_ZP%2F-MAzc8DVeo6pn97QkPDc%2FLinux_Email.png?alt=media&token=12e9a689-834c-4b41-9a3a-c4eb62f4f1b8)
 
