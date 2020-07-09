@@ -23,8 +23,8 @@ The following table lists all the fields in the **Project Details** panel of the
           page.</p>
         <p><b>Note: </b>This name must be unique&#x2014;no other project can exist
           in Funding with the same name. However, funds of a different type can use
-          the same name. For example, a Travel Scholarship fund and a Projects fund
-          can use the same name.</p>
+          the same name. For example, a Travel Fund and a Project fund can use the
+          same name.</p>
       </td>
     </tr>
     <tr>
