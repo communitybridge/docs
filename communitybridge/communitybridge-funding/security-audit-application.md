@@ -2,7 +2,7 @@
 
 ## Project Details <a id="ProjectApplicationForm-ProjectDetails"></a>
 
-The following table lists all the fields in the **Project Details** panel of the Project Application:
+The following table lists all the fields in the **Project Details** panel of the Security Audit Application:
 
 <table>
   <thead>
@@ -46,46 +46,44 @@ The following table lists all the fields in the **Project Details** panel of the
     <tr>
       <td style="text-align:left"><b>Repository URL</b>
       </td>
-      <td style="text-align:left">(Required) URL of the GitHub repository.
-        <br />CommunityBridge uses this URL to display the repository statistics on
-        your project page, and to provide a link to the project&#x2019;s repository.
-        <br
-        /><b>Note:</b> If you choose <b>Add GITHUB Repository </b>from the options
-        while applying, your GitHub repository is automatically reflected in this
-        field.</td>
+      <td style="text-align:left">
+        <p>(Optional) URL of the GitHub repository.
+          <br />CommunityBridge uses this URL to display the repository statistics on
+          your project page, and to provide a link to the project&#x2019;s repository.
+          <br
+          /><b>Note:</b> 
+        </p>
+        <ol>
+          <li>Project administrators must provide repository URL. This filed is optional
+            for OSTIF members.</li>
+          <li>If you choose <b>Add GITHUB Repository </b>from the options while applying,
+            your GitHub repository is automatically reflected in this field.</li>
+        </ol>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Website URL</b>
       </td>
-      <td style="text-align:left">(Optional) The Website address that you want to associate with the fund.</td>
+      <td style="text-align:left">(Required) The Website address that you want to associate with the fund.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>CII Project ID</b>
+      <td style="text-align:left"><b>License Type</b>
       </td>
-      <td style="text-align:left">
-        <p>(Optional) The <a href="https://www.coreinfrastructure.org/programs/badge-program/">Core Infrastructure Initiative (CII) Badge Program</a> Project
-          ID number, for example: 24.</p>
-        <p>The CII Badge Program is an open source secure development maturity model.
-          Projects that have a CII badge showcase the project&#x2019;s commitment
-          to security. Examples of criteria include basic open source development
-          practices (website, open source license, and user engagement), use of change
-          control tools, attention to quality (automated test suite), and focus on
-          security (secure project delivery method, use of dynamic and static analysis
-          tools, as appropriate for the project). Consumers of the badge are able
-          to quickly assess which open source projects care about security-conscious
-          development. Although participating in the CII Badge Program is optional,
-          we encourage you to enroll in the program within the first 90 days from
-          your application submission. The badge displays on your project dashboard
-          to showcase your project&#x2019;s status and progress on security and other
-          metrics.</p>
-        <p>Click <b>Apply for CII</b> to get a badge and CII Project ID number if your
-          project does not have one. You answer a questionnaire to be awarded a Best
-          Practices Badge and a CII Project ID if you are approved. A questionnaire
-          snippet follows:</p>
-        <p>
-          <img src="../../.gitbook/assets/7418625.png" alt/>
-        </p>
+      <td style="text-align:left">(Required) The software license(s) under which your project operates.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Monetization Strategy</b>
       </td>
+      <td style="text-align:left">(Required) Brief statement about how your project currently monetizes
+        or plans to monetize in the future</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Security Strategy</b>
+      </td>
+      <td style="text-align:left">(Required) Brief statement about what approach are you currently following
+        to provide security to your project, and avoid getting hacked. For example
+        are you using Fuzzers or any International software review systems, and
+        so on.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Code of Conduct URL</b>
@@ -98,4 +96,42 @@ The following table lists all the fields in the **Project Details** panel of the
     </tr>
   </tbody>
 </table>
+
+## Project Branding
+
+The following table lists all the fields in the **Project Branding** panel of the Security Audit Application:
+
+| Filed Name | Description |
+| :--- | :--- |
+| **Project Logo** | \(Optional\) A symbol or other design adopted by your organization that identifies your project. Click **Browse** to upload a file. Preview shows the logo that you uploaded. **Note:** File type- JPG, PNG, SVG File size- 2MB \(maximum\) |
+| **Accent Color** | \(Required\) The hexadecimal number for the color that you want to use as your project brand, for example, \#008000 is green. Enter a **hexadecimal number** or click in the field to open the color picker. Use the picker by clicking inside the color field to pick a color. You can use the up/down arrows to refine the color by editing the color values. The gray field refreshes to match your selection. |
+
+## Project Contacts
+
+The following table lists all the fields in the **Project Branding** panel of the Security Audit Application:
+
+**Primary Contact \(Required\)**
+
+| **Field Name** | **Description** |
+| :--- | :--- |
+| **First Name** | First name of the contact person for your project. |
+| **Last Name** | Last name of the contact person for your project. |
+| **Email** | Email address of the contact person for your project. |
+| **Phone Number** | Phone number of the contact person for your project. |
+| **Other** | Other contact number, such as mobile number, landline number, slack id, social media contact id, and so on of the contact person for your project. |
+| **Preferred Method of Contact** | Preferred mode of contact of the contact person. |
+
+## Security Audit Funding Goal
+
+**For Project Administrators:** You leave this field blank while initially submitting the application. After you submit, OSTF reviews your application, and determines the security audit funding goal for your project. Then, you edit the application page, and complete this field.
+
+![security audit funding goal](../../.gitbook/assets/security-audit-funding-goal.png)
+
+## Terms and Conditions <a id="ProjectApplicationForm-TermsandConditions"></a>
+
+Select the checkbox
+
+![](https://gblobscdn.gitbook.com/assets%2Flinux-foundation-documentation%2F-M2D_dS1B24qzcG9ihj9%2F-M2DaMsMo1_dQxKyDVOA%2F7418615.png?alt=media)
+
+
 
