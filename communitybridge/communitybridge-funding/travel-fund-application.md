@@ -14,8 +14,8 @@
       <td style="text-align:left"><b>Travel Fund Name</b>
       </td>
       <td style="text-align:left">
-        <p>Name of your Travel Fund. This name will appear on Travel Scholarship
-          tab of your project.</p>
+        <p>Name of your Travel Fund. This name will appear on Travel Fund tab of
+          CommunityBridge Funding website.</p>
         <p><b>Note: </b>This name must be unique&#x2014;no other project can exist
           in CommunityBridge Funding platform with the same name. However, funds
           of a different type can use the same name. For example, a Travel Fund and
@@ -38,8 +38,7 @@
     <tr>
       <td style="text-align:left"><b>Website URL</b>
       </td>
-      <td style="text-align:left">Web address that you want to associate with the fund. Click <b>Add Custom Website</b> to
-        add a website name and URL.</td>
+      <td style="text-align:left">Web address that you want to associate with the fund.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Application URL</b>

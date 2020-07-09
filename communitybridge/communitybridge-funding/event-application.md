@@ -31,7 +31,7 @@ The following table lists all the fields in the **Event Branding** panel of the 
 | Field Name | Description |
 | :--- | :--- |
 | **Event Logo** | \(Optional\) A symbol or other design adopted by your organization that identifies your project. Click **Browse** to upload a file. Preview shows the logo that you uploaded. **Note:**  File type- JPG, PNG, SVG             File size- 2MB \(maximum\) |
-| **Accent Color** | \(Required\) The hexadecimal number for the color that you want to use as your project brand, for example, \#008000 is green. Enter a **hexadecimal number** or click in the field to open the color picker. Use the picker by clicking inside the color field to pick a color. You can use the up/down arrows to refine the color by editing the color values. The gray field refreshes to match your selection. |
+| **Accent Color** | \(Required\) The hexadecimal number for the color that you want to use as your event brand, for example, \#008000 is green. Enter a **hexadecimal number** or click in the field to open the color picker. Use the picker by clicking inside the color field to pick a color. You can use the up/down arrows to refine the color by editing the color values. The gray field refreshes to match your selection. |
 
 ## Event Beneficiaries <a id="EventApplication-EventBeneficiaries"></a>
 
