@@ -26,9 +26,12 @@ This high-level diagram shows the different flows and roles that EasyCLA support
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
 
-* Project Manager
-* Contributor
-* 
+* [Project Manager](./#project-manager)
+* [Contributor](./#contributor)
+* [Corporate CLA Manager](./#corporate-cla-manager)
+* [Corporate CLA Signatory](./#corporate-cla-signatory)
+* [Corporate CLA Manager Designee](./#corporate-cla-manager-designee)
+
 ### Project Manager <a id="project-manager"></a>
 
 You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console.
@@ -38,7 +41,7 @@ With EasyCLA, you do the following CLA set-up tasks:
 1. [Install the EasyCLA Application](../project-managers/install-the-easycla-application.md).
 2. [Add a CLA Group](../project-managers/add-a-cla-group.md).
 3. [Add Contributor License Agreements](../project-managers/add-contributor-license-agreements.md).
-4. Add [GitHub repositories](../project-managers/add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) or [Gerrit instances](../project-managers/add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md) to enforce CLA monitoring.
+4. [Add GitHub repositories](../project-managers/add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) or [Gerrit instances](../project-managers/add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md) to enforce CLA monitoring.
 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 
@@ -59,7 +62,7 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. With this responsibility, you use EasyCLA to:
 
 * [Add companies to a project](../ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md)
-* [Add Contributors to Approved List](../ccla-managers-and-ccla-signatories/approve-contributors.md)
+* [Approve Contributors](../ccla-managers-and-ccla-signatories/approve-contributors.md)
 * [Add or Delete CLA Managers](../ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
 
 ### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
