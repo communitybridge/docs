@@ -22,13 +22,11 @@ My Transactions shows your monthly donations and lists all your transactions wit
 
 ## My Projects <a id="ManageYourFundingAccount-MyProjects"></a>
 
-My Projects lets you see all the projects and funds that you maintain all in one place: My Projects, My Events, and My Travel Scholarships. You can see the status of a project such as "Pending approval" and:
+My Projects lets you see all the projects, security audits, initiatives, events, and funds that you maintain all in one place: My Projects, Security Audits, Initiatives, My Travel Fund, and My Events. You can see the status of a project such as "Pending approval".
 
-Click **View Project**/**entity** to see the fund details.
-
-Click **Edit Project**/**Event/Scholarship** to edit the fund details.
-
-![](../../.gitbook/assets/7417304.png)
+Click a project to see the fund details.Click **Edit** on a card to edit the fund details. **Note: Mentorship Goal** is displayed under **Fund Distribution** if your project is enrolled in CommunityBridge Mentorship program.  
+  
+ ![](../../.gitbook/assets/project-card.png) 
 
 ## My Profile <a id="ManageYourFundingAccount-MyProfile"></a>
 
@@ -44,7 +42,7 @@ Click **Edit Project**/**Event/Scholarship** to edit the fund details.
 
 Click **Add Card** to add your card details.
 
-![](../../.gitbook/assets/7417300.png)
+![](../../.gitbook/assets/add-card.png)
 
 Click **Edit Card** or **Delete Card** to edit or delete an existing payment method, respectively.
 

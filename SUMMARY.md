@@ -26,7 +26,7 @@
     * [Dashboard](communitybridge/communitybridge-funding/dashboard/README.md)
       * [Projects](communitybridge/communitybridge-funding/dashboard/projects.md)
       * [Events](communitybridge/communitybridge-funding/dashboard/events.md)
-      * [Travel Scholarships](communitybridge/communitybridge-funding/dashboard/travel-scholarships.md)
+      * [Travel Funds](communitybridge/communitybridge-funding/dashboard/travel-funds.md)
       * [Integrated Services for a Project](communitybridge/communitybridge-funding/dashboard/integrated-services-for-a-project.md)
       * [Search](communitybridge/communitybridge-funding/dashboard/search.md)
       * [Toggle Between Funding and Mentorship for a Project](communitybridge/communitybridge-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
