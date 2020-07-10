@@ -55,14 +55,6 @@ The overview shows some or all of the following items depending on the data that
       <td style="text-align:left">The total amount of funds available in the account.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Backers</b>
-      </td>
-      <td style="text-align:left">The number of individuals who have donated to the project. This number
-        includes individual and organization donations by unique Linux Foundation
-        accounts.
-        <br />The number of backers indicates the popularity and momentum of the project.</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><b>Sponsor Organizations</b>
       </td>
       <td style="text-align:left">The logos of companies that sponsor the project.</td>
@@ -114,7 +106,7 @@ The overview shows some or all of the following items depending on the data that
   
 Following is an example of a project overview section:
 
-![](../../../.gitbook/assets/7418510%20%281%29.png)
+![project overview](../../../.gitbook/assets/project-overview%20%282%29.png)
 
 ## Dashboard
 
@@ -128,6 +120,8 @@ Dashboard shows various aspects of the project.
 | **Project Funding Distribution** | Shows how project funds are distributed and their dollar amount |
 | **Goals Breakdown** | Shows the annual financial goal and progress towards it by individual goal. |
 | Stacks |  |
+| Vulnerability Report |  |
+| Mentorship Program |  |
 | **Recent Transactions** | Lists recorded financial transactions in chronological order.  Click **View all transactions** to see a log of transactions. |
 
 Funding integrates with independent CommunityBridge services:
