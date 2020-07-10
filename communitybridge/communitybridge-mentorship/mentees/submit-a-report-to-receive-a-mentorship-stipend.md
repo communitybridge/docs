@@ -31,12 +31,12 @@ Ensure that you use the same email address that you used to set up your account 
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
      **Category:** Select **Mentee** from the drop-down list  
-     **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;, for example "Linux Kernel - mentee stipend payment 1 of 3"
+     **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;,  for example "Linux Kernel - mentee stipend payment 1 of 3"
 
 ![](../../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-7. **US Resident:** Click **Save**.  
-    **International Mentees \(non-U.S.\):** Click ****![](../../../.gitbook/assets/plus-icon.png) to upload completed _The Linux Foundation Wire Transfer Form_ in place of a receipt, and click **Save**.
+7. **US Residents:** Click **Save**.  
+    **International Mentees \(non-U.S.\):** please add “International” next to your name. The Linux   Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. Then click **Save.** 
 
 If you have not completed a wire transfer form, you can download it below.
 
