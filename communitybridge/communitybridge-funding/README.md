@@ -38,7 +38,7 @@ You must have an [account](../../sso/create-an-account.md) or sign in to [Commun
 
 ### Donating/Sponsoring <a id="CommunityBridgeFunding-Donating/Sponsoring"></a>
 
-**As an individual y**ou can donate to projects and/or travel scholarships, and sponsor events. For details, see [Donate as an Individual](donate-sponsor/donate-to-a-project-as-an-individual.md), [Sponsor Events](donate-sponsor/sponsor-events.md), and [Donate to Travel Scholarships](donate-sponsor/donate-to-travel-scholarships.md).
+**As an individual y**ou can donate to projects and/or travel scholarships, and sponsor events. For details, see [Donate as an Individual](donate-sponsor/donate-as-an-individual.md), [Sponsor Events](donate-sponsor/sponsor-events.md), and [Donate to Travel Scholarships]().
 
-**As an organization y**ou can donate to projects and/or travel scholarships, and sponsor events. For details, see [Donate as an Organization](donate-sponsor/donate-as-a-project-sponsor/), [Sponsor Events](donate-sponsor/sponsor-events.md), and [Donate to Travel Scholarships](donate-sponsor/donate-to-travel-scholarships.md).
+**As an organization y**ou can donate to projects and/or travel scholarships, and sponsor events. For details, see [Donate as an Organization](donate-sponsor/donate-as-a-sponsor/), [Sponsor Events](donate-sponsor/sponsor-events.md), and [Donate to Travel Scholarships]().
 

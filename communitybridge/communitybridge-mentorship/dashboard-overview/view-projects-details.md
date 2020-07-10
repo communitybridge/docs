@@ -106,9 +106,9 @@ Projects details can indicate how active a mentorship is in the open source comm
     <tr>
       <td style="text-align:left"><b>Donate</b>
       </td>
-      <td style="text-align:left">Opens a <a href="../../communitybridge-funding/donate-sponsor/donate-to-a-project-as-an-individual.md#result-new-donation-form-appears">New Donation form</a> in
-        CommunityBridge Funding. You can donate as an <a href="../../communitybridge-funding/donate-sponsor/donate-to-a-project-as-an-individual.md">individual</a> or
-        as an <a href="../../communitybridge-funding/donate-sponsor/donate-as-a-project-sponsor/">organization</a>.</td>
+      <td style="text-align:left">Opens a <a href="../../communitybridge-funding/donate-sponsor/donate-as-an-individual.md#result-new-donation-form-appears">New Donation form</a> in
+        CommunityBridge Funding. You can donate as an <a href="../../communitybridge-funding/donate-sponsor/donate-as-an-individual.md">individual</a> or
+        as an <a href="../../communitybridge-funding/donate-sponsor/donate-as-a-sponsor/">organization</a>.</td>
     </tr>
   </tbody>
 </table>

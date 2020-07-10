@@ -26,7 +26,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 **Projects** shows the on-going and past projects in Current Projects and Past Projects tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information: 
 
 * **Project name and logo**. Click the project title or logo to see more information about it.
-* **Donate** Opens a [New Donation form](../../communitybridge-funding/donate-sponsor/donate-to-a-project-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../communitybridge-funding/donate-sponsor/donate-to-a-project-as-an-individual.md) or as an [organization](../../communitybridge-funding/donate-sponsor/donate-as-a-project-sponsor/).
+* **Donate** Opens a [New Donation form](../../communitybridge-funding/donate-sponsor/donate-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../communitybridge-funding/donate-sponsor/donate-as-an-individual.md) or as an [organization](../../communitybridge-funding/donate-sponsor/donate-as-a-sponsor/).
 * **Description** excerpt describes the project. Select the project for more information.
 * **Funding To Date** shows the total project fund amount received to date for mentee stipends.
 * **Mentors** shows images of mentors for the project.

@@ -5,6 +5,8 @@ You can participate in an event to understand more about the project related inf
 **To Register for an event:** 
 
 1. [Sign in](../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Under **Events** tab, select an event that you want to participate.  ![](../../.gitbook/assets/7418612.png)
-3. Click **Register.**
+2. Under **Events** tab, select an event that you want to participate, and click **Register**.
+
+The event page opens. Click **REGISTER NOW** on the event page, and follow the procedure to register.  
+ ![](../../.gitbook/assets/register-for-an-event.png) 
 

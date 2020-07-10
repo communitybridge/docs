@@ -1,17 +1,17 @@
-# Projects
+# Security Audit
 
-Projects page indicates how active a project is in the open source community. This information can help you decide what particular open source project to participate in or fund. You can also learn about the financial aspects of a project, view how funds are distributed and what the funding goals are. CommunityBridge Funding maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each project. The Financial tab of a project page lists all these transactions with details so that the entire community can view receipts of expenses.
+Security Audit page displays the projects that are currently enrolled for security audit done by [OSTIF.](https://ostif.org/the-ostif-mission/) This information can help you decide what particular open source project to participate in or fund. You can also learn about the financial aspects of a project, how expenses are distributed, and so on. CommunityBridge Funding maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each project that is enrolled for security audit. The Financial tab of a project page lists all these transactions with details so that the entire community can view receipts of expenses.
 
-**To view project details:**
+**To view details:**
 
 1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. From **Projects** tab, Click a **project** of interest. The landing page shows overview of the project.
+2. From **Security Audits \(OSTIF\)** tab, Click a **project** of interest. The landing page shows overview of the project.
 3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
-   * [Overview](projects.md#ProjectsandMentorships-Overview)
-   * [Dashboard](projects.md#dashboard)
-   * [Financial](projects.md#ProjectsandMentorships-Financial)
+   * [Overview](security-audit.md#overview)
+   * [Dashboard](security-audit.md#dashboard)
+   * [Financial](security-audit.md#ProjectsandMentorships-Financial)
 
-## Overview <a id="ProjectsandMentorships-Overview"></a>
+## Overview
 
 The overview shows some or all of the following items depending on the data that is available:
 
@@ -23,27 +23,6 @@ The overview shows some or all of the following items depending on the data that
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align:left"><b>forks</b>
-      </td>
-      <td style="text-align:left">The number of repository copies. Forking a repository lets developers
-        propose changes to another project or use another project as a starting
-        point for an idea.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>stars</b>
-      </td>
-      <td style="text-align:left">The number of developers who saved the project repository to their list
-        of Starred Repos.
-        <br />Stars indicate popularity in that developers like or want to follow a
-        repository.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>issues</b>
-      </td>
-      <td style="text-align:left">The number of bugs, enhancements, or other requests in a repository. The
-        number of issues can indicate the activity in a project.</td>
-    </tr>
     <tr>
       <td style="text-align:left"><b>Donate</b>
       </td>
@@ -65,7 +44,7 @@ The overview shows some or all of the following items depending on the data that
       <td style="text-align:left">Opens the project repository in GitHub.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>View Site</b>
+      <td style="text-align:left"><b>View Website</b>
       </td>
       <td style="text-align:left">Opens the associated website.</td>
     </tr>
@@ -103,11 +82,6 @@ The overview shows some or all of the following items depending on the data that
   </tbody>
 </table>
 
-  
-Following is an example of a project overview section:
-
-![project overview](../../../.gitbook/assets/project-overview%20%282%29.png)
-
 ## Dashboard
 
 Dashboard shows various aspects of the project.
@@ -117,26 +91,11 @@ Dashboard shows various aspects of the project.
 | **Current Balance** | The total amount of funds available in the account. |
 | **Donations** | The amount of money that has been donated to the project. |
 | **Expenses** | The amount of money spent or costs incurred for the project, which indicate the cost of doing business. |
-| **Project Funding Distribution** | Shows how project funds are distributed and their dollar amount |
-| **Goals Breakdown** | Shows the annual financial goal and progress towards it by individual goal. |
-| **Stacks** | Shows crowd-sourced usage metrics about the project. For details, see [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks). |
-| **Vulnerability Report** | Shows the vulnerability report card for the project. For details, see [Vulnerability Report](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection). |
-| **Mentorship Program** | This section is displayed only when the project in enrolled to mentorship program. For details, see [Mentorship Program](integrated-services-for-a-project.md#IntegratedServicesforaProject-MentorshipProgram). |
 | **Recent Transactions** | Lists recorded financial transactions in chronological order.  Click **View all transactions** to see a log of transactions. |
-
-Funding integrates with independent CommunityBridge services:
-
-* Mentorship Program \(only when the project is enrolled to mentorship program\)
-* Vulnerability Detection
-* Stacks
-
-You can see additional information about the projects from the above mentioned the integrated services. For more information, see [Integrated Services for a Project](integrated-services-for-a-project.md).
-
-![](../../../.gitbook/assets/7418509%20%281%29.jpg)
 
 ## Financial <a id="ProjectsandMentorships-Financial"></a>
 
 The Financial tab lists all transactions with details in chronological order. Click the icon next to Fees to see the see distribution of applicable fees.
 
-![](../../../.gitbook/assets/fees-icon.png)
+![](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MBgrCBREGWIcmsdpQ3P%2F-MBhuysHfCxOp5lVvA2P%2Ffees%20icon.png?alt=media&token=fa741f06-d693-4ccf-ad42-c541cd8313ec)
 

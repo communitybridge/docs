@@ -7,18 +7,12 @@ Integrated services for a project let you see additional information about a pro
 **To view integrated services:** 
 
 1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Select **Projects and Mentorships.**
+2. Select **Projects.**
 3. Select a project of interest, the project detail page shows the integrates services, which can help you gain insight into the project. Funding integrates with the following independent CommunityBridge services:
-
-## Bug Bounty <a id="IntegratedServicesforaProject-BugBounty"></a>
-
-**Bug Bounty** shows the compensation for solving bugs and security vulnerabilities for projects that allocate funds to run a bug bounty program. You can see the metrics around program details, bounty amounts, bugs detected, and hackers paid, and so on. Anyone can view publicly disclosed bug overviews for the project, but maintainers have privileged access to the detailed full disclosure information. Project maintainers can include a bug bounty service to address replicable defects and improve the security and robustness of their projects.
-
-![](../../../.gitbook/assets/7416586.png)
 
 ## Mentorship Program <a id="IntegratedServicesforaProject-MentorshipProgram"></a>
 
-The **Mentorship** **Program** provides a mentorship matchmaking service that helps grow interested mentees into participating contributors in open source communities. This program connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
+It is displayed if the project is enrolled to CommunityBridge mentorship program. The **Mentorship** **Program** provides a mentorship matchmaking service that helps grow interested mentees into participating contributors in open source communities. This program connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
 
 ![](../../../.gitbook/assets/7416592.png)
 

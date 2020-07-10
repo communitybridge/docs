@@ -23,14 +23,13 @@ The overview shows some or all of the following items depending on the data that
 | **Register** | Lets you register for the event. |
 | **Sponsor** | Lets you donate to the event. |
 | **Current Balance** | The total amount of funds available in the account. |
-| **Backers** | The number of individuals who have donated to the event. This number includes individual and organization donations by unique Linux Foundation accounts. The number of backers can indicate the popularity and momentum of the event. |
 | **Sponsor Organizations** | The logos of companies that sponsor the project. |
 | **Sponsorships** | The logos for the types of sponsorships. |
 
   
 View an example of an event overview section:
 
-![](../../../.gitbook/assets/7418518%20%281%29.jpg)
+![event overview](../../../.gitbook/assets/event-overview.png)
 
 ## Dashboard <a id="Events-Dashboard"></a>
 

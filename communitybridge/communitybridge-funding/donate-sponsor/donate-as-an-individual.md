@@ -1,4 +1,4 @@
-# Donate to a Project as an Individual
+# Donate as an Individual
 
 As an Individual, you can donate a minimum of $5. When donating to a project, you may request that your donation is used towards all project needs or a mentorship funding goal.
 
@@ -8,7 +8,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 2. Click **Donate** CTA on a project card.
 
-![](../../../.gitbook/assets/7418565.png)
+![](../../../.gitbook/assets/donate-to-a-project.png)
 
 #### Result: New Donation form appears
 

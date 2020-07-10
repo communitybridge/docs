@@ -12,8 +12,8 @@ Keep these items ready before you begin:
 **To Sponsor an Event**
 
 1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Select **Events** tab and select **Sponsor** on an event of interest.  ![](../../../.gitbook/assets/7418583.png)  You are prompted to log in if you have not already done so. The New Donation form appears, for example:                                                                                                                                                                                                         ![](../../../.gitbook/assets/7418588.png) 
-3. Select **Individual** or an **Organization**. If you select **Organization,** you can [add, edit, or delete an organization](donate-as-a-project-sponsor/add-edit-or-delete-an-organization.md) anytime.
+2. Select **Events** tab and select **Sponsor** on an event of interest.   ![](../../../.gitbook/assets/sponsor-an-event.png)   You are prompted to log in if you have not already done so. The New Donation form appears, for example:                                                                                                                                                                                                         ![](../../../.gitbook/assets/7418588.png) 
+3. Select **Individual** or an **Organization**. If you select **Organization,** you can [add, edit, or delete an organization](donate-as-a-sponsor/add-edit-or-delete-an-organization.md) anytime.
 4. Click in the **I want to give** field and type a dollar amount or select a predefined dollar or sponsor option.The **One-time** donation frequency is enabled by default.
 5. For Payment Method, select **Credit or debit card** or **Invoice**.
    * The **Invoice** Payment Method is enabled only if you donate as an **Organization** and select **One-time**.
