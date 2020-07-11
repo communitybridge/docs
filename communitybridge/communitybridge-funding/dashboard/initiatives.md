@@ -1,6 +1,6 @@
 # Initiatives
 
-Initiative page displays the initiatives that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/) Click the initiative to know more about it that can help you decide what particular open source initiative to support funding. You can also learn about the financial aspects of an initiative, view how funds are distributed, and so on. CommunityBridge Funding maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each project that is enrolled for security audit. The Financial tab of a project page lists all these transactions with details so that the entire community can view receipts of expenses.
+Initiatives page displays the initiatives that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/) By selecting one of the initiatives, you can view its dashboard and learn about its sponsors, and how the expenses are distributed. CommunityBridge maintains and displays a transparent ledger of incoming and outgoing funds, which are displayed in financial tab.
 
 **To view details:**
 

@@ -1,6 +1,6 @@
 # Events
 
-You can find out about events and donate to the ones that you want to support. You can register for an event that you want to attend, and possibly be reimbursed for expenses, such as the registration fee. A Dashboard shows high-level information about funding such as how funds are distributed and what the funding goals are. CommunityBridge Funding also maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each event. The Financial tab lists all these transactions with details so that the entire community can view receipts of expenses.
+Events page displays the project related events that are organized for specific reasons. By selecting one of the events, you can view its dashboard, donate to the ones that you want to support, and learn about its sponsors and how the event sponsorship are distributed. You can register for an event that you want to attend, and possibly be reimbursed for expenses, such as the registration fee. CommunityBridge maintains and displays a transparent ledger of incoming and outgoing funds, which are visible on the financial tab.
 
 **To view an Event:**
 
