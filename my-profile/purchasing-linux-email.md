@@ -1,6 +1,6 @@
-# Purchasing Linux Email
+# Purchasing your Linux.com email address
 
-You can purchase a Linux email if you are an Individual Supporter. For more information on Individual Supporter, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/).
+You can purchase a Linux.com email if you are an Individual Supporter. For more information on Individual Supporter, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/).
 
 You can purchase the Individual Supporter by clicking the [Purchase Individual Supporter](https://joinnow.dev.platform.linuxfoundation.org/?project=tlf&product=01t17000007X61GAAS#/enrollment). Once you purchase the Individual Supporter, you can purchase the Linux foundation email.
 

@@ -4,9 +4,9 @@ MyProfile is a dashboard for individuals in the open source community to manage 
 
 * [Manage your profile](managing-your-profile.md)
 * [Change account password](../communitybridge/communitybridge-portal/manage-your-profile/change-password.md)
-* [Link social accounts](linking-social-accounts.md)
+* [Link social accounts](linking-social-accounts/)
 * [Add alternative email accounts](adding-alternative-emails.md)
-* [Purchase Linux email](purchasing-linux-email.md)
+* [Purchase your Linux.com email address](purchasing-linux-email.md)
 * [View your training and certifications ](viewing-training-and-certifications.md)
 * [View your community badges](viewing-certification-badges.md)
 * [View your participation in events](viewing-the-events.md)  
