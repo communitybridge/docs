@@ -1,4 +1,4 @@
-# CommunityBridge Funding
+# Crowd Funding
 
 CommunityBridge Funding is a platform that makes it possible for open source projects to raise money via donations from individuals and corporations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source.
 

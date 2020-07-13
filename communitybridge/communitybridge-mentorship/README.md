@@ -1,4 +1,4 @@
-# CommunityBridge Mentorship
+# Mentorship
 
 CommunityBridge Mentorship is a platform that offers a structured remote learning program for individuals. Experienced open source project professionals mentor aspiring individuals and help them contribute to the open source community. Mentees gain real world experience by working closely with mentors. Companies can hire Mentorship program graduates to expand their workforce.
 
