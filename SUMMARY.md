@@ -14,7 +14,7 @@
 * [Individual Dashboard \(MyProfile\)](my-profile/README.md)
   * [Managing your Profile](my-profile/managing-your-profile.md)
   * [Changing Account Password](my-profile/changing-account-password.md)
-  * [Link Social Accounts](my-profile/link-social-accounts.md)
+  * [Linking Social Accounts](my-profile/linking-social-accounts.md)
   * [Adding Alternative Emails](my-profile/adding-alternative-emails.md)
   * [Purchasing Linux Email](my-profile/purchasing-linux-email.md)
   * [Viewing Training and Certifications](my-profile/viewing-training-and-certifications.md)
