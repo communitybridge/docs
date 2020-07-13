@@ -1,6 +1,6 @@
 # Managing your Profile
 
-You can view and edit your profile from My Profile page. You can manage your profile activities such as uploading your profile picture, updating the first name, last name, and many other activities.
+You can view and edit your profile from your Individual Dashboard / MyProfile page. You can update your profile picture, reset your password, update your first and last name, and much more.
 
 To edit your profile, perform the following steps:
 
