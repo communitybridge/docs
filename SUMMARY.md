@@ -11,7 +11,7 @@
   * [Forgot Password](sso/forgot-password.md)
   * [Have a question](sso/have-a-question.md)
   * [Sign out](sso/log-out.md)
-* [Manage My Profile](my-profile/README.md)
+* [Individual Dashboard \(MyProfile\)](my-profile/README.md)
   * [Managing your Profile](my-profile/managing-your-profile.md)
   * [Changing Account Password](my-profile/changing-account-password.md)
   * [Managing Social Profile Accounts](my-profile/managing-social-profile-accounts.md)
