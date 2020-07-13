@@ -1,4 +1,4 @@
-# Managing Social Profile Accounts
+# Link Social Accounts
 
 You can manage and link your social profile accounts such as google, Twitter, GitHub and LinkedIn accounts to your LF account. Using these social media accounts, you can sign into the LF account as well.
 
