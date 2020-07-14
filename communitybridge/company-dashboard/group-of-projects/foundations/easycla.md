@@ -65,5 +65,5 @@ It shows projects of the foundation that are EasyCLA enabled. Each project card 
 
 You can also select a project from the Foundation drop down list or type a project name in **Search** field. The drop down list shows projects of the foundation that are EasyCLA enabled.
 
-![](../../../.gitbook/assets/foundation-drop-down.png)
+![](../../../../.gitbook/assets/foundation-drop-down.png)
 

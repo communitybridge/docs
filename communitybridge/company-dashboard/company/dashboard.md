@@ -11,10 +11,10 @@
 Following are the components of Foundations page:
 
 * **Discover More:** shows all the foundations irrespective of your membership. For details, see [Foundations](https://docs.linuxfoundation.org/community-bridge/foundation).
-* **FOUNDATIONS MY ORGANIZATION IS A MEMBER OF:** shows the foundations your organization has joined as a member. To view details about the foundation card, see [Foundation Card Details](../foundations/#foundation-card-details).
+* **FOUNDATIONS MY ORGANIZATION IS A MEMBER OF:** shows the foundations your organization has joined as a member. To view details about the foundation card, see [Foundation Card Details](../group-of-projects/foundations/#foundation-card-details).
   * **View Projects:** Shows all the projects that are associated with the foundation.
-  * **View Details:** Opens the foundation detail window. For more information, see [Foundation Details](../foundations/).
-* **FOUNDATIONS YOU MIGHT BE INTERESTED IN:** shows all the foundations that you can join as a member. Click **Learn More** to know more about the foundation. For details, see [Foundation Details](../foundations/).
+  * **View Details:** Opens the foundation detail window. For more information, see [Foundation Details](../group-of-projects/foundations/).
+* **FOUNDATIONS YOU MIGHT BE INTERESTED IN:** shows all the foundations that you can join as a member. Click **Learn More** to know more about the foundation. For details, see [Foundation Details](../group-of-projects/foundations/).
 
 ## **Security** <a id="security"></a>
 

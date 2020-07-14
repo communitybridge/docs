@@ -64,7 +64,7 @@ Dependencies lists an inventory of repositories and its associated dependencies 
 
 You can sort dependencies for a repository and package by selecting a value from the Repository and Packages drop-down lists.
 
-![Dependencies](../../../.gitbook/assets/dependency.png)
+![Dependencies](../../../../.gitbook/assets/dependency.png)
 
 ### Packages <a id="packages"></a>
 
