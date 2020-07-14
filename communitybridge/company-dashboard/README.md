@@ -1,4 +1,4 @@
-# CommunityBridge Portal
+# Company Dashboard
 
 CommunityBridge web portal is a specially designed website that brings information from various CommunityBridge services, such as Security, Mentorship, Crowdfunding, and so on, to a single platform. Based on your membership level with CommunityBridge, you can visualize the service related statistics for your projects and community on this platform, and manage your organization accordingly.
 

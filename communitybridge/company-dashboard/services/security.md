@@ -14,7 +14,7 @@ Represents a doughnut chart that shows total number of licenses \(in the middle 
 
 The value in the middle of the doughnut chart shows the total number of licenses. Mouse over a color to see the license name, and its percentage of usage.
 
-![Unique License in Stack](../../../../.gitbook/assets/unique-license-in-stack.png)
+![Unique License in Stack](../../../.gitbook/assets/unique-license-in-stack.png)
 
 ### REMEDIATION RATE
 
@@ -31,7 +31,7 @@ Mouse over a color to see the total number of vulnerabilities for recommended or
 
 Represents a doughnut chart that shows total number of projects \(in the middle of the chart\), and name of individual programming languages by percentage with respect to the language's usage in all projects. This chart shows the top 10 licenses by name, and all other licenses are grouped in **OTHERS** category.
 
-![Language Distribution Across Projects](../../../../.gitbook/assets/language-distribution-across-projects.png)
+![Language Distribution Across Projects](../../../.gitbook/assets/language-distribution-across-projects.png)
 
 The value in the middle of the doughnut chart shows the total number of projects. Mouse over a color to see the language name, and its percentage of usage.
 
