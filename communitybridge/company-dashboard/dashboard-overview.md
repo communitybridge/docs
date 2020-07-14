@@ -20,6 +20,20 @@ This provides CLA highlights for the project.
 * **TOTAL CONTRIBUTORS** shows the total number of Individual and Corporate contributors including approved contributors.
 * **REPOSITORIES USING EASYCLA** shows total number git repositories of projects that use EasyCLA.
 
+### FOUNDATIONS WITH EASYCLA ENABLED
+
+
+
+
+
+
+
+
+
+
+
+
+
 Data for other dashboards are displayed based on:
 
 * [If your Company has signed CLA](projects/easycla/#if-your-company-has-signed-cla)
