@@ -6,7 +6,7 @@ CommunityBridge web portal is a specially designed website that brings informati
 
 * [Frequently Asked Questions \(FAQ\)](../)
 * [Log In](../../sso/sign-in/)
-* [Manage Your Account](manage-your-profile/)
+* [Manage Your Account](manage-your-profile.md)
 
 ### Support or Contact
 
