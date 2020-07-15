@@ -6,19 +6,35 @@ description: This page describes how to view and edit organization profile infor
 
 The organization profile header shows the organization name, logo, website URL, address, contact information, and last updated date and time.
 
-![Organization Profile Header](../../.gitbook/assets/org-profile-header.png)
-
 ### How to Edit Organization Information ? <a id="how-to-edit-organization-information"></a>
 
-1. On the organization profile header, click ![](../../.gitbook/assets/edit-cta-button.png) .   
-**Result:** **Edit Organization Information** page appears.
+1. On the organization profile header, click ![](../../.gitbook/assets/edit-cta-button.png) . 
 
-![Edit Organization Information](../../.gitbook/assets/edit-organization-information.png)
+![Organization Profile Header](../../.gitbook/assets/org-profile-header%20%281%29.png)
 
-2. Add/Update organization information, such as click **Upload Logo to** add/update a logo for your organization, add information in the respective fields, and click **Save**.   
-**Note:** You cannot edit the company name.
+2. The Edit Organization Information screen appears. You can update the following details as mentioned in the following table:
 
-### Add/Delete Organization Administrator/Alternate Account Owner <a id="add-delete-organization-administrator-alternate-account-owner"></a>
+| **Field** | **Action** |
+| :--- | :--- |
+| **Organization Logo**  | Click Upload logo to upload your organization logo |
+| **Organization Name** | Update your organization name  |
+| **Website** | Update the organization website url |
+| **Street Address** | Update the street address of your organization |
+| **City**  | Update the city of the organization |
+| **State/Province** | Update the state/province of the organization |
+| **Postal  Code** | Update the postal  code of the organization |
+| **Country**  | Update the country of the organization |
+| **Telephone Number** | Update the telephone number of the organization |
+
+![Edit Organization Information](../../.gitbook/assets/edit-organization-information%20%281%29.png)
+
+{% hint style="info" %}
+You cannot edit the company name.
+{% endhint %}
+
+3.After updating the fields, click **Save** to update your organization.
+
+### Add/Delete Organization Administrator/Alternate Account Owner
 
 Below Organization profile header section, you can see a section where you can add/delete administrators or co-owner for your organization. If you have already added administrators for your organization, this section shows the profile photos, names, and email addresses of administrators of your organization.
 
