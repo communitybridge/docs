@@ -12,7 +12,7 @@
   * [Have a question](sso/have-a-question.md)
   * [Sign out](sso/log-out.md)
 * [Linux Individual Supporter Program](linux-individual-supporter-program/README.md)
-  * [Purchasing Linux Individual Supporter Program](linux-individual-supporter-program/purchasing-linux-individual-supporter-program.md)
+  * [Enrolling in the Linux Individual Supporter Program](linux-individual-supporter-program/purchasing-linux-individual-supporter-program.md)
   * [Purchasing Linux Email Alias for Lifetime](linux-individual-supporter-program/purchasing-linux-email-alias-for-lifetime.md)
 * [Individual Dashboard \(MyProfile\)](my-profile/README.md)
   * [Managing your Profile](my-profile/managing-your-profile.md)
