@@ -14,5 +14,3 @@ To change your profile password, perform the following steps:
 
 ![](../.gitbook/assets/change-pwd%20%281%29.png)
 
-## 
-
