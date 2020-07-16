@@ -14,11 +14,11 @@ To enroll in the Linux Individual Supporter program, follow these steps:
 
 ![Contact Details](../.gitbook/assets/indidual_program.png)
 
-5. On the next Checkout page, you can view the **Order Details** and price.  Please provide the card details under **Payment Information**, check the Terms and Conditions box and click **Submit**. 
+5. On the next **Checkout** page, you can view the **Order Detail** and price.  Please provide the billing address details if different from your mailing address, enter the credit card details under **Payment Information**, check the Terms and Conditions box, and click **Submit**. 
 
 ![Checkout](../.gitbook/assets/checkout1.png)
 
-6. On the Confirmation page, you can view the **Order Number**, the link to My Profile app, and  Individual Support FAQ as well as a link to purchase Linux.com email. 
+6. On the Confirmation page, you can view your **Order Number**, the link to My Profile app, and  Individual Support FAQ as well as a link to purchase Linux.com email. 
 
 ![Order Confirmation](../.gitbook/assets/order_confirmation.png)
 
