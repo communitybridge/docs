@@ -8,7 +8,7 @@ MyProfile is a dashboard for individuals in the open source community to manage 
 * [Add alternative email accounts](adding-alternative-emails.md)
 * [Purchase your Linux.com email address](purchasing-linux-email.md)
 * [View your training and certifications ](viewing-training-and-certifications.md)
-* [View your community badges](viewing-certification-badges.md)
+* [View your community badges](viewing-community-badges.md)
 * [View your participation in events](viewing-the-events.md)  
 * [View your transactions](viewing-the-transactions.md)
 
