@@ -19,7 +19,7 @@ To edit your profile, perform the following steps:
 | **Phone** | Update your phone number |
 | **Countries** | Select your country from this list |
 
-![Personal Information](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAywjncHWVDoRLz4kEs%2F-MAyxpVf_AClm9tkLm8Y%2FPersonal_Info.png?alt=media&token=00f1e7b8-58ed-48ff-90d0-6de57bbafdc3)
+![Edit Profile](../.gitbook/assets/editprofile.png)
 
 3.After updating the fields, click **Save** to update your profile.
 
