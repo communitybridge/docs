@@ -14,5 +14,3 @@ MyProfile is a dashboard for individuals in the open source community to manage 
 
 ![](../.gitbook/assets/image_fullprofile%20%282%29.jpg)
 
-
-
