@@ -10,7 +10,7 @@ To add alternative emails to your LF account, perform the following steps:
 
 2.The Edit Email ID's screen appears with list of email accounts that are associated with the LF account. Click **Add More**. The **Alternative Emails** field appears. Enter the alternative email that you want to add and click **Save**.
 
-![Edit Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzAjJ6MY2J-jcRSOV4%2F-MAzI0G6G054tAs5tX8b%2FEdit_email.png?alt=media&token=fdfb15d6-7fce-46d3-84f9-f8a69fa93acc)
+![Adding Alternate Emails](../.gitbook/assets/alnernate-emails.png)
 
 3.A confirmation mail will be sent your alternative email ID. Click Verify Email to verify the mail.
 
