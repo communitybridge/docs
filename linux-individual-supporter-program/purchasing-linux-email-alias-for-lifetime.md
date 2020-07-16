@@ -1,22 +1,22 @@
 # Purchasing Linux Email Alias for Lifetime
 
-You can purchase a Linux.com email address alias if you are an Individual Supporter. For more information on Individual Supporter, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/).
+You can purchase the Linux.com email address alias if you are an active Individual Supporter. For more information on the Individual Supporter program, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/).
 
-To purchase the Linux foundation email alias, perform the following steps:
+To purchase the Linux Foundation email alias from My Profile app, perform the following steps:
 
-1.Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Purchase Email button from the **Linux.com Email**.
+1. Login to [My Profile](https://myprofile.linuxfoundation.org/) and select Purchase Email CTA button on the **Linux.com Email** section.
 
 ![Purchase Email](../.gitbook/assets/linux_email.png)
 
-2.If you are already an Individual Supporter,  you will be navigated to the Lifetime Linux.com Email Alias Add-On page, **Contact Details** tab. 
+2.If you are enrolled in the Individual Supporter program,  you will be navigated to the Lifetime Linux.com Email Alias Add-On form, **Contact Details** page.
 
-![Contact Details](../.gitbook/assets/contact_details.png)
+![](../.gitbook/assets/lifetime-email-form.png)
 
-3.The Checkout screen appears. This screen provides you with the **Order Details** and price.  Provide the card details under **Payment Information**, check the Terms and Conditions box and click **Submit**. 
+3. On the next Checkout page, you can view the **Order Details** and price.  Please provide the card details under **Payment Information**, check the Terms and Conditions box and click **Submit**.
 
 ![Checkout Details](../.gitbook/assets/email_check1.png)
 
-4.The Confirmation screen appears. This screen provides **Order Number**, My Profile link, and Individual Support FAQ. 
+4.On the Confirmation page, you can view the **Order Number**, the link to My Profile app, and  Individual Support FAQ.
 
 ![Confirmation Details ](../.gitbook/assets/email_order.png)
 

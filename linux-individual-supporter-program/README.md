@@ -1,14 +1,14 @@
 # Linux Individual Supporter Program
 
-Linux foundation offers individuals such as programmers, software professionals,  developers, system  administrators and tech enthusiasts an avenue to help advance important community and industry initiatives that increase diversity in tech and access to new technologies in the form of a program called Linux Individual Supporter program. 
+Linux Foundation offers all individuals, from developers to software professionals and tech enthusiasts, a way to help advance important community and industry initiatives that increase diversity in tech and access to new technologies through enrollment in a Linux Individual Supporter program. 
 
-As an individual you can enroll into this program. The main benefits of Linux Individual Supporter program are:
+The benefits of being an active Linux Individual Supporter program are:
 
-* You can purchase your own Linux.com email address.
-* You will receive a weekly Linux.com newsletter that provides you with news, analysis and technical tips.
-* You can get discount on the Linux foundation open enrollment training courses. 
-* You can get discount on Linux foundation event. 
-* You can get discount on certification exams. 
+* Option to purchase Linux.com email alias with active Linux Individual Supporter enrollment.
+* A weekly Linux.com newsletter that includes Linux news, analysis and technical tips to keep you ahead of the curve.
+* Up to 10% discount on [Linux Foundation’s open-enrollment training courses](http://training.linuxfoundation.org/linux-courses).
+* 30% off registration fees on one [Linux Foundation event](https://events.linuxfoundation.org/) every year.
+* $100 off Certification Exams from the [Linux Foundation Certification Program](http://www.linuxfoundation.org/certification).
 
 For more information:
 
