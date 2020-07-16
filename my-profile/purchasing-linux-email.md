@@ -8,11 +8,19 @@ You can also checkout the [Individual Supporter FAQs](https://www.linuxfoundatio
 
 To purchase the Linux foundation email, perform the following steps:
 
-1.Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Purchase Email button from the **Linux.Com Email**.
+1. Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Purchase Email button from the **Linux.com Email**.
 
 ![Linux.com email purchase](../.gitbook/assets/purchaselinuxemail.png)
 
-2.The Edit @linux.com Email Service screen appears. In the **Email Alias**, enter the Linux email that you want and in the **Forward to** enter the email ID where you want to receive the emails that will be sent to Linux email ID. Click **Save** after entering all the details.
+2. If you are already an Individual Supporter,  you will be presented a check-out flow for purchasing the Linux.com email address. 
+
+![](../.gitbook/assets/linuxemailpurchaseflow.png)
+
+3. Once you have already completed the transaction, going back to the Individual Dashboard \(My Profile\) application, will provide you options to configure the email forwarding address for your linux.com email alias by clicking on the settings ![](../.gitbook/assets/settings%20%281%29.png) button.
+
+![](../.gitbook/assets/configlinuxbutton.png)
+
+The Edit @linux.com Email Service screen now appears. In the **Email Alias**, enter the Linux email that you were issued as part of the purchase flow and in the **Forward to** enter the email ID where you want to receive the emails that will be sent to Linux email ID. Click **Save** after entering all the details.
 
 {% hint style="info" %}
 Emails sent to Linux email ID will be forwarded to the Forward email ID. The mails will not be delivered to the Linux email ID.
