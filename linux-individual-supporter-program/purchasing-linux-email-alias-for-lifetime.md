@@ -16,7 +16,7 @@ To purchase the Linux Foundation email alias from My Profile app, perform the fo
 
 ![Checkout Details](../.gitbook/assets/email_check1.png)
 
-4.On the Confirmation page, you can view the **Order Number**, the link to My Profile app, and  Individual Support FAQ.
+4.On the Confirmation page, you can view your **Order Number**, the link to My Profile app, and  Individual Support FAQ.
 
 ![Confirmation Details ](../.gitbook/assets/email_order.png)
 
