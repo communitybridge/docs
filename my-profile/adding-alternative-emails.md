@@ -4,9 +4,9 @@ You can also add the alternative emails to your LF account. You can use these al
 
 To add alternative emails to your LF account, perform the following steps:
 
-1.Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Edit ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzAjJ6MY2J-jcRSOV4%2F-MAzDR2CQ9800ZqwmW-N%2FEdit_icon.png?alt=media&token=bbd539b1-263d-4988-bbe3-45f9efb1d253) icon from the **Alternative Email ID's**.
+1.Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Edit ![](../.gitbook/assets/settings%20%281%29.png) icon from the **Alternative Email ID's**.
 
-![Alternative Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzIBXYHTg_cnHy9XqX%2F-MAzJ8VEvucH1esdSoY6%2FAlternative%20Email.png?alt=media&token=28deec73-6d97-435d-b236-604b48544236)
+![](../.gitbook/assets/alnernate-email-button.png)
 
 2.The Edit Email ID's screen appears with list of email accounts that are associated with the LF account. Click **Add More**. The **Alternative Emails** field appears. Enter the alternative email that you want to add and click **Save**.
 
