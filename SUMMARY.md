@@ -18,7 +18,7 @@
   * [Adding Alternative Emails](my-profile/adding-alternative-emails.md)
   * [Purchasing an Linux.com email address alias](my-profile/purchasing-linux-email.md)
   * [Viewing Training and Certifications](my-profile/viewing-training-and-certifications.md)
-  * [​Viewing Certification Badges](my-profile/viewing-certification-badges.md)
+  * [​Viewing Community Badges](my-profile/viewing-certification-badges.md)
   * [Viewing the Events](my-profile/viewing-the-events.md)
   * [Viewing the Transactions](my-profile/viewing-the-transactions.md)
 * [CommunityBridge](communitybridge/README.md)

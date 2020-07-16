@@ -1,4 +1,4 @@
-# ​Viewing Certification Badges
+# ​Viewing Community Badges
 
 In [My Profile](https://myprofile.linuxfoundation.org/) page you can view your certification badges that you enrolled into and awarded with the certificate after passing it. You can also verify the certificate by clicking on the certificate badge. Clicking of the badge will take you to the [Certification Verification](https://training.linuxfoundation.org/certification/verify/) page.
 
