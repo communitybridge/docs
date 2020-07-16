@@ -1,6 +1,6 @@
 # Linux Individual Supporter Program
 
-Linux Foundation offers all individuals, from developers to software professionals and tech enthusiasts, an avenue to help advance important community and industry initiatives that increase diversity in tech and access to new technologies in a form of a program called Linux Individual Supporter. 
+Linux Foundation offers all individuals, from developers to software professionals and tech enthusiasts, a way to help advance important community and industry initiatives that increase diversity in tech and access to new technologies through enrollment in a Linux Individual Supporter program. 
 
 The benefits of being an active Linux Individual Supporter program are:
 
