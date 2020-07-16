@@ -21,6 +21,7 @@
   * [​Viewing Community Badges](my-profile/viewing-community-badges.md)
   * [Viewing the Events](my-profile/viewing-the-events.md)
   * [Viewing the Transactions](my-profile/viewing-the-transactions.md)
+  * [View Roles](my-profile/view-roles.md)
 * [CommunityBridge](communitybridge/README.md)
   * [Crowd Funding](communitybridge/communitybridge-funding/README.md)
     * [Dashboard](communitybridge/communitybridge-funding/dashboard/README.md)
