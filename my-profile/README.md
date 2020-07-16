@@ -14,3 +14,5 @@ MyProfile is a dashboard for individuals in the open source community to manage 
 
 ![My Profile](../.gitbook/assets/indiv_profile.png)
 
+<img src="../.gitbook/assets/indiv_profile.png" width="640" height=360 />
+
