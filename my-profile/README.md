@@ -12,7 +12,5 @@ MyProfile is a dashboard for individuals in the open source community to manage 
 * [View your participation in events](viewing-the-events.md)  
 * [View your transactions](viewing-the-transactions.md)
 
-![](../.gitbook/assets/_myprofile.png)
-
 ![](../.gitbook/assets/indiv_profile.png)
 
