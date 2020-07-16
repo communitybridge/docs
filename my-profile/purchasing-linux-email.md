@@ -1,4 +1,4 @@
-# Purchasing an Linux.com email alias
+# Purchasing a Linux.com email alias
 
 You can purchase a Linux.com email address alias if you are an Individual Supporter. For more information on Individual Supporter, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/).
 
