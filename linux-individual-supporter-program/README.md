@@ -12,7 +12,7 @@ As an individual you can enroll into this program. The main benefits of Linux In
 
 For more information:
 
-*  [Linux Foundation Supporter Program](https://www.linuxfoundation.org/about/individual-supporters/). 
+* [Linux Foundation Supporter Program](https://www.linuxfoundation.org/about/individual-supporters/). 
 * [Purchasing Linux Individual Supporter Program](purchasing-linux-individual-supporter-program.md)
 * [Purchasing Linux Email Alias](purchasing-linux-email-alias-for-lifetime.md)
 
