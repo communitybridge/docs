@@ -10,7 +10,11 @@ As an individual you can enroll into this program. The main benefits of Linux In
 * You can get discount on Linux foundation event. 
 * You can get discount on certification exams. 
 
-For more information on this program, refer [Linux Foundation Supporter Program](https://www.linuxfoundation.org/about/individual-supporters/). 
+For more information:
+
+*  [Linux Foundation Supporter Program](https://www.linuxfoundation.org/about/individual-supporters/). 
+* [Purchasing Linux Individual Supporter Program](purchasing-linux-individual-supporter-program.md)
+* [Purchasing Linux Email Alias](purchasing-linux-email-alias-for-lifetime.md)
 
  
 

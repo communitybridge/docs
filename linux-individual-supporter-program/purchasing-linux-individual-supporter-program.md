@@ -1,6 +1,6 @@
 # Purchasing Linux Individual Supporter Program
 
-As an individual, you can purchase Linux Individual Supporter program by purchasing it for $99. You should have a LF account to purchase this program.  
+As an individual, you can purchase Linux Individual Supporter program by purchasing it for $99 for one year. You should have a LF account to purchase this program.  
 
 To Purchase a Linux Individual Supporter program, perform the following steps:
 
@@ -22,7 +22,7 @@ To Purchase a Linux Individual Supporter program, perform the following steps:
 
 ![Checkout](../.gitbook/assets/checkout1.png)
 
-6.The Confirmation screen appears. This screen provides order number, My Profile link, Individual Support FAQ and link to purchase Linux.com email. 
+6.The Confirmation screen appears. This screen provides **Order Number**, My Profile link, Individual Support FAQ and link to purchase Linux.com email. 
 
 ![Order Confirmation](../.gitbook/assets/order_confirmation.png)
 
