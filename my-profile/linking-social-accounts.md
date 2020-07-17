@@ -1,10 +1,8 @@
 # Link Your Social Accounts
 
-You can manage and link your social profiles accounts like Google, Twitter, GitHub and LinkedIn to your Linux Foundation account. You can use Google, GitHub, LinkedIn and Facebook to sign in to the Linux Foundation account as well.
+1. To manage and link your social profile accounts, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the settings icon ![](../.gitbook/assets/settings%20%281%29.png) on the **Linked Accounts** section.
 
-To manage and link your social profile accounts, follow these steps:
-
-1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the settings icon ![](../.gitbook/assets/settings%20%281%29.png) on the **Linked Accounts** section.
+You can link social profiles accounts like Google, Twitter, GitHub and LinkedIn to your Linux Foundation account. You can use Google, GitHub, LinkedIn and Facebook to sign in to the Linux Foundation account as well.
 
 ![](../.gitbook/assets/social-button.png)
 
