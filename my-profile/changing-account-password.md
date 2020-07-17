@@ -1,12 +1,8 @@
-# Changing Account Password
+# Change Account Password
 
-## Changing Account Password <a id="changing-account-password"></a>
+To change your Linux Foundation password, perform the following steps:
 
-You can change your profile password from My Profile page.
-
-To change your profile password, perform the following steps:
-
-1.Login into [My Profile](https://myprofile.linuxfoundation.org/) page. The My Profile dashboard appears. Click the **Change Password** button.
+1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). When the dashboard appears,  Click the **Change Password** button.
 
 ![](../.gitbook/assets/change-pwd-button.png)
 

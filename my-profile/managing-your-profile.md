@@ -1,6 +1,6 @@
-# Managing your Profile
+# Manage your Profile
 
-You can view and edit your profile on the Individual Dashboard / MyProfile page. You can update your profile picture, personal information, change your password, add alternative emails,  and much more.
+You can view and edit your Linux Foundation profile by updating your profile picture and personal information, changing your password, adding alternative emails to list just a few self-service options.
 
 To edit your profile, perform the following steps:
 
@@ -15,11 +15,11 @@ To edit your profile, perform the following steps:
 | **Profile Photo**  | Click Upload to upload your profile photo |
 | **First Name** | Update your first name  |
 | **Last Name** | Update your last name |
-| **Pronoun** | Select the required pronoun against your name from this list |
+| **Pronoun** | Select the pronoun from the list |
 | **Phone** | Update your phone number |
 | **Countries** | Select your country from this list |
 
 ![Edit Profile](../.gitbook/assets/editprofile.png)
 
-3. After making the changes, click **Save** to save the changes. 
+3. After making the changes, click **Save**. 
 

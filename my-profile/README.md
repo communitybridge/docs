@@ -1,6 +1,6 @@
-# Individual Dashboard \(MyProfile\)
+# MyProfile Dashboard
 
-MyProfile is a dashboard for individuals in the open source community to manage your community identity, maintain credentials for your SSO account and much more. On your Individual Dashboard, you can do the following:
+MyProfile app is a self-service dashboard where you can manage your personal information, change your password, keep track of your emails and community identities, and much more. Select a topic below to view a detailed information about that section. 
 
 * [Manage your profile](managing-your-profile.md)
 * [Change account password](changing-account-password.md)
