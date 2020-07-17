@@ -2,7 +2,7 @@
 
 To add alternative emails to your Linux Foundation account, follow these steps:
 
-1.Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). click the manage icon ![](../.gitbook/assets/settings%20%281%29.png) on the **Alternative Email** section.
+1.Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). Click on the settings icon ![](../.gitbook/assets/settings%20%281%29.png) on the **Alternative Email** section.
 
 ![](../.gitbook/assets/alnernate-email-button.png)
 
