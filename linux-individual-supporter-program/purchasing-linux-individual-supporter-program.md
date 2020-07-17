@@ -20,7 +20,7 @@ To enroll in the Linux Individual Supporter program, follow these steps:
 
 6. On the Confirmation page, you can view your **Order Number**, the link to My Profile app, and  Individual Support FAQ as well as a link to purchase Linux.com email. 
 
-![Order Confirmation](../.gitbook/assets/order_confirmation.png)
+![](../.gitbook/assets/individual-supporter-confirmation-.png)
 
 
 
