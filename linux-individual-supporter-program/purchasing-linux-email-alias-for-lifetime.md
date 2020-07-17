@@ -50,7 +50,3 @@ To purchase Linux.com email alias from the Individual Supporter purchase confirm
 
 2. Repeat Steps 2 to Step 4 from [Purchasing through My Profile App](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app) to complete your purchase.
 
-
-
-
-
