@@ -6,6 +6,8 @@ To enroll in the Linux Individual Supporter program, follow these steps:
 
 1. Navigate to the Linux Foundation [Individual Supporters](https://www.linuxfoundation.org/about/individual-supporters/) webpage and select the **Individual $99** CTA button. 
 
+![](../.gitbook/assets/individual-supporter-wp-cta-button.png)
+
 2. On the next page,  select **SUPPORT LINUX AND OPEN SOURCE TODAY** CTA button to be navigated to the Individual Enrollment Supporter form. 
 
 ![](../.gitbook/assets/individual-supporter.png)
