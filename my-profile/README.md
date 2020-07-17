@@ -15,7 +15,7 @@ Select a topic below to view detailed information about that section.
 * [View your community badges](viewing-community-badges.md)
 * [View your transactions](viewing-the-transactions.md)
 
-![MyProfile - Identities and Badges](../.gitbook/assets/1.png)
+![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities.png)
 
 ![MyProfile - Events and Community Participation](../.gitbook/assets/2.png)
 
