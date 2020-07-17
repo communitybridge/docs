@@ -4,9 +4,11 @@ You can purchase Lifetime Linux.com email alias if you are an active Individual 
 
 For more information on the Individual Supporter program, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/) webpage.
 
-* Purchase Linux.com email alias from My Profile app 
-* Purchase Linux.com email alias from the Individual Supporter order confirmation screen
-* Purchase Linux.com email alias from the Individual Supporter purchase confirmation email
+You can purchase Linux.com Email Alias using the following options:
+
+* [Purchase Linux.com email alias from My Profile app ](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app)
+* [Purchase Linux.com email alias from the Individual Supporter order confirmation screen](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-order-confirmation)
+* [Purchase Linux.com email alias from the Individual Supporter purchase confirmation email](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-individual-supporter-purchase-confirmation-email)
 
 ### Purchasing through My Profile App
 
