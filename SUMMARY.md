@@ -14,7 +14,7 @@
 * [Linux Individual Supporter Program](linux-individual-supporter-program/README.md)
   * [Enroll in the Linux Individual Supporter Program](linux-individual-supporter-program/purchasing-linux-individual-supporter-program.md)
   * [Purchase Lifetime Linux.com Email Alias](linux-individual-supporter-program/purchasing-linux-email-alias-for-lifetime.md)
-* [MyProfile Dashboard](my-profile/README.md)
+* [MyProfile App Dashboard](my-profile/README.md)
   * [Manage Your Profile](my-profile/managing-your-profile.md)
   * [Change Your Password](my-profile/changing-account-password.md)
   * [Link Your Social Accounts](my-profile/linking-social-accounts.md)

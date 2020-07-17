@@ -1,4 +1,4 @@
-# MyProfile Dashboard
+# MyProfile App Dashboard
 
 MyProfile app is a self-service dashboard where you can manage your personal information, change your password, keep track of your emails and community identities, and much more. Select a topic below to view a detailed information about that section. 
 

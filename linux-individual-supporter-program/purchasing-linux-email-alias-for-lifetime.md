@@ -6,9 +6,9 @@ For more information on the Individual Supporter program, please see [Individual
 
 You can purchase Linux.com Email Alias using the following options:
 
-* Purchase Linux.com email alias on My Profile app 
-* Purchase Linux.com email alias from the Individual Supporter order confirmation screen
-* Purchase Linux.com email alias from the Individual Supporter purchase confirmation email
+* [Purchase Linux.com email alias on My Profile app](purchasing-linux-email-alias-for-lifetime.md#purchase-linux-com-email-on-my-profile-app) 
+* [Purchase Linux.com email alias from the Individual Supporter order confirmation screen](purchasing-linux-email-alias-for-lifetime.md#purchase-linux-com-email-from-individual-supporter-order-confirmation)
+* [Purchase Linux.com email alias from the Individual Supporter purchase confirmation email](purchasing-linux-email-alias-for-lifetime.md#purchase-linux-com-email-from-the-individual-supporter-purchase-confirmation-email)
 
 ### Purchase Linux.com email on My Profile App
 
@@ -34,23 +34,21 @@ To purchase Linux.com email alias from My Profile app, follow these steps:
 
 To purchase Linux.com email alias from the order confirmation screen after you complete the Individual Supporter purchase, follow these steps:
 
-1.After purchasing the Individual Supporter program, the Order Confirmation screen appears. Click the **Click to Purchase** button to purchase Linux.com email alias. 
+1. After purchasing the Individual Supporter program, on the Order Confirmation page, click on the **Purchase Linux.com Email Alias** CTA button to purchase Linux.com email alias. 
 
 ![](../.gitbook/assets/individual-supporter-confirmation-new.png)
 
-2.You have to repeat Steps 2 to Step 4 from [Purchasing through My Profile App](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app) to finish the purchase of Linux.com email alias. 
+2. Repeat Steps 2 through Step 4 from [Purchasing through My Profile App](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app) flow to complete your purchase.
 
 ### Purchase Linux.com email from the Individual Supporter Purchase Confirmation Email
 
-You will receive a confirmation email from Linux Foundation after purchasing the Individual Supporter program. You can also purchase Linux.com email alias from a link available in the email. 
+To purchase Linux.com email alias from the Individual Supporter purchase confirmation email, follow these steps:
 
-To purchase Linux.com email alias from the Individual Supporter purchase confirmation email, follow the following steps:
-
-1.After purchasing the Individual Supporter program, the Order Confirmation email will be sent to your registered email. Click **Get Email Add-On** button to purchase Linux.com email alias. 
+1. After purchasing the Individual Supporter program, the Order Confirmation email will be sent to your registered email. Click on **Get Email Add-On** CTA button at the bottom of the email to purchase Linux.com email alias. 
 
 ![Email Confirmation](../.gitbook/assets/emailconfirmation.png)
 
-2.You have to repeat Steps 2 to Step 4 from [Purchasing through My Profile App](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app) to finish the purchase of Linux.com email alias.
+2. Repeat Steps 2 to Step 4 from [Purchasing through My Profile App](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app) to complete your purchase.
 
 
 
