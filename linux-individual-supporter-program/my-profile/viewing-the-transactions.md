@@ -1,24 +1,26 @@
 # View Transactions
 
-In [My Profile](https://myprofile.linuxfoundation.org/) page you can view your transactions that you have carried with the Linux Foundation in **My Transactions** tab. My Transactions tab provides you:
+To view your transactions for all the purchases you made through Linux Foundation, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and scroll down to My Transactions section. In this section you can view the following transaction details: 
 
-* List of all your transactions in Linux Foundation
-* Order ID
+* Order ID number
+* Transaction ID \(the name of the product, event, training or certification course\)
+* Transaction date
 * Transaction status
-* Transaction price
-* Transaction date and time
+* Transaction value
 
 ![](../../.gitbook/assets/all-transactions.png)
 
-Transactions can be filtered for the following three categories:
+Transactions can be filtered by the following three categories:
 
-**Event ticket purchases**
+**Event Tickets** 
 
 ![](../../.gitbook/assets/eventtransactions.png)
 
-**Training and Certification course/exam purchases**
+**Training and Certifications** 
 
-**Linux Individual Supporter program and Linux.com email purchases**
+![](../../.gitbook/assets/my-transactions-training-and-cert.png)
+
+**Linux Individual Supporter program and Linux.com** 
 
 ![](../../.gitbook/assets/individualsupporter-linuxemail.png)
 
