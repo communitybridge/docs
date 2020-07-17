@@ -28,7 +28,7 @@ To purchase Linux.com email alias from My Profile app, follow these steps:
 
 4.On the Confirmation page, you can view your **Order Number**, the link to My Profile app, and  Individual Support FAQ.
 
-![Confirmation Details ](../.gitbook/assets/email_order.png)
+![Confirmation Details ](../.gitbook/assets/email_order-copy.png)
 
 ### Purchasing through Order Confirmation
 
