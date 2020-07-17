@@ -38,7 +38,7 @@ To purchase Linux.com email alias from the order confirmation screen when you co
 
 1.After purchasing the Individual Supporter program, the Order Confirmation screen appears. Click **Lifetime Linux.com Email Alias Add-On** button to purchase Linux.com email alias. 
 
-![](../.gitbook/assets/order_confirmation-copy.png)
+![Linux.com Email Alias](../.gitbook/assets/order_confirmation-copy%20%281%29.png)
 
 2.You have to repeat Steps 2 to Step 4 from [Purchasing through My Profile App](purchasing-linux-email-alias-for-lifetime.md#purchasing-through-my-profile-app) to finish the purchase of Linux.com email alias. 
 
