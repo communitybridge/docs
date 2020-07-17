@@ -17,5 +17,9 @@
 
 ![](../.gitbook/assets/edit-my-information-modal.png)
 
-3. After you finish making the changes, click **Save**. 
+3. After you finish making the changes, click **Save**.
+
+4. If any of your data is inaccurate or needs to be updated, you can reach also out to Linux Foundation Support team by clicking on **Please contact support if your data is inaccurate or needs to be updated.** text link. 
+
+![](../.gitbook/assets/contact-support-link.png)
 
