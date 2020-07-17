@@ -4,11 +4,11 @@ You can view and edit your Linux Foundation profile by updating your profile pic
 
 To edit your profile, follow these steps:
 
-1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). When the dashboard appears, click the **Edit Profile** CTA button.
+1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Edit Profile** CTA button.
 
 ![](../../.gitbook/assets/edit-profile-button.png)
 
-2. On the Edit Personal Information modal you can update the following details:
+2. On the **Edit Personal Information** modal you can update the following details:
 
 | **Field** | **Action** |
 | :--- | :--- |

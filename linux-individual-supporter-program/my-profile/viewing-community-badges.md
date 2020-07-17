@@ -1,7 +1,5 @@
 # ​View Community Badges
 
-You can view your community badges in the **Badges** section of your profile. 
-
 To view the badges you were awarded, navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and scroll down to the **Badges** section.
 
 ![](../../.gitbook/assets/badges%20%281%29.png)
