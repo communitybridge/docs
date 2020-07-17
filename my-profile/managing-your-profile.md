@@ -1,8 +1,8 @@
-# Manage your Profile
+# Manage Your Profile
 
 You can view and edit your Linux Foundation profile by updating your profile picture and personal information, changing your password, adding alternative emails to list just a few self-service options.
 
-To edit your profile, perform the following steps:
+To edit your profile, follow these steps:
 
 1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). When the dashboard appears, click the **Edit Profile** CTA button.
 

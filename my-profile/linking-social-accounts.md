@@ -1,23 +1,23 @@
-# Linking Social Accounts
+# Link Your Social Accounts
 
-You can manage and link your social profile accounts such as google, Twitter, GitHub and LinkedIn accounts to your LF account. Using these social media accounts, you can sign into the LF account as well.
+You can manage and link your social profile accounts like Google, Twitter, GitHub and LinkedIn to your Linux Foundation account. You can use Google, GitHub, LinkedIn and Facebook to sign in to the Linux Foundation account as well.
 
-To manage and link your social profile accounts, perform the following steps:
+To manage and link your social profile accounts, follow these steps:
 
-1.Login into [My Profile](https://myprofile.linuxfoundation.org/) Page and click the settings ![](../.gitbook/assets/settings%20%281%29.png) icon from the **Linked Accounts**.
+1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the settings icon ![](../.gitbook/assets/settings%20%281%29.png) on the **Linked Accounts** section.
 
 ![](../.gitbook/assets/social-button.png)
 
-2.The Edit Linked Accounts screen appears with list of the social profile accounts that you can add it as Linked accounts. Click **Connect** available against the social profile account.
+2.The **Edit Linked Accounts** modal appears with list of the social profile accounts that you can add. Click **Connect** CTA button available next to the social media Logo and name.
 
 ![](../.gitbook/assets/social-unconnect.png)
 
-3.The list of accounts related to that social profile account are listed. Select the appropriate account and connect via your authentication credentials. Once authorized, the selected 3rd party or social account will be linked to your SSO account.
+3.Once the account is linked, your email address associated with the account will appear. 
 
 ![](../.gitbook/assets/social.png)
 
 {% hint style="info" %}
-If you want to remove the linked account, click **Disconnect**.
+To remove the linked account, click **Disconnect** CTA button.
 {% endhint %}
 
 
