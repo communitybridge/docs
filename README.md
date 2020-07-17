@@ -4,8 +4,6 @@ Linux Foundation is a technology association of several companies that helps to 
 
 {% page-ref page="sso/" %}
 
-{% page-ref page="my-profile/" %}
-
 {% page-ref page="communitybridge/communitybridge-funding/" %}
 
 {% page-ref page="communitybridge/communitybridge-mentorship/" %}
@@ -18,9 +16,5 @@ Linux Foundation is a technology association of several companies that helps to 
 
 {% page-ref page="communitybridge/company-dashboard/" %}
 
-{% page-ref page="linux-individual-supporter-program/" %}
-
 {% page-ref page="training-and-certification.md" %}
-
-
 
