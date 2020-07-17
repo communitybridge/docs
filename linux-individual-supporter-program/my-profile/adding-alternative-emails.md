@@ -14,7 +14,7 @@ To add alternative emails to your Linux Foundation account, follow these steps:
 
 ![Verify Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzAjJ6MY2J-jcRSOV4%2F-MAzG_ljMCAOHzih34sl%2FALT_Email.png?alt=media&token=b92f5b3d-1eff-43c3-903d-0152aaacdf39)
 
-4.e
+4. The verified email indicator icon will appear next to your new email. 
 
 ![Verified Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzAjJ6MY2J-jcRSOV4%2F-MAzHk8ZRCkdu-YetgdG%2FVerified.png?alt=media&token=9e8a421c-d359-4328-b2ad-a86817979ae0)
 
