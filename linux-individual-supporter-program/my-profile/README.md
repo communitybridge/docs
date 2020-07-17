@@ -13,9 +13,9 @@ MyProfile app is a self-service dashboard where you can manage your personal inf
 * [View your community badges](viewing-community-badges.md)
 * [View your transactions](viewing-the-transactions.md)
 
-![MyProfile - Identities and Badges](../.gitbook/assets/1.png)
+![MyProfile - Identities and Badges](../../.gitbook/assets/1.png)
 
-![MyProfile - Events and Community Participation](../.gitbook/assets/2.png)
+![MyProfile - Events and Community Participation](../../.gitbook/assets/2.png)
 
-![Trainings, Certifications and More...](../.gitbook/assets/3.png)
+![Trainings, Certifications and More...](../../.gitbook/assets/3.png)
 

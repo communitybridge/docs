@@ -4,11 +4,11 @@ In [My Profile ](https://myprofile.linuxfoundation.org/)page you can view your r
 
 You can see the **upcoming events** that you have registered for
 
-![Upcoming Event Participation](../.gitbook/assets/upcomingevents.png)
+![Upcoming Event Participation](../../.gitbook/assets/upcomingevents.png)
 
 Similarly you can see the **past events** that you have attended.
 
-![Past Event Participation](../.gitbook/assets/pastevents.png)
+![Past Event Participation](../../.gitbook/assets/pastevents.png)
 
 
 

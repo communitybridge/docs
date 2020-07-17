@@ -6,15 +6,15 @@ To purchase the Linux foundation email, follow these steps:
 
 1. Login to [My Profile](https://myprofile.linuxfoundation.org/) page and click the Purchase Email button from the **Linux.com Email**.
 
-![Linux.com email purchase](../.gitbook/assets/purchaselinuxemail.png)
+![Linux.com email purchase](../../.gitbook/assets/purchaselinuxemail.png)
 
 2. If you are enrolled in the Individual Supporter program, you will be navigated to the Lifetime Linux.com Email Alias Add-On form, **Contact Details** page.
 
-![](../.gitbook/assets/linuxemailpurchaseflow.png)
+![](../../.gitbook/assets/linuxemailpurchaseflow.png)
 
-3. Once you have complete the transaction, go back to your account on My Profile app to request the linux.com alias and add the forwarding email address. Click on the settings icon  ![](../.gitbook/assets/settings%20%281%29.png)  to manage your linux.com alias and forwarding email address. 
+3. Once you have complete the transaction, go back to your account on My Profile app to request the linux.com alias and add the forwarding email address. Click on the settings icon  ![](../../.gitbook/assets/settings%20%281%29.png)  to manage your linux.com alias and forwarding email address. 
 
-![](../.gitbook/assets/configlinuxbutton.png)
+![](../../.gitbook/assets/configlinuxbutton.png)
 
 The **Edit @linux.com Email Service** modal appears. In the **Email Alias** field, enter the Linux.com email that you would like to request and in the **Forward To** field enter the email ID where you want to receive the emails that will be sent to your Linux.com email. Click **Save** after entering all the details.
 
@@ -22,7 +22,7 @@ The **Edit @linux.com Email Service** modal appears. In the **Email Alias** fiel
 Emails sent to Linux email ID will be forwarded to the Forward email ID. The mails will not be delivered to the Linux email ID.
 {% endhint %}
 
-![](../.gitbook/assets/editlinuxemail.png)
+![](../../.gitbook/assets/editlinuxemail.png)
 
 
 

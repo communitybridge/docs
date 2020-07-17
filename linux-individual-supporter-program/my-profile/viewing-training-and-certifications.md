@@ -6,7 +6,7 @@ You can view the training and certifications you are enrolled in or have complet
 * The status of each training and certification course.
 * The start, end dates and the duration of each for training and certification course.
 
-![Training &amp; Certifications](../.gitbook/assets/training.png)
+![Training &amp; Certifications](../../.gitbook/assets/training.png)
 
 
 

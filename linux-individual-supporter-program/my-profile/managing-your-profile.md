@@ -6,7 +6,7 @@ To edit your profile, follow these steps:
 
 1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). When the dashboard appears, click the **Edit Profile** CTA button.
 
-![](../.gitbook/assets/edit-profile-button.png)
+![](../../.gitbook/assets/edit-profile-button.png)
 
 2. On the Edit Personal Information modal you can update the following details:
 
@@ -19,7 +19,7 @@ To edit your profile, follow these steps:
 | **Phone** | Update your phone number |
 | **Countries** | Select your country from this list |
 
-![Edit Profile](../.gitbook/assets/editprofile.png)
+![Edit Profile](../../.gitbook/assets/editprofile.png)
 
 3. After making the changes, click **Save**. 
 
