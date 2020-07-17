@@ -1,4 +1,4 @@
-# Viewing the Transactions
+# View Transactions
 
 In [My Profile](https://myprofile.linuxfoundation.org/) page you can view your transactions that you have carried with the Linux Foundation in **My Transactions** tab. My Transactions tab provides you:
 

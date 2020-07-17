@@ -1,4 +1,4 @@
-# Adding Alternative Emails
+# Add Alternative Emails
 
 You can also add the alternative emails to your LF account. You can use these alternative emails to login to your LF account.
 

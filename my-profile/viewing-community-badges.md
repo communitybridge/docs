@@ -1,4 +1,4 @@
-# ​Viewing Community Badges
+# ​View Community Badges
 
 In [My Profile](https://myprofile.linuxfoundation.org/) page you can view all the community badges that have been awarded to you till date. 
 

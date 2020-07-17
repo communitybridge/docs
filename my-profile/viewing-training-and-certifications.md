@@ -1,4 +1,4 @@
-# Viewing Training and Certifications
+# View Training and Certifications
 
 You can view your training and certifications that you have enrolled into. The **Training + Certification** tab provides you:
 
