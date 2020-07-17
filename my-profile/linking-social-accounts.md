@@ -1,4 +1,4 @@
-# Link Your Social Accounts
+# Link Social Accounts
 
 1. To manage and link your social profile accounts, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the settings icon ![](../.gitbook/assets/settings%20%281%29.png) on the **Linked Accounts** section.
 

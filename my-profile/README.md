@@ -4,16 +4,16 @@ Individual Dashboard \(MyProfile\) is a self-service dashboard where you can edi
 
 Select a topic below to view detailed information about that section. 
 
-* [Edit Your Information](managing-your-profile.md)
-* [Change account password](changing-account-password.md)
-* [Link social accounts](linking-social-accounts.md)
-* [Add alternative email accounts](adding-alternative-emails.md)
-* [Purchase your Linux.com email address](purchasing-linux-email.md)
-* [View your participation in events](viewing-the-events.md)  
-* [View your roles](view-roles.md)
-* [View your training and certifications ](viewing-training-and-certifications.md)
-* [View your community badges](viewing-community-badges.md)
-* [View your transactions](viewing-the-transactions.md)
+* [Edit My Information](managing-your-profile.md)
+* [Change Account Password](changing-account-password.md)
+* [View Community Badges](viewing-community-badges.md)
+* [Link Social Accounts](linking-social-accounts.md)
+* [Add Alternative Email Accounts](adding-alternative-emails.md)
+* [Purchase Linux.com Email Alias](purchasing-linux-email.md)
+* [View Participation in Events](viewing-the-events.md)  
+* [View Roles](view-roles.md)
+* [View Training and Certifications ](viewing-training-and-certifications.md)
+* [View Transactions](viewing-the-transactions.md)
 
 ![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities.png)
 

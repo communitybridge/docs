@@ -1,4 +1,4 @@
-# Edit Your Information
+# Edit My Information
 
 1. To edit your contact information, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Edit Profile** CTA button.
 
