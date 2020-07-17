@@ -1,6 +1,6 @@
 # Change Your Password
 
-To change your Linux Foundation password, perform the following steps:
+To change your Linux Foundation password, follow these steps:
 
 1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). When the dashboard appears, click the **Change Password** button.
 
