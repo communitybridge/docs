@@ -5,7 +5,7 @@ Individual Dashboard \(MyProfile\) is a self-service dashboard where you can edi
 Select a topic below to view detailed information about that section. 
 
 * [Edit My Information](managing-your-profile.md)
-* [Change Account Password](changing-account-password.md)
+* [Change Password](changing-account-password.md)
 * [View Community Badges](viewing-community-badges.md)
 * [Link Social Accounts](linking-social-accounts.md)
 * [Add Alternative Email Accounts](adding-alternative-emails.md)

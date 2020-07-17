@@ -13,7 +13,7 @@
   * [Sign out](sso/log-out.md)
 * [Individual Dashboard \(MyProfile\)](my-profile/README.md)
   * [Edit My Information](my-profile/managing-your-profile.md)
-  * [Change Your Password](my-profile/changing-account-password.md)
+  * [Change Password](my-profile/changing-account-password.md)
   * [​View Community Badges](my-profile/viewing-community-badges.md)
   * [Link Social Accounts](my-profile/linking-social-accounts.md)
   * [Add Alternative Emails](my-profile/adding-alternative-emails.md)

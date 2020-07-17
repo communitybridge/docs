@@ -1,4 +1,4 @@
-# Change Your Password
+# Change Password
 
 To change your Linux Foundation password, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Change Password** CTA button.
 
