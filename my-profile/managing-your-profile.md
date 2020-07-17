@@ -1,14 +1,14 @@
 # Managing your Profile
 
-You can view and edit your profile from your Individual Dashboard / MyProfile page. You can update your profile picture, reset your password, update your first and last name, and much more.
+You can view and edit your profile on the Individual Dashboard / MyProfile page. You can update your profile picture, personal information, change your password, add alternative emails,  and much more.
 
 To edit your profile, perform the following steps:
 
-1.Login into [My Profile](https://myprofile.linuxfoundation.org/) page. The My Profile dashboard appears. Click the **Edit Profile** button.
+1. Navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). When the dashboard appears, click the **Edit Profile** CTA button.
 
 ![](../.gitbook/assets/edit-profile-button.png)
 
-2.The Edit Personal Information screen appears. You can update the following details as mentioned in the following table:
+2. On the Edit Personal Information modal you can update the following details:
 
 | **Field** | **Action** |
 | :--- | :--- |
@@ -21,5 +21,5 @@ To edit your profile, perform the following steps:
 
 ![Edit Profile](../.gitbook/assets/editprofile.png)
 
-3.After updating the fields, click **Save** to update your profile.
+3. After making the changes, click **Save** to save the changes. 
 
