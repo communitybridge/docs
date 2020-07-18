@@ -2,7 +2,7 @@
 
 1. To edit your contact information, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Edit My Information** CTA button.
 
-![](../.gitbook/assets/edit-my-information.png)
+![](../.gitbook/assets/header.png)
 
 2. On the **Edit My Information** modal you can update the following details:
 
@@ -21,5 +21,11 @@
 
 4. If any of your data is inaccurate or needs to be updated, you can reach also out to Linux Foundation Support team by clicking on **Please contact support if your data is inaccurate or needs to be updated.** text link. 
 
-![](../.gitbook/assets/contact-support-link.png)
+![](../.gitbook/assets/header-2.png)
+
+5. Please note the information in your profile is subject to the Linux Foundation [Privacy Policy](https://www.linuxfoundation.org/privacy/) 
+
+![](../.gitbook/assets/header-3.png)
+
+
 
