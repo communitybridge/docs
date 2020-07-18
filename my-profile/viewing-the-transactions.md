@@ -2,7 +2,7 @@
 
 To view your transactions for all the purchases you made through Linux Foundation, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and scroll down to My Transactions section. In this section you can view the following transaction details: 
 
-* Order ID number
+* Order ID number, which is also displayed on the order confirmation email 
 * Transaction ID \(the name of the product, event, training or certification course\)
 * Transaction date
 * Transaction status

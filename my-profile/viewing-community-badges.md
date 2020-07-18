@@ -7,7 +7,7 @@ To view the badges you were awarded, navigate and login to [myprofile.linuxfound
 Community badges are generated from the following sources:
 
 1. **Certifications** for the Linux Foundation certification you have successfully passed.
-2. **Events** speaking engagements at various Linux Foundation events or participation in  program committees for these events.
+2. For ****speaking engagements at various Linux Foundation **Events** or participation in  program committees for these events.
 
 Clicking on the badge will take you to the Certification Verification page.
 

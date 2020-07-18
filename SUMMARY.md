@@ -252,8 +252,8 @@
     * [FAQs](communitybridge/company-dashboard/faqs.md)
     * [Company](communitybridge/company-dashboard/company/README.md)
       * [Dashboard](communitybridge/company-dashboard/company/dashboard.md)
-* [Linux Individual Supporter Program](linux-individual-supporter-program/README.md)
-  * [Enroll in the Linux Individual Supporter Program](linux-individual-supporter-program/purchasing-linux-individual-supporter-program.md)
+* [Linux Foundation Individual Supporter Program](linux-individual-supporter-program/README.md)
+  * [Enroll in the Linux Foundation Individual Supporter Program](linux-individual-supporter-program/purchasing-linux-individual-supporter-program.md)
   * [Purchase Lifetime Linux.com Email Alias](linux-individual-supporter-program/purchasing-linux-email-alias-for-lifetime.md)
 * [Training and Certification](training-and-certification.md)
 

@@ -2,6 +2,10 @@
 
 Individual Dashboard \(MyProfile\) is a self-service dashboard where you can edit your contact information, change your password, keep track of your emails and community identities, and much more. We are providing early access to the Individual Dashboard \(MyProfile\) in order to provide the community with an initial look at their profiles across LF services. We will be continuing to update the dashboard to provide users with greater visibility into—and control over—their personal information.
 
+{% hint style="info" %}
+Information in your profile is subject to the Linux Foundation's [Privacy Policy](https://linuxfoundation.org/privacy)
+{% endhint %}
+
 Select a topic below to view detailed information about that section. 
 
 * [Edit My Information](managing-your-profile.md)

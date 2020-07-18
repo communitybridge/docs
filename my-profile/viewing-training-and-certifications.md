@@ -1,6 +1,6 @@
 # View Training and Certifications
 
-To view your training and certifications you are enrolled in or have completed, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and scroll down to the **Training and Certifications** section. The section will display the following details: 
+To view the training and certifications you are enrolled in or have completed, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and scroll down to the **Training and Certifications** section. The section will display the following details: 
 
 * The names of the training courses and certifications you are enrolled in or have completed.
 * The status of each training and certification course.

@@ -1,8 +1,8 @@
-# Enroll in the Linux Individual Supporter Program
+# Enroll in the Linux Foundation Individual Supporter Program
 
-You can enroll in the Linux Individual Supporter program for $99 a year. You need to have a Linux Foundation account and an LFID to make the purchase.  
+You can enroll in the Linux Foundation Individual Supporter program for $99 a year. You need to have a Linux Foundation account and an LFID to make the purchase.  
 
-To enroll in the Linux Individual Supporter program, follow these steps:
+To enroll in the Linux Foundation Individual Supporter program, follow these steps:
 
 1. Navigate to the Linux Foundation [Individual Supporters](https://www.linuxfoundation.org/about/individual-supporters/) webpage and select the **Individual $99** CTA button. 
 
