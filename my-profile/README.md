@@ -19,7 +19,7 @@ Select a topic below to view detailed information about that section.
 * [View Training and Certifications ](viewing-training-and-certifications.md)
 * [View Transactions](viewing-the-transactions.md)
 
-![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities.png)
+![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities%20%281%29.png)
 
 ![MyProfile - Events and Community Participation](../.gitbook/assets/2.png)
 
