@@ -4,7 +4,7 @@ You can purchase Lifetime Linux.com email alias if you are an active Individual 
 
 1. To purchase the Linux foundation email alias, navigate and login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click the Purchase Email CTA button from the **Linux.com Email**.
 
-![Linux.com Email Alias Purchase CTA Button](../.gitbook/assets/purchaselinuxemail.png)
+![](../.gitbook/assets/email.png)
 
 2. If you are enrolled in the Individual Supporter program, you will be navigated to the Lifetime Linux.com Email Alias Add-On form, **Contact Details** page.
 

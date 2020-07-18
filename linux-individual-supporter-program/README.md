@@ -12,7 +12,7 @@ The benefits of being an active Linux Individual Supporter program are:
 
 For more information:
 
-* [Linux Foundation Supporter Program](https://www.linuxfoundation.org/about/individual-supporters/)
+* Linux Foundation Supporter Program
 * [Purchasing Linux Individual Supporter Program](purchasing-linux-individual-supporter-program.md)
 * [Purchasing Linux Email Alias](purchasing-linux-email-alias-for-lifetime.md)
 
