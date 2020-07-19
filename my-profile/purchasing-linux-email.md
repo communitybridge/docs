@@ -14,7 +14,7 @@ You can purchase Lifetime Linux.com email alias if you are an active Individual 
 
 ![](../.gitbook/assets/email-not-configured.png)
 
-The **Edit @linux.com Email Service** modal appears. In the **Email Alias** field, enter the Linux.com email that you would like to request and in the **Forward To** field enter the email ID where you want to receive the emails that will be sent to your Linux.com email. Click **Save** after entering all the details. You can request any Linux.com email address, but issuance is subject to availability.
+The **Edit @linux.com Email Service** modal appears. In the **Email Alias** field, enter the Linux.com email that you would like to request. In the **Forward To** field enter the email ID where you want to receive the emails that will be sent to your Linux.com email. Click **Save** after entering all the details. You can request any Linux.com email address, but issuance is subject to availability.
 
 {% hint style="info" %}
 Emails sent to Linux email ID will be forwarded to the Forward email ID. The mails will not be delivered to the Linux email ID.
