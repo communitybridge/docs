@@ -26,5 +26,5 @@ No, affiliation data is linked to profiles, and profiles are visible across all 
 
 ## How are contributions calculated?
 
-Insight calculates contribution data based on commit hash. So, if a pull request or changeset is submitted to two different branches with the same commit hash identification number, Insight counts it as a single contribution, eliminating chance of duplication.
+Insight calculates contribution data based on commit hash. So, if a pull request or changeset is submitted to two different branches with the same commit hash identification number, Insight counts it as a single contribution, eliminating duplication of data.
 
