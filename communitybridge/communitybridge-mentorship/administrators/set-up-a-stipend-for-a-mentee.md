@@ -1,6 +1,6 @@
 # Set Up a Stipend for a Mentee
 
-You will need to add each mentee as a beneficiary to your mentorship project in order for her to receive a stipend by [submitting an Expensify report](https://app.gitbook.com/@lfdocs/s/docs/~/drafts/-MCm_4iRTomSzspoY-JM/communitybridge/communitybridge-funding/get-reimbursed).
+You will need to add each mentee as a beneficiary to your mentorship project in order for her to receive a stipend by [submitting an Expensify report.](https://docs.linuxfoundation.org/docs/communitybridge/communitybridge-mentorship/mentees/submit-a-report-to-receive-a-mentorship-stipend)
 
 To add can a mentee to the beneficiary section, follow these steps: 
 
