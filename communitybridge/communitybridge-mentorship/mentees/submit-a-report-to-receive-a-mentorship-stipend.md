@@ -38,8 +38,6 @@ Ensure that you use the same email address that you used to set up your account 
 7. **US Residents:** Click **Save**.  
     **International Mentees \(non-U.S.\):** please add “International” next to your name. The Linux   Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. Then click **Save.** 
 
-If you have not completed a wire transfer form, you can download it below and email it directly to [menteedocs@linuxfoundation.org](mailto:menteedocs@linuxfoundation.org).
-
 {% file src="../../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
 8. You will be redirected to the Report page. Click **Submit** from the top left corner.
