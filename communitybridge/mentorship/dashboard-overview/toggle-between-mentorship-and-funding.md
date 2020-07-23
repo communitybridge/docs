@@ -1,4 +1,4 @@
-# Toggle Between Mentorship and Funding
+# Toggle Between Mentorship and Funding \(SS TO BE UPDATED\)
 
 Your project is available in CommunityBridge Mentorship _and_ in CommunityBridge Funding for the following purposes:
 

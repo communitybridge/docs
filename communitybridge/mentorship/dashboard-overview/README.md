@@ -1,14 +1,21 @@
-# Dashboard Overview
+# Dashboard Overview \(SS TO BE UPDATED\)
 
 CommunityBridge Mentorship makes it easy for individuals and companies to get involved in mentorship programs. Mentorship matchmaking can help individual mentees grow as a contributor to open source communities. The program connects Mentorship program applicants with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with interview opportunities. Get started by discovering projects, mentors, companies, and other aspects of the CommunityBridge mentorship programs.
 
 **Get started:**
 
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/). Featured tab appears. Mentorships, Mentors, and Mentees appear in alphabetical order.
+1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/).
+
+   Featured tab appears.
+
+   * **Mentorships** shows the projects that are enrolled for mentorship program.
+   * Mentors shows details of participating mentors..
+   * Mentess shows details of participating mentees.
+
 2. Navigate to each section, such as Mentorships, Mentors, Mentees, and click an entity under a section to know more about the entity or select a **tab**:
-   * Mentorships
+   * [Mentorships](./#DashboardOverview-Projects)
+   * [Mentors](./#DashboardOverview-Mentors)
    * Mentees
-   * Mentors
 3. To view more information:
    * [View Projects Details](view-projects-details.md)
    * [View a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md)
@@ -17,26 +24,37 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
    * As an administrator– [Enroll Your Project](../administrators/enroll-your-project/).
    * As a mentee– [Create a Mentee Profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and then [Apply to a Project](../mentees/become-a-mentee/apply-to-a-project.md).
    * As a mentor–[Create a Mentor Profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and then [Apply to a Project](../mentors/become-a-mentor/apply-to-or-remove-from-a-project.md#apply-to-a-project).
-   * As a company: [Create a Company Profile]() and then [Donate to the Project](../../crowd-funding/donate-sponsor/).
 
-## Projects <a id="DashboardOverview-Projects"></a>
+## Mentorships <a id="DashboardOverview-Projects"></a>
 
 ![Project Overview](../../../.gitbook/assets/project-overview%20%281%29.png)
 
-**Projects** shows the on-going and past projects in Current Projects and Past Projects tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information: 
+**Mentorships** shows the yet-to-start \(Accepting Applications\), in progress, and completed projects in respective tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information:
 
 * **Project name and logo**. Click the project title or logo to see more information about it.
-* **Donate** Opens a [New Donation form](../../crowd-funding/donate-sponsor/donate-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../crowd-funding/donate-sponsor/donate-as-an-individual.md) or as an [organization](../../crowd-funding/donate-sponsor/donate-as-a-sponsor/).
-* **Description** excerpt describes the project. Select the project for more information.
-* **Funding To Date** shows the total project fund amount received to date for mentee stipends.
-* **Mentors** shows images of mentors for the project.
-* **Mentees** shows images of mentees for the project.
-* Clicking **CLICK TO APPLY** \(not enabled for past projects\) flips over the project card ****and shows the following information:
-  * **Terms** shows the Mentorship program timelines that are available for mentees and mentors.
-  * **Required Skills** shows names of the technologies that are required to apply to the project.
-  * **Apply** lets you [apply](../mentees/become-a-mentee/apply-to-a-project.md) to the project.
-  * **Applications Closed** is shown when a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md).
-  * **BACK TO PROJECT OVERVIEW** lets you to go back to the overview card
+* **Terms** shows the Mentorship program timelines that are available for mentees and mentors.
+* **Required Skills** shows names of the technologies that are required to apply to the project.
+* **Apply** lets you [apply](../mentees/become-a-mentee/apply-to-a-project.md) to the project.
+* **Applications Closed** is shown when a [project administrator closes applications](../administrators/open-or-close-mentorship-applications.md).
+* Clicking **View Projects Statistics** flips over the project card, and shows the following information:
+  * Project logo, name, and an excerpt of project description.
+  * **Donate** opens a [New Donation form](../../crowd-funding/donate-sponsor/donate-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../crowd-funding/donate-sponsor/donate-as-an-individual.md) or as an [organization](../../crowd-funding/donate-sponsor/donate-as-a-sponsor/).
+  * **Mentors** shows images of mentors for the project.
+  * **Current Mentees** shows images of currently participating mentees for the project.
+  * **Graduated Mentees** shows images of mentees who successfully completed the mentorship program.
+  * **Funding To Date** shows the total project fund amount received to date for mentee stipends.
+* **BACK TO PROJECT OVERVIEW** lets you to go back to the overview card.
+
+## Mentees <a id="DashboardOverview-Mentors"></a>
+
+**Mentees** shows the mentee profile cards. Type a mentee name in the **Search** box for quick search. Each mentee profile card shows the following information :
+
+* Mentee name and image identify the mentee. Click the name to see more information about the mentee.
+* **Skills** shows keywords that help you accept a mentee who has the required skill for your project's mentorship program.
+* **Status** shows the current status of the mentee, for example Accepted, Graduated, and so on.
+* **Mentors** shows the images of the individuals under whose guidance the mentee is learning a skill.
+* **Projects** shows the project logos in which the mentee participates.
+* Click **View Profile** to view more information about the mentee.
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
 
@@ -46,19 +64,8 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 * Mentor name and image identify the mentor. Click the name to see more information about the mentor.
 * **Skills** shows keywords that help you match up with a mentor who has direct experience in the industry or subject for which you need help.
-* **Graduates** shows the mentees who completed the Mentorship program under this mentor's guidance.
-* **Projects** shows the project logos in which the mentor participates/contributes.
-* **Mentees** shows the images for the persons who are learning a skill from the mentor.
-
-## Companies <a id="DashboardOverview-Companies"></a>
-
-![Companies](../../../.gitbook/assets/company.png)
-
-**Companies** shows the following information:
-
-* Company name and image identify the company.
-* Description briefly describes the company. When a description shows only an excerpt, click **open** to see the entire description.
-* **Participation** shows the logos for projects in which the company is participating.
-* **Total Funding** shows the total funding amount to which the company commits.
-* **Opportunities** shows the number of interview opportunities given by the company.
+* **Current Mentees** shows the images for the persons who are learning a skill from the mentor.
+* **Graduated Mentees** shows the mentees who completed the Mentorship program under this mentor's guidance.
+* **Projects** shows the project logos in which the mentor participates or contributes.
+* Click **View Profile** to view more information about the mentor.
 

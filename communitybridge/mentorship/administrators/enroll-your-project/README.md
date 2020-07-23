@@ -1,4 +1,4 @@
-# Enroll Your Project
+# Enroll Your Project \(SS TO BE UPDATED\)
 
 As the primary administrator of an open source project, you can enroll or add your project to CommunityBridge Mentorship program. After your project is approved, it is available in CommunityBridge Mentorship platform for Mentorship program participants.
 
@@ -10,14 +10,16 @@ The Linux Foundation reviews your project application and considers if your proj
 
 The Linux Foundation notifies you when a decision is taken.
 
-**To Enroll the Project:** 
-
+{% hint style="info" %}
 Keep these items ready before you begin:
 
-* The project ID for your [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/)
-*  A logo file in JPG, PNG, or SVG format that identifies your project
-* The URL for your code of conduct \(the rules of behavior for the members of that group or organization\)
-* A list of names and email addresses for the individuals who you want to invite as mentors
+* The project ID for your [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/).
+* A logo file in JPG, PNG, or SVG format that identifies your project.
+* The URL for your code of conduct \(the rules of behavior for the members of that group or organization\).
+* A list of names and email addresses for the individuals who you want to invite as mentors.
+{% endhint %}
+
+**To Enroll the Project:** 
 
 1. Sign in to CommunityBridge Mentorship as a project administrator. For details, see [Sign in to CommunityBridge](../../../../sso/sign-in/).
 
@@ -28,7 +30,7 @@ Keep these items ready before you begin:
 3. Complete the [Mentorship Project Application](mentorship-project-application.md) form fields. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 
 4. Read and agree to the Terms and Conditions and **Submit** the application.  
-An "Almost There!" message appears:
+   An "Almost There!" message appears:
 
 ![](../../../../.gitbook/assets/7418710.png)
 

@@ -29,7 +29,7 @@ The below table describes the fields of Mentorship Project Application:
         the field to open a list of names to choose from. Click
         <img src="https://docs.linuxfoundation.org/download/thumbnails/7418712/Add%20Category.JPG?version=1&amp;modificationDate=1583236123723&amp;api=v2"
         alt/>after you select a category from the list.
-        <br /><b>Note: </b>The category/categories are reflected in the<b> List of categories you have added... </b>field
+        <br /><b>Note: </b>The category/categories are reflected in the<b> List of technologies you have added... </b>field
         after you add a category.</td>
     </tr>
     <tr>
@@ -116,8 +116,6 @@ The below table describes the fields of Mentorship Project Application:
   </tbody>
 </table>
 
-![Project Details](../../../../.gitbook/assets/project-details-page.png)
-
 ### Program Setup <a id="MentorshipProjectApplication-ProgramSetup"></a>
 
 The following table lists all the fields that appear on the Program Setup page of Mentorship Project Application:
@@ -180,11 +178,13 @@ Each mentee applicant must complete at least one prerequisite task to qualify fo
 
 Select a checkbox to add a prerequisite name. Click **Add Custom Prerequisite** to add name and description of your own required task.
 
-![Custom Prerequisite](../../../../.gitbook/assets/custom-prerequisite.png)
+* **Prerequisite Name** is the name of a qualification task that you want an applicant to complete.
+* **Due Date** is the date by which you want a mentee to complete the task.
+* **Prerequisite Description** is a detailed description of the activities and any other factors that are involved in or required for the task. A detailed and exact description helps eliminate unqualified applicants and improves suitable matches.
+* Select the check box if a mentee needs to submit a file in order to complete the task.
+* Click **+ Add Custom Prerequisite** to add the prerequisite task.
 
-**Prerequisite Name** is the name of a qualification task that you want an applicant to complete.
-
-**Description** is a detailed description of the activities and any other factors that are involved in or required for the task. A detailed and exact description helps eliminate unqualified applicants and improves suitable matches.
+![custom prerequisite](../../../../.gitbook/assets/custom-prerequisite.png)
 
 ### Terms and Conditions <a id="MentorshipProjectApplication-TermsandConditions"></a>
 

@@ -1,4 +1,4 @@
-# Open or Close Mentorship Applications
+# Open or Close Mentorship Applications \(SS TO BE UPDATED\)
 
 As a project administrator, you can open or close mentorship applications for a project. When you close applications, the Apply button on a project becomes unavailable so mentees cannot apply. When you open applications, the Apply button becomes available.
 

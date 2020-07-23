@@ -1,11 +1,11 @@
-# View Projects Details
+# View Projects Details \(SS TO BE UPDATED\)
 
 Projects details can indicate how active a mentorship is in the open source community. This information can help you decide what particular open source project to participate in. You can also learn about the financial aspects of a project to see if you want to donate to it. Information about the project Mentorship program lets you view the mentee and mentor profile images, the companies that offer interview opportunities, and other details about the project. 
 
 **To View Project Details:**
 
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/profile). Projects, Mentors, and Companies appear in alphabetical order with their respective items. 
-2. From **Projects** tab, click a **project** of interest. For quick access, you can search for the project by typing the name of the project in the search field. 
+1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/profile). Projects \(Mentorships\) , Mentors, and Mentees appear in alphabetical order with their respective items. 
+2. From Mentorships tab, click a **project** of interest. For quick access, you can search for the project by typing the name of the project in the search field. 
 3. Browse the details that appear. Depending on the data available, some or all of the following items appear:
 
 ![](../../../.gitbook/assets/7418695.png)
@@ -42,13 +42,6 @@ Projects details can indicate how active a mentorship is in the open source comm
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mentees for &lt;term&gt;</b>
-      </td>
-      <td style="text-align:left">Shows the percentage of total donations received towards mentee stipends
-        for the term, the number of mentees depends on the amount of donations
-        received</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><b>Mentees</b>
       </td>
       <td style="text-align:left">Shows the images of the mentees for the project&apos;s Mentorship program</td>
@@ -59,9 +52,10 @@ Projects details can indicate how active a mentorship is in the open source comm
       <td style="text-align:left">Shows the available terms for the project</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Opportunities</b>
+      <td style="text-align:left"><b>Sponsors</b>
       </td>
-      <td style="text-align:left">Shows the logos of companies that are offering interview opportunities.</td>
+      <td style="text-align:left">Shows the logos of companies that are offering interview opportunities
+        or are sponsoring for the project.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Mentors</b>
@@ -116,9 +110,4 @@ Projects details can indicate how active a mentorship is in the open source comm
 **Mentors** section shows the images and brief description of mentors associated with the particular project. Click **View Profile** to know more about a mentor.
 
 **Mentees** section shows the images of mentees associated with the particular project. Click **View Profile** to know more about a mentee.
-
-**Companies** section shows a card briefly describing about the company, logos of projects the company is participating in, total funding amount, and the number of interview opportunities the company is providing.  
-If you want to know all the projects the company is participating with, mouse over **Participation** and then click **Open**.
-
-![](../../../.gitbook/assets/7418693.jpg)
 
