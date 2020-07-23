@@ -12,12 +12,12 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 3. To view more information:
    * [View Projects Details](view-projects-details.md)
    * [View a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md)
-   * [Toggle Between Mentorship and Funding](../../communitybridge-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
+   * [Toggle Between Mentorship and Funding](../../crowd-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
 4. Participate:
    * As an administrator– [Enroll Your Project](../administrators/enroll-your-project/).
    * As a mentee– [Create a Mentee Profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and then [Apply to a Project](../mentees/become-a-mentee/apply-to-a-project.md).
    * As a mentor–[Create a Mentor Profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and then [Apply to a Project](../mentors/become-a-mentor/apply-to-or-remove-from-a-project.md#apply-to-a-project).
-   * As a company: [Create a Company Profile]() and then [Donate to the Project](../../communitybridge-funding/donate-sponsor/).
+   * As a company: [Create a Company Profile]() and then [Donate to the Project](../../crowd-funding/donate-sponsor/).
 
 ## Projects <a id="DashboardOverview-Projects"></a>
 
@@ -26,7 +26,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 **Projects** shows the on-going and past projects in Current Projects and Past Projects tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information: 
 
 * **Project name and logo**. Click the project title or logo to see more information about it.
-* **Donate** Opens a [New Donation form](../../communitybridge-funding/donate-sponsor/donate-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../communitybridge-funding/donate-sponsor/donate-as-an-individual.md) or as an [organization](../../communitybridge-funding/donate-sponsor/donate-as-a-sponsor/).
+* **Donate** Opens a [New Donation form](../../crowd-funding/donate-sponsor/donate-as-an-individual.md#result-new-donation-form-appears) in CommunityBridge Funding. You can donate as an [individual](../../crowd-funding/donate-sponsor/donate-as-an-individual.md) or as an [organization](../../crowd-funding/donate-sponsor/donate-as-a-sponsor/).
 * **Description** excerpt describes the project. Select the project for more information.
 * **Funding To Date** shows the total project fund amount received to date for mentee stipends.
 * **Mentors** shows images of mentors for the project.

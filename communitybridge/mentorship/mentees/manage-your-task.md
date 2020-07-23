@@ -21,5 +21,5 @@ You can sort values from **Task Status** and **Sorting Order** drop-down lists.
 ![Tasks for Mentees](../../../.gitbook/assets/mentee-tasks-for-mentee.png)
 
   
-Complete all your tasks to graduate from the Mentorship program. Your mentor determines whether you have satisfactorily completed each task. If you and your mentor disagree about whether you have completed the tasks, reach out to the project administrator to discuss it. You are listed as a graduate for that project on CommunityBridge. If your mentorship includes a stipend and you are eligible for it, [submit a claim](../../communitybridge-funding/get-reimbursed.md) for it \(projects may have varying milestones and schedules for payments of stipends\).
+Complete all your tasks to graduate from the Mentorship program. Your mentor determines whether you have satisfactorily completed each task. If you and your mentor disagree about whether you have completed the tasks, reach out to the project administrator to discuss it. You are listed as a graduate for that project on CommunityBridge. If your mentorship includes a stipend and you are eligible for it, [submit a claim](../../crowd-funding/get-reimbursed.md) for it \(projects may have varying milestones and schedules for payments of stipends\).
 
