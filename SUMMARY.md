@@ -123,7 +123,7 @@
     * [Mentors](communitybridge/mentorship/mentors/README.md)
       * [Become a Mentor](communitybridge/mentorship/mentors/become-a-mentor/README.md)
         * [Create a Mentor Profile](communitybridge/mentorship/mentors/become-a-mentor/create-a-mentor-profile.md)
-        * [Apply to or Remove from a Project](communitybridge/mentorship/mentors/become-a-mentor/apply-to-or-remove-from-a-project.md)
+        * [Apply to or Remove your Application from a Project](communitybridge/mentorship/mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md)
       * [View Mentee Profile](communitybridge/mentorship/mentors/view-mentee-profile.md)
       * [Review Mentee Applications](communitybridge/mentorship/mentors/review-mentee-applications.md)
       * [Manage Your Mentorship Account](communitybridge/mentorship/mentors/manage-your-mentorship-account.md)

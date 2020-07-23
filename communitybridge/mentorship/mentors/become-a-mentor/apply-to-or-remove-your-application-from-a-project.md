@@ -1,4 +1,4 @@
-# Apply to or Remove from a Project
+# Apply to or Remove your Application from a Project
 
 You can apply to a project either while creating a profile or editing your profile by navigating to **My Account &gt; My Profile**.
 
@@ -14,9 +14,11 @@ After the project maintainer adds you to the project, you will get an email noti
 
 
 
-### Remove from a Project:
+### Remove your Application from a Project:
 
 You can remove application either by editing your profile by navigating to **My Account &gt; My Profile** or clicking **Edit Profile** from the email invitation.
+
+![](../../../../.gitbook/assets/edit-mentor-profile.png)
 
 1. On the edit page of your mentor profile, navigate to the **Mentorship Project Details** section.
 2. For projects that you are added, click **Remove From Project**, and/or for projects that you have requested to be added as a mentor, click **Withdraw Request**.

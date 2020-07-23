@@ -5,6 +5,8 @@
 1. Navigate to **My Account &gt;** **My Projects.**   
 2. Under **Projects for which I am a mentee** section, you can view the statuses:
 
+![application status for mentee](../../../.gitbook/assets/application-status.png)
+
 Following are the descriptions for each status:
 
 * **Application Pending:** You have submitted application, and it is in **Pending** state. The project admin or mentor is yet to review of your application. Anytime, you can withdraw your application.

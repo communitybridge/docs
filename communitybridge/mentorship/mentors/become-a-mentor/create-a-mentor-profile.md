@@ -17,12 +17,12 @@ Keep these items ready before you begin:
 2. Click **Become a Mentor** on the top menu.  
 A Mentor Application appears.
 
-![Become a Mentor](../../../../.gitbook/assets/become-a-mentor.png)
+![](../../../../.gitbook/assets/become-a-mentor.png)
 
 3. Complete the form fields.  
 **Note:** Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form. Click any of the following links for information about fields.
 
-* [Mentor Profile](create-a-mentor-profile.md#CreateaMentorProfile-MentorProfile)
+* [User Information](create-a-mentor-profile.md#CreateaMentorProfile-MentorProfile)
 * [Introduction](create-a-mentor-profile.md#CreateaMentorProfile-Introduction)
 * [Skills](create-a-mentor-profile.md#CreateaMentorProfile-Skills)
 * [External Profile Links](create-a-mentor-profile.md#CreateaMentorProfile-ExternalProfileLinks)
