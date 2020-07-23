@@ -12,7 +12,7 @@ If you are logging in for the first time to any Linux Foundation managed service
 
 1. For services like Events Registration, JIRA, Confluence, Training and Certification, and so on, clicking on the service URL displays the Sign In page.
 
-2. For services like CommunityBridge Funding, Mentorship, EasyCLA, INSIGHTS, and so on, you may see a **Log In** or **Sign In** link when trying to apply or donate. Clicking the link displays the same Sign In page.
+2. For services like CommunityBridge Crowd Funding, Mentorship, EasyCLA, INSIGHTS, and so on, you may see a **Log In** or **Sign In** link when trying to apply or donate. Clicking the link displays the same Sign In page.
 
 3. Click **Create an Account**.
 

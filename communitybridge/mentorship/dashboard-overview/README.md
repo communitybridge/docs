@@ -4,11 +4,11 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 **Get started:**
 
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/). Featured tab appears. Projects, Mentors, and Companies appear in alphabetical order.
-2. Navigate to each section, such as Projects, Mentors, Companies, and click an entity under a section to know more about the entity or select a **tab**:
-   * [Projects](./#DashboardOverview-Projects)
-   * [Mentors](./#DashboardOverview-Mentors)
-   * [Companies](./#DashboardOverview-Companies)
+1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/). Featured tab appears. Mentorships, Mentors, and Mentees appear in alphabetical order.
+2. Navigate to each section, such as Mentorships, Mentors, Mentees, and click an entity under a section to know more about the entity or select a **tab**:
+   * Mentorships
+   * Mentees
+   * Mentors
 3. To view more information:
    * [View Projects Details](view-projects-details.md)
    * [View a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md)
