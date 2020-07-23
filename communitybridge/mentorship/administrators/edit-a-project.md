@@ -1,4 +1,4 @@
-# Edit a Project \(SS TO BE UPDATED\)
+# Edit a Project
 
 As a project administrator, you can edit your CommunityBridge Mentorship project.
 
@@ -7,13 +7,12 @@ As a project administrator, you can edit your CommunityBridge Mentorship project
  1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
 
 2. Go to your account and select **My Projects** from the drop-down list.  
-  
-![](../../../.gitbook/assets/my-projects.png)  
+ ![](../../../.gitbook/assets/my-projects.png)   
 An overview of each of your projects appears.
 
 3. Under **Projects for which I am an Administrator**, click **Edit Project**.
 
-![Edit Project](../../../.gitbook/assets/project.png)
+![](../../../.gitbook/assets/edit-project.png)
 
 4. Edit the [project application](enroll-your-project/mentorship-project-application.md) form and click **Submit**.
 

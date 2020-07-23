@@ -17,7 +17,7 @@ You can manage your project mentees from the Current Mentees tab on the project 
 
 2. Go to your account and select **My Projects** from the drop-down list.  
   
-![](../../../.gitbook/assets/my-projects.png)  
+  
 An overview of each of your projects appears.
 
 3. Click a project for which you want to manage mentee application.

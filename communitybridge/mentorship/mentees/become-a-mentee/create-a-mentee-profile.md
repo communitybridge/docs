@@ -17,7 +17,7 @@ Keep these items ready before you begin:
 
 2. Click **Become a Mentee** on the top menu.
 
-![](../../../../.gitbook/assets/7418793.png)
+![](../../../../.gitbook/assets/become-a-mentee.png)
 
 3. Click an answer to the questions that appear **Eligibility Requirement** window.
 
@@ -32,7 +32,7 @@ Red asterisks indicate required fields. A bar at the top of the page shows your 
 
 5. Click any of the following links for information about fields that require explanation.
 
-* [User Profile](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
+* [User Information](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
 * [Introduction](create-a-mentee-profile.md#CreateaMenteeProfile-Introduction)
 * [Mailing Address](create-a-mentee-profile.md#CreateaMenteeProfile-MailingAddress)
 * [External Profile Links](create-a-mentee-profile.md#CreateaMenteeProfile-ExternalProfileLinks)
@@ -54,7 +54,7 @@ The Linux Foundation administrator reviews your application and approves or reje
 
 [Manage Your Mentorship Account](../manage-your-mentorship-account.md)
 
-## User Profile <a id="CreateaMenteeProfile-MenteeProfile"></a>
+## User Information <a id="CreateaMenteeProfile-MenteeProfile"></a>
 
 Provide your first name, last name, email address, phone details, and upload your image in the respective fields. The Linux Foundation uses your contact information for corresponding with you, such as to request tax forms and so on.
 
@@ -80,7 +80,7 @@ Showcase your experience by providing links to your external profiles pages, and
 
 ## Skills <a id="CreateaMenteeProfile-Skills"></a>
 
-Click in the **Skill Name** field, select a skill, and click **+Add skill** to add your current skills and skills that you want to improve.
+Click in the **Skill Name** fields, select a skill, and click **+Add skill** to add your current skills and skills that you want to improve.
 
 ## Demographics <a id="CreateaMenteeProfile-Demographics"></a>
 

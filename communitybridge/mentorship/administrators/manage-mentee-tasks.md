@@ -9,7 +9,7 @@ A mentee applicant must have at least one application task to complete, for exam
 ## **To Manage Mentee Tasks:** 
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
-2. Go to your account and select **My Projects** from the drop-down list. ![](../../../.gitbook/assets/my-projects.png) An overview of each of your projects appears.
+2. Go to your account and select **My Projects** from the drop-down list.  An overview of each of your projects appears.
 3. Click a project for which you want to manage mentee application.
 4. Navigate to **Current** **Mentees** tab:
    * [View Tasks](manage-mentee-tasks.md#view-tasks)
@@ -59,7 +59,7 @@ The Create Task page appears. Complete the form fields and click **Add Task**. W
 ### **Edit Task**
 
 {% hint style="info" %}
-You can not prerequisite tasks.
+You can not edit prerequisite tasks.
 {% endhint %}
 
 Click **Edit Task** for a mentee task.  

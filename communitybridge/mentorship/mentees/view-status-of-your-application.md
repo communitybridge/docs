@@ -2,10 +2,8 @@
 
 **To view status of your application:**
 
-1. Navigate to **My Account &gt;** **My Projects.**  ![](../../../.gitbook/assets/my-projects.png) 
+1. Navigate to **My Account &gt;** **My Projects.**   
 2. Under **Projects for which I am a mentee** section, you can view the statuses:
-
-![Mentee Application Statuses](../../../.gitbook/assets/mentee-application-statuses.png)
 
 Following are the descriptions for each status:
 

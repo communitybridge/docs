@@ -12,7 +12,7 @@ Mentee's name shows under **Current** **Mentees** tab with the application statu
 
 2. Go to your account and select **My Projects** from the drop-down list.  
   
-![](../../../.gitbook/assets/my-projects.png)  
+  
 An overview of each of your projects appears.
 
 3. Click a project for which you want to review mentee application.
