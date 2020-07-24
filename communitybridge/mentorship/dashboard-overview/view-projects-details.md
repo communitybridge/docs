@@ -1,4 +1,4 @@
-# View Projects Details \(SS TO BE UPDATED\)
+# View Projects Details
 
 Projects details can indicate how active a mentorship is in the open source community. This information can help you decide what particular open source project to participate in. You can also learn about the financial aspects of a project to see if you want to donate to it. Information about the project Mentorship program lets you view the mentee and mentor profile images, the companies that offer interview opportunities, and other details about the project. 
 

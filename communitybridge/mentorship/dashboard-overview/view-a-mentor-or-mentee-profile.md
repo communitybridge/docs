@@ -1,4 +1,4 @@
-# View a Mentor or Mentee Profile \(SS TO BE UPDATED\)
+# View a Mentor or Mentee Profile
 
 Learn about a mentor or mentee by viewing their profile, which provides details about the mentor or mentee. You have multiple ways of viewing a profile:
 

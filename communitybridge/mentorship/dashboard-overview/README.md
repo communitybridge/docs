@@ -1,4 +1,4 @@
-# Dashboard Overview \(SS TO BE UPDATED\)
+# Dashboard Overview
 
 CommunityBridge Mentorship makes it easy for individuals and companies to get involved in mentorship programs. Mentorship matchmaking can help individual mentees grow as a contributor to open source communities. The program connects Mentorship program applicants with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with interview opportunities. Get started by discovering projects, mentors, companies, and other aspects of the CommunityBridge mentorship programs.
 
