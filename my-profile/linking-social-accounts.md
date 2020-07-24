@@ -11,7 +11,7 @@ You can connect social profile accounts like Google, Twitter, GitHub and LinkedI
 ![](../.gitbook/assets/edit-connected-accounts.png)
 
 {% hint style="info" %}
-To remove the linked account, click **Disconnect** CTA button.
+To remove the connected account, click **Disconnect** CTA button.
 {% endhint %}
 
 

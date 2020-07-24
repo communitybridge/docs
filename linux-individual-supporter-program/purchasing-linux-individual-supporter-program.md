@@ -20,7 +20,7 @@ To enroll in the Linux Foundation Individual Supporter program, follow these ste
 
 ![Checkout](../.gitbook/assets/checkout1.png)
 
-6. On the Confirmation page, you can view your **Order Number**, the link to My Profile app, and  Individual Support FAQ as well as a link to purchase Linux.com email. 
+6. On the Confirmation page, you can view your **Order Number**, the link to My Profile Dashboard,  and Individual Support FAQ as well as a link to purchase Linux.com email. 
 
 ![](../.gitbook/assets/individual-supporter-confirmation-.png)
 
