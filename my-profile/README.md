@@ -23,5 +23,5 @@ Select a topic below to view detailed information about that section.
 
 ![MyProfile - Events and Community Participation](../.gitbook/assets/myprofile-events-and-community-participation.png)
 
-![Trainings, Certifications and More... ](../.gitbook/assets/trainings-certifications-and-more...-.png)
+![](../.gitbook/assets/trainings-certifications-and-more...-%20%281%29.png)
 
