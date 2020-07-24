@@ -4,7 +4,7 @@ To change your Linux Foundation password, login to [myprofile.linuxfoundation.or
 
 ![](../.gitbook/assets/profile-header-2.png)
 
-2. On the **Change Password** modal, enter your **Current Password**, **New Password,** then **Re-Enter New Password** and click **Save**.
+2. When the **Change Password** modal appears, enter your **Current Password**, **New Password,** then **Re-Enter New Password** and click **Save**.
 
 ![](../.gitbook/assets/change-pwd%20%281%29.png)
 
