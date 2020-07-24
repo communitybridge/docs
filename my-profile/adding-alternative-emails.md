@@ -10,6 +10,10 @@ To add your registered emails login to [myprofile.linuxfoundation.org](https://m
 
 3. A verification email will be sent your newly added email address. Click on **Verify Email** CTA to verify your new email.
 
+{% hint style="info" %}
+Note: You can update your primary email by selecting a verified alternate email from the dropdown menu.
+{% endhint %}
+
 ![Verify Email](https://gblobscdn.gitbook.com/assets%2F-M-jSu-OKTpJoS9behGp%2F-MAzAjJ6MY2J-jcRSOV4%2F-MAzG_ljMCAOHzih34sl%2FALT_Email.png?alt=media&token=b92f5b3d-1eff-43c3-903d-0152aaacdf39)
 
 4. A verified email indicator icon![](../.gitbook/assets/image%20%285%29.png)will appear next to your new email. 
