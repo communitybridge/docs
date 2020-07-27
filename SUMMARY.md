@@ -91,7 +91,7 @@
         * [Create Project Plan and Prepare Mentees](communitybridge/mentorship/mentor-guide/start-mentoring/create-project-plan-and-prepare-mentees.md)
         * [Set Expectations](communitybridge/mentorship/mentor-guide/start-mentoring/set-expectations.md)
         * [Managing the Project Plan](communitybridge/mentorship/mentor-guide/start-mentoring/managing-the-project-plan.md)
-        * [Evaluate Timely](communitybridge/mentorship/mentor-guide/start-mentoring/evaluate-timely.md)
+        * [Mentee Evaluations](communitybridge/mentorship/mentor-guide/start-mentoring/evaluate-timely.md)
       * [Additional Resources](communitybridge/mentorship/mentor-guide/additional-resources.md)
       * [Mentorship FAQs](communitybridge/mentorship/mentor-guide/mentorship-faqs.md)
       * [Code of Conduct](communitybridge/mentorship/mentor-guide/code-of-conduct.md)
