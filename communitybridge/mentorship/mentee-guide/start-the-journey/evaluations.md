@@ -1,6 +1,6 @@
 # Evaluations
 
-Mentee evaluations are conducted three or four times throughout the duration of the mentorship project in order to provide mentees with feedback on their progress. Depending on the project, your mentor may chose to have a 1:1 check-ins, virtual meetings or written evaluations. 
+Mentee evaluations are conducted three or four times throughout the duration of the mentorship project in order to provide mentees with feedback on their progress. Depending on the project, your mentor may chose to have 1:1 check-ins, virtual meetings or written evaluations. 
 
 Only after receiving a satisfactory evaluation, mentees can submit an Expensify report to receive a stipends.  
 
