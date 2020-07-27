@@ -1,17 +1,9 @@
 # Evaluations
 
-Evaluations are conducted three or four times on a regular basis. These are the opportunities for your mentor to evaluate you and provide feedback on your progress. Stipends are released based on satisfactory evaluation reports.Mentees should submit their progress, and report contributions for evaluation.
+Mentee evaluations are conducted three or four times throughout the duration of the mentorship project in order to provide mentees with feedback on their progress. Depending on the project, your mentor may chose to have a 1:1 check-ins, virtual meetings or a written evaluation. 
 
-**Note:** Mentees are also asked to share their experience, provide feedback and suggestion at the end of the program so that Linux Foundation can make improvements for future programs.
+Only after receiving a satisfactory evaluation, mentees can submit an Expensify report to receive a stipends.  
 
-**How do Evaluations Work:**
-
-Linux Foundation does a survey by publishing questions for mentors. These questions focus on the following objectives:
-
-* How active mentees are in the community
-* If  mentees are attending all the scheduled meetings
-* If mentees are completing all the assigned tasks, and so on. 
-
-After mentors submit evaluation reports, you will be informed about your progress/performance. Your evaluation report depends on the regular communication, and day-to-day activities with your mentor.  
+**Note:** Mentees are also asked to share their experience, provide feedback and suggestion at the end of the program so that Linux Foundation can make improvements for future programs. Keep in mind that your mentoring during the program is reflected in their blogs.  
 
 

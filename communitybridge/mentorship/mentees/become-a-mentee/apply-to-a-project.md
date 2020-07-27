@@ -1,4 +1,4 @@
-# Apply to a Project \(SS TO BE UPDATED\)
+# Apply to a Project
 
 As a mentee, you can get the opportunity to engage in an open source project under the guidance of someone experienced in the project and community. If you want to learn/develop a new skill or want to learn open source projects, you can submit a mentee application for a project that you are interested in.
 
