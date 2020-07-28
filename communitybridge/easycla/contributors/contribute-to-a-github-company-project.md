@@ -31,13 +31,21 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 7. Select **Company**.  
 **Note:** To contribute to this project, you must be added to an approved list by the CLA manager under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
 
-8. Click **CONTACT** under Contact the CLA Manager to be approved under their agreed Corporate CLA.
+8. Continue:
+
+* [If you are not added to the approved list](contribute-to-a-github-company-project.md#if-you-are-not-added-to-the-approved-list)
+* [If your company has not signed CLA](contribute-to-a-github-company-project.md#if-your-company-has-not-signed-cla)
+* [If your company is not in the list](contribute-to-a-github-company-project.md#if-your-company-is-not-in-the-list)
+
+## If you are not added to the approved list
+
+1. Click **CONTACT** under Contact the CLA Manager to be approved under their agreed Corporate CLA.
 
 ![Contact CLA Manager](../../../.gitbook/assets/contact-cla-manager.png)
 
-9. Select an option, and complete the form.
+2. Select an option, and complete the form.
 
-10. Click **SEND**.  
+3. Click **SEND**.  
 A message appears informing you that the e-mail is sent successfully.
 
 ![](../../../.gitbook/assets/contact-cla-manager-form.png)
@@ -45,4 +53,35 @@ A message appears informing you that the e-mail is sent successfully.
 {% hint style="info" %}
 You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
 {% endhint %}
+
+## If your company has not signed CLA
+
+1. The **Verify Your Permission of Access** dialog appears.
+2. Click an answer: Are You a CLA Manager?
+
+   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md) to a project.
+
+   **NO**— A Request Access form appears. Continue to next step.
+
+3. Complete the form and click **SEND**.
+
+   The CCLA manager signs a Corporate CLA and adds you to the approved list.
+
+## If your company is not in the list
+
+If you don't find your company's name in the list:
+
+1. Click **COMPANY NOT IN LIST? CLICK HERE**.
+
+   The **Verify Your Permission of Access** dialog appears.
+
+2. Click an answer: Are You a CLA Manager?
+
+   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md) to a project.
+
+   **NO**— A Request Access form appears. Continue to next step.
+
+3. Complete the form and click **SEND**.
+
+   The CCLA manager signs a Corporate CLA and adds you to the approved list.
 
