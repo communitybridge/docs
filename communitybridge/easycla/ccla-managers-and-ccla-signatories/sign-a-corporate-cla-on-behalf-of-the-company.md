@@ -8,7 +8,7 @@ As a CCLA signatory, you must be authorized by your company to sign a Corporate 
 
 The CLA Corporate Console appears and shows Companies.
 
-2. Click the company for which you want to sign a Corporate CLA.
+2. Under **Companies you are associated with in Easy CLA**, click the company for which you want to sign a Corporate CLA.
 
 3. Click **SIGN NEW CLA**.
 
