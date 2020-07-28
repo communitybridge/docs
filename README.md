@@ -1,22 +1,22 @@
-# CommunityBridge
+# Welcome to Linux Foundation
 
-CommunityBridge is a platform created by the Linux Foundation to support the sustainability of open source ecosystem by providing various services, events, and training. This empowers developers — the individuals and companies who support them — to advance sustainability, security, and diversity in open source technology.
+Linux Foundation is a technology association of several companies that helps to scale open source projects. Linux Foundation provides platforms to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by the Linux Foundation to support the creation and growth of sustainable open source software:
 
-Following are the services provided by Linux Foundation to support the creation of sustainable open source software development:
+{% page-ref page="sso/" %}
 
-#### [CommunityBridge User Account Details](https://docs.linuxfoundation.org/user-account/)
+{% page-ref page="communitybridge/communitybridge-funding/" %}
 
-#### [CommunityBridge Funding](https://docs.linuxfoundation.org/communitybridge-funding/)
+{% page-ref page="communitybridge/communitybridge-mentorship/" %}
 
-#### [CommunityBridge Mentorship](https://docs.linuxfoundation.org/communitybridge-mentorship/)
+{% page-ref page="communitybridge/insights/" %}
 
-#### [CommunityBridge Dev Analytics](https://docs.linuxfoundation.org/communitybridge-dev-analytics/)
+{% page-ref page="communitybridge/communitybridge-security/" %}
 
-#### [CommunityBridge Security](https://docs.linuxfoundation.org/communitybridge-security/)
+{% page-ref page="communitybridge/easycla/" %}
 
-#### [CommunityBridge EasyCLA](https://docs.linuxfoundation.org/easycla/) ****
+{% page-ref page="communitybridge/communitybridge-portal/" %}
 
+{% page-ref page="training-and-certification.md" %}
 
-
-
+#### 
 
