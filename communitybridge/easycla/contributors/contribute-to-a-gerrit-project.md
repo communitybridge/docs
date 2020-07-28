@@ -21,7 +21,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Log in using your LFID.
+5. Sign in using your [Single Sign-On \(SSO\)](../../../sso/sign-in/) account.
 
 6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
 

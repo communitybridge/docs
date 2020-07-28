@@ -29,72 +29,20 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 ![CLA GitHub Select Company or Individual](../../../.gitbook/assets/cla-github-select-company-or-individual.png)
 
 7. Select **Company**.  
-**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
+**Note:** To contribute to this project, you must be added to an approved list by the CLA manager under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
 
-8. Continue:
+8. Click **CONTACT** under Contact the CLA Manager to be approved under their agreed Corporate CLA.
 
-* [If a Confirmation of Association with statement appears](contribute-to-a-github-company-project.md#if-a-confirmation-of-association-with-statement-appears)
-* [If the Select Company dialog appears](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears)
+![Contact CLA Manager](../../../.gitbook/assets/contact-cla-manager.png)
 
-## If a Confirmation of Association with statement appears <a id="if-a-confirmation-of-association-with-statement-appears"></a>
+9. Select an option, and complete the form.
 
-1. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
+10. Click **SEND**.  
+A message appears informing you that the e-mail is sent successfully.
 
-   ​ ![](../../../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png) 
+![](../../../.gitbook/assets/contact-cla-manager-form.png)
 
-   A dialog appears and informs you: You are done!
-
-   ​ ![](../../../.gitbook/assets/cla-github-you-are-done%20%281%29.png) ​
-
-2. Click **RETURN TO REPO**.
-
-   You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
-
-   A tick appears next to your branch. A notification appears:
-
-   ​![All Checks Have Passed](../../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)​
-
-3. Click **Merge pull request** and confirm the merge.
-
-   The CLA is added to the project.
-
-## If the Select Company dialog appears <a id="if-the-select-company-dialog-appears"></a>
-
-1. Click your **company name** and skip to **Step 3**.
-
-   If your company is not associated with a company in the list, continue with the **next step**.
-
-   ​ ![](../../../.gitbook/assets/select-company.png) ​
-
-2. Click **COMPANY NOT IN LIST?**.
-
-   The Verify Your Permission of Access dialog appears.
-
-3. Click an answer to the question: Are You a CLA Manager?
-
-   **YES**—go to **Step 5**.
-
-   **NO**—A Request Access form appears. Complete the form and click **SEND**. The CCLA manager signs a Corporate CLA and adds you to the approved list.
-
-   ​ ![](../../../.gitbook/assets/request-access.png) ​
-
-   A Confirmation of Association with statement appears.
-
-4. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
-
-   ​![Confirmation of Association](../../../.gitbook/assets/cla-github-confirmation-of-association.png)​
-
-   A dialog appears and informs you: You are done!
-
-   ​![You Are Done](../../../.gitbook/assets/cla-github-you-are-done.png)​
-
-5. You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
-
-   A tick appears next to your branch. A notification appears:
-
-   ​ ![](../../../.gitbook/assets/cla-github-all-checks-passed.png) ​
-
-6. Click **Merge pull request** and confirm the merge.
-
-   The CLA is added to the project.
+{% hint style="info" %}
+You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
+{% endhint %}
 

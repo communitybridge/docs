@@ -1,5 +1,9 @@
 # Approve Contributors
 
+{% hint style="info" %}
+You will receive an email after a contributor sends request to be added to the approved list.
+{% endhint %}
+
 You can approve contributors by adding their name to the Aprroved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
 
 * Domain Approved List allows entities to contribute under any email address under that domain name.
@@ -19,17 +23,23 @@ _Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA
 
 3. Click a **company** of interest.
 
-4. The CLA Corporate Console appears and shows Signed CLAs.
+![cla manager associated companies](../../../.gitbook/assets/cla-manager-associated-companies.png)
 
-![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)
+4. The CLA Corporate Console appears and shows projects with signed CLAs.
 
-5. Click a **CLA**.
+5. Click **MANAGE APPROVED LIST** for a ****CLA ****under which you want to add a contributor.  
+You can identify a recent request for a CLA by seeing the value as 1 under Pending Contributor Requests column. Following is an example:
 
-The approved lists appear:
+![projects with signed clas](../../../.gitbook/assets/projects-with-signed-clas.png)
 
-![Approved List](../../../.gitbook/assets/approved-list.png)
+6. Under **Pending Contributor Requests**, click **ACCEPT**, and then click **APPROVE REQUEST** on the confirmation window to add the contributor to the approved list or click **DECLINE** to decline the contributor's request to be added.  
+The contributor receives an e-mail notification about the status.
 
-6. Decide which approved list you want to edit:
+![accept or decline a contributor](../../../.gitbook/assets/accept-or-decline-a-contributor.png)
+
+**Result:** If you click **ACCEPT**, the contributor will be added to the list, and is removed from the Pending Contributor Requests section.
+
+7. \(Optional\) You can edit a contributor's approved list details by:
 
 * [Domain Approved List , Email Approved List, or GitHub Approved List](approve-contributors.md#domain-whitelist-email-whitelist-or-github-whitelist)
 * [GitHub Organization Approved List](approve-contributors.md#github-organization-whitelist)

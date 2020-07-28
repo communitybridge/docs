@@ -10,13 +10,11 @@ The CLA Corporate Console appears and shows Companies.
 
 2. Click the company for which you want to sign a Corporate CLA.
 
-3. Click **NEW CLA**.
+3. Click **SIGN NEW CLA**.
 
-![New CLA](../../../.gitbook/assets/cla-new-cla.png)
+![](../../../.gitbook/assets/sign-new-cla.png)
 
-4. The Select a Project to Sign a CCLA dialog appears and lists CLA groups.
-
-​![Select a Project to Sign a CCLA](../../../.gitbook/assets/cla-select-a-project-to-sign-a-ccla.png)​
+4. The **Select a Project to Sign a CCLA** dialog appears and lists CLA groups.
 
 5. Select the CLA group of interest.  
 A CLA Signing Requirement dialog appears:
