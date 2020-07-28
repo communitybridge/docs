@@ -39,6 +39,10 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 ## If you are not added to the approved list
 
+You must be added to the approved list under a signed CLA before you can contribute to the project.
+
+**To contact your CLA manager to add you to the approved list:**
+
 1. Click **CONTACT** under Contact the CLA Manager to be approved under their agreed Corporate CLA.
 
 ![Contact CLA Manager](../../../.gitbook/assets/contact-cla-manager.png)
