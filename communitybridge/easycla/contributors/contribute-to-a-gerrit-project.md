@@ -83,11 +83,13 @@ EasyCLA presents a review agreement link where you confirm your association with
 5. Continue:
 
 * [If a **Confirmation of Association with** statement appears](contribute-to-a-gerrit-project.md#if-a-confirmation-of-association-with-statement-appears)
-* [If a **Company has not signed CCLA** window appears](contribute-to-a-gerrit-project.md#if-a-company-has-not-signed-ccla-window-appears)
-* [If You are not authorized](contribute-to-a-gerrit-project.md#if-you-are-not-whitelisted)
+* [If your company has not signed CCLA](contribute-to-a-gerrit-project.md#if-your-company-has-not-signed-ccla)
+* [If you are not added to the approved list](contribute-to-a-gerrit-project.md#if-you-are-not-added-to-the-approved-list)
 * [If Company is not in the list](contribute-to-a-gerrit-project.md#if-company-is-not-in-the-list)
 
 ## If a **Confirmation of Association with** statement appears <a id="if-a-confirmation-of-association-with-statement-appears"></a>
+
+This message appears if you are added to the approved list, and your CLA doesn't require you to sign Individual CLA \(ICLA\). If the CLA is configured for you to sign ICLA, you will be re-directed to sign an Individual CLA, as shown in [step 4 of Individual Contributor](contribute-to-a-gerrit-project.md#individual-contributor).
 
 1. Read the Confirmation of Association statement and select the checkbox.
 
@@ -103,39 +105,39 @@ A dialog appears and informs you: You are done!
 
 You are redirected to Gerrit. Wait a few seconds for the CLA status to update or refresh the page.
 
-## If a **Company has not signed CCLA** window appears <a id="if-a-company-has-not-signed-ccla-window-appears"></a>
+## If your company has not signed CCLA
 
-This window appears if your company has not signed a Corporate CLA for the project.
+1. The **Verify Your Permission of Access** dialog appears.
+2. Click an answer: Are You a CLA Manager?
 
-To send an email notification to your company's CLA manager to sign Corporate CLA:
+   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md).
 
-1. Select your email address from the **Email to Authorize** drop-down list. This is the email address that you want your company manager to include in the approved list while signing the Corporate CLA.
+   **NO**— A Request Access form appears. Continue to next step.
 
-![Company not signed CCLA](../../../.gitbook/assets/company-not-signed-ccla.png)
+3. Complete the form and click **SEND**.
 
-2. Click **SEND**.
+   The CCLA manager signs a Corporate CLA and adds you to the approved list.
 
-A message shows that your email is successfully sent.
+## If you are not added to the approved list
 
-## If You are not authorized <a id="if-you-are-not-whitelisted"></a>
+ You must be added to the approved list under a signed CCLA before you can contribute to the project.
 
-This window appears if your company has not authorized you or has not included your name in the approved list under their signed Corporate CLA.
+**To contact your CLA manager to add you to the approved list:**
 
-To send a request to your company's CLA manager to be authorized:
+1. Click **CONTACT** under Contact the CLA Manager to be approved under their signed Corporate CLA.
 
-1. Click **CONTACT**.
+![Contact CLA Manager](../../../.gitbook/assets/contact-cla-manager.png)
 
-![Request to be Approved](../../../.gitbook/assets/request-to-be-whitelisted.png)
+2. Select an option, and complete the form.
 
-2. A **Request Access** window appears.
+3. Click **SEND**.  
+A message appears informing you that the e-mail is sent successfully.
 
-3. Select your email address from the **Email to Authorize** drop-down list. This is the email address that you want your company manager to include in the approved list while signing the Corporate CLA.
+![](../../../.gitbook/assets/contact-cla-manager-form.png)
 
-4. Click **SEND**.
-
-A message shows that your email is successfully sent.
-
-![](../../../.gitbook/assets/email-to-whitelist.png)
+{% hint style="info" %}
+You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
+{% endhint %}
 
 ## If Company is not in the list <a id="if-company-is-not-in-the-list"></a>
 

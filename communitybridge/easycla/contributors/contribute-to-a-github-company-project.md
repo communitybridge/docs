@@ -33,12 +33,14 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 8. Continue:
 
-* If Confirmation of Association statement appears
+* [If Confirmation of Association statement appears](contribute-to-a-github-company-project.md#if-confirmation-of-association-statement-appears)
 * [If you are not added to the approved list](contribute-to-a-github-company-project.md#if-you-are-not-added-to-the-approved-list)
 * [If your company has not signed CLA](contribute-to-a-github-company-project.md#if-your-company-has-not-signed-cla)
 * [If your company is not in the list](contribute-to-a-github-company-project.md#if-your-company-is-not-in-the-list)
 
 ## If Confirmation of Association statement appears
+
+This message appears if you are added to the approved list, and your CLA doesn't require you to sign ICLA. If the CLA is configured for you to sign ICLA, you will be re-directed to sign an Individual CLA, as shown in [step 5 of sign ICLA](sign-a-cla-as-an-individual-contributor-to-github.md).
 
 1. Read the Confirmation of Association statement and select the checkbox.
 
@@ -58,11 +60,11 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update or
 
 ## If you are not added to the approved list
 
-You must be added to the approved list under a signed CLA before you can contribute to the project.
+You must be added to the approved list under a signed CCLA before you can contribute to the project.
 
 **To contact your CLA manager to add you to the approved list:**
 
-1. Click **CONTACT** under Contact the CLA Manager to be approved under their agreed Corporate CLA.
+1. Click **CONTACT** under Contact the CLA Manager to be approved under their signed Corporate CLA.
 
 ![Contact CLA Manager](../../../.gitbook/assets/contact-cla-manager.png)
 
