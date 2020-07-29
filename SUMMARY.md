@@ -233,7 +233,6 @@
       * [Add or Delete CLA Managers](communitybridge/easycla/ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
       * [View Employee Acknowledgements](communitybridge/easycla/ccla-managers-and-ccla-signatories/view-employee-acknowledgements.md)
       * [Edit the Company Name and Manager Details](communitybridge/easycla/ccla-managers-and-ccla-signatories/edit-the-company-name-and-manager-details.md)
-  * [Admin Dashboard](communitybridge/admin-dashboard.md)
   * [Company Dashboard](communitybridge/company-dashboard/README.md)
     * [Dashboard Overview](communitybridge/company-dashboard/dashboard-overview.md)
     * [Group of Projects](communitybridge/company-dashboard/group-of-projects/README.md)
