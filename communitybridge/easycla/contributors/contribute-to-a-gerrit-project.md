@@ -105,7 +105,7 @@ You are redirected to Gerrit. Wait a few seconds for the CLA status to update or
 
 ## If a **Company has not signed CCLA** window appears <a id="if-a-company-has-not-signed-ccla-window-appears"></a>
 
-This window appears if your comapny has not signed a Corporate CLA for the project.
+This window appears if your company has not signed a Corporate CLA for the project.
 
 To send an email notification to your company's CLA manager to sign Corporate CLA:
 

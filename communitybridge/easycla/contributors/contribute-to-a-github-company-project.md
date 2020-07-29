@@ -33,9 +33,28 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 8. Continue:
 
+* If Confirmation of Association statement appears
 * [If you are not added to the approved list](contribute-to-a-github-company-project.md#if-you-are-not-added-to-the-approved-list)
 * [If your company has not signed CLA](contribute-to-a-github-company-project.md#if-your-company-has-not-signed-cla)
 * [If your company is not in the list](contribute-to-a-github-company-project.md#if-your-company-is-not-in-the-list)
+
+## If Confirmation of Association statement appears
+
+1. Read the Confirmation of Association statement and select the checkbox.
+
+![](../../../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png)
+
+2. Click **CONTINUE**.
+
+A dialog appears and informs you: You are done!
+
+![](../../../.gitbook/assets/cla-github-you-are-done%20%281%29.png)
+
+3. Click **RETURN TO REPO**.
+
+You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
+
+![GitHub Individual Contributor Pass](../../../.gitbook/assets/cla-github-individual-contributor-pass.png)
 
 ## If you are not added to the approved list
 
