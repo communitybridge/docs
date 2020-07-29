@@ -112,7 +112,8 @@ You are redirected to Gerrit. Wait a few seconds for the CLA status to update or
 
    **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md).
 
-   **NO**— A Request Access form appears. Continue to next step.
+   **NO**— A **Request Access** form appears. Continue to next step.  
+    ![](../../../.gitbook/assets/request-access.png) 
 
 3. Complete the form and click **SEND**.
 
@@ -151,7 +152,8 @@ If you don't find your company's name in the list:
 
    **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md) to a project.
 
-   **NO**— A Request Access form appears. Continue to next step.
+   **NO**— A **Request Access** form appears. Continue to next step.  
+    ![](../../../.gitbook/assets/request-access.png) 
 
 3. Complete the form and click **SEND**.
 
