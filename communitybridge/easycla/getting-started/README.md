@@ -78,6 +78,6 @@ You become a CLA manager designee when you, as a corporate contributor, tries to
 
 You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
 
-* ​[Sign a Corporate CLA on behalf of the company](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md)—as a signatory you must have legal authority to sign documents on behalf of the company.
-* [Review and sign a Corporate CLA by request](../ccla-managers-and-ccla-signatories/review-and-sign-a-corporate-cla-by-request.md).
+* ​[Sign a Corporate CLA on behalf of the company]()—as a signatory you must have legal authority to sign documents on behalf of the company.
+* [Review and sign a Corporate CLA by request](../cla-manager-designee/review-and-sign-a-corporate-cla-by-request.md).
 

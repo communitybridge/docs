@@ -10,7 +10,7 @@ You can add CCLA managers to your project or remove them.
 
 **Do these steps:**
 
-​1. [Sign in](../ccla-managers-and-ccla-signatories/sign-in-to-the-cla-corporate-console.md).  
+​1. [Sign in](sign-in-to-the-cla-corporate-console.md).  
 The CLA Corporate Console appears and shows Companies.
 
 2. Click a **company** of interest.  

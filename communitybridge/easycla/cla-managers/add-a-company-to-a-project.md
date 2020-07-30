@@ -6,7 +6,7 @@ _If you are also the project manager, make sure that you are logged out of the C
 
 **Do these steps**:
 
-1. ​[Sign in](../ccla-managers-and-ccla-signatories/sign-in-to-the-cla-corporate-console.md).
+1. ​[Sign in](sign-in-to-the-cla-corporate-console.md).
 
    The CLA Corporate Console appears and shows Companies.
 
@@ -21,5 +21,5 @@ _If you are also the project manager, make sure that you are logged out of the C
 
    The Companies page shows your company.
 
-4. Sign out or continue to [Sign a CCLA on Behalf of a Company](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md) \(CCLA signatory\).
+4. Sign out or continue to [Sign a CCLA on Behalf of a Company]() \(CCLA signatory\).
 
