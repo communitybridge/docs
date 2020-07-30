@@ -36,6 +36,11 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 
 6. Follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
+{% hint style="info" %}
+* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
+* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
+{% endhint %}
+
 You are redirected to GitHub. Wait a few seconds for the CLA status to update. A tick appears next to your branch.
 
 ![GitHub Individual Contributor Pass](../../../.gitbook/assets/cla-github-individual-contributor-pass.png)

@@ -33,7 +33,12 @@ The Corporate CLA dialog opens.
 ![Corporate CLA](../../../.gitbook/assets/cla-corporate-cla-open-cla.png)
 
 1. Click **OPEN CLA**.
-2. Follow the instructions that DocuSign presents. Some fields are pre-populated such as the company name and email.
+2. Follow the instructions that DocuSign presents, sign it, and click **FINISH**. Some fields are pre-populated such as the company name and email.
+
+{% hint style="info" %}
+* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
+* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../../.gitbook/assets/proceed-to-download-ccla.png) 
+{% endhint %}
 
 ## NO <a id="no"></a>
 
