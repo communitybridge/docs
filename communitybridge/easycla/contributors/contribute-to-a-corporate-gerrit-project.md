@@ -147,7 +147,7 @@ If you don't find your company's name in the list:
 
 2. Click an answer: Are You a CLA Manager?
 
-   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md) to a project.
+   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../cla-managers/add-a-company-to-a-project.md) to a project.
 
    **NO**— A Request Access form appears. Continue to next step.
 

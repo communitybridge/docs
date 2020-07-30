@@ -28,7 +28,11 @@ The CLA Contributor Console appears and shows the CLA group for your project.
 
 ![cla contributor console](../../../.gitbook/assets/type-of-contributor.png)
 
-5. Click **Proceed as a Individual Contributor** and then click **SIGN CLA** after CLA is ready for signature window appears.
+5. Click **Proceed as an Individual Contributor**.  
+**Result: Preparing CLA..** window appears.  
+ ![](../../../.gitbook/assets/preparing-cla.png) 
+
+ 6. After **CLA is Ready For Signature** window appears, click **SIGN CLA** .
 
 ![](../../../.gitbook/assets/sign-cla-individual-cla-flow.png)
 
@@ -37,6 +41,13 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 ![DocuSign](../../../.gitbook/assets/docusign-icla-flow.png)
 
 6. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+
+{% hint style="info" %}
+**Result:**
+
+* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
+* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
+{% endhint %}
 
 You are redirected to GitHub. Wait a few seconds for the CLA status to update. A tick appears next to your branch.
 

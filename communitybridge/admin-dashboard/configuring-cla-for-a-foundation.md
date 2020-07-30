@@ -36,28 +36,7 @@ You can configure CLA group for a group of projects or individual projects. CLA 
 
 ![](../../.gitbook/assets/select-projects.png)
 
-The CLA groups that are created for a foundation are shown under **CLA GROUPS UNDER &lt;FOUNDATION NAME&gt;**, and following screen appears showing all the details for the created CLA groups.
-
-![](../../.gitbook/assets/cla-group-details.png)
-
-For a CLA group, following details are shown:
-
-* **Name:** Shows the name and description of the CLA group
-* **Projects Covered:** Shows the total number of projects that are covered under the CLA group. Click **View Projects** to see the projects under the CLA group with all the details.
-* **Repositories:** Total number of repositories within the CLA group. Repository numbers are also shown per project within the CLA group.
-* **Total Signatures:** Total number of individual and corporate contributors who have signed CLAs within the CLA group.
-* **ICLA&CCLA: View Document** lets you view and download the CLA templates for the project.  ![](../../.gitbook/assets/cla-template.png) 
-* **Signatures: View & Export** lets you view and download the names who have signed Individual CLA and Corporate CLA.  ![](../../.gitbook/assets/cla-signatures.png) 
-* **Add/Manage Project:** lets you add or remove a project.
-* **Add/Manage Repositories:** **NOT IN PRD YET, BUT SHOWS IN WIREFRAME**
-
-**ACTIVITY LOG shows recent activities for the project.**  
-
-* CLA group with no projects selected under it:
-
-![](../../.gitbook/assets/cla-group-with-no-projects-ubnder-it.png)
-
-CLA group with 
+The CLA groups are created for a foundation. You can [view CLA group and activity log statuses](view-cla-and-activity-log-status.md). 
 
 
 

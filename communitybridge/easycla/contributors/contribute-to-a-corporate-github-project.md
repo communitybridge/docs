@@ -26,35 +26,37 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
+**Result:** The CLA Contributor Console appears.
+
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla.png)​
 
-The CLA Contributor Console appears.
-
-![ccla flow](../../../.gitbook/assets/cla-ccla-flow.png)
+![CLA Contributor Console- CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
 
 6. Click **Proceed as a Corporate Contributor**.   
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing your work on behalf of a company.
 
-7. On **Select Organization** window, type organization name in the filed, select the organization from the drop-down list, and click **Proceed**.
+7. On **Select Your Organization** window, type organization name in the filed, select the organization from the drop-down list, and click **Proceed**.
+
+**Note:** If your company is not in the list, you can add the company as described in [If Company is not in the list](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1).
 
 ![ccla flow](../../../.gitbook/assets/select-organization.png)
 
 8. Continue:
 
-* [If Company has signed CLA](contribute-to-a-corporate-github-project.md#if-a-confirmation-of-association-with-statement-appears)
+* [If you are not added to the approved list](contribute-to-a-corporate-github-project.md#if-you-are-not-added-to-the-approved-list)
 * [If Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1)
 
-## If Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
+## If you are not added to the approved list
 
-**CLA manager\(s\) for your company** window appears informing you that the company has signed CLA.
+If your company has signed CLA, but you are not added to the approved list, **Request Authorization to Contribute** window appears that shows the CLA manager\(s\) for your company.
 
 1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.
 
 * **Go Back:** Takes you to the previous screen.
 * **Exit EasyCLA:** Cancels the CLA signing process.
 
-![](../../../.gitbook/assets/comapny-has-signed-cla.png)
+![Request Authorization](../../../.gitbook/assets/request-authorization.png)
 
 2. Click **Request Authorization**.  
 A dialog appears and informs you: Request Submitted ​
@@ -64,7 +66,7 @@ A dialog appears and informs you: Request Submitted ​
 3. Click **Exit EasyCLA**.  
 _****_The CLA  manager adds you to the approved list.
 
-You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page. **\(IS THIS CORRECT? IS THE CLA SIGNED CHECKMARK SHOWS AFTER FEW MINUTES EVEN WHEN THE USER SENDS REQUESTS TO BE ADDED TO APPROVE LIST \)**
+You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
 
 A tick appears next to your branch. A notification appears:
 
@@ -74,16 +76,16 @@ A tick appears next to your branch. A notification appears:
 
 ## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
 
-**No Signed CLA Found** window appears informing you that the company has not signed CLA.
+If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-* [Yes](contribute-to-a-corporate-github-project.md#if-you-are-authorized)
-* [No](contribute-to-a-corporate-github-project.md#if-you-are-not-authorized)
+* [Yes](contribute-to-a-corporate-github-project.md#yes-if-you-are-authorized)
+* [No](contribute-to-a-corporate-github-project.md#no-if-you-are-not-authorized)
 
 ![company has not signed cla](../../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png)
 
-### If **You are** Authorized
+### **Yes \(**If y**ou are a**uthorized\)
 
 1. A **Configuring CLA Manager Settings** window appears. After the configuration settings is completed, click **Proceed**.  
  ![](../../../.gitbook/assets/configuring-cla-manager-settings.png) 
@@ -116,7 +118,7 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update or
 
 6. Click **Merge pull request** and confirm the merge.
 
-### If You are not Authorized
+### No \(If you are not authorized\)
 
 1. An **Identify CLA Manager** form appears.
 
