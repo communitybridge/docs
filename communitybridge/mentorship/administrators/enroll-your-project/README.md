@@ -1,4 +1,4 @@
-# Enroll Your Project \(SS TO BE UPDATED\)
+# Enroll Your Project
 
 As the primary administrator of an open source project, you can enroll or add your project to CommunityBridge Mentorship program. After your project is approved, it is available in CommunityBridge Mentorship platform for Mentorship program participants.
 

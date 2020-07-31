@@ -17,6 +17,8 @@ As a mentee, you can get the opportunity to engage in an open source project und
 
 3. Click **Apply** on a project card of interest.
 
+![](../../../../.gitbook/assets/apply-to-a-project.png)
+
 {% hint style="warning" %}
 **Important:**
 

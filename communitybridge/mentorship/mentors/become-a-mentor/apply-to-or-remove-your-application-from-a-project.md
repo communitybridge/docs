@@ -2,6 +2,9 @@
 
 You can apply to a project either while creating a profile or editing your profile by navigating to **My Account &gt; My Profile**.
 
+* [Apply to a Project](apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project)
+* [Remove Application from a Project](apply-to-or-remove-your-application-from-a-project.md#remove-your-application-from-a-project)
+
 ### Apply to a Project:
 
 1. On the edit page of your mentor profile, navigate to the **Mentorship Project Details** section.

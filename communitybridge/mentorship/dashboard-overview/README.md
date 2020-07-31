@@ -9,13 +9,13 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
    Featured tab appears.
 
    * **Mentorships** shows the projects that are enrolled for mentorship program.
-   * Mentors shows details of participating mentors..
-   * Mentess shows details of participating mentees.
+   * **Mentors** shows details of participating mentors..
+   * **Mentess** shows details of participating mentees.
 
 2. Navigate to each section, such as Mentorships, Mentors, Mentees, and click an entity under a section to know more about the entity or select a **tab**:
    * [Mentorships](./#DashboardOverview-Projects)
    * [Mentors](./#DashboardOverview-Mentors)
-   * Mentees
+   * [Mentees](../mentees/)
 3. To view more information:
    * [View Projects Details](view-projects-details.md)
    * [View a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md)
@@ -27,9 +27,16 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 ## Mentorships <a id="DashboardOverview-Projects"></a>
 
-![Project Overview](../../../.gitbook/assets/project-overview%20%281%29.png)
+![Mentorships Project Cards](../../../.gitbook/assets/mentorships-project-cards.png)
 
-**Mentorships** shows the yet-to-start \(Accepting Applications\), in progress, and completed projects in respective tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information:
+**Mentorships** shows the following tabs:
+
+* **All Mentorships** shows all the mentorship programs on Linux Foundation
+* **Accepting Applications** shows the yet-to-start mentorship programs. As a mentee, you can apply to participate in the mentorship program.
+* **In Progress** shows the currently running mentorship programs.
+* **Completed** shows all completed programs.
+
+Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information:
 
 * **Project name and logo**. Click the project title or logo to see more information about it.
 * **Terms** shows the Mentorship program timelines that are available for mentees and mentors.
@@ -43,9 +50,11 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
   * **Current Mentees** shows images of currently participating mentees for the project.
   * **Graduated Mentees** shows images of mentees who successfully completed the mentorship program.
   * **Funding To Date** shows the total project fund amount received to date for mentee stipends.
-* **BACK TO PROJECT OVERVIEW** lets you to go back to the overview card.
+* **Back To Project Overview** lets you to go back to the overview card.
 
 ## Mentees <a id="DashboardOverview-Mentors"></a>
+
+![Mentees](../../../.gitbook/assets/mentees-cards.png)
 
 **Mentees** shows the mentee profile cards. Type a mentee name in the **Search** box for quick search. Each mentee profile card shows the following information :
 
@@ -58,7 +67,7 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
 
-![Mentors](../../../.gitbook/assets/mentors-tab.png)
+![Mentors](../../../.gitbook/assets/mentors-cards.png)
 
 **Mentors** shows the mentor profile cards. Type a mentor name in the **Search** box for quick search. Each mentor profile card shows the following information :
 

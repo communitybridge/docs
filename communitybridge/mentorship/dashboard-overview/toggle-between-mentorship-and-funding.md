@@ -12,11 +12,11 @@ You can toggle between projects in Mentorship and Funding at any time, offering 
 1. Go to project details or a project list.
 2. Click **Funding** or **Mentorship** depending on what service you are in:
    * From Mentorship, click **Funding**: ![](https://docs.linuxfoundation.org/download/thumbnails/7418697/Funding-Toggle.png?version=1&modificationDate=1574933176395&api=v2)
-   * From Funding, click **Mentorship**: ![](https://docs.linuxfoundation.org/download/thumbnails/7418697/Mentorship-Toggle.png?version=1&modificationDate=1574933176378&api=v2)
+   * From Funding, click **Mentorship**:
+
+![Toggle to Funding](../../../.gitbook/assets/toggle-to-funding.png)
+
+![Toggle to Mentorship](../../../.gitbook/assets/toggle-to-mentorship.png)
 
 The project details or project list appears in the service you selected.
-
-![](../../../.gitbook/assets/toggle-to-funding.png)
-
-![](../../../.gitbook/assets/toggle-to-mentorship.png)
 

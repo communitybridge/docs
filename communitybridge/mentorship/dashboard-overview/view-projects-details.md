@@ -8,7 +8,7 @@ Projects details can indicate how active a mentorship is in the open source comm
 2. From Mentorships tab, click a **project** of interest. For quick access, you can search for the project by typing the name of the project in the search field. 
 3. Browse the details that appear. Depending on the data available, some or all of the following items appear:
 
-![](../../../.gitbook/assets/7418695.png)
+![](../../../.gitbook/assets/project-details.png)
 
 <table>
   <thead>
@@ -110,4 +110,6 @@ Projects details can indicate how active a mentorship is in the open source comm
 **Mentors** section shows the images and brief description of mentors associated with the particular project. Click **View Profile** to know more about a mentor.
 
 **Mentees** section shows the images of mentees associated with the particular project. Click **View Profile** to know more about a mentee.
+
+**Graduated Mentees** section shows the images of mentees who successfully completed the mentorship program with the particular project. Click **View Profile** to know more about a mentee.
 

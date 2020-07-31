@@ -14,8 +14,6 @@ Features tab appears. Projects \(Mentorships\), Mentors, and Mentees appear in a
 2. Navigate to **Mentors** tab and then click a **mentor** of interest.  
 The mentor's profile page appears showing projects and mentees the mentor is associated with.
 
-![Mentors Tab](../../../.gitbook/assets/mentors-tab.png)
-
 3. Scroll to the Mentees section and click **View Profile** on a mentee of interest.  
 The profile appears, showing projects and mentors, the mentee is associated with.
 
@@ -32,8 +30,6 @@ Features tab appears. Projects \(Mentorships\), Mentors, and Mentees appear in a
 The project details page appear.
 
 3. Scroll to the Mentors or Mentees section and click **View Profile** on a mentor or mentee of interest.
-
-![Mentor section on a project page](../../../.gitbook/assets/project-page.png)
 
 The Mentor/Mentee profile appears.
 
