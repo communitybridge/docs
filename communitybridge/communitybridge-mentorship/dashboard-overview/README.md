@@ -21,8 +21,6 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
 
 ## Projects <a id="DashboardOverview-Projects"></a>
 
-![Project Overview](../../../.gitbook/assets/project-overview%20%281%29.png)
-
 **Projects** shows the on-going and past projects in Current Projects and Past Projects tabs. Navigate to a project card of interest or type a project name in the **Search** box for quick search. Each project card shows the following information: 
 
 * **Project name and logo**. Click the project title or logo to see more information about it.
@@ -39,8 +37,6 @@ CommunityBridge Mentorship makes it easy for individuals and companies to get in
   * **BACK TO PROJECT OVERVIEW** lets you to go back to the overview card
 
 ## Mentors <a id="DashboardOverview-Mentors"></a>
-
-![Mentors](../../../.gitbook/assets/mentors-tab.png)
 
 **Mentors** shows the mentor profile cards. Type a mentor name in the **Search** box for quick search. Each mentor profile card shows the following information :
 

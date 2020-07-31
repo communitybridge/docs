@@ -16,7 +16,3 @@ You can toggle between projects in Mentorship and Funding at any time, offering 
 
 The project details or project list appears in the service you selected.
 
-![](../../../.gitbook/assets/toggle-to-funding.png)
-
-![](../../../.gitbook/assets/toggle-to-mentorship.png)
-
