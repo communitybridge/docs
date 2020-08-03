@@ -15,9 +15,10 @@ As a mentee, you can get the opportunity to engage in an open source project und
 * If you have a profile, projects that match your skills appear:
 {% endhint %}
 
-3. Click **Apply** on a project card of interest.
+3. Click **Apply** on a project card of interest.  
+On a project card, click View Project Statistics to view related information for a project.
 
-![](../../../../.gitbook/assets/apply-to-a-project.png)
+![Apply to Project](../../../../.gitbook/assets/apply-to-a-project.png)
 
 {% hint style="warning" %}
 **Important:**

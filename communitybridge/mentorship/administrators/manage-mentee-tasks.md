@@ -17,7 +17,7 @@ A mentee applicant must have at least one application task to complete, for exam
    * [Add Task](manage-mentee-tasks.md#add-task)
    * [Edit Task](manage-mentee-tasks.md#edit-task)
 
-![](../../../.gitbook/assets/mentee-task%20%281%29.png)
+![Mentee Tasks](../../../.gitbook/assets/view-mentee-task.png)
 
 2. \(Optional\) Filter the list by selecting a value from the Filter By Application Status drop-down list.
 
@@ -44,10 +44,10 @@ Following table describes each status:
 
 | Status Name | Description |
 | :--- | :--- |
-| Pending | Mentee is yet to work on the task. |
-| In Progress | Mentee is working on the task, and has changed the status to **In Progress.** |
-| Submitted | Mentee has changed the status to **Submitted.** |
-| Completed | Set to **Completed** if a mentee has completed a task. |
+| **Pending** | Mentee is yet to work on the task. |
+| **In Progress** | Mentee is working on the task, and has changed the status to **In Progress.** |
+| **Submitted** | Mentee has changed the status to **Submitted.** |
+| **Completed** | Set to **Completed** if a mentee has completed a task. |
 
 ### **Add Task**
 
@@ -58,9 +58,11 @@ The Create Task page appears. Complete the form fields and click **Add Task**. W
 
 ### **Edit Task**
 
-{% hint style="info" %}
-You can not edit prerequisite tasks.
+{% hint style="warning" %}
+**Important:** You can not edit prerequisite tasks.
 {% endhint %}
+
+![Edit Mentee Task](../../../.gitbook/assets/edit-mentee-task.png)
 
 Click **Edit Task** for a mentee task.  
  The Edit Task dialog appears. Modify the task and click **Submit**.

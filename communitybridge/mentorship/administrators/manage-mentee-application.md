@@ -24,7 +24,7 @@ An overview of each of your projects appears.
 
 4. Navigate to **Current** **Mentees** tab.
 
-![Mentee Application Status](../../../.gitbook/assets/mentee-application-status-for-admin.png)
+![Mentee Application Status](../../../.gitbook/assets/mentee-application-admin.png)
 
 A list of the persons who have applied to your project appears. The following table describes the additional information:
 
