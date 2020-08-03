@@ -176,8 +176,6 @@ The following table lists all the fields that appear on the Program Setup page o
 
 Each mentee applicant must complete at least one prerequisite task to qualify for the mentorship program. These prerequisite tasks appear in the **Tasks** view of your project. Tasks view lets you edit and change statuses for tasks.
 
-![Prerequisites](../../../../.gitbook/assets/prerequisites.png)
-
 Select a checkbox to add a prerequisite name. Click **Add Custom Prerequisite** to add name and description of your own required task.
 
 **Prerequisite Name** is the name of a qualification task that you want an applicant to complete.
