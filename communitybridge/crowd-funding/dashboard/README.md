@@ -1,14 +1,26 @@
 # Dashboard
 
-## Getting Started <a id="Dashboard-GettingStarted"></a>
+### Getting Started
 
-1. Browse or search for projects and learn more:
-   * [Projects](projects.md)
-   * [Events](events.md)
-   * [Travel Funds](travel-funds.md)
-   * [Integrated Services for a Project](integrated-services-for-a-project.md)
-   * [Search](search.md)
-   * [Toggle Between Funding and Mentorship for a Project](toggle-between-funding-and-mentorship-for-a-project.md)
+1. Open [CommunityBridge Funding](https://funding.communitybridge.org/). Projects tab appears.
+2. From **Projects** tab, click a **project** of interest or search for a project. The landing page shows overview of the project.
+3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
+4. Navigate to each tab, such as Events, Security Audits \(OSTIF\) Mentors, Initiatives, and click an entity under a tab to know more about the entity:
+   * [Projects](./#Dashboard-ProjectsandMentorships)
+   * [Events](./#Dashboard-Events)
+   * [Security Audits \(OSTIF\)](./#security-audits-ostif)
+   * [Initiatives](./#initiatives)
+   * [Travel Fund](./#Dashboard-TravelScholarships)
+5. Participate:
+   * [Apply to raise fund for a project](../apply-for-funding/)
+     * [Add a GitHub project](../apply-for-funding/add-a-github-project.md)
+     * [Add a Git project](../apply-for-funding/add-a-git-project.md)
+     * [Add a project for security audit](../apply-for-funding/add-a-project-for-security-audit.md)
+     * [Add initiatives](../apply-for-funding/add-initiatives.md)
+     * [Add an event](../apply-for-funding/add-an-event.md)
+     * [Add a travel fund](../apply-for-funding/add-a-travel-fund.md)
+   * [Donate/Sponsor to projects](../donate-sponsor/)
+   * [Register to participate in an event](../register-for-an-event.md)
 
 ## Projects <a id="Dashboard-ProjectsandMentorships"></a>
 
@@ -21,9 +33,11 @@ For each project, the project card shows the following information:
 * Funding Goal shows total funding goal for the project.
 * Funds Raised shows total funds raised so far.
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the project.
-*  **Donate** lets you donate funds to a project that you want to support. 
+*  **Donate** lets you donate funds to a project that you want to support.
 
-![projects](../../../.gitbook/assets/project-cards%20%282%29.png)
+To know more about a project, see [Projects](projects.md).
+
+![Projects](../../../.gitbook/assets/funding-project-cards.png)
 
 ## Events <a id="Dashboard-Events"></a>
 
@@ -37,7 +51,9 @@ For each project, the project card shows the following information:
 * **Sponsor** lets you donate funds to an event that you want to support.
 * **Register** lets you register to attend the event.
 
-![](../../../.gitbook/assets/event-card.png)
+To know more about events, see [Events](events.md).
+
+![Events](../../../.gitbook/assets/event-cards.png)
 
 ## Security Audits \(OSTIF\)
 
@@ -49,15 +65,27 @@ For each project, the project card shows the following information:
 4. The updated code is released to the public and OSTIF begins providing a bug bounty. This allows people from all over the world to have an opportunity to evaluate the code for themselves and find vulnerabilities for rewards.
 5. The developers continue to upgrade and strengthen the software before starting the next audit.
 
-Click **Donate** to donate to the project.
+Click **Donate** to donate to the project. To know more, see [Security Audit](security-audit.md).
+
+Following example show a project that is applied for security audit.
+
+![Project Applied for Security Audit](../../../.gitbook/assets/security-audit-projects.png)
 
 ## Initiatives
 
-Initiatives lists all the different types of initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click  **Donate** to support the initiative
+Initiatives lists all the different types of initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click  **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
+
+![Initiatives](../../../.gitbook/assets/initiatives.png)
 
 ## Travel Fund <a id="Dashboard-TravelScholarships"></a>
 
 **Travel Scholarships** lists funds for travel expenses, for example a scholarship to attend a women's conference. For each scholarship, a bar shows the donation progress towards the total annual funding goal.
 
-Click **Donate** to donate a scholarship that you want to support.
+Click **Donate** to donate a scholarship that you want to support. To know more, see [Travel Fund](travel-funds.md).
+
+### Learn more:
+
+* [Integrated Services for a Project](integrated-services-for-a-project.md)
+* [Search](search.md)
+* [Toggle Between Funding and Mentorship for a Project](toggle-between-funding-and-mentorship-for-a-project.md)
 
