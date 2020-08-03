@@ -17,8 +17,6 @@ A mentee applicant must have at least one application task to complete, for exam
    * [Add Task](manage-mentee-tasks.md#add-task)
    * [Edit Task](manage-mentee-tasks.md#edit-task)
 
-![](../../../.gitbook/assets/mentee-task%20%281%29.png)
-
 2. \(Optional\) Filter the list by selecting a value from the Filter By Application Status drop-down list.
 
 ### **View Tasks**
