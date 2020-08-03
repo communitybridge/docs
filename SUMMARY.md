@@ -125,7 +125,7 @@
         * [Create a Mentor Profile](communitybridge/mentorship/mentors/become-a-mentor/create-a-mentor-profile.md)
         * [Apply to or Remove your Application from a Project](communitybridge/mentorship/mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md)
       * [View Mentee Profile](communitybridge/mentorship/mentors/view-mentee-profile.md)
-      * [Review Mentee Applications](communitybridge/mentorship/mentors/review-mentee-applications.md)
+      * [Review Mentee Applications and Taks](communitybridge/mentorship/mentors/review-mentee-applications-and-taks.md)
       * [Manage Your Mentorship Account](communitybridge/mentorship/mentors/manage-your-mentorship-account.md)
     * [Mentee Stipends](communitybridge/mentorship/mentee-stipends/README.md)
       * [Total Stipend Amount](communitybridge/mentorship/mentee-stipends/total-stipend-amount.md)

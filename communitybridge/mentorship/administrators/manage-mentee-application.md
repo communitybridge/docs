@@ -56,8 +56,11 @@ A list of the persons who have applied to your project appears. The following ta
             is not suitable for the mentorship program.</li>
           <li><b>Accepted: </b>If you select <b>Accepted</b>, mentee gets an email notification
             that his/her profile is accepted. Accepted mentees are shown under Mentees
-            section of Dashborad tab.
-            <br /><b>Note: </b>Before you accept mentee, ensure that the mentee is not participating
+            section of Dashborad tab. If you have enrolled your project to crowdfunding,
+            the accepted mentees will be automatically added as project beneficiaries.
+            For details, see <a href="../../crowd-funding/project-application.md#ProjectApplicationForm-ProjectBeneficiaries">project beneficiaries</a>.
+            <br
+            /><b>Note: </b>Before you accept mentee, ensure that the mentee is not participating
             in any other mentorship program.</li>
           <li><b>Withdrawn: </b>Status changes to <b>Withdrawn</b> when a mentee withdraws
             an application.</li>

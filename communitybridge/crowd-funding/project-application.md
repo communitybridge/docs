@@ -112,6 +112,10 @@ The following table lists all the fields in the **Project Branding** panel of th
 
 ## Project Beneficiaries <a id="ProjectApplicationForm-ProjectBeneficiaries"></a>
 
+{% hint style="warning" %}
+**Important:** If you enroll your project for mentorship program, the accepted mentees are automatically added as project beneficiaries. For details, see [enroll your project](../mentorship/administrators/enroll-your-project/).
+{% endhint %}
+
 Beneficiaries are individuals who work on a project and then request reimbursement for their time and expenses. You can add names of individuals who you want to submit travel expense for the project related travel such as attending events.
 
 The following table lists all the fields in the **Project Beneficiaries** panel of the Project Application:

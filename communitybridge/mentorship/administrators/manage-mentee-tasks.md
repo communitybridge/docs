@@ -31,6 +31,10 @@ After a mentee submits a file for a task, you can view or download the file by c
 
 ![View Mentee Tasks](../../../.gitbook/assets/view-mentee-tasks-for-admin.png)
 
+If mentees submit all their assigned tasks, **Tasks Submitted** is displayed as shown below.
+
+![Mentee Submitted Tasks](../../../.gitbook/assets/mentee-submitted-tasks.png)
+
 ### **Change Status**
 
 Select a value from the **Tasks** **Status** drop-down list: In Progress, Submitted, Completed.  

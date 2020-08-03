@@ -1,4 +1,4 @@
-# Review Mentee Applications
+# Review Mentee Applications and Taks
 
 You can review mentees applications from the Current Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
 
@@ -36,7 +36,7 @@ A list of the persons who have applied to your project appears. The following ta
       <td style="text-align:left"><b>Application Status</b>
       </td>
       <td style="text-align:left">
-        <p>Only Project Maintainers can change application status.</p>
+        <p>Only Project Administrators can change application status.</p>
         <ul>
           <li><b>Pending: </b>Mentee has applied to the mentorship program. Click the
             mentee name to view mentee profile.</li>
