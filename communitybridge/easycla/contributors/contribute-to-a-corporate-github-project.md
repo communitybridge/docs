@@ -130,7 +130,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 **Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.
 {% endhint %}
 
-3. You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA](../cla-manager-designee/sign-a-corporate-cla.md).
+3. You will be redirected to corporate console **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee/sign-a-corporate-cla.md).
 
 After you successfully sign a CCLA, you are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page. A tick appears next to your branch. A notification appears:
 
@@ -152,7 +152,7 @@ After you successfully sign a CCLA, you are redirected to GitHub. Wait a few sec
 You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list. 
 
 {% hint style="info" %}
-You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) before you can contribute to the project.
+You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
 {% endhint %}
 
 ## If Company is not in the List <a id="if-the-select-company-dialog-appears"></a>
