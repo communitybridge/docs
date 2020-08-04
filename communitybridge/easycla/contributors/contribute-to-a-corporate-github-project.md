@@ -166,7 +166,7 @@ You will receive an email after you are added to the approved list. After you ar
 ![](../../../.gitbook/assets/enter-organization-details.png)
 
 3. A window appears confirming that the organization is successfully added. Click **Proceed**, and continue to [step 1 of Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears).  
-**Note:**  if the company is already added to the list, **Company Already Exists** window appears. 
+**Note:**  if the company is already added to the list, **Company Already Exists** window appears. You can search again to find the company.
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 
