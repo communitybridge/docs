@@ -11,6 +11,7 @@ Select a topic below to view detailed information about that section.
 * [Edit My Information](managing-your-profile.md)
 * [Change Password](changing-account-password.md)
 * [View Community Badges](viewing-community-badges.md)
+* [Add Skill Sets](https://app.gitbook.com/@lfdocs/s/docs/~/drafts/-MDqXViRIoHy56spTLD9/my-profile/add-skill-sets)
 * [Connect Accounts](linking-social-accounts.md)
 * [Add Registered Emails](adding-alternative-emails.md)
 * [Purchase Linux.com Email Alias](purchasing-linux-email.md)
@@ -19,9 +20,11 @@ Select a topic below to view detailed information about that section.
 * [View Training and Certifications ](viewing-training-and-certifications.md)
 * [View Transactions](viewing-the-transactions.md)
 
-![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities-and-badges.png)
+![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities-and-badges%20%281%29.png)
 
-![MyProfile - Events and Community Participation](../.gitbook/assets/myprofile-events-and-community-participation.png)
+![MyProfile - Events and Community Participation](../.gitbook/assets/myprofile-events-and-community-participation%20%281%29.png)
 
-![My Profile - Training &amp; Certifications, and More...](../.gitbook/assets/training-certifications-and-more....png)
+![](../.gitbook/assets/my-profile-training-and-certifications-and-more.png)
+
+
 

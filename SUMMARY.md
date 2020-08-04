@@ -15,6 +15,7 @@
   * [Edit My Information](my-profile/managing-your-profile.md)
   * [Change Password](my-profile/changing-account-password.md)
   * [​View Community Badges](my-profile/viewing-community-badges.md)
+  * [Add Skill Sets](my-profile/add-skill-sets.md)
   * [Connect Accounts](my-profile/linking-social-accounts.md)
   * [Add Registered Emails](my-profile/adding-alternative-emails.md)
   * [Purchase a Lifetime Linux.com Email Alias](my-profile/purchasing-linux-email.md)
