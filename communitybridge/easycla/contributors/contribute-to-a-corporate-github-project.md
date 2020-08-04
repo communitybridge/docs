@@ -132,7 +132,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 3. You will be redirected to corporate console **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee/sign-a-corporate-cla.md).
 
-After you successfully sign a CCLA, you are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page. A tick appears next to your branch. A notification appears:
+After you successfully sign a CCLA, open the GitHub repository. A tick appears next to your branch. A notification appears:
 
 ![](../../../.gitbook/assets/cla-github-all-checks-passed.png)
 

@@ -219,6 +219,7 @@
       * [Sign In to the CLA Corporate Console](communitybridge/easycla/cla-manager-designee/sign-in-to-the-cla-corporate-console.md)
       * [Sign a Corporate CLA on behalf of the Company](communitybridge/easycla/cla-manager-designee/sign-a-corporate-cla.md)
       * [Review and Sign a Corporate CLA by Request](communitybridge/easycla/cla-manager-designee/review-and-sign-a-corporate-cla-by-request.md)
+      * [Add or Delete a CLA Manager](communitybridge/easycla/cla-manager-designee/add-or-delete-a-cla-manager.md)
   * [Admin Dashboard](communitybridge/admin-dashboard/README.md)
     * [Configuring CLA for a Foundation](communitybridge/admin-dashboard/configuring-cla-for-a-foundation.md)
     * [View CLA Group and Activity Log Statuses](communitybridge/admin-dashboard/view-cla-and-activity-log-status.md)
