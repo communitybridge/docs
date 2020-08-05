@@ -6,18 +6,47 @@ description: >-
 
 # Sign a Corporate CLA on behalf of the Company
 
-As a CLA manager designee or CLA signatory, you must be authorized by your company to sign a Corporate CLA on its behalf. If you are a CCLA manager but not a CCLA signatory or CLA manager designee, you can request that the CCLA signatory or CLA manager designee sign the Corporate CLA.
+As a CLA manager designee or CLA signatory, you must be authorized by your company to sign a Corporate CLA on its behalf.
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-cla-corporate-console.md).  
-The CLA Corporate Console appears and shows CLAs for your organization.
+1. [Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager.  
+The CLA Corporate Console appears and shows the projects.
 
-2. Navigate to a project for which you want to sign CLA, and click **Proceed with Signing**.
+2. Navigate to the project for which you are  identified as the initial CLA manager and want to sign CLA. The following screen is displayed under EasyCLA tab:
 
-![cla not signed](../../../.gitbook/assets/cla-not-signed-for-my-organization.png)
 
-3.  Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
+
+, click **Start the CLA process**.
+
+
+
+3.  On **No Signed CLA Found** window, click an answer: **Are you authorized to be a CLA Manager for your organization?**   
+ ![](../../../.gitbook/assets/no-signed-cla-found.png) 
+
+* **Yes**— A **Configuring CLA Manager Settings** window appears. After the configuration is complete, click **Proceed**, and continue to step 5.  ![](../../../.gitbook/assets/configuring-cla-manager-settings.png)  
+* **No**— An **Identify CLA Manager** form appears. Continue to next step.
+
+4. Complete the form, and click **Submit Request**, Or click **Contact Company Admin**.   
+****A window appears confirming that request is submitted to respective individual.
+
+![](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA09I70o1IZiY1mGvUc%2Fidentify%20cla%20manager.png?alt=media&token=04b1fb4f-b291-41a2-a8f9-3b5390c44250)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
  ![](../../../.gitbook/assets/identify-cla-signatory.png) 
 
 * **Yes**— **Review CCLA** window appears. Click **Review & Sign CCLA**, and continue to step 5.  ****![](../../../.gitbook/assets/review-ccla.png) 
