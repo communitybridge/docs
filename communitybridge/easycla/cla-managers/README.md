@@ -5,7 +5,7 @@ As a CLA manager of the company, you do the following tasks after you sign in to
 * 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 
-* ​[Add or Delete CCLA Managers](add-or-delete-cla-managers.md)​
+* ​[Add or Delete CCLA Managers]()​
 * ​[View Employee Acknowledgements](view-employee-acknowledgements.md)​
 * ​[Edit the Company Name and Manager Details](edit-the-company-name-and-manager-details.md)​
 

@@ -63,7 +63,7 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authori
 
 * [Add companies to a project](../cla-managers/add-a-company-to-a-project.md)
 * [Add Contributors to Approved List](../cla-managers/approve-contributors.md)
-* [Add or Delete CLA Managers](../cla-managers/add-or-delete-cla-managers.md)
+* [Add or Delete CLA Managers]()
 
 ### Corporate CLA Manager Designee
 

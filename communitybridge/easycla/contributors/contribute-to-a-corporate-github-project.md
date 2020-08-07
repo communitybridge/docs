@@ -74,7 +74,9 @@ You will receive an email notification if the CLA manager approves or rejects yo
 
 ## If you are added to the approved list
 
-1. An acknowledgement window appears informing you that you have completed the contribution acknowledgement.  
+1. You will be asked to [sign individual CLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if you are added to the approved list, but the CLA requires you to sign Individual CLA.
+
+2. An acknowledgement window appears informing you that you have completed the contribution acknowledgement.  
  ![](../../../.gitbook/assets/contribution-acknowledgement.png) 
 
 2. Click **Exit EasyCLA**.
@@ -87,7 +89,7 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update or
 
 ## If you are asked to sign ICLA
 
-1. If you are added to the approved list, but your CLA requires you to sign Individual CLA \(ICLA\),  the follwoing screen appears:  
+1. If you are added to the approved list, but your CLA requires you to sign Individual CLA \(ICLA\),  the following screen appears:  
  ![](../../../.gitbook/assets/sign-icla-required.png) 
 
 2. Click **Proceed**.
@@ -130,7 +132,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 **Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.
 {% endhint %}
 
-3. You will be redirected to corporate console **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee/sign-a-corporate-cla.md).
+3. You will be redirected to corporate console **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-managers/sign-corporate-cla-for-a-company.md).
 
 After you successfully sign a CCLA, open the GitHub repository. A tick appears next to your branch. A notification appears:
 
@@ -165,10 +167,10 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![](../../../.gitbook/assets/enter-organization-details.png)
 
-3. A window appears confirming that the organization is successfully added. Click **Proceed**, and continue to [step 1 of Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears).  
+3. A window appears confirming that the organization is successfully added.  
 **Note:**  if the company is already added to the list, **Company Already Exists** window appears. You can search again to find the company.
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 
-4. Click **Proceed** to [sign a corporate CLA](../cla-manager-designee/sign-a-corporate-cla.md).
+4. Click **Proceed** to [sign a corporate CLA](../cla-managers/sign-corporate-cla-for-a-company.md).
 

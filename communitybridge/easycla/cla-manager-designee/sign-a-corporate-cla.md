@@ -10,7 +10,7 @@ As a CLA manager designee or CLA signatory, you must be authorized by your compa
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager.  
+1. [Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager designee.  
 The CLA Corporate Console appears and shows the projects.
 
 2. Navigate to the project for which you are  identified as the initial CLA manager and want to sign CLA. The following screen is displayed under EasyCLA tab:  
@@ -35,7 +35,7 @@ Identify CLA Signatory window appears.
 **Result:** A success window appears confirming that the signature request is sent to the email address of the individual who signs the Corporate CLA, and adds you to the approved list.
 
 {% hint style="info" %}
-You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](../contributors/contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](../contributors/contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) before you can contribute to the project.
+You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](../contributors/contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list) and [sign ICLA](../contributors/contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if CLA requires you to sign ICLA before you can contribute to the project.
 {% endhint %}
 
 5. **Preparing CCLA** window appears. After CCLA preparation is completed, click **SIGN CCLA** on CCLA Ready for Signature window.  

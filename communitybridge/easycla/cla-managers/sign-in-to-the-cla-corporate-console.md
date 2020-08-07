@@ -1,8 +1,6 @@
 # Sign In to the CLA Corporate Console
 
-## Sign In to the CLA Corporate Console
-
-As a CCLA manager, sign in to the CLA Corporate Console to add your company to a project and do management tasks.
+As a CCLA manager, sign in to the CLA Corporate Console to add your company to a project, sign CLA, and do management tasks.
 
 **Do these steps**:
 
