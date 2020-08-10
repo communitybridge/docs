@@ -34,10 +34,6 @@ Identify CLA Signatory window appears.
 4. Complete the form, and click **Send Signature Request Email**.  
 **Result:** A success window appears confirming that the signature request is sent to the email address of the individual who signs the Corporate CLA, and adds you to the approved list.
 
-{% hint style="info" %}
-You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](../contributors/contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list) and [sign ICLA](../contributors/contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if CLA requires you to sign ICLA before you can contribute to the project.
-{% endhint %}
-
 5. **Preparing CCLA** window appears. After CCLA preparation is completed, click **SIGN CCLA** on CCLA Ready for Signature window.  
 **Result:** You will be redirected to complete the DocuSign process.
 
