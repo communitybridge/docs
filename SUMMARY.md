@@ -217,7 +217,6 @@
       * [Edit the Company Name and Manager Details](communitybridge/easycla/cla-managers/edit-the-company-name-and-manager-details.md)
       * [View Employee Acknowledgements](communitybridge/easycla/cla-managers/view-employee-acknowledgements.md)
     * [CLA Manager Designee and CLA Signatories](communitybridge/easycla/cla-manager-designee/README.md)
-      * [Sign In to the CLA Corporate Console](communitybridge/easycla/cla-manager-designee/sign-in-to-the-cla-corporate-console.md)
       * [Sign a Corporate CLA on behalf of the Company](communitybridge/easycla/cla-manager-designee/sign-a-corporate-cla.md)
       * [Review and Sign a Corporate CLA by Request](communitybridge/easycla/cla-manager-designee/review-and-sign-a-corporate-cla-by-request.md)
   * [Admin Dashboard](communitybridge/admin-dashboard/README.md)

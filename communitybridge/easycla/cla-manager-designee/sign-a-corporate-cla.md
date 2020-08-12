@@ -10,7 +10,7 @@ As a CLA manager designee or CLA signatory, you must be authorized by your compa
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager designee.  
+1. [Sign in](../cla-managers/sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager designee.  
 The CLA Corporate Console appears and shows the projects.
 
 2. Navigate to the project for which you are  identified as the initial CLA manager and want to sign CLA. The following screen is displayed under EasyCLA tab:  

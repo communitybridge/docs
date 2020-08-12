@@ -29,5 +29,3 @@ description: >-
 
 Click ![](../../../../.gitbook/assets/delete-icon.png) under **Action** column on a CLA manager's row to delete the user. For a single entry, you cannot delete the CLA manager's details.
 
-![](../../../../.gitbook/assets/delete-cla-manager.png)
-

@@ -1,73 +1,57 @@
 # Approve Contributors
 
-You can approve contributors by adding their name to the Aprroved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
+You can approve contributors by adding their name to the Aprroved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA.
 
-* Domain Approved List allows entities to contribute under any email address under that domain name.
-* Email Approved List allows entities to contribute under an individual email address.
-* GitHub Approved List allows entities to contribute under a GitHub username.
-* GitHub Organization Approved List allows entities to contribute under a GitHub organization name.
+As a CLA manager, you can:
 
-Each approved list applies to the project for which the company has signed a Corporate CLA. The CLA application checks all the approved lists for allowing contributions to a company project. A contributor only needs to be on one approved list. Contributors can use EasyCLA to send email requests to be associated \(authorized\) with the company.
+* [Add Contributors](approve-contributors.md#add-contributor-s)
+* [Edit a Contributor's Details](approve-contributors.md#edit-a-contributors-details)
+* [Delete a Contributor's Details](approve-contributors.md#delete-a-contributors-details)
 
 _Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA for the same company._
 
-**Do these steps:**
+### **Add Contributor\(s\)**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md).
+1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to corporate console.  
+The CLA Corporate Console appears and shows projects your company is associated with.
 
-2. The CLA Corporate Console appears and shows Companies.
+3. Click a **project** of interest.  
+Signed CLAs are displayed under **CLA FOR MY ORGANIZATION**.
 
-3. Click a **company** of interest.
+5. Click **+ Add Contributor\(s\)** under **APPROVED LIST OF CONTRIBUTIONS FROM MY ORGANIZATION**.
 
-4. The CLA Corporate Console appears and shows Signed CLAs under **Projects with Signed CLAs**.
+![](../../../.gitbook/assets/add-contributors%20%281%29.png)
 
-5. Click **MNAGE APPROVED LIST** 
+6. On **Add Contributor\(s\)** window, select an option from the **Select Type** drop-down list, and type details in the filed for the value that you selected.
 
-![manage approved list](../../../.gitbook/assets/manage-approved-list.png)
+{% hint style="info" %}
+**Note:** The option that you select to add a contributor is displayed under **Approval Criteria** column for a value under Approved List of Contributors from my Organization section.
+{% endhint %}
 
-The approved lists appear:
+![](../../../.gitbook/assets/add-contributors-window%20%281%29.png)
 
-![Approved List](../../../.gitbook/assets/approved-list.png)
+3. Click **+Add More** to add other details for a contributor.
 
-6. Decide which approved list you want to edit:
+{% hint style="info" %}
+**Note:** 
 
-* [Domain Approved List , Email Approved List, or GitHub Approved List](approve-contributors.md#domain-whitelist-email-whitelist-or-github-whitelist)
-* [GitHub Organization Approved List](approve-contributors.md#github-organization-whitelist)
+* Domain allows entities to contribute under any email address under that domain name.
+* Email Address allows entities to contribute under an individual email address.
+* GitHub Username allows entities to contribute under a GitHub username.
+* GitHub Organization allows entities to contribute under a GitHub organization name.
 
-## Domain Approved List , Email Approved List, or GitHub Approved List <a id="domain-whitelist-email-whitelist-or-github-whitelist"></a>
+GitHub Organization and GitHub Username are not required while adding contributors to Gerrit projects.
+{% endhint %}
 
-The corresponding Edit _domain/email/github_ approved list dialog lets you add, edit, and delete values to the approved list so that employees \(developers\) can be associated to the company. An example domain name value is joesbikes.com. A wildcard approves/authorizes the domain and all subdomains, for example: \*.joesbikes.com or \*joesbikes.com would authorize joes.bikes.com, shop.joesbikes.com, and blog.joesbikes.com.
+4. Click **Save**.
 
-**Note:** To remove an entry from the approved list, click **X** next to the item, and click **SAVE**.
+### Edit a Contributor's Details
 
-1. Click the edit icon\( **pencil** \) next to the approved list that you want to edit:
-2. Click **ADD DOMAIN/EMAIL/GITHUB**, enter a **domain name**, **email address**, or **GitHub username** for the employees for who you want to authorize, and click **SAVE APPROVED LIST**. For example:
+Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9r8HAsE33veE1f8-jp%2F-M9rgXW5MmdCw4zlarnJ%2Fedit%20icon.png?alt=media&token=dc04f1ad-302e-49e8-983e-dacbaa49f029) next to a contributor's row, make edits, and click **Save**.
 
-![](../../../.gitbook/assets/email-approved-list.png)
+### Delete a Contributor's Details
 
-Your entries appear in their corresponding approved lists.
+Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9) under Manage column on a contributor's row to delete the contributor's details.
 
-## GitHub Organization Approved List <a id="github-organization-whitelist"></a>
-
-The GitHub Organization Approved List lets you add or remove organizations from an approved list so that company employees can contribute to project—the CLA service checks the GitHub organizations that the user belongs to.
-
-_**Requirements:**_
-
-Each member of your organization must ensure that these items are Public in their GitHub Profile:
-
-* Their membership with the organization. Each Private member should follow this [procedure](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership) to make their membership Public.
-* The associated email address for the organization member. Each Private member should make their associated email address Public \(members can have multiple emails in their Profile, so they must select the appropriate one\).
-
-**Do these steps:**
-
-1. Click the edit icon \(**pencil\)** next to Github Org Approved List.  
-    The Edit Github Organization Approved List dialog appears.
-
-![GitHub Org Approved List](../../../.gitbook/assets/github-org-approved-list.png)
-
-**Note:** Click **CONNECT GITHUB** if the organization you want to authorize is not listed in the dialog. The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
-
-2.Type a GitHub organization name in the field, select from drop-down, and click **SAVE APPROVED LIST** or click ![](../../../.gitbook/assets/close-icon.png) next to the organization that you want to add/remove, respectively.
-
-Your organizations appear in their organization approved list.
+![](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9r8HAsE33veE1f8-jp%2F-M9rhLvJwQAzvisvYehP%2Fdelete%20contributor.png?alt=media&token=e2a9c456-ea67-4b0b-85c5-594306cede09)
 
