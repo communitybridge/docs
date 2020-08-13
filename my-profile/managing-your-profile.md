@@ -18,13 +18,9 @@
 | **Job Title** | Add or update your current job title  |
 | **Address**  | Add or update your current address |
 
-![](../.gitbook/assets/edit-my-information%20%281%29.png)
+![](../.gitbook/assets/edit-my-information%20%282%29.png)
 
-3. After you finish making the changes, click **Save CTA** button.
+3. After you finish making the changes, click **Save CTA**  and Click on **Back to Profile** to return to the dashboard.
 
 4. If any of your data is inaccurate or needs to be updated, you can reach out to Linux Foundation Support Team by clicking on **Support** Link in the sidebar navigation.
-
- 
-
-
 

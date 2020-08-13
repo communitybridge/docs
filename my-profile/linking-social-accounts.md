@@ -6,9 +6,9 @@ You can connect social profile accounts like Google, Twitter, GitHub and LinkedI
 
 ![](../.gitbook/assets/connected-accounts.png)
 
-2. On the **Edit Connected Accounts** modal click **Connect** CTA button available next to the social profile logo and name. Once the account is connected, your email address associated with the account will appear next to the social profile account logo and name. 
+2. On the **Edit Connected Accounts** subpage click on **Connect** CTA button available next to the social profile logo and name. Once the account is connected, your email address associated with the account will appear next to the social profile account logo and name. Click on **Back to Profile** to return to the dashboard.
 
-![](../.gitbook/assets/edit-connected-accounts.png)
+![](../.gitbook/assets/edit-connected-accounts-.png)
 
 {% hint style="info" %}
 To remove the connected account, click **Disconnect** CTA button.

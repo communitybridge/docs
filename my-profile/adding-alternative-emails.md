@@ -4,11 +4,11 @@ To add your registered emails, login to [myprofile.linuxfoundation.org](https://
 
 ![](../.gitbook/assets/registered-emails.png)
 
-2.The **Edit Emails** modal will appear with a list of email accounts that are associated with your account. Click on **Add More** CTA link to enter another email address and click **Save**.
+2.On the **Edit Emails** page you can view a list of email accounts associated with your account. Click on **Add More** CTA link to enter another email address. Click on **Save** CTA when you finish adding your alternate emails and **Back to Profile** CTA to return to the dashboard.
 
-![](../.gitbook/assets/edit-emails.png)
+![](../.gitbook/assets/edit-registered-emails-.png)
 
-3. A verification email will be sent your newly added email address. Click on **Verify Email** CTA to verify your new email.
+3. A verification email will be sent to your newly added email address. Click on **Verify Email** CTA to verify your new email.
 
 {% hint style="info" %}
 Note: You can update your **primary email** by selecting a verified alternate email from the dropdown menu.

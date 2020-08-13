@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/skill-sets.png)
 
-2. On the **Edit Skill Sets** modal, enter your skill set and select +Add CTA button**,** added skill will appear in **Skills Added** section below. Click on **Close CTA** button to exit the modal. 
+2. On the **Edit Skill Sets** subpage, enter your skill set and select +Add CTA button**,** the added skill will appear in **Skills Added** section below. Click on **Back to Profile** to return to the dashboard.
 
-![](../.gitbook/assets/edit-skill-sets.png)
+![](../.gitbook/assets/edit-skill-sets%20%281%29.png)
 
