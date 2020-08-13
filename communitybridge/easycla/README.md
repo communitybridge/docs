@@ -19,8 +19,6 @@ Besides integration with Auth0 and Salesforce, the CLA system has the following 
 
 ## CLA Backend <a id="cla-backend"></a>
 
-The CLA project has two backend projects.
-
 The majority of the backend APIs are implemented in python, and can be found in the [`cla-backend`](https://github.com/communitybridge/easycla/tree/master/cla-backend) directory.
 
 Recent backend development was implemented in Golang, and can be found in the [`cla-backend-go`](https://github.com/communitybridge/easycla/tree/master/cla-backend-go) directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
