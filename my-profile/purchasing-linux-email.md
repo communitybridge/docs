@@ -24,7 +24,7 @@ NOTE: Edit Linux.com subpage will be accessible in the sidebar navigation after 
 
 On the **Edit @linux.com Email Service** subpage, enter the Linux.com email that you would like to request in the **Email Alias** field. In the **Forward To** field enter the email where you would to receive the emails that will be sent to your Linux.com email. Click on **Save** CTA after entering all the details and **Back to Profile** CTA to return to the dashboard.
 
-![](../.gitbook/assets/edit-linux-email.png)
+![](../.gitbook/assets/linux.com.png)
 
 
 
