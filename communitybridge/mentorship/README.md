@@ -1,12 +1,10 @@
 # Mentorship
 
-The Linux Foundation mentorship programs enable projects to grow their communities by cultivating mentoring relationships with talented and committed developers. By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source developers and to get internship and job opportunity referrals with employers upon graduation.
+The Linux Foundation mentorship programs make it easier for open-source projects to grow their communities by cultivating mentoring relationships with talented and committed novice developers. By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source contributors as a segue to get internship and job opportunities upon graduation.
 
 CommunityBridge Mentorship platform was created by the Linux Foundation to make it easy for projects to administer their mentorship programs by connecting mentorship candidates with projects and mentors.
 
 ## How to Participate <a id="CommunityBridgeMentorship-HowtoParticipate"></a>
-
-**Note:** You need to create a [Single Sign-On \(SSO\) account](../../sso/create-an-account.md) or [sign in](../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/) platform to participate in the Mentorship programs. 
 
 You can participate in Mentorship program as a project administrator, a mentor or a mentee. 
 

@@ -1,27 +1,19 @@
 # Platform Overview
 
-CommunityBridge Mentorship connects Mentorship program applicants with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with interview opportunities. Get started by discovering projects, mentors, companies, and other aspects of the CommunityBridge mentorship programs.
+The CommunityBridge Mentorship platform facilitates a structured remote learning environment to new open source developers. Experienced project maintainers and contributors use the platform to mentor aspiring individuals and help them become contributors to the open source community.
 
-**Get started:**
+**To Get started:**
 
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/).
-
-   Featured tab appears.
-
-   * **Mentorships** shows the projects that are enrolled for mentorship program.
-   * **Mentors** shows details of participating mentors..
-   * **Mentess** shows details of participating mentees.
-
-2. Navigate to each section, such as Mentorships, Mentors, Mentees, and click an entity under a section to know more about the entity or select a **tab**:
-   * [Mentorships](./#DashboardOverview-Projects)
-   * [Mentors](./#DashboardOverview-Mentors)
-   * [Mentees](../mentees/)
-3. To view more information:
+1. Navigate to to [CommunityBridge Mentorship](https://people.communitybridge.org/) dashboard:
+   * [Mentorships](./#DashboardOverview-Projects) tab includes the mentorships enrolled on the platform, categorized by projects accepting mentee applications, as well as in progress and completed mentorships.
+   * [Mentors](./#DashboardOverview-Mentors) tab includes profiles all the participating mentors.
+   * [Mentees](../mentees/) tab includes profiles of currently participating and graduated mentees.
+2. To view more information about each mentorship projects, navigate to the project dashboard to: 
    * [View Projects Details](view-projects-details.md)
    * [View a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md)
    * [Toggle Between Mentorship and Funding](../../crowd-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
-4. Participate:
-   * As an administrator– [Enroll Your Project](../administrators/enroll-your-project/).
+3. To participate:
+   * Administrators – [Enroll Your Project](../administrators/enroll-your-project/).
    * As a mentee– [Create a Mentee Profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and then [Apply to a Project](../mentees/become-a-mentee/apply-to-a-project.md).
    * As a mentor–[Create a Mentor Profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and then [Apply to a Project](../mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project).
 

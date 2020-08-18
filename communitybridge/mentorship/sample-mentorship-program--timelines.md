@@ -28,7 +28,7 @@ This sample timeline presents mentorship program milestones, including stipend p
 
 **End of Week 6:** Midterm mentee evaluations due and second stipend payment approvals 
 
-**End of Week 8:** Third mentee evaluations due and third stipend payment approvals 
+**End of Week 9:** Third mentee evaluations due and third stipend payment approvals 
 
 **End of Week 12:** Final mentee evaluations and mentee blog submission due, fourth stipend payment approvals 
 
