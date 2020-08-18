@@ -19,11 +19,11 @@ The CommunityBridge Mentorship platform facilitates a structured remote learning
 
 ## Mentorships Tab <a id="DashboardOverview-Projects"></a>
 
-![](../../../.gitbook/assets/mentorships.png)
+![Mentorship Cards - Project Overview](../../../.gitbook/assets/mentorships.png)
 
-![](../../../.gitbook/assets/mentorships2.png)
+![Mentorship Card - Project Statistics](../../../.gitbook/assets/mentorships2.png)
 
-Each project card includes the following information:
+Each project card contains the following information:
 
 * **Project name and logo** - click on the project title/logo to navigate to project details page
 * **Terms** - current, future or past mentorship project terms 
@@ -40,25 +40,25 @@ Each project card includes the following information:
 
 ![Mentees](../../../.gitbook/assets/mentees-cards.png)
 
-**Mentees** shows the mentee profile cards. Type a mentee name in the **Search** box for quick search. Each mentee profile card shows the following information :
+**Mentees** tab shows mentee profile cards with the following information: 
 
-* Mentee name and image identify the mentee. Click the name to see more information about the mentee.
-* **Skills** shows keywords that help you accept a mentee who has the required skill for your project's mentorship program.
-* **Status** shows the current status of the mentee, for example Accepted, Graduated, and so on.
-* **Mentors** shows the images of the individuals under whose guidance the mentee is learning a skill.
-* **Projects** shows the project logos in which the mentee participates.
-* Click **View Profile** to view more information about the mentee.
+* **Mentee name and avatar** - Click on the name to navigate to mentee profile page
+* **Skills** - mentee technical skills 
+* **Status** - current mentee status of the mentee i.e. Accepted or Graduated
+* **Mentors** - mentors for the project in which mentee is participating 
+* **Projects** - mentorship project in which mentee participates or successfully completed
+* **View Profile** - click CTA to navigate to mentee profile page
 
 ## Mentors Tab <a id="DashboardOverview-Mentors"></a>
 
 ![Mentors](../../../.gitbook/assets/mentors-cards.png)
 
-**Mentors** shows the mentor profile cards. Type a mentor name in the **Search** box for quick search. Each mentor profile card shows the following information :
+**Mentors** tab shows the mentor profile cards with the following information :
 
-* Mentor name and image identify the mentor. Click the name to see more information about the mentor.
-* **Skills** shows keywords that help you match up with a mentor who has direct experience in the industry or subject for which you need help.
-* **Current Mentees** shows the images for the persons who are learning a skill from the mentor.
-* **Graduated Mentees** shows the mentees who completed the Mentorship program under this mentor's guidance.
-* **Projects** shows the project logos in which the mentor participates or contributes.
-* Click **View Profile** to view more information about the mentor.
+* **Mentor name and avatar** - Click on the name to navigate to mentor profile page
+* **Skills** - mentor technical skills 
+* **Current Mentees** - current project mentees for which mentor is volunteering 
+* **Graduated Mentees** - mentees who completed the program under mentor's guidance.
+* **Projects** - project for which the mentor is volunteering 
+* **View Profile** - click CTA to navigate to mentor profile page
 
