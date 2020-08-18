@@ -1,10 +1,10 @@
-# Sample Timelines for Mentorship programs
+# Sample Timelines
 
 As a project administrator you can use these sample timelines to set up your Mentorship program.
 
 Mentees and mentors can use these phases and timelines to gain an understanding of the work and effort that may be required to participate in a Mentorship program.
 
-### Mentorship Phases \(suggested sample timeline\) 
+### Suggested Mentorship Program Sample Timeline 
 
 **Note:** Phases may overlap.
 
