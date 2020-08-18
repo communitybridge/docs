@@ -22,13 +22,9 @@ Mentees and mentors can use these phases and timelines to gain an understanding 
 
 This sample timeline presents mentorship program milestones, including stipend payments. 
 
-**Week 1:** Mentorship project begins with the initial work assignments 
-
-**End of Week 3:** First mentee evaluations due and first stipend payment approvals
-
-**End of Week 6:** Midterm mentee evaluations due and second stipend payment approvals 
-
-**End of Week 9:** Third mentee evaluations due and third stipend payment approvals 
-
-**End of Week 12:** Final mentee evaluations and mentee blog submission due, fourth stipend payment approvals 
+* **Week 1:** Mentorship project begins with the initial work assignments 
+* **End of Week 3:** First mentee evaluations due and first stipend payment approvals
+* **End of Week 6:** Midterm mentee evaluations due and second stipend payment approvals 
+* **End of Week 9:** Third mentee evaluations due and third stipend payment approvals 
+* **End of Week 12:** Final mentee evaluations and mentee blog submission due, fourth stipend payment approvals 
 
