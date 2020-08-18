@@ -4,7 +4,7 @@ The Commits dashboard represents a set of metrics that shows high level informat
 
 By default, commits by Bots, and empty commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 
-## **Overview** <a id="GitRepositories-GitRepositories&gt;Overview"></a>
+## **Overview** <a id="GitRepositories-GitRepositories&gt;Overview"></a> 
 
 Overview shows information about commits in Git repositories. For each commit, Git stores information about who and when authored the commit \(author\), and about the organization that included the commit in the repository.
 
