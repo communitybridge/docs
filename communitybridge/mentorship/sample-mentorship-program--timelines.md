@@ -4,7 +4,7 @@ As a project administrator you can use these sample timelines to set up your Men
 
 Mentees and mentors can use these phases and timelines to gain an understanding of the work and effort that may be required to participate in a Mentorship program.
 
-### Suggested Mentorship Program Sample Timeline 
+### Suggested Mentorship Program Timeline 
 
 **Note:** Phases may overlap.
 
@@ -18,13 +18,13 @@ Mentees and mentors can use these phases and timelines to gain an understanding 
    * Mentee acceptance paperwork phase - 2 weeks
 3. Mentorship project duration - 12 weeks
 
-### Mentorship Program Progress Timeline \(suggested sample timeline\) 
+### Suggested Mentorship Project Progress Timeline
 
 This sample timeline presents mentorship program milestones, including stipend payments. 
 
-**Week 1:** Mentorship Starts 
+**Week 1:** Mentorship project begins with the initial work assignments 
 
-**End of Week 3:** Initial mentee evaluations due and first stipend payment approvals 
+**End of Week 3:** First mentee evaluations due and first stipend payment approvals
 
 **End of Week 6:** Midterm mentee evaluations due and second stipend payment approvals 
 
