@@ -96,7 +96,7 @@
       * [Additional Resources](communitybridge/mentorship/mentor-guide/additional-resources.md)
       * [Mentorship FAQs](communitybridge/mentorship/mentor-guide/mentorship-faqs.md)
       * [Code of Conduct](communitybridge/mentorship/mentor-guide/code-of-conduct.md)
-    * [Sample Timelines for Mentorship Program Activities](communitybridge/mentorship/sample-timelines-for-mentorship-program-activities.md)
+    * [Sample Timelines for Mentorship programs](communitybridge/mentorship/sample-timelines-for-mentorship-program-activities.md)
     * [Dashboard Overview](communitybridge/mentorship/dashboard-overview/README.md)
       * [View Projects Details](communitybridge/mentorship/dashboard-overview/view-projects-details.md)
       * [View a Mentor or Mentee Profile](communitybridge/mentorship/dashboard-overview/view-a-mentor-or-mentee-profile.md)
