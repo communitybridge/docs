@@ -13,9 +13,9 @@ The CommunityBridge Mentorship platform facilitates a structured remote learning
    * [View a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md)
    * [Toggle Between Mentorship and Funding](../../crowd-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
 3. To participate:
-   * Administrators – [Enroll Your Project](../administrators/enroll-your-project/).
-   * As a mentee– [Create a Mentee Profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and then [Apply to a Project](../mentees/become-a-mentee/apply-to-a-project.md).
-   * As a mentor–[Create a Mentor Profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and then [Apply to a Project](../mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project).
+   * Administrators – [enroll your mentorship project](../administrators/enroll-your-project/)
+   * Mentees – [create a profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and [apply to a project](../mentees/become-a-mentee/apply-to-a-project.md)
+   * Mentors – [create a profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and [request to be added to a project](../mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project)
 
 ## Mentorships <a id="DashboardOverview-Projects"></a>
 
