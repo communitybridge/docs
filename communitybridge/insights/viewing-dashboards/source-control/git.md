@@ -38,5 +38,5 @@ Overview shows information about commits in Git repositories. For each commit, G
 
 **Repositories** shows a table that lists repository name with links, number of commits made to the repository, number of authors contributed to the repository, number of organizations contributed to the repository, number of lined added and removed to/from the code base of the repository, average number of files touched or commits made to the repository over time.
 
-**Projects** shows a table that lists project names, number of commits, authors, repositories, number of added lines, removed lines, average number of lines committed, and average number of files committed per project.
+**Projects** shows a table that lists project names, number of commits, authors, repositories, number of added lines, removed lines, average number of lines committed, and average number of files committed per project. 
 
