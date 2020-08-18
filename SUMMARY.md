@@ -60,7 +60,7 @@
     * [Funding - Get Help](communitybridge/crowd-funding/funding-get-help.md)
   * [Mentorship](communitybridge/mentorship/README.md)
     * [Sample Timelines](communitybridge/mentorship/sample-timelines-for-mentorship-program-activities.md)
-    * [Dashboard Overview](communitybridge/mentorship/dashboard-overview/README.md)
+    * [Platform Overview](communitybridge/mentorship/dashboard-overview/README.md)
       * [View Projects Details](communitybridge/mentorship/dashboard-overview/view-projects-details.md)
       * [View a Mentor or Mentee Profile](communitybridge/mentorship/dashboard-overview/view-a-mentor-or-mentee-profile.md)
       * [Toggle Between Mentorship and Funding](communitybridge/mentorship/dashboard-overview/toggle-between-mentorship-and-funding.md)
