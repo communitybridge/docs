@@ -24,7 +24,7 @@
   * [View Transactions](my-profile/viewing-the-transactions.md)
   * [View Roles](my-profile/view-roles.md)
 * [CommunityBridge](communitybridge/README.md)
-  * [CrowdFunding](communitybridge/crowd-funding/README.md)
+  * [Crowdfunding](communitybridge/crowd-funding/README.md)
     * [Dashboard](communitybridge/crowd-funding/dashboard/README.md)
       * [Projects](communitybridge/crowd-funding/dashboard/projects.md)
       * [Security Audit](communitybridge/crowd-funding/dashboard/security-audit.md)
