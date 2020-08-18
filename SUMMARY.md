@@ -157,7 +157,7 @@
       * [Registry](communitybridge/insights/viewing-dashboards/registry/README.md)
         * [DockerHub](communitybridge/insights/viewing-dashboards/registry/dockerhub.md)
       * [Active Contributors](communitybridge/insights/viewing-dashboards/active-contributors/README.md)
-        * [Active Community Leaderborad](communitybridge/insights/viewing-dashboards/active-contributors/active-community-leaderborad.md)
+        * [Active Community Leaderboard](communitybridge/insights/viewing-dashboards/active-contributors/active-community-leaderboard.md)
     * [Filtering Data](communitybridge/insights/filtering-data/README.md)
       * [Select Time Range](communitybridge/insights/filtering-data/select-time-range.md)
       * [Add and Manage Data Filters](communitybridge/insights/filtering-data/add-and-manage-data-filters.md)
