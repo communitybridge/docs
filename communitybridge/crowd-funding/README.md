@@ -1,6 +1,6 @@
-# Crowdfunding
+# Crowd Funding
 
-CommunityBridge Crowdfunding is a platform that makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source initiatives.
+CommunityBridge Funding is a platform that makes it possible for open source projects to raise money via donations from individuals and corporations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source.
 
 Linux Foundation doesn't charge any fees for the first $10M raised through CommunityBridge, which allows developers to use more money for work, drive innovation, sustainability, and adoption.
 
