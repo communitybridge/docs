@@ -4,29 +4,20 @@
 **Important:** You cannot accept a mentee who is actively participating in another Linux Foundation mentorship program.
 {% endhint %}
 
-You can manage your project mentees from the Current Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
-
 {% hint style="info" %}
 * After a mentee applies to a project, the mentee's name shows under **Current** **Mentees** tab with application status **Pending**, by default..
-* After you accept a mentee application from Application Status drop-down, accepted mentee's profile appears under the Mentees section on the Dashboard tab of your project.
 {% endhint %}
 
-**To Manage Mentee Application:**
+**To Manage Mentee Applications:**
 
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
-
-2. Go to your account and select **My Projects** from the drop-down list.  
+1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/), go to your account and select **My Projects.**  
  ![](../../../.gitbook/assets/my-projects.png) 
 
-An overview of each of your projects appears.
-
-3. Click a project for which you want to manage mentee application.
-
-4. Navigate to **Current** **Mentees** tab.
+2. Select the project name to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants.
 
 ![Mentee Application Status](../../../.gitbook/assets/mentee-application-admin.png)
 
-A list of the persons who have applied to your project appears. The following table describes the additional information:
+The Current Mentees Application Management section contains the following information:
 
 <table>
   <thead>
@@ -56,7 +47,7 @@ A list of the persons who have applied to your project appears. The following ta
             is not suitable for the mentorship program.</li>
           <li><b>Accepted: </b>If you select <b>Accepted</b>, mentee gets an email notification
             that his/her profile is accepted. Accepted mentees are shown under Mentees
-            section of Dashborad tab. If you have enrolled your project to crowdfunding,
+            section of Dashboard tab. If you have enrolled your project to crowdfunding,
             the accepted mentees will be automatically added as project beneficiaries.
             For details, see <a href="../../crowd-funding/project-application.md#ProjectApplicationForm-ProjectBeneficiaries">project beneficiaries</a>.
             <br
@@ -103,8 +94,8 @@ A list of the persons who have applied to your project appears. The following ta
     <tr>
       <td style="text-align:left"><b>Filter By Application Status</b>
       </td>
-      <td style="text-align:left">Allows you to select a value from tdrop-down list to show only results
-        that match the filter value.</td>
+      <td style="text-align:left">Allows you to select a value from dropdown list to show only results that
+        match the filter value.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Download Mentees By Status</b>
