@@ -194,7 +194,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 **Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.
 {% endhint %}
 
-3. You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA](../cla-manager-designee/sign-a-corporate-cla.md).
+3. You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA]().
 
 After you successfully sign a CCLA, you are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page. A tick appears next to your branch. A notification appears:
 
@@ -234,7 +234,7 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 
-4. Click **Proceed** to [sign a corporate CLA](../cla-manager-designee/sign-a-corporate-cla.md).
+4. Click **Proceed** to [sign a corporate CLA]().
 
 You have finished signing your CLA for this Gerrit instance. You are able to submit your changes to any repository under this Gerrit instance.
 

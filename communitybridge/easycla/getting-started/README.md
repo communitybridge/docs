@@ -34,9 +34,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_  or _project admin_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console.
-
-With EasyCLA, you do the following CLA set-up tasks:
+You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation. You can set up project details and perform other activities as described in **A LINK WILL BE GIVEN TO ADMIN DASHBOARD ONCE THAT IS READY.** You can perform the following activities ****within the EasyCLA service:
 
 1. [Install the EasyCLA Application](../project-managers/configure-the-easycla-application.md).
 2. [Add a CLA Group](../project-managers/add-a-cla-group.md).
@@ -61,23 +59,19 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. With this responsibility, you use EasyCLA to:
 
-* [Add companies to a project](../cla-managers/add-a-company-to-a-project.md)
 * [Add Contributors to Approved List](../cla-managers/approve-contributors.md)
-* [Add or Delete CLA Managers]()
+* [Add or Delete CLA Managers](../cla-managers/add-or-delete-cla-managers.md)
 
 ### Corporate CLA Manager Designee
 
-You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA managers for a company, and  you are the first person to sign a CLA for a project on behalf of the company.
+You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA managers for a company, and  you are the first person to sign a CLA for a project.
 
-You become a CLA manager designee when you, as a corporate contributor, tries to contribute to a project, and finds that there is no CLA signed between your company and the project you are contributing to. Then, you sign a CLA process where you become the CLA manager designee and this role is eventually converted to CLA manager after signing is completed. With EasyCLA, you can:
+You become a CLA manager designee:
 
-* [Contribute to a GitHub Company Project](../contributors/contribute-to-a-corporate-github-project.md)
-* [Contribute to a Gerrit Company Project](../contributors/contribute-to-a-corporate-gerrit-project.md)
+* When you are authorized to [sign CLA](../cla-manager-designee-1/sign-corporate-cla-for-a-company.md) for a company as an initial CLA manager. After you sign CLA, you become [CLA manager](../cla-managers/). 
+* When you receive an email informing you that you are identified as a CLA manager for a project. You [sign the CLA](../cla-manager-designee-1/sign-corporate-cla-from-invitation.md), and become CLA manager. You must have an LF ID to sign the CLA.
 
 ### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
 
-You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
-
-* ​[Sign a Corporate CLA on behalf of the company]()—as a signatory you must have legal authority to sign documents on behalf of the company.
-* [Review and sign a Corporate CLA by request](../cla-manager-designee/review-and-sign-a-corporate-cla-by-request.md).
+You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as [review and sign the project’s CLA on behalf of the company](../cla-signatories/review-and-sign-a-corporate-cla-by-request.md). As a signatory, you must have legal authority to sign documents on behalf of the company. 
 
