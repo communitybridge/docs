@@ -1,13 +1,15 @@
 # View Projects Details
 
-To view project details, navigate to [CommunityBridge Mentorship](https://people.communitybridge.org/profile) and on the Mentorships tab select a project you would like to view. On the project details page, the following information will appear depending on the available data:
+To view project details, navigate to [CommunityBridge Mentorship](https://people.communitybridge.org/profile) and on the Mentorships tab select a project you would like to view. 
 
-![](../../../.gitbook/assets/project-details.png)
+![](../../../.gitbook/assets/mentorship-project-details%20%282%29.png)
+
+On the project details page, the following information will appear depending on the available data:
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Name </b>
+      <th style="text-align:left"><b>Name</b>
       </th>
       <th style="text-align:left">Description</th>
     </tr>
@@ -15,20 +17,16 @@ To view project details, navigate to [CommunityBridge Mentorship](https://people
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>CII badge field</b>
+        <p><b>CII Badge </b>
         </p>
         <p>
           <img src="../../../.gitbook/assets/7418694.png" alt/>
         </p>
       </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Shows project participation in the <a href="https://www.coreinfrastructure.org/programs/badge-program/">Core Infrastructure Initiative (CII) Badge Program</a> -
-            a CII badge indicates the project is self-certified and follows best practices
-            for secure open source development. For more information, click on the
-            badge to view the CII details.</li>
-        </ul>
-      </td>
+      <td style="text-align:left">Indicates project&apos;s participation in the <a href="https://www.coreinfrastructure.org/programs/badge-program/">Core Infrastructure Initiative (CII) Badge Program</a>.
+        A CII badge means the project is self-certified and follows best practices
+        for secure open source development. Click on the badge to view more CII
+        details</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Mentees</b>
@@ -71,9 +69,10 @@ To view project details, navigate to [CommunityBridge Mentorship](https://people
       <td style="text-align:left">Link to project&apos;s code of conduct.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Apply</b>
+      <td style="text-align:left"><b>Apply/Applications Closed</b>
       </td>
-      <td style="text-align:left">CTA button to apply to the mentorship program</td>
+      <td style="text-align:left">CTA button to apply to the project&apos;s mentorship program. CTA is disabled
+        when project no longer accepts mentee applications</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Donate</b>
