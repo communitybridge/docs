@@ -45,7 +45,7 @@ The Linux Foundation approves or rejects the application. You receive an email n
 
 ## Your Activities <a id="EnrollYourProject-YourActivities"></a>
 
-[Set Up a Stipend for a Mentee](../set-up-a-stipend-for-a-mentee.md)
+[Set Up a Stipend for a Mentee]()
 
 [Open or Close Mentorship Applications](../open-or-close-mentorship-applications.md)
 
