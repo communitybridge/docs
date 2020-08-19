@@ -22,7 +22,7 @@ Get started by enrolling your project and then continue with other activities:
 
 * [Enroll Your Project](enroll-your-project/)
 * [Edit a Project](edit-a-project.md)
-* [Manage Your Project Mentees](manage-mentee-application.md)
+* [Manage Your Project Mentees](manage-mentee-applications.md)
 * [Open or Close Mentorship Applications](open-or-close-mentorship-applications.md)
 * [Invite and Accept Mentors](add-and-accept-mentors.md)
 

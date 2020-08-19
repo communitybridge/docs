@@ -14,5 +14,5 @@ An overview of each of your projects appears.
 
 ![](../../../.gitbook/assets/edit-project.png)
 
-4. Edit the [project application](enroll-your-project/mentorship-project-application.md) form and click **Submit**.
+4. Edit the [project application](enroll-your-project/mentorship-project-enrollment-form.md) form and click **Submit**.
 

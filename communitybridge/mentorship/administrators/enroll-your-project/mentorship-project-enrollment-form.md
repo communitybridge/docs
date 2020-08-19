@@ -1,8 +1,8 @@
-# Mentorship Project Application
+# Mentorship Project Enrollment Form
 
 ### Project Details <a id="MentorshipProjectApplication-ProjectDetails"></a>
 
-The below table describes the fields of Mentorship Project Application:
+The below table describes the fields of Mentorship Project Enrollment Form
 
 <table>
   <thead>
