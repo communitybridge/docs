@@ -4,16 +4,14 @@
 **Important:** You cannot accept a mentee who is actively participating in another Linux Foundation mentorship program.
 {% endhint %}
 
-{% hint style="info" %}
-* After a mentee applies to a project, the mentee's name shows under **Current** **Mentees** tab with application status **Pending**, by default..
-{% endhint %}
-
-**To Manage Mentee Applications:**
-
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/), go to your account and select **My Projects.**  
+1. To Manage Mentee Applications ****[Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/), go to your account and select **My Projects.**  
  ![](../../../.gitbook/assets/my-projects.png) 
 
-2. Select the project name to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants.
+2. Select the project name to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
+
+{% hint style="info" %}
+* After mentees apply to your project, the mentees' names are visible under **Current** **Mentees** tab with application status listed as **Pending** by default.
+{% endhint %}
 
 ![Mentee Application Status](../../../.gitbook/assets/mentee-application-admin.png)
 
