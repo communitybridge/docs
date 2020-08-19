@@ -14,5 +14,7 @@ My Projects shows the project names based on your role in those projects:
 
 * **Projects for which I am an Administrator**: Shows the project names for which you are an administrator.
 
+![](../../../.gitbook/assets/admin-mentorship-account.png)
+
 \*\*\*\*
 
