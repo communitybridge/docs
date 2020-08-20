@@ -37,5 +37,5 @@ Consider the following mentorship responsibilities and duties before you apply t
 Get started by creating your profile and then continue with other activities:
 
 * [Become a Mentor](become-a-mentor/)\*\*\*\*
-* [Manage Mentees](review-mentee-applications-and-taks.md)
+* [Manage Mentees](review-mentee-applications-and-tasks.md)
 

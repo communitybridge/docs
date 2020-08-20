@@ -1,4 +1,4 @@
-# Review Mentee Applications and Taks
+# Review Mentee Applications and Tasks
 
 You can review mentees applications from the Current Mentees tab on the project detail page.  This tab lists all the mentee applicants. After an individual creates a mentee profile and applies to a project, the person becomes a mentee applicant for the project. An email notification informs you that the person showed interest in participating in the project's Mentorship program. 
 
