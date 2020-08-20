@@ -1,6 +1,6 @@
 # Submit a Report to Receive Mentorship Stipend
 
-Mentees are required to submit an Expensify report to receive Mentorship Stipends.
+After receiving a successful evaluation from the mentor, all mentees are required to submit an Expensify report to receive the mentorship stipend payment.
 
 ## Create and Submit an Expensify Report <a id="GetReimbursed-SetUpaReimbursementAccountandCreateaReport"></a>
 
