@@ -1,4 +1,4 @@
-# Add Contributor License Agreements
+# Add Contributors License Agreements
 
 As a project manager, you use the CLA Management Console to add CLAs to CLA groups. The CLA Management Console lets you select a template style to use for your Corporate CLA and Individual CLA.
 

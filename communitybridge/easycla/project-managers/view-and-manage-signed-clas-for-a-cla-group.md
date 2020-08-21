@@ -1,6 +1,6 @@
-# Manage CLA Group Details
+# View and Manage Signed CLAs for a CLA Group
 
-As a project manager, you use the CLA Management Console to manage your CLA group details, and view user signatures and companies.
+You can view details, such as user signatures, companies, CLA managers, and so on for a signed CLA. For companies that have signed CLA manually, you can also add those under a CLA group.
 
 **Do these steps:**
 
@@ -9,10 +9,25 @@ As a project manager, you use the CLA Management Console to manage your CLA grou
 
    The project page appears.
 
-3. Do any of the following actions:
-   * [Change Your Current CLA Type Selections](manage-cla-group-details.md#change-your-current-cla-type-selections)
-   * [View CLA User Signatures](manage-cla-group-details.md#view-cla-user-signatures)
-   * [View the Corporate CLA Companies](manage-cla-group-details.md#view-the-corporate-cla-companies)
+3. Navigate to **Product Services &gt; CLA**.
+4. Do any of the following actions:
+   * [Change Your Current CLA Type Selections](view-and-manage-signed-clas-for-a-cla-group.md#change-your-current-cla-type-selections)
+   * [View CLA User Signatures](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-user-signatures)
+   * [View the Corporate CLA Companies](view-and-manage-signed-clas-for-a-cla-group.md#view-the-corporate-cla-companies)
+
+## View Details of Signed ICLAs <a id="change-your-current-cla-type-selections"></a>
+
+Signed ICLAs shows the details of a contributor, such as name, email address, GitHub ID, LF ID, and date when the individual signed CLA. You can type a value, such as name, github id, email address, and so on in the **Search** field to search for a contributor.
+
+* Click ![](../../../.gitbook/assets/download-button.png) next to a contributor to download the signed CLA for the contributor. 
+* Click **Download Signed PDFs** to download the PDF format of signed CLAs for all the contributors at a time.
+* Click **Export Signed as CSV** to download the details of all the contributors in `.csv` format.
+
+![](../../../.gitbook/assets/signed-iclas.png)
+
+## View Details of Signed CCLAs
+
+
 
 ## Change Your Current CLA Type Selections <a id="change-your-current-cla-type-selections"></a>
 

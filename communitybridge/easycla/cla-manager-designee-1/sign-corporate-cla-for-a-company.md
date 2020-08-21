@@ -60,5 +60,5 @@ The individual must have an [SSO](../../../sso/) account to sign CLA.
 
 ![CCLA signed successfully](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA0FkDbYMbJ7MutyGb5%2Fcla%20managers%20from%20my%20organization%20example.png?alt=media&token=fa0e823e-87f6-4d20-9675-891c2e50bc7b)
 
-After you become the CLA manager, you can [add individuals as CLA managers](../cla-managers/add-or-delete-cla-managers.md), and [approve contributors](../cla-managers/approve-contributors.md) to contribute to the project.
+After you become the CLA manager, you can [add individuals as CLA managers](../cla-managers/add-or-delete-cla-managers.md), and [approve contributors](../cla-managers/add-and-manage-contributors.md) to contribute to the project.
 

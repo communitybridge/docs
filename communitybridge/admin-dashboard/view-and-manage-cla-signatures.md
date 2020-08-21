@@ -14,15 +14,13 @@ As a project manager, you use the CLA Admin Dashboard to manage your CLA group d
 ![](../../.gitbook/assets/view-and-export-signatures.png)
 
 1. Do any of the following actions:
-   * [Change Your Current CLA Type Selections](../easycla/project-managers/manage-cla-group-details.md#change-your-current-cla-type-selections)
-   * [View CLA User Signatures](../easycla/project-managers/manage-cla-group-details.md#view-cla-user-signatures)
-   * [View the Corporate CLA Companies](../easycla/project-managers/manage-cla-group-details.md#view-the-corporate-cla-companies)
+   * [Change Your Current CLA Type Selections](../easycla/project-managers/view-and-manage-signed-clas-for-a-cla-group.md#change-your-current-cla-type-selections)
+   * [View CLA User Signatures](../easycla/project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-cla-user-signatures)
+   * [View the Corporate CLA Companies](../easycla/project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-the-corporate-cla-companies)
 
 ## View Individual CLA User Signatures <a id="view-cla-user-signatures"></a>
 
 1. A signature list shows details about who signed a CLA for your project.
-
-![Signed ICLAs](../../.gitbook/assets/signed-icla.png)
 
 **Signed ICLAs** shows a table that displays the following information:
 
@@ -42,8 +40,6 @@ The Corporate CLA list lets you see what companies in your project have a signed
 
 1. Click **Signed CCLAs** tab.  
 All companies that have signed the Corporate CLA are listed.
-
-![](../../.gitbook/assets/signed-ccla.png)
 
 **Signed CCLAs** shows a table that displays the following information:
 

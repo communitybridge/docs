@@ -36,15 +36,15 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation. You can set up project details and perform other activities as described in **A LINK WILL BE GIVEN TO ADMIN DASHBOARD ONCE THAT IS READY.** You can perform the following activities ****within the EasyCLA service:
 
-1. [Install the EasyCLA Application](../project-managers/configure-the-easycla-application.md).
-2. [Add a CLA Group](../project-managers/add-a-cla-group.md).
+1. [Install the EasyCLA Application](../project-managers/add-new-cla-group.md).
+2. [Add a CLA Group]().
 3. [Add Contributor License Agreements](../project-managers/add-contributor-license-agreements.md).
 4. Add [GitHub repositories](../project-managers/add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) or [Gerrit instances](../project-managers/add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md) to enforce CLA monitoring.
 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 
 * [View Current and Previous CLA PDFs](../project-managers/view-current-and-previous-cla-pdfs.md)
-* [Manage CLA Group Details](../project-managers/manage-cla-group-details.md)
+* [Manage CLA Group Details](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md)
 
 ### Contributor <a id="contributor"></a>
 
@@ -59,7 +59,7 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. With this responsibility, you use EasyCLA to:
 
-* [Add Contributors to Approved List](../cla-managers/approve-contributors.md)
+* [Add Contributors to Approved List](../cla-managers/add-and-manage-contributors.md)
 * [Add or Delete CLA Managers](../cla-managers/add-or-delete-cla-managers.md)
 
 ### Corporate CLA Manager Designee
