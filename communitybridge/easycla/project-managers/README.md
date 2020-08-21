@@ -1,6 +1,6 @@
 # Project Managers
 
-Project managers manage a project’s GitHub organization or Gerrit instance, repositories, and legal aspects, such as CLA. Linux Foundation provides you administrator access for project\(s\), and you use the admin dashboard to mange the project details.
+Project managers manage a project’s GitHub organization or Gerrit instance, repositories, and legal aspects, such as CLA. Linux Foundation provides you administrator access for project\(s\), and you use the admin console to mange the project details.
 
 As a project administrator, you do the following activities:
 

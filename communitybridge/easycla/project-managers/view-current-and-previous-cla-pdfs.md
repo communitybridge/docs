@@ -6,7 +6,7 @@ The CLA Management Console lets you select and view the current CLA PDF and prev
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-admin-console.md).
 
 2. Click a **project** of interest.  
 The project page appears.

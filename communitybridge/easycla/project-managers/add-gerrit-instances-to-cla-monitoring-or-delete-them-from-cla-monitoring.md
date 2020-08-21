@@ -10,7 +10,7 @@ If you already added a Gerrit instance during the CLA onboarding process, skip t
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-admin-console.md).
 
 2. Click a **project** of interest  
 The project page appears.

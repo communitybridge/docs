@@ -195,7 +195,7 @@
       * [Sign Out of EasyCLA](communitybridge/easycla/getting-started/sign-out-of-easycla.md)
       * [EasyCLA FAQs](communitybridge/easycla/getting-started/easycla-faqs.md)
     * [Project Managers](communitybridge/easycla/project-managers/README.md)
-      * [Sign in to the Project Console](communitybridge/easycla/project-managers/sign-in-to-the-cla-management-console.md)
+      * [Sign in to the Admin Console](communitybridge/easycla/project-managers/sign-in-to-the-admin-console.md)
       * [Configure the EasyCLA Application](communitybridge/easycla/project-managers/configure-the-easycla-application.md)
       * [Add a CLA Group](communitybridge/easycla/project-managers/add-a-cla-group.md)
       * [Add Contributor License Agreements](communitybridge/easycla/project-managers/add-contributor-license-agreements.md)

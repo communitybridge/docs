@@ -13,7 +13,7 @@ _Verify that the pop-up blocker is disabled on your browser before you begin thi
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-admin-console.md).
 
 2. Click a **project** of interest.  
 The project page appears.
