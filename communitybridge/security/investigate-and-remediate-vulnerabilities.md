@@ -1,6 +1,8 @@
 # Investigate and Remediate Vulnerabilities
 
-Vulnerabilities in project code can cause a range of problems for your project and the developers who use it. CommunityBridge Security shows vulnerabilities in your repositories and helps you to remediate risks with automated updates and patches. For each repository, CommunityBridge Security maps the dependencies and correlates them with the vulnerability database. You can investigate and remediate certain types of vulnerabilities in your Git repository. For example, an injection vulnerability means your project does not guard against code being injected in your system to extract, damage, or destroy data. Investigate the issue details to find out how to remediate the vulnerability if possible.
+Vulnerabilities in project code can cause a range of problems for your project and the developers who use it. CommunityBridge Security shows vulnerabilities in your repositories and helps you to remediate risks with automated updates and patches. 
+
+For each repository, CommunityBridge Security maps the dependencies and correlates them with the vulnerability database. You can investigate and remediate certain types of vulnerabilities in your Git repository. For example, an injection vulnerability means your project does not guard against code being injected in your system to extract, damage, or destroy data. Investigate the issue details to find out how to remediate the vulnerability if possible.
 
 If possible, address a vulnerability by upgrading to a vulnerability-free version of the package you are using. If you cannot upgrade, because no sufficient direct upgrade is available or because the upgrade includes breaking changes, another option is to apply a patch. A patch changes the locally installed package file to fix the vulnerability. If an upgrade or patch is unavailable, assess the issue and weigh risk against effort. If the risk is high, consider removing the dependency.
 
@@ -9,12 +11,17 @@ If possible, address a vulnerability by upgrading to a vulnerability-free versio
 1. Select **Issues** from the top menu.  
 The dashboard shows all vulnerabilities with their details, and total number of open and fixed issues. By default, only Open status issues appear—use the filter to show Fixed issues.
 
-![Issues Dashboard](../../.gitbook/assets/issues-dashboard.png)
+![Issues Dashboard](../../.gitbook/assets/issues.png)
 
 2. \(Optional\) Filter your issue results:
 
-* Select any of the check boxes from **Filters** drop down list, and click **Filter** to narrow your issue results by Issue Severity and Status. These filters help you focus your attention on issues of concern, for example, issues with a High severity and an Open status. The Filters heading refreshes to match your selections for easy reference.  ![](../../.gitbook/assets/filters-drop-down.png)  
-* Select a **repository** \(and optionally a **project**\) from the Repository drop-down list. Hover mouse over a repository to view total number of open and fixed issues per project.  ![](../../.gitbook/assets/repositories-drop-down.png) 
+* Select **View Details** to see the details related to the issue such as severity of the issue, whether the issue is open or fixed. 
+
+![](../../.gitbook/assets/detailed_issue.png)
+
+* Select a **repository** \(and optionally a **project**\) from the Repository drop-down list.
+
+![](../../.gitbook/assets/repositories.png)
 
 3. Investigate the vulnerabilities by opening the provided links to go directly to various websites for specific information about the vulnerability. For example:
 
