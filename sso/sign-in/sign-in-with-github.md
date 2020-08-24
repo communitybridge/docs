@@ -24,7 +24,7 @@ Two-factor authentication page appears if your account has Two-factor authentica
 
 5. If you do not have an SSO account created earlier, then the **Create an account** page appears.                                                                           
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-5.55.23-pm.png)
+![](../../.gitbook/assets/create-lf-account-if-authenticating-via-other.png)
 
 6. Enter a username, and click **Create Account**.  
 You will be re-directed to the Linux Foundation service page that you are trying to access.

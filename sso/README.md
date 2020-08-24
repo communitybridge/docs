@@ -1,22 +1,20 @@
 # Single Sign-On \(SSO\)
 
-Linux Foundation provides a unified Single Sign-On service \(SSO\) to provide secure access and protect the identities of all its communities. Linux Foundation managed systems and services like Events Registration, Training and Certification, Jenkins, JIRA, Gerrit, Confluence, CommunityBridge \(Funding, Mentorship, EasyCLA, INSIGHTS, Security\) are already protected by this SSO service. Additional services to be covered in near future will include Zoom, Slack, Groups.io among others. 
+The Linux Foundation provides a unified Single Sign-On service \(SSO\) that offers secure access and protects the identities of all its community members. The Linux Foundation systems and services like Events Registration, Training and Certification, Jenkins, JIRA,  Confluence, Gerrit, Groups.io, Crowdfunding, Mentorship, EasyCLA, INSIGHTS, and Security are all protected by the SSO service. Additional services to be covered in near future will include Zoom and Slack, among others. 
 
-To create an account, you need an email address. Create a username and password.
+To create an account, you need an email address. You can also signed in using 3rd party authentication service providers such as Google, Facebook, GitHub, LinkedIn. 
 
-You can also create your account using 3rd party authentication service providers such as Google, GitHub, LinkedIn and Facebook. 
+## What is the SSO Login Page?
 
-## What is this Login Page?
+When you are logging in to a support program or tool for a project, you will likely be asked to login or create your own SSO \(Single Sign On\). 
 
-When you are logging into a support program or tool for a project related to the Linux Foundation, you will likely be asked to login or create your own SSO \(Single Sign On\). 
+For example, if you are signing up for or logging into your mailing list via the Groups.io web portal, you will be asked to login with the new SSO interface. 
 
-For example, if you are signing up for or logging into your mailing list via the groups.io web portal, you will be asked to login with the new interface. 
-
-The account you create will allow you to authenticate using a number of services, such as Google, LinkedIN, Facebook and GitHub, as well as your own username and password.
+The account you will create will also allow you to authenticate using a number of services, such as Google, LinkedIn, Facebook and GitHub, as well as your own username and password.
 
 ## Why are we providing this service?
 
-This service helps to secure your access to the service, whether it is registering for an event, posting to a mailing group, or accessing a community meeting or webinar. Many of the identity providers, for example, have two-factor authentication and are based on services you trust and are familiar with.
+The SSO helps to secure your access to a service, whether it is registering for an event, posting to a mailing group, or accessing a community meeting or webinar. Many of the identity providers, for example, have two-factor authentication and are based on services you trust and are familiar with.
 
 In addition to increasing security, it’s also increasing convenience. Since you are already using the identity provider for your common workflows, you have one less password to juggle, and can often sign in more quickly depending on the browser or client you are using.
 

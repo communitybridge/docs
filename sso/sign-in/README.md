@@ -1,10 +1,10 @@
 # Sign in to your Account
 
-To access protected Linux Foundation services, you must sign in using your SSO account details.  If you just [created a brand new account](../create-an-account.md), please proceed as follows. If you already have a legacy Linux Foundation account formerly known as LFID, you can re-use that.
+To access protected Linux Foundation services, you must sign in using your LF account details.  If you already have a legacy Linux Foundation account formerly known as LFID, you can use it. If you just [created a brand new account](../create-an-account.md), please proceed as follows. 
 
 1. On the **Sign In** window, enter your SSO account credentials and click **Sign in**.  
 
-![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.26.09-pm.png)
+![](../../.gitbook/assets/new-sso%20%281%29.png)
 
 2. The Single Sign-On service permits the use of social and 3rd party authentication providers instead of a username.
 

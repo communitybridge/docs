@@ -14,13 +14,13 @@ You can use your Linked login credentials to Sign in to the protected Linux Foun
 
 4. If you have an existing Linux Foundation SSO account, Linux Foundation maps your SSO account to the social/3rd party login, and you can access the protected Linux Foundation service. If you do not have an SSO account created earlier, then the **Create an account** page appears.                                                                          
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-5.55.23-pm.png)
+![](../../.gitbook/assets/create-lf-account-if-authenticating-via-other.png)
 
 5. Enter a username, and click **Create Account**.  
 You will be re-directed to the Linux Foundation service page that you are trying to access.
 
 {% hint style="info" %}
-This username will be your new SSO Account Username, and will be synced with your email address.
+This username will be your new LF Account username, and will be synced with your email address.
 {% endhint %}
 
 
