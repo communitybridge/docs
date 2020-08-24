@@ -24,8 +24,8 @@ You can go to [https://myprofile.linuxfoundation.org](https://myprofile.linuxfou
 
 When you go to that page, you will be able to do the following:
 
-* See which email addresses are associated with your SSO
-* See the username for your SSO account
+* See which email addresses are associated with your LF Account
+* See the username for your LF Account
 * See which Identity Providers \(IdPs\) you have enabled
 
 ## What happens if I have a problem?
