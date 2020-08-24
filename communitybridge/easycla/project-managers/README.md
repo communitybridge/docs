@@ -11,6 +11,6 @@ As a project administrator, you do the following activities:
 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 
-* ​[View Current and Previous CLA PDFs](view-current-and-previous-cla-pdfs.md)​
+* ​[View Current and Previous CLA PDFs]()​
 * ​[Manage CLA Group Details](view-and-manage-signed-clas-for-a-cla-group.md)​
 

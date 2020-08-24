@@ -10,7 +10,7 @@ As a project manager, you use the CLA Management Console to add and name a CLA g
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-admin-console.md).
+1. [Sign in](sign-in-to-project-console.md).
 
 2. Click a project of interest.  
 The project page appears.

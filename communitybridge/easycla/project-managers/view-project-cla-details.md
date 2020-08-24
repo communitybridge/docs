@@ -1,15 +1,19 @@
-# View Project Details
+# View Project CLA Details
 
 #### To view project details:
 
-1. [Sign in](sign-in-to-the-admin-console.md).
+1. [Sign in](sign-in-to-project-console.md).
 
 2. Click a **project name** of interest.
 
+3. Navigate to the **Product Services** tab, and click **CLA**.
+
+![](../../../.gitbook/assets/cla-product-services.png)
+
 Based on CLA configuration for the project, available data are shown.
 
-* [No CLA Signed](view-project-details.md#no-cla-signed)
-* [CLA Signed](view-project-details.md#cla-signed)
+* [No CLA Signed](view-project-cla-details.md#no-cla-signed)
+* [CLA Signed](view-project-cla-details.md#cla-signed)
 
 ### No CLA Signed:
 

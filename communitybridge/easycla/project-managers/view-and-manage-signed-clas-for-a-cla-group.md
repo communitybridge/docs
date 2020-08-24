@@ -4,80 +4,73 @@ You can view details, such as user signatures, companies, CLA managers, and so o
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-admin-console.md).
+1. [Sign in](sign-in-to-project-console.md).
 2. Click a **project** of interest.
 
    The project page appears.
 
 3. Navigate to **Product Services &gt; CLA**.
 4. Do any of the following actions:
-   * [Change Your Current CLA Type Selections](view-and-manage-signed-clas-for-a-cla-group.md#change-your-current-cla-type-selections)
+   * [View Signed CLA Documents](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
    * [View CLA User Signatures](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-user-signatures)
-   * [View the Corporate CLA Companies](view-and-manage-signed-clas-for-a-cla-group.md#view-the-corporate-cla-companies)
+   * [View the Corporate CLA Companies](view-and-manage-signed-clas-for-a-cla-group.md#view-corporate-cla-companies)
+   * [View CLA managers of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-managers-of-the-company)
+   * [View approval criteria for corporate contributors](view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
+   * [View approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
 
-## View Details of Signed ICLAs <a id="change-your-current-cla-type-selections"></a>
+## View Signed CLA Document
 
-Signed ICLAs shows the details of a contributor, such as name, email address, GitHub ID, LF ID, and date when the individual signed CLA. You can type a value, such as name, github id, email address, and so on in the **Search** field to search for a contributor.
+Under ICLA & CCLA, click **View Document**. Template Details shows the signed CLA documents.
+
+![View CLA Document](../../../.gitbook/assets/view-document.png)
+
+Template details shows and lets you download the signed documents. Navigate to CCLA Template tab to view and download CLA signed by companies.
+
+![icla template](../../../.gitbook/assets/icla-template.png)
+
+## View CLA User Signatures
+
+Under Signatures, click **View & Export**.
+
+![View Signatures](../../../.gitbook/assets/view-signatures.png)
+
+**Signed ICLAs** shows individual contributor's details, such as name email address, GitHub ID, LF ID, and date when individual signed the CLA. You can type a value, such as name, github id, email address, and so on in the **Search** field to search for a contributor.
+
+![](../../../.gitbook/assets/signed-iclas.png)
 
 * Click ![](../../../.gitbook/assets/download-button.png) next to a contributor to download the signed CLA for the contributor. 
 * Click **Download Signed PDFs** to download the PDF format of signed CLAs for all the contributors at a time.
 * Click **Export Signed as CSV** to download the details of all the contributors in `.csv` format.
 
-![](../../../.gitbook/assets/signed-iclas.png)
+## **View Corporate CLA Companies**
 
-## View Details of Signed CCLAs
+Under Signatures, click **View & Export**.
 
+![View Signatures](../../../.gitbook/assets/view-signatures.png)
 
+Navigate to **Signed CCLAs** tab to view company details, such as company name, CLA managers and approved contributors of the company, approval criteria, and date when CLA managers signed CLA for the company. You can type a value, such as company name in the **Search** field for quick search of company details. For companies that have signed CLA, you can view:
 
-## Change Your Current CLA Type Selections <a id="change-your-current-cla-type-selections"></a>
+* [CLA managers of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-managers-of-the-company)
+* [Approval criteria for contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
+* [Approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
 
-You can change your CLA type selections if needed.
+**LINK TO BE GIVEN FOR NEW IMAGE AFTER PRD UPDATE.**
 
-**Do these steps:**
+#### **View CLA Managers of the Company**
 
-1. Click the **gear icon** ![CLA Gear Settings icon](../../../.gitbook/assets/cla-gear-settings-icon.png) next to the CLA group name.
+Click **View All** under **CLA Manager\(s\)** to view CLA managers of the company. The list shows CLA manager's name, their LF ID, and email addresses.
 
-The CLA Group dialog appears and shows your current CLA type selections.
+![CLA Managers List](../../../.gitbook/assets/cla-managers-list.png)
 
-![CLA CLA Group Edit](../../../.gitbook/assets/cla-cla-group-edit.png)
+#### View Approval Criteria
 
-2. Change the CLA Group Name, selections, or all, and click **SAVE**.
+Click **View Criteria** under **Approval Criteria** to view different categories with which contributors are added to the approved list. The list shows criteria name, its value, and the time stamp when the approved list is added. Click the download button to download the list in `.csv` format.
 
-## View CLA User Signatures <a id="view-cla-user-signatures"></a>
+![View Approval Criteria](../../../.gitbook/assets/approval-criteria-list.png)
 
-You can view the full set of signatures and list of approved contributors who are interacting with a project. A signature list shows details about who signed a CLA for your project.
+#### View Approved Contributors
 
-**Do these steps:**
+Click **View List** under Approved Contributors to view the list. It shows name and email address of the contributor, along with the GitHub ID, LF ID, and date when the contributor signed the CLA. Click the download button to download the list in `.csv` format.
 
-1. Click **VIEW SIGNATURES**.
-
-Details for all user signatures appear:
-
-* **Type** shows Company, Individual, or Employee depending on the CLA type that the user signed.
-* **Name** identifies the individual or employee who signed the CLA.
-* **Company** identifies the company that is associated with a Corporate CLA.
-* **GitHub ID** shows the GitHub identity of the individual or employee.
-* **LFID** shows the Linux Foundation identity of the individual or employee.
-* **Version** identifies the version of the CLA.
-* **Date Signed** shows the date that the individual, employee, or CLA signatory signed the CLA.
-
-![CLA View Signatures](../../../.gitbook/assets/cla-view-signatures.png)
-
-2. \(Optional\) Click a column header to sort the column values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
-
-3. Click **CLOSE**.
-
-## View the Corporate CLA Companies <a id="view-the-corporate-cla-companies"></a>
-
-The Corporate CLA list lets you see what companies in your project have a signed Corporate CLA.
-
-**Do these steps:**
-
-1. Click **VIEW COMPANIES** on a Corporate CLA.
-
-All companies that have signed the Corporate CLA are listed.
-
-![CLA Corporate CLA](../../../.gitbook/assets/cla-corporate-cla.png)
-
-2. Click **CLOSE**.
+![View Approved Contributors](../../../.gitbook/assets/view-approved-contributotrs.png)
 

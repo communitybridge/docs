@@ -4,12 +4,20 @@ As a project manager, you can add GitHub repositories to CLA monitoring or remov
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-the-admin-console.md).
+1. [Sign in](sign-in-to-project-console.md).
 
 2.Click a **project** of interest.  
 The project page appears.
 
-3. In the GitHub Repositories pane, click **CONFIGURE GITHUB REPOSITORIES**.
+3. Navigate to **Product Services** tab, and click **CLA**.
+
+![](../../../.gitbook/assets/cla-product-services.png)
+
+3. For a project under a project group, click **Add/Manage Repos**. 
+
+![Add and Manage Repositories](../../../.gitbook/assets/add-manage-repositories.png)
+
+4. In the **GITHUB** repositories pane, click **CONFIGURE GITHUB REPOSITORIES**.
 
 The Configure GitHub Repositories dialog appears and lists the GitHub repositories that are available for your organization.
 

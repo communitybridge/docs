@@ -34,16 +34,16 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation. You can set up project details and perform other activities as described in **A LINK WILL BE GIVEN TO ADMIN DASHBOARD ONCE THAT IS READY.** You can perform the following activities ****within the EasyCLA service:
+You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console on admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation. You can set up project details and perform other activities as described in **A LINK WILL BE GIVEN TO ADMIN DASHBOARD ONCE THAT IS READY.** You can perform the following activities ****within the EasyCLA service:
 
 1. [Install the EasyCLA Application](../project-managers/add-new-cla-group.md).
 2. [Add a CLA Group]().
-3. [Add Contributor License Agreements](../project-managers/add-contributor-license-agreements.md).
+3. [Add Contributor License Agreements]().
 4. Add [GitHub repositories](../project-managers/add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) or [Gerrit instances](../project-managers/add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md) to enforce CLA monitoring.
 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 
-* [View Current and Previous CLA PDFs](../project-managers/view-current-and-previous-cla-pdfs.md)
+* [View Current and Previous CLA PDFs]()
 * [Manage CLA Group Details](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md)
 
 ### Contributor <a id="contributor"></a>

@@ -4,7 +4,7 @@ The CLA Management Console lets you select and view the current and previous CLA
 
 **Do these steps:**
 
-1. [Sign in](../easycla/project-managers/sign-in-to-the-admin-console.md).
+1. [Sign in](../easycla/project-managers/sign-in-to-project-console.md).
 
 2. Click a **project** of interest.  
 The project page appears.
