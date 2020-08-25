@@ -1,9 +1,3 @@
----
-description: >-
-  This page describes the SSO login using Facebook Sign-In secure authentication
-  system.
----
-
 # Sign in with Facebook
 
 You can use your Facebook login credentials to Sign in to the protected Linux Foundation service instead of creating an SSO account. The first time you sign in, you would enter your Facebook credentials to authenticate your Facebook account. Subsequent logins would not require you to enter your credentials⏤you simply click the **Facebook** icon to sign in_**.**_ This one-click approach simplifies your logins.

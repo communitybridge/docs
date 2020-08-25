@@ -1,9 +1,3 @@
----
-description: >-
-  This page describes the SSO login using Google Sign-In secure authentication
-  system.
----
-
 # Sign in with Google
 
 You can use your Google \(Gmail\) login credentials to sign in to the protected Linux Foundation service instead of creating an LF account. The first time you sign in, you would enter your Gmail credentials to authenticate your Google account. Subsequent logins will not require you to enter the credentials⏤you will simply click the **Google** icon to sign in. This one-click approach simplifies your log in process.

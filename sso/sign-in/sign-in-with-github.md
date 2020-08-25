@@ -1,9 +1,3 @@
----
-description: >-
-  This page describes the SSO login using GitHub Sign-In secure authentication
-  system.
----
-
 # Sign in with GitHub
 
 You can use your login credentials from GitHub to Sign in to the protected Linux Foundation service instead of creating an SSO account. The first time you sign in, you would enter your GitHub credentials to authenticate your GitHub account. Subsequent logins would not require you to enter your credentials⏤you simply click the **GitHub** icon to sign in. This one-click approach simplifies your logins. 
