@@ -7,7 +7,7 @@ As a project administrator, you do the following activities:
 1. Sign in to the Project Console
 2. Configure the EasyCLA application.
 3. ​[Add a CLA Group]().
-4. ​[Add/Remove GitHub Repositories](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) Or [Add/Delete Gerrit Instances](add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md)
+4. ​[Add/Remove GitHub Repositories](add-and-manage-git-organizations/add-or-remove-github-repositories.md) Or [Add/Delete Gerrit Instances](add-and-manage-git-organizations/add-or-remove-gerrit-instances-from-cla-monitoring.md)
 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 

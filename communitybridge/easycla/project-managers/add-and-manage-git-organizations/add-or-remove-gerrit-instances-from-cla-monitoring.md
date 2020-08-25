@@ -1,4 +1,4 @@
-# Add Gerrit Instances to CLA Monitoring or Delete Them From CLA Monitoring
+# Add or Remove Gerrit Instances from CLA Monitoring
 
 As a project manager, you use the CLA Management Console to:
 
@@ -10,7 +10,7 @@ If you already added a Gerrit instance during the CLA onboarding process, skip t
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-project-console.md).
+1. [Sign in](../sign-in-to-project-console.md).
 
 2. Click a **project** of interest  
 The project page appears.
@@ -24,7 +24,7 @@ The Add Gerritt Instance form appears.
 **ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
 **CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
 
-![CLA Add Gerrit Instance](../../../.gitbook/assets/cla-add-gerrit-instance.png)
+![CLA Add Gerrit Instance](../../../../.gitbook/assets/cla-add-gerrit-instance.png)
 
 **Notes:**
 
@@ -43,7 +43,7 @@ description = CCLA for Linux Foundation
 agreementUrl = {URL }  
 accepted = group {Group-Name}`
 
-![CLA Gerrit Instances](../../../.gitbook/assets/cla-gerrit-instances.png)
+![CLA Gerrit Instances](../../../../.gitbook/assets/cla-gerrit-instances.png)
 
 5. Copy the block. As the Gerrit instance administrator, you will modify CLA configurations for the following files under the Gerrit instance’s All-Projects repository. If you are not the administrator, contact the Gerrit instance administrator to include the following files under the Gerrit instance’s All-Projects repository. Projects are organized hierarchically as a tree with the All-Projects project as root from which all projects inherit.
 

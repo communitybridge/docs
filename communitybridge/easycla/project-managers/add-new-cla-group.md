@@ -6,7 +6,7 @@ A CLA group defines:
 * What CLAs and their versions are used for the contributors
 * What GitHub repositories, Gerrit instances, or both enforce CLA monitoring
 
-As a project manager, you use the CLA Management Console to add and name a CLA group for your project. A CLA group gives you the flexibility to handle different CLA requirements for various GitHub repositories and Gerrit instances. After you add a new CLA group, you must [configure the repositories to enforce CLA monitoring](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md).
+As a project manager, you use the CLA Management Console to add and name a CLA group for your project. A CLA group gives you the flexibility to handle different CLA requirements for various GitHub repositories and Gerrit instances. After you add a new CLA group, you must [configure the repositories to enforce CLA monitoring](add-and-manage-git-organizations/add-or-remove-github-repositories.md).
 
 **Do these steps:**
 
@@ -80,7 +80,7 @@ The GitHub organization name value is case-sensitive—make sure that the name y
 The CLA Management Console appears and the GitHub Organizations pane shows the organizations and the repositories that the EasyCLA Application is authorized to monitor.
 
 {% hint style="warning" %}
-* _To delete an organization from monitoring, click **DELETE** next to the organization that you want to delete. A confirmation dialog appears. Click **DELETE**. You must also_ [_Uninstall LF CLA Application for Your Organization_](uninstall-the-easycla-application.md) _that you installed in Step 5._
+* _To delete an organization from monitoring, click **DELETE** next to the organization that you want to delete. A confirmation dialog appears. Click **DELETE**. You must also_ [_Uninstall LF CLA Application for Your Organization_](add-and-manage-git-organizations/uninstall-the-easycla-application.md) _that you installed in Step 5._
 * A message informs you that your project needs a CLA group. A CLA group defines one or more CLA types that contributors must sign.
 * If the EasyCLA Application is not connected to GitHub properly, an error message appears under the organization name: Not Configured. Please connect the CLA App to the Github Org. Click the **message link** to return to Step 4.
 {% endhint %}
@@ -94,9 +94,9 @@ The CLA Management Console appears and the GitHub Organizations pane shows the o
 ### Next Steps:
 
 * [Add a CLA Group]()
-* [Add GitHub Repositories to CLA Monitoring or Remove Them From CLA Monitoring](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md)
+* [Add GitHub Repositories to CLA Monitoring or Remove Them From CLA Monitoring](add-and-manage-git-organizations/add-or-remove-github-repositories.md)
 
   or
 
-* [Add Gerrit Instances to CLA Monitoring or Delete Them From CLA Monitoring](add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md)
+* [Add Gerrit Instances to CLA Monitoring or Delete Them From CLA Monitoring](add-and-manage-git-organizations/add-or-remove-gerrit-instances-from-cla-monitoring.md)
 

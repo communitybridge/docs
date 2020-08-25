@@ -17,11 +17,11 @@ The Applications or Organizations pane appears.
 
 5. Click **Configure** for the CommunityBridge: EasyCLA app.
 
-![CLA Uninstall the EasyCLA App](../../../.gitbook/assets/cla-uninstall-the-easycla-app.png)
+![CLA Uninstall the EasyCLA App](../../../../.gitbook/assets/cla-uninstall-the-easycla-app.png)
 
 6. Go to the Uninstall CommunityBridge: EasyCLA section and click **Uninstall**.
 
-![CLA Uninstall the EasyCLA app button](../../../.gitbook/assets/cla-uninstall-the-easycla-app-button.png)
+![CLA Uninstall the EasyCLA app button](../../../../.gitbook/assets/cla-uninstall-the-easycla-app-button.png)
 
 7. Refresh the CLA Management Console.
 
