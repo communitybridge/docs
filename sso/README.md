@@ -1,36 +1,36 @@
 # Single Sign-On \(SSO\)
 
-The Linux Foundation provides a unified Single Sign-On service \(SSO\) that offers secure access and protects the identities of all its community members. The Linux Foundation systems and services like Events Registration, Training and Certification, Jenkins, JIRA,  Confluence, Gerrit, Groups.io, Crowdfunding, Mentorship, EasyCLA, Insights, and Security are all protected by the SSO service. Additional services to be covered in near future will include Zoom and Slack, among others. 
+The Linux Foundation provides a unified Single Sign-On service \(SSO\) that offers secure access and protects the identities of all its community members. The Linux Foundation systems and services like Events Registration, Training and Certification, Jenkins, JIRA,  Confluence, Gerrit, Groups.io, Crowdfunding, Mentorship, EasyCLA, INSIGHTS, and Security are all protected by the SSO service. Additional services to be covered in near future will include Zoom and Slack, among others. 
 
-To create an account and log in you need an email address. You can also sign in using 3rd party authentication service providers such as Google, Facebook, GitHub, LinkedIn. 
+To create an account, you need an email address. You can also signed in using 3rd party authentication service providers such as Google, Facebook, GitHub, LinkedIn. 
 
 ## What is the SSO Login Page?
 
-When you log in to a program or a tool for a project, you will likely be asked to create your LF account. 
+When you are logging in to a support program or tool for a project, you will likely be asked to login or create your own SSO \(Single Sign On\). 
 
-The LF account you will create will also allow you to authenticate using services like Google, LinkedIn, Facebook and GitHub in addition to using your username and password.
+For example, if you are signing up for or logging into your mailing list via the Groups.io web portal, you will be asked to login with the new SSO interface. 
 
-For example, if you sign up for or log in to your mailing list via the Groups.io web portal, you will be asked to log in through the new SSO interface and create an LF account if you don't have one.  
+The account you will create will also allow you to authenticate using a number of services, such as Google, LinkedIn, Facebook and GitHub, as well as your own username and password.
 
 ## Why are we providing this service?
 
-The SSO helps to secure your access to a service, whether it is registering for an event, subscribing to a mailing group, or accessing a community meeting or webinar. 
+The SSO helps to secure your access to a service, whether it is registering for an event, posting to a mailing group, or accessing a community meeting or webinar. Many of the identity providers, for example, have two-factor authentication and are based on services you trust and are familiar with.
 
-In addition to increased security, it’s also a greater convenience. Since you already use the identity provider for your common workflows, you have one less password to remember, and can often sign in quickly depending on the browser or client you are using.
+In addition to increasing security, it’s also increasing convenience. Since you are already using the identity provider for your common workflows, you have one less password to juggle, and can often sign in more quickly depending on the browser or client you are using.
 
-## How do I view emails associated with my LF Account?
+## How do I see emails associated with my SSO?
 
-You can view emails associated with your LF Account at your Individual Dashboard at [https://myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org).
+You can go to [https://myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org).
 
-On the Individual Dashboard you can also:
+When you go to that page, you will be able to do the following:
 
-* View which email addresses are associated with your LF Account
-* View the username for your LF Account
-* View the Identity Providers \(IdPs\) you have enabled
+* See which email addresses are associated with your LF Account
+* See the username for your LF Account
+* See which Identity Providers \(IdPs\) you have enabled
 
-## What happens if I have an issue?
+## What happens if I have a problem?
 
-If you're experiencing an issue, you can create a ticket that will be addressed by our product support team by navigating to: [https://support.linuxfoundation.org](https://support.linuxfoundation.org) 
+If you have a problem, you can file a ticket that can be addressed by our product support team.If you need support, go to [https://support.linuxfoundation.org](https://support.linuxfoundation.org) You will be able to file a ticket.
 
 ## Getting Started
 
