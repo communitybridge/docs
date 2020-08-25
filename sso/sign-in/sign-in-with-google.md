@@ -4,7 +4,7 @@ You can use your Google \(Gmail\) login credentials to sign in to the protected 
 
 ## To Sign in with Google  <a id="to-log-in-with-google"></a>
 
-1. On the **SSO login page**, click on the Google icon to sign in with Google. 
+1. On the **SSO login page**, click on the Google icon to sign in with your Google account. 
 
 ![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.19.18-am.png)
 
