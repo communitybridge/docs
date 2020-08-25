@@ -23,7 +23,9 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 * Click a **GitHub PR** link, a **GitHub Commit**, and then a **GitHub Issue** link to learn more about the corresponding pull request, commit, and issue, respectively.
 * Click a **CWE-\#** link or **CVE-\#** link to read a description, references, and so on, about the vulnerability. The [Common Weakness Enumeration website](https://cwe.mitre.org/) or [Common Vulnerabilities and Exposures website](https://cve.mitre.org/) shows an identifier and details for the vulnerability by an identifier.
 
-4. Read about the vulnerabilities. Details about the issue, and when possible, a remediation and references to the corresponding PR, issue, CWE or CVE record, and so on. Read the details and decide how you want to fix the vulnerability, for example, by applying a Snyk patch.  
+4. Read about the vulnerabilities. Details about the issue, and when possible, a remediation and references to the corresponding PR, issue, CWE or CVE record, and so on. Read the details and decide how you want to fix the vulnerability, for example, by applying a Snyk patch.
+
+  
 ![](../../.gitbook/assets/7410900.png)
 
 5. Use this information to understand and remediate the issue if possible.
