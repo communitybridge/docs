@@ -1,6 +1,6 @@
 # Sign in with LinkedIn
 
-You can use your Linked login credentials to Sign in to the protected Linux Foundation service instead of creating an SSO account. The first time you sign in, you would enter your LinkedIn credentials to authenticate your LinkedIn account. Subsequent logins would not require you to enter your credentials⏤you simply click the **LinkedIn** icon to sign in_**.**_ This one-click approach simplifies your logins.
+You can use your LinkedIn login credentials to sign in to the protected Linux Foundation service instead of creating an LF account. The first time you sign in, you will enter your LinkedIn credentials to authenticate your LinkedIn account. Subsequent logins will not require you to enter the credentials⏤you will simply click the **LinkedIn** icon to sign in. This one-click approach simplifies your login process.
 
 ## To Sign in with LinkedIn: <a id="to-log-in-with-linkedin"></a>
 
