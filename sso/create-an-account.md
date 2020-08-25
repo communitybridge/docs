@@ -8,7 +8,7 @@ description: >-
 
 ## Create an account <a id="create-an-account"></a>
 
-If you are logging in for the first time to any Linux Foundation managed service that is protected with Single Sign On \(SSO\),  you must create an account. To create a Linux Foundation SSO account, do the following:
+If you are logging in for the first time to any Linux Foundation managed service that is protected with Single Sign On \(SSO\),  you must create an account. To create a Linux Foundation account, do the following:
 
 1. For services like Events Registration, JIRA, Confluence, Training and Certification, and so on, clicking on the service URL displays the Sign In page.
 
