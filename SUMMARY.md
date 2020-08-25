@@ -10,7 +10,7 @@
     * [Sign in with Facebook](sso/sign-in/sign-in-with-facebook.md)
   * [Forgot Password](sso/forgot-password.md)
   * [Have a question](sso/have-a-question.md)
-  * [Sign out](sso/log-out.md)
+  * [Sign Out](sso/sign-out.md)
 * [Individual Dashboard \(MyProfile\)](my-profile/README.md)
   * [Edit My Information](my-profile/managing-your-profile.md)
   * [Change Password](my-profile/changing-account-password.md)
