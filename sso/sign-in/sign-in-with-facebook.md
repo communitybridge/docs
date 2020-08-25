@@ -4,7 +4,7 @@ You can use your Facebook login credentials to sign in to the protected Linux Fo
 
 ## To Sign in with Facebook: <a id="to-log-in-with-facebook"></a>
 
-1. On the **SSO page**, click the Facebook icon to continue to Sign in with Facebook.         
+1. On the **SSO page**, click on the Facebook icon to continue to sign in with Facebook.         
 
 ![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.19.18-am.png)
 
