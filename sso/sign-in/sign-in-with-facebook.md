@@ -1,10 +1,10 @@
 # Sign in with Facebook
 
-You can use your Facebook login credentials to sign in to the protected Linux Foundation service instead of creating an LF account. The first time you sign in, you will enter your Facebook credentials to authenticate your Facebook account. Subsequent logins will not require you to enter the credentials⏤you will simply click the **Facebook** icon to sign in. This one-click approach simplifies your login process.
+You can use your Facebook login credentials to Sign in to the protected Linux Foundation service instead of creating an SSO account. The first time you sign in, you would enter your Facebook credentials to authenticate your Facebook account. Subsequent logins would not require you to enter your credentials⏤you simply click the **Facebook** icon to sign in_**.**_ This one-click approach simplifies your logins.
 
 ## To Sign in with Facebook: <a id="to-log-in-with-facebook"></a>
 
-1. On the **SSO page**, click on the Facebook icon to continue to sign in with Facebook.         
+1. On the **SSO page**, click the Facebook icon to continue to Sign in with Facebook.         
 
 ![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.19.18-am.png)
 
