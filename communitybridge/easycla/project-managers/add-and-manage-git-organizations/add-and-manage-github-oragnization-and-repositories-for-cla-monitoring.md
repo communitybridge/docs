@@ -1,6 +1,12 @@
 # Add and Manage GitHub Oragnization and Repositories for CLA Monitoring
 
-Before you add GitHub repositories for CLA monitoring or remove them from CLA monitoring, you must add the GitHub organization.
+Before you enable GitHub repositories for CLA monitoring or remove them from CLA monitoring, you must add the GitHub organization. You can perform the following activities with EasyCLA:
+
+* Add GitHub Organization for CLA Monitoring
+* View Connection Status of Git Organizations and Repositories
+* Enable or Disable GitHub Repositories from CLA Monitoring
+* Auto Enable New Repositories and Enable Branch Protection
+* Disassociate GitHub Organization from CLA Monitoring
 
 ### Add GitHub Organization for CLA Monitoring
 
@@ -40,6 +46,20 @@ Source Control configuration page appears.
 ![](../../../../.gitbook/assets/select-github-organization.png)
 
 9. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.
+
+### Disassociate GitHub Organization from CLA Monitoring
+
+You can disassociate your connected GitHub organization from CLA monitoring.
+
+**Do these steps:**
+
+ 1. Under GitHub pane, click the settings icon   next to Additional Settings of the connected GitHub Organization.
+
+
+
+
+
+
 
 
 
