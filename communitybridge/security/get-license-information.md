@@ -9,7 +9,11 @@ CommunityBridge Security identifies the licenses that are used by your projects 
 
 ![Licenses](../../.gitbook/assets/licenses.png)
 
-2.Click a license **identifier** ![](../../.gitbook/assets/icon2.png)  ****icon  to go to the SPDX License and find out more information about a license. The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
+2.Click a license **identifier** ![](../../.gitbook/assets/icon2.png)  ****icon  to go to the SPDX License and find out more information about a license. 
+
+![License Identifier](../../.gitbook/assets/license_ico.png)
+
+3.The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
 
 ![License](../../.gitbook/assets/apache-license.png)
 
