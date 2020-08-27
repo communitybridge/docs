@@ -10,7 +10,7 @@ Every project with a crowdfunding program on CommunityBridge receives daily vuln
 * [Open CommunityBridge Vulnerability Detection](open-communitybridge-vulnerability-detection.md)
 * [Get a Vulnerability Status Overview](get-a-vulnerability-status-overview.md)
 * [Investigate and Remediate Vulnerabilities](investigate-and-remediate-vulnerabilities.md)
-* [View Dependencies in a List](view-dependencies-in-a-list.md)
+* [View Dependencies in a List]()
 * [Investigate Dependencies in the Application Dependency Tree](investigate-dependencies-in-the-application-dependency-tree.md)
 * [Get License Information](get-license-information.md)
 * [Enable or Disable a Repository from Scanning](enable-or-disable-a-repository-from-scanning.md)

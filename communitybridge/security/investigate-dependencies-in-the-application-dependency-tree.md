@@ -27,8 +27,11 @@ A snapshot of dependencies in the repository in a tree format of the dependencie
 
 ![](../../.gitbook/assets/tree.png)
 
-4.Find out more about a dependency:
+4.Click a **license** of interest to go to SPDX and find out more information about a license. The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
 
-* Click a **dependency** of interest. Information from the Snyk Vulnerability Database appears. Read the details and decide how you want to fix the vulnerability, for example fix it by applying a patch if one is available.
-* Click a **license** of interest to go to SPDX and find out more information about a license. The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
+![License Details ](../../.gitbook/assets/apache-license%20%281%29.png)
+
+## Vulnerability Details  
+
+You can check the vulnerability details 
 

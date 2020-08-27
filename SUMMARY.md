@@ -194,7 +194,6 @@
     * [Open CommunityBridge Vulnerability Detection](communitybridge/security/open-communitybridge-vulnerability-detection.md)
     * [Get a Vulnerability Status Overview](communitybridge/security/get-a-vulnerability-status-overview.md)
     * [Investigate and Remediate Vulnerabilities](communitybridge/security/investigate-and-remediate-vulnerabilities.md)
-    * [View Dependencies in a List](communitybridge/security/view-dependencies-in-a-list.md)
     * [Investigate Dependencies in the Application Dependency Tree](communitybridge/security/investigate-dependencies-in-the-application-dependency-tree.md)
     * [Get License Information](communitybridge/security/get-license-information.md)
     * [Enable or Disable a Repository from Scanning](communitybridge/security/enable-or-disable-a-repository-from-scanning.md)
