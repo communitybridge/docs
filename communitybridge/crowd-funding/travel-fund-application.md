@@ -25,7 +25,7 @@
     <tr>
       <td style="text-align:left"><b>Topic</b> / <b>Category</b>
       </td>
-      <td style="text-align:left">Topic or category that relates to your Travel Scholarship.
+      <td style="text-align:left">Topic or category that relates to your Travel Fund.
         <br />Click
         <img src="../../.gitbook/assets/7418659.jpg" alt/>after you select category/ categories. The added categories are reflected
         in the <b>List of categories you have added... </b>field.</td>
@@ -33,7 +33,7 @@
     <tr>
       <td style="text-align:left"><b>Elevator pitch</b>
       </td>
-      <td style="text-align:left">Brief statement of why your Travel Scholarship is important to support.</td>
+      <td style="text-align:left">Brief statement of why your Travel Fund is important to support.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Website URL</b>
@@ -43,17 +43,17 @@
     <tr>
       <td style="text-align:left"><b>Application URL</b>
       </td>
-      <td style="text-align:left">The specific URL where people can apply for travel scholarship.</td>
+      <td style="text-align:left">The specific URL where people can apply for travel fund.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Start Date</b>
       </td>
-      <td style="text-align:left">Start date of your travel scholarship.</td>
+      <td style="text-align:left">Start date of your travel fund.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>End Date</b>
       </td>
-      <td style="text-align:left">Ens date of your travel scholarship.</td>
+      <td style="text-align:left">Ens date of your travel fund.</td>
     </tr>
   </tbody>
 </table>
@@ -63,7 +63,7 @@
 | Name | Description |
 | :--- | :--- |
 | **Travel Fund Logo** | Symbol or other design adopted by your organization identifies your Travel Fund. Click **Browse** to upload a JPG, PNG, or SVG file. Preview shows the logo that you uploaded. A logo helps your page stand out. |
-| **Accent Color** | Hexadecimal number for the color that you want use as your scholarship brand. for example, \#008000 is green. Enter a **hexadecimal number** or click in the field to open the color picker. Use the picker by clicking inside the color field to pick a color. You can use the up/down arrows to refine the color by editing the color values. The gray field refreshes to match your selection. |
+| **Accent Color** | Hexadecimal number for the color that you want use as your fund brand. for example, \#008000 is green. Enter a **hexadecimal number** or click in the field to open the color picker. Use the picker by clicking inside the color field to pick a color. You can use the up/down arrows to refine the color by editing the color values. The gray field refreshes to match your selection. |
 
 ![](../../.gitbook/assets/travel-fund-branding.png)
 

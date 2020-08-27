@@ -19,7 +19,7 @@ Consider the following submission guidelines before you apply:
   * You are responsible for project communications
   * You will be responsible for managing payments from project funds
   * You can determine fundraising goals
-* Events and Travel Scholarships:
+* Events and Travel Funds:
   * You are responsible for the fund communications
   * You will be responsible for managing payments from the funds
   * You can determine fundraising goals

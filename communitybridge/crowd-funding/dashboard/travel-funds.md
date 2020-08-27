@@ -23,7 +23,7 @@ The overview shows some or all of the following items depending on the data that
 | **Visit Website** | Opens the associated website. |
 
   
-View an example of a travel scholarship overview section:
+View an example of a travel fund overview section:
 
 ![](../../../.gitbook/assets/7418525%20%281%29.png)
 
@@ -39,7 +39,7 @@ The Dashboard shows various aspects of the fund depending on the data that is av
 | **Travel Funding Distribution** | Shows how meet-up funds are distributed and their dollar amounts. |
 
   
-View an example of a travel scholarship dashboard section:
+View an example of a travel fund dashboard section:
 
 ![](../../../.gitbook/assets/7418524%20%281%29.jpg)
 
