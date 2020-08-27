@@ -8,25 +8,41 @@ If possible, address a vulnerability by upgrading to a vulnerability-free versio
 
 **Do these steps:**
 
-1. Select **Issues** from the top menu.  
+1.Select **Issues** from the top menu.  
 The dashboard shows all vulnerabilities with their details, and total number of open and fixed issues. By default, only Open status issues appear—use the filter to show Fixed issues.
 
-![Issues Dashboard](../../.gitbook/assets/issues-dashboard.png)
+![](../../.gitbook/assets/issues_dash.png)
 
-2. \(Optional\) Filter your issue results:
+2. You can search for a particular repository using the Repositories drop-down list. You can select the required repositories and check the issues and their details. 
 
-* Select any of the check boxes from **Filters** drop down list, and click **Filter** to narrow your issue results by Issue Severity and Status. These filters help you focus your attention on issues of concern, for example, issues with a High severity and an Open status. The Filters heading refreshes to match your selections for easy reference.  ![](../../.gitbook/assets/filters-drop-down.png)  
-* Select a **repository** \(and optionally a **project**\) from the Repository drop-down list. Hover mouse over a repository to view total number of open and fixed issues per project.  ![](../../.gitbook/assets/repositories-drop-down.png) 
+![](../../.gitbook/assets/repo_list.png)
 
-3. Investigate the vulnerabilities by opening the provided links to go directly to various websites for specific information about the vulnerability. For example:
+3.You can view the total number of open and fixed issues for a repository by clicking the **View Details**. 
+
+![](../../.gitbook/assets/view_details.png)
+
+4. You can see the Open issues related to the repository. You can also refine the issues based on the priority such as High, Medium and Low.  
+
+![](../../.gitbook/assets/seviarity.png)
+
+5.Click the ![](../../.gitbook/assets/icon.png) icon to see more details and to investigate the vulnerabilities. You can check the following details related to vulnerabilities:
+
+* Details about the issue, and when possible, a remediation and references to the corresponding PR, issue, CWE or CVE record, and so on.
+* Read the details and decide how you want to fix the vulnerability, for example, by applying a Snyk patch
+
+![](../../.gitbook/assets/more.png)
+
+6.You can also  Click a CWE-\# link or CVE-\# link to read a description, references, and so on, about the vulnerability. The [Common Weakness Enumeration website](https://cwe.mitre.org/) or [Common Vulnerabilities and Exposures website](https://cve.mitre.org/) shows an identifier and details for the vulnerability by an identifier.
+
+![](../../.gitbook/assets/cve.png)
+
+7.Investigate the vulnerabilities by opening the provided links to go directly to various websites for specific information about the vulnerability. For example:
 
 * Click a **GitHub PR** link, a **GitHub Commit**, and then a **GitHub Issue** link to learn more about the corresponding pull request, commit, and issue, respectively.
-* Click a **CWE-\#** link or **CVE-\#** link to read a description, references, and so on, about the vulnerability. The [Common Weakness Enumeration website](https://cwe.mitre.org/) or [Common Vulnerabilities and Exposures website](https://cve.mitre.org/) shows an identifier and details for the vulnerability by an identifier.
 
-4. Read about the vulnerabilities. Details about the issue, and when possible, a remediation and references to the corresponding PR, issue, CWE or CVE record, and so on. Read the details and decide how you want to fix the vulnerability, for example, by applying a Snyk patch.
+![](../../.gitbook/assets/github.png)
 
-  
-![](../../.gitbook/assets/7410900.png)
 
-5. Use this information to understand and remediate the issue if possible.
+
+
 

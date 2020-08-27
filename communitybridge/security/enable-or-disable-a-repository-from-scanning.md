@@ -25,13 +25,6 @@ You can also enable or disable scanning for all repositories by toggle of **Enab
 The **View Details** link is enabled if there are errors during the repository's scan.
 {% endhint %}
 
-4.Under **Dependencies** tab, click **dependencies** to investigate a repository's **Dependencies**.   
-**Note:** [**Dependency Tree**](investigate-dependencies-in-the-application-dependency-tree.md) ****section opens. The link is enabled if there are any dependencies for a repository.
-
-![Settings Dashboard](../../.gitbook/assets/settings.png)
-
-
-
 
 
 

@@ -18,12 +18,12 @@ A snapshot of dependencies in the repository in a tree format of the dependencie
 ![Dependency Tree](../../.gitbook/assets/dependency_tree.png)
 
 2.Select a **repository** from the Repository drop-down list. Only dependencies for that repository and project appear.  
-![](../../.gitbook/assets/7410955.png)
+
 
 ![Search Repository](../../.gitbook/assets/search.png)
 
 3.Navigate the tree to identify vulnerable dependencies in the repository. A yellow warning icon indicates that an item has a child with a vulnerability—track a dependency by following the yellow warning icons down the tree. On vulnerable dependencies, colored labels indicate severity levels. You can click a label to go to the Details dashboard to see the issue details inside the project.  
-![](../../.gitbook/assets/7410956.png)
+
 
 ![](../../.gitbook/assets/tree.png)
 
