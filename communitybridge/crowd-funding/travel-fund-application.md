@@ -69,8 +69,8 @@
 
 ## Travel Fund Beneficiaries
 
-Travel fund beneficiaries are individuals who can benefit from the funds, or people who you want to sponsor for related activities.  
-**Note:** You will be automatically added as a beneficiary when you submit a new scholarship application. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
+Travel fund beneficiaries are individuals who can benefit from the funds, or people whom you want to sponsor for related activities.  
+**Note:** You will be automatically added as a beneficiary when you submit a new travel fund application. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
 
 | Name | Description |
 | :--- | :--- |
@@ -85,7 +85,7 @@ View beneficiaries section:
 
 After the application is approved, the Linux Foundation finance team sets up an individual Expensify account for each beneficiary. Then, each beneficiary receives an email from the finance team with a notification that includes a link to their Expensify account.
 
-The finance team also works with you to set up a specific expense policy that applies to the Travel Scholarship. All the beneficiary and fund expenses are controlled through the expense policy. For example, the policy might state a hotel price range that is acceptable for beneficiaries or a per diem food allowance.
+The finance team also works with you to set up a specific expense policy that applies to the Travel Fund. All the beneficiary and fund expenses are controlled through the expense policy. For example, the policy might state a hotel price range that is acceptable for beneficiaries or a per diem food allowance.
 
 Only you \(the person who submitted this application\) can add or remove beneficiaries. The finance team is notified and adjusts the Expensify accounts accordingly.
 
@@ -95,9 +95,11 @@ Only you \(the person who submitted this application\) can add or remove benefic
 
 ![](../../.gitbook/assets/travel-fund-budget.png)
 
-## Travel Funding Distribution <a id="TravelFundingApplication-TravelScholarshipFundingDistribution"></a>
+## Travel Fund Funding Distribution <a id="TravelFundingApplication-TravelScholarshipFundingDistribution"></a>
 
 Enable goals for how you want to distribute funds in your Travel fund, and complete the fields that appear—see the example below. Enter a percentage of your Annual Funding Goal amount to designate towards the goal. You can use the up/down arrows to select a percentage also.
+
+![Funding Distribution](../../.gitbook/assets/travel-fund-funding-distribution.png)
 
 Be clear to potential sponsors about how you intend to use the funds. You can designate funds towards different types of expenses. These amounts are targets not limits, so you can continue raising money beyond the designated amount. As you see progress in one or more goals, you can \(and should\) update the goals to reflect how you plan to utilize these additional funds. 
 

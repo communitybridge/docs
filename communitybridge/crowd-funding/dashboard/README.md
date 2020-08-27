@@ -10,7 +10,7 @@
    * [Events](./#Dashboard-Events)
    * [Security Audits \(OSTIF\)](./#security-audits-ostif)
    * [Initiatives](./#initiatives)
-   * [Travel Fund](./#Dashboard-TravelScholarships)
+   * [Travel Funds](./#Dashboard-TravelScholarships)
 5. Participate:
    * [Apply to raise fund for a project](../apply-for-funding/)
      * [Add a GitHub project](../apply-for-funding/add-a-github-project.md)
@@ -77,11 +77,18 @@ Initiatives lists all the different types of initiatives for which people have r
 
 ![Initiatives](../../../.gitbook/assets/initiatives.png)
 
-## Travel Fund <a id="Dashboard-TravelScholarships"></a>
+## Travel Funds <a id="Dashboard-TravelScholarships"></a>
 
-**Travel Scholarships** lists funds for travel expenses, for example a scholarship to attend a women's conference. For each scholarship, a bar shows the donation progress towards the total annual funding goal.
+**Travel Funds** lists travel funds for meet-ups, for example a travel fund to attend a women's conference. For each travel fund, a travel fund card shows the following information:
 
-Click **Donate** to donate a scholarship that you want to support. To know more, see [Travel Fund](travel-funds.md).
+* Travel Fund name, logo, and description.
+* Technologies or Categories the meet-up associated with.
+* Dates show the start date and end date of the meet up.
+* Funds Raised shows total funds raised so far.
+* Sponsors shows images of sponsors \(Individuals and Organizations\) for the travel fund.
+*  **Donate** lets you donate funds to a travel fund that you want to support.
+
+To know more, see [Travel Funds](travel-funds.md).
 
 ### Learn more:
 
