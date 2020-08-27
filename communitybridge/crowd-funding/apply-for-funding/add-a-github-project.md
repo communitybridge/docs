@@ -14,7 +14,7 @@ Keep these items ready before you begin:
 ### **To add a GitHub Project:**
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Click Apply and select **ADD GITHUB PROJECT.**   ![](../../../.gitbook/assets/add-github-project.png) ****
+2. Click Apply and select **ADD GITHUB PROJECT.**  ![](../../../.gitbook/assets/add-github-project.png)
 3. Enter your credentials and click **Sign in.**
 4. Select **Authorize communityBridge** to grant CommunityBridge Funding read-only access to your GitHub account. The Select Repository popup appears that lets you link a repository to your project.  ![](../../../.gitbook/assets/7418542.png) 
 5. Select the **repository** that you want to use and click **Next.** This step verifies that you have the correct organization and repository selected for your CommunityBridge Funding project. You cannot change your selection after you submit your application.

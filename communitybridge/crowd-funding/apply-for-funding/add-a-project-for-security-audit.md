@@ -11,7 +11,7 @@ Linux Foundation requires access to your code repository to support security vul
 ### To apply to Security Audits \(OSTIF\):
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Click **Apply** and select **ADD SECURITY AUDIT**.   ![](../../../.gitbook/assets/add-security-audit.png) 
+2. Click **Apply** and select **ADD SECURITY AUDIT**.  ![](../../../.gitbook/assets/add-security-audit.png) 
 3. Complete the application form. Red asterisks indicate required fields. For information about fields, see [Security Audit Application ](../security-audit-application.md)form.
 4. Click **Submit Application.  
    Note:** If you, as a project administrator, apply for security audit,  OSTIF reviews your application, determines the security audit funding goal post which you must add the funding goal in the respective field as shown in the [Security Audit Application ](../security-audit-application.md)form.

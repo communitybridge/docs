@@ -14,7 +14,7 @@ Keep these items ready before you begin, although they are not required:
 **Do these steps:**
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Click **Apply** and ****Select **ADD GIT PROJECT.**   ![](../../../.gitbook/assets/add-git-project%20%281%29.png)  ****
+2. Click **Apply** and ****Select **ADD GIT PROJECT.**  ![](../../../.gitbook/assets/add-git-project%20%281%29.png) 
 3. Complete a project application form; red asterisks indicate required fields. For information about fields, see [Project Application Form](../project-application.md).
 4. Click **Submit Application.** The Linux Foundation administrator will review and approve or reject the application. The Linux Foundation will set up the financial aspects of your project and contributors, such as Expensify accounts and a project expense policy.
 5. \(Optional\) Go to your user account and select **My Projects** to see your pending project.
