@@ -11,13 +11,24 @@ As an open-source developer, you should understand the direct and indirect depen
 
 **Do these steps:**
 
-1. Select **Dependency Tree** from the top menu.
+1.Select **Dependency Tree** from the top menu.
 
-   A snapshot of dependencies in the repository in a tree format of the dependencies appears. The tree repository order is descendant from the greatest number of dependencies in a repository to the least number. Each item \(a branch or a node\) can have a number of subitems. By default, the first three levels appear. Expand nodes of interest to drill down in the tree.
+A snapshot of dependencies in the repository in a tree format of the dependencies appears. The tree repository order is descendant from the greatest number of dependencies in a repository to the least number. Each item \(a branch or a node\) can have a number of subitems. By default, the first three levels appear. Expand nodes of interest to drill down in the tree.
 
-2. Select a **repository** from the Repository drop-down list. ![](../../.gitbook/assets/7410955.png) Only dependencies for that repository and project appear.
-3. Navigate the tree to identify vulnerable dependencies in the repository. A yellow warning icon indicates that an item has a child with a vulnerability—track a dependency by following the yellow warning icons down the tree. On vulnerable dependencies, colored labels indicate severity levels. You can click a label to go to the Details dashboard to see the issue details inside the project. ![](../../.gitbook/assets/7410956.png)
-4. Find out more about a dependency:
-   * Click a **dependency** of interest. Information from the Snyk Vulnerability Database appears. Read the details and decide how you want to fix the vulnerability, for example fix it by applying a patch if one is available.
-   * Click a **license** of interest to go to SPDX and find out more information about a license. The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
+![Dependency Tree](../../.gitbook/assets/dependency_tree.png)
+
+2.Select a **repository** from the Repository drop-down list. Only dependencies for that repository and project appear.  
+![](../../.gitbook/assets/7410955.png)
+
+![Search Repository](../../.gitbook/assets/search.png)
+
+3.Navigate the tree to identify vulnerable dependencies in the repository. A yellow warning icon indicates that an item has a child with a vulnerability—track a dependency by following the yellow warning icons down the tree. On vulnerable dependencies, colored labels indicate severity levels. You can click a label to go to the Details dashboard to see the issue details inside the project.  
+![](../../.gitbook/assets/7410956.png)
+
+![](../../.gitbook/assets/tree.png)
+
+4.Find out more about a dependency:
+
+* Click a **dependency** of interest. Information from the Snyk Vulnerability Database appears. Read the details and decide how you want to fix the vulnerability, for example fix it by applying a patch if one is available.
+* Click a **license** of interest to go to SPDX and find out more information about a license. The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
 
