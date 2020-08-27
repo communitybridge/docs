@@ -2,7 +2,7 @@
 
 Integrated services for a project let you see additional information about a project.
 
-**Note:** Integrated services are not available for Events and Travel Scholarships
+**Note:** Integrated services are not available for Events and Travel Funds
 
 **To view integrated services:** 
 

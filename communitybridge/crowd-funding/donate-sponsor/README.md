@@ -23,8 +23,7 @@ Consider the following funding information before you donate:
 
 ### Donate
 
-* [Donate to a Project as an Individual](donate-as-an-individual.md)
-* [Donate as a Project Sponsor](donate-as-a-sponsor/)
+* [Donate to a Project or Travel Fund as an Individual](donate-as-an-individual.md)
+* [Donate to a Project or Travel Fund as a Sponsor](donate-as-a-sponsor/)
 * [Sponsor Events](sponsor-events.md)
-* [Donate to Travel Scholarships]()
 

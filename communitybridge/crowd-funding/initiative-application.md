@@ -25,7 +25,7 @@
     <tr>
       <td style="text-align:left"><b>Topic</b> / <b>Category</b>
       </td>
-      <td style="text-align:left">Topic or category that relates to your Travel Scholarship.
+      <td style="text-align:left">Topic or category that relates to your Travel Fund.
         <br />Click
         <img src="../../.gitbook/assets/7418659.jpg" alt/>after you select category/ categories. The added categories are reflected
         in the <b>List of categories you have added... </b>field.</td>

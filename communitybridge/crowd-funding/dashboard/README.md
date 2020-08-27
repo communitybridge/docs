@@ -79,14 +79,14 @@ Initiatives lists all the different types of initiatives for which people have r
 
 ## Travel Funds <a id="Dashboard-TravelScholarships"></a>
 
-**Travel Funds** lists travel funds for meet-ups, for example a travel fund to attend a women's conference. For each travel fund, a travel fund card shows the following information:
+**Travel Funds** lists travel funds for project related events and meet-ups, for example a travel fund to attend a women's conference. For each travel fund, a travel fund card shows the following information:
 
 * Travel Fund name, logo, and description.
-* Technologies or Categories the meet-up associated with.
-* Dates show the start date and end date of the meet up.
+* Technologies or Categories the travel related event or meet-up is associated with.
+* Dates show the start date and end date of the meet up or event.
 * Funds Raised shows total funds raised so far.
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the travel fund.
-*  **Donate** lets you donate funds to a travel fund that you want to support.
+*  **Donate** lets you donate funds to a travel fund that you want to support. You can donate as an [individual](../donate-sponsor/donate-as-an-individual.md) or as a [sponsor organization](../donate-sponsor/donate-as-a-sponsor/).
 
 To know more, see [Travel Funds](travel-funds.md).
 

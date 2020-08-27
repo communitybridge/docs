@@ -8,11 +8,11 @@ Linux Foundation doesn't charge any fees for the first $10M raised through Commu
 
 **Anyone** who is interested in supporting an open source project can learn about CommunityBridge Funding and get involved. Browse through projects and learn about their fundraising goals, donations, expenses, and security vulnerabilities. 
 
-### [Add a Project, Event, or Scholarship](apply-for-funding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
+### [Add a Project, Event, or Travel Fund](apply-for-funding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
 
 **Project Administrators** submit funding applications for financial support from companies and individuals to grow their communities by paying money to developers for their contribution, by sponsoring project related travel meet-ups, spending money in marketing, and so on. Project administrators are the primary maintainers of the open source projects on CommunityBridge.
 
-[Project administrators can also enroll their projects in a mentorship program](../mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel scholarships for events and project summits.
+[Project administrators can also enroll their projects in a mentorship program](../mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel funds for events and project summits.
 
 ### [Donate/Sponsor](donate-sponsor/) <a id="CommunityBridgeFunding-Donate/Sponsor7417266.html"></a>
 
@@ -27,18 +27,18 @@ Designated **beneficiaries** get reimbursed for their support of open source com
 
 ## How to Participate <a id="CommunityBridgeFunding-HowtoParticipate"></a>
 
-You can participate by applying and submitting your open source project to receive funding through the CommunityBridge platform, as well as by donating to projects, and sponsoring events and travel scholarships. 
+You can participate by applying and submitting your open source project to receive funding through the CommunityBridge platform, as well as by donating to projects, and sponsoring events and travel funds. 
 
 You must have an [account](../../sso/create-an-account.md) or sign in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, see [Sign in to CommunityBridge](../../sso/sign-in/).  
 **Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can sign in to CommunityBridge using your SSO credentials.
 
 ### **Applying for Funding** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 
-**As an individual/project administrator**, ****you can [apply](apply-for-funding/) to raise funds for your project by submitting an application for your GitHub or Git-based project. After your project is approved by the Linux Foundation, it will be visible on the [CommunityBridge Funding](https://funding.communitybridge.org/) dashboard under [Projects and Mentorships](dashboard/projects.md) tab. You can apply for event funding or a travel scholarships by submitting an Event or a Travel Scholarship application form. 
+**As an individual/project administrator**, ****you can [apply](apply-for-funding/) to raise funds for your project by submitting an application for your GitHub or Git-based project. After your project is approved by the Linux Foundation, it will be visible on the [CommunityBridge Funding](https://funding.communitybridge.org/) dashboard under [Projects and Mentorships](dashboard/projects.md) tab. You can apply for event funding or a travel funds by submitting an [Event Application Form](event-application.md) or a [Travel Fund application form](travel-fund-application.md). 
 
 ### Donating/Sponsoring <a id="CommunityBridgeFunding-Donating/Sponsoring"></a>
 
-**As an individual y**ou can donate to projects and/or travel scholarships, and sponsor events. For details, see [Donate as an Individual](donate-sponsor/donate-as-an-individual.md), and [Sponsor Events](donate-sponsor/sponsor-events.md).
+**As an individual y**ou can donate to projects and/or travel fund, and sponsor events. For details, see [Donate as an Individual](donate-sponsor/donate-as-an-individual.md), and [Sponsor Events](donate-sponsor/sponsor-events.md).
 
-**As an organization y**ou can donate to projects and/or travel scholarships, and sponsor events. For details, see [Donate as an Organization](donate-sponsor/donate-as-a-sponsor/), and [Sponsor Events](donate-sponsor/sponsor-events.md).
+**As an organization y**ou can donate to projects and/or travel funds, and sponsor events. For details, see [Donate as an Organization](donate-sponsor/donate-as-a-sponsor/), and [Sponsor Events](donate-sponsor/sponsor-events.md).
 

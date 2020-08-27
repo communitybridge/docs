@@ -1,6 +1,6 @@
 # Add a Travel Fund
 
-You can submit an application to add a Travel Fund to CommunityBridge Funding, such as to raise funds for travel to a Linux Foundation summit. In the application, add individuals' \(beneficiaries\) details whom you want to sponsor. These beneficiaries will receive an invitation to Expensify \(an expense management application\) so that they can submit reimbursements for their travel expenses.
+You can submit an application to add a Travel Fund to CommunityBridge Funding, for example to raise funds for travel to a Linux Foundation summit. In the application, add individuals' \(beneficiaries\) details whom you want to sponsor. These beneficiaries will receive an invitation to Expensify \(an expense management application\) so that they can submit reimbursements for their travel expenses.
 
 {% hint style="info" %}
 Have these items handy before you begin:
