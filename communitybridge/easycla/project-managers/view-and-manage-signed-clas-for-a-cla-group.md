@@ -54,21 +54,21 @@ Navigate to **Signed CCLAs** tab to view company details, such as company name, 
 * [Approval criteria for contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
 * [Approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
 
-**LINK TO BE GIVEN FOR NEW IMAGE AFTER PRD UPDATE.**
+![](../../../.gitbook/assets/signed-ccla.png)
 
-#### **View CLA Managers of the Company**
+### **View CLA Managers of the Company**
 
 Click **View All** under **CLA Manager\(s\)** to view CLA managers of the company. The list shows CLA manager's name, their LF ID, and email addresses.
 
 ![CLA Managers List](../../../.gitbook/assets/cla-managers-list.png)
 
-#### View Approval Criteria
+### View Approval Criteria
 
 Click **View Criteria** under **Approval Criteria** to view different categories with which contributors are added to the approved list. The list shows criteria name, its value, and the time stamp when the approved list is added. Click the download button to download the list in `.csv` format.
 
 ![View Approval Criteria](../../../.gitbook/assets/approval-criteria-list.png)
 
-#### View Approved Contributors
+### View Approved Contributors
 
 Click **View List** under Approved Contributors to view the list. It shows name and email address of the contributor, along with the GitHub ID, LF ID, and date when the contributor signed the CLA. Click the download button to download the list in `.csv` format.
 
