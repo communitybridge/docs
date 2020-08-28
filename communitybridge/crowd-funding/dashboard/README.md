@@ -37,7 +37,7 @@ For each project, the project card shows the following information:
 
 To know more about a project, see [Projects](projects.md).
 
-![Projects](../../../.gitbook/assets/funding-project-cards.png)
+![Funding Projects](../../../.gitbook/assets/funding-project-cards.png)
 
 ## Events <a id="Dashboard-Events"></a>
 
@@ -53,7 +53,22 @@ To know more about a project, see [Projects](projects.md).
 
 To know more about events, see [Events](events.md).
 
-![Events](../../../.gitbook/assets/event-cards.png)
+![Funding Events](../../../.gitbook/assets/crowdfunding-events.png)
+
+## Travel Funds <a id="Dashboard-TravelScholarships"></a>
+
+**Travel Funds** lists travel funds for project related events and meet-ups, for example a travel fund to attend a women's conference. For each travel fund, a travel fund card shows the following information:
+
+* Travel Fund name, logo, and description.
+* Technologies or Categories the travel related event or meet-up is associated with.
+* Dates show the start date and end date of the meet up or event.
+* Funds Raised shows total funds raised so far.
+* Sponsors shows images of sponsors \(Individuals and Organizations\) for the travel fund.
+*  **Donate** lets you donate funds to a travel fund that you want to support. You can donate as an [individual](../donate-sponsor/donate-as-an-individual.md) or as a [sponsor organization](../donate-sponsor/donate-as-a-sponsor/).
+
+To know more, see [Travel Funds](travel-funds.md).
+
+![Funding Travel Funds](../../../.gitbook/assets/funding-travel-funds.png)
 
 ## Security Audits \(OSTIF\)
 
@@ -69,26 +84,13 @@ Click **Donate** to donate to the project. To know more, see [Security Audit](se
 
 Following example show a project that is applied for security audit.
 
-![Project Applied for Security Audit](../../../.gitbook/assets/security-audit-projects.png)
+![Project Applied to Security Audit](../../../.gitbook/assets/security-audit-projects.png)
 
 ## Initiatives
 
 Initiatives lists all the different types of initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click  **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
 
 ![Initiatives](../../../.gitbook/assets/initiatives.png)
-
-## Travel Funds <a id="Dashboard-TravelScholarships"></a>
-
-**Travel Funds** lists travel funds for project related events and meet-ups, for example a travel fund to attend a women's conference. For each travel fund, a travel fund card shows the following information:
-
-* Travel Fund name, logo, and description.
-* Technologies or Categories the travel related event or meet-up is associated with.
-* Dates show the start date and end date of the meet up or event.
-* Funds Raised shows total funds raised so far.
-* Sponsors shows images of sponsors \(Individuals and Organizations\) for the travel fund.
-*  **Donate** lets you donate funds to a travel fund that you want to support. You can donate as an [individual](../donate-sponsor/donate-as-an-individual.md) or as a [sponsor organization](../donate-sponsor/donate-as-a-sponsor/).
-
-To know more, see [Travel Funds](travel-funds.md).
 
 ### Learn more:
 

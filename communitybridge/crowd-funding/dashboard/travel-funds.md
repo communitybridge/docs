@@ -18,14 +18,13 @@ The overview shows some or all of the following items depending on the data that
 | Name | Description |
 | :--- | :--- |
 | **Current Balance** | The total amount of funds available in the account. |
-| **Backers**  | The number of individuals who have donated to the event. This number includes individual and organization donations by individual Linux Foundation accounts. The number of backers indicates the popularity and momentum of the event. |
 | **Sponsor Organizations** | The logos of the companies that sponsor the project. |
 | **Visit Website** | Opens the associated website. |
 
   
 View an example of a travel fund overview section:
 
-![](../../../.gitbook/assets/7418525%20%281%29.png)
+![Travel Fund Overview](../../../.gitbook/assets/travel-fund-overview.png)
 
 ## Dashboard <a id="TravelScholarships-Dashboard"></a>
 
