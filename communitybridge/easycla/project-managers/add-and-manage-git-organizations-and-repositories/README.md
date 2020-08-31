@@ -11,7 +11,7 @@ After you successfully add/connect Git organizations, you can:
 
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
 * [Add or Remove GitHub repositories](add-or-remove-git-repositories-for-cla-monitoring.md)
-* [Add or Remove Gerrit Instances](add-or-remove-gerrit-instances-from-cla-monitoring.md)
+* [Add or Remove Gerrit Instances]()
 
 ### Add GitHub Organization:
 

@@ -203,7 +203,6 @@
       * [Add and Manage Git Organizations and Repositories](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/README.md)
         * [View Connection Status of Git Organizations and Repositories](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
         * [Add or Remove Git Repositories for CLA Monitoring](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md)
-        * [Add or Remove Gerrit Instances from CLA Monitoring](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-gerrit-instances-from-cla-monitoring.md)
         * [Uninstall the EasyCLA Application](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/uninstall-the-easycla-application.md)
     * [Contributors](communitybridge/easycla/contributors/README.md)
       * [Sign a CLA as an Individual Contributor to GitHub](communitybridge/easycla/contributors/sign-a-cla-as-an-individual-contributor-to-github.md)

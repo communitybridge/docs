@@ -98,5 +98,5 @@ The CLA Management Console appears and the GitHub Organizations pane shows the o
 
   or
 
-* [Add Gerrit Instances to CLA Monitoring or Delete Them From CLA Monitoring](add-and-manage-git-organizations-and-repositories/add-or-remove-gerrit-instances-from-cla-monitoring.md)
+* [Add Gerrit Instances to CLA Monitoring or Delete Them From CLA Monitoring]()
 
