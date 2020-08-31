@@ -12,8 +12,8 @@ You can view details, such as user signatures, companies, CLA managers, and so o
 3. Navigate to **Product Services &gt; CLA**.
 4. Do any of the following actions:
    * [View Signed CLA Documents](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
-   * [View CLA User Signatures](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-user-signatures)
-   * [View the Corporate CLA Companies](view-and-manage-signed-clas-for-a-cla-group.md#view-corporate-cla-companies)
+   * [View Signed Individual CLAs \(ICLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-individual-clas-iclas)
+   * [View Signed Corporate CLAs \(CCLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
    * [View CLA managers of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-managers-of-the-company)
    * [View approval criteria for corporate contributors](view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
    * [View approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
@@ -28,7 +28,7 @@ Template details shows and lets you download the signed documents. Navigate to C
 
 ![icla template](../../../.gitbook/assets/icla-template.png)
 
-## View CLA User Signatures
+## View Signed Individual CLAs \(ICLAs\)
 
 Under Signatures, click **View & Export**.
 
@@ -42,35 +42,26 @@ Under Signatures, click **View & Export**.
 * Click **Download Signed PDFs** to download the PDF format of signed CLAs for all the contributors at a time.
 * Click **Export Signed as CSV** to download the details of all the contributors in `.csv` format.
 
-## **View Corporate CLA Companies**
+## **View Signed Corporate CLAs \(CCLAs\)**
 
-Under Signatures, click **View & Export**.
+Under Signatures, click **View & Export**, and navigate to **Signed CCLAs** tab to view details of companies that have signed the corporate CLA. You can type a company name in the **Search** box for quick search of a company.
 
 ![View Signatures](../../../.gitbook/assets/view-signatures.png)
 
-Navigate to **Signed CCLAs** tab to view company details, such as company name, CLA managers and approved contributors of the company, approval criteria, and date when CLA managers signed CLA for the company. You can type a value, such as company name in the **Search** field for quick search of company details. For companies that have signed CLA, you can view:
+![Signed CCLAs](../../../.gitbook/assets/signed-ccla.png)
 
-* [CLA managers of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-managers-of-the-company)
-* [Approval criteria for contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
-* [Approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
+The Signed CCLAs tab shows the following information:
 
-![](../../../.gitbook/assets/signed-ccla.png)
-
-### **View CLA Managers of the Company**
-
-Click **View All** under **CLA Manager\(s\)** to view CLA managers of the company. The list shows CLA manager's name, their LF ID, and email addresses.
+* **Company** shows the name of the company that has signed CLA.
+* **CLA Manager\(s\)** shows the number of CLA managers form the company. Click **View All** to view CLA managers of the company. The list shows CLA manager's name, their LF ID, and email addresses.
 
 ![CLA Managers List](../../../.gitbook/assets/cla-managers-list.png)
 
-### View Approval Criteria
+* **Approval Criteria** shows different categories with which contributors are added to the approved list. Click **View Criteria** to view the list that shows shows criteria name, its value, and the time stamp when the approved list is added. Click the download button to download the list in `.csv` format.
 
-Click **View Criteria** under **Approval Criteria** to view different categories with which contributors are added to the approved list. The list shows criteria name, its value, and the time stamp when the approved list is added. Click the download button to download the list in `.csv` format.
+![View Approval Criteria List](../../../.gitbook/assets/approval-criteria-list.png)
 
-![View Approval Criteria](../../../.gitbook/assets/approval-criteria-list.png)
-
-### View Approved Contributors
-
-Click **View List** under Approved Contributors to view the list. It shows name and email address of the contributor, along with the GitHub ID, LF ID, and date when the contributor signed the CLA. Click the download button to download the list in `.csv` format.
+* Approved Contributors shows the list of contributors who are authorized to contribute for the company. Click **View List** to view the list that shows name and email address of the contributor, GitHub ID, LF ID, and date when the contributor signed the CLA. Click the download button to download the list in `.csv` format.
 
 ![View Approved Contributors](../../../.gitbook/assets/view-approved-contributotrs.png)
 
