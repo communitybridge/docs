@@ -39,7 +39,7 @@ You are a _project manager_  or _project admin_ if you are authorized by Linux F
 1. [Install the EasyCLA Application](../project-managers/add-new-cla-group.md).
 2. [Add a CLA Group]().
 3. [Add Contributor License Agreements]().
-4. Add [GitHub repositories](../project-managers/add-and-manage-git-organizations/add-or-remove-github-repositories.md) or [Gerrit instances](../project-managers/add-and-manage-git-organizations/add-or-remove-gerrit-instances-from-cla-monitoring.md) to enforce CLA monitoring.
+4. Add [GitHub repositories]() or [Gerrit instances](../project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-gerrit-instances-from-cla-monitoring.md) to enforce CLA monitoring.
 
 At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
 

@@ -1,8 +1,10 @@
 # Uninstall the EasyCLA Application
 
-As a project manager, you can uninstall the EasyCLA Application. When you uninstall the app, it is removed from all your repositories. CLA monitoring is no longer in effect.
+As a project manager, you can uninstall the EasyCLA Application. When you uninstall the application, it is removed from all your repositories, and CLA monitoring is no longer in effect.
 
-_A problem occurs when you install the EasyCLA Application for your organization and then delete the organization but do not uninstall the EasyCLA Application. If you attempt to add the organization and reinstall the EasyCLA Application, you cannot configure the repositories due to the existing EasyCLA Application link._
+{% hint style="warning" %}
+**Important:** If a _problem occurs when you install the EasyCLA Application for your organization and then delete the organization but do not uninstall the EasyCLA Application. If you attempt to add the organization and reinstall the EasyCLA Application, you cannot configure the repositories due to the existing EasyCLA Application link._
+{% endhint %}
 
 **Do these steps**:
 
@@ -23,7 +25,7 @@ The Applications or Organizations pane appears.
 
 ![CLA Uninstall the EasyCLA app button](../../../../.gitbook/assets/cla-uninstall-the-easycla-app-button.png)
 
-7. Refresh the CLA Management Console.
+7. Refresh the CLA Project Console.
 
 The EasyCLA Application is uninstalled.
 
