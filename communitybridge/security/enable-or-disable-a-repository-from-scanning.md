@@ -5,17 +5,17 @@ You can enable or disable a repository from scanning to refine scanning report o
 **To enable/disable a repository:**
 
 1.Select **Settings** from the menu.  
-All repositories of the project are listed in alphabetical order. You can use the column headings to sort by **Status**, **Repository**, and **Dependencies**.
+All repositories of the project are listed in alphabetical order. 
 
-![Settings](../../.gitbook/assets/settings%20%282%29.png)
+![Settings](../../.gitbook/assets/3%20%281%29.png)
 
 2.Toggle the **Enable Scan** button to enable or disable a repository from scanning. 
 
 {% hint style="info" %}
-You can also enable or disable scanning for all repositories by toggle of **Enable Scan for All Repositories**. 
+You can also enable or disable scanning for all repositories by toggle of **Scan**. 
 {% endhint %}
 
-![Enable Scan](../../.gitbook/assets/enable_scan.png)
+![Enable Scan](../../.gitbook/assets/2%20%281%29.png)
 
 3.Under **Last** **Scan Results** tab, click **View details** to ****investigate a repository's scanned file.
 
@@ -23,7 +23,11 @@ You can also enable or disable scanning for all repositories by toggle of **Enab
 The **View Details** link is enabled if there are errors during the repository's scan.
 {% endhint %}
 
-![View Details ](../../.gitbook/assets/scanview_details%20%281%29.png)
+![View Details](../../.gitbook/assets/1%20%281%29.png)
+
+5.You can also click on the **Total Connected/Not Connected** repositories that are connected to the Github org.  This will provide the details of the repositories that are connected or not connected.  
+
+![Github List](../../.gitbook/assets/git.png)
 
 
 
