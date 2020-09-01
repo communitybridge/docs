@@ -198,7 +198,6 @@
     * [Investigate Dependencies in the Application Dependency Tree](communitybridge/security/investigate-dependencies-in-the-application-dependency-tree.md)
     * [Get License Information](communitybridge/security/get-license-information.md)
     * [Enable or Disable a Repository from Scanning](communitybridge/security/enable-or-disable-a-repository-from-scanning.md)
-    * [View Scanning History](communitybridge/security/view-scanning-history.md)
   * [EasyCLA](communitybridge/easycla/README.md)
     * [Getting Started](communitybridge/easycla/getting-started/README.md)
       * [EasyCLA Requirements](communitybridge/easycla/getting-started/easycla-requirements.md)

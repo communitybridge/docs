@@ -14,5 +14,5 @@ Every project with a crowdfunding program on CommunityBridge receives daily vuln
 * [Investigate Dependencies in the Application Dependency Tree](investigate-dependencies-in-the-application-dependency-tree.md)
 * [Get License Information](get-license-information.md)
 * [Enable or Disable a Repository from Scanning](enable-or-disable-a-repository-from-scanning.md)
-* [View Scanning History](view-scanning-history.md)
+* [View Scanning History]()
 
