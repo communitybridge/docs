@@ -188,7 +188,7 @@
     * [Vulnerability Detection FAQs](communitybridge/security/vulnerability-detection-faqs.md)
     * [CommunityBridge Security Requirements](communitybridge/security/communitybridge-security-requirements/README.md)
       * [Supported Languages](communitybridge/security/communitybridge-security-requirements/supported-languages.md)
-    * [Data Range](communitybridge/security/data-range.md)
+    * [Date Range](communitybridge/security/data-range.md)
     * [Add a Project to CommunityBridge Vulnerability Detection](communitybridge/security/add-a-project-to-communitybridge-vulnerability-detection/README.md)
       * [Add a GitHub Project to Vulnerability Detection](communitybridge/security/add-a-project-to-communitybridge-vulnerability-detection/add-a-github-project-to-vulnerability-detection.md)
       * [Add a Git Repository Project to Vulnerability Detection](communitybridge/security/add-a-project-to-communitybridge-vulnerability-detection/add-a-git-repository-project-to-vulnerability-detection.md)

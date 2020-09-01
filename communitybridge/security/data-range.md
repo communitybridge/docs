@@ -1,8 +1,8 @@
-# Data Range
+# Date Range
 
-Data Range provides you with the option to refine your results based on the relative date ranges or you can select the time range from the calendar. 
+Date Range provides you with the option to refine your results based on the relative date ranges or you can select the time range from the calendar. 
 
-Data Range option is available in all the functionality or modules. You can see the Date Range at top right of each page. 
+Date Range option is available in all the functionality or modules. You can see the Date Range at top right of each page. 
 
 ![Date Range](../../.gitbook/assets/date_range.png)
 
