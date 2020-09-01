@@ -33,5 +33,19 @@ A snapshot of dependencies in the repository in a tree format of the dependencie
 
 ## Vulnerability Details  
 
-You can check the vulnerability details 
+You can also check the vulnerability details only for a particular repository. 
+
+To check the vulnerability details only, perform the following:
+
+1.Click Dependency Tree and select Vulnerabilities Only. 
+
+![Vulnerabilities Only](../../.gitbook/assets/vul_only.png)
+
+2.List of vulnerabilities related for a particular repositories are listed. You  can click on the links for a particular issue such as High, Medium and Low. By click on the link, you will redirected to the issues page. 
+
+![Issues Link ](../../.gitbook/assets/vul_link_iss.png)
+
+
+
+
 
