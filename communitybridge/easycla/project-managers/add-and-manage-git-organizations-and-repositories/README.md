@@ -2,16 +2,15 @@
 
 Before you can add or manage git repositories, you must connect/add Git organizations while setting up IT services, as described in **PROVIDE LINK TO ADMIN DASHBOARD**. However, you can also add GitHub organization in the GitHub pane and add Gerrit instance in the Gerrit pane of **Product Services** tab.
 
-* [Add GitHub Organization](./#to-add-github-organization)
-* [Disassociate GitHub Organization](./#to-disassociate-github-organization)
-* [Add Gerrit Organization](./#to-add-gerrit-organization)
-* [Disassociate Gerrit Organization](./#to-disassociate-gerrit-organization)
+* [Add GitHub Organization](./#add-github-organization)
+* [Disassociate GitHub Organization](./#disassociate-github-organization)
+* [Add Gerrit Organization](./#add-gerrit-organization)
+* [Disassociate Gerrit Organization](./#disassociate-gerrit-organization)
 
 After you successfully add/connect Git organizations, you can:
 
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
-* [Add or Remove GitHub repositories](add-or-remove-git-repositories-for-cla-monitoring.md)
-* [Add or Remove Gerrit Instances]()
+* [Add or Remove Git repositories](add-or-remove-git-repositories-for-cla-monitoring.md)
 
 ### Add GitHub Organization:
 
@@ -62,13 +61,31 @@ Source Control configuration page appears.
 
 ### Add Gerrit Organization:
 
+{% hint style="info" %}
+**Note:** If you have already added a Gerrit instance during the CLA on-boarding process, skip this procedure unless you want to add more Gerrit instances.
+{% endhint %}
+
  1. Click the **+** sign at the top right of Add Gerrit Organization.
 
-2. Provide details, such as Gerrit instance name, URL, ICLA and CCLA group ids in the respective fields.
-
-3. Click **Connect**.
-
 ![](../../../../.gitbook/assets/add-gerrit-organization.png)
+
+2. Complete the form fields, and click **Connect**.  
+**Gerrit Instance Name** - Name of the Gerrit Instance  
+**Gerrit Instance URL** - URL of the Gerrit Instance  
+**ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
+**CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
+
+{% hint style="info" %}
+**Notes:**
+
+* Contact the IT team of Linux Foundation to get Gerrit Instance Name and URL.
+* Contact the Linux Foundation IT team if you do not know the LDAP Group IDs.
+* One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
+{% endhint %}
+
+The CLA Project Console lists the instance under Gerrit Instances, as shown below.​​
+
+![Gerrit Instance](../../../../.gitbook/assets/gerrit-instances.png)
 
 ### Disassociate Gerrit Organization:
 

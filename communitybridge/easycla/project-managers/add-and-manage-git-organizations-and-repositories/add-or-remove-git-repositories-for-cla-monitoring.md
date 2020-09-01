@@ -11,7 +11,7 @@ The project page appears.
 
 ![](../../../../.gitbook/assets/cla-product-services.png)
 
-3. Under a CLA group, click **Add/Manage Repos for a project.**  
+3. Under a CLA group, click **Add/Manage Repos** for a project.  
 Source Control configuration page appears.
 
 ![Add and Manage Repositories](../../../../.gitbook/assets/add-manage-repositories.png)
