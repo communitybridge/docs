@@ -1,4 +1,4 @@
-# Add and Manage Projects in CLA Group
+# Add or Remove a Project from CLA Group
 
 You can add new projects to a CLA group to let contributors sign and contribute to the projects or remove projects from a CLA group..
 
