@@ -1,2 +1,2 @@
-# Admin Dashboard
+# Company Dashboard
 

@@ -16,5 +16,9 @@ Source Control configuration page appears.
 
 ![Add and Manage Repositories](../../../../.gitbook/assets/add-manage-repositories.png)
 
-4. 
+4. Under GitHub or Gerrit, click a connected/added organization.
+
+
+
+
 
