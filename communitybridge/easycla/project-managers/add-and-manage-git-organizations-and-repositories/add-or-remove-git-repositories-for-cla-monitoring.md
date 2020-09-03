@@ -11,14 +11,16 @@ The project page appears.
 
 ![](../../../../.gitbook/assets/cla-product-services.png)
 
-3. Under a CLA group, click **Add/Manage Repos** for a project.  
+3. Under a CLA group, click **Add/Manage Repositories** for a project.  
 Source Control configuration page appears.
 
 ![Add and Manage Repositories](../../../../.gitbook/assets/add-manage-repositories.png)
 
-4. Under GitHub or Gerrit, click a connected/added organization.
+4. Under GitHub or Gerrit, select the connected/added organization for which you want to manage repositories.
 
+5. Turn on or Turn off the toggle key next to a repository to enforce or remove from CLA monitoring.
 
+6. Turn on or Turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time. 
 
-
+![](../../../../.gitbook/assets/add-or-remove-repositories.png)
 
