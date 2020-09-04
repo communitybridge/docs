@@ -26,7 +26,11 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 ![](../../.gitbook/assets/add-expense-screenshot-first-step.png)
 
-6. Click ![](../../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt as well as the receipt details.
+6. Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M8pirGmJSfCNSiIn-Tq%2F-M8prYMJ5o9YatigzPfM%2Fplus%20icon.png?alt=media&token=15bd6cd1-9c1b-4a25-a639-bf544729e922) on **New Expense** window to add receipt, and provide receipt details.  
+**Merchant:** Name of the Merchant.  
+**Date:** Date of Purchase  
+**Total:** Total amount in USD$  
+**Category:** Choose a category—Accommodation, Airfare, Ground Transportation, Other.
 
 {% hint style="warning" %}
 **Important:** For International \(non-U.S.\) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_ in addition to your receipt\(s\).
