@@ -85,15 +85,13 @@ Source Control configuration page appears.
 
 The CLA Project Console lists the instance under Gerrit Instances, as shown below.​​
 
-![Gerrit Instance](../../../../.gitbook/assets/gerrit-instances.png)
+![Gerrit Instances](../../../../.gitbook/assets/gerrit-instances.png)
 
 ### Disassociate Gerrit Organization:
 
-1. Click the settings icon ![](../../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a Gerrit Instance.
+1. Click **Disassociate Gerrit** next to a Gerrit Instance, and click **Yes, Disconnect** on the confirmation page.
 
-2. Click **Disassociate Gerrit**, and click **Yes, Disconnect** on the confirmation page.
-
-![](../../../../.gitbook/assets/disassociate-gerrit-organization.png)
+![Disassociate Gerrit](../../../../.gitbook/assets/disassociate-gerrit-organization.png)
 
 
 

@@ -1,6 +1,6 @@
-# Add or Remove Git Repositories for CLA Monitoring
+# Add or Remove GitHub Repositories for CLA Monitoring
 
-Before you enable Git repositories for CLA monitoring or remove them from CLA monitoring, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
+Before you enable GitHub repositories for CLA monitoring or remove them from CLA monitoring, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
 
 1. [Sign in](../sign-in-to-project-console.md).
 
@@ -16,11 +16,11 @@ Source Control configuration page appears.
 
 ![Add and Manage Repositories](../../../../.gitbook/assets/add-manage-repositories.png)
 
-4. Under GitHub or Gerrit, select the connected/added organization for which you want to manage repositories.
+4. Under GitHub, select the connected/added organization for which you want to manage repositories.
 
 5. Turn on or Turn off the toggle key next to a repository to enforce or remove from CLA monitoring.
 
-6. Turn on or Turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time. 
+6. Turn on or Turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time.
 
-![](../../../../.gitbook/assets/add-or-remove-repositories.png)
+![Add or Remove Repositories from CLA Monitoring](../../../../.gitbook/assets/add-or-remove-repositories.png)
 
