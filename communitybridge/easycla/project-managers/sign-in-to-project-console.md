@@ -13,5 +13,5 @@ You sign in to the CLA project console of Admin Dashboard to perform the CLA set
 
 ![Admin Dashboard](../../../.gitbook/assets/admin-dashboard.png)
 
-4. Click a project to view more about the project. For details, see [View Project CLA Details](view-project-cla-details.md).
+4. Click a project to view more about the project. For details, see [View Project CLA Details](view-cla-details.md).
 

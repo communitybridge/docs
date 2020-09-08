@@ -24,9 +24,9 @@ The Authorize CommunityBridge: EasyCLA dialog appears.
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla%20%281%29.png)​
 
 The CLA Contributor Console appears and shows the CLA group for your project.  
-**Note:** If the project has not configured for CCLA, then Corporate Contributor option is not displayed.
+**Note:** If the project has not configured for CCLA, then **Proceed as a** **Corporate Contributor** is not displayed.
 
-![cla contributor console](../../../.gitbook/assets/type-of-contributor.png)
+![CLA ICLA Flow](../../../.gitbook/assets/cla-icla-flow.png)
 
 5. Click **Proceed as an Individual Contributor**.  
 **Result: Preparing CLA..** window appears.  

@@ -4,13 +4,24 @@ Project managers manage a project’s GitHub organization or Gerrit instance, re
 
 As a project administrator, you do the following activities:
 
-1. Sign in to the Project Console
-2. Configure the EasyCLA application.
-3. ​[Add a CLA Group]().
-4. ​[Add/Remove GitHub Repositories]() Or [Add/Delete Gerrit Instances]()
+1. [Sign in to the Project Console](sign-in-to-project-console.md)
+2. [View CLA Details for a Project](view-cla-details.md)
+3. [Add a New CLA Group](add-new-cla-group.md)
+4. [Add or Remove Project from CLA Group](add-or-remove-a-project-from-cla-group.md)
+5. [Add](add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
+6. [Add](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization) or [Disassociate](add-and-manage-git-organizations-and-repositories/#disassociate-gerrit-organization) Gerrit Organization 
+7. [Add GitHub repositories](add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md) to enforce CLA monitoring
+8. [Uninstall the EasyCLA Application](add-and-manage-git-organizations-and-repositories/uninstall-the-easycla-application.md)
 
-At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
+At any time, you can do other management tasks:
 
-* ​[View Current and Previous CLA PDFs]()​
-* ​[Manage CLA Group Details](view-and-manage-signed-clas-for-a-cla-group.md)​
+* [View Signed CLA Documents](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
+* [View Signed Individual CLAs \(ICLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-individual-clas-iclas)
+* [View Signed Corporate CLAs \(CCLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
+* [View CLA managers of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-cla-managers-of-the-company)
+* [View approval criteria for corporate contributors](view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
+* [View approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
+* [View Connection Status of Git Organizations and Repositories](add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
+
+
 

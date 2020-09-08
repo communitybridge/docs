@@ -1,4 +1,4 @@
-# View Project CLA Details
+# View CLA Details
 
 #### To view project details:
 
@@ -12,8 +12,8 @@
 
 Based on CLA configuration for the project, available data are shown.
 
-* [No CLA Signed](view-project-cla-details.md#no-cla-signed)
-* [CLA Signed](view-project-cla-details.md#cla-signed)
+* [No CLA Signed](view-cla-details.md#no-cla-signed)
+* [CLA Signed](view-cla-details.md#cla-signed)
 
 ### No CLA Signed:
 

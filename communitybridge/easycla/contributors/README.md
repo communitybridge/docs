@@ -9,7 +9,3 @@ As a contributor, you can easily comply to your legal obligations for a company 
 
 Gerrit contributors, see [Contribute to a Gerrit Project](contribute-to-a-corporate-gerrit-project.md).
 
-## Question for Pranab:- Need a walk-through? Do we have a Walk-through video? <a id="need-a-walk-through"></a>
-
-View this [video](https://www.youtube.com/watch?v=WvKX10S7FOk&feature=youtu.be) to see how to use EasyCLA as a contributor. Click [here](https://github.com/communitybridge/easycla/blob/master/docs/contributor-console-video-script.md) to read the video transcript.
-

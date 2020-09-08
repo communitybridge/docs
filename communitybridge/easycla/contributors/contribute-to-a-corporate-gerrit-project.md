@@ -55,9 +55,9 @@ EasyCLA presents a review agreement link to individual contributors to open a CL
 3. Sign in to EasyCLA if you are prompted.
 
 The CLA Contributor Console appears and shows the CLA group for your project.  
-**Note:** If the project has not configured for CCLA, then Corporate Contributor option is not displayed.
+**Note:** If the project has not configured for CCLA, then **Proceed as a Corporate Contributor** option is not displayed.
 
-![cla contributor console](../../../.gitbook/assets/type-of-contributor.png)
+![](../../../.gitbook/assets/cla-icla-flow.png)
 
 5. Click **Proceed as an Individual Contributor**.  
 **Result: Preparing CLA..** window appears.  
@@ -234,7 +234,7 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 
-4. Click **Proceed** to [sign a corporate CLA]().
+4. Click **Proceed** to [sign a corporate CLA](../cla-manager-designee-1/sign-corporate-cla-for-a-company.md).
 
 You have finished signing your CLA for this Gerrit instance. You are able to submit your changes to any repository under this Gerrit instance.
 

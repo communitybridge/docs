@@ -30,7 +30,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla.png)​
 
-![CLA Contributor Console- CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
+![CLA CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
 
 6. Click **Proceed as a Corporate Contributor**.   
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing your work on behalf of a company.

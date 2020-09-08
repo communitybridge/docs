@@ -38,13 +38,20 @@ You are a _project manager_  or _project admin_ if you are authorized by Linux F
 
 1. [Add a New CLA Group](../project-managers/add-new-cla-group.md)
 2. [Add or Remove Project from CLA Group](../project-managers/add-or-remove-a-project-from-cla-group.md)
-3. Add 
-4. Add GitHub repositories or Gerrit instances to enforce CLA monitoring
+3. [Add](../project-managers/add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](../project-managers/add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
+4. [Add](../project-managers/add-and-manage-git-organizations-and-repositories/#add-gerrit-organization) or [Disassociate](../project-managers/add-and-manage-git-organizations-and-repositories/#disassociate-gerrit-organization) Gerrit Organization 
+5. [Add GitHub repositories](../project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md) to enforce CLA monitoring
+6. [Uninstall the EasyCLA Application](../project-managers/add-and-manage-git-organizations-and-repositories/uninstall-the-easycla-application.md)
 
-At any time, you can change the settings to manage your project CLA monitoring, and do other management tasks:
+At any time, you can do other management tasks:
 
-* [View Current and Previous CLA PDFs]()
-* [Manage CLA Group Details](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md)
+* [View Signed CLA Documents](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
+* [View Signed Individual CLAs \(ICLAs\)](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-signed-individual-clas-iclas)
+* [View Signed Corporate CLAs \(CCLAs\)](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
+* [View CLA managers of the company](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-cla-managers-of-the-company)
+* [View approval criteria for corporate contributors](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-approval-criteria)
+* [View approved contributors of the company](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-approved-contributors)
+* [View Connection Status of Git Organizations and Repositories](../project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
 
 ### Contributor <a id="contributor"></a>
 
