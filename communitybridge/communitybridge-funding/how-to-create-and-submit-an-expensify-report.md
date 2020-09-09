@@ -14,11 +14,7 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 2. On **Reports** page, select **New Report** located in the top-right corner of your screen. 
 
-![](../../.gitbook/assets/expensify-new-reports.png)
-
 3. Write a **Report Name** that must include your name, and the name and year of the event, for example “Jane Brown - Open Source Summit + Embedded Linux Conference North America 2020”.
-
-![](../../.gitbook/assets/expensify-add-report-and-submit.png)
 
 4. Click ![](../../.gitbook/assets/plus-icon.png)to add expenses to report.
 
