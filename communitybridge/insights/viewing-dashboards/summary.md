@@ -6,31 +6,33 @@ By default, Bot commit is filtered, and can't be included for Summary dashboard.
 
 Summary provides a high-level metrics about each data source for which the project is configured. Following are examples of some data sources for a project:
 
-### **Highlights**
-
-**Highlights** shows the total number of repositories, contributors, and commits for the project for  a selected time range. Click any of the three to go to [Commits Overview](source-control/git.md#GitRepositories-GitRepositories>Overview) page.
-
-Following is an example of Highlights section:
-
-![Summary Highlights](../../../.gitbook/assets/summary-highlights%20%281%29.png)
+* Click Copy Short URL ![](../../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
+* Select a value from Source Control drop down to quickly navigate to the respective section.  ![](../../../.gitbook/assets/source-control-drop-down%20%282%29.png) 
 
 ### **Source Control**
 
 **Source Control** shows overview analytics of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  respective data.
 
-Click Go to 
+* Click **Go To Overview** to navigate to the [Commits &gt; Overview](source-control/git.md) section.
+* Click sparky lines ![](../../../.gitbook/assets/sparkly-lines.png)  as shows below to view a stacked bar graph that represents data per calendar period.
 
-A heading shows total number of number of contributors and organizations associated with the project.
+![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
 
-**COMMITS & CONTRIBUTORS** shows a stacked area chart that compares the number of commits and contributors per calendar period. The total number of commits and contributor values are color-coded. Hover mouse over the graph to see the numbers for a particular date. Click **Commits** or **Contributors** to eliminate the corresponding data, for example: ![](../../../.gitbook/assets/18088223.png). Click the caption again to include the data.
+**COMMITS** shows the following:
 
-**Top 10 COMPANIES \(**CONTRIBUTORS**\)** lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+* **Lines Of Code Changed** represents total number of lines changed—added, updated, and deleted—for a selected time range.
+* **Commits** represents total number of commits for a selected time range.
+* **Contributors** represents the number of contributors for the project
+* **No Of Sub Projects** represents total number of sub projects \(added git repositories\) under a project.
+* **Repositories** represents total number of repositories of the project. This includes the number of repositories of sub projects. 
+
+ **Top 10 COMPANIES \(**CONTRIBUTORS**\)** lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
 
 {% hint style="info" %}
 * **Unknown** as a company name shows number/percentage of codes submitted by those contributors who are not affiliated with any organization.
 {% endhint %}
 
-**TOP 10 INDIVIDUALS \(**CONTRIBUTORS**\)** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+**TOP 10 CONTRIBUTORS** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
 
 **TOP 10 Projects** lists top ten projects that receive more number of commits, and the total number of repositories for each project.
 

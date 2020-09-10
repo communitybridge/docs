@@ -15,7 +15,7 @@ CommunityBridge Insights shows project and foundation cards, in alphabetical ord
    * [Select Time Range](filtering-data/select-time-range.md)
    * [View Community Leader board](viewing-dashboards/community-leader-board/)
    * Eliminate data by clicking the corresponding legend **caption**. Click the **caption** again to include the data.  ![](../../.gitbook/assets/exclude-data.png)
-   * Click the sparkly lines to view data information in a bar chart that displays data on a date. Following example shows lines of code changed on a day.   ![](../../.gitbook/assets/sparkly-line.png) ![](../../.gitbook/assets/sparkly-line-expanded.png) 
+   * Click the sparkly lines to view data information in a bar chart that displays data per calendar period. Following example shows lines of code changed per calendar period.   ![](../../.gitbook/assets/sparkly-line.png) ![](../../.gitbook/assets/sparkly-line-expanded.png) 
 
 ### Project Overview
 
