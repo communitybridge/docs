@@ -2,7 +2,7 @@
 
 Refer to the following catalog of dashboard data to see details. When you navigate to a project's dashboard, by default the **Summary** page appears that displays overview of the project's data sources. 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 The data on the dashboards do not include commits by Bots and empty commits.
 {% endhint %}
 
