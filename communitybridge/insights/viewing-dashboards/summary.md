@@ -12,8 +12,6 @@ Summary provides a high-level metrics about each data source for which the proje
 
 Following is an example of Highlights section:
 
-![Summary Highlights](../../../.gitbook/assets/summary-highlights%20%281%29.png)
-
 ### **Source Control**
 
 **Source Control** shows overview analytics of project's git repositories for a selected time range:
