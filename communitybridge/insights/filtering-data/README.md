@@ -10,7 +10,7 @@ INSIGHTS aggregates data and creates comprehensive dashboards from specific data
 * [Mailing List](../viewing-dashboards/mailing-list/)
 * [CI/CD](../viewing-dashboards/ci-cd/)
 * [Registry](../viewing-dashboards/registry/)
-* [Active Contributors](../viewing-dashboards/active-contributors/)
+* [Active Contributors](../viewing-dashboards/community-leader-board/)
 
 A drop-down list is only available when a related data source is available.
 

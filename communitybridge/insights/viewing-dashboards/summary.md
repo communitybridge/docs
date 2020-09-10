@@ -16,7 +16,9 @@ Following is an example of Highlights section:
 
 ### **Source Control**
 
-**Source Control** shows overview analytics of project's git repositories for a selected time range:
+**Source Control** shows overview analytics of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  respective data.
+
+Click Go to 
 
 A heading shows total number of number of contributors and organizations associated with the project.
 
@@ -36,7 +38,7 @@ Click **VIEW MORE** to open [Commits &gt; Overview](source-control/git.md#GitRep
 
 Following is an example of source control overview section:
 
-![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
+
 
 ### **Issue Management**
 

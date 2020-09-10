@@ -9,11 +9,13 @@ CommunityBridge Insights shows project and foundation cards, in alphabetical ord
    * [Project Overview](project-or-foundation-overview.md#project-overview)
    * [Foundation Overview](project-or-foundation-overview.md#foundation-overview)
 3. Click a standalone project or a project from foundation level. Dashboards appear based on what data is available for a project.
-4. By default, [Summary](viewing-dashboards/summary.md) dashboard appears. Go to each dashboard. These dashboards are collection of charts and graphs that show you the metrics. The overview dashboards let you monitor many metrics at once, so you can check the health of your projects and see how the contribution is. For overview of individual data sources, see [Viewing Dashboards](viewing-dashboards/).
-5. Use optional actions:
+4. By default, [Summary](viewing-dashboards/summary.md) dashboard appears. Go to each dashboard. These dashboards are collection of charts and graphs that show you the metrics. The overview dashboards let you monitor many metrics at once, so you can check the health of your projects and see contribution details. For overview of individual data sources, see [Viewing Dashboards](viewing-dashboards/).
+5. Click Copy Short URL ![](../../.gitbook/assets/copy-short-url.png) to copy the link of a respective dashboard for a project.
+6. Use optional actions:
    * [Select Time Range](filtering-data/select-time-range.md)
-   * Eliminate data by clicking the corresponding legend **caption**. Click the **caption** again to include the data.  ![](../../.gitbook/assets/exclude-data.png)  ![](../../.gitbook/assets/18088257.png) 
-   * Mouse over a color in a chart or graph to see details about the item. ![](../../.gitbook/assets/18088255.png)![](../../.gitbook/assets/18088256.png)
+   * [View Community Leader board](viewing-dashboards/community-leader-board/)
+   * Eliminate data by clicking the corresponding legend **caption**. Click the **caption** again to include the data.  ![](../../.gitbook/assets/exclude-data.png)
+   * Click the sparkly lines to view data information in a bar chart that displays data on a date. Following example shows lines of code changed on a day.   ![](../../.gitbook/assets/sparkly-line.png) ![](../../.gitbook/assets/sparkly-line-expanded.png) 
 
 ### Project Overview
 
