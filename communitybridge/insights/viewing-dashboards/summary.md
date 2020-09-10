@@ -36,8 +36,6 @@ Click **VIEW MORE** to open [Commits &gt; Overview](source-control/git.md#GitRep
 
 Following is an example of source control overview section:
 
-![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
-
 ### **Issue Management**
 
 **Issue Management** shows overview analytics of issue management platforms, such as Jira, GitHub Issues, and Bugzilla.
