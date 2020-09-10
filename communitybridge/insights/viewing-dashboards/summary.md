@@ -4,73 +4,66 @@
 By default, Bot commit is filtered, and can't be included for Summary dashboard.
 {% endhint %}
 
-Summary provides a high-level metrics about each data source for which the project is configured. Following are examples of some data sources for a project:
+Summary provides a high-level metrics about each data source for which the project is configured. Following are some on :
 
 * Click Copy Short URL ![](../../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
 * Select a value from Source Control drop down to quickly navigate to the respective section.  ![](../../../.gitbook/assets/source-control-drop-down%20%282%29.png) 
+* Click sparky lines ![](../../../.gitbook/assets/sparkly-lines.png)  as shows below to view a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
+* Clicking **Go To Overview** and **View All** on Summary dashboard takes you to the [Commits &gt; Overview](source-control/git.md) page.
 
-### **Source Control**
+### **SOURCE CONTROL**
 
-**Source Control** shows overview analytics of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  respective data.
-
-* Click **Go To Overview** to navigate to the [Commits &gt; Overview](source-control/git.md) section.
-* Click sparky lines ![](../../../.gitbook/assets/sparkly-lines.png)  as shows below to view a stacked bar graph that represents data per calendar period.
+**Source Control** shows overview analytics of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
 
 ![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
 
-**COMMITS** shows the following:
+**Commits** shows the following information:
 
 * **Lines Of Code Changed** represents total number of lines changed—added, updated, and deleted—for a selected time range.
 * **Commits** represents total number of commits for a selected time range.
 * **Contributors** represents the number of contributors for the project
 * **No Of Sub Projects** represents total number of sub projects \(added git repositories\) under a project.
-* **Repositories** represents total number of repositories of the project. This includes the number of repositories of sub projects. 
+* **Repositories** represents total number of repositories of the project. This includes the number of repositories of sub projects.
 
- **Top 10 COMPANIES \(**CONTRIBUTORS**\)** lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+**Top 10 Contributors** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community. Click **View All** to navigate to the [Commits &gt; Overview](source-control/git.md) page.
+
+**Top 10 Companies**  lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+
+Mouse over a color in the doughnut chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:  
+ ![](../../../.gitbook/assets/show-and-exclude-company-data.png) 
 
 {% hint style="info" %}
 * **Unknown** as a company name shows number/percentage of codes submitted by those contributors who are not affiliated with any organization.
+* **Others** represents a group that combines all other companies that come after top nine companies that contributes more.
 {% endhint %}
 
-**TOP 10 CONTRIBUTORS** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+### **PULL REQUESTS /** CHANGESETS
 
-**TOP 10 Projects** lists top ten projects that receive more number of commits, and the total number of repositories for each project.
-
-Click **VIEW MORE** to open [Commits &gt; Overview](source-control/git.md#GitRepositories-GitRepositories>Overview) to see metrics of project's repositories. 
-
-Following is an example of source control overview section:
-
-
-
-### **Issue Management**
+### **ISSUE MANAGEMENT**
 
 **Issue Management** shows overview analytics of issue management platforms, such as Jira, GitHub Issues, and Bugzilla.
 
-A heading shows total issues, submitters, and assignees for a selected time range.
+**Issues** shows total number issues that includes both open and closed issues, total number of submitters, number of open issues, average time in days for which a stacked area chart that compares the number of issues and unique contributors per calendar period. The number of issues and unique contributors for the project during each period are color-coded. Hover mouse over the graph to see the numbers for a particular date. Click **Contributors \(unique\)** or **Issues** to eliminate the corresponding data, for example![](../../../.gitbook/assets/18088222.png). Click the caption again to include the data.
 
-**ISSUES & SUBMITTING CONTRIBUTORS** shows a stacked area chart that compares the number of issues and unique contributors per calendar period. The number of issues and unique contributors for the project during each period are color-coded. Hover mouse over the graph to see the numbers for a particular date. Click **Contributors \(unique\)** or **Issues** to eliminate the corresponding data, for example![](../../../.gitbook/assets/18088222.png). Click the caption again to include the data.
+**Top 10 Submitters** lists the top ten individuals— that contribute most to the project— by name, total number of issues, and percentage of issues out of the total number of issues submitted by the community members.
 
-**TOP 10 COMPANIES \(**SUBMITTERS**\)** lists the top ten companies— that contribute most to the project— by name, total number of issues, and percentage of issues out of the total number of issues submitted by the community.
+**Top 10 Companies** lists the top ten companies— that contribute most to the project— by name, total number of issues, and percentage of issues out of the total number of issues submitted by the community.
+
+Mouse over a color in the doughnut chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:  
+ ![](../../../.gitbook/assets/show-and-exclude-company-data.png) 
 
 {% hint style="info" %}
 * **Unknown** as a company name shows number/percentage of issues submitted by those contributors who are not affiliated with any organization.
+* **Others** represents a group that combines all other companies that come after top nine companies that contributes more.
 {% endhint %}
 
-**TOP 10 INDIVIDUALS \(**SUBMITTERS**\)** lists the top ten individuals— that contribute most to the project— by name, total number of issues, and percentage of issues out of the total number of issues submitted by the community members.
-
-**STATUS\(**Issues Distributed By Status**\)** shows a table that summarizes the issues by status depending on the issue management tool. It shows the number and percentage of issues per status out of the total issues.
-
-Click **VIEW MORE** to go to the respective dashboard to see metrics of the issue dashboard.
-
-Following an example of Issue Management overview section for a project that uses GitHub Issues, Jira, and Bugzilla to manage issues:
+Following an example of Issue Management overview section for a project that uses Jira, GitHub Issues, and Bugzilla to manage issues:
 
 ![Issue Management](../../../.gitbook/assets/issue-management%20%281%29.png)
 
 ### **Chat Room**
 
-**Chat Room** shows an overview analytics of slack channel used by a project.
-
-A heading shows the total number of slack messages and channels.
+**Chat Room** shows an overview analytics of slack and RocketChat channels used by a project.
 
 **MESSAGING\(**Messages And Active Contributors**\)** shows a stacked area chart that compares the number of messages and unique contributors per calendar period. Hover mouse over the graph to see the numbers for a particular date. The number of messages and unique contributors for the project during each period are color-coded. Click **Contributors \(unique\)** or **Messages** to eliminate the corresponding data, for example ![](../../../.gitbook/assets/messages.png) . Click the caption again to include the data.
 
