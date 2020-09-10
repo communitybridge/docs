@@ -56,8 +56,6 @@ Click **VIEW MORE** to go to the respective dashboard to see metrics of the issu
 
 Following an example of Issue Management overview section for a project that uses GitHub Issues, Jira, and Bugzilla to manage issues:
 
-![Issue Management](../../../.gitbook/assets/issue-management%20%281%29.png)
-
 ### **Chat Room**
 
 **Chat Room** shows an overview analytics of slack channel used by a project.
