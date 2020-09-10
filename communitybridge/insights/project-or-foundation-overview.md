@@ -35,8 +35,6 @@ Each project card shows the following information:
 
 A foundation is a group of individual standalone projects. Following is an example of a foundation that shows an overview of foundation related data on the card. Click the foundation to see number of standalone projects that come under Hyperledger foundation.
 
-![Foundation Overview](../../.gitbook/assets/foundation-overview.png)
-
 Each foundation card shows the following information:
 
 * Foundation name identifies the foundation by name.
