@@ -4,16 +4,18 @@
 By default, Bot commit is filtered, and can't be included for Summary dashboard.
 {% endhint %}
 
-Summary provides a high-level metrics about each data source for which the project is configured. Following are some on :
+Summary provides a high-level metrics about each data source for which the project is configured. Following are activities for quick navigation:
 
 * Click Copy Short URL ![](../../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
 * Select a value from Source Control drop down to quickly navigate to the respective section.  ![](../../../.gitbook/assets/source-control-drop-down%20%282%29.png) 
-* Click sparky lines ![](../../../.gitbook/assets/sparkly-lines.png)  as shows below to view a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
-* Clicking **Go To Overview** and **View All** on Summary dashboard takes you to the [Commits &gt; Overview](source-control/git.md) page.
+* Clicking sparklines ![](../../../.gitbook/assets/sparkly-lines.png)  opens a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
+* Clicking numbers on a data card opens the respective dashboard.  ![](../../../.gitbook/assets/click-for-dashboard.png) 
 
 ### **SOURCE CONTROL**
 
 **Source Control** shows overview analytics of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
+
+* Clicking **Go To Overview** and **View All** takes you to the [Commits &gt; Overview](source-control/git.md) page.
 
 ![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
 
@@ -39,9 +41,25 @@ Mouse over a color in the doughnut chart to view company name and number of comm
 
 ### **PULL REQUESTS /** CHANGESETS
 
+Pull Requests/Changesets shows analytics of pull request information of GitHub repositories and/or information about changesets and patchsets per changeset for Gerrit.
+
+{% hint style="info" %}
+Data is not available for a Git data source that is not configured for CommunityBridge Insights.
+{% endhint %}
+
+**Gerrit** shows total number of changesets \(both open and closed\), number of open changestes, average time in hours to merge changesets, average time in days for first review of changeset, and total number of approved changesets for a selected time range.
+
+* Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the [Commits &gt; Overview](source-control/git.md) page.
+
+**GitHub** shows total number of pull requests \(both open and closed\), number of open pull requests, average time in hours to merge pull requests, and average time in hours pull requests were open for a selected time range.
+
+
+
+Changesets shows total number of changesets
+
 ### **ISSUE MANAGEMENT**
 
-**Issue Management** shows overview analytics of issue management platforms, such as Jira, GitHub Issues, and Bugzilla.
+**Issue Management** shows analytics of issue management platforms, such as Jira, GitHub Issues, and Bugzilla.
 
 **Issues** shows total number issues that includes both open and closed issues, total number of submitters, number of open issues, average time in days for which a stacked area chart that compares the number of issues and unique contributors per calendar period. The number of issues and unique contributors for the project during each period are color-coded. Hover mouse over the graph to see the numbers for a particular date. Click **Contributors \(unique\)** or **Issues** to eliminate the corresponding data, for example![](../../../.gitbook/assets/18088222.png). Click the caption again to include the data.
 

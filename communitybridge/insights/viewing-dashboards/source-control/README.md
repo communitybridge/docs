@@ -2,8 +2,6 @@
 
 **Source Control** dashboards show analytics for the following data sources based on a project's source control platform:
 
-* [Gerrit](gerrit.md)
-* [GitHub PR](github-pr.md)
 * [Commits](git.md)
 
 {% hint style="info" %}

@@ -15,8 +15,8 @@ CommunityBridge Insights shows project and foundation cards, in alphabetical ord
    * [Select Time Range](filtering-data/select-time-range.md) to view data for a selected time range. Default is **Last 90 Days**.
    * [View Community Leader board](viewing-dashboards/community-leader-board/)
    * Eliminate data by clicking the corresponding legend **caption**. Click the **caption** again to include the data.  ![](../../.gitbook/assets/exclude-data.png)
-   * Click the **sparklines** to open a bar chart that displays data per calendar period. Following example shows lines of code changed per calendar period.   ![](../../.gitbook/assets/sparkly-line.png) ![](../../.gitbook/assets/sparkly-line-expanded.png) 
-   * Click the text to view the respective 
+   * Click **sparklines** to open a bar chart that displays data per calendar period. Following example shows lines of code changed per calendar period.   ![](../../.gitbook/assets/sparkly-line.png) ![](../../.gitbook/assets/sparkly-line-expanded.png) 
+   * Click numbers on a data card to view the respective dashboard. Following is an example of Lines of Code Changed:  ![](../../.gitbook/assets/click-for-dashboard%20%281%29.png) 
 
 ### Project Overview
 

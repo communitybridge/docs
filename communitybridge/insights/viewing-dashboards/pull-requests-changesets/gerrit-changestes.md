@@ -1,12 +1,12 @@
-# Gerrit
+# Gerrit Changestes
 
 The Gerrit dashboards represent a set of metrics that shows detailed information about changesets and patchsets per changeset. Following are the various dashboards of Gerrit data source:
 
-* [Overview](gerrit.md#overview)
-* [Efficiency](gerrit.md#efficiency)
-* [Timing](gerrit.md#timing)
-* [Backlog](gerrit.md#backlog)
-* [Approvals](gerrit.md#approvals)
+* [Overview](gerrit-changestes.md#overview)
+* [Efficiency](gerrit-changestes.md#efficiency)
+* [Timing](gerrit-changestes.md#timing)
+* [Backlog](gerrit-changestes.md#backlog)
+* [Approvals](gerrit-changestes.md#approvals)
 
 By default, Bots and Changesets Only filters are applied. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
 

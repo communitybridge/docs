@@ -8,11 +8,13 @@ The data on the dashboards do not include commits by Bots and empty commits.
 
 * [Summary](summary.md)
 * [Source Control](source-control/)
+* Pull Requests / Changesets
+* [Issue Management](project-management/)
+* [Documentation](documentation/)
 * [Chat Room](chat-room/)
 * [Mailing List](mailing-list/)
-* [Documentation](documentation/)
-* [Issue Management](project-management/)
 * [CI/CD](ci-cd/)
 * [Registry](registry/)
-* [Active Contributors](community-leader-board/)
+* Marketing Analytics
+* Community Leaderboard
 
