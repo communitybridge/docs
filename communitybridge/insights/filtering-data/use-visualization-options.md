@@ -80,19 +80,6 @@ Useful options let you perform actions on a visualization, such as exporting dat
          </td>
          <td style="text-align:left">Open the corresponding URL.</td>
        </tr>
-       <tr>
-         <td style="text-align:left">
-           <p>
-             <img src="../../../.gitbook/assets/18088168.png" alt/>
-           </p>
-           <p>
-             <img src="../../../.gitbook/assets/18088167.png" alt/>
-           </p>
-         </td>
-         <td style="text-align:left">Eliminate data by clicking the corresponding legend <b>caption</b> (in this
-           example <b>Contributors</b> or <b>Thursday</b>). Click the <b>caption</b> again
-           to include the data.</td>
-       </tr>
      </tbody>
    </table>
 
