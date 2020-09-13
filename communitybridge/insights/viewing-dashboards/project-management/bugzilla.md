@@ -1,8 +1,12 @@
 # Bugzilla
 
-The Bugzilla dashboard is available from the **Issue Management** drop-down list, and represents a set of metrics that provide information about Bugzilla. 
+{% hint style="info" %}
+By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
 
-By default, Bot commits are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+
+The Bugzilla dashboard is available from the **Issue Management** drop-down list, and represents a set of metrics that provide information about Bugzilla.
 
 ## Overview <a id="Bugzilla-Bugzilla&gt;Overview"></a>
 

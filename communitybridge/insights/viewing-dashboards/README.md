@@ -8,7 +8,7 @@ The data on the dashboards do not include commits by Bots and empty commits.
 
 * [Summary](summary.md)
 * [Source Control](source-control/)
-* Pull Requests / Changesets
+* [Pull Requests / Changesets](pull-requests-changesets/)
 * [Issue Management](project-management/)
 * [Documentation](documentation/)
 * [Chat Room](chat-room/)

@@ -1,11 +1,17 @@
 # Jira
 
+{% hint style="info" %}
+By default, Bot Commits and Issues Only are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
+
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+
 The Jira dashboards under **Issue Management** represents a set of metrics that shows an analysis of Jira issues . Following are the various dashboards of Jira dashboard:
 
 * [Overview](jira.md#overview)
-* [Backlog](jira.md#backlog)
 * [Effort](jira.md#effort)
 * [Timing](jira.md#timing)
+* [Backlog](jira.md#backlog)
 
 ## Overview
 
@@ -17,7 +23,9 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Issues by Status** shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
-**Issues by Organization** shows a bar graph that represents the number of issues by organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues for the organization on a date.
+**Issues Assigned To Organization** shows a stacked bar graph that represents the number of issues assigned to an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues assigned to the organization on a date.
+
+**Issues Submitted By Organization** shows a stacked bar graph that represents the number of issues submitted by an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues submitted by the organization on a date.
 
 **Submitters** hows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters and the date.
 
@@ -25,31 +33,18 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Assignees by Organization** shows a doughnut chart that represents the organizations that are assigned with the issues \(not unique issues; it includes activities on issues, such as comments, approvals, and so on\) in the project. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
 
-**Projects** shows a table that lets you sort values by project name, number of issues, submitters, assignees, average number of watchers, and average time in days to close the issues per project over time.
+**Assignees** shows:
+
+* a stacked bar graph that represents total number of assignees for a calendar period. Mouse over a color in the graph to see total number of assignees for a date.
+* a table that lets you sort values by assignees names, number of issues, projects, reporters, and average time in days the issues were open before they were closed.
 
 **Submitters** shows a table that lets you sort values by submitters names, number of issues, projects, assignees, and average number of days the issues were open per submitter over time .
 
-## Backlog
+**Issues By Projects** shows a table that lets you sort values by project name, number of issues, submitters, assignees, average number of watchers, and average time in days to close the issues over time.
 
-Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+**Issues By Organization** shows a table that lets you sort values by organization name, number of issues, submitters, assignees, average number of watchers, and average time in days to close the issues over time.
 
-**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
-
-**Summary** shows the total number of open issues, accumulated time in days while issues were open, and the average time in days per open issue over time.
-
-**Issues By Projects** shows a table that lets you sort values by project name, number of issues and average time in days the issue were open per project over time.
-
-**Accumulated Time \(days\): Issues waiting to be closed** shows a bar graph that represents cumulative number of days for which individual issues were open, on a date. Mouse over a color in the graph to see the data.
-
-**Issues waiting to be closed** shows a stacked bar graph that represents number of issues \(that are not closed\) per day by status: Open, In Progress, To Do, and so on. These statuses are color coded. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
-
-**Issues By Organizations** shows a table that lets you sort values by organization name, number of issues, average time in days the issues were open per organization over time, and average number of watchers per issue over time.
-
-**Assignee Organizations** shows a doughnut chart that represents the assigned organizations that have open issues to be closed. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
-
-**Issues Submitters** shows a table that lets you sort values by submitter name, number of issues, average time in days the issue was open for the submitter, and number of projects the submitter is associated with.
-
-**Issue Backlog Summary** shows a table that lets you sort values by title, Info, repository, submitter, and total number of days the issue backlog was open. The default sort is by the greatest number of open days.
+\*\*\*\*
 
 ## Effort
 
@@ -98,4 +93,26 @@ Timing shows information about open and closed issues in time and lets you focus
 **Projects** shows a table that lets you sort values by project name, number of issues, submitters,  assignees, 50th percentile of Median Time Open Days, and 50th percentile of Median Changes per project over time.
 
 **Issues** shows a table that lets you sort values by Summary, Submitter, Status, Project, +Info, Open Date, and Open Days.
+
+## Backlog
+
+Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
+**Summary** shows the total number of open issues, accumulated time in days while issues were open, and the average time in days per open issue over time.
+
+**Open Issues By Projects** shows a table that lets you sort values by project name, number of issues and average time in days the issue were open over time.
+
+**Accumulated Time \(days\): Issues waiting to be closed** shows a bar graph that represents cumulative number of days for which individual issues were open, on a date. Mouse over a color in the graph to see the data.
+
+**Issues waiting to be closed** shows a stacked bar graph that represents number of issues \(that are not closed\) per day by status: Open, In Progress, To Do, and so on. These statuses are color coded. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
+
+**Issues In Backlog By Organizations** shows a table that lets you sort values by organization name, number of issues, average time in days the issues were open per organization over time, and average number of watchers for issues over time.
+
+**Backlog Assignees By Organizations** shows a doughnut chart that represents the assigned organizations that have open issues to be closed. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage.
+
+**Issues Submitters** shows a table that lets you sort values by submitter name, number of issues, average time in days the issue was open for the submitter, and number of projects the submitter is associated with.
+
+**Issue Backlog Summary** shows a table that lets you sort values by title, Info, repository, submitter, and total number of days the issue backlog was open. The default sort is by the greatest number of open days.
 

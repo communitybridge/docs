@@ -4,7 +4,7 @@ CommunityBridge Insights is a centralized platform that collects and visualizes 
 
 ## Get Started <a id="DevAnalyticsGettingStarted-GetStarted"></a>
 
-* [Project or Foundation Overview](project-or-foundation-overview.md)
+* [Project or Project Group Overview](project-or-foundation-overview.md)
 * [Viewing Dashboards](viewing-dashboards/)
 * [Filtering Data](filtering-data/)
 * [Analyzing the Data](analyzing-the-data/)

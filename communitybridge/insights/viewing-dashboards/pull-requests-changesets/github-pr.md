@@ -1,6 +1,10 @@
 # GitHub PR
 
-The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub PR:
+{% hint style="info" %}
+By default, Bot commit is filtered. To add/manage filters, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
+
+ The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub PR:
 
 * [Overview](github-pr.md#overview)
 * [Efficiency](github-pr.md#efficiency)

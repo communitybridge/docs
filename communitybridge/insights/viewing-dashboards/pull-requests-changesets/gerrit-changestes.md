@@ -1,5 +1,9 @@
 # Gerrit Changestes
 
+{% hint style="info" %}
+By default, Bots and Changesets Only are filtered. To add/manage filters, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
+
 The Gerrit Changesets dashboards represent a set of metrics that shows detailed information about changesets and patchsets per changeset. Following are the various dashboards of Gerrit data source:
 
 * [Overview](gerrit-changestes.md#overview)
