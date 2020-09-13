@@ -67,8 +67,6 @@ Timing shows information about open and closed issues in time. The dashboard foc
 
 **95th Percentile of Days An issue is in Open State** shows a bar graph that represents number of days for which 95% of issues, out of total issues that are created on a particular day, are open.
 
-**Issues by Organization** shows a doughnut chart that represents the total number of issues in the project by organization. Mouse over a color in the chart to see the total number of issues for the organization, and their percentage of the project's organization.
-
 **Submitters** shows:
 
 * a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see the status, total number of submitters and the date.
@@ -86,7 +84,7 @@ Timing shows information about open and closed issues in time. The dashboard foc
 
 ## Backlog
 
-Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+Backlog focuses on open issues, their accumulated time, and associated organization.
 
 **github\_filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 

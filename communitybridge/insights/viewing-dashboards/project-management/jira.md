@@ -80,7 +80,7 @@ Timing shows information about open and closed issues in time and lets you focus
 
 **Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows the total number of Issues, Submitters, Assigned, 50th percentile of Median Open Days, and Avg. Open Days.
+**Summary** shows the total number of Issues, Submitters, Assignees, 50th percentile of Median Open Days, and Avg. Open Days.
 
 **Issues Open in Median** shows a bar graph that represents number of days for which the median number of total issues that were created per day over time, are open. Mouse over a color in the graph to see the median number of days issues were open on a date.
 
@@ -96,7 +96,7 @@ Timing shows information about open and closed issues in time and lets you focus
 
 ## Backlog
 
-Backlog focuses on open issues \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+Backlog focuses on open issues, their accumulated time, and associated organization.
 
 **Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
