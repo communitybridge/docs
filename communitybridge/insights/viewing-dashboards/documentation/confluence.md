@@ -1,8 +1,12 @@
 # Confluence
 
-The Confluence dashboard is available from the **Documentation** drop-down list, and represents a set of metrics that shows information about confluence pages.
+{% hint style="info" %}
+By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+
+The Confluence dashboard is available from the **Documentation** drop-down list, and represents a set of metrics that shows information about confluence pages.
 
 ## Overview <a id="Confluence-Confluence&gt;Overview"></a>
 
@@ -17,6 +21,10 @@ Overview shows information about Confluence documentation reviews, including edi
 **Activity** shows a stacked bar graph that represents the number of New Pages, Page Edits, and Blog Posts for the project over time. Mouse over a color in the graph to see the total number of new pages, page edits, and blog posts for a date.
 
 **Editors** **Per Day** shows a bar graph that represents the number of editors for the project over time. Mouse over a color in the graph to see the total number of editors for a date.
+
+Activity By Organization Per Day 
+
+
 
 **Top Editors** shows a table that lets you sort values by Editor, Page Edits, New Pages, Comments, Blog Posts, Attachments, and Last Action Date.
 
