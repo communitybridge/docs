@@ -1,10 +1,14 @@
 # Slack
 
+{% hint style="info" %}
+By default, Severe Activity and Bot Commits are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
+
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+
 The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
 
-By default, Server Activity and Bot messages are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
-
-## Overview  <a id="Slack-Slack&gt;Overview"></a>
+## Overview 
 
 Overview shows high-level information about how developers use Slack. For example, you can see the channels in which people send the most messages. You can sort channels by the number of messages, participants, replies, and other values.
 

@@ -148,6 +148,7 @@
       * [Documentation](communitybridge/insights/viewing-dashboards/documentation/README.md)
         * [Confluence](communitybridge/insights/viewing-dashboards/documentation/confluence.md)
       * [Chat Room](communitybridge/insights/viewing-dashboards/chat-room/README.md)
+        * [Rocket Chat](communitybridge/insights/viewing-dashboards/chat-room/rocket-chat.md)
         * [Slack](communitybridge/insights/viewing-dashboards/chat-room/slack.md)
       * [Mailing List](communitybridge/insights/viewing-dashboards/mailing-list/README.md)
         * [Groups.io](communitybridge/insights/viewing-dashboards/mailing-list/groups.io.md)
