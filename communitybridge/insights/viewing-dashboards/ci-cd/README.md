@@ -1,6 +1,6 @@
 # CI/CD
 
-**CI/CD** dashboards show continuous integration, build and job analytics. For details, see:
+**CI/CD** dashboards show continuous integration, build and job analytics for the project. For details, see:
 
 #### \*\*\*\*[**Jenkins**](jenkins.md)\*\*\*\*
 

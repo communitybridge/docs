@@ -8,7 +8,7 @@ The Jenkins dashboards under CI/CD drop-down list represents a set of metrics th
 * [Nodes](jenkins.md#nodes)
 * [Build data](jenkins.md#build-data)
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to share the path of respective dashboards.
 
 ## Overview
 
@@ -36,7 +36,7 @@ Jobs shows data about Jenkins jobs such as duration, successes, and failures ove
 
 **Filter** lets you filter the dashboard data by job name. Select values from the drop-down list, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows the number of success count, failure count, aborted count, and unstable count of builds.
+**Summary** shows the number of build results—Success, Failure, Unstable, Aborted.
 
 **Results** shows a doughnut chart that represents the total number of jobs in the project by status: SUCCESS, FAILURE, UNSTABLE, ABORTED. Mouse over a color in the chart to see the status, total number of jobs for the status, and the percentage of the project's jobs for that status.
 

@@ -1,8 +1,10 @@
 # Pipermail
 
-Pipermail dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows email details about Pipermail communication channel.
+{% hint style="info" %}
+By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
 
-Click ![](../../../../.gitbook/assets/share-icon.png) to share the path of respective dashboards.
+Pipermail dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows email details about Pipermail communication channel.
 
 ## Overview
 

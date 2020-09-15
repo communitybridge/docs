@@ -1,8 +1,10 @@
 # Groups.io
 
-The Groups.io dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows information about the groups.io communication channel.
+{% hint style="info" %}
+By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+{% endhint %}
 
-By default, Bot messages are filtered. Click ![](../../../../.gitbook/assets/share-icon.png) to share the path for respective dashboards.
+The Groups.io dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows information about the groups.io communication channel.
 
 ## Overview <a id="Groups.io-Groups.io&gt;Overview"></a>
 
@@ -10,7 +12,7 @@ Overview shows a high-level information about email activity of groups for a pro
 
 **Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows the total number of Messages \(that includes both sent and received\), Participants, and Lists over time.
+**Summary** shows the total number of Emails \(that includes both sent and received\), Participants, and Lists over time.
 
 **Participants By Organization** shows a doughnut chart that represents the total number of individuals per organization who have sent the messages/emails. Mouse over a color in the chart to see the organization name, total number and percentage of individuals of that organization out of the total number of authors who have sent emails/messages.
 
