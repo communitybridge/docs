@@ -12,15 +12,11 @@ Overview shows high-level information about docker images.
 
 **Top Image Pulls** shows a doughnut chart that represents top docker images. Mouse over a color in the chart to view details, such as docker image name, number, and its percentage.
 
-Total Stars shows a table that represents total number of stars per calendar period. 
+**Total Stars** shows a table that represents total number of stars per calendar period. Mouse over to view details for a calendar date.
+
+**Total Pulls** shows a table that represents total number of pulls per calendar period. Mouse over to view details for a calendar date.
+
+**Pull Trends** shows a comparison of pull counts and trends for a calendar period. 
 
 **Images** shows a table that lets you sort values by Docker Image, Stars, and Pulls.
-
-**Pulls over time \(top 10\)** shows the top ten pulls of docker images by date and time. Mouse over a color to see the total number of pulls for each image by date and time.
-
-**Pulls: Growth Deltas over time \(top 10\)** shows the growth details for top ten pulls of docker images by date and time.  Mouse over a color to see the difference in number of pulls for an image for a date from the last pull date.
-
-**Stars over time \(top 10\)** shows the ratings for top ten pulls of docker image over date and time. Mouse over a color to see the ratings for each image by date and time.
-
-**Stars: Growth Deltas over time \(top 10\)** shows the growth in rating for top ten pulls of docker images. Mouse over a color to see the details.
 
