@@ -44,5 +44,7 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 8. After you add the travel expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
 
+![](../../.gitbook/assets/submit.png)
+
  
 
