@@ -58,7 +58,7 @@ Job Categories shows data about Jenkins jobs that are grouped into certain categ
 
 **Summary** shows number of builds, jobs, nodes, and job categories for a project.
 
-**Jobs Evolution** shows number of builds executed per day.
+**Jobs Evolution** shows a stacked bar graph that represents number of builds executed per day.
 
 **Categories** shows a table that lists name of categories the jobs are grouped to, total number of jobs and builds per category, and number of build results per success and failures.
 

@@ -2,7 +2,13 @@
 
 Active Community Leaderboard displays an aggregated data of individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
 
-Click **Search** to search for a contributor's details, and click **Export** to download the table data to a `.csv` file. The Active Community Leaderboard Table lets you sort values by the following data:
+* Click **Search** to search for contributor's details with author name and organization name. As an administrator for a project, you can also search details with email addresses of contributors of the project.
+* You can also quickly search a page by entering the page number in the page number filed as shown below:
+
+![](../../../../.gitbook/assets/active-contributor-page-and-export.png)
+
+* Click **Export** to download the table data to a `.csv` file.
+* The Active Community Leaderboard Table lets you sort by values except Author Name, Organization, and Email Id.
 
 | Name | Description |
 | :--- | :--- |
