@@ -10,6 +10,10 @@ Overview shows high-level information about docker images.
 
 **DockerHub** shows the total number of Docker Images, 50th percentile of Median Stars by Image, and 50th percentile of Median Pulls by Image.
 
+**Top Image Pulls** shows a doughnut chart that represents top docker images. Mouse over a color in the chart to view details, such as docker image name, number, and its percentage.
+
+Total Stars shows a table that represents total number of stars per calendar period. 
+
 **Images** shows a table that lets you sort values by Docker Image, Stars, and Pulls.
 
 **Pulls over time \(top 10\)** shows the top ten pulls of docker images by date and time. Mouse over a color to see the total number of pulls for each image by date and time.
