@@ -119,5 +119,3 @@ Click **VIEW MORE** to see metrics of [confluence pages](documentation/confluenc
 
 Following is an example of Documentation overview section:
 
-![Documentation](../../../.gitbook/assets/documentation%20%281%29.png)
-
