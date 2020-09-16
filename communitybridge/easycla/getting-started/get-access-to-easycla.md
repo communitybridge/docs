@@ -10,5 +10,5 @@
 
 After the CLA administration team confirms your setup, you can [Sign In to the CLA Management Console](../project-managers/sign-in-to-project-console.md) to do the EasyCLA activities for [project managers](../project-managers/).
 
-**Note:** CCLA managers can immediately start using the CLA Corporate Console because it does not require activation from the EasyCLA administration team. Simply [Sign In to the CLA Corporate Console](../cla-managers/sign-in-to-the-cla-corporate-console.md) to do the EasyCLA activities for [CCLA Managers and CCLA Signatories]().
+**Note:** CCLA managers can immediately start using the CLA Corporate Console because it does not require activation from the EasyCLA administration team. Simply [Sign In to the CLA Corporate Console](../cla-managers/sign-in-to-the-cla-corporate-console.md) to do the EasyCLA activities.
 

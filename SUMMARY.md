@@ -192,7 +192,6 @@
         * [CLA Management Console Data Does Not Load](communitybridge/easycla/getting-started/cla-troubleshooting/cla-management-console-data-does-not-load.md)
         * [CLA Manager Does Not Receive Email Notifications](communitybridge/easycla/getting-started/cla-troubleshooting/cla-manager-does-not-receive-email-notifications.md)
         * [EasyCLA is Disabled](communitybridge/easycla/getting-started/cla-troubleshooting/easycla-is-disabled.md)
-      * [Sign Out of EasyCLA](communitybridge/easycla/getting-started/sign-out-of-easycla.md)
       * [EasyCLA FAQs](communitybridge/easycla/getting-started/easycla-faqs.md)
     * [Project Managers](communitybridge/easycla/project-managers/README.md)
       * [Sign in to Project Console](communitybridge/easycla/project-managers/sign-in-to-project-console.md)
