@@ -7,7 +7,7 @@ By default, Bot commit is filtered, and can't be included for Summary dashboard.
 Summary provides a high-level metrics about each data source for which the project is configured. Following are activities for quick navigation:
 
 * Click Copy Short URL ![](../../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
-* Select a value from Source Control drop down to quickly navigate to the respective section.  ![](../../../.gitbook/assets/source-control-drop-down%20%282%29.png) 
+* Select a value from Source Control drop down to quickly navigate to the respective section.   
 * Clicking sparklines ![](../../../.gitbook/assets/sparkly-lines.png)  opens a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
 * Clicking numbers on a data card opens the respective dashboard.  ![](../../../.gitbook/assets/click-for-dashboard.png) 
 
