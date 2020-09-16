@@ -150,16 +150,14 @@ Following an example of Issue Management overview section for a project that use
 
 ### **Registry**
 
-**Registry** shows overview analytics of docker images of the project repository for a selected time range:
+**DockerHub** shows total number of median pulls, average stars for images, increase number in pull count,
 
 * A heading shows ****total number of docker images, 50th percentile of median stars and pulls by images.
 * A table lists docker image links, total number of starts and pulls for an image.
 
-Click **VIEW MORE** to see metrics of [docker overview](registry/dockerhub.md#DockerHub-DockerHub>Overview).
+ metrics of [docker overview](registry/dockerhub.md#DockerHub-DockerHub>Overview).
 
-Following is an example of Registry overview section:
-
-![Registry](../../../.gitbook/assets/registry%20%281%29.png)
+![Registry](../../../.gitbook/assets/registry.png)
 
 ### **Documentation**
 
