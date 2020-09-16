@@ -21,8 +21,6 @@ A drop-down list is only available when a related data source is available.
 2. Select a **dashboard** from the drop-down list:  
 The selected dashboard appears and shows relevant visualizations.
 
-![Source Control](../../../.gitbook/assets/source-control-drop-down%20%281%29.png)
-
 3. On a selected dashboard, navigate to the **Filter** visualization, select values from the drop-down lists, and click **Apply Changes** to filter the dashboard data.
 
 * **Apply changes:** Filters the dashboard as per selected values
