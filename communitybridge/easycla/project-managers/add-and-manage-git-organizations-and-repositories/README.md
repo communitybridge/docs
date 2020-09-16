@@ -10,7 +10,7 @@ Before you can add or manage git repositories, you must connect/add Git organiza
 After you successfully add/connect Git organizations, you can:
 
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
-* [Add or Remove Git repositories](add-or-remove-git-repositories-for-cla-monitoring.md)
+* [Add or Remove GitHub Repositories](add-or-remove-git-repositories-for-cla-monitoring.md)
 
 ### Add GitHub Organization:
 
@@ -83,7 +83,7 @@ Source Control configuration page appears.
 * One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
 {% endhint %}
 
-The CLA Project Console lists the instance under Gerrit Instances, as shown below.​​
+The CLA Project Console lists the CLA-enabled instances under **Instances**, as shown below.​​
 
 ![Gerrit Instances](../../../../.gitbook/assets/gerrit-instances.png)
 
