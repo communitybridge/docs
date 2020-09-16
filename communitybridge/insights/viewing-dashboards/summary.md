@@ -111,8 +111,6 @@ Click **VIEW MORE** to see metrics of [docker overview](registry/dockerhub.md#Do
 
 Following is an example of Registry overview section:
 
-![Registry](../../../.gitbook/assets/registry%20%281%29.png)
-
 ### **Documentation**
 
 **Documentation** shows an overview analytics of project's confluence pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, and total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages.
