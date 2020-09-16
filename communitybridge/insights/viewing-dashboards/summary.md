@@ -146,26 +146,29 @@ Following an example of Issue Management overview section for a project that use
 
 **CI/CD** shows an overview analytics of the number of total builds, jobs, failed builds, job categories, and average build duration in minutes. Clicking **Go To Overview** and **View All** under **CI/CD** takes you to the respective table/chart/graph of [Jenkins &gt; Overview](ci-cd/jenkins.md#overview) section.
 
+**Top 10 Jobs** lists the top ten jobs by name, number, and percentage.
+
+**Build Results** shows a doughnut chart that represents total number of builds for all the build results, such as Success, Failure, Unstable, and Aborted. Click a result to exclude the data. Click again to include.
+
 ![Ci/Cd](../../../.gitbook/assets/ci-cd.png)
 
 ### **Registry**
 
-**DockerHub** shows total number of median pulls, average stars for images, increase number in pull count,
+**DockerHub** shows total number of median pulls, average stars for images, increase number in pull count, and star counts. Clicking **Go To Overview** and **View All** opens the respective table/chart/graph of [Docker &gt; Overview](registry/dockerhub.md#DockerHub-DockerHub>Overview) section.
 
-* A heading shows ****total number of docker images, 50th percentile of median stars and pulls by images.
-* A table lists docker image links, total number of starts and pulls for an image.
+**Top 10 images By Pull Count** lists the top ten pulls by name, number, and percentage.
 
- metrics of [docker overview](registry/dockerhub.md#DockerHub-DockerHub>Overview).
+**Top 10 images By Star Count** lists the top ten stars by name, number, and percentage.
 
 ![Registry](../../../.gitbook/assets/registry.png)
 
 ### **Documentation**
 
-**Documentation** shows an overview analytics of project's confluence pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, and total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages.
+**Confluence** shows an overview analytics of project's confluence pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages, and average number of editors per day.
 
-Click **VIEW MORE** to see metrics of [confluence pages](documentation/confluence.md#Confluence-Confluence>Overview).
+**Top 10 Editors** lists the top ten individuals— who makes most number of edits/updates— by name, number of pages edited by the individual, and percentage of contribution out of the total document contribution by the community members.
 
-Following is an example of Documentation overview section:
+**Top 10 Companies** lists the top ten companies— that contribute most to the project— by name, total number of editions, and percentage.
 
-![Documentation](../../../.gitbook/assets/documentation%20%281%29.png)
+![Documentation](../../../.gitbook/assets/documentation.png)
 
