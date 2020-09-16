@@ -76,8 +76,6 @@ A heading shows the total number of slack messages and channels.
 
 Click **VIEW MORE** to go to [Slack Overview](chat-room/slack.md#Slack-Slack>Overview) dashboard to see metrics of slack channel.
 
-![Chat Room](../../../.gitbook/assets/chat-room%20%281%29.png)
-
 ### **Mailing List**
 
 **Mailing List** shows an overview analytics of email communication channels, such as Groups.io or Pipermail:
@@ -98,13 +96,9 @@ A heading ****shows total number of emails shared by the community members, and 
 
 Click **VIEW MORE** to view metrics of the respective communication channel.
 
-![Mailing List](../../../.gitbook/assets/mailing-list%20%281%29.png)
-
 ### **CI/CD**
 
 **CI/CD** shows an overview analytics of the number of servers, jobs, and build numbers of a project over time. Following is an example of Distribution overview section. Click **VIEW MORE** to view [Jenkins Overview](ci-cd/jenkins.md#overview) dashboard.
-
-![](../../../.gitbook/assets/ci-cd%20%281%29.png)
 
 ### **Registry**
 
