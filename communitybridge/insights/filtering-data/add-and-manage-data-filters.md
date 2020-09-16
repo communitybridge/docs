@@ -39,13 +39,19 @@ The Edit filter option lets you manually update a filter and specify a label for
 
 **To manage a filter:**
 
-1. Click the filter that you want to manage,  and select any of the **action buttons** to manage a filter:
-   * **Pin across all apps**  pins a filter across all applications in one dashboard. It remains in place when you switch to another dashboard. A filter is based on a particular index field—if the indices being searched do not contain the field in a pinned filter, it has no effect.
-   * **Edit filter** opens the Edit filter dialog.
-   * **Include results** includes items that match the specified field value. **Exclude results** option shows when you click Include results.
-   * **Exclude results** excludes items that match the specified field value. **Include results** option shows when you click Exclude results.
-   * **Temporarily disable** disables the filter without removing it. Strike-through indicates that a filter is disabled. **Re-enable** option shows when you click Temporarily disable.
-   * **Delete** removes the filter. **Note:** You can click **×** next to a filter to delete it.  ![](../../../.gitbook/assets/delete-filter.png) 
+Click the filter that you want to manage,  and select any of the **action buttons** to manage a filter:
+
+* **Pin across all apps**  pins a filter across all applications in one dashboard. It remains in place when you switch to another dashboard. 
+
+{% hint style="warning" %}
+**Important:** A filter is based on a particular index field—if the indices being searched do not contain the field in a pinned filter, it has no effect on the dashboard.
+{% endhint %}
+
+* **Edit filter** opens the Edit filter dialog.
+* **Include results** includes items that match the specified field value. **Exclude results** option shows when you click Include results.
+* **Exclude results** excludes items that match the specified field value. **Include results** option shows when you click Exclude results.
+* **Temporarily disable** disables the filter without removing it. Strike-through indicates that a filter is disabled. **Re-enable** option shows when you click Temporarily disable.
+* **Delete** removes the filter. **Note:** You can click **×** next to a filter to delete it.  ![](../../../.gitbook/assets/delete-filter.png) 
 
 
 
