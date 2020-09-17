@@ -1,5 +1,9 @@
 # EasyCLA FAQs
 
+**Who do I contact to enable my Linux Foundation-hosted project to use EasyCLA?**
+
+Open [https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143), submit the form describing your requirements, and import your existing CLAs.
+
 **Why does Linux Foundation ask contributors of some projects to sign CLAs?**
 
 Some project communities have elected to use CLAs as a required step for contributions to their code. For those that have, the Linux Foundation wants to ensure that contributions comply with the IP policies of that project, including ensuring that contributors have accepted the corresponding CLA.
