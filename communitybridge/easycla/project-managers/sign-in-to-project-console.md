@@ -2,9 +2,9 @@
 
 You sign in to the CLA project console of Admin Dashboard to perform the CLA set-up and management tasks for projects that you manage.
 
-**Do these steps: \(PRANAB TO CHECK THE USER FLOW\)**
+**Do these steps:**
 
-1. Go to [https://project.lfcla.com](https://project.lfcla.com). **\(IS THIS LINK CORRECT? PRANAB TO CONFIRM\)**
+1. Go to [https://project.lfcla.com](https://project.lfcla.com). **\(SHOULD THIS LINK BE THERE?\)**
 
 2. Click **SIGN IN**. The LF CLA sign-in dialog appears.
 
