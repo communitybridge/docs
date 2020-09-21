@@ -1,31 +1,38 @@
 # Dashboard
 
-Companies sign Contributor License Agreement \(CLA\) for project\(s\) under a foundation. However, for CNCF and CloudFoundry foundations, companies sign CLA at foundation level. So, the following dashboards are displayed at foundation level for the aforementioned foundations.
-
 {% hint style="info" %}
 The data for individual dashboards of this page varies based on the user's role.
 {% endhint %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-MDOuLEoMW0OgYeX7jjj%2F-MF-nuylP4i-UeTw1B8N%2F-MF0AAA4xR4xz8NjKcGN%2Fcompany%20dashboard.png?alt=media&token=24f66c69-b957-4a87-9620-e3838f82bb08)
+![Company Dashboard](../../.gitbook/assets/company-dashboard.png)
 
-Following are various dashboards of EasyCLA as a service:
+Following are the aggregate data of all projects that use CLA.
 
 ### CLA STATISTICS <a id="cla-statistics"></a>
 
-This provides CLA highlights.
+{% hint style="info" %}
+EasyCLA is also referred as CLA in the document.
+{% endhint %}
 
 * **PROJECTS USING EASYCLA** shows the total number of projects that are using EasyCLA as a service.
-* **CLA SIGNED** shows total number of Contributor License Agreements—ICLA \(Individual CLA\) and CCLA \(Corporate CLA\)—signed by your company for one or more projects. This number doesn't include the number of approved contributors This includes both the number of CLAs signed for one or more projects, and the individual contributors per signed CLA.
-* **TOTAL CONTRIBUTORS** shows the total number of Individual and Corporate contributors including approved contributors.
-* **REPOSITORIES USING EASYCLA** shows total number git repositories of projects that use EasyCLA as a service.
+* **CLA SIGNED** shows total number of Contributor License Agreements—ICLA \(Individual CLA\) and CCLA \(Corporate CLA\)—signed by all the member companies of Linux Foundation. This number doesn't include the number of approved contributors. This includes both the number of CLAs signed for one or more projects, and the individual contributors per signed CLA.
+* **TOTAL CONTRIBUTORS** shows the total number of individual and corporate contributors including approved contributors of companies.
+* **REPOSITORIES USING EASYCLA** shows total number of git repositories of projects that use EasyCLA as a service.
 
-### PROJECT GROUP WITH EASYCLA ENABLED <a id="foundations-with-easycla-enabled"></a>
+## Project Group with EasyCLA Enabled
 
-​A project group is a combination of many projects. Navigate to a project group or type a project group in the search box to view its details. **No. of Projects** shows the total number of projects that are CLA enabled under a group of projects. Click **View Projects** to see the project names.
+{% hint style="info" %}
+**Project Group** is also referred as **Project** in the document.
+{% endhint %}
+
+​A project group is a parent project of individual projects. A project  Navigate to a project or type a project name in the search box and press Enter to view the project. Click a project to navigate to project details page. For project details, see **`LINK WITH TEXT`**
+
+* **Project Group** shows the project name.
+* **No. of Projects** shows the total number of projects that are CLA enabled under a group of projects. Click the number to see the project names as shown in the following image. A project name under **No. of Projects** indicates that it is an individual project and doesn't come under any project group.
 
 Click a project group or a project under a project group to view EasyCLA information for a [Group of Project](https://dibya-test-org.gitbook.io/company-dashboard/projects/foundations/easycla#cla-statistics) or a [Project](projects/projects/easycla/).
 
-![](https://gblobscdn.gitbook.com/assets%2F-MDOuLEoMW0OgYeX7jjj%2F-MF-nuylP4i-UeTw1B8N%2F-MF0I_2J7_m6CaUsM_IQ%2Fview%20projects.png?alt=media&token=d21d8a53-23c1-43b0-86ec-4a9f59a7d819)
+![View Projects](../../.gitbook/assets/view-projects.png)
 
 ​
 
