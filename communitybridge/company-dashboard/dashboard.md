@@ -11,13 +11,13 @@ Following are the aggregate data of all projects that use CLA.
 ### CLA STATISTICS <a id="cla-statistics"></a>
 
 {% hint style="info" %}
-EasyCLA is also referred as CLA in the document.
+**EasyCLA** is also referred as **CLA** in the document.
 {% endhint %}
 
-* **PROJECTS USING EASYCLA** shows the total number of projects that are using EasyCLA as a service.
+* **PROJECTS USING EASYCLA** shows the total number of projects that are using CLA as a service.
 * **CLA SIGNED** shows total number of Contributor License Agreements—ICLA \(Individual CLA\) and CCLA \(Corporate CLA\)—signed by all the member companies of Linux Foundation. This number doesn't include the number of approved contributors. This includes both the number of CLAs signed for one or more projects, and the individual contributors per signed CLA.
 * **TOTAL CONTRIBUTORS** shows the total number of individual and corporate contributors including approved contributors of companies.
-* **REPOSITORIES USING EASYCLA** shows total number of git repositories of projects that use EasyCLA as a service.
+* **REPOSITORIES USING EASYCLA** shows total number of git repositories of projects that use CLA as a service.
 
 ## Project Group with EasyCLA Enabled
 
@@ -30,7 +30,7 @@ EasyCLA is also referred as CLA in the document.
 * **Project Group** shows the project name.
 * **No. of Projects** shows the total number of projects that are CLA enabled under a group of projects. Click the number to see the project names as shown in the following image. A project name under **No. of Projects** indicates that it is an individual project and doesn't come under any project group.
 
-Click a project group or a project under a project group to view EasyCLA information for a [Group of Project](https://dibya-test-org.gitbook.io/company-dashboard/projects/foundations/easycla#cla-statistics) or a [Project](projects/projects/easycla/).
+Click a project group or a project under a project group to view CLA information for a [Group of Project](https://dibya-test-org.gitbook.io/company-dashboard/projects/foundations/easycla#cla-statistics) or a [Project](projects/projects/easycla/).
 
 ![View Projects](../../.gitbook/assets/view-projects.png)
 

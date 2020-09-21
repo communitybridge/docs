@@ -18,8 +18,8 @@ The CLA Corporate Console appears and shows the projects.
 3. Click an answer: **Are you authorized to be a CLA Manager for your organization?**  
  ![](../../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png) 
 
-* **Yes**— A **Configuring CLA Manager Settings** window appears. After configuration is complete, click **Proceed**, and continue to step 5.  ![](../../../.gitbook/assets/configuring-cla-manager-settings.png) 
-* **No**— An **Identify CLA Manager** form appears. Continue to next step.  ![](../../../.gitbook/assets/identify-cla-manager.png)  
+* **Yes**— Continue to step 5.
+* **No**— An **Identify CLA Manager** form appears. This individual becomes the initial CLA manager, and after signing, becomes the CLA manager for the project. Continue to next step.  ![](../../../.gitbook/assets/identify-cla-manager.png)  
 
 4. Enter first and last name, email address, and click **Submit Request**, Or click **Contact Company Admin** if you are not sure who should sign the corporate CLA.  
 ****A window appears confirming that request is submitted to respective individual.
