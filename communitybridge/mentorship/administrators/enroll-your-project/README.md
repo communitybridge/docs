@@ -43,9 +43,7 @@ The email includes **View Project** option.
 The Linux Foundation approves or rejects the application. You receive an email notification about the status of your application.
 {% endhint %}
 
-## Your Activities <a id="EnrollYourProject-YourActivities"></a>
-
-[Set Up a Stipend for a Mentee]()
+## Your Activities <a id="Administrators-YourActivities"></a>
 
 [Open or Close Mentorship Applications](../open-or-close-mentorship-applications.md)
 
