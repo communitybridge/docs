@@ -6,9 +6,9 @@ Click **Projects** to view all the CLA enabled projects.
 
 Click a [project group](./#project-group) or [project](./#project) to view related CLA information.
 
-## Project Group
+## Project Group / Project
 
-Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for the project:
+Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for a project:
 
 ### CLA STATISTICS
 
@@ -60,14 +60,15 @@ It shows a table that lists details of approved contributors from your organizat
 * **Coverage Type** shows the type with which the contributor is listed in the approved list.
 * **Added on** **shows** the date when the user was added to the approved list.
 * **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/cla-managers/add-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/cla-managers/add-and-manage-contributors.md#delete-a-contributors-details) the approved list.
-* **+Add Contributor\(s\)** \(Only for CLA Managers\) lets you [add contributors](../../easycla/cla-managers/add-and-manage-contributors.md#add-contributor-s) to an approved list.
+
+**+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/cla-managers/add-and-manage-contributors.md#add-contributor-s) to an approved list.
 
 #### CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION <a id="contributor-acknowledgement-from-my-organization"></a>
 
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
 * **Name** shows the name and image of the contributor. Data is retrieved from the individual profile page.
-* **LFID/GHID** shows the LinuxFoundation ID or GitHub ID of the contributor.
+* **LFID/GHID** shows the Linux Foundation ID or GitHub ID of the contributor.
 * **Agreement** shows the version of CLA agreement that was signed by the contributor.
 * **Timestamp** shows date and time when the user acknowledged the agreement.
 
@@ -77,13 +78,23 @@ It shows a table that lists contributors from your company associated with this 
 
 It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
 
+**CLA STATISTICS FOR MY ORGANIZATION** \(Only for Project Group\)
+
+This is displayed only for project groups, and shows a table that lists the following information:
+
+* **Projects** shows the names of the CLA enabled projects that come under the project group.
+* **My CLA Managers** shows number of CLA managers per project.
+* **My Approved List** shows  number of approved lists per project.
+
 ## If Company has not signed CLA
 
-Following is an example that appears if your company has not signed CLA with a project under a foundation. Sign CLA with the project before you proceed. For details, see [How to Sign CLA with Project](projects/easycla/how-to-sign-cla-with-project.md).
+**Note:** For a project under a project group, CLA must be signed at project group level.
+
+Following is an example that appears if your company has not signed CLA for a project or a project group. Sign CLA with the project before you proceed. For details, see [How to Sign CLA with Project]().
 
 ![CLA not signed](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9roIeDUquwapsG6oPJ%2F-M9rpJlKSE1tcHGVUxfZ%2Fcompany%20has%20not%20signed%20cla.png?alt=media&token=7c8318e4-79e9-4692-9c73-a19d3bc2d831)
 
 ## Project
 
-Here are the articles in this section:[Foundations](foundations/)[Projects](projects/)
+Here are the articles in this section:[Foundations]()[Projects]()
 
