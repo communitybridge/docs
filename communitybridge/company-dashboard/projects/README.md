@@ -39,8 +39,8 @@ It shows a table that lists the CLAs signed by your company with the project:
 * **CLA Group** shows CLA group name which the project belong to. A project can have multiple CLA groups.
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
-* **Signatory** or **Signed By** shows name of the person who signed the CLA.
-* **Action** or **Download** lets you download PDF file of the signed CLA.
+* **Signed By** shows name of the person who signed the CLA.
+* **Download** lets you download PDF file of the signed CLA.
 
 #### CLA MANAGERS FROM MY ORGANIZATION <a id="cla-managers-from-my-organization"></a>
 
