@@ -1,6 +1,6 @@
-# Enable or Disable a Repository from Scanning
+# Enable or Disable Scanning for a Repository
 
-You can enable or disable a repository from scanning to refine scanning report of the project.
+You can enable or disable scanning for a repository to refine scanning report of the project.
 
 **To enable/disable a repository:**
 
@@ -26,6 +26,8 @@ The **View Details** link is enabled if there are errors during the repository's
 ![View Details](../../.gitbook/assets/1%20%281%29.png)
 
 5.You can also click on the **Total Connected/Not Connected** repositories that are connected to the Github org.  This will provide the details of the repositories that are connected or not connected.  
+
+This provides the status of repositories within the GitHub Org, if the repositories are accessible or not.
 
 ![Github List](../../.gitbook/assets/git.png)
 

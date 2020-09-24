@@ -1,6 +1,6 @@
 # Supported Languages
 
-CommunityBridge Security provides dependency and license support for the following programming languages that your project uses:
+CommunityBridge Security provides dependency and license support for the following programming languages:
 
 * Golang
 * Java
