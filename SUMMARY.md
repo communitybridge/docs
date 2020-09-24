@@ -199,7 +199,7 @@
     * [Investigate and Remediate Vulnerabilities](communitybridge/security/investigate-and-remediate-vulnerabilities.md)
     * [Investigate Dependencies in the Application Dependency Tree](communitybridge/security/investigate-dependencies-in-the-application-dependency-tree.md)
     * [Get License Information](communitybridge/security/get-license-information.md)
-    * [Enable or Disable a Repository from Scanning](communitybridge/security/enable-or-disable-a-repository-from-scanning.md)
+    * [Enable or Disable Scanning for a Repository](communitybridge/security/enable-or-disable-a-repository-from-scanning.md)
   * [EasyCLA](communitybridge/easycla/README.md)
     * [Getting Started](communitybridge/easycla/getting-started/README.md)
       * [EasyCLA Requirements](communitybridge/easycla/getting-started/easycla-requirements.md)
