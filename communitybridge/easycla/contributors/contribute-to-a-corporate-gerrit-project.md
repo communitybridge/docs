@@ -234,7 +234,7 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 
-4. Click **Proceed** to [sign a corporate CLA](../cla-manager-designee-1/sign-corporate-cla-for-a-company.md).
+4. Click **Proceed** to [sign a corporate CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 You have finished signing your CLA for this Gerrit instance. You are able to submit your changes to any repository under this Gerrit instance.
 

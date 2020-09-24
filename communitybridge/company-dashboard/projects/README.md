@@ -4,7 +4,7 @@ Click **Projects** to view all the CLA enabled projects.
 
 ![Projects of Company Dashboard](../../../.gitbook/assets/projects-of-company-dashboard.png)
 
-Click a [project group](./#project-group) or [project](./#project) to view related CLA information.
+Click a project group or project to view related CLA information.
 
 ## Project Group / Project
 
@@ -88,13 +88,9 @@ This is displayed only for project groups, and shows a table that lists the foll
 
 ## If Company has not signed CLA
 
-**Note:** For a project under a project group, CLA must be signed at project group level.
+**Note:** For a project under a project group, CLA must be signed at the project group level.
 
-Following is an example that appears if your company has not signed CLA for a project or a project group. Sign CLA with the project before you proceed. For details, see [How to Sign CLA with Project]().
+Following is an example that appears if your company has not signed CLA for a project or a project group. Sign CLA for a project or designate someone to sign CLA for the project. For details, see [Sign Corporate CLA for a Company](../../easycla/cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 ![CLA not signed](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9roIeDUquwapsG6oPJ%2F-M9rpJlKSE1tcHGVUxfZ%2Fcompany%20has%20not%20signed%20cla.png?alt=media&token=7c8318e4-79e9-4692-9c73-a19d3bc2d831)
-
-## Project
-
-Here are the articles in this section:[Foundations]()[Projects]()
 

@@ -11,7 +11,8 @@ As a CLA manager designee, you must sign a Corporate CLA before you can manage c
 1. [Sign in](../cla-managers/sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager designee.  
 The CLA Corporate Console appears and shows the projects.
 
-2. Navigate to the EasyCLA tab of project for which you are designated to be the initial CLA manager, and click **Start the CLA Process**.
+2. Click the project for which you want to sign CLA, and click **Start the CLA Process**.  
+**Note:** If you are already designated as a CLA manager designee for a project, details appear as shown in step 5.  
 
 ![Start the CLA Process](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA0HEhVP16NYN7Vs27E%2Fstart%20cla%20process.png?alt=media&token=31a11567-bb06-4d1e-972a-8f616d6a9500)
 

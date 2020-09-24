@@ -75,8 +75,8 @@ You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there ar
 
 You become a CLA manager designee:
 
-* When you are authorized to [sign CLA](../cla-manager-designee-1/sign-corporate-cla-for-a-company.md) for a company as an initial CLA manager. After you sign CLA, you become [CLA manager](../cla-managers/). 
-* When you receive an email informing you that you are identified as a CLA manager for a project. You [sign the CLA](../cla-manager-designee-1/sign-corporate-cla-from-invitation.md), and become CLA manager. You must have an LF ID to sign the CLA.
+* When you are authorized to [sign CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md) for a company as an initial CLA manager. After you sign CLA, you become [CLA manager](../cla-managers/). 
+* When you receive an email informing you that you are identified as a CLA manager for a project. You [sign the CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-from-invitation.md), and become CLA manager. You must have an LF ID to sign the CLA.
 
 ### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
 
