@@ -30,28 +30,9 @@ Following are the aggregate data of all projects that use CLA.
 * **Project Group** shows the project name.
 * **No. of Projects** shows the total number of projects that are CLA enabled under a group of projects. Click the number to see the project names as shown in the following image. A project name under **No. of Projects** indicates that it is an individual project and doesn't come under any project group.
 
-Click a project group or a project under a project group to view CLA information for a [Group of Project](https://dibya-test-org.gitbook.io/company-dashboard/projects/foundations/easycla#cla-statistics) or a [Project](projects/projects/easycla/).
+Click a project group or a project under a project group to view CLA information for a [Project Group](projects/#project-group) or an[ Individual Project](projects/#project).
 
 ![View Projects](../../.gitbook/assets/view-projects.png)
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-Data for other dashboards are displayed based on:
-
-* **If your Company has signed CLA**
-* **If your Company has not signed CLA**
-
-##  <a id="if-your-company-has-signed-cla"></a>
 
 ​
 
