@@ -36,7 +36,7 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 ![CWE and CVE](../../.gitbook/assets/cve.png)
 
-7. Investigate the vulnerabilities by opening the provided links to go directly to various websites for specific information about the vulnerability. For example:
+7.Investigate the vulnerabilities by opening the provided links to go directly to various websites for specific information about the vulnerability. For example:
 
 * Click a **GitHub PR** link, a **GitHub Commit**, and then a **GitHub Issue** link to learn more about the corresponding pull request, commit, and issue, respectively.
 

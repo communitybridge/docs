@@ -41,7 +41,7 @@ To check the vulnerability details only, perform the following:
 
 ![Vulnerabilities Only](../../.gitbook/assets/vul_only.png)
 
-2. List of vulnerabilities related for a particular repositories are listed. You  can click on the links for a particular issue such as High, Medium and Low. By clicking the link, you will redirected to the issues page. 
+2.List of vulnerabilities related for a particular repositories are listed. You  can click on the links for a particular issue such as High, Medium and Low. By click on the link, you will redirected to the issues page. 
 
 ![Issues Link ](../../.gitbook/assets/vul_link_iss.png)
 
