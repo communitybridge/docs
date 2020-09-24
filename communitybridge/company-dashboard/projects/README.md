@@ -29,7 +29,7 @@ Data in the following sections are displayed based on:
 **Important:** CLA Managers of a project can add another user as a CLA manager and/or contributor or delete such added users for the same project, however can view CLA managers, Approved List, and Contributor Acknowledgements for other projects of the company. All other roles can view CLA details for the project.
 {% endhint %}
 
-#### CLA FOR MY ORGANIZATION / ACTIVE CLAs FOR MY ORGANIZATION <a id="cla-for-my-organization"></a>
+#### ACTIVE CLAs FOR MY ORGANIZATION <a id="cla-for-my-organization"></a>
 
 It shows a table that lists the CLAs signed by your company with the project:
 
