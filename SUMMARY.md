@@ -219,7 +219,7 @@
   * [Company Dashboard](communitybridge/company-dashboard/README.md)
     * [Dashboard](communitybridge/company-dashboard/dashboard.md)
     * [Projects](communitybridge/company-dashboard/projects/README.md)
-      * [Sign CLA with a Project](communitybridge/company-dashboard/projects/sign-cla-with-a-project.md)
+      * [Sign CLA for a Project](communitybridge/company-dashboard/projects/sign-cla-for-a-project.md)
       * [Add or Delete a CLA Manager](communitybridge/company-dashboard/projects/add-or-delete-a-cla-manager.md)
       * [Add and Manage a Contributor](communitybridge/company-dashboard/projects/add-and-manage-a-contributor.md)
     * [Manage Your Organization](communitybridge/company-dashboard/manage-your-organization.md)
