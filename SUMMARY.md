@@ -18,6 +18,7 @@
   * [Add Skill Sets](my-profile/add-skill-sets.md)
   * [Connect Accounts](my-profile/linking-social-accounts.md)
   * [Add Registered Emails](my-profile/adding-alternative-emails.md)
+  * [My Email Subscriptions](my-profile/my-email-subscriptions.md)
   * [Purchase a Lifetime Linux.com Email Alias](my-profile/purchasing-linux-email.md)
   * [View Training and Certifications](my-profile/viewing-training-and-certifications.md)
   * [View Events You Attended Or Will Attend](my-profile/viewing-the-events.md)
