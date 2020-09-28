@@ -2,9 +2,9 @@
 
 The organization profile header shows the organization name, logo, website URL, address, contact information, and last updated date and time.
 
-* Edit organization information
-* Add/Delete Organization Administrator/Alternate Account Owner
-* Delete an Administrator profile
+* [Edit organization information](manage-your-organization.md#how-to-edit-organization-information)
+* [Add/Delete Organization Administrator/Alternate Account Owner](manage-your-organization.md#add-delete-organization-administrator-alternate-account-owner)
+* [Delete an Administrator profile](manage-your-organization.md#delete-an-administrator-profile)
 * [EasyCLA Roles](manage-your-organization.md#team-member-roles-services)
 
 ### Edit Organization Information <a id="how-to-edit-organization-information"></a>
