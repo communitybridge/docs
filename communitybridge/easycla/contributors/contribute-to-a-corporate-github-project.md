@@ -6,8 +6,6 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 **Do these steps:**
 
-_If you are a project manager, make sure that you are logged out of the CLA Management Console before you begin._
-
 1. In GitHub, go to the repository that is linked to the project for your organization.
 
 2. Make a change and send a pull request.
@@ -125,8 +123,9 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 1. A **Configuring CLA Manager Settings** window appears. 
 
-2. After the configuration settings is completed, click **Proceed**.  
- ![](../../../.gitbook/assets/configuring-cla-manager-settings.png) 
+2. After the configuration settings is completed, click **Proceed**.
+
+![](../../../.gitbook/assets/configuring-cla-manager-settings.png)
 
 {% hint style="info" %}
 **Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.

@@ -188,7 +188,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 1. A **Configuring CLA Manager Settings** window appears. 
 
 2. After the configuration settings is completed, click **Proceed**.  
- ![](../../../.gitbook/assets/configuring-cla-manager-settings.png) 
+  
 
 {% hint style="info" %}
 **Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.
