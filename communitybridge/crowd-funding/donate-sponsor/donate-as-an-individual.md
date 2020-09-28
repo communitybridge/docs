@@ -1,6 +1,6 @@
 # Donate as an Individual
 
-As an Individual, you can donate a minimum of $5. When donating to a project, you may request that your donation is used towards all project needs or a mentorship funding goal.
+As an Individual, you can donate a minimum of $5. When donating to a project, you may request that your donation is used towards a specific funding goal or all project needs. However, keep in mind that donated funds are used at the project's discretion, and not according to the requested allocation.
 
 1.**To donate to a project** [Sign in](../../../sso/sign-in/) to [Crowdfunding Platform ](https://funding.communitybridge.org)and click Donate CTA on a project card. 
 
