@@ -18,13 +18,13 @@ The Preparing CLA dialog opens.
 3. After CCLA preparation is complete, click **SIGN CCLA**.  
 **Result:** You will be redirected to complete the DocuSign process.
 
-![](../../../.gitbook/assets/ccla-ready-for-signature%20%281%29.png)
+![CCLA ready for Signature](../../../.gitbook/assets/ccla-ready-for-signature.png)
 
 4. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../../.gitbook/assets/proceed-to-download-ccla.png) 
+* You can download the PDF document by clicking the link form the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../../.gitbook/assets/proceed-to-download-ccla.png) 
 {% endhint %}
 
 ![](../../../.gitbook/assets/docusign-icla-flow.png)

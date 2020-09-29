@@ -24,7 +24,7 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-**Result:** The CLA Contributor Console appears.
+**Result:** The CLA Contributor Console appears in a new tab.
 
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla.png)​
 
@@ -33,7 +33,7 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 6. Click **Proceed as a Corporate Contributor**.   
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing your work on behalf of a company.
 
-7. On **Select Your Organization** window, type organization name in the filed, select the organization from the drop-down list, and click **Proceed**.
+7. On **Select Your Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
 
 **Note:** If your company is not in the list, you can add the company as described in [If Company is not in the list](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1).
 
@@ -72,14 +72,14 @@ You will receive an email notification if the CLA manager approves or rejects yo
 
 ## If you are added to the approved list
 
-1. You will be asked to [sign individual CLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if you are added to the approved list, but the CLA requires you to sign Individual CLA.
+1. Based on the CLA configuration, you will be asked to [sign individual CLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if the CLA requires corporate contributors to sign individual CLA.
 
 2. An acknowledgement window appears informing you that you have completed the contribution acknowledgement.  
  ![](../../../.gitbook/assets/contribution-acknowledgement.png) 
 
 2. Click **Exit EasyCLA**.
 
-You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
+Navigate to the GitHub tab. Wait a few seconds for the CLA status to update or refresh the page.
 
 ![All Checks Have Passed](../../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)
 
@@ -102,11 +102,11 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update or
 * You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
-You are redirected to GitHub. Wait a few seconds for the CLA status to update. A tick appears next to your branch.
+Navigate to the GitHub tab. Wait a few seconds for the CLA status to update or refresh the page. A tick appears next to your branch.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6cppwP1AyZy-KUmCzq%2F-M6ctjpAKdmeg7CtHpBl%2Fcla-github-individual-contributor-pass.png?alt=media&token=4d57c6f5-f255-4888-9764-35cf7cd7fe4a)
 
-5. Click **Merger pull request**.
+5. Click **Merge pull request**.
 
 ## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
 
@@ -127,17 +127,21 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 ![](../../../.gitbook/assets/configuring-cla-manager-settings.png)
 
+3.  Click **Proceed** on the window that appears. Ensure that you disable pop-up blocker if you have enabled any as shown in the note.
+
+![](../../../.gitbook/assets/proceed-to-corporate-console-from-contributor-console.png)
+
 {% hint style="info" %}
-**Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.
+**Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username. After you create a username, you will be redirected back to corporate console where you can proceed with CLA signing.
 {% endhint %}
 
-3. You will be redirected to corporate console **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+4. You will be redirected to corporate console on a new tab **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
-After you successfully sign a CCLA, open the GitHub repository. A tick appears next to your branch. A notification appears:
+After you successfully sign a CCLA, open the GitHub repository tab. A tick appears next to your branch or refresh the page. A notification appears:
 
 ![](../../../.gitbook/assets/cla-github-all-checks-passed.png)
 
-4. Click **Merge pull request** and confirm the merge.
+5. Click **Merge pull request** and confirm the merge.
 
 ### **No \(If you are not authorized\)**
 

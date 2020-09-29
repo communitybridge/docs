@@ -4,7 +4,7 @@ description: This page describes how to sign CLA as a CLA manager.
 
 # Sign Corporate CLA for a Company
 
-As a CLA manager designee, you must sign a Corporate CLA before you can manage contributors from your company, and add other CLA managers. You become a [CLA manager](../cla-managers/) after you sign CLA as a CLA manager designee.
+As a CLA manager designee \(initial CLA manager\), you must sign a Corporate CLA before you can manage contributors from your company, and add other CLA managers. You become a [CLA manager](../cla-managers/) after you sign CLA as a CLA manager designee.
 
 #### **Do these steps:**
 
@@ -29,7 +29,7 @@ The CLA Corporate Console appears and shows the projects.
 The individual must have an [SSO](../../../sso/) account to sign CLA.
 {% endhint %}
 
-5. You are designated as the initial CLA manager. Under **Action** column, click **Proceed with Signing**.  
+5. You are designated as the initial CLA manager \(CLA manager designee\). Under **Action** column, click **Proceed with Signing**.  
 **Result:** Identify CLA Signatory window appears.
 
 ![Proceed with Signing CLA](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA0AMSeGRZh-N_H24ZK%2Fproceed%20with%20signing%20cla.png?alt=media&token=80bd1c7e-e336-4db8-89c3-b65faf4270d3)
@@ -41,12 +41,12 @@ The individual must have an [SSO](../../../sso/) account to sign CLA.
 * **No**— An **Identify Authorized Signatory** form appears. Continue to next step.  ![](../../../.gitbook/assets/identify-authorized-signatory.png) 
 
 7. Complete the form, and click **Send Signature Request Email**.  
-**Result:** A success window appears confirming that the signature request is sent to the email address of the individual who signs the Corporate CLA, and adds you to the approved list.
+**Result:** A success window appears confirming that the signature request is sent to the email address of the individual who signs the Corporate CLA on behalf of the company. After CLA is signed, you are designated as the CLA manager, and that individual becomes CLA signatory for your company.
 
 8. **Preparing CCLA** window appears. After CCLA preparation is completed, click **SIGN CCLA** on CCLA Ready for Signature window.  
 **Result:** You will be redirected to complete the DocuSign process.
 
-![ccla ready for signature](../../../.gitbook/assets/ccla-ready-for-signature.png)
+![CCLA Ready for Signature](../../../.gitbook/assets/ccla-ready-for-signature.png)
 
 9. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
