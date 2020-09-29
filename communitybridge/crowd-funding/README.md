@@ -8,18 +8,18 @@ Linux Foundation doesn't charge any fees for the first $10M raised through Commu
 
 **Anyone** who is interested in supporting an open source project can learn about CommunityBridge Funding and get involved. Browse through projects and learn about their fundraising goals, donations, expenses, and security vulnerabilities. 
 
-### [Add a Project, Event, or Travel Fund](apply-for-funding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
+### [Apply to add a Project, Security Audit, Initiative, Event, or Travel Fund](apply-for-funding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
 
-**Project Administrators** submit funding applications for financial support from companies and individuals to grow their communities by paying money to developers for their contribution, by sponsoring project related travel meet-ups, spending money in marketing, and so on. Project administrators are the primary maintainers of the open source projects on CommunityBridge.
+**Project Administrators** can submit funding applications for financial support from individuals and companies and individuals to grow their open source communities. The donations help projects to pay developers for their contribution, sponsor project related meet-ups, or spend money on  marketing. 
 
-[Project administrators can also enroll their projects in a mentorship program](../mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel funds for events and project summits.
+[Project administrators can also apply to have their projects offer a mentorship program](../mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel funds for events and project summits.
 
 ### [Donate/Sponsor](donate-sponsor/) <a id="CommunityBridgeFunding-Donate/Sponsor7417266.html"></a>
 
 **Backers** and **sponsors** donate money to open source community projects and events.
 
 * Backers are _individuals_ who donate a minimum of $5.
-* Sponsors are _companies_ that donate a minimum of $500.
+* Sponsors are _companies_ that donate a minimum of $200.
 
 ### [Get Reimbursed](get-reimbursed.md) <a id="CommunityBridgeFunding-GetReimbursed"></a>
 

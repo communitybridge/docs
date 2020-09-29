@@ -1,6 +1,6 @@
 # Donate as a Sponsor
 
-Sponsors are organizations that donate a minimum of $500.00 and no maximum amount. As a project sponsor, specify how you want your donations to be used. When you donate on behalf of an organization \(rather than ias an individual\), you must be authorized by that organization to do so. Organizations making one-time donations may donate via an invoice, all other donations must be made with a credit or debit card.
+Sponsors are organizations who can donate a minimum of $200.00 with no maximum amount. As a project sponsor you can specify how you want your donation to be allocated. When you donate on behalf of an organization \(rather than as an individual\), you must be authorized by that organization to do so. Organizations making one-time donations may donate via an invoice, all other donations must be made with a credit or debit card.
 
 {% hint style="info" %}
 Have these items handy before you begin:
@@ -12,7 +12,7 @@ Have these items handy before you begin:
 **Do these steps:**
 
 1. Open CommunityBridge Funding. Projects will appear in alphabetical order.
-2. Click **Donate** on a project of interest. You are prompted to log in if you have not already done so.  ![](../../../../.gitbook/assets/donate-to-a-project.png)  The New Donation form appears and lists the organizations that are associated with your project. The **I want to give** options show preset amounts for organization donations. ![](../../../../.gitbook/assets/7418573.png) 
+2. Click **Donate** on a project of interest. You are prompted to log in if you have not already done so.  ![](../../../../.gitbook/assets/donate-to-a-project.png)  The New Donation form appears and includes the organizations you're associated with. 
 3. Select an **organization.** [You can add, edit, or delete an organization.](add-edit-or-delete-an-organization.md)
 4. Select a **preset amount** or click in the **I want to give** field and enter a dollar amount.
 5. Select a donation frequency option: One-time or Monthly.  
@@ -28,6 +28,6 @@ Have these items handy before you begin:
 9. Read and agree to the CommunityBridge Platform Use Agreement and the other agreements and policies incorporated therein.  Click **Submit Donation** or **Submit Subscription** \(the button changes dynamically depending on your donation type\). Your Accounts page appears.
 
 {% hint style="info" %}
-At any time, you can go to your user account ![](../../../../.gitbook/assets/7418575.png) and select **My Transactions** to edit your monthly donation amount—click **Edit monthly donation** on the project of interest.
+At any time, you can go to your user account ![](../../../../.gitbook/assets/7418575.png) and select **My Transactions** to edit your monthly donation amount by selecting **Edit monthly donation** on the project of interest.
 {% endhint %}
 

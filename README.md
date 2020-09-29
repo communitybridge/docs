@@ -2,23 +2,23 @@
 
 Linux Foundation is a technology association of several companies that helps to scale open source projects. Linux Foundation provides platforms to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by Linux Foundation to support the creation and growth of sustainable open source software:
 
-{% page-ref page="sso/" %}
+### [Single Sign-On \(SSO\)](sso/)
 
-{% page-ref page="my-profile/" %}
+### [Individual Dashboard \(My Profile\)](my-profile/)
 
-{% page-ref page="communitybridge/crowd-funding/" %}
+### [Crowdfunding](communitybridge/crowd-funding/)
 
-{% page-ref page="communitybridge/mentorship/" %}
+### [Mentorship](communitybridge/mentorship/)
 
-{% page-ref page="communitybridge/insights/" %}
+### [Insights](communitybridge/insights/)
 
-{% page-ref page="communitybridge/security/" %}
+### [Security](communitybridge/security/)
 
-{% page-ref page="communitybridge/easycla/" %}
+### [EasyCLA](communitybridge/easycla/)
 
-{% page-ref page="linux-individual-supporter-program/" %}
+### [Linux Foundation Individual Supporter Program](linux-individual-supporter-program/)
 
-{% page-ref page="training-and-certification.md" %}
+### [Training and Certification](training-and-certification.md)
 
 
 
