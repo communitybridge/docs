@@ -1,8 +1,8 @@
 # Crowdfunding
 
-CommunityBridge Crowdfunding is a platform that makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source initiatives.
+Crowdfunding is a platform that makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source initiatives.
 
-Linux Foundation doesn't charge any fees for the first $10M raised through CommunityBridge, which allows developers to use more money for work, drive innovation, sustainability, and adoption.
+Linux Foundation doesn't charge any fees for the first $10M raised through the platform,  which allows developers to use more money for work, drive innovation, sustainability, and adoption.
 
 ### [Discover Funds](dashboard/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
 
@@ -27,10 +27,10 @@ Designated **beneficiaries** get reimbursed for their support of open source com
 
 ## How to Participate <a id="CommunityBridgeFunding-HowtoParticipate"></a>
 
-You can participate by applying and submitting your open source project to receive funding through the CommunityBridge platform, as well as by donating to projects, and sponsoring events and travel funds. 
+You can participate by applying and submitting your open source project to receive funding through the Crowdfunding platform, as well as by donating to projects, and sponsoring events and travel funds. 
 
-You must have an [account](../../sso/create-an-account.md) or sign in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, see [Sign in to CommunityBridge](../../sso/sign-in/).  
-**Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can sign in to CommunityBridge using your SSO credentials.
+You must have an [account](../../sso/create-an-account.md) or log in to the [Crowdfunding](https://funding.communitybridge.org/) platform to participate. For details, see [Log in to Crowdfunding Platform](../../sso/sign-in/).  
+**Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can log in using your SSO credentials.
 
 ### **Applying for Funding** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 

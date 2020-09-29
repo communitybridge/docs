@@ -13,8 +13,12 @@ Ensure that you use the same email address that you used to set up your account 
 
 3. On **Reports** page, select **New Report** located in the top-right corner of your screen.
 
+![](../../../.gitbook/assets/expensify-new-reports.png)
+
 4. A report name with a report ID is auto-generated based on your profile information.  
 **Note:** Update the ****report name to "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 3"
+
+![](../../../.gitbook/assets/expensify-add-report-and-submit.png)
 
 5. Click ![](../../../.gitbook/assets/plus-icon.png) to add expense to report.
 
