@@ -6,7 +6,7 @@ Linux Foundation doesn't charge any fees for the first $10M raised through the p
 
 ### [Discover Funds](dashboard/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
 
-**Anyone** who is interested in supporting an open source project can learn about CommunityBridge Funding and get involved. Browse through projects and learn about their fundraising goals, donations, expenses, and security vulnerabilities. 
+Browse through projects to learn about their fundraising goals, donations, expenses, and security vulnerabilities. 
 
 ### [Apply to add a Project, Security Audit, Initiative, Event, or Travel Fund](apply-for-funding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
 
@@ -32,9 +32,9 @@ You can participate by applying and submitting your open source project to recei
 You must have an [account](../../sso/create-an-account.md) or log in to the [Crowdfunding](https://funding.communitybridge.org/) platform to participate. For details, see [Log in to Crowdfunding Platform](../../sso/sign-in/).  
 **Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can log in using your SSO credentials.
 
-### **Applying for Funding** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
+### **Submit an application to Crowdfunding Platform** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 
-**As an individual/project administrator**, ****you can [apply](apply-for-funding/) to raise funds for your project by submitting an application for your GitHub or Git-based project. After your project is approved by the Linux Foundation, it will be visible on the [CommunityBridge Funding](https://funding.communitybridge.org/) dashboard under [Projects and Mentorships](dashboard/projects.md) tab. You can apply for event funding or a travel funds by submitting an [Event Application Form](event-application.md) or a [Travel Fund application form](travel-fund-application.md). 
+**As an individual/project administrator**, ****you can [submit an application](apply-for-funding/) to list your funding category on the platform and raise funds for your GitHub or Git-based open source project. After your fund is approved by the Linux Foundation, it will be visible on the [platform ](https://funding.communitybridge.org/)dashboard under [Projects and Mentorships](dashboard/projects.md) tab. You can apply for event funding or a travel funds by submitting an [Event Application Form](event-application.md) or a [Travel Fund application form](travel-fund-application.md). 
 
 ### Donating/Sponsoring <a id="CommunityBridgeFunding-Donating/Sponsoring"></a>
 
