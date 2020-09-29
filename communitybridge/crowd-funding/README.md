@@ -23,14 +23,14 @@ Browse through projects to learn about their fundraising goals, donations, expen
 
 ### [Get Reimbursed](get-reimbursed.md) <a id="CommunityBridgeFunding-GetReimbursed"></a>
 
-Designated **beneficiaries** get reimbursed for their support of open source community projects and events.
+Designated **beneficiaries** get reimbursed for their work efforts by submitting expenses via Expensify Reports. 
 
 ## How to Participate <a id="CommunityBridgeFunding-HowtoParticipate"></a>
 
-You can participate by applying and submitting your open source project, initiative or event to receive funding through the Crowdfunding platform, as well as by donating to projects, and sponsoring events and travel funds. 
+You can participate by applying and submitting your open source project, initiative or event to raise money through the Crowdfunding platform, as well as by donating to projects, and sponsoring events and travel funds. 
 
-You must have an [account](../../sso/create-an-account.md) or log in to the [Crowdfunding](https://funding.communitybridge.org/) platform to participate. For details, see [Log in to Crowdfunding Platform](../../sso/sign-in/).  
-**Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can log in using your SSO credentials.
+You must have an [account](../../sso/create-an-account.md) to sign in to the [Crowdfunding](https://funding.communitybridge.org/) platform to participate. For Sign In details, please see [sign in to your account.](../../sso/sign-in/)  
+**Note:** If you already have an LF account,  you can sign in using your SSO credentials.
 
 ### **Submit an application to Crowdfunding Platform** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 
