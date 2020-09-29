@@ -1,8 +1,8 @@
 # Crowdfunding
 
-Crowdfunding is a platform that makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to enable projects to pay maintainers and developers for their efforts and project expenses, and to ensure project communities have financial resources to secure, maintain, and advance open source initiatives.
+Crowdfunding is a platform that makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to ensure the project communities have financial resources to secure, maintain, and advance open source initiatives.
 
-Linux Foundation doesn't charge any fees for the first $10M raised through the platform,  which allows developers to use more money for work, drive innovation, sustainability, and adoption.
+The Linux Foundation doesn't charge any fees for the first $10M raised through the platform,  which allows developers to use more money for work, drive innovation, sustainability, and adoption.
 
 ### [Discover Funds](dashboard/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
 
@@ -10,7 +10,7 @@ Browse through projects to learn about their fundraising goals, donations, expen
 
 ### [Apply to add a Project, Security Audit, Initiative, Event, or Travel Fund](apply-for-funding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
 
-**Project Administrators** can submit funding applications for financial support from individuals and companies and individuals to grow their open source communities. The donations help projects to pay developers for their contribution, sponsor project related meet-ups, or spend money on  marketing. 
+**Project Maintainers** can submit an application for financial support from individuals and companies to grow their open source communities. The donations help projects pay developers for their contributions, sponsor project related meet-ups, or other project expenses like documentation or marketing. 
 
 [Project administrators can also apply to have their projects offer a mentorship program](../mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel funds for events and project summits.
 
