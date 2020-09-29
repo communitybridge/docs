@@ -27,7 +27,7 @@ Designated **beneficiaries** get reimbursed for their support of open source com
 
 ## How to Participate <a id="CommunityBridgeFunding-HowtoParticipate"></a>
 
-You can participate by applying and submitting your open source project to receive funding through the Crowdfunding platform, as well as by donating to projects, and sponsoring events and travel funds. 
+You can participate by applying and submitting your open source project, initiative or event to receive funding through the Crowdfunding platform, as well as by donating to projects, and sponsoring events and travel funds. 
 
 You must have an [account](../../sso/create-an-account.md) or log in to the [Crowdfunding](https://funding.communitybridge.org/) platform to participate. For details, see [Log in to Crowdfunding Platform](../../sso/sign-in/).  
 **Note:** If you have created a Single Sign-On\(SSO\) account with Linux Foundation, you can log in using your SSO credentials.
