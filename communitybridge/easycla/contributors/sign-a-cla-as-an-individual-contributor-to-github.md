@@ -1,4 +1,4 @@
-# Sign a CLA as an Individual Contributor to GitHub
+# Sign a CLA as an Individual Contributor to GitHub and Gerrit
 
 As an individual contributor to an open-source project who is contributing code on your own behalf \(and not on behalf of an employer\), you create a pull request in GitHub to inform code maintainers about changes made to the code. During the pull request process, your CLA is verified. Also during the process, you click a link to open the CLA Contributor Console to sign the CLA.
 
@@ -37,7 +37,7 @@ The CLA Contributor Console appears and shows the CLA group for your project.
 
  6. After **CLA is Ready For Signature** window appears, click **SIGN CLA** .
 
-![](../../../.gitbook/assets/sign-cla-individual-cla-flow.png)
+![CLA Ready for Signature](../../../.gitbook/assets/cla-ready-for-signature.png)
 
 DocuSign presents the agreement that you must sign. The ICLA is not tied to any employer you may have, so enter your personal email address in the E-Mail field.
 
