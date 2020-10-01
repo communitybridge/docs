@@ -42,6 +42,10 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 ![ccla flow](../../../.gitbook/assets/select-organization.png)
 
+{% hint style="warning" %}
+**Important:** If the corporate cla setup for the selected company is not completed, **Setup Required** window appears. Click the link to submit a ticket, and click Exit CLA.
+{% endhint %}
+
 8. Continue:
 
 * [If you are not added to the approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
@@ -72,9 +76,13 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 ![Agreement Link](../../../.gitbook/assets/agreement-link.png)
 
-8. 
+8. Click **Proceed To Corporate Authorization**.
 
+![](../../../.gitbook/assets/proceed-to-corporate-authorization.png)
 
+9. You are redirected to Corporate Contributor Console. Sign in if prompted.
+
+10. 
 
 ## If you are not added to the approved list
 
