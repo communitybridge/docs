@@ -44,5 +44,30 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 
 
+### Download Issues
+
+You have an option to download the issues related to your repository. The downloaded CSV file contains information such as:
+
+* Repository ID
+* Snyk ID
+* Status 
+* Remediation 
+* Severity 
+* Disclosure and Publication time
+
+Along with the above listed information, it also contains other generic information. 
+
+You can download the issues related to all repositories, for the selected repositories and for the required date range.  
+
+To download the issues CSV file,  perform the following:
+
+1.Select **Issues** from the top menu.
+
+2.From the Issues banner, click the ![](../../.gitbook/assets/download_icon.png) icon. The exports.csv file will be downloaded. You can check all the information related to the repository issues in the downloaded file.
+
+![Download Issues](../../.gitbook/assets/download.png)
+
+
+
 
 
