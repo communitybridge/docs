@@ -1,9 +1,9 @@
-# Sign CLA as Individual Contributor
+# Individual Contributor
 
 As an individual contributor to an open source project, you are contributing code on your own behalf \(not on behalf of an employer\). You create a pull request in GitHub or submit changed code in Gerrit to inform reviewers about the changes. During the process, your CLA is verified, and you must sign a CLA, if you have not already signed, before you can contribute to GitHub or Gerrit. During the process, you click a link to open the CLA Contributor Console to sign the CLA.
 
-* [GitHub](sign-a-cla-as-an-individual-contributor-to-github.md#github)
-* [Gerrit](sign-a-cla-as-an-individual-contributor-to-github.md#gerrit)
+* [GitHub](individual-contributor.md#github)
+* [Gerrit](individual-contributor.md#gerrit)
 
 ## GitHub
 

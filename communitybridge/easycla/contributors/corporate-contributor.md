@@ -1,10 +1,13 @@
-# Sign CLA as Corporate Contributor
+# Corporate Contributor
 
-As a corporate \(employee\) contributor to an open-source project, you create a pull request in GitHub to inform code maintainers about changes made to the code. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) in order for your contribution to be accepted by the company. During the pull request process, your CLA status is verified.
+As a corporate \(employee\) contributor to an open-source project, you are contributing code on company's behalf. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) in order for your contribution to be accepted by the company. During the process, your CLA status is verified.
 
-When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association to the company during your first pull request. Then you can continue with your pull request. Your subsequent contributions will not require association confirmations.
+When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association with the company during your first pull request or change submit. Then you can continue with your contribution. Your subsequent contributions will not require association confirmations.
 
-**Do these steps:**
+* GitHub
+* Gerrit
+
+## GitHub
 
 1. In GitHub, go to the repository that is linked to the project for your organization.
 
@@ -35,17 +38,21 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 7. On **Select Your Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
 
-**Note:** If your company is not in the list, you can add the company as described in [If Company is not in the list](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1).
+**Note:** If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1).
 
 ![ccla flow](../../../.gitbook/assets/select-organization.png)
 
 8. Continue:
 
-* [If you are not added to the approved list](contribute-to-a-corporate-github-project.md#if-you-are-not-added-to-the-approved-list)
-* [If you are added to the approved list](contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list)
-* [If you are asked to sign ICLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla)
-* [If Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears)
-* [If Company is not in the List](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1)
+* [If you are not added to the approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
+* [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list)
+* [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
+* [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
+* [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
+
+## Gerrit
+
+
 
 ## If you are not added to the approved list
 
@@ -72,7 +79,7 @@ You will receive an email notification if the CLA manager approves or rejects yo
 
 ## If you are added to the approved list
 
-1. Based on the CLA configuration, you will be asked to [sign individual CLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if the CLA requires corporate contributors to sign individual CLA.
+1. Based on the CLA configuration, you will be asked to [sign individual CLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA requires corporate contributors to sign individual CLA.
 
 2. An acknowledgement window appears informing you that you have completed the contribution acknowledgement.  
  ![](../../../.gitbook/assets/contribution-acknowledgement.png) 
@@ -116,8 +123,8 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-* [Yes](contribute-to-a-corporate-github-project.md#yes-if-you-are-authorized)
-* [No](contribute-to-a-corporate-github-project.md#no-if-you-are-not-authorized)
+* [Yes](corporate-contributor.md#yes-if-you-are-authorized)
+* [No](corporate-contributor.md#no-if-you-are-not-authorized)
 
 ### **Yes \(If you  are authorized\)**
 
@@ -157,7 +164,7 @@ After you successfully sign a CCLA, open the GitHub repository tab. A tick appea
 You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list. 
 
 {% hint style="info" %}
-You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](contribute-to-a-corporate-github-project.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](contribute-to-a-corporate-github-project.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
+You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](corporate-contributor.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
 {% endhint %}
 
 ## If Company is not in the List <a id="if-the-select-company-dialog-appears"></a>

@@ -57,8 +57,8 @@ At any time, you can do other management tasks:
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **Corporate** **Contributor \(GitHub\):** [confirm your association with a company](../contributors/contribute-to-a-corporate-github-project.md) that has a signed Corporate Contributor License Agreement.
-* **Individual** **Contributor \(GitHub\):** [sign an Individual Contributor License Agreement](../contributors/sign-a-cla-as-an-individual-contributor-to-github.md).
+* **Corporate** **Contributor \(GitHub\):** [confirm your association with a company](../contributors/corporate-contributor.md) that has a signed Corporate Contributor License Agreement.
+* **Individual** **Contributor \(GitHub\):** [sign an Individual Contributor License Agreement](../contributors/individual-contributor.md).
 * **Corporate** **Contributor \(Gerrit\):** [confirm your association with a company](../contributors/contribute-to-a-corporate-gerrit-project.md) that has a signed Corporate Contributor License Agreement.
 * **Individual Contributor \(Gerrit\):**[ sign an Individual Contributor License Agreement](../contributors/contribute-to-a-corporate-gerrit-project.md).
 
