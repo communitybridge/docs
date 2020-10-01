@@ -85,7 +85,13 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 9. You are redirected to Corporate Contributor Console. Sign in if prompted.
 
-10. 
+10. Continue:
+
+* [If you are not added to the approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
+* [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list)
+* [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
+* [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
+* [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
 
 ## If you are not added to the approved list
 
