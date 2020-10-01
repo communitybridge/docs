@@ -4,8 +4,8 @@ As a corporate \(employee\) contributor to an open-source project, you are contr
 
 When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association with the company during your first pull request or change submit. Then you can continue with your contribution. Your subsequent contributions will not require association confirmations.
 
-* GitHub
-* Gerrit
+* [GitHub](corporate-contributor.md#github)
+* [Gerrit](corporate-contributor.md#gerrit)
 
 ## GitHub
 
@@ -51,6 +51,28 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
 
 ## Gerrit
+
+1. In Gerrit, clone a repository under the Gerrit instance into your local machine.
+
+2. Make a change and push the code to your Gerrit repository.
+
+3. A warning link that you need to sign a CLA appears:
+
+![CLA Gerrit Sign a CLA](../../../.gitbook/assets/cla-gerrit-sign-a-cla.png)
+
+4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
+
+5. Sign in using your [Single Sign-On \(SSO\)](../../../sso/) account.
+
+6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
+
+​![Settings Icon](../../../.gitbook/assets/settings-icon.png)​    ​![Gerrit Agreements](../../../.gitbook/assets/agreements.png)​
+
+7. Click **New Contributor Agreement**.
+
+![Agreement Link](../../../.gitbook/assets/agreement-link.png)
+
+8. 
 
 
 
