@@ -9,8 +9,6 @@ As an individual contributor or a corporate \(employee\) contributor or to an op
 
 **Do these steps:**
 
-_If you are a project manager, make sure that you are logged out of the CLA Management Console before you begin._
-
 1. In Gerrit, clone a repository under the Gerrit instance into your local machine.
 
 2. Make a change and push the code to your Gerrit repository.
