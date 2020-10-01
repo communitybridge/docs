@@ -206,7 +206,6 @@
     * [Contributors](communitybridge/easycla/contributors/README.md)
       * [Individual Contributor](communitybridge/easycla/contributors/individual-contributor.md)
       * [Corporate Contributor](communitybridge/easycla/contributors/corporate-contributor.md)
-      * [Contribute to a Corporate Gerrit Project](communitybridge/easycla/contributors/contribute-to-a-corporate-gerrit-project.md)
     * [CLA Manager Designee or Initial CLA Manager](communitybridge/easycla/cla-manager-designee-or-initial-cla-manager/README.md)
       * [Sign Corporate CLA for a Company](communitybridge/easycla/cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md)
       * [Sign Corporate CLA from Invitation](communitybridge/easycla/cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-from-invitation.md)

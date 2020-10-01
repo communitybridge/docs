@@ -59,8 +59,8 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 * **Corporate** **Contributor \(GitHub\):** [confirm your association with a company](../contributors/corporate-contributor.md) that has a signed Corporate Contributor License Agreement.
 * **Individual** **Contributor \(GitHub\):** [sign an Individual Contributor License Agreement](../contributors/individual-contributor.md).
-* **Corporate** **Contributor \(Gerrit\):** [confirm your association with a company](../contributors/contribute-to-a-corporate-gerrit-project.md) that has a signed Corporate Contributor License Agreement.
-* **Individual Contributor \(Gerrit\):**[ sign an Individual Contributor License Agreement](../contributors/contribute-to-a-corporate-gerrit-project.md).
+* **Corporate** **Contributor \(Gerrit\):** [confirm your association with a company]() that has a signed Corporate Contributor License Agreement.
+* **Individual Contributor \(Gerrit\):**[ sign an Individual Contributor License Agreement]().
 
 ### Corporate CLA Manager <a id="corporate-cla-manager"></a>
 

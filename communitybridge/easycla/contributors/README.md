@@ -7,5 +7,5 @@ As a contributor, you can easily comply to your legal obligations for a company 
 * ​[Confirm your association with a company that has a signed Corporate Contributor License Agreement](corporate-contributor.md). You wrote code for your employer and are contributing this code to a project on your employer's behalf.
 * ​[Sign an Individual Contributor License Agreement](individual-contributor.md). You are contributing code that you wrote on your own behalf \(code that you wrote on your own time, and not for an employer or using your employer’s facilities or equipment\). Remember—you should not submit a contribution under an Individual CLA if that contribution consists of content that belongs to your company. Instead, you should contribute it under a Corporate CLA signed by your company.
 
-Gerrit contributors, see [Contribute to a Gerrit Project](contribute-to-a-corporate-gerrit-project.md).
+Gerrit contributors, see [Contribute to a Gerrit Project]().
 

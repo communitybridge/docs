@@ -38,13 +38,16 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 7. On **Select Your Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
 
-**Note:** If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1).
+{% hint style="info" %}
+**Note:** 
+
+* If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1).
+* If the corporate cla setup for the selected company is not completed, **Setup Required** window appears. Click the link to submit a ticket, and click Exit CLA.
+{% endhint %}
 
 ![ccla flow](../../../.gitbook/assets/select-organization.png)
 
-{% hint style="warning" %}
-**Important:** If the corporate cla setup for the selected company is not completed, **Setup Required** window appears. Click the link to submit a ticket, and click Exit CLA.
-{% endhint %}
+![](../../../.gitbook/assets/setup-required.png)
 
 8. Continue:
 
@@ -114,13 +117,9 @@ You will receive an email notification if the CLA manager approves or rejects yo
 2. An acknowledgement window appears informing you that you have completed the contribution acknowledgement.  
  ![](../../../.gitbook/assets/contribution-acknowledgement.png) 
 
-2. Click **Exit EasyCLA**.
+3. Click **Exit EasyCLA**.
 
-Navigate to the GitHub tab. Wait a few seconds for the CLA status to update or refresh the page.
-
-![All Checks Have Passed](../../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)
-
-4. Click **Merge pull request** and confirm the merge.
+Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
 
 ## If you are asked to sign ICLA
 
@@ -139,11 +138,7 @@ Navigate to the GitHub tab. Wait a few seconds for the CLA status to update or r
 * You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
-Navigate to the GitHub tab. Wait a few seconds for the CLA status to update or refresh the page. A tick appears next to your branch.
-
-![](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6cppwP1AyZy-KUmCzq%2F-M6ctjpAKdmeg7CtHpBl%2Fcla-github-individual-contributor-pass.png?alt=media&token=4d57c6f5-f255-4888-9764-35cf7cd7fe4a)
-
-5. Click **Merge pull request**.
+Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
 
 ## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
 
@@ -174,11 +169,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 4. You will be redirected to corporate console on a new tab **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
-After you successfully sign a CCLA, open the GitHub repository tab. A tick appears next to your branch or refresh the page. A notification appears:
-
-![](../../../.gitbook/assets/cla-github-all-checks-passed.png)
-
-5. Click **Merge pull request** and confirm the merge.
+After you successfully sign a CCLA, navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
 
 ### **No \(If you are not authorized\)**
 
