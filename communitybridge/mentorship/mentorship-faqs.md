@@ -8,10 +8,6 @@ CommunityBridge Mentorship is a service for connecting mentees with mentors to i
 
 Each project decides the duration of its mentorship programs, but most start at 12 weeks. Projects often offer opportunities for part-time and full-time mentorships. For example, the Linux Kernel Mentorship Program includes both full-time and part-time volunteer mentee positions each year.
 
-## How does diversity grant matching from the Linux Foundation work? <a id="MentorshipFAQs-HowdoesdiversitygrantmatchingfromtheLinuxFoundationwork?"></a>
-
-To encourage participation and support diversity initiatives, the Linux Foundation is offering $3,000 USD matching project stipends for the first 100 candidates selected for diversity mentorships. Diversity grant matching is only available to projects that are participating in CommunityBridge Funding and providing stipends for mentees. Linux Foundation projects participating in only CommunityBridge Mentorship are not eligible for matching, with the exception of the Linux Kernel. In order to be considered, candidates must first be accepted into a project’s mentorship program and then apply by emailing [mentorship@linuxfoundation.org](mailto:mentorship@linuxfoundation.org).
-
 ## Who can participate? <a id="MentorshipFAQs-Whocanparticipate?"></a>
 
 People looking for professional advancement in open source as well as students are welcome to apply to participate as mentees. Mentors must be approved or invited to participate by that project’s administrator. All applicants must meet the CommunityBridge Mentorship eligibility requirements outlined in the CommunityBridge Mentorship Guide.
