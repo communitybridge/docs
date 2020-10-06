@@ -6,7 +6,7 @@ Linux Foundation is a technology association of several companies that helps to 
 
 ### [Individual Dashboard \(My Profile\)](my-profile/)
 
-### [Crowdfunding](communitybridge/crowd-funding/)
+### [Funding](communitybridge/crowd-funding/)
 
 ### [Mentorship](communitybridge/mentorship/)
 
