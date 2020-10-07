@@ -10,7 +10,7 @@ Mentees and mentors can use these phases and timelines to gain an understanding 
 
 1. Participating open source project communities submit program proposals:
    * Call for proposals to participating project communities - 2-3 weeks
-   * Selected programs enrollment on CommunityBridge - 1 week
+   * Selected programs enrollment on Mentorship platform - 1 week
    * Mentors invitations/sign-up - 2 weeks
 2. Mentee Application Acceptance and Review:
    * Mentee application acceptance phase - 2-6 weeks
