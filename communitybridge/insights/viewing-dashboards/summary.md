@@ -7,7 +7,7 @@ By default, Bot commit is filtered, and can't be included for Summary dashboard.
 Summary provides a high-level metrics about each data source for which the project is configured. Following are activities for quick navigation:
 
 * Click Copy Short URL ![](../../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
-* Select a value from the drop down to quickly navigate to the respective section on Summary dashboard:
+* Select a value from the drop down to quickly navigate to the respective section on Summary dashboard: ![](../../../.gitbook/assets/summary-drop-down%20%281%29.png) 
   * [Source Control](summary.md#source-control)
   * [Pull Requests / Changesets](summary.md#pull-requests-changesets)
   * [Issue Management](summary.md#issue-management)
@@ -15,14 +15,15 @@ Summary provides a high-level metrics about each data source for which the proje
   * [Mailing List](summary.md#mailing-list)
   * [Ci/Cd](summary.md#ci-cd)
   * [Registry](summary.md#registry)
-  * [Documentation](summary.md#documentation)  ![](../../../.gitbook/assets/summary-drop-down.png)
+  * [Documentation](summary.md#documentation)
+  * [Earned Media](summary.md#earned-media)
 * Clicking sparklines ![](../../../.gitbook/assets/sparkly-lines.png)  opens a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
 * Clicking numbers on a data card opens the respective dashboard.  ![](../../../.gitbook/assets/click-for-dashboard.png) 
 * While navigating from top to bottom on Summary dashboard, click ![](../../../.gitbook/assets/summary-dashboard-up-arrow.png) on the down right corner to reach to the top of the page.
 
 ### **SOURCE CONTROL**
 
-**Source Control** shows overview analytics of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
+**Source Control** shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
 
 * Clicking **Go To Overview** and **View All** takes you to the respective table/chart/graph of [Commits &gt; Overview](source-control/git.md) page.
 
@@ -50,7 +51,7 @@ Mouse over a color in the doughnut chart to view company name and number of comm
 
 ### **PULL REQUESTS /** CHANGESETS
 
-Pull Requests/Changesets shows analytics of pull request information of GitHub repositories and/or information about changesets and patchsets per changeset for Gerrit.
+Pull Requests/Changesets shows analytic overview of pull request information of GitHub repositories and/or information about changesets and patchsets per changeset for Gerrit.
 
 {% hint style="info" %}
 Data is not available for a Git data source that is not configured for CommunityBridge Insights.
@@ -84,7 +85,7 @@ Data is not available for a Git data source that is not configured for Community
 
 ### **ISSUE MANAGEMENT**
 
-**Issue Management** shows analytics of issue management platforms, such as Jira, GitHub Issues, and Bugzilla.
+**Issue Management** shows analytic overview of issue management platforms used by a project, such as Jira, GitHub Issues, and Bugzilla.
 
 **Jira** shows total number issues that includes both open and closed issues, total number of submitters, number of open issues, average time in days the issues are open, and time in days for which a stacked area chart compares the number of issues and unique contributors per calendar period.
 
@@ -116,7 +117,7 @@ Following an example of Issue Management overview section for a project that use
 
 ### **Chat Room**
 
-**Chat Room** shows an overview analytics of Slack and RocketChat channels used by a project.
+**Chat Room** shows an analytic overview of Slack and RocketChat channels used by a project.
 
 **Slack** shows total number of messages, channels, participants, replies, and reactions over time. Clicking **Go To Overview** and **View All** under **Slack** takes you to the respective table/chart/graph of [Slack &gt; Overview](chat-room/slack.md#overview) section.
 
@@ -130,7 +131,7 @@ Following an example of Issue Management overview section for a project that use
 
 ### **Mailing List**
 
-**Mailing List** shows an overview analytics of email communication channels, such as Groups.io or Pipermail:
+**Mailing List** shows an analytic overview of email communication channels, such as Groups.io or Pipermail:
 
 **Groups.Io** shows total number of emails, groups, companies, authors, and average number of messages communicated over time.
 
@@ -144,7 +145,7 @@ Following an example of Issue Management overview section for a project that use
 
 ### **CI/CD**
 
-**CI/CD** shows an overview analytics of the number of total builds, jobs, failed builds, job categories, and average build duration in minutes. Clicking **Go To Overview** and **View All** under **CI/CD** takes you to the respective table/chart/graph of [Jenkins &gt; Overview](ci-cd/jenkins.md#overview) section.
+**CI/CD** shows an analytic overview of the number of total builds, jobs, failed builds, job categories, and average build duration in minutes. Clicking **Go To Overview** and **View All** under **CI/CD** takes you to the respective table/chart/graph of [Jenkins &gt; Overview](ci-cd/jenkins.md#overview) section.
 
 **Top 10 Jobs** lists the top ten jobs by name, number, and percentage.
 
@@ -164,11 +165,30 @@ Following an example of Issue Management overview section for a project that use
 
 ### **Documentation**
 
-**Confluence** shows an overview analytics of project's confluence pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages, and average number of editors per day.
+**Confluence** shows an analytic overview of project's confluence pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages, and average number of editors per day.
 
 **Top 10 Editors** lists the top ten individuals— who makes most number of edits/updates— by name, number of pages edited by the individual, and percentage of contribution out of the total document contribution by the community members.
 
 **Top 10 Companies** lists the top ten companies— that contribute most to the project— by name, total number of editions, and percentage.
 
 ![Documentation](../../../.gitbook/assets/documentation.png)
+
+### Earned Media
+
+**Earned Media** shows analytic overview of how many times your project is mentioned and they are shared on various platforms, such as Facebook, LinkedIn, Twitter, Reddit, Pinterest, and also on different media types, such as blog sites, and news publishing websites. Earned Media includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on within the Linux Foundation Insights platform.
+
+* Clicking sparklines opens a stacked bar graph that represents relevant data per calendar period.
+* Clicking the number beside the sparklines opens the respective dashboard.
+
+**Total Shares** shows how many times your project's search results are shared by consumers on different social media platforms. This also shows number of shares on individual social media platforms.
+
+**Top 10 Publishers** lists top ten media houses and blog sites that mention most about the project in the form of articles and blog posts. It includes the number and percentage of mentions about your project.
+
+**Share of Voice** shows a pie chart that displays a project's competitors 
+
+
+
+ 
+
+
 
