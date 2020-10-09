@@ -161,7 +161,7 @@
       * [Earned Media](communitybridge/insights/viewing-dashboards/earned-media/README.md)
         * [Content](communitybridge/insights/viewing-dashboards/earned-media/content.md)
         * [Mentions](communitybridge/insights/viewing-dashboards/earned-media/mentions.md)
-        * [Share Of Voice](communitybridge/insights/viewing-dashboards/earned-media/share-of-voice.md)
+        * [Share of Voice](communitybridge/insights/viewing-dashboards/earned-media/share-of-voice.md)
         * [SEO](communitybridge/insights/viewing-dashboards/earned-media/seo.md)
       * [Community Leader Board](communitybridge/insights/viewing-dashboards/community-leader-board/README.md)
         * [Active Community Leaderboard](communitybridge/insights/viewing-dashboards/community-leader-board/active-community-leaderboard.md)

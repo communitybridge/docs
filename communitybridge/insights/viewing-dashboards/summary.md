@@ -175,7 +175,7 @@ Following an example of Issue Management overview section for a project that use
 
 ### Earned Media
 
-**Earned Media** shows analytic overview of how many times your project is searched, mentioned, and shared on various platforms, such as Facebook, LinkedIn, Twitter, Reddit, Pinterest, and also on different media types, such as blog sites, and news publishing websites. Earned Media includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on.
+**Earned Media** shows analytic overview of how many times consumers \(unique users\) searched, mentioned, and shared project related articles or blogs  on different media platforms, starting from Facebook, Linked to blog sites and news publishing websites. This helps project administrators, companies and organizations to understand software development projects through quantitative analysis of social media activity, and processes. The data Earned Media includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on.
 
 * Clicking sparklines opens a stacked bar graph that represents relevant data per calendar period.
 * Clicking the number beside the sparklines opens the respective dashboard.
@@ -185,7 +185,7 @@ Following an example of Issue Management overview section for a project that use
 
 **Top 10 Publishers** lists top ten media houses and blog sites that mention most about the project in the form of articles and blog posts. It includes the number and percentage of mentions about your project.
 
-**Share of Voice** shows a doughnut chart that displays how many times the project and its competitors' search results are mentioned by consumers. Mouse over a color in the chart to see the number of mentions for a project out of the total mentions. For example, Linux Foundation is mentioned 4.88k times by consumers on different media platforms out of the total 6.52k times including its competitors' mentions as per the following data.
+**Share of Voice** shows a doughnut chart that displays how many times the project and its competitors' search results are mentioned by consumers \(unique users\). Mouse over a color in the chart to see the number of mentions for a project out of the total mentions. For example, Linux Foundation is mentioned 4.88k times by consumers on different media platforms out of the total 6.52k times including its competitors' mentions as per the following data.
 
 ![](../../../.gitbook/assets/share-of-voice-mouse-over.png)
 
