@@ -1,11 +1,11 @@
 # Get Reimbursed
 
-Beneficiaries submit their requests for project-related business expenses for reimbursement through Expensify. The reviews of the outgoing funds \(organization invoices, expenses paid, and so on\) occur in the following order:
+Beneficiaries submit their requests for project-related expenses for reimbursement through Expensify. The review of the submitted expenses occurs in the following order:
 
-1. The project administrator or event organizer validates and approves or rejects the expenses
-2. Linux Foundation personnel review, administer, and process all requests for expenditures to ensure oversight for use of the donated funds. Reported expenses must align to the specific expense policy and are controlled through the policy. For example, the policy might state a hotel price range that is acceptable for contributors or a per diem food allowance. The Linux Foundation approves or rejects the reimbursement.
+1. The project administrator or event organizer validates and approves or rejects the expenses.
+2. The Linux Foundation personnel reviews and processes all requests for expenditures to ensure the oversight of the funds and ensure that all reported expenses align with the appropriate expense policy. 
 
-All expense and claim payments appear in the project's public ledger \(transaction list\). Full transparency lets anyone see how funds are spent.
+Note: All expenses appear in the project's public ledger \(transaction list\) for full transparency. 
 
 * [Prepare for Reimbursement](get-reimbursed.md#GetReimbursed-PrepareforReimbursement)
 * [Set Up a Reimbursement Account and Create a Report](get-reimbursed.md#GetReimbursed-SetUpaReimbursementAccountandCreateaReport)
