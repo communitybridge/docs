@@ -3,7 +3,7 @@
 Beneficiaries submit their requests for project-related expenses for reimbursement through Expensify. The review of the submitted expenses occurs in the following order:
 
 1. The project administrator or event organizer validates and approves or rejects the expenses.
-2. The Linux Foundation personnel reviews and processes all requests for expenditures to ensure the oversight of the funds and ensure that all reported expenses align with the appropriate expense policy. 
+2. The Linux Foundation personnel reviews and processes all requests for expenditures to ensure the oversight of the funds and verify that all reported expenses align with the appropriate expense policy. 
 
 Note: All expenses appear in the project's public ledger \(transaction list\) for full transparency. 
 
