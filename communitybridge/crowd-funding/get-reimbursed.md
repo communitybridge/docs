@@ -15,7 +15,7 @@ Note: All expenses appear in the project's public ledger \(transaction list\) fo
 
 Consider the following financial aspects of reimbursement before you make a request:
 
-* CommunityBridge Funding uses Expensify, a third-party expense management and payment application. Expensify is an online service application that lets you link your reimbursement account and generate expense reports. After an expense report or invoice is reimbursed through that application, it is synchronized with CommunityBridge to provide full transparency.
+* CommunityBridge Funding uses Expensify, a third-party expense management and payment application that allows to create expense reports. After an expense report or invoice is reimbursed through that application, it is synchronized with CommunityBridge ledger as well to maintain full transparency.
 
 Have these items handy before you begin:
 
