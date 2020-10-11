@@ -55,7 +55,7 @@ Depending on your location:
 
 ## Submit an Expense Report: <a id="GetReimbursed-SubmitanExpenseReport:"></a>
 
-1. Follow the [Expensify procedures](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close) for creating and submitting an expense report. After you submit your report, the approver receives an email notification that your report requires attention. The approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
+1. Follow these [steps in Expensify ](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)to create and submit an expense report. After you submit your report, the approver receives an email notification that your report requires attention. The approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
 2.  Upon approval notification, go to your account to access your reimbursement money. It may take up to 30 business days for the funds to be deposited to your bank account.\*
 
 \*Wire Transfer recipients will get the funds deposited to their account directly from Linux Foundation.
