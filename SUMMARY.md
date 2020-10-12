@@ -199,7 +199,7 @@
     * [Date Range](communitybridge/security/data-range.md)
     * [Add a Project to LFX Vulnerability Detection](communitybridge/security/add-a-project-to-communitybridge-vulnerability-detection/README.md)
       * [Add a GitHub/Git Project to Vulnerability Detection](communitybridge/security/add-a-project-to-communitybridge-vulnerability-detection/add-a-github-project-to-vulnerability-detection.md)
-    * [Open CommunityBridge Vulnerability Detection](communitybridge/security/open-communitybridge-vulnerability-detection.md)
+    * [Open LFX Vulnerability Detection](communitybridge/security/open-communitybridge-vulnerability-detection.md)
     * [Get a Vulnerability Status Overview](communitybridge/security/get-a-vulnerability-status-overview.md)
     * [Investigate and Remediate Vulnerabilities](communitybridge/security/investigate-and-remediate-vulnerabilities.md)
     * [Investigate Dependencies in the Application Dependency Tree](communitybridge/security/investigate-dependencies-in-the-application-dependency-tree.md)
