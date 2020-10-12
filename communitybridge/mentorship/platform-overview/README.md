@@ -4,7 +4,7 @@ The CommunityBridge Mentorship platform facilitates a structured remote learning
 
 **To Get started:**
 
-1. Navigate to to [CommunityBridge Mentorship](https://people.communitybridge.org/) dashboard:
+1. Navigate to to [Mentorship](https://people.communitybridge.org/) platform dashboard:
    * [Mentorships](./#DashboardOverview-Projects) tab includes the mentorships enrolled on the platform, categorized by projects accepting mentee applications, as well as in progress and completed mentorships.
    * [Mentors](./#DashboardOverview-Mentors) tab includes profiles all the participating mentors.
    * [Mentees](../mentees/) tab includes profiles of currently participating and graduated mentees.
