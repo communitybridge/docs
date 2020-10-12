@@ -62,7 +62,7 @@
   * [Mentorship](communitybridge/mentorship/README.md)
     * [Sample Timelines](communitybridge/mentorship/sample-mentorship-program-timelines.md)
     * [Platform Overview](communitybridge/mentorship/platform-overview/README.md)
-      * [View Projects Details](communitybridge/mentorship/platform-overview/view-projects-details.md)
+      * [View Mentorship Program Details](communitybridge/mentorship/platform-overview/view-projects-details.md)
       * [View Mentor/Mentee Profile](communitybridge/mentorship/platform-overview/view-a-mentor-or-mentee-profile.md)
       * [Toggle Between Mentorship and Funding](communitybridge/mentorship/platform-overview/toggle-between-mentorship-and-funding.md)
     * [Administrators](communitybridge/mentorship/administrators/README.md)
