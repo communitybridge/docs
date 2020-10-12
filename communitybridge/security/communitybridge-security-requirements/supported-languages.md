@@ -1,6 +1,6 @@
 # Supported Languages
 
-CommunityBridge Security provides dependency and license support for the following programming languages:
+LFX Security provides dependency and license support for the following programming languages:
 
 * Golang
 * Java
