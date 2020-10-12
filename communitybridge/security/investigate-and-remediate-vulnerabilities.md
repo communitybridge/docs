@@ -1,8 +1,8 @@
 # Investigate and Remediate Vulnerabilities
 
-Vulnerabilities in project code can cause a range of problems for your project and the developers who use it. CommunityBridge Security shows vulnerabilities in your repositories and helps you to remediate risks with automated updates and patches. 
+Vulnerabilities in project code can cause a range of problems for your project and the developers who use it. LFX Security shows vulnerabilities in your repositories and helps you to remediate risks with automated updates and patches. 
 
-For each repository, CommunityBridge Security maps the dependencies and correlates them with the vulnerability database. You can investigate and remediate certain types of vulnerabilities in your Git repository. For example, an injection vulnerability means your project does not guard against code being injected in your system to extract, damage, or destroy data. Investigate the issue details to find out how to remediate the vulnerability if possible.
+For each repository, LFX Security maps the dependencies and correlates them with the vulnerability database. You can investigate and remediate certain types of vulnerabilities in your Git repository. For example, an injection vulnerability means your project does not guard against code being injected in your system to extract, damage, or destroy data. Investigate the issue details to find out how to remediate the vulnerability if possible.
 
 If possible, address a vulnerability by upgrading to a vulnerability-free version of the package you are using. If you cannot upgrade, because no sufficient direct upgrade is available or because the upgrade includes breaking changes, another option is to apply a patch. A patch changes the locally installed package file to fix the vulnerability. If an upgrade or patch is unavailable, assess the issue and weigh risk against effort. If the risk is high, consider removing the dependency.
 
@@ -46,7 +46,7 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 ### Download Issues
 
-You have an option to download the issues related to your repository. The downloaded CSV file contains information such as:
+You have an option to download the CSV file that contains issues related to your repository. The downloaded CSV file contains information such as:
 
 * Repository ID
 * Snyk ID
@@ -57,7 +57,7 @@ You have an option to download the issues related to your repository. The downlo
 
 Along with the above listed information, it also contains other generic information. 
 
-You can download the issues related to all repositories, for the selected repositories and for the required date range.  
+You can download the issues related to all repositories or for the selected repositories and for the required date range.  
 
 To download the issues CSV file,  perform the following:
 
