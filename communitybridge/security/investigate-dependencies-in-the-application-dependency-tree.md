@@ -1,13 +1,13 @@
 # Investigate Dependencies in the Application Dependency Tree
 
-CommunityBridge Security looks for vulnerabilities in your open-source dependencies and identifies the vulnerabilities. The Dependency Tree dashboard provides detailed information about any dependencies in a repository and maps the full application dependency tree. You can view details about a specific dependency and see which repositories are using it. The way the repository uses a dependency affects the problem severity level.
+LFX Security looks for vulnerabilities in your open-source dependencies and identifies the vulnerabilities. The Dependency Tree dashboard provides detailed information about any dependencies in a repository and maps the full application dependency tree. You can view details about a specific dependency and see which repositories are using it. The way the repository uses a dependency affects the problem severity level.
 
 Vulnerabilities can be caused by either direct or deep dependencies. 
 
 * A direct dependency is a package that you have included in your own repository.
 * A deep \(indirect\) dependency is a package that you are not using directly, but one that is used by one of your direct dependencies. For example, if your application is using package A, and package A is using package B, then your application is indirectly depending on package B. And if package B is vulnerable, your project is vulnerable.
 
-As an open-source developer, you should understand the direct and indirect dependencies your repositories and projects use, including any security flaws that might exist in the dependency tree. CommunityBridge Security determines all the paths through the dependency tree in which a vulnerable dependency can be reached, and identifies the vulnerability.
+As an open-source developer, you should understand the direct and indirect dependencies your repositories and projects use, including any security flaws that might exist in the dependency tree. LFX Security determines all the paths through the dependency tree in which a vulnerable dependency can be reached, and identifies the vulnerability.
 
 **Do these steps:**
 
@@ -37,7 +37,7 @@ You can also check the vulnerability details only for a particular repository.
 
 To check the vulnerability details only, perform the following:
 
-1.Click Dependency Tree and select Vulnerabilities Only. 
+1.Click **Dependency Tree** and select **Vulnerabilities Only**. 
 
 ![Vulnerabilities Only](../../.gitbook/assets/vul_only.png)
 
