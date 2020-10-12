@@ -5,17 +5,17 @@ The CommunityBridge Mentorship platform facilitates a structured remote learning
 **To Get started:**
 
 1. Navigate to the [Mentorship](https://people.communitybridge.org/) platform dashboard:
-   * [Mentorships](./#DashboardOverview-Projects) tab includes the mentorships enrolled on the platform, categorized by projects accepting mentee applications, as well as in progress and completed mentorships.
+   * [Mentorships](./#DashboardOverview-Projects) tab includes the mentorships programs enrolled on the platform, categorized by programs accepting mentee applications, in progress and completed.
    * [Mentors](./#DashboardOverview-Mentors) tab includes profiles all the participating mentors.
    * [Mentees](../mentees/) tab includes profiles of currently participating and graduated mentees.
-2. To view more information click on project logo navigate to the project dashboard to: 
-   * [View Mentorship project details](view-projects-details.md)
-   * [View Mentor or Mentee profiles](view-a-mentor-or-mentee-profile.md)
+2. To view more information about the program click on the program name to:
+   * [View mentorship program details](view-projects-details.md)
+   * [View participating](view-a-mentor-or-mentee-profile.md)[ mentors and mentees and navigate to their profiles ](view-a-mentor-or-mentee-profile.md)
    * [Toggle between Mentorship and Funding](../../crowd-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
 3. To participate:
-   * Administrators – [enroll your mentorship project](https://app.gitbook.com/@lfdocs/s/docs/communitybridge/mentorship/administrators/enroll-your-project)
-   * Mentees – [create a profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and [apply to a project](../mentees/become-a-mentee/apply-to-a-project.md)
-   * Mentors – [create a profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and [request to be added to a project](../mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project)
+   * Administrators – [enroll your mentorship program ](https://app.gitbook.com/@lfdocs/s/docs/communitybridge/mentorship/administrators/enroll-your-project)
+   * Mentees – [create a profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and [apply to a program](../mentees/become-a-mentee/apply-to-a-project.md)
+   * Mentors – [create a profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and [request to be added to a program](../mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project)
 
 ## Mentorships Tab <a id="DashboardOverview-Projects"></a>
 
@@ -23,7 +23,7 @@ The CommunityBridge Mentorship platform facilitates a structured remote learning
 
 ![Mentorship Card - Project Statistics](../../../.gitbook/assets/mentorships2.png)
 
-Each project card contains the following information:
+Each Mentorship Program card contains the following information:
 
 * **Project name and logo** - click on the project title/logo to navigate to project details page
 * **Terms** - current, future or past mentorship project terms 
