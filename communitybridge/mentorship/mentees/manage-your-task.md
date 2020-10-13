@@ -1,8 +1,8 @@
-# Manage your Task
+# Manage Your Tasks
 
 As a mentee, you receive task assignments from your mentor. When your mentor approves the completion of all your tasks, you graduate. Your mentorship is intended to help you begin contributing to an open source project. Therefore, contribute all your work to the project \(such as patches, documentation, tests, and so on\) according to its open source licensing and contribution policies.
 
-**Do these steps:**
+**Follow these steps:**
 
 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
 2. Navigate to **My Account &gt;** **My Tasks** to view your task assignments.

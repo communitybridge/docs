@@ -1,47 +1,32 @@
-# Manage Your Mentorship Account
+# Manage Your Account
 
-Your CommunityBridge Mentorship account lets you manage your Linux Foundation account, and Mentorship profile, projects, and tasks. Based on your role, some or all options are available.
+To manage your account, [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) platform and select one of the **options** from the drop-down list under My Account menu icon.   
+ ![](../../../.gitbook/assets/my-account.png) 
 
-**Follow these steps:**
-
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/) 
-2. Navigate to your user account and select an **option** from the drop-down list:  ![](../../../.gitbook/assets/my-account.png) 
-   * [My Profile](manage-your-mentorship-account.md#my-profile)
-   * [My Projects](manage-your-mentorship-account.md#my-projects)
-   * [My Tasks](manage-your-mentorship-account.md#my-tasks)
-   * [Log Out](manage-your-mentorship-account.md#log-out)
+* [My Profile](manage-your-mentorship-account.md#my-profile)
+* [My Projects](manage-your-mentorship-account.md#my-projects)
+* [My Tasks](manage-your-mentorship-account.md#my-tasks)
+* [Log Out](manage-your-mentorship-account.md#log-out)
 
 ## My Profile
 
-**My Profile** lets you manage your Linux Foundation identity account and your CommunityBridge profile.‌
-
-* **Manage LFID** opens your Linux Foundation account details, and lets you edit settings such as adding an avatar or more email addresses. Click **Manage LFID** to sign in and open your account details. After you edit your account, click **Save**.
-
-### Profiles <a id="profiles"></a>
-
-‌**Profiles** lets you edit your Mentorship profile details.‌
-
-**Follow these steps:**‌
-
-1. Mouse over a profile and click **Edit Profile**. A Profile form appears—the form shows the values you chose when you created your profile or last updated it.
-2. Edit the profile and click **Submit**.
-
-‌Following is an example:                   ![](https://docs.linuxfoundation.org/download/attachments/4823275/Mentorship-Mentee-Edit-Profile.png?version=1&modificationDate=1574933201052&api=v2)
-
-![](../../../.gitbook/assets/edit-mentee-profile.png)
+**My Profile** option takes you to [Individual Dashboard \(MyProfile\)](https://myprofile.linuxfoundation.org/), a self-service dashboard where you can edit your contact information, change your password, keep track of your emails and community identities, and much more. 
 
 ## My Projects
 
-My Projects shows the project names based on your role in those projects:
+My Projects section contains the cards of all mentorship programs to which you applied with the acceptance statuses, and if applicable, one that you're participating in. 
 
-* **Projects for which I am a Mentor**: Shows the project names for which you are a mentor.
-* **Projects for which I am a Mentee**: Shows the project names for which you are a mentee.
+In this section you can also edit and update your mentee profile. 
+
+![](../../../.gitbook/assets/edit-mentee-profile.png)
 
 ## My Tasks <a id="my-tasks"></a>
 
-‌Shows tasks that are assigned to you under **Tasks assigned to me**. You can change the status of a particular task by selecting an option from drop-down list under **Status**.
+‌This section contains your mentorship program tasks. You can change the status of a particular task by selecting an option from drop-down list under **Status**.
 
 ## Log Out
 
 Lets you log out of the CommunityBridge mentorship platform.
+
+###                    ![](https://docs.linuxfoundation.org/download/attachments/4823275/Mentorship-Mentee-Edit-Profile.png?version=1&modificationDate=1574933201052&api=v2) <a id="profiles"></a>
 

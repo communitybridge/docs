@@ -4,9 +4,10 @@
 
 Mentees can grow their career by diving right into the open source community to learn  from top project contributors. They can build expertise with hands-on experience and free access to premium Linux Foundation training.
 
-### Eligibility Rules <a id="Mentees-EligibilityRules"></a>
+{% hint style="info" %}
+**Eligibility Rules** 
 
-The following eligibility rules apply to program applicants. You must:
+The following eligibility rules apply to all mentee applicants. 
 
 * Be at least 18 years old by the time the mentorship program starts.
 * Not be a prior or an active participant in another Linux Foundation mentorship program.
@@ -16,8 +17,9 @@ The following eligibility rules apply to program applicants. You must:
 * Not be subject to any existing obligations to third parties \(such as contractual obligations to an employer\) that would restrict or prohibit your participation in a mentorship program.
 * Meet all criteria set by the program to which a mentees is applying, i.e. any custom prerequisites and requirements.
 * Not be a maintainer, contributor, etc.. involved with the open source project that offers a mentorship program. 
+{% endhint %}
 
-NOTE: Mentees are not employed by the Linux Foundation. The Linux Foundation’s  employment opportunities are available at [https://www.linuxfoundation.org/about/careers](https://www.linuxfoundation.org/about/careers/).
+**NOTE:** Mentees are not employed by the Linux Foundation. The Linux Foundation’s  employment opportunities are available at [https://www.linuxfoundation.org/about/careers](https://www.linuxfoundation.org/about/careers/).
 
 ### Mentorship Stipends
 
