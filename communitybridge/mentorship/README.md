@@ -14,7 +14,7 @@ You can participate in the Linux Foundation Mentorship program as a program admi
 
 [**Mentor**](mentors/): Mentors volunteer their time to work with mentees during the mentorship program. You will need to [create a mentor profile](mentors/become-a-mentor/create-a-mentor-profile.md) on the Mentorship platform before you can request to be a mentor for The Linux Foundation Mentorship program. 
 
-[**Mentee**](mentees/): Mentees need to complete [become a mentee]() form in order to apply to The Linux Foundation mentorship programs. As a mentee you will have an opportunity to contribute to an open source project while working under the guidance of an experienced mentor who's an active contributor to the project and open-source community.
+[**Mentee**](mentees/): Mentees [need to create a mentee ](https://docs.linuxfoundation.org/docs/communitybridge/mentorship/mentees/create-a-mentee-profile)profile in order to apply to The Linux Foundation mentorship programs. As a mentee you will have an opportunity to contribute to an open source project while working under the guidance of an experienced mentor who's an active contributor to the project and open-source community.
 
 ## How does the program work? <a id="CommunityBridgeMentorship-HowDoesitWork?"></a>
 
