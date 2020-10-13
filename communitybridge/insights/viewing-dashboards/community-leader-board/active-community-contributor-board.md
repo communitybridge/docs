@@ -1,4 +1,4 @@
-# Active Community Leaderboard
+# Active Community Contributor board
 
 Active Community Leaderboard displays an aggregated data of individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
 

@@ -164,7 +164,7 @@
         * [Share of Voice](communitybridge/insights/viewing-dashboards/earned-media/share-of-voice.md)
         * [SEO](communitybridge/insights/viewing-dashboards/earned-media/seo.md)
       * [Community Leader Board](communitybridge/insights/viewing-dashboards/community-leader-board/README.md)
-        * [Active Community Leaderboard](communitybridge/insights/viewing-dashboards/community-leader-board/active-community-leaderboard.md)
+        * [Active Community Contributor board](communitybridge/insights/viewing-dashboards/community-leader-board/active-community-contributor-board.md)
     * [Filtering Data](communitybridge/insights/filtering-data/README.md)
       * [Select Time Range](communitybridge/insights/filtering-data/select-time-range.md)
       * [Add and Manage Data Filters](communitybridge/insights/filtering-data/add-and-manage-data-filters.md)

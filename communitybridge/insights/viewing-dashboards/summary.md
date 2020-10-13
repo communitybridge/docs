@@ -11,10 +11,10 @@ Summary provides a high-level metrics about each data source for which the proje
   * [Source Control](summary.md#source-control)
   * [Pull Requests / Changesets](summary.md#pull-requests-changesets)
   * [Issue Management](summary.md#issue-management)
+  * CI/CD
+  * [Registry](summary.md#registry)
   * [Chat Room](summary.md#chat-room)
   * [Mailing List](summary.md#mailing-list)
-  * [Ci/Cd](summary.md#ci-cd)
-  * [Registry](summary.md#registry)
   * [Documentation](summary.md#documentation)
   * [Earned Media](summary.md#earned-media)
 * Clicking sparklines ![](../../../.gitbook/assets/sparkly-lines.png)  opens a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
@@ -23,9 +23,9 @@ Summary provides a high-level metrics about each data source for which the proje
 
 ### **SOURCE CONTROL**
 
-**Source Control** shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
+[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
 
-* Clicking **Go To Overview** and **View All** takes you to the respective table/chart/graph of [Commits &gt; Overview](source-control/git.md) page.
+* Clicking **Go To Overview** and **View All** takes you to the respective dashboard of [Commits &gt; Overview](source-control/git.md) page.
 
 ![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
 
@@ -37,9 +37,9 @@ Summary provides a high-level metrics about each data source for which the proje
 * **No Of Sub Projects** represents total number of sub projects \(added git repositories\) under a project.
 * **Repositories** represents total number of repositories of the project. This includes the number of repositories of sub projects.
 
-**Top 10 Contributors** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community. Click **View All** to navigate to the [Commits &gt; Overview](source-control/git.md) page.
+**Top 10 Contributors By Commits** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added and modified, number and percentage of commits. Click **View All** to navigate to the [Commits &gt; Overview](source-control/git.md) page.
 
-**Top 10 Companies**  lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+**Top 10 Companies By Commits shows** lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added and modified, number and percentage of commits.
 
 Mouse over a color in the doughnut chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:  
  ![](../../../.gitbook/assets/show-and-exclude-company-data.png) 
@@ -51,10 +51,10 @@ Mouse over a color in the doughnut chart to view company name and number of comm
 
 ### **PULL REQUESTS /** CHANGESETS
 
-Pull Requests/Changesets shows analytic overview of pull request information of GitHub repositories and/or information about changesets and patchsets per changeset for Gerrit.
+[Pull Requests/Changesets](pull-request-management/) shows analytic overview of pull request information of GitHub repositories and/or information about changesets and patchsets per changeset for Gerrit.
 
 {% hint style="info" %}
-Data is not available for a Git data source that is not configured for CommunityBridge Insights.
+Data is not available for a Git data source that is not configured for  Insights.
 {% endhint %}
 
 **Gerrit** shows total number of changesets \(both open and closed\), number of open changestes, average time in hours to merge changesets, average time in days for first review of changeset, and total number of approved changesets for a selected time range.
@@ -71,9 +71,9 @@ Data is not available for a Git data source that is not configured for Community
 
 
 
-**Top 10 Contributors** lists the top ten individuals—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+**Top 10 Contributors By PRs** \(for GitHub\) ****and **Top 10 Contributors By Changesets** \(for Gerrit\) ****lists the top ten individuals—that contribute most to the project— by name, total number of pull requests or changestes, and percentage of commits out of the total number of commits by the community.
 
-**Top 10 Companies**  lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
+**Top 10 Companies By PRs** \(for GitHub\) ****and **Top 10 Companies By Changesets** \(for Gerrit\)  ****lists the top ten companies—that contribute most to the project— by name, total number of lines of codes changed that includes lines of codes added plus modified, number of commits, and percentage of commits out of the total number of commits by the community.
 
 * Mouse over a color in the doughnut chart to view company name and number of commits made by the company. 
 * Click a company name to exclude company data. Click again to add the company data. Following is an example:  ![](../../../.gitbook/assets/top-10-companies.png)

@@ -12,7 +12,7 @@ The Sign In window appears.
 3. Select a project for which you are granted access to use Affiliation Management.
 
 {% hint style="info" %}
-**Affiliation Management** appears in the menu, next to **Select** **Time Range**. If you do not have access, Affiliation Management does not appear.
+**Identities & Affiliations** appears in the menu, next to **Community Leaderboard**. If you do not have access, Identities & Affiliations does not appear.
 {% endhint %}
 
 ![](../../../.gitbook/assets/affiliation-management.png)
