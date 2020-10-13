@@ -78,7 +78,7 @@
       * [Manage Your Account](communitybridge/mentorship/administrators/manage-your-mentorship-account.md)
     * [Mentees](communitybridge/mentorship/mentees/README.md)
       * [Create a Mentee Profile](communitybridge/mentorship/mentees/create-a-mentee-profile.md)
-      * [Apply to a Project](communitybridge/mentorship/mentees/apply-to-a-project.md)
+      * [Apply to a Mentorship Program](communitybridge/mentorship/mentees/apply-to-a-project.md)
       * [View Status of your Application](communitybridge/mentorship/mentees/view-status-of-your-application.md)
       * [Manage Your Tasks](communitybridge/mentorship/mentees/manage-your-task.md)
       * [Manage Your Account](communitybridge/mentorship/mentees/manage-your-mentorship-account.md)
