@@ -1,6 +1,6 @@
 # Toggle Between Mentorship and Funding
 
-The mentorship project is visible both Mentorship and Funding for the following reason: 
+Each mentorship program is visible on both Mentorship and Funding for the following reason: 
 
 * **Mentorship Program Offering**  By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source contributors as a segue to get internship and job opportunities after successful completion of the mentorship program. 
 * **Financial Information**   The Funding platform displays the mentorship program's financial information, including the total amount of funds donated to the program and the amount of stipends paid out 
