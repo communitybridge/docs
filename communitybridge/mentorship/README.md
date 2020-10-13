@@ -1,6 +1,8 @@
 # Mentorship
 
-The Linux Foundation Mentorship Program helps open-source projects grow their communities by cultivating mentoring relationships with talented and committed novice developers. By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source contributors as a segue to get internship and job opportunities after successful completion of the mentorship program. 
+Mentorship programs help projects grow their communities by cultivating relationships between experienced mentors and a diverse, talented, and committed group of mentees. The goal of this program is to connect new talent with open source experts and potential employers.
+
+By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source contributors as a segue to get internship and job opportunities after successful completion of the mentorship program. 
 
 The Mentorship platform was created by the Linux Foundation to make it easy for projects to administer their mentorship programs by connecting mentorship candidates with projects and mentors.
 
@@ -12,7 +14,7 @@ You can participate in the Linux Foundation Mentorship program as a program admi
 
 [**Mentor**](mentors/): Mentors volunteer their time to work with mentees during the mentorship program. You will need to [create a mentor profile](mentors/become-a-mentor/create-a-mentor-profile.md) on the Mentorship platform before you can request to be a mentor for The Linux Foundation Mentorship program. 
 
-[**Mentee**](mentees/): Mentees need to complete [become a mentee](mentees/become-a-mentee/) form in order to apply to The Linux Foundation mentorship programs. As a mentee you will have an opportunity to contribute to an open source project while working under the guidance of an experienced mentor who's an active contributor to the project and open-source community.
+[**Mentee**](mentees/): Mentees need to complete [become a mentee]() form in order to apply to The Linux Foundation mentorship programs. As a mentee you will have an opportunity to contribute to an open source project while working under the guidance of an experienced mentor who's an active contributor to the project and open-source community.
 
 ## How does the program work? <a id="CommunityBridgeMentorship-HowDoesitWork?"></a>
 

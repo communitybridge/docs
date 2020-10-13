@@ -13,11 +13,11 @@ Keep these items ready before you begin:
 
 **Follow these steps:**
 
-1. [Sign in](../../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
+1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
 
 2. Click **Become a Mentee** on the top menu.
 
-![](../../../../.gitbook/assets/become-a-mentee.png)
+![](../../../.gitbook/assets/become-a-mentee.png)
 
 3. Click an answer to the questions that appear **Eligibility Requirement** window.
 
@@ -52,7 +52,7 @@ The Linux Foundation administrator reviews your application and approves or reje
 
 **See:** 
 
-[Manage Your Mentorship Account](../manage-your-mentorship-account.md)
+[Manage Your Mentorship Account](manage-your-mentorship-account.md)
 
 ## User Information <a id="CreateaMenteeProfile-MenteeProfile"></a>
 
@@ -64,19 +64,19 @@ Some fields are pre-filled with your Linux Foundation account values. Use an ava
 
 Introduce yourself to project owners and inform them why you would excel as a mentee. Below is the section:
 
-![Introduction](../../../../.gitbook/assets/mentee-introduction.png)
+![Introduction](../../../.gitbook/assets/mentee-introduction.png)
 
 ## Mailing Address <a id="CreateaMenteeProfile-MailingAddress"></a>
 
 Stipend amounts may differ depending on the jurisdiction in which you are located.
 
-![Mentee Mailing Address](../../../../.gitbook/assets/7418798.jpg)
+![Mentee Mailing Address](../../../.gitbook/assets/7418798.jpg)
 
 ## External Profile Links <a id="CreateaMenteeProfile-ExternalProfileLinks"></a>
 
 Showcase your experience by providing links to your external profiles pages, and upload your resume file. Mentee resumes can be shared with mentors during the application process. Resumes of Mentorship program graduates may be shared with prospective employers who have registered in CommunityBridge and been approved by the Linux Foundation. Resumes can also be shared with project administrators.
 
-![External Profile Links](../../../../.gitbook/assets/7418797.png)
+![External Profile Links](../../../.gitbook/assets/7418797.png)
 
 ## Skills <a id="CreateaMenteeProfile-Skills"></a>
 
@@ -91,5 +91,5 @@ Select the check boxes to enable the drop-down list from which you can chose a v
 
 You must select the check box to submit the application.
 
-![](../../../../.gitbook/assets/7418794.jpg)
+![](../../../.gitbook/assets/7418794.jpg)
 

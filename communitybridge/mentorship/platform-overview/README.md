@@ -14,7 +14,7 @@ The CommunityBridge Mentorship platform facilitates a structured remote learning
    * [Toggle between Mentorship and Funding](../../crowd-funding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
 3. To participate:
    * Administrators – [enroll your mentorship program ](https://app.gitbook.com/@lfdocs/s/docs/communitybridge/mentorship/administrators/enroll-your-project)
-   * Mentees – [create a profile](../mentees/become-a-mentee/create-a-mentee-profile.md) and [apply to a program](../mentees/become-a-mentee/apply-to-a-project.md)
+   * Mentees – [create a profile](../mentees/create-a-mentee-profile.md) and [apply to a program](../mentees/apply-to-a-project.md)
    * Mentors – [create a profile](../mentors/become-a-mentor/create-a-mentor-profile.md) and [request to be added to a program](../mentors/become-a-mentor/apply-to-or-remove-your-application-from-a-project.md#apply-to-a-project)
 
 ## Mentorships Tab <a id="DashboardOverview-Projects"></a>
@@ -28,7 +28,7 @@ Each Mentorship Program card contains the following information:
 * **Project name and logo** - click on the project title/logo to navigate to project details page
 * **Terms** - current, future or past mentorship project terms 
 * **Required Skills** - technologies needed for mentees to have to apply to the project
-* **Apply -** click on the CTA to [apply](../mentees/become-a-mentee/apply-to-a-project.md) to the project
+* **Apply -** click on the CTA to [apply](../mentees/apply-to-a-project.md) to the project
 * **Applications Closed** is shown when project no longer accepts mentee applications
 * **View Projects Statistics** - click to donate to a project and view the following additional project details:
   * **Mentors** - current project mentors

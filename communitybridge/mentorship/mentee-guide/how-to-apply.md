@@ -24,7 +24,7 @@ Make sure to have these materials ready before you proceed to submit your applic
 
 **Step 4: Create Mentee Profile**
 
-By creating a mentee profile, you actually upload a profile with all the necessary information on Linux Foundation database. So, when you apply for multiple projects, you don’t have to provide information each time you apply for multiple projects; with a single click, you will be able to apply to multiple projects. Go to [CommunityBridge](https://people.communitybridge.org/), and create a mentee profile as described [here](../mentees/become-a-mentee/create-a-mentee-profile.md).
+By creating a mentee profile, you actually upload a profile with all the necessary information on Linux Foundation database. So, when you apply for multiple projects, you don’t have to provide information each time you apply for multiple projects; with a single click, you will be able to apply to multiple projects. Go to [CommunityBridge](https://people.communitybridge.org/), and create a mentee profile as described [here](../mentees/create-a-mentee-profile.md).
 
 **Step 5: Discover Mentorship Project**
 

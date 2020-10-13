@@ -4,11 +4,11 @@ As a mentee, you can get the opportunity to engage in an open source project und
 
 **Follow these steps:**
 
-1.  [Sign in](../../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.dev.platform.linuxfoundation.org/).
+1.  [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.dev.platform.linuxfoundation.org/).
 
 2. Click **Become a Mentee** on the top menu.
 
-![](../../../../.gitbook/assets/become-a-mentee.png)
+![](../../../.gitbook/assets/become-a-mentee.png)
 
 {% hint style="info" %}
 * If you do not have a profile, a Mentee Application appears. Create a profile, as described in [Create a Mentee Profile](create-a-mentee-profile.md).
@@ -18,7 +18,7 @@ As a mentee, you can get the opportunity to engage in an open source project und
 3. Click **Apply** on a project card of interest.  
 On a project card, click View Project Statistics to view related information for a project.
 
-![Apply to Project](../../../../.gitbook/assets/apply-to-a-project.png)
+![Apply to Project](../../../.gitbook/assets/apply-to-a-project.png)
 
 {% hint style="warning" %}
 **Important:**
@@ -29,10 +29,10 @@ On a project card, click View Project Statistics to view related information for
 
 A Thank you for your application! message informs you that your application is received, and you will need to complete tasks as part of your application process.
 
-![](../../../../.gitbook/assets/mentee-applied.png)
+![](../../../.gitbook/assets/mentee-applied.png)
 
 You receive an email from CommunityBridge Team informing you that your application is received. 
 
-* After you apply, your application is in **Pending** state until the project admin changes the status of your application. For details, see [View Status of your Application](../view-status-of-your-application.md)
+* After you apply, your application is in **Pending** state until the project admin changes the status of your application. For details, see [View Status of your Application](view-status-of-your-application.md)
 * You must complete the tasks that are assigned to you to graduate from Mentorship program.
 
