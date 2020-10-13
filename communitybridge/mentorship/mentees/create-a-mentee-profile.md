@@ -1,19 +1,17 @@
 # Create a Mentee Profile
 
-You can create a profile so that Mentorship participants \(project administrators, mentors, and companies\) can see information about you and your skills. Some of the information in your profile is only available to Linux Foundation administration.
-
 {% hint style="info" %}
 Keep these items ready before you begin:
 
 * An image file for your avatar in JPG, PNG, SVG format with a maximum size of 2 MB
-* Your LinkedIn profile web address
-* Your GitHub profile web address
+* Your LinkedIn profile URL
+* Your GitHub profile URL
 * Your resume in a PDF, DOC, or DOCX format
 {% endhint %}
 
 **Follow these steps:**
 
-1. [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and click on Become a **Become a Mentee** menu item.
+1. [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and select **Become a Mentee** menu item.
 
 ![](../../../.gitbook/assets/become-a-mentee.png)
 
@@ -23,7 +21,7 @@ Keep these items ready before you begin:
 * Are you eligible to work in the country you reside in for the duration of the mentorship?
 * Please select "No" to confirm that you do not have other mentee profile\(s\) on the Linux Foundation Mentorship platform and are not participating in other Linux Foundation mentorship project\(s\). Doing so will disqualify you from the program.
 
-4. Complete the following sections of the form:
+4. Complete the following sections of Become a Mentee form:
 
 * [User Information](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
 * [Introduction](create-a-mentee-profile.md#CreateaMenteeProfile-Introduction)
@@ -47,13 +45,13 @@ Your name and email fields are auto-populated from your Linux Foundation account
 
 ## Introduction <a id="CreateaMenteeProfile-Introduction"></a>
 
-Introduce yourself to project owners and inform them why you would excel as a mentee. Below is the section:
+Introduce yourself by answering the questions required to complete this section. 
 
 ![Introduction](../../../.gitbook/assets/mentee-introduction.png)
 
 ## Mailing Address <a id="CreateaMenteeProfile-MailingAddress"></a>
 
-Stipend amounts may differ depending on the jurisdiction in which you are located.
+Provide a mailing address. 
 
 ![Mentee Mailing Address](../../../.gitbook/assets/7418798.jpg)
 
@@ -65,7 +63,7 @@ Provide links to your external profiles and upload your resume file. Mentee resu
 
 ## Skills <a id="CreateaMenteeProfile-Skills"></a>
 
-Click in the **Skill Name** fields, select a skill, and click **+Add skill** to add your current skills and skills that you want to improve.
+Click on **+Add skill** CTA to add your current skills and skills that you want to improve. There are important for the admin and mentors to determine if you're a good fit fo the program. 
 
 ## Demographics <a id="CreateaMenteeProfile-Demographics"></a>
 
