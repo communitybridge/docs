@@ -1,18 +1,16 @@
 # Toggle Between Mentorship and Funding
 
-The mentorship project is visible on Mentorship as well as Funding platforms for the following purposes:
+The mentorship project is visible both Mentorship and Funding for the following reason: 
 
-* **To Manage the Mentorship program** The Mentorship platform offers learning opportunities for aspiring open source software contributors. Mentors are matched with mentees who have the specific skills your project is looking for. The number or mentorships that your project can offer per term and the stipend amounts that you pay depend on Mentorship program fund allocation.
-* **To Raise Funds** You use CommunityBridge Funding to raise and allocate funds for projects including projects that participate in the Mentorship program. Contributors, beneficiaries, and mentees use the Funding reimbursement process to submit reimbursement requests and claims for stipends. These payments are recorded in Funding and are visible in the project details.
+* **Mentorship Program Offering**  By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source contributors as a segue to get internship and job opportunities after successful completion of the mentorship program. 
+* **Financial Information**   The Funding platform displays the mentorship program's financial information, including the total amount of funds donated to the program and the amount of stipends paid out 
 
-You can toggle between projects in Mentorship and Funding at any time, offering you a quick way to go to the same project details or the same projects list in either service. For example, from Mentorship go to Funding to view stipend payments listed in the Financial tab of your project.
+Users can toggle between projects in Mentorship and Funding to gain an insight into the mentorship program details and the financial records, which are visible on the Funding. 
 
-**Follow these steps:**
+**To toggle between Funding and Mentorship:**
 
-1. Go to project details or a project list.
-2. Click **Funding** or **Mentorship** depending on what service you are in:
-   * From Mentorship, click **Funding**: ![](https://docs.linuxfoundation.org/download/thumbnails/7418697/Funding-Toggle.png?version=1&modificationDate=1574933176395&api=v2)
-   * From Funding, click **Mentorship**:
+1. Select a project you would like to view. 
+2. From Mentorship, click on **Funding** in the navigation menu and vice versa.
 
 ![Toggle to Funding](../../../.gitbook/assets/toggle-to-funding.png)
 
