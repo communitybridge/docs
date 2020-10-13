@@ -35,10 +35,10 @@ Signed CLAs are displayed under **CLA FOR MY ORGANIZATION**.
 {% hint style="info" %}
 **Note:** 
 
-* Domain allows entities to contribute under any email address under that domain name.
-* Email Address allows entities to contribute under an individual email address.
-* GitHub Username allows entities to contribute under a GitHub username.
-* GitHub Organization allows entities to contribute under a GitHub organization name.
+* Domain allows contribution under any email address under that domain name.
+* Email Address allows contribution under an individual email address.
+* GitHub Username allows contribution under a GitHub username.
+* GitHub Organization allows contribution under a GitHub organization name.
 
 GitHub Organization and GitHub Username are not required while adding contributors to Gerrit projects.
 {% endhint %}
