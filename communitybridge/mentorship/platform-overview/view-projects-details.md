@@ -1,10 +1,10 @@
-# View Mentorship Program Details
+# View Projects Details
 
-To view program details, navigate to the [Mentorship](https://people.communitybridge.org/profile) platform and under the Mentorships tab select a program you would like to view. 
+To view project details, navigate to [CommunityBridge Mentorship](https://people.communitybridge.org/profile) and on the Mentorships tab select a project you would like to view. 
 
 ![](../../../.gitbook/assets/mentorship-project-details%20%282%29.png)
 
-You can view the following information, depending on the available data:
+On the project details page, the following information will appear depending on the available data:
 
 <table>
   <thead>
@@ -25,7 +25,8 @@ You can view the following information, depending on the available data:
       </td>
       <td style="text-align:left">Indicates project&apos;s participation in the <a href="https://www.coreinfrastructure.org/programs/badge-program/">Core Infrastructure Initiative (CII) Badge Program</a>.
         A CII badge means the project is self-certified and follows best practices
-        for secure open source development. Click on the badge to view more details.</td>
+        for secure open source development. Click on the badge to view more CII
+        details</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Mentees</b>
@@ -40,12 +41,12 @@ You can view the following information, depending on the available data:
     <tr>
       <td style="text-align:left"><b>Sponsors</b>
       </td>
-      <td style="text-align:left">Logos of companies that are sponsoring mentee stipends.</td>
+      <td style="text-align:left">Logos of companies that are sponsoring mentee stipends for the project</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Mentors</b>
       </td>
-      <td style="text-align:left">Avatars of the mentors</td>
+      <td style="text-align:left">Avatars of the project mentors</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Project Skills</b>
@@ -60,7 +61,7 @@ You can view the following information, depending on the available data:
     <tr>
       <td style="text-align:left"><b>View Site</b>
       </td>
-      <td style="text-align:left">Link to relevant website</td>
+      <td style="text-align:left">Link to project website</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Code of Conduct</b>
@@ -70,8 +71,8 @@ You can view the following information, depending on the available data:
     <tr>
       <td style="text-align:left"><b>Apply/Applications Closed</b>
       </td>
-      <td style="text-align:left">CTA button to apply to the mentorship program. The CTA is disabled when
-        program no longer accepts mentee applications</td>
+      <td style="text-align:left">CTA button to apply to the project&apos;s mentorship program. CTA is disabled
+        when project no longer accepts mentee applications</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Donate</b>
@@ -85,5 +86,5 @@ You can view the following information, depending on the available data:
 
 **Mentees** section contains mentee profile cards, click on **View Profile** navigate to mentor's profile page.
 
-**Graduated Mentees** section contains profiles of the mentees who successfully completed the project's mentorship program, click on **View Profile** navigate to mentor's profile page.
+**Graduated Mentees** section contains mentee profile cards who successfully completed the project's mentorship program, click on **View Profile** navigate to mentor's profile page.
 
