@@ -13,24 +13,17 @@ Keep these items ready before you begin:
 
 **Follow these steps:**
 
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
-
-2. Click **Become a Mentee** on the top menu.
+1. [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and click on Become a **Become a Mentee** menu item.
 
 ![](../../../.gitbook/assets/become-a-mentee.png)
 
-3. Click an answer to the questions that appear **Eligibility Requirement** window.
+2. Complete the **Eligibility Requirements** section
 
-1. Are you at least 18 years of age, or will you be by the time the mentorship program starts?
-2. Are you eligible to work in the country you reside in for the duration of the mentorship?
+* Are you at least 18 years of age, or will you be by the time the mentorship program starts
+* Are you eligible to work in the country you reside in for the duration of the mentorship?
+* Please select "No" to confirm that you do not have other mentee profile\(s\) on the Linux Foundation Mentorship platform and are not participating in other Linux Foundation mentorship project\(s\). Doing so will disqualify you from the program.
 
-4. Complete the Mentee Application form.
-
-{% hint style="warning" %}
-Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
-{% endhint %}
-
-5. Click any of the following links for information about fields that require explanation.
+4. Complete the following sections of the form:
 
 * [User Information](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
 * [Introduction](create-a-mentee-profile.md#CreateaMenteeProfile-Introduction)
@@ -40,25 +33,17 @@ Red asterisks indicate required fields. A bar at the top of the page shows your 
 * [Demographics](create-a-mentee-profile.md#CreateaMenteeProfile-Demographics)
 * [Terms and Conditions](create-a-mentee-profile.md#CreateaMenteeProfile-TermsandConditions)
 
-6. Select the **Terms and Conditions** check box, and click **Submit**.  
-    **Result:** Projects that match your skills appear.
-
-7. Look for a "Welcome to CommunityBridge" email in your Inbox.  
-The email includes **Browse Projects** and **My Tasks** options to let you browse projects or view the tasks you must complete, respectively.
-
 {% hint style="warning" %}
-The Linux Foundation administrator reviews your application and approves or rejects it. You receive an email informing you of the status.
+Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 {% endhint %}
 
-**See:** 
+5. Select the **Terms and Conditions** check box, and click **Submit**. 
 
-[Manage Your Mentorship Account](manage-your-mentorship-account.md)
+6. To edit your profile see [Manage Your Account](manage-your-mentorship-account.md) section. 
 
 ## User Information <a id="CreateaMenteeProfile-MenteeProfile"></a>
 
-Provide your first name, last name, email address, phone details, and upload your image in the respective fields. The Linux Foundation uses your contact information for corresponding with you, such as to request tax forms and so on.
-
-Some fields are pre-filled with your Linux Foundation account values. Use an avatar \(image\) to represents yourself. Your avatar appears on your mentor's card under Mentees. Click **Browse** to upload a JPG, PNG, or SVG file. Preview shows the image that you uploaded.
+Your name and email fields are auto-populated from your Linux Foundation account. Upload an avatar image, which will appears on your mentee card. 
 
 ## Introduction <a id="CreateaMenteeProfile-Introduction"></a>
 
@@ -74,7 +59,7 @@ Stipend amounts may differ depending on the jurisdiction in which you are locate
 
 ## External Profile Links <a id="CreateaMenteeProfile-ExternalProfileLinks"></a>
 
-Showcase your experience by providing links to your external profiles pages, and upload your resume file. Mentee resumes can be shared with mentors during the application process. Resumes of Mentorship program graduates may be shared with prospective employers who have registered in CommunityBridge and been approved by the Linux Foundation. Resumes can also be shared with project administrators.
+Provide links to your external profiles and upload your resume file. Mentee resumes will be shared with mentors during the application process. After graduation, the resumes may be shared with prospective employers.
 
 ![External Profile Links](../../../.gitbook/assets/7418797.png)
 
@@ -84,8 +69,7 @@ Click in the **Skill Name** fields, select a skill, and click **+Add skill** to 
 
 ## Demographics <a id="CreateaMenteeProfile-Demographics"></a>
 
-Your demographic information can help support diversity in open source projects and communities. Providing your demographics is optional. Your socioeconomic information can help support diversity in open source projects and communities.  
-Select the check boxes to enable the drop-down list from which you can chose a value.
+Providing your demographics is optional. Select the check boxes to enable the drop-down list from which you can chose a value.
 
 ## Terms and Conditions <a id="CreateaMenteeProfile-TermsandConditions"></a>
 
