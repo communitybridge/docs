@@ -1,10 +1,10 @@
 # How to Create and Submit an Expensify Report
 
-Consolidate all of the travel expenses eligible for reimbursement to apply them to the report.
+Consolidate all of the expenses eligible for reimbursement to apply them to the report.
 
 **Follow these steps:**
 
-**Note:** Ensure that you select the travel fund policy that is associated with the event you are approved for.
+**Note:** Ensure that you select the correct fund policy that is associated with the project or event you are approved for.
 
 ![Travel Fund Policy](../../.gitbook/assets/travel-fund-policy.png)
 
@@ -16,7 +16,11 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 ![Expensify New Reports](../../.gitbook/assets/expensify-new-reports.png)
 
-3. Write a **Report Name** that must include your name, and the name and year of the event, for example:`Jane Brown - Open Source Summit + Embedded Linux Conference North America 2020`
+3. Write a **Report Name** that must include your name, and: 
+
+a\). For events and travel funds: the name and year of the event, for example:`Jane Brown - Open Source Summit + Embedded Linux Conference North America 2020`
+
+b\). For projects: the name of the project 
 
 ![Expense Report](../../.gitbook/assets/expense-reports.png)
 
@@ -30,10 +34,14 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 **Merchant:** Name of the Merchant.  
 **Date:** Date of Purchase  
 **Total:** Total amount in USD$  
-**Category:** Choose a category—Accommodation, Airfare, Ground Transportation, Other.
+**Category:** 
+
+a\). For Events and Travel Funds, choose a category—Accommodation, Airfare, Ground Transportation, Other.
+
+b\). For Projects, choose category applicable to your expense.
 
 {% hint style="warning" %}
-**Important:** For International \(non-U.S.\) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_ in addition to your receipt\(s\).
+**Important:** For International \(non-U.S.\) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_ **in addition** to your receipt\(s\).
 {% endhint %}
 
 {% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
@@ -42,7 +50,7 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 7. Click **Save** and repeat Step 6 to add more receipts.
 
-8. After you add the travel expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
+8. After you add the expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
 
 ![](../../.gitbook/assets/submit.png)
 

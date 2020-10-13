@@ -38,7 +38,7 @@ Each project card shows the following information:
 
 A project group is a group of individual projects. Following is an example of a project group that shows an overview of group related data on the card. Click the name to see number of sub-projects under Hyperledger project group.
 
-![Project Group Overview](../../.gitbook/assets/foundation-overview.png)
+![Project Group Overview Card](../../.gitbook/assets/project-group-overview-card.png)
 
 Each card shows the following information:
 

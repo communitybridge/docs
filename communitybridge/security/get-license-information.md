@@ -1,6 +1,6 @@
 # Get License Information
 
-CommunityBridge Security identifies the licenses that are used by your projects and their dependencies.
+LFX Security identifies the licenses that are used by your projects and their dependencies.
 
 **Do these steps:**
 

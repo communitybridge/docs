@@ -1,37 +1,12 @@
 # View Mentor/Mentee Profile
 
-There are three ways to view a mentor or a mentee profile page:
+### **To view a Mentor or a Mentee profile**
 
-* [From the landing page ](view-a-mentor-or-mentee-profile.md#view-a-profile-from-the-mentors-tab)
-* [View a Profile from Mentorships](view-a-mentor-or-mentee-profile.md#view-a-profile-from-mentorships)
-* [View a Profile from a Mentor or Mentee Profile](view-a-mentor-or-mentee-profile.md#ViewaMentororMenteeProfile-ViewaProfilefromaMentororMenteeProfile)
+1. Navigate to the [Mentorship](https://people.communitybridge.org/) platform landing page where you can view Mentorships, Mentors, and Mentees tabs.
 
-### **To view a profile from the Mentors Tab:**
+2. Click on **Mentors** tab and select a **mentor card** of interest. On the mentor's profile page you can view the mentor's introduction, featured skills, link to the LinkedIn profile, and projects and mentees the mentor has worked with. 
 
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/) website.  
-Features tab appears. Projects \(Mentorships\), Mentors, and Mentees appear in alphabetical order with their respective entities.
+3. Click on **Mentees** tab and select a **mentee card** of interest. On the mentee's profile page you can view the mentee's introduction, featured skills, if available, links to GitHub and LinkedIn profiles, link to resume, as well as the project and mentors the mentee is associated with. 
 
-2. Navigate to **Mentors** tab and then click a **mentor** of interest.  
-The mentor's profile page appears showing projects and mentees the mentor is associated with.
 
-3. Scroll to the Mentees section and click **View Profile** on a mentee of interest.  
-The profile appears, showing projects and mentors, the mentee is associated with.
-
-4. \(Optional\) Click on a project under **Projects** section to know more about the project. For details to know about a project, see [View Projects Details](view-projects-details.md).
-
-### View a Profile from Mentorships
-
-**Do these steps:**
-
-1. Open [CommunityBridge Mentorship](https://people.communitybridge.org/) website.  
-Features tab appears. Projects \(Mentorships\), Mentors, and Mentees appear in alphabetical order with their respective entities.
-
-2. Click a **project** of interest form the Mentorships section or navigate to the Mentorships tab, and click a project of interest.  
-The project details page appear.
-
-3. Scroll to the Mentors or Mentees section and click **View Profile** on a mentor or mentee of interest.
-
-The Mentor/Mentee profile appears.
-
-###  <a id="ViewaMentororMenteeProfile-ViewaProfilefromaMentororMenteeProfile"></a>
 

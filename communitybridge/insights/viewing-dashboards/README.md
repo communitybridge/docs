@@ -1,7 +1,10 @@
 # Viewing Dashboards
 
-Refer to the following catalog of dashboard data to see details. When you navigate to a project's dashboard, by default the **Summary** page appears that displays overview of the project's data sources. 
+When you navigate to a project's dashboard, by default the **Summary** page appears that displays overview of the project's data sources. The Summary page is divided into two groups: **Technical Trends** and **Ecosystem Trends**. 
 
+#### Technical Trends
+
+* 
 {% hint style="warning" %}
 The data on the dashboards do not include commits by Bots and empty commits.
 {% endhint %}
@@ -15,6 +18,7 @@ The data on the dashboards do not include commits by Bots and empty commits.
 * [Mailing List](mailing-list/)
 * [CI/CD](ci-cd/)
 * [Registry](registry/)
+* Earned Media
 * Marketing Analytics
 * Community Leaderboard
 
