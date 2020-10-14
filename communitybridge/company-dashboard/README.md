@@ -4,7 +4,7 @@
 **Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage company dashboard based on their roles for a project.
 {% endhint %}
 
-The Linux Foundation provides a platform for corporate members to view Corporate License Agreement \(CLA\) details for corporates, and to sign CLA for an organization. You can also manage other roles and activities based on your role in relation to a project and/or service that is EasyCLA. After you [sign in](../../sso/sign-in/) to LFX platform **\(LINK TO BE GIVEN AFTER RE-BRANDING\)**, you can view the following dashboards:
+The Linux Foundation provides a platform for corporate members to view Corporate License Agreement \(CLA\) details for corporates, and to sign CLA for an organization. You can also manage other roles and activities based on your role in relation to a project. After you [sign in](../../sso/sign-in/) to LFX platform **\(WHICH LINK TO BE GIVEN HERE\)**, you can view the following dashboards:
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
