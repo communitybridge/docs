@@ -20,3 +20,8 @@ You can sort values from **Task Status** and **Sorting Order** drop-down lists.
 
 Complete all your tasks to graduate from the Mentorship program. Your mentor determines whether you have satisfactorily completed each task. If you and your mentor disagree about whether you have completed the tasks, reach out to the project administrator to discuss it. You are listed as a graduate for that project on CommunityBridge. If your mentorship includes a stipend and you are eligible for it, [submit a claim](../../crowd-funding/get-reimbursed.md) for it \(projects may have varying milestones and schedules for payments of stipends\).
 
+{% hint style="info" %}
+* You can filter your tasks by selecting option/options from **Status** drop-down.
+* You can also change the status of task/tasks by selecting **In Progress** or **Submitted** from the drop-down, as per your progress. The respective project administrator is notified about change of your status.
+{% endhint %}
+
