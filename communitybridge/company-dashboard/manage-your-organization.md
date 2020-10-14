@@ -102,7 +102,7 @@ Below Organization profile header section, you can see a section where you can a
 
 4. Click **Save**.
 
-If the user you added as an administrator doesn't have a [Single Sign-On \(SSO\)](../../sso/) account with Linux Foundation, **Pending Invitation** shows next to their name as shown in the image below. The individual receives an invitation email from Linux Foundation. After they accept the invitation, and create their SSO account with Linux Foundation, they become administrators for your organization.
+**Note:** If the user you added as an administrator doesn't have a [Single Sign-On \(SSO\)](../../sso/) account with Linux Foundation, **Pending Invitation** shows next to their name as shown in the image below. The individual receives an invitation email from Linux Foundation. After they accept the invitation, and create their SSO account with Linux Foundation, they become administrators for your organization.
 
 ![Pending Invitation](../../.gitbook/assets/pending-invitation.png)
 
@@ -120,5 +120,5 @@ You cannot edit or delete CLA role\(s\) of a team member.
 
 If a user has more than one role, click **View More Roles** to know more about the other roles the user is associated with.
 
-![Easy CLA Roles](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA6GWiKNR8NbAdZLdDp%2F-MA6O4zqZFzPYn1twztn%2Feasycla%20roles.png?alt=media&token=763919ba-0f4e-4d26-a1af-81949219593b)
+![EasyCLA Roles](../../.gitbook/assets/easycla-roles.png)
 

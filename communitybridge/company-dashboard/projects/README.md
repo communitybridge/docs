@@ -40,7 +40,7 @@ It shows a table that lists the CLAs signed by your company with the project:
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
 * **Signed By** shows name of the person who signed the CLA.
-* **Download** lets you download PDF file of the signed CLA.
+* **Download** \(shows if CLA is signed\) lets you download PDF file of the signed CLA.
 
 #### CLA MANAGERS FROM MY ORGANIZATION <a id="cla-managers-from-my-organization"></a>
 
