@@ -1,27 +1,19 @@
 # Manage Your Tasks
 
-As a mentee, you receive task assignments from your mentor. When your mentor approves the completion of all your tasks, you graduate. Your mentorship is intended to help you begin contributing to an open source project. Therefore, contribute all your work to the project \(such as patches, documentation, tests, and so on\) according to its open source licensing and contribution policies.
+1. To manage tasks assigned to you  [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.dev.platform.linuxfoundation.org/) platform and navigate to **My Account -&gt;** **My Tasks.**  
 
-**Follow these steps:**
+2. In **Tasks Assigned To Me** section you can view prerequisite tasks as well as mentorship milestone tasks. If required upload a file to complete the tasks and change its status from the **Status** dropdown. 
 
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/).
-2. Navigate to **My Account &gt;** **My Tasks** to view your task assignments.
-3. Under **Tasks Assigned To Me**, upload files for required tasks, complete other tasks, and change status:
+Below are task statuses and their descriptions: 
 
-   * **Pending:** You are yet to complete the task.
-   * **In Progress:** Change the status to In Progress when you are working on it. Your project maintainer/mentor gets notified about the status.
-   * **Submitted:** You have completed the task.
-
-   You can view or download an uploaded file for a task by clicking the respective icons beside a task
-
-You can sort values from **Task Status** and **Sorting Order** drop-down lists.
-
-![Tasks for Mentees](../../../.gitbook/assets/mentee-tasks-for-mentee.png)
-
-Complete all your tasks to graduate from the Mentorship program. Your mentor determines whether you have satisfactorily completed each task. If you and your mentor disagree about whether you have completed the tasks, reach out to the project administrator to discuss it. You are listed as a graduate for that project on CommunityBridge. If your mentorship includes a stipend and you are eligible for it, [submit a claim](../../crowd-funding/get-reimbursed.md) for it \(projects may have varying milestones and schedules for payments of stipends\).
+* **Pending:** The task is pending completion.
+* **In Progress:** Change the task status to "In Progress" to indicate you're working on it. 
+* **Submitted:** Change the task status to "Submitted" to notify mentorship admin and mentor\(s\) that you have completed it. 
 
 {% hint style="info" %}
-* You can filter your tasks by selecting option/options from **Status** drop-down.
-* You can also change the status of task/tasks by selecting **In Progress** or **Submitted** from the drop-down, as per your progress. The respective project administrator is notified about change of your status.
+* You can filter tasks by status from the **Task Status** drop-down.
+* You can sort tasks by ascending or descending order from the **Sorting Order** dropdown. 
 {% endhint %}
+
+![Tasks for Mentees](../../../.gitbook/assets/mentee-tasks-for-mentee.png)
 
