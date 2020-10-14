@@ -1,5 +1,9 @@
 # Create a Mentee Profile
 
+1. To create a mentee profiles, [sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) platform and select **Become a Mentee** menu item.
+
+![](../../../.gitbook/assets/become-a-mentee.png)
+
 {% hint style="info" %}
 Keep these items ready before you begin:
 
@@ -9,19 +13,13 @@ Keep these items ready before you begin:
 * Your resume in a PDF, DOC, or DOCX format
 {% endhint %}
 
-**Follow these steps:**
-
-1. [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and select **Become a Mentee** menu item.
-
-![](../../../.gitbook/assets/become-a-mentee.png)
-
 2. Complete the **Eligibility Requirements** section
 
 * Are you at least 18 years of age, or will you be by the time the mentorship program starts
 * Are you eligible to work in the country you reside in for the duration of the mentorship?
 * Please select "No" to confirm that you do not have other mentee profile\(s\) on the Linux Foundation Mentorship platform and are not participating in other Linux Foundation mentorship project\(s\). Doing so will disqualify you from the program.
 
-4. Complete the following sections of Become a Mentee form:
+3. Next, complete the following sections of the form:
 
 * [User Information](create-a-mentee-profile.md#CreateaMenteeProfile-MenteeProfile)
 * [Introduction](create-a-mentee-profile.md#CreateaMenteeProfile-Introduction)
@@ -35,9 +33,9 @@ Keep these items ready before you begin:
 Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 {% endhint %}
 
-5. Select the **Terms and Conditions** check box, and click **Submit**. 
+4. Select the **Terms and Conditions** check box, and click **Submit**. 
 
-6. To edit your profile see [Manage Your Account](manage-your-mentorship-account.md) section. 
+5. To edit your profile see [Manage Your Account](manage-your-mentorship-account.md) section. 
 
 ## User Information <a id="CreateaMenteeProfile-MenteeProfile"></a>
 
