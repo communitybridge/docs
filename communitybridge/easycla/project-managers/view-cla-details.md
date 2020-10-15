@@ -6,9 +6,9 @@
 
 2. Click a **project name** of interest.
 
-3. Navigate to the **Product Services** tab, and click **CLA**.
+3. Navigate to the **Tools** tab, and click **CLA**.
 
-![](../../../.gitbook/assets/cla-product-services.png)
+![Tools](../../../.gitbook/assets/tools-tab.png)
 
 Based on CLA configuration for the project, available data are shown.
 
@@ -23,7 +23,9 @@ Based on CLA configuration for the project, available data are shown.
 
 Following data are shown for an individual project or a project group that has configured CLA.
 
-**Individual Project:**
+**Individual Project**
+
+An Individual project doesn't have any child projects under it.
 
 ![](../../../.gitbook/assets/cla-signed.png)
 

@@ -19,10 +19,10 @@ After you successfully add/connect Git organizations, you can:
 2.Click a **project** of interest.  
 The project page appears.
 
-3. Navigate to **Product Services** tab, and click **CLA**.  
-You can also connect the GitHub organization during IT set up in the **IT Services** tab, and then install EasyCLA application in **Product Services** tab to add it for CLA monitoring.
+3. Navigate to **Tools** tab, and click **CLA**.  
+You can also connect the GitHub organization during IT set up in the **IT Services** tab, and then install EasyCLA application in **Tools** tab to add it for CLA monitoring.
 
-![](../../../../.gitbook/assets/cla-product-services.png)
+![](../../../../.gitbook/assets/tools-tab.png)
 
 3. Under a CLA group, click **Add/Manage Repos for a project.**  
 Source Control configuration page appears.

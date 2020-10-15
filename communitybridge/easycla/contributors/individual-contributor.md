@@ -22,7 +22,7 @@ As an individual contributor to an open source project, you are contributing cod
 
 The Authorize CommunityBridge: EasyCLA dialog appears.
 
-4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
+4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require this authorization.\)
 
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla%20%281%29.png)​
 
@@ -110,7 +110,7 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 
 * A message appears informing you that you have signed CLA.
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link form the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
+* You can download the PDF document by clicking the link from the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
 You can now contribute to Gerrit as an individual. Navigate to the gerrit project, and start contributing.

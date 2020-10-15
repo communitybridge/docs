@@ -2,10 +2,6 @@
 
 As a project manager, you can uninstall the EasyCLA Application. When you uninstall the application, it is removed from all your repositories, and CLA monitoring is no longer in effect.
 
-{% hint style="warning" %}
-**Important:** If a _problem occurs when you install the EasyCLA Application for your organization and then delete the organization but do not uninstall the EasyCLA Application. If you attempt to add the organization and reinstall the EasyCLA Application, you cannot configure the repositories due to the existing EasyCLA Application link._
-{% endhint %}
-
 **Do these steps**:
 
 1. In the top-right corner of GitHub, click your **profile photo**, and then select **Settings** from the drop-down list.

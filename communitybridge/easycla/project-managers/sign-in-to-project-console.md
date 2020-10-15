@@ -4,7 +4,7 @@ You sign in to the CLA project console of Admin Dashboard to perform the CLA set
 
 **Do these steps:**
 
-1. Go to [https://project.lfcla.com](https://project.lfcla.com). **\(SHOULD THIS LINK BE THERE?\)**
+1. Go to [https://admin.linuxfoundation.org/](https://admin.linuxfoundation.org/).
 
 2. Click **SIGN IN**. The LF CLA sign-in dialog appears.
 

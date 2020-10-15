@@ -15,17 +15,17 @@ As a project manager, you use the CLA Project Console to add and name a CLA grou
 2. Click a project of interest.  
 The project page appears.
 
-3. From **Product Services** tab, and click **CLA**.  
+3. From **Tools** tab, and click **CLA**.  
 The CLA overview page appears.
 
-![](../../../.gitbook/assets/cla-product-services.png)
+![](../../../.gitbook/assets/tools-tab.png)
 
 4. Click **+Add New CLA Group**.
 
 ![](../../../.gitbook/assets/add-new-cla-group%20%281%29.png)
 
 5. Under CLA Group Name tab, provide a CLA group name, and description in the respective fields.  
-**Note:** Click the **Help** icons to know more about a filed or check box.
+**Note:** Click the help icons \(**?**\) to know more about a field or check box.
 
 ![](../../../.gitbook/assets/cla-group-name%20%281%29.png)
 
@@ -54,14 +54,6 @@ The CLA overview page appears.
 Result:** The CLA group is configured for the project.  
 **Note:** **Select all Projects** allows you to select all the projects at a time.
 
-{% hint style="warning" %}
-**Important:** After a project is added, you cannot remove a project from the CLA group.
-{% endhint %}
-
-
-
-
-
 Connecting your GitHub organization will let you enable EasyCLA checks on that organization. If you already have a CLA process in place, go to [https://cloud.email.thelinuxfoundation.org/EasyCLA](https://cloud.email.thelinuxfoundation.org/EasyCLA) and file a ticket to describe your particular needs, and import your existing CLAs.
 
 4. Enter your organization name in the GitHub Organization URL field. The URL automatically appends the name. Click **CONNECT**.
@@ -88,6 +80,6 @@ The CLA Management Console appears and the GitHub Organizations pane shows the o
 8. Repeat Steps 2 through 7 to connect as many organizations as you want.
 
 {% hint style="info" %}
-**Important:** _To enable a CLA check on a repository, you must configure a GitHub repository or add a Gerrit instance. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
+**Important:** _To enable a CLA check on a repository, you must_ [_add a GitHub repository_](add-and-manage-git-organizations-and-repositories/#add-github-organization) _or_ [_add a Gerrit instance_](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
 {% endhint %}
 

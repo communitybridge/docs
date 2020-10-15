@@ -9,8 +9,6 @@ The project page appears.
 
 3. Navigate to **Product Services** tab, and click **CLA**.
 
-![](../../../../.gitbook/assets/cla-product-services.png)
-
 3. Under a CLA group, click **Add/Manage Repositories** for a project.  
 Source Control configuration page appears.
 

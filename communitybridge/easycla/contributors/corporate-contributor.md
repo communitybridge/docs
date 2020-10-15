@@ -1,8 +1,8 @@
 # Corporate Contributor
 
-As a corporate \(employee\) contributor to an open-source project, you are contributing code on company's behalf. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) in order for your contribution to be accepted by the company. During the process, your CLA status is verified.
+As a corporate \(employee\) contributor to an open-source project, you are contributing code on company's behalf. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) so that it can be considered that the contribution is done by the company. During the process, your CLA status is verified.
 
-When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association with the company during your first pull request or change submit. Then you can continue with your contribution. Your subsequent contributions will not require association confirmations.
+When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association with the company during your first pull request or change submit. Then you can continue with your contribution. Your subsequent contributions will neither require association confirmations nor will they be gated by CLA check.
 
 * [GitHub](corporate-contributor.md#github)
 * [Gerrit](corporate-contributor.md#gerrit)
@@ -97,7 +97,8 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 If your company has signed CLA, but you are not added to the approved list, **Request Authorization to Contribute** window appears that shows the CLA manager\(s\) for your company.
 
-1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.
+1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.  
+**Note:** You can select **Select All** checkbox to send an email to all the CLA managers.
 
 * **Go Back:** Takes you to the previous screen.
 * **Exit EasyCLA:** Cancels the CLA signing process.
@@ -141,7 +142,7 @@ Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to updat
 
 {% hint style="info" %}
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
+* You can download the PDF document by clicking the link from the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
 Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
@@ -170,10 +171,10 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 ![](../../../.gitbook/assets/proceed-to-corporate-console-from-contributor-console.png)
 
 {% hint style="info" %}
-**Important:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username. After you create a username, you will be redirected back to corporate console where you can proceed with CLA signing.
+**Important:** If you don't have a username \(LF Login\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username. After you create a username, you will be redirected back to corporate console where you can proceed with CLA signing.
 {% endhint %}
 
-4. You will be redirected to corporate console on a new tab **\(LINK TO BE PROVIDED\)** to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+4. You will be redirected to corporate console on a new tab to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 After you successfully sign a CCLA, navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
 
@@ -183,7 +184,7 @@ After you successfully sign a CCLA, navigate to the GitHub or Gerrit. Wait a few
  ![](../../../.gitbook/assets/identify-cla-manager%20%281%29.png) 
 
 2. Complete the form, and click **Submit Request**, ****Or if you don't know email address of CLA Manager of your company, click **Contact Company Admin**.  
-**Result:** A window appears confirming that request is submitted to respective individual who signs a Corporate CLA and adds you to the approved list.
+**Result:** A window appears confirming that request is submitted to respective individual who needs to sign a Corporate CLA and adds you to the approved list.
 
 ![](../../../.gitbook/assets/request-submitted-for-company-not-signed-cla.png)
 
@@ -205,7 +206,7 @@ You will receive an email after you are added to the approved list. After you ar
 ![](../../../.gitbook/assets/enter-organization-details.png)
 
 3. A window appears confirming that the organization is successfully added.  
-**Note:**  if the company is already added to the list, **Company Already Exists** window appears. You can search again to find the company.
+**Note:**  if the company is already added to the list, **Company Already Exists** window appears and directs you to re-enter the company name in the Search field. You can search again to find the company.
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 
