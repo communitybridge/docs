@@ -80,6 +80,6 @@ The CLA Management Console appears and the GitHub Organizations pane shows the o
 8. Repeat Steps 2 through 7 to connect as many organizations as you want.
 
 {% hint style="info" %}
-**Important:** _To enable a CLA check on a repository, you must_ [_add a GitHub repository_](add-and-manage-git-organizations-and-repositories/#add-github-organization) _or_ [_add a Gerrit instance_](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
+**Important:** _To enable a CLA check on a repository, you must_  [_configure a GitHub repository_](add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md#configure-github-repositories) _or_ [_add a Gerrit instance_](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
 {% endhint %}
 
