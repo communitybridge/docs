@@ -1,14 +1,10 @@
 # Enroll Your Project
 
-As the primary administrator of an open source project, you can enroll or add your project to CommunityBridge Mentorship program. After your project is approved, it is available in CommunityBridge Mentorship platform for Mentorship program participants.
+Enrolled mentorship projects are reviewed by The Linux Foundation before they're published and visible on the Mentorship platform. Projects are reviewed based on the following factors: 
 
-The Linux Foundation reviews your project application and considers if your project:
-
-* Is entirely an open source project
-* Has sufficient indications of broad community usage
-* Aligns to the Linux Foundation’s purposes for support of open source projects
-
-The Linux Foundation notifies you when a decision is taken.
+* Open source status - projects must be 100% open source 
+* Community-wide adoption
+* Alignment with The Linux Foundation’s support of open source initiative 
 
 {% hint style="info" %}
 Keep these items ready before you begin:
@@ -19,28 +15,21 @@ Keep these items ready before you begin:
 * A list of names and email addresses for the individuals who you want to invite as mentors.
 {% endhint %}
 
-**To Enroll the Project:** 
-
-1. Sign in to CommunityBridge Mentorship as a project administrator. For details, see [Sign in to CommunityBridge](../../../../sso/sign-in/).
-
-2. Click **Enroll Your Project**.
+1. To enroll the project [Sign in ](../../../../sso/sign-in/)to the [Mentorship](https://people.communitybridge.org/) and select **Enroll Your Project** from the main navigation. 
 
 ![](../../../../.gitbook/assets/enroll-your-project-screen.png)
 
-3. Complete the [Mentorship Project Application](mentorship-project-enrollment-form.md) form fields. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
+2. Complete the [Mentorship Project Application](mentorship-project-enrollment-form.md) form. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 
-4. Read and agree to the Terms and Conditions and **Submit** the application.  
+3. Read and agree to the Terms and Conditions and **Submit** the application.  
    An "Almost There!" message appears:
 
 ![](../../../../.gitbook/assets/7418710.png)
 
       **Note: My Projects** takes to your account &gt; My Projects
 
-5. Look for a _CommunityBridge Team: Your project application for the CommunityBridge mentorship program is pending approval_ email in your Inbox.  
-The email includes **View Project** option.
-
 {% hint style="info" %}
-The Linux Foundation approves or rejects the application. You receive an email notification about the status of your application.
+After The Linux Foundation reviews the project application, you will receive an email notification with a review decision. 
 {% endhint %}
 
 ## Your Activities <a id="Administrators-YourActivities"></a>
