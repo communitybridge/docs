@@ -83,8 +83,8 @@ Source Control configuration page appears.
 * One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
 {% endhint %}
 
-The CLA Project Console lists the CLA-enabled instances and its repositories under **Instances**, as shown below.​​  
-**Note:** Unlike GitHub, you cannot disable CLA check for individual gerrit repositories.
+The CLA Project Console lists the CLA-enabled instances, as shown below.​​  
+**Note:** You cannot disable CLA check for individual gerrit repositories.
 
 ![Gerrit Instances](../../../../.gitbook/assets/gerrit-instances.png)
 
