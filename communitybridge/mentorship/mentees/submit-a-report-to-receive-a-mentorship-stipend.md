@@ -1,11 +1,8 @@
 # Submit a Report to Receive Mentorship Stipend
 
-After receiving a successful evaluation from the mentor, all mentees are required to submit an Expensify report to receive the mentorship stipend payment.
+After receiving a successful performance evaluation, all mentees are required to submit an Expensify report to receive each mentorship stipend payment. 
 
-## Create and Submit an Expensify Report <a id="GetReimbursed-SetUpaReimbursementAccountandCreateaReport"></a>
-
-1. Login to Expensify [https://www.expensify.com](https://www.expensify.com/)  
-Ensure that you use the same email address that you used to set up your account in Expensify.
+1. To create and submit an **Expensify Report,** login to [Expensify](%20https://www.expensify.com). Ensure that you use the same email address that you used to set up your account in Expensify.
 
 2. Under your account, select **Reports** tab.
 
@@ -44,11 +41,7 @@ Ensure that you use the same email address that you used to set up your account 
 
 ![](../../../.gitbook/assets/us-mentee-add-bank-account.png)
 
-**Note:** Each time you receive a satisfactory mentorship evaluation, you need to submit a report to receive your stipend payment.
-
-**Payment Receipt Timeline:**
-
-* It may take up to 45 business days for the funds to be deposited to your bank account.
-
-
+{% hint style="info" %}
+**NOTE:** It may take up to 45 business days for the funds to be processed and released by a bank outside the United States. 
+{% endhint %}
 
