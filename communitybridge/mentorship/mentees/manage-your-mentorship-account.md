@@ -16,19 +16,13 @@
 
 ## My Projects
 
-My Projects section contains the cards of all mentorship programs to which you applied with the acceptance statuses, and if applicable, one that you're participating in. 
+My Projects page contains the cards of all mentorship programs to which you applied with the acceptance statuses, and if applicable, the program that you're participating in. 
 
-In this section you can also edit and update your mentee profile. 
+On this page you can also edit and update your mentee profile. 
 
 ![](../../../.gitbook/assets/edit-mentee-profile.png)
 
 ## My Tasks <a id="my-tasks"></a>
 
-‌This section contains your mentorship program tasks. You can change the status of a particular task by selecting an option from drop-down list under **Status**.
-
-## Log Out
-
-Lets you log out of the CommunityBridge mentorship platform.
-
-###                    ![](https://docs.linuxfoundation.org/download/attachments/4823275/Mentorship-Mentee-Edit-Profile.png?version=1&modificationDate=1574933201052&api=v2) <a id="profiles"></a>
+‌This page contains the mentorship program tasks assigned to you. You can [manage your tasks](https://docs.linuxfoundation.org/docs/communitybridge/mentorship/mentees/manage-your-task) and update their statuses from the **Status** dropdown menu.
 
