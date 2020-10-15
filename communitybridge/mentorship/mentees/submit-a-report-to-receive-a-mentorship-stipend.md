@@ -36,12 +36,12 @@ After receiving a successful performance evaluation, all mentees are required to
 8. You will be redirected to the Report page. Click **Submit** from the top left corner.
 
 {% hint style="warning" %}
-**Important:** If you are a United States resident, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
+If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
 {% endhint %}
 
 ![](../../../.gitbook/assets/us-mentee-add-bank-account.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **NOTE:** It may take up to 45 business days for the funds to be processed and released by a bank outside the United States. 
 {% endhint %}
 
