@@ -1,10 +1,18 @@
 # Edit a Project
 
-1. To edit a program enrollment form [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.  
+As a project administrator, you can edit your CommunityBridge Mentorship project.
+
+**Follow these steps:**
+
+ 1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
+
+2. Go to your account and select **My Projects** from the drop-down list.  
  ![](../../../.gitbook/assets/my-projects.png)   
+An overview of each of your projects appears.
 
-
-2. In section **Projects for which I am an Administrator**, click on **Edit** CTA on the program card.
+3. Under **Projects for which I am an Administrator**, click **Edit Project**.
 
 ![](../../../.gitbook/assets/edit-project.png)
+
+4. Edit the [project application](enroll-your-project/mentorship-project-enrollment-form.md) form and click **Submit**.
 

@@ -1,12 +1,10 @@
 # Open or Close Mentorship Applications
 
-As a project administrator, you can open or close mentorship applications for a project. When you close applications, the Apply button on a project becomes unavailable so mentees cannot apply. When you open applications, the Apply button becomes available.
+1. To open or close mentorship program applications [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
 
-**Do these steps:**
+2. In section **Projects for which I am an Administrator**, click on **Open Applications**/**Close Applications** CTA on the program card. Once the applications are closed, the Apply CTA button on the program card is not longer active and no new mentees can apply to your program. 
 
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
-2. Go to your account and select **My Projects** from the drop-down list.
-3. Under **Projects for which I am an Administrator,** navigate to project cards for which you want to open or close mentorship applications, and click **Open Applications**/**Close Applications**.
+**NOTE:** Closing the applications doesn't prevent mentees who started the application process from completing their prerequisite tasks. 
 
 ![](../../../.gitbook/assets/open-close-application%20%281%29.png)
 
