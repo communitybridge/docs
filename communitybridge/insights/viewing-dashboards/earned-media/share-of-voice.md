@@ -8,7 +8,7 @@ Share of Voice shows an analysis on how much content a project's main search ter
 
 **Sentiment** shows a bar graph that represents users' feedback for a product's content. It shows how many mentions in the form of a piece of writing have positive, neutral or negative feedbacks from users and customers. This helps to gauge public opinion and monitor brand reputation. Sentiment uses Natural Language Processing \(NLP\) and supports 16 languages.
 
-**Key Messages Comparison** shows a pie chart that displays how many times a brand's key messages are mentioned with its main search term or the brand name itself. Key messages are color coded. Hover mouse over a color to see 
+**Key Messages Comparison** shows a pie chart that displays how many times a brand's key phrases are mentioned with its main search term or the brand name itself. Key messages are color coded. Hover mouse over a color to see key message name, number and percentage of mentions of a key phrase for your brand coverage.
 
 **Sentiment Over Time** shows an interpreting graph that represents tracking of users' sentiments over a period of time for product's content. Hover mouse over individual data points to view date, number and sentiment type: Positive, Neutral or Negative. Sentiment types are color coded.
 
