@@ -4,17 +4,13 @@ To manage your account [Sign in](../../../sso/sign-in/) to [Mentorship](https://
  ![](../../../.gitbook/assets/my-account.png)   
 
 
-### My Profile 
+## My Profile
 
-**My Profile** lets you manage your Linux Foundation identity account and your CommunityBridge profile.‌
+**My Profile** option takes you to [Individual Dashboard \(MyProfile\)](https://myprofile.linuxfoundation.org/), a self-service dashboard where you can edit your contact information, change your password, keep track of your emails and community identities, and much more. 
 
-* **Manage LFID** opens your Linux Foundation account details, and lets you edit settings such as adding an avatar or more email addresses. Click **Manage LFID** to sign in and open your account details. After you edit your account, click **Save**.
+## My Projects
 
-### My Projects
-
-My Projects shows the project names based on your role in those projects:
-
-* **Projects for which I am an Administrator**: Shows the project names for which you are an administrator.
+My Projects page contains the cards of all mentorship programs for which you're an admin.
 
 ![](../../../.gitbook/assets/admin-mentorship-account.png)
 
