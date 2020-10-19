@@ -1,14 +1,7 @@
 # Manage Your Account
 
-1. To manage your account, [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) platform and click on **My Account** menu icon.   
+To manage your account, [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) platform and click on **My Account** menu icon.   
  ![](../../../.gitbook/assets/my-account.png) 
-
-2. Select one of the options from the dropdown menu to navigate to the relevant section:  
-
-* [My Profile](manage-your-mentorship-account.md#my-profile)
-* [My Projects](manage-your-mentorship-account.md#my-projects)
-* [My Tasks](manage-your-mentorship-account.md#my-tasks)
-* [Log Out](manage-your-mentorship-account.md#log-out)
 
 ## My Profile
 
