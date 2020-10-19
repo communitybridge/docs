@@ -8,15 +8,22 @@ Summary provides a high-level metrics about each data source for which the proje
 
 * Click Copy Short URL ![](../../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
 * Select a value from the drop down to quickly navigate to the respective section on Summary dashboard: ![](../../../.gitbook/assets/summary-drop-down%20%281%29.png) 
+
+  **Technical Trends:**
+
   * [Source Control](summary.md#source-control)
-  * [Pull Requests / Changesets](summary.md#pull-requests-changesets)
+  * [Pull Requests / Changesets](summary.md#pull-requests-changeset)
   * [Issue Management](summary.md#issue-management)
-  * CI/CD
+  * [CI/CD](summary.md#ci-cd)
   * [Registry](summary.md#registry)
+
+  **Ecosystem Trends:**
+
   * [Chat Room](summary.md#chat-room)
   * [Mailing List](summary.md#mailing-list)
   * [Documentation](summary.md#documentation)
   * [Earned Media](summary.md#earned-media)
+
 * Clicking sparklines ![](../../../.gitbook/assets/sparkly-lines.png)  opens a stacked bar graph that represents relevant data per calendar period.  ![](../../../.gitbook/assets/sparkly-line.png) 
 * Clicking numbers on a data card opens the respective dashboard.  ![](../../../.gitbook/assets/click-for-dashboard.png) 
 * While navigating from top to bottom on Summary dashboard, click ![](../../../.gitbook/assets/summary-dashboard-up-arrow.png) on the down right corner to reach to the top of the page.
