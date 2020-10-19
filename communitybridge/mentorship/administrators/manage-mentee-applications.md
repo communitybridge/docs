@@ -1,21 +1,21 @@
 # Manage Mentee Applications
 
 {% hint style="warning" %}
-**Important:** You cannot accept a mentee who is actively participating in another Linux Foundation mentorship program.
+**Important:** You cannot accept a mentee who has graduated or is actively participating in another Linux Foundation mentorship program.
 {% endhint %}
 
-1. To Manage Mentee Applications ****[Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship](https://people.communitybridge.org/), go to your account and select **My Projects.**
+1. To manage mentee applications ****[Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
 
-2. Select the project name to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
+2. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
 
 ![Mentee Application Status](../../../.gitbook/assets/mentee-application-admin.png)
 
 Please note the following application statuses: 
 
-* **Pending** - mentee has applied to the mentorship program. You must review the application by viewing mentee's profile. Click mentee's name to view mentee profile.
-* **Accepted** - mentee has been accepted to the project. Accepted mentees are also visible  under Mentees tab. **Note:** Before you accept mentee, ensure that the mentee is not participating in any other mentorship program.
-* **Withdrawn** - mentee has withdrawn their application. 
-* **Declined -** mentees application for the mentorship program has been declined.
+* **Pending** - mentee has applied to the mentorship program. 
+* **Accepted** - mentee has been accepted to the program. Accepted mentees are also visible  on the program Dashboard
+* **Withdrawn** - mentee has withdrawn the application. 
+* **Declined -** mentee's application for the mentorship program has been declined.
 * **Graduated** - mentee has successfully completed the mentorship program. 
 
 The Current Mentees Application Management section contains the following information:
@@ -63,8 +63,7 @@ The Current Mentees Application Management section contains the following inform
     <tr>
       <td style="text-align:left"><b>+Add Task</b>
       </td>
-      <td style="text-align:left">CTA to add u to <a href="manage-mentee-tasks.md#add-task">add tasks</a> for
-        mentees</td>
+      <td style="text-align:left">CTA to <a href="manage-mentee-tasks.md#add-task">add tasks</a> for mentees</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Decline All Pending Mentees Listed Below</b>
