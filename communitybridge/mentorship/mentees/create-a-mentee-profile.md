@@ -1,6 +1,6 @@
 # Create a Mentee Profile
 
-1. To create a mentee profiles, [sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) platform and select **Become a Mentee** menu item.
+1. To create a mentee profiles, [sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and select **Become a Mentee** menu item.
 
 ![](../../../.gitbook/assets/become-a-mentee.png)
 

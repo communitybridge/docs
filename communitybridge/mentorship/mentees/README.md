@@ -29,7 +29,7 @@ To be eligible for a mentorship stipend mentees must receive a satisfactory prog
 
 ### Your Activities <a id="Mentees-YourActivities"></a>
 
-Get started by creating your profile, and then continue with the next steps:
+Get started by creating your profile, then continue with the following activities: 
 
 * [Become a Mentee by Creating a Profile](create-a-mentee-profile.md) 
 * [View Status of your Application](view-status-of-your-application.md)

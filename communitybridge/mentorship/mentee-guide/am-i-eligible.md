@@ -1,15 +1,17 @@
 # Am I Eligible?
 
-The following eligibility rules apply to program applicants. You must:
+**Eligibility Rules** 
 
-* Be at least 18 years of age.
+The following eligibility rules apply to all mentee applicants. 
+
+* Be at least 18 years old by the time the mentorship program starts.
+* Not be a prior or an active participant in another Linux Foundation mentorship program.
 * Be eligible to work in the country and jurisdiction where you will be participating in the Mentorship program.
-* Not reside in a country or jurisdiction where participation in the mentorship is prohibited under applicable U.S. federal, state or local laws or the laws of other countries.
-* Not be a prior or an active participant in another CommunityBridge mentorship program.
-* Be seeking to participate on your own behalf as an individual.
-* Not be subject to any existing obligations to third parties \(such as contractual obligations to an employer, University regulations\) that would restrict or prohibit your participation in the Mentorship program.
-* Meet any additional criteria set by the particular project for which you want to apply. Some projects may have custom requirements for mentees. For example, some projects may limit mentorships to Mentees who are currently enrolled in school.
-* Not be a prior participant or a regular contributor involved with a project for which you want to be a mentee.
+* Not reside in a country or jurisdiction where participation in the mentorship is prohibited under applicable U.S. federal, state or local laws or the laws of other countries
+* Seeking to participate on your own behalf as an individual
+* Not be subject to any existing obligations to third parties \(such as contractual obligations to an employer\) that would restrict or prohibit your participation in a mentorship program.
+* Meet all criteria set by the program to which a mentees is applying, i.e. any custom prerequisites and requirements.
+* Not be a maintainer, contributor, etc.. involved with the open source project that offers a mentorship program. 
 
 
 

@@ -1,10 +1,10 @@
 # Introduction
 
-## **What is CommunityBridge Mentorship Program?**
+## **What is The Linux Foundation Mentorship Program?**
 
-CommunityBridge Mentorship program, developed by Linux Foundation, serves an important role in creating a structured hands-on learning opportunity for mentees—students, new and active programmers who want to learn open source software development— to gain exposure to open source development. The program matches mentees, based on their skills and interests, with mentors to learn and contribute to open source projects, and get paid for it. 
+The Linux Foundation Mentorship program serves an important role in creating a structured hands-on learning opportunity for mentees—students, new and active programmers who want to learn open source software development— to gain exposure to open source development. The program matches mentees, based on their skills and interests, with mentors to learn and contribute to open source projects, and get paid for it. 
 
-Accepted mentees get opportunities to learn open-source software development, and get hired by the potential employers participating in the program. The interesting part is you write code for the open-source software products that are used by the whole world– sounds exciting, doesn't it? So, take pride. Apply now to the CommunityBridge Mentorship program to be guided by Mentors, and become a part of open-source communities; learn, get paid, and get hired.
+Accepted mentees get opportunities to learn open-source software development, and get hired by the potential employers participating in the program. The interesting part is you write code for the open-source software products that are used by the whole world– sounds exciting, doesn't it? So, take pride. Apply to the Mentorship program to be guided by Mentors, and become a part of open-source communities; learn, get paid, and get hired.
 
 ## **Goals of the Program**
 
@@ -20,7 +20,7 @@ Following are the core goals of the Mentorship Program:
 
 ## **Program Structure**
 
-The CommunityBridge Mentorship program is a 12-week full-time or 24-week part-time training program. There will be a time period for prerequisite tasks completion, skill evaluation, review and selection process prior to starting of actual training.
+The Mentorship program is a 12-week full-time or 24-week part-time training program. There will be a time period for prerequisite tasks completion, skill evaluation, review and selection process prior to starting of actual training.
 
 1. Mentee prerequisite and skill evaluation process - 2 weeks \(not applicable to all projects\)
 2. Mentee application process - 6 weeks
