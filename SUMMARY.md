@@ -102,7 +102,6 @@
       * [Not Selected?](communitybridge/mentorship/mentee-guide/not-selected.md)
       * [Start the Journey](communitybridge/mentorship/mentee-guide/start-the-journey/README.md)
         * [What is Expected of You](communitybridge/mentorship/mentee-guide/start-the-journey/what-is-expected-of-you.md)
-        * [Mentee Task Management](communitybridge/mentorship/mentee-guide/start-the-journey/mentee-task-management.md)
         * [Evaluations](communitybridge/mentorship/mentee-guide/start-the-journey/evaluations.md)
         * [How to Graduate Successfully](communitybridge/mentorship/mentee-guide/start-the-journey/how-to-graduate-successfully.md)
       * [Additional Resources](communitybridge/mentorship/mentee-guide/additional-resources.md)

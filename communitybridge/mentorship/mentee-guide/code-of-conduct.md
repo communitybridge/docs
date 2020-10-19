@@ -8,7 +8,7 @@ This CoC applies to any member of the Linux Foundation’s project community –
 
 ### Statement of Intent
 
-**L**inux Foundation is committed to maintaining a positive work environment. This commitment calls for a workplace where participants at all levels behave according to the rules of the following code. A foundational concept of this code is that we all share responsibility for our work environment.
+The Linux Foundation is committed to maintaining a positive work environment. This commitment calls for a workplace where participants at all levels behave according to the rules of the following code. A foundational concept of this code is that we all share responsibility for our work environment.
 
 ### **Code**
 

@@ -1,6 +1,6 @@
 # How to Graduate Successfully
 
-Yes, we understand. If you haven’t been involved in an open source project before it can be intimidating initially. But, don’t worry, the entire community is here to help you at each step as you step up the ladder.
+Yes, we understand. If you haven’t been involved in an open source project before it can be intimidating initially. But don’t worry, the entire community is here to help you at each step as you learn.
 
 **Sit back and Observe**
 
