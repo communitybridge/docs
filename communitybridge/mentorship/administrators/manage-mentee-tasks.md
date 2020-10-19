@@ -1,27 +1,14 @@
 # Manage Mentee Tasks
 
-A mentee applicant must have at least one application task to complete, for example an interview. When you enroll your project in Mentorship program, you select or define prerequisites that a mentee applicant must complete—these tasks appear in the Tasks view. This view lets you add and edit new tasks and update their statuses.
+1. To manage mentee tasks [Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
 
-{% hint style="info" %}
-[View profile of the mentee](view-mentee-profile.md) applicant to learn about their interests, skills, and see if they already working on other projects to help you  decide if they're a good fit. You can also [Contact a Mentee](contact-a-mentee.md) if you have questions.  
-{% endhint %}
+2. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
 
-## **To Manage Mentee Tasks:** 
+![](../../../.gitbook/assets/view-mentee-task.png)
 
-1. [Sign in](../../../sso/sign-in/) to [CommunityBridge Mentorship.](https://people.communitybridge.org/)
-2. Go to your account and select **My Projects** from the drop-down list.  ![](../../../.gitbook/assets/my-projects.png)  An overview of each of your projects appears.
-3. Click a project for which you want to manage mentee application.
-4. Navigate to **Current** **Mentees** tab:
-   * [View Tasks](manage-mentee-tasks.md#view-tasks)
-   * [Change Status](manage-mentee-tasks.md#change-status)
-   * [Add Task](manage-mentee-tasks.md#add-task)
-   * [Edit Task](manage-mentee-tasks.md#edit-task)
+3. Click on **Filter By Application Status** dropdown to view accepted mentees.
 
-![Mentee Tasks](../../../.gitbook/assets/view-mentee-task.png)
-
-2. \(Optional\) Filter the list by selecting a value from the Filter By Application Status drop-down list.
-
-### **View Tasks**
+### **View Mentee Tasks**
 
 1. Click **View Tasks** to view all the tasks that are assigned to mentee. **Tasks Assigned to &lt;Mentee&gt;** table appears with all the details. 
 2. Select or clear the **Hide Prerequisite Tasks** checkbox to view or hide the prerequisite tasks.
@@ -29,11 +16,7 @@ A mentee applicant must have at least one application task to complete, for exam
 
 After a mentee submits a file for a task, you can view or download the file by clicking the respective icon beside a task, as shown below.
 
-![View Mentee Tasks](../../../.gitbook/assets/view-mentee-tasks-for-admin.png)
-
-If mentees submit all their assigned tasks, **Tasks Submitted** is displayed as shown below.
-
-![Mentee Submitted Tasks](../../../.gitbook/assets/mentee-submitted-tasks.png)
+![](../../../.gitbook/assets/view-mentee-tasks-for-admin.png)
 
 ### **Change Status**
 
@@ -48,10 +31,10 @@ Following table describes each status:
 
 | Status Name | Description |
 | :--- | :--- |
-| **Pending** | Mentee is yet to work on the task. |
+| **Pending** | Mentee hasn't started to work on the task. |
 | **In Progress** | Mentee is working on the task, and has changed the status to **In Progress.** |
-| **Submitted** | Mentee has changed the status to **Submitted.** |
-| **Completed** | Set to **Completed** if a mentee has completed a task. |
+| **Submitted** | Mentee has completed the task and changed the status to **Submitted.** |
+| **Completed** | Set to task status to **Completed** if a mentee has satisfactorily completed the task. |
 
 ### **Add Task**
 

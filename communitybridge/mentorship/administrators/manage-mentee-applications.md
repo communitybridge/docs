@@ -8,11 +8,11 @@
 
 2. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
 
-![Mentee Application Status](../../../.gitbook/assets/mentee-application-admin.png)
+![](../../../.gitbook/assets/tasks-submitted.png)
 
 Please note the following application statuses: 
 
-* **Pending** - mentee has applied to the mentorship program. 
+* **Pending** - mentee has applied to the mentorship program. The mentee application is ready for review when "Tasks Submitted" is displayed above the status dropdown. 
 * **Accepted** - mentee has been accepted to the program. Accepted mentees are also visible  on the program Dashboard
 * **Withdrawn** - mentee has withdrawn the application. 
 * **Declined -** mentee's application for the mentorship program has been declined.
