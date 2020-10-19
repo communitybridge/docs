@@ -70,7 +70,7 @@
         * [Mentorship Project Enrollment Form](communitybridge/mentorship/administrators/enroll-your-project/mentorship-project-enrollment-form.md)
       * [Edit a Project](communitybridge/mentorship/administrators/edit-a-project.md)
       * [Open or Close Mentorship Applications](communitybridge/mentorship/administrators/open-or-close-mentorship-applications.md)
-      * [Adding Mentors](communitybridge/mentorship/administrators/adding-mentors.md)
+      * [Add Mentors](communitybridge/mentorship/administrators/adding-mentors.md)
       * [View Mentee Profile](communitybridge/mentorship/administrators/view-mentee-profile.md)
       * [Manage Mentee Applications](communitybridge/mentorship/administrators/manage-mentee-applications.md)
       * [Manage Mentee Tasks](communitybridge/mentorship/administrators/manage-mentee-tasks.md)
