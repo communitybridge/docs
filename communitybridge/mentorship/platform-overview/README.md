@@ -1,6 +1,6 @@
 # Platform Overview
 
-The CommunityBridge Mentorship platform facilitates a structured remote learning environment to new open source developers. Experienced project maintainers and contributors use the platform to mentor aspiring individuals and help them become contributors to the open source community.
+The Mentorship platform facilitates a structured remote learning environment to new open source developers. Experienced project maintainers and contributors use the platform to mentor aspiring individuals and help them become contributors to the open source community.
 
 **To Get started:**
 
