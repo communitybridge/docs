@@ -32,9 +32,3 @@ Keep these items ready before you begin:
 After The Linux Foundation reviews the project application, you will receive an email notification with a review decision. 
 {% endhint %}
 
-## Your Activities <a id="Administrators-YourActivities"></a>
-
-[Open or Close Mentorship Applications](../open-or-close-mentorship-applications.md)
-
-[Manage Your Mentorship Account](../manage-your-account.md)
-

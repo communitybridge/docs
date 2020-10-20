@@ -18,7 +18,7 @@ Please note the following application statuses:
 * **Declined -** mentee's application for the mentorship program has been declined.
 * **Graduated** - mentee has successfully completed the mentorship program. 
 
-The Current Mentees Application Management section contains the following information:
+The Current Mentees section contains the following information:
 
 <table>
   <thead>
@@ -84,9 +84,4 @@ The Current Mentees Application Management section contains the following inform
     </tr>
   </tbody>
 </table>
-
-Continue to:
-
-* [Manage Mentees Tasks](manage-mentee-tasks.md)
-* [Contact a Mentee](contact-a-mentee.md)
 

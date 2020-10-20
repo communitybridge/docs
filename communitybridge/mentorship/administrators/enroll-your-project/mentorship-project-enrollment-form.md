@@ -64,6 +64,3 @@ The terms and conditions checkbox is mandatory and need to be selected before th
 
 ![](../../../../.gitbook/assets/mentorship-project-terms-and-conditions.png)
 
-  
-
-

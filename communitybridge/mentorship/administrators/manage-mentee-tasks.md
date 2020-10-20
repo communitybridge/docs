@@ -27,7 +27,7 @@ When you update a task, the mentee receives an email informing them that the tas
 
 ![](../../../.gitbook/assets/mentee-tasks%20%283%29.png)
 
-Following table describes each status:
+Below is a description of each status:
 
 | Status Name | Description |
 | :--- | :--- |
@@ -41,7 +41,7 @@ Following table describes each status:
 Click **+ Add Task** to add a new task for a selected mentee or for all the accepted mentees.  
 The Create Task page appears. Complete the form fields and click **Add Task**. When you create a task, the mentee applicant receives an email informing them that a new task is assigned.
 
-![Add a Task](../../../.gitbook/assets/create-a-task.png)
+![](../../../.gitbook/assets/create-a-task.png)
 
 ### **Edit Task**
 
@@ -49,10 +49,10 @@ The Create Task page appears. Complete the form fields and click **Add Task**. W
 **Important:** You can not edit prerequisite tasks.
 {% endhint %}
 
-![Edit Mentee Task](../../../.gitbook/assets/edit-mentee-task.png)
+![](../../../.gitbook/assets/edit-mentee-task.png)
 
 Click **Edit Task** for a mentee task.  
  The Edit Task dialog appears. Modify the task and click **Submit**.
 
-![Edit Task](../../../.gitbook/assets/edit-task.png)
+![](../../../.gitbook/assets/edit-task.png)
 
