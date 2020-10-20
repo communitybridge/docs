@@ -1,6 +1,6 @@
 # Mentorship Project Enrollment Form
 
-Below are Mentorship Project Enrollment Form fields and their descriptions: 
+Below are Mentorship enrollment form fields and their descriptions: 
 
 | Name | Description |
 | :--- | :--- |
