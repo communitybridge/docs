@@ -4,7 +4,7 @@ To view program details, navigate to the [Mentorship](https://people.communitybr
 
 ![](../../../.gitbook/assets/mentorship-project-details%20%282%29.png)
 
-On the mentorship program detail page you can view the following information, depending on the available data:
+On the program detail page you can view the following information, depending on the available data:
 
 <table>
   <thead>
