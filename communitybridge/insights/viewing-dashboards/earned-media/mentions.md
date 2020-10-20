@@ -1,6 +1,6 @@
 # Mentions
 
-Mentions for earned media shows geographical analysis of how many times a brand name is mentioned or referenced on different media platforms. Mention volumes help to understand success of SEO and marketing for a brand.
+Mentions for earned media shows regional analysis of how many times a brand name is mentioned or referenced on different media platforms. Mention volumes help to understand success of SEO and marketing for a brand.
 
 {% hint style="info" %}
 **Note:** Mentions refer to articles or blogs. Even if a brand name or its main search terms are mentioned multiple times in one article, it is considered as one mention.
