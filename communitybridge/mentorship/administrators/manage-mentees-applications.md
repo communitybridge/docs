@@ -1,6 +1,10 @@
-# Review Mentees Applications
+# Manage Mentees Applications
 
-1. To review mentee applications ****[Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
+{% hint style="warning" %}
+**Important:** You cannot accept a mentee who has graduated or is actively participating in another Linux Foundation mentorship program.
+{% endhint %}
+
+1. To manage mentee applications ****[Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
 
 2. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
 
@@ -54,14 +58,12 @@ The Current Mentees Application Management section contains the following inform
     <tr>
       <td style="text-align:left"><b>View Tasks</b>
       </td>
-      <td style="text-align:left">CTA to <a href="../administrators/manage-mentee-tasks.md">view and manage</a> mentee
-        tasks</td>
+      <td style="text-align:left">CTA to <a href="manage-mentee-tasks.md">view and manage</a> mentee tasks</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>+Add Task</b>
       </td>
-      <td style="text-align:left">CTA to <a href="../administrators/manage-mentee-tasks.md#add-task">add tasks</a> for
-        mentees</td>
+      <td style="text-align:left">CTA to <a href="manage-mentee-tasks.md#add-task">add tasks</a> for mentees</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Decline All Pending Mentees Listed Below</b>
@@ -85,6 +87,6 @@ The Current Mentees Application Management section contains the following inform
 
 Continue to:
 
-* [Manage Mentees Tasks](../administrators/manage-mentee-tasks.md)
-* [Contact a Mentee](../administrators/contact-a-mentee.md)
+* [Manage Mentees Tasks](manage-mentee-tasks.md)
+* [Contact a Mentee](contact-a-mentee.md)
 

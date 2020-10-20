@@ -1,6 +1,6 @@
-# Manage Your Mentorship Account
-
-{% page-ref page="../administrators/manage-your-mentorship-account.md" %}
+# Manage Your Account
 
 
+
+{% page-ref page="../administrators/manage-your-account.md" %}
 

@@ -8,7 +8,7 @@ Get started by enrolling your project.
 
 * [Enroll Your Project](enroll-your-project/)
 * [Edit a Project](edit-a-project.md)
-* [Manage Your Project Mentees](manage-mentee-applications.md)
+* [Manage Your Project Mentees](manage-mentees-applications.md)
 * [Open or Close Mentorship Applications](open-or-close-mentorship-applications.md)
 * [Invite and Accept Mentors](adding-mentors.md)
 

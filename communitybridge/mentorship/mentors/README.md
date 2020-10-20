@@ -1,6 +1,6 @@
 # Mentors
 
-Mentors are experienced industry professionals for one or more open source projects. As a mentor, you offer your time and experience to help mentees become new participants in open source communities. 
+
 
 ### Benefits <a id="Mentors-Benefits"></a>
 
@@ -16,8 +16,8 @@ Consider the following benefits for mentors who participate in the Mentorship pr
 The following eligibility rules apply to program applicants. You:
 
 * Must be at least 18 years of age
-* Must be a prior participant \(administrator, contributor, and so on\) of the project for which you want to be a mentor
-* Should have significant experience in the subject matter of the mentorship and in the skills that the mentee will be developing
+* Must be a participant \(administrator, contributor, and so on\) in the project for which you want to be a mentor
+* Should have significant experience on the subject matter and the skills that the mentees will be developing
 * Must not be subject to any obligations to third parties \(such as contractual obligations to an employer\) that would restrict or prohibit performing as a mentor
 * Must be able to devote sufficient time to assisting one or more mentees on a regular basis throughout their mentorships
 
@@ -31,11 +31,4 @@ Consider the following mentorship responsibilities and duties before you apply t
 * Assign tasks for the mentee
 * Track your mentees' progress
 * Write a graduation report for the mentee and refer the graduate to companies for interview opportunities
-
-### Your Activities <a id="Mentors-YourActivities"></a>
-
-Get started by creating your profile and then continue with other activities:
-
-* [Become a Mentor](become-a-mentor/)\*\*\*\*
-* [Manage Mentees](review-mentee-applications-and-tasks.md)
 

@@ -36,5 +36,5 @@ After The Linux Foundation reviews the project application, you will receive an 
 
 [Open or Close Mentorship Applications](../open-or-close-mentorship-applications.md)
 
-[Manage Your Mentorship Account](../manage-your-mentorship-account.md)
+[Manage Your Mentorship Account](../manage-your-account.md)
 

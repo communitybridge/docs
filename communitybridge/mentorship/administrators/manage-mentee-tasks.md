@@ -1,4 +1,4 @@
-# Manage Mentee Tasks
+# Manage Mentees Tasks
 
 1. To manage mentee tasks [Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
 
