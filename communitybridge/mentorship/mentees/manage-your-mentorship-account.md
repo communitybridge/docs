@@ -1,6 +1,6 @@
 # Manage Your Account
 
-To manage your account, [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and click on **My Account** menu icon to view the manage account dropdown options.   
+To manage your account, [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and click on **My Account** icon to view the manage account dropdown options.   
  ![](../../../.gitbook/assets/my-account.png) 
 
 ## My Profile

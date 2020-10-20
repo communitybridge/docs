@@ -1,6 +1,6 @@
 # Apply to a Mentorship Program
 
-1. To apply to a mentorship program [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.dev.platform.linuxfoundation.org/). If you haven't created a profile yet, click on **Become a Mentee** menu item.
+1. To apply to a mentorship program [Sign in](../../../sso/sign-in/) to the [Mentorship](https://people.dev.platform.linuxfoundation.org/). If you haven't created a profile yet, click on **Become a Mentee** navigation menu item.
 
 ![](../../../.gitbook/assets/become-a-mentee.png)
 
