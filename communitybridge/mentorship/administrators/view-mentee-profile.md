@@ -1,6 +1,6 @@
 # View Mentee Profile
 
-After a mentee applies to your program, you can view their profile before you accept or decline their application.
+After a mentee applies to your project, you can view their profile before you accept or decline their application.
 
 To view mentee profile:
 
