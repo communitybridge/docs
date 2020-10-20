@@ -15,5 +15,5 @@ Below are task statuses and their descriptions:
 * You can sort tasks by ascending or descending order from the **Sorting Order** dropdown. 
 {% endhint %}
 
-![Tasks for Mentees](../../../.gitbook/assets/mentee-tasks-for-mentee.png)
+![](../../../.gitbook/assets/mentee-tasks-for-mentee.png)
 

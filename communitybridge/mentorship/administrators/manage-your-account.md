@@ -1,8 +1,7 @@
 # Manage Your Account
 
 To manage your account [Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/) and navigate to your user account and select an **option** from the drop-down list:  
- ![](../../../.gitbook/assets/my-account.png)   
-
+ ![](../../../.gitbook/assets/my-account.png) 
 
 ## My Profile
 
@@ -13,6 +12,4 @@ To manage your account [Sign in](../../../sso/sign-in/) to [Mentorship](https://
 My Projects page contains the cards of all mentorship programs for which you're an admin.
 
 ![](../../../.gitbook/assets/admin-mentorship-account.png)
-
-\*\*\*\*
 

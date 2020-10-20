@@ -10,8 +10,6 @@ Keep these items ready before you begin:
 * An image file for your avatar in JPG, PNG, SVG format with a maximum size of 2 MB
 * \(Required\) Information about that project for which you like to mentor individuals: project name, project repository URL, and project administrator name and email
 
-\*\*\*\*
-
 ![](../../../../.gitbook/assets/become-a-mentor.png)
 
 2. Complete the form fields.  
@@ -44,13 +42,13 @@ Introduce yourself to project administrators and inform them why you would excel
 
 Click in the **Skill Name** filed, select a skill, and click **+Add skill** to add your current skills.
 
-![Mentor Skills](../../../../.gitbook/assets/mentor-skills.png)
+![](../../../../.gitbook/assets/mentor-skills.png)
 
 ### External Profile Links <a id="CreateaMentorProfile-ExternalProfileLinks"></a>
 
 Showcase your experience by providing links to your external profiles pages, and upload your resume file. Your external profile links will appear on your mentor card in Mentorship.
 
-![External Profile Links](../../../../.gitbook/assets/external-profile-links.png)
+![](../../../../.gitbook/assets/external-profile-links.png)
 
 ### Mentorship Project Details <a id="CreateaMentorProfile-ProjectDetails"></a>
 
@@ -62,7 +60,7 @@ Click in the field, type a project name or select from the drop-down list, and c
 
 After the project maintainer adds you to the project, you will get an email notification informing that you are added to the project, and the status changes to **Added**.
 
-![Mentorship Project Details](../../../../.gitbook/assets/mentorship-project-details%20%281%29.png)
+![](../../../../.gitbook/assets/mentorship-project-details%20%281%29.png)
 
 ### Terms and Conditions <a id="CreateaMentorProfile-TermsandConditions"></a>
 

@@ -4,7 +4,7 @@
 
 ![application status for mentee](../../../.gitbook/assets/application-status.png)
 
-Below is a description of each status:
+Below is a description of each application status:
 
 * **Pending:** You have submitted application, and it is in a **Pending** state. The project admin and mentors are reviewing your prerequisite materials before they make the acceptance decision. 
 * **Accepted:** You have been accepted to the mentorship program and should have received an email notification.
