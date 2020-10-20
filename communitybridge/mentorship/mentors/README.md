@@ -1,8 +1,6 @@
 # Mentors
 
-
-
-### Benefits <a id="Mentors-Benefits"></a>
+## Benefits
 
 Consider the following benefits for mentors who participate in the Mentorship program:
 
