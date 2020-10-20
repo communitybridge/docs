@@ -12,7 +12,7 @@ Mentions for earned media shows regional analysis of how many times a brand name
 
 **Social Amplification** shows how many times a brand's content is shared on different social media platforms. It helps to understand the reach of your brand so that you can optimize your content for better reach to the audiences and 
 
-**Total Mentions** 
+**Total Mentions** shows an interpreting graph that displays periodic tracking of total mentions for a selected time range. Earned mentions indicates number of mentions over paid media platforms, such as news channels, news papers, blog sites, and so on whereas Social mentions indicates number of mentions over social media platforms, such as Facebook, LinkedIn, Twitter, and so on.
 
 **U.S. Mentions by City and State** shows brand coverage in number of mentions by states and cities of United States.
 
