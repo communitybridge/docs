@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-1. Open [CommunityBridge Funding](https://funding.communitybridge.org/). Projects tab appears.
+1. Open [Funding](https://funding.communitybridge.org/). Projects tab appears.
 2. From **Projects** tab, click a **project** of interest or search for a project. The landing page shows overview of the project.
 3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
 4. Navigate to each tab, such as Events, Security Audits \(OSTIF\) Mentors, Initiatives, and click an entity under a tab to know more about the entity:

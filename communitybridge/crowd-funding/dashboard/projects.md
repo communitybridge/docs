@@ -4,7 +4,7 @@ Projects page indicates how active a project is in the open source community. Th
 
 **To view project details:**
 
-1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
+1. Open [Funding](https://funding.communitybridge.org/).
 2. From **Projects** tab, Click a **project** of interest. The landing page shows overview of the project.
 3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
    * [Overview](projects.md#ProjectsandMentorships-Overview)
