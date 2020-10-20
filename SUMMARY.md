@@ -114,7 +114,6 @@
         * [Why to Become a Mentor](communitybridge/mentorship/mentor-guide/getting-started/why-to-become-a-mentor.md)
         * [Can I be a Mentor?](communitybridge/mentorship/mentor-guide/getting-started/can-i-be-a-mentor.md)
         * [Benefits for Mentors](communitybridge/mentorship/mentor-guide/getting-started/benefits-for-mentors.md)
-        * [How to Be a Mentor](communitybridge/mentorship/mentor-guide/getting-started/how-to-be-a-mentor.md)
         * [What Makes a Good Mentor](communitybridge/mentorship/mentor-guide/getting-started/what-makes-a-good-mentor.md)
         * [How to Select Mentees](communitybridge/mentorship/mentor-guide/getting-started/how-to-select-mentees.md)
       * [Mentoring Best Practices](communitybridge/mentorship/mentor-guide/mentoring-best-practices.md)

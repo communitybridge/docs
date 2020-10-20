@@ -2,7 +2,7 @@
 
 The very first responsibility that makes you a good mentor is selecting the right fit \(mentee\) for your project. This way it helps both you and the organization in getting the right candidate who eventually becomes a key player for the project. 
 
-A helpful starting point to select the right candidate is to identify why a mentee is interested in applying to the mentorship program, and what do they expect after successfully graduating from the program. Thankfully, CommunityBridge has a well defined application process for mentees which will help you to decide. Also, as a mentor, you are expected to work with mentees during the application process so that  you get enough time to choose the right candidate for this program. 
+A helpful starting point to select the right candidate is to identify why a mentee is interested in applying to the mentorship program, and what do they expect after successfully graduating from the program. Thankfully, has a well defined application process for mentees which will help you to decide. Also, as a mentor, you are expected to work with mentees during the application process so that  you get enough time to choose the right candidate for this program. 
 
 Apart from this, there are some techniques that you should consider while selecting a mentee:
 

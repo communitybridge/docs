@@ -10,7 +10,7 @@ Absolutely! For mentees who successfully graduate, Linux Foundation promotes the
 
 **How many mentorship terms are there per year?**
 
-CommunityBridge offers mentorship programs around the year with specific term dates. Please check the projects of your interest to find details of the program term dates.
+The Linux Foundation offers mentorship programs around the year with specific term dates. Please check the projects of your interest to find details of the program term dates.
 
 **How long is a mentee engaged in the program?**
 

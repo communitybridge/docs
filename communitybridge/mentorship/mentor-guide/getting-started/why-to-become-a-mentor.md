@@ -3,7 +3,7 @@
 As a mentor, you not only provide technical guidance to mentees, you also understand their enthusiasm to learn and work for open source development based on which you can select them for the program, and refer their profile to potential employers. You are the person who helps mentees learn and enhance their technical skills, and whose guidance brightens their career. Sounds cool, doesn’t it? Good mentees can also become great mentors in future, and contribute effectively to communities.  
 
 
-Here are some reasons to consider putting yourself forward as a mentor and formally participate in the CommunityBridge Mentorship program:
+Here are some reasons to consider putting yourself forward as a mentor and formally participate in the mentorship program:
 
 * You believe in the value of mentorship by helping new and active developers learn open source development, culture, the tooling and infrastructure to be a productive member of the community.
 * You are passionate about teaching and guiding aspiring developers, many of whom may be first time open-source contributors.
