@@ -9,7 +9,7 @@ Below are Mentorship enrollment form fields and their descriptions:
 | **Elevator Pitch**  | A description of the mentorship program. |
 | **Repository URL** | A link to the open-source project repository the mentorship program will be using. |
 | **Website URL** | A link to the website associated with the mentorship program. |
-| **CII Project ID** | The [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/) is an open source secure development maturity model. Projects that have a CII badge showcase the project’s commitment to security. Project admins should apply to get a badge and CII Project ID number if their project already does not have one.  |
+| **CII Project ID** | The [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/) is an open source secure development maturity model. Project admins need to apply to get a badge and CII Project ID number if their project already does not have one.  |
 | **Code of Conduct URL** | URL for the open source project code of conduct. If a project doesn't have a code of conduct, a program admin can create one by using a provided template. If not code of conduct is provided, the URL will default to [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) code of conduct.  |
 | **Project Logo** | An open source project logo. File size should be 2MB max and in JPG, PNG, or SVG format. |
 | **Project Accent Color** | A color that's a part of the project's brand.  |
