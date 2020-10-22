@@ -1,7 +1,7 @@
 # Dashboard
 
-1. To get started [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the [Projects ****](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/dashboard#Dashboard-ProjectsandMentorships)tabs, and select a project you would like to view to navigate to the project's dashboard. 
-2. Navigate to other tabs, i.e., [Events](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/dashboard#Dashboard-Events), [Travel Funds](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/dashboard#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/dashboard#security-audits-ostif), [Initiatives](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/dashboard#initiatives) to learn more about each. 
+1. To get started [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the Projects ****tabs, and select a project you would like to view to navigate to the project's dashboard. 
+2. Navigate to other tabs, i.e., Events, Travel Funds, Security Audits \(OSTIF\), Initiatives to learn more about each. 
 3. To participate:
    * [Apply to raise fund for a project](../apply-for-funding/)
      * [Add a GitHub project](../apply-for-funding/add-a-github-project.md)
