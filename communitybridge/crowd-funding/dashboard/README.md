@@ -1,17 +1,10 @@
 # Dashboard
 
-### Getting Started
+### 
 
-1. Open [Funding](https://funding.communitybridge.org/). Projects tab appears.
-2. From **Projects** tab, click a **project** of interest or search for a project. The landing page shows overview of the project.
-3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
-4. Navigate to each tab, such as Events, Security Audits \(OSTIF\) Mentors, Initiatives, and click an entity under a tab to know more about the entity:
-   * [Projects](./#Dashboard-ProjectsandMentorships)
-   * [Events](./#Dashboard-Events)
-   * [Security Audits \(OSTIF\)](./#security-audits-ostif)
-   * [Initiatives](./#initiatives)
-   * [Travel Funds](./#Dashboard-TravelScholarships)
-5. Participate:
+1. To get started [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the **Projects** tabs, and select a project you would like to view to navigate to the project's dashboard. 
+2. Navigate to other tabs, i.e., Events, Travel Funds, Security Audits \(OSTIF\), Initiatives to learn more about each.
+3. To participate:
    * [Apply to raise fund for a project](../apply-for-funding/)
      * [Add a GitHub project](../apply-for-funding/add-a-github-project.md)
      * [Add a Git project](../apply-for-funding/add-a-git-project.md)
@@ -24,7 +17,7 @@
 
 ## Projects <a id="Dashboard-ProjectsandMentorships"></a>
 
-**Projects** \(the default selection\) lists Git projects. Project overview information shows the number of sponsors, the CII badge![](../../../.gitbook/assets/7416569.png)for a participant in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/), and so on. The color of the badge represents the CII status. 
+**Projects** \(the default selection\) lists Git-based projects. Project overview information shows the number of sponsors, the CII badge![](../../../.gitbook/assets/7416569.png)for a participant in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/), and so on. The color of the badge represents the CII status. 
 
 For each project, the project card shows the following information:
 
