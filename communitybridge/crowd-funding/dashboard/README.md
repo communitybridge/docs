@@ -1,7 +1,5 @@
 # Dashboard
 
-### 
-
 1. To get started [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the **Projects** tabs, and select a project you would like to view to navigate to the project's dashboard. 
 2. Navigate to other tabs, i.e., Events, Travel Funds, Security Audits \(OSTIF\), Initiatives to learn more about each.
 3. To participate:
