@@ -1,9 +1,12 @@
 # Initiatives
 
-Initiatives page displays the initiatives that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/)
+Initiatives page displays the initiatives that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/) By selecting one of the initiatives, you can view its dashboard and learn about its sponsors, and how the expenses are distributed. CommunityBridge maintains and displays a transparent ledger of incoming and outgoing funds, which are displayed in financial tab.
 
-1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Initiatives](./#initiatives) tab, and select a project to navigate to the project's dashboard. 
-2. Select one of the following tabs to view details:
+**To view details:**
+
+1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
+2. From **Initiatives** tab, Click an initiative of interest. The landing page shows overview of the project.
+3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
    * [Overview](initiatives.md#overview)
    * [Dashboard](initiatives.md#dashboard)
    * [Financial](initiatives.md#ProjectsandMentorships-Financial)

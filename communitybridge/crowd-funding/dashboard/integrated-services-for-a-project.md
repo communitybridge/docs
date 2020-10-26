@@ -1,18 +1,20 @@
 # Integrated Services for a Project
 
-Integrated services for a project let you see additional information about a project.
+Integrated services for a project lets you see additional information about a project.
 
-**Note:** Integrated services are not available for Events and Travel Funds
+**Note:** Integrated services are not available for Events and Travel Funds.
 
 **To view integrated services:** 
 
-1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. Select **Projects.**
-3. Select a project of interest, the project detail page shows the integrates services, which can help you gain insight into the project. Funding integrates with the following independent CommunityBridge services:
+1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Projects](./#Dashboard-ProjectsandMentorships) tab, and select a project to navigate to the project's dashboard. 
+2. Funding integrates with the following independent Linux Foundation services:
+   * [Mentorship Program](integrated-services-for-a-project.md#IntegratedServicesforaProject-MentorshipProgram)
+   * [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks)
+   * [Vulnerability Detection](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection)
 
 ## Mentorship Program <a id="IntegratedServicesforaProject-MentorshipProgram"></a>
 
-It is displayed if the project is enrolled to CommunityBridge mentorship program. The **Mentorship** **Program** provides a mentorship matchmaking service that helps grow interested mentees into participating contributors in open source communities. This program connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
+It is displayed if the project is enrolled to mentorship program. The **Mentorship** **Program** provides a mentorship matchmaking service that helps grow interested mentees into participating contributors in open source communities. This program connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
 
 ![](../../../.gitbook/assets/7416592.png)
 

@@ -1,9 +1,12 @@
 # Security Audit
 
-Security Audit page displays the projects that are currently enrolled for security audit performed by [Open Source Technology Improvement Fund \(OSTIF\)](https://ostif.org/the-ostif-mission/).
+Security Audit page displays the projects that are currently enrolled for security audit performed by [Open Source Technology Improvement Fund \(OSTIF\)](https://ostif.org/the-ostif-mission/). OSTIF is a corporate non-profit organization that connects open-source security projects with much needed funding and logistical support. By selecting one of the projects, you can view its dashboard and learn about its sponsors, and how the expenses are distributed. CommunityBridge maintains and displays a transparent ledger of incoming and outgoing funds, which are part of the Financial tab.
 
-1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Security Audits \(OSTIF\)](./#security-audits-ostif) tab, and select a project to navigate to the project's dashboard. 
-2. Select one of the following tabs to view details:
+**To view details:**
+
+1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
+2. From **Security Audits \(OSTIF\)** tab, Click a **project** of interest. The landing page shows overview of the project.
+3. Browse Dashboard for information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
    * [Overview](security-audit.md#overview)
    * [Dashboard](security-audit.md#dashboard)
    * [Financial](security-audit.md#ProjectsandMentorships-Financial)
@@ -12,15 +15,72 @@ Security Audit page displays the projects that are currently enrolled for securi
 
 The overview shows some or all of the following items depending on the data that is available:
 
-| Name  | Description |
-| :--- | :--- |
-| **Donate** | Click **Donate** to [donate](../donate-sponsor/) to the project. |
-| **Current Balance** | The total amount of funds available in the account. |
-| **Sponsor Organizations** | The logos of companies that sponsor the project. |
-| **View Repository** | Opens the project repository in GitHub. |
-| **View Website** | Opens the associated website. |
-| **CII badge field** ![](../../../.gitbook/assets/7418513%20%281%29.png) | A CII Badge indicated that a project participates in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/). |
-| **Code of Conduct** | Link to the project's code of conduct. If the project doesn't have its own code of conduct, the link will default to [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) code of conduct. |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Donate</b>
+      </td>
+      <td style="text-align:left">Click <b>Donate </b>to <a href="../donate-sponsor/">donate</a> to the project.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Balance</b>
+      </td>
+      <td style="text-align:left">The total amount of funds available in the account.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sponsor Organizations</b>
+      </td>
+      <td style="text-align:left">The logos of companies that sponsor the project.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>View Repository</b>
+      </td>
+      <td style="text-align:left">Opens the project repository in GitHub.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>View Website</b>
+      </td>
+      <td style="text-align:left">Opens the associated website.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CII badge field</b> 
+        <img src="../../../.gitbook/assets/7418513 (1).png"
+        alt/>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Shows that the project is a participant in the <a href="https://www.coreinfrastructure.org/programs/badge-program/">Core Infrastructure Initiative (CII) Badge Program</a>.</li>
+          <li>The color of the badge represents the CII status.</li>
+          <li>The status is a &quot;tiered %&quot; field&#x2014;the field shows 300%
+            for gold, 200% for silver, and 100% for passing, and adds progress after
+            the highest-earned badge.</li>
+          <li>A CII badge indicates that the project has self-certified that they follow
+            best practices for secure open source development.</li>
+          <li>Click the <b>badge field</b> to go the project&apos;s CII Best Practices
+            page and view the CII details.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Code of Conduct</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Shows the rules of behavior for the project.</li>
+          <li>The Code of Conduct (CoC) identifies the standard behavior expected of
+            their community &#x2014; and to protect those involved. A default <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct">Code of Conduct</a> opens
+            when a project does not provide a specific one.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Dashboard
 

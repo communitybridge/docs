@@ -1,12 +1,9 @@
 # Travel Funds
 
-You can learn about Travel Funds and donate to the ones you would like to support. Travel Funds provide financial assistance to need-based individuals for travel expenses such as travel to a Linux Foundation conference or an open source project-related technical summit. Each detail page shows high-level information about the overall funding, including how funds are distributed and what the funding goals are. Crowdfunding maintains and displays a transparent ledger of incoming funds \(backer and sponsor transactions\) and outgoing funds \(developer invoices, expenses paid, and so on\) for each Travel Funds. The Financial tab lists all these transactions with details so that the entire community can view receipts of expenses.
+Travel Funds provide financial assistance to need-based individuals for travel expenses such as travel to a Linux Foundation conference or an open source project-related technical summit. You can donate to the travel funds that you want to support.
 
-**To learn about Travel Funds**
-
-1. Open [CommunityBridge Funding](https://funding.communitybridge.org/).
-2. From Travel Funds tab, and click a travel fund of your interest.
-3. Browse the detail for more information. Click the **Financial** tab to see transaction details. **Note:** The Home screen shows the overview of the project.
+1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Travels Funds](./#Dashboard-TravelScholarships) tab, and select a travel fund to navigate to the dashboard.
+2. Select one of the following tabs to view details:
    * [Overview](travel-funds.md#TravelScholarships-Overview)
    * [Dashboard](travel-funds.md#TravelScholarships-Dashboard)
    * [Financial](travel-funds.md#TravelScholarships-Financial)
@@ -20,6 +17,7 @@ The overview shows some or all of the following items depending on the data that
 | **Current Balance** | The total amount of funds available in the account. |
 | **Sponsor Organizations** | The logos of the companies that sponsor the project. |
 | **Visit Website** | Opens the associated website. |
+| **Donate** | Click Donate to [donate](../donate-sponsor/) to a travel fund. |
 
   
 View an example of a travel fund overview section:

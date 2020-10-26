@@ -17,8 +17,8 @@ The overview shows some or all of the following items depending on the data that
 | **View Website** | Opens the associated website. |
 | **Location** | The location of the event.. |
 | **Dates** | The start date and end date of the event. |
-| **Register** | Lets you [register](../register-for-an-event.md) for the event. |
-| **Sponsor** | Lets you [donate](../donate-sponsor/) to the event. |
+| **Register** | Click **Register** to [register](../register-for-an-event.md) for the event. |
+| **Sponsor** | Click Sponsor to [donate](../donate-sponsor/) to the event. |
 | **Current Balance** | The total amount of funds available in the account. |
 | **Sponsor Organizations** | The logos of companies that sponsor the project. |
 | **Sponsorships** | The logos for the types of sponsorships. |
