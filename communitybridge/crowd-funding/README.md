@@ -1,6 +1,6 @@
 # Funding
 
-Funding makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to ensure the project communities have financial resources to secure, maintain, and advance open source initiatives.
+Funding makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the funding effort is to ensure the project communities have financial resources to secure, maintain, and advance open source initiatives.
 
 The Linux Foundation doesn't charge any fees for the first $10M raised through the platform,  which allows developers to use more money for work, drive innovation, sustainability, and adoption.
 
@@ -27,7 +27,7 @@ Designated **beneficiaries** get reimbursed for their work efforts by submitting
 
 ## How to Participate <a id="CommunityBridgeFunding-HowtoParticipate"></a>
 
-You can participate by applying and submitting your open source project, initiative or event to raise money through crowdfunding, as well as by donating to projects, and sponsoring events and travel funds. 
+You can participate by applying and submitting your open source project, initiative or event to raise money through funding, as well as by donating to projects, and sponsoring events and travel funds. 
 
 You must have an [account](../../sso/create-an-account.md) to sign in to [Funding](https://funding.communitybridge.org/) to participate. For Sign In details, please see [sign in to your account.](../../sso/sign-in/)  
 **Note:** If you already have an LF account,  you can sign in using your SSO credentials.

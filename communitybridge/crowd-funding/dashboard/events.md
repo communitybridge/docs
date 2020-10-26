@@ -1,6 +1,6 @@
 # Events
 
-Events page displays the project related events that are organized for specific reasons. You can donate to the events that you want to support, and also register to attend an event.
+Events page displays the project related events that are organized for specific reasons. You can [donate](../donate-sponsor/) to the events that you want to support, and also [register](../register-for-an-event.md) to attend an event.
 
 1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Events](./#Dashboard-Events) tab, and select an event to navigate to the event's dashboard. 
 2. Select one of the following tabs to view details:
