@@ -1,14 +1,19 @@
 # Dashboard
 
-## Getting Started <a id="Dashboard-GettingStarted"></a>
+Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Funding.
 
-1. Browse or search for projects and learn more:
-   * [Projects and Mentorships](projects-and-mentorships.md)
-   * [Events](events.md)
-   * [Travel Scholarships](travel-scholarships.md)
-   * [Integrated Services for a Project](integrated-services-for-a-project.md)
-   * [Search](search.md)
-   * [Toggle Between Funding and Mentorship for a Project](toggle-between-funding-and-mentorship-for-a-project.md)
+1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the [Projects ](./#Dashboard-ProjectsandMentorships)tabs, and select a project you would like to view to navigate to the project's dashboard. 
+2. Navigate to other tabs, i.e., [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives) to learn more about each. 
+3. To participate:
+   * [Apply to raise fund for a project](../apply-for-funding/)
+     * [Add a GitHub project](../apply-for-funding/add-a-github-project.md)
+     * [Add a Git project](../apply-for-funding/add-a-git-project.md)
+     * [Add a project for security audit]()
+     * [Add initiatives]()
+     * [Add an event](../apply-for-funding/add-an-event.md)
+     * [Add a travel fund](../apply-for-funding/add-a-scholarship.md)
+   * [Donate/Sponsor to projects](../donate-sponsor/)
+   * [Register to participate in an event](../register-for-an-event.md)
 
 ## Projects and Mentorships <a id="Dashboard-ProjectsandMentorships"></a>
 
