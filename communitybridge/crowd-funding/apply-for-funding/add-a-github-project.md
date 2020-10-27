@@ -1,6 +1,6 @@
 # Add a GitHub Project
 
-As a project administrator, you can submit an application to CommunityBridge Funding by adding a GitHub open source project. Linux Foundation requires access to your code repository to support security vulnerability scanning. The application process requires you to authenticate your GitHub ID to grant Linux Foundation read-only access to the repositories you maintain.
+As a project administrator, you can submit an application to Funding by adding a GitHub open source project. Linux Foundation requires access to your code repository to support security vulnerability scanning.
 
 {% hint style="info" %}
 Keep these items ready before you begin:
