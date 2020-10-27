@@ -1,11 +1,11 @@
 # Toggle Between Funding and Mentorship for a Project
 
-If a project participates in a Mentorship program, the project is visible on CommunityBridge Funding _and_  CommunityBridge Mentorship. Depending on your role, you use each service and toggle between them for these purposes:
+If a project participates in Mentorship program, the project is visible on Funding _and_  Mentorship. Depending on your role, you use each service and toggle between them for these purposes:
 
-* You can use **CommunityBridge Funding** to raise, allocate, and manage funds for projects including projects that participate in the Mentorship program. 
-* You can use **CommunityBridge Mentorship** to view, offer, and manage mentorships for aspiring open source software contributors.
+* You can use **Funding** to raise, allocate, and manage funds for projects including projects that participate in the Mentorship program. 
+* You can use **Mentorship** to view, offer, and manage mentorships for aspiring open source software contributors.
 
-You can toggle between projects in Funding and Mentorship at any time, offering you a quick way to go to the project details in either service. For example, go from Mentorship to Funding to view stipend payments listed in the Financial tab of your project.
+You can toggle between projects in Funding and Mentorship at any time, offering you a quick way to go to the project details in either service.
 
 **To toggle between Funding and Mentorship:**
 
