@@ -24,7 +24,7 @@
   * [View Events You Attended Or Will Attend](my-profile/viewing-the-events.md)
   * [View Transactions](my-profile/viewing-the-transactions.md)
   * [View Roles](my-profile/view-roles.md)
-* [CommunityBridge](communitybridge/README.md)
+* [LFX](communitybridge/README.md)
   * [Funding](communitybridge/crowd-funding/README.md)
     * [Dashboard](communitybridge/crowd-funding/dashboard/README.md)
       * [Projects](communitybridge/crowd-funding/dashboard/projects.md)
