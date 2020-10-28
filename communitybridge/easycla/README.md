@@ -35,9 +35,9 @@ CLA frontend consists of three independent SPA build with [Ionic](https://ionicf
 * [CLA front-end corporate console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-corporate-console) for company CCLA manager to sign a CCLA and manage employee CLA approved list
 * [CLA front-end contributor console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-contributor-console) for any project contributor to sign ICLA or CCLA
 
-## EasyCLA Architechture <a id="easycla-architechture"></a>
+## EasyCLA Architecture <a id="easycla-architechture"></a>
 
-The following diagram explains the EasyCLA architecture.
+The following diagram explains the EasyCLA architecture:
 
 ![EasyCLA Architecture](../../.gitbook/assets/cla-architecture-overview.png)
 
