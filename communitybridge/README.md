@@ -2,7 +2,7 @@
 
 ## What is CommunityBridge? <a id="CommunityBridgeFAQs-WhatisCommunityBridge?"></a>
 
-CommunityBridge is a platform created by the Linux Foundation to empower developers — and the individuals and organizations who support them — to advance open source sustainability, security, and diversity. CommunityBridge brings together project maintainers, contributors, and users to fund open source projects, improve code security, boost the size and diversity of open source communities, and much more.
+CommunityBridge is a platform created by the Linux Foundation to empower developers — the individuals, and organizations who support the developers — to advance open source sustainability, security, and diversity. CommunityBridge brings together project maintainers, contributors, and users to fund open source projects, improve code security, boost the size and diversity of open source communities, and much more.
 
 ## Will the CommunityBridge code be open source? <a id="CommunityBridgeFAQs-WilltheCommunityBridgecodebeopensource?"></a>
 
@@ -20,13 +20,15 @@ Ensuring open source communities have the resources needed to secure and maintai
 
 ## What services does CommunityBridge provide? <a id="CommunityBridgeFAQs-WhatservicesdoesCommunityBridgeprovide?"></a>
 
-Throughout 2019 and 2020, the Linux Foundation will unveil a full suite of CommunityBridge services and tools designed to support maintainers, contributors, aspiring developers, and organizations that create and depend on open source software.
+Linux Foundation provides a full suite of CommunityBridge services and tools designed to support maintainers, contributors, aspiring developers, and organizations that create and depend on open source software.
 
-The initial services available at launch include:
+Following are various CommunityBridge services provided by Linux Foundation:
 
-* CommunityBridge Funding: A crowdfunding service to raise money via donations from individuals and corporations so projects can pay maintainers and developers directly for their development efforts or project expenses. Features include fund matching, best practice badges, and diversity and civility promotions.
-* CommunityBridge Security: A project scanning service to provide maintainers with relevant information about upstream dependencies, security vulnerabilities, usage reports, and licensing details. Includes a bug bounty service to provide replicable defects as well as a backlog of actionable data that maintainers can easily use to improve the security and robustness of their projects.
-* CommunityBridge Mentorship: A mentorship matchmaking service that helps grow interested individuals into participating contributors in open source communities. It connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
+* Funding: A crowdfunding service to raise money via donations from individuals and corporations so projects can pay maintainers and developers directly for their development efforts or project expenses. Features include fund matching, best practice badges, and diversity and civility promotions.
+* Security: A project scanning service to provide maintainers with relevant information about upstream dependencies, security vulnerabilities, usage reports, and licensing details. Includes a bug bounty service to provide replicable defects as well as a backlog of actionable data that maintainers can easily use to improve the security and robustness of their projects.
+* Mentorship: A mentorship matchmaking service that helps grow interested individuals into participating contributors in open source communities. It connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
+* Insights: A data analytics service that collects and visualizes data to let project maintainers monitor and analyze their open source projects by providing objective data that analyzes the project's data sources and presents them in graphs on customized dashboards. It helps to analyze the data to solve problems effectively such as coding activity, code review backlog, performance, bottleneck identification, issue resolution, media marketing analysis, and so on.
+* CLA: The Contributor License Agreement \(CLA\) service of the Linux Foundation lets project contributors read, sign, and submit contributor license agreements easily before they contribute code to projects. It helps project maintainers analyze contributions from individuals and corporates.
 
 ## Who can access CommunityBridge? <a id="CommunityBridgeFAQs-WhocanaccessCommunityBridge?"></a>
 
