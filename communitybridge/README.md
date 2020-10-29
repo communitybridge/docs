@@ -1,10 +1,10 @@
-# LFX
+# CommunityBridge
 
-## What is LFX? <a id="CommunityBridgeFAQs-WhatisCommunityBridge?"></a>
+## What is CommunityBridge? <a id="CommunityBridgeFAQs-WhatisCommunityBridge?"></a>
 
-LFX is a platform created by the Linux Foundation to empower developers — and the individuals and organizations who support them — to advance open source sustainability, security, and diversity. LFX brings together project maintainers, contributors, and users to fund open source projects, improve code security, boost the size and diversity of open source communities, and much more.
+CommunityBridge is a platform created by the Linux Foundation to empower developers — and the individuals and organizations who support them — to advance open source sustainability, security, and diversity. CommunityBridge brings together project maintainers, contributors, and users to fund open source projects, improve code security, boost the size and diversity of open source communities, and much more.
 
-## Will the LFX code be open source? <a id="CommunityBridgeFAQs-WilltheCommunityBridgecodebeopensource?"></a>
+## Will the CommunityBridge code be open source? <a id="CommunityBridgeFAQs-WilltheCommunityBridgecodebeopensource?"></a>
 
 With the public release, we also wanted to update everyone on the open source plans for the software itself. We are currently cleaning up the code, enhancing documentation and getting ready to open source the codebase so that it will be easier for developers to learn the code and contribute. We are a nonprofit and don't have an army of developers so it will take a bit more time. We're also working on soliciting feedback from developers about our plans for the license, code upstreaming model, and code of conduct. In particular we are seeking to align the licensing structure with free software principles. We will open source the codebase with the next release targeted for early Q3.
 

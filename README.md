@@ -6,15 +6,15 @@ Linux Foundation is a technology association of several companies that helps to 
 
 ### [Individual Dashboard \(My Profile\)](my-profile/)
 
-### [Funding](lfx/crowd-funding/)
+### [Funding](communitybridge/crowd-funding/)
 
-### [Mentorship](lfx/mentorship/)
+### [Mentorship](communitybridge/mentorship/)
 
-### [Insights](lfx/insights/)
+### [Insights](communitybridge/insights/)
 
-### [Security](lfx/security/)
+### [Security](communitybridge/security/)
 
-### [EasyCLA](lfx/easycla/)
+### [EasyCLA](communitybridge/easycla/)
 
 ### [Linux Foundation Individual Supporter Program](linux-individual-supporter-program/)
 
