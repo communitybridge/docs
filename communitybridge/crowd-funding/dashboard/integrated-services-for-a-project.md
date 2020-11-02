@@ -6,8 +6,9 @@ Integrated services for a project lets you see additional information about a pr
 
 **To view integrated services:** 
 
-1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Projects](./#Dashboard-ProjectsandMentorships) tab, and select a project to navigate to the project's dashboard. 
-2. Funding integrates with the following independent Linux Foundation services:
+1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/).
+2. From [Projects](./#Dashboard-ProjectsandMentorships) tab, select a project to navigate to the project's dashboard.
+3. Funding integrates with the following independent Linux Foundation services:
    * [Mentorship Program](integrated-services-for-a-project.md#IntegratedServicesforaProject-MentorshipProgram)
    * [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks)
    * [Vulnerability Detection](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection)

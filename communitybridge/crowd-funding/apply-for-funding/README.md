@@ -1,12 +1,10 @@
 # Apply for Funding
 
-You can [submit an application](./#ApplyforFunding-SubmitanApplication) to receive financial support from organizations and individuals to grow your community through a streamlined, automated funding workflow, and a transparent, easy-to-use ledger. Adding your project to  Funding can:
+You can [submit an application](./#ApplyforFunding-SubmitanApplication) to receive financial support from organizations and individuals to grow your community. Submitted applications are reviewed by The Linux Foundation before they're published and visible on the Funding platform. Projects are reviewed based on the following factors: 
 
-* Attract funding by publicizing funding goals and allocations
-* Keep more money by paying no platform or processing fees \(up to $10M in raised funds per project\)
-* Reduce busywork by offloading administrative overhead \(like invoices and tax paperwork\) and streamlining your workflow
-* Increase trust by using a transparent, easy-to-use ledger and an audited, non-profit foundation as your fiscal sponsor
-* Increase adoption of your project by paying for expenses such as for developers, events, or infrastructure
+* Open source status - projects must be 100% open source 
+* Community-wide adoption
+* Alignment with The Linux Foundation’s support of open source initiative 
 
 ### Submission Guidelines
 
@@ -27,7 +25,7 @@ Consider the following submission guidelines before you apply:
 ## Submit an Application <a id="ApplyforFunding-SubmitanApplication"></a>
 
 {% hint style="warning" %}
-**Important:** The application includes information about yourself and your project; only provide this information if you are authorized to provide on behalf of your project.
+**Important:** The application includes information about you and your project; provide this information if you are authorized to provide on behalf of your project.
 {% endhint %}
 
 1. [Sign in](../../../sso/sign-in/) to [Funding](https://funding.communitybridge.org/).

@@ -1,17 +1,15 @@
 # Manage Your Funding Account
 
-You can manage your CommunityBridge Funding account, for example to view a record of all your transactions or to modify your monthly donations.
+You can manage your Crowdfunding account, for example to view a record of all your transactions or to modify your monthly donations.
 
-**Do these steps:**
-
-1. Log in to CommunityBridge Funding.
+1. Sign in to Crowdfunding.
 2. Go to your user account and select an **option** from the drop-down list:
    * [My Transactions](manage-your-funding-account.md#ManageYourFundingAccount-MyTransactions)
    * [My Projects](manage-your-funding-account.md#ManageYourFundingAccount-MyProjects)
    * [My Profile](manage-your-funding-account.md#ManageYourFundingAccount-MyProfile)
    * [Log Out](manage-your-funding-account.md#ManageYourFundingAccount-LogOut)
 
-## My Transactions <a id="ManageYourFundingAccount-MyTransactions"></a>
+### My Transactions
 
 My Transactions shows your monthly donations and lists all your transactions with details.
 
@@ -20,15 +18,17 @@ My Transactions shows your monthly donations and lists all your transactions wit
 
 ![](../../.gitbook/assets/7417305.png)
 
-## My Projects <a id="ManageYourFundingAccount-MyProjects"></a>
+### My Projects
 
-My Projects lets you see all the projects, security audits, initiatives, events, and funds that you maintain all in one place: My Projects, Security Audits, Initiatives, My Travel Fund, and My Events. You can see the status of a project such as "Pending approval".
+My Projects lets you see all the projects, security audits, initiatives, events, and funds that you maintain all in one place. You can see the status of a project, for example "Pending approval".
 
-Click a project to see the fund details.Click **Edit** on a card to edit the fund details. **Note: Mentorship Goal** is displayed under **Fund Distribution** if your project is enrolled in CommunityBridge Mentorship program.  
+Click a project to see the fund details.Click **Edit** on a card to edit the fund details.
+
+**Note: Mentorship Goal** is displayed under **Fund Distribution** if your project is enrolled in the Mentorship program.  
   
  ![](../../.gitbook/assets/project-card.png) 
 
-## My Profile <a id="ManageYourFundingAccount-MyProfile"></a>
+### My Profile
 
 **My Profile** lets you manage your organization, payment method, and Linux Foundation identity account.
 
@@ -50,7 +50,7 @@ Click **Edit Card** or **Delete Card** to edit or delete an existing payment met
 
 **Manage LFID** opens your Linux Foundation account details, and lets you edit settings such as adding an avatar or more email addresses. Click **Manage LFID** to log in and open your account details. After you edit your account, click **Save**.
 
-## Log Out <a id="ManageYourFundingAccount-LogOut"></a>
+### Log Out
 
 Select **Log Out** from the drop-down list
 
