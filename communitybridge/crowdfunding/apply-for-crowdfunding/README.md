@@ -1,4 +1,4 @@
-# Apply for Funding
+# Apply for Crowdfunding
 
 You can [submit an application](./#ApplyforFunding-SubmitanApplication) to receive financial support from organizations and individuals to grow your community. Submitted applications are reviewed by The Linux Foundation before they're published and visible on the Funding platform. Projects are reviewed based on the following factors: 
 

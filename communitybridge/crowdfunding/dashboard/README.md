@@ -1,17 +1,17 @@
 # Dashboard
 
-Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Funding.
+Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
 
 1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the [Projects ](./#Dashboard-ProjectsandMentorships)tabs, and click a project to navigate to the project dashboard. 
 2. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives) to learn more about each. 
 3. To participate:
-   * [Apply to raise fund for a project](../apply-for-funding/)
-     * [Add a GitHub project](../apply-for-funding/add-a-github-project.md)
-     * [Add a Git project](../apply-for-funding/add-a-git-project.md)
-     * [Add a project for security audit](../apply-for-funding/add-a-project-for-security-audit.md)
-     * [Add initiatives](../apply-for-funding/add-initiatives.md)
-     * [Add an event](../apply-for-funding/add-an-event.md)
-     * [Add a travel fund](../apply-for-funding/add-a-travel-fund.md)
+   * [Apply to raise fund for a project](../apply-for-crowdfunding/)
+     * [Add a GitHub project](../apply-for-crowdfunding/add-a-github-project.md)
+     * [Add a Git project](../apply-for-crowdfunding/add-a-git-project.md)
+     * [Add a project for security audit](../apply-for-crowdfunding/add-a-project-for-security-audit.md)
+     * [Add initiatives](../apply-for-crowdfunding/add-initiatives.md)
+     * [Add an event](../apply-for-crowdfunding/add-an-event.md)
+     * [Add a travel fund](../apply-for-crowdfunding/add-a-travel-fund.md)
    * [Donate/Sponsor to projects](../donate-sponsor/)
    * [Register to participate in an event](../register-for-an-event.md)
 
@@ -28,7 +28,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 
 To learn more, see [Projects](projects.md).
 
-![Funding Projects](../../../.gitbook/assets/funding-project-cards.png)
+![Crowdfunding Projects](../../../.gitbook/assets/funding-project-cards.png)
 
 ## Events <a id="Dashboard-Events"></a>
 
