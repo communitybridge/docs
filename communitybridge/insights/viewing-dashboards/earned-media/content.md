@@ -1,7 +1,5 @@
 # Content
 
-This is a new content!
-
 
 
 **Aggregate Readership and Ad Equivalency** 
