@@ -33,9 +33,13 @@ Have these items handy before you begin:
 
 1. For Payment Method, select an option:
    * **Credit or debit card**- add a default card or edit a default card to use for your donation. Click **Add Card** or **Edit Card** to add or edit a card, respectively. Enter your card details and click **Submit**.
-   * **Invoice** - this option initiates the donation via invoice. You will receive an email from the Linux Foundation with a form that you will need to complete to complete the donation.  
-2. Review your donation amounts in the **Review Donation** section.
-3. Read and agree to the CommunityBridge Platform Use Agreement and the other agreements and policies incorporated therein.  Click **Submit Donation** or **Submit Subscription** \(the button changes dynamically depending on your donation type\). Your Accounts page appears.
+   * **Invoice** - this option initiates the donation via invoice. You will receive an email from the Linux Foundation with a form that you will need to complete to complete the donation.
+
+7. Review your donation amounts in the **Review Donation** section.
+
+8. Agree to the terms and select the checkbox.
+
+9. Click **Submit Donation** or **Submit Subscription,** depending on your donation selection. 
 
 {% hint style="info" %}
 At any time, you can go to your user account ![](../../../../.gitbook/assets/7418575.png) and select **My Transactions** to edit your monthly donation amount by selecting **Edit monthly donation** on the project of interest.
