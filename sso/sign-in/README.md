@@ -1,8 +1,8 @@
 # Sign in to your Account
 
-To access protected Linux Foundation services, you must sign in using your LF account. If you already have a legacy Linux Foundation account formerly known as LFID please can use it. If you just [created a brand new account](../create-an-account.md), please proceed as follows. 
+To access protected Linux Foundation services, you must sign in using your LF SSO account. If you already have a legacy Linux Foundation account formerly known as LFID, you can use it. If you just [created a brand new account](../create-an-account.md), please proceed as follows.
 
-1. On the **Sign In** window, enter your LF Account credentials and click on **Sign In** CTA button.
+1. On the **Sign In** window, enter your SSO account credentials and click **Sign In**.
 
 ![](../../.gitbook/assets/new-sso%20%281%29.png)
 

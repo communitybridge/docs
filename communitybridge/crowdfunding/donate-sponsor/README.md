@@ -17,7 +17,7 @@ The following eligibility rules apply to donors:
 Consider the following funding information before you donate:
 
 * Your donation is made to The Linux Foundation and is deposited in an account managed by The Linux Foundation. Unless otherwise explicitly specified by The Linux Foundation, your donation will not be tax-deductible under United States federal taxation laws.
-* To ensure transparency, a record of each donation may be retained indefinitely and made public in the ledger on the project’s page. This record may include sufficient personal information to document the sources of the donated funds to the project community.
+* To ensure transparency, a record of each donation may be retained indefinitely and made public in the ledger on the project’s page.
 * Funding occurs on a one-time or recurring monthly basis.
 * The Linux Foundation will underwrite all platform fees for the first $10M USD donated to projects, as well as any fees charged by third-party payment processors. Subsequent donations after $10M will be charged a 5% platform fee, plus any fee that may be charged by the third-party payment processor through which the donor makes the donation.
 

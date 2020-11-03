@@ -2,9 +2,10 @@
 
 Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
 
-1. [Sign in ](../../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click on the [Projects ](./#Dashboard-ProjectsandMentorships)tabs, and click a project to navigate to the project dashboard. 
-2. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives) to learn more about each. 
-3. To participate:
+1. [Sign in ](../../../sso/sign-in/)to [Crowdfunding](https://funding.communitybridge.org/).
+2. From [Projects ](./#Dashboard-ProjectsandMentorships)tab, click a project to navigate to the project dashboard.
+3. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives) to learn more about each. 
+4. To participate:
    * [Apply to raise fund for a project](../apply-for-crowdfunding/)
      * [Add a GitHub project](../apply-for-crowdfunding/add-a-github-project.md)
      * [Add a Git project](../apply-for-crowdfunding/add-a-git-project.md)
@@ -24,7 +25,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * Funding Goal shows total funding goal for the project
 * Funds Raised shows total funds raised so far
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
-* **Donate** CTA allows users to donate funds to the project they want to support
+* **Donate** allows users to donate funds to the project they want to support
 
 To learn more, see [Projects](projects.md).
 
@@ -39,8 +40,8 @@ To learn more, see [Projects](projects.md).
 * Funds Raised shows total amount of funds raised for the event.
 * Location shows the place where the event takes place.
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the event.
-* **Sponsor** CTA allows users to sponsor events they want to support.
-* **Register** CTA allows users to register for an event they want to attend.
+* **Sponsor** allows users to sponsor events they want to support.
+* **Register** allows users to register for an event they want to attend.
 
 To learn more, see [Events](events.md).
 
@@ -70,7 +71,7 @@ To learn more, see [Travel Funds](travel-funds.md).
 * Funding Goal shows total funding goal for the project
 * Funds Raised shows total funds raised so far
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
-* **Donate** CTA allows users to donate funds to the project they want to support
+* **Donate** allows users to donate funds to the project they want to support
 
 To learn more, see [Security Audit](security-audit.md).
 
@@ -78,7 +79,7 @@ To learn more, see [Security Audit](security-audit.md).
 
 ## Initiatives
 
-Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click  **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
+Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
 
 ![Initiatives](../../../.gitbook/assets/initiatives.png)
 
