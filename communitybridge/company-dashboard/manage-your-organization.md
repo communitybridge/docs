@@ -1,13 +1,13 @@
 # Manage Your Organization
 
-The organization profile header shows the organization name, logo, website URL, address, contact information, and last updated date and time.
+As organization administrator, account owner, and alternate account owner, you can update organization information, add additional admins, and manage services, memberships and community roles for your organization.
 
-* [Edit organization information](manage-your-organization.md#how-to-edit-organization-information)
+* [Edit organization profile header](manage-your-organization.md#edit-organization-profile-header): shows 
 * [Add/Delete Organization Administrator/Alternate Account Owner](manage-your-organization.md#add-delete-organization-administrator-alternate-account-owner)
 * [Delete an Administrator profile](manage-your-organization.md#delete-an-administrator-profile)
 * [EasyCLA Roles](manage-your-organization.md#team-member-roles-services)
 
-### Edit Organization Information <a id="how-to-edit-organization-information"></a>
+### Edit Organization Profile Header
 
 1. On the organization profile header, click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA6GWiKNR8NbAdZLdDp%2F-MA6JwfLBLbIeqxWexWs%2Fedit%20CTA%20button.png?alt=media&token=9bd600af-26bb-448f-9123-a08056015c16) .
 
