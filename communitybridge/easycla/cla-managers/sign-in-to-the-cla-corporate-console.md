@@ -8,5 +8,3 @@ Sign in to the corporate console before you can sign a CLA, and perform other ac
 
    The CLA Corporate Console appears and shows projects that you are associated with.
 
-4. Click the project 
-
