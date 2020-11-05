@@ -26,7 +26,7 @@ Have these items handy before you begin:
 **Note:**
 
 * If you select **Monthly**, you will be billed on a recurring basis that is on the first calendar day of each month**.**
-* You can cancel your recurring donation by logging into your account and changing your donation settings or by contacting [admin@communitybridge.org](mailto:admin@communitybridge.org)
+* You can cancel your recurring donation by logging into your account and changing your donation settings or by contacting  [admin@lfx.linuxfoundation.org](mailto:admin@lfx.linuxfoundation.org) .
 {% endhint %}
 
 6. From **Donation allocation** drop-down list, designate a project goal for your donation to support.
