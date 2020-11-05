@@ -17,7 +17,7 @@ Consider the following financial aspects of reimbursement before you make a requ
 **Keep the following items ready before you begin:**
 
 * Receipts for the expenses that you want to submit for reimbursement
-* The Expensify policy invitation email that you received from CommunityBridge
+* The Expensify policy invitation email that you received from the Linux Foundation.
 
 ## Set Up a Reimbursement Account and Create a Report <a id="GetReimbursed-SetUpaReimbursementAccountandCreateaReport"></a>
 
