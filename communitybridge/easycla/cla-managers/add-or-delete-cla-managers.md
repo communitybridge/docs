@@ -15,7 +15,7 @@ As a CLA manager, you can:
 
 2. Navigate to the project for which you want to add CLA managers.
 
-3. . Under EasyCLA tab, navigate to **CLA MANAGERS FROM MY ORGANIZATION**, and click **+ Add CLA Manager**.
+3. Under EasyCLA tab, navigate to **CLA MANAGERS FROM MY ORGANIZATION**, and click **+ Add CLA Manager**.
 
 1. Click **+ Add CLA Manager**.
 

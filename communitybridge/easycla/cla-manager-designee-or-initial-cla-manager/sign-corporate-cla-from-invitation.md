@@ -1,8 +1,6 @@
 # Sign Corporate CLA from Invitation
 
-You receive an email notification from Linux Foundation informing you that you are designated as the initial CLA manager for the company. You must have a [Single Sign-On \(SSO\)](../../../sso/) account before you can sign CLA.
-
-**Do these steps:**
+You receive an email notification from Linux Foundation informing you that you are designated as the initial CLA manager for the company. You must have an LF [Single Sign-On \(SSO\)](../../../sso/) account before you can sign CLA.
 
 1. Open your email inbox, and look for an Invitation to sign the Corporate CLA.
 

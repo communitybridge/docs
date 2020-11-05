@@ -4,12 +4,9 @@ description: This page describes how to sign CLA as a CLA manager.
 
 # Sign Corporate CLA for a Company
 
-As a CLA manager designee \(initial CLA manager\), you must sign a Corporate CLA before you can manage contributors from your company, and add other CLA managers. You become a [CLA manager](../cla-managers/) after you sign CLA as a CLA manager designee.
+As a CLA manager designee \(initial CLA manager\), you must sign a Corporate CLA before you can manage contributors of your company, and add other CLA managers. You become a [CLA manager](../cla-managers/) after you sign CLA as a CLA manager designee.
 
-#### **Do these steps:**
-
-1. [Sign in](../cla-managers/sign-in-to-the-cla-corporate-console.md) to the corporate console as a CLA manager designee.  
-The CLA Corporate Console appears and shows the projects.
+1. [Sign in](../cla-managers/sign-in-to-the-cla-corporate-console.md) to the [corporate console](https://lfx.platform.linuxfoundation.org/) as a CLA manager designee.
 
 2. Click the project for which you want to sign CLA, and click **Start the CLA Process**.  
 **Note:** If you are already designated as a CLA manager designee for a project, details appear as shown in step 5.  
@@ -20,13 +17,13 @@ The CLA Corporate Console appears and shows the projects.
  ![](../../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png) 
 
 * **Yes**— Continue to step 5.
-* **No**— An **Identify CLA Manager** form appears. This individual becomes the initial CLA manager, and after signing, becomes the CLA manager for the project. Continue to next step.  ![](../../../.gitbook/assets/identify-cla-manager.png)  
+* **No**— An **Identify CLA Manager** form appears. Continue to next step.  ![](../../../.gitbook/assets/identify-cla-manager.png)  
 
 4. Enter first and last name, email address, and click **Submit Request**, Or click **Contact Company Admin** if you are not sure who should sign the corporate CLA.  
 ****A window appears confirming that request is submitted to respective individual.
 
 {% hint style="info" %}
-The individual must have an [SSO](../../../sso/) account to sign CLA.
+The individual must have an LF [SSO](../../../sso/) account to sign CLA.
 {% endhint %}
 
 5. You are designated as the initial CLA manager \(CLA manager designee\). Under **Action** column, click **Proceed with Signing**.  
@@ -52,7 +49,7 @@ The individual must have an [SSO](../../../sso/) account to sign CLA.
 
 {% hint style="info" %}
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../../.gitbook/assets/proceed-to-download-ccla.png) 
+* You can download the PDF document by clicking the link form the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../../.gitbook/assets/proceed-to-download-ccla.png) 
 {% endhint %}
 
 ![](../../../.gitbook/assets/docusign-icla-flow.png)

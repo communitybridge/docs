@@ -1,6 +1,6 @@
 # Corporate Contributor
 
-As a corporate \(employee\) contributor to an open-source project, you are contributing code on company's behalf. When Corporate CLA is signed for the project, you confirm your association with the company during your first pull request or change submit. Your subsequent contributions will neither require association confirmations nor will they be gated by CLA check.
+As a corporate \(employee\) contributor, you are contributing code on company's behalf. When Corporate CLA is signed for the project, you confirm your association with the company during your first pull request or change submit. Your subsequent contributions will neither require association confirmations nor will they be gated by CLA check.
 
 * [GitHub](corporate-contributor.md#github)
 * [Gerrit](corporate-contributor.md#gerrit)
@@ -96,10 +96,7 @@ As a corporate \(employee\) contributor to an open-source project, you are contr
 If your company has signed CLA, but you are not added to the approved list, **Request Authorization to Contribute** window appears that shows the CLA manager\(s\) for your company.
 
 1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.  
-**Note:** You can select **Select All** checkbox to send an email to all the CLA managers.
-
-* **Go Back:** Takes you to the previous screen.
-* **Exit EasyCLA:** Cancels the CLA signing process.
+**Note:** Clicking **Exit EasyCLA** cancels the CLA signing process.
 
 ![Request Authorization](../../../.gitbook/assets/request-authorization.png)
 
@@ -169,7 +166,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 ![](../../../.gitbook/assets/proceed-to-corporate-console-from-contributor-console.png)
 
 {% hint style="info" %}
-**Important:** If you don't have a username \(LF Login\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username. After you create a username, you will be redirected back to corporate console where you can proceed with CLA signing.
+**Important:** If you don't have a username \(LF SSO Account\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username.
 {% endhint %}
 
 4. You will be redirected to corporate console on a new tab to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
@@ -182,7 +179,7 @@ After you successfully sign a CCLA, navigate to the GitHub or Gerrit. Wait a few
  ![](../../../.gitbook/assets/identify-cla-manager%20%281%29.png) 
 
 2. Complete the form, and click **Submit Request**, ****Or if you don't know email address of CLA Manager of your company, click **Contact Company Admin**.  
-**Result:** A window appears confirming that request is submitted to respective individual who needs to sign a Corporate CLA and adds you to the approved list.
+**Result:** A window appears confirming that request is submitted. You must follow up with the individual for you to be added to the approved list.
 
 ![](../../../.gitbook/assets/request-submitted-for-company-not-signed-cla.png)
 
