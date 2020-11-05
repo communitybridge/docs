@@ -1,6 +1,6 @@
 # Individual Contributor
 
-As an individual contributor to an open source project, you are contributing code on your own behalf \(not on behalf of an employer\). You create a pull request in GitHub or submit changed code in Gerrit to inform reviewers about the changes. During the process, your CLA is verified, and you must sign a CLA, if you have not already signed, before you can contribute to GitHub or Gerrit. During the process, you click a link to open the CLA Contributor Console to sign the CLA.
+As an individual contributor to an open source project, you are contributing code on your own behalf \(not on behalf of an employer\). You create a pull request in GitHub or submit changed code in Gerrit to inform reviewers about the changes. During the process, your CLA is verified, and you must sign a CLA if you have not already signed, before you can contribute to GitHub or Gerrit.
 
 * [GitHub](individual-contributor.md#github)
 * [Gerrit](individual-contributor.md#gerrit)
@@ -20,8 +20,6 @@ As an individual contributor to an open source project, you are contributing cod
 
 3. Click ![](../../../.gitbook/assets/cla-not-signed-button.png)  or **Please click here to be authorized**.
 
-The Authorize CommunityBridge: EasyCLA dialog appears.
-
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require this authorization.\)
 
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla%20%281%29.png)​
@@ -29,13 +27,13 @@ The Authorize CommunityBridge: EasyCLA dialog appears.
 The CLA Contributor Console appears and shows the CLA group for your project.
 
 {% hint style="info" %}
-**Note:** If the project has not configured for CCLA, then **Proceed as a** **Corporate Contributor** is not displayed.
+**Note:** If the project is not configured for CCLA, then **Proceed as a** **Corporate Contributor** is not displayed.
 {% endhint %}
 
 ![CLA ICLA Flow](../../../.gitbook/assets/cla-icla-flow.png)
 
 5. Click **Proceed as an Individual Contributor**.  
-**Result: Preparing CLA..** window appears.  
+**Result: Preparing CLA** window appears.  
  ![](../../../.gitbook/assets/preparing-cla.png) 
 
  6. After **CLA is Ready For Signature** window appears, click **SIGN CLA** .
@@ -75,7 +73,7 @@ The CLA is added to the project.
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Sign in using your [Single Sign-On \(SSO\)](../../../sso/) account.
+5. Sign in using your LF [Single Sign-On \(SSO\)](../../../sso/) account.
 
 6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
 

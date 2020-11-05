@@ -4,8 +4,7 @@ Before you enable GitHub repositories for CLA monitoring or remove them from CLA
 
 1. [Sign in](../sign-in-to-project-console.md).
 
-2.Click a **project** of interest.  
-The project page appears.
+2.Click a **project** of interest.
 
 3. Navigate to **Tools** tab, and click **CLA**.
 
@@ -16,8 +15,8 @@ Source Control configuration page appears.
 
 ![Add and Manage Repositories](../../../../.gitbook/assets/add-manage-repositories.png)
 
-* Configure GitHub Repositories
-* Configure Gerrit Repositories
+* [Configure GitHub Repositories](add-or-remove-git-repositories-for-cla-monitoring.md#configure-github-repositories)
+* [Configure Gerrit Repositories](add-or-remove-git-repositories-for-cla-monitoring.md#configure-gerrit-repositories)
 
 ### Configure GitHub Repositories
 

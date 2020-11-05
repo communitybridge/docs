@@ -6,17 +6,13 @@ A CLA group defines:
 * What CLAs and their versions are used for the contributors
 * What GitHub repositories, Gerrit instances, or both enforce CLA monitoring
 
-As a project manager, you use the CLA Project Console to add and name a CLA group for your project. A CLA group gives you the flexibility to handle different CLA requirements for various GitHub repositories and Gerrit instances
-
-**Do these steps:**
+As a project manager, you use the CLA Project Console to add and name a CLA group for your project.
 
 1. [Sign in](sign-in-to-project-console.md).
 
-2. Click a project of interest.  
-The project page appears.
+2. Click a project of interest.
 
-3. From **Tools** tab, and click **CLA**.  
-The CLA overview page appears.
+3. From **Tools** tab, and click **CLA**.
 
 ![](../../../.gitbook/assets/tools-tab.png)
 
@@ -45,41 +41,11 @@ The CLA overview page appears.
 * **For a Project Group: Select Projects** tab appears. Continue to next step.
 
 {% hint style="danger" %}
-**Important:** If you log out at this stage, you will loose all the details that you have provided.
+**Important:** If you log out at this stage, you will lose all the details that you have provided.
 {% endhint %}
 
 ![](../../../.gitbook/assets/edit-review-template%20%282%29.png)
 
-9. Under **Select Projects** tab, select the projects that you want to enroll under the CLA group, and click **Finish.  
-Result:** The CLA group is configured for the project.  
+9. Under **Select Projects** tab, select the projects that you want to enroll under the CLA group, and click **Finish.**  
 **Note:** **Select all Projects** allows you to select all the projects at a time.
-
-Connecting your GitHub organization will let you enable EasyCLA checks on that organization. If you already have a CLA process in place, go to [https://cloud.email.thelinuxfoundation.org/EasyCLA](https://cloud.email.thelinuxfoundation.org/EasyCLA) and file a ticket to describe your particular needs, and import your existing CLAs.
-
-4. Enter your organization name in the GitHub Organization URL field. The URL automatically appends the name. Click **CONNECT**.
-
-**Result:** The Connect LF CLA App to GitHub Organization dialog appears.
-
-The GitHub organization name value is case-sensitive—make sure that the name you enter matches the case of your GitHub organization name exactly.
-
-5. Read the instructions and click **INSTALL THE GITHUB CLA APP**.  
-​The EasyCLA Application opens in GitHub
-
-6. Click **Install** on the EasyCLA Application.
-
-7. Select one or more repositories and assign permissions. Click **Install**.
-
-The CLA Management Console appears and the GitHub Organizations pane shows the organizations and the repositories that the EasyCLA Application is authorized to monitor.
-
-{% hint style="warning" %}
-* _To delete an organization from monitoring, click **DELETE** next to the organization that you want to delete. A confirmation dialog appears. Click **DELETE**. You must also_ [_Uninstall LF CLA Application for Your Organization_](add-and-manage-git-organizations-and-repositories/uninstall-the-easycla-application.md) _that you installed in Step 5._
-* A message informs you that your project needs a CLA group. A CLA group defines one or more CLA types that contributors must sign.
-* If the EasyCLA Application is not connected to GitHub properly, an error message appears under the organization name: Not Configured. Please connect the CLA App to the Github Org. Click the **message link** to return to Step 4.
-{% endhint %}
-
-8. Repeat Steps 2 through 7 to connect as many organizations as you want.
-
-{% hint style="info" %}
-**Important:** _To enable a CLA check on a repository, you must_  [_configure a GitHub repository_](add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md#configure-github-repositories) _or_ [_add a Gerrit instance_](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
-{% endhint %}
 

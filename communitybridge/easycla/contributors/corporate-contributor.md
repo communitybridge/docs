@@ -1,8 +1,6 @@
 # Corporate Contributor
 
-As a corporate \(employee\) contributor to an open-source project, you are contributing code on company's behalf. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) so that it can be considered that the contribution is done by the company. During the process, your CLA status is verified.
-
-When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association with the company during your first pull request or change submit. Then you can continue with your contribution. Your subsequent contributions will neither require association confirmations nor will they be gated by CLA check.
+As a corporate \(employee\) contributor to an open-source project, you are contributing code on company's behalf. When Corporate CLA is signed for the project, you confirm your association with the company during your first pull request or change submit. Your subsequent contributions will neither require association confirmations nor will they be gated by CLA check.
 
 * [GitHub](corporate-contributor.md#github)
 * [Gerrit](corporate-contributor.md#gerrit)
@@ -34,7 +32,7 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 ![CLA CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
 
 6. Click **Proceed as a Corporate Contributor**.   
-**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing your work on behalf of a company.
+**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement.
 
 7. On **Select Your Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
 
@@ -69,7 +67,7 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Sign in using your [Single Sign-On \(SSO\)](../../../sso/) account.
+5. Sign in using your LF [Single Sign-On \(SSO\)](../../../sso/) account.
 
 6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
 

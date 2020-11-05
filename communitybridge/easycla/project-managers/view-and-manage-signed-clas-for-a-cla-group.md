@@ -9,7 +9,7 @@ You can view details, such as user signatures, companies, CLA managers, and so o
 
    The project page appears.
 
-3. Navigate to **Product Services &gt; CLA**.
+3. Navigate to **Tools &gt; CLA**.
 4. Do any of the following actions:
    * [View Signed CLA Documents](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
    * [View Signed Individual CLAs \(ICLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-individual-clas-iclas)

@@ -4,8 +4,6 @@
 
 The Contributor License Agreement \(CLA\) service of the Linux Foundation lets project contributors read, sign, and submit contributor license agreements easily.
 
-This repository contains both the backend and front-end UI for supporting and managing the application.
-
 This platform supports both GitHub and Gerrit source code repositories. Additional information can be found in the [Getting Started ](getting-started/)section of this document.
 
 ## Third-party Services <a id="third-party-services"></a>
@@ -15,7 +13,7 @@ This platform supports both GitHub and Gerrit source code repositories. Addition
 Besides integration with Auth0 and Salesforce, the CLA system has the following third party services:
 
 * ​[Docusign](https://www.docusign.com/) for CLA agreement e-sign flow
-* ​[Docraptor](https://docraptor.com/) for convert html CLA template as PDF file
+* ​[Docraptor](https://docraptor.com/) to convert html CLA template as PDF file
 
 ## CLA Backend <a id="cla-backend"></a>
 
@@ -29,9 +27,9 @@ Recent backend development was implemented in Golang, and can be found in the [`
 
 ### Overview <a id="overview"></a>
 
-CLA frontend consists of three independent SPA build with [Ionic](https://ionicframework.com/) framework:
+CLA front end consists of three independent SPA build with [Ionic](https://ionicframework.com/) framework:
 
-* [CLA front-end project console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-project-console) for LinuxFoundation director/admin/user to manage project CLA
+* [CLA front-end project console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-project-console) for Linux Foundation director/admin/user to manage project CLA
 * [CLA front-end corporate console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-corporate-console) for company CCLA manager to sign a CCLA and manage employee CLA approved list
 * [CLA front-end contributor console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-contributor-console) for any project contributor to sign ICLA or CCLA
 

@@ -51,6 +51,10 @@ Source Control configuration page appears.
 
 9. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.
 
+{% hint style="warning" %}
+**Important:** _To enable a CLA check on a repository, you must_  [_configure a GitHub repository_](add-or-remove-git-repositories-for-cla-monitoring.md#configure-github-repositories) _or_ [_add a Gerrit instance_](./#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
+{% endhint %}
+
 ### Disassociate GitHub Organization:
 
 1. Click the settings icon ![](../../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.

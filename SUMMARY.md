@@ -202,7 +202,7 @@
       * [Add and Manage Git Organizations and Repositories](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/README.md)
         * [View Connection Status of Git Organizations and Repositories](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
         * [Add or Remove Git Repositories for CLA Monitoring](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md)
-        * [Uninstall the EasyCLA Application](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/uninstall-the-easycla-application.md)
+      * [Uninstall the EasyCLA Application](communitybridge/easycla/project-managers/uninstall-the-easycla-application.md)
     * [Contributors](communitybridge/easycla/contributors/README.md)
       * [Individual Contributor](communitybridge/easycla/contributors/individual-contributor.md)
       * [Corporate Contributor](communitybridge/easycla/contributors/corporate-contributor.md)
