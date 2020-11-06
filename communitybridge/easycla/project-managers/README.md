@@ -6,7 +6,7 @@ As a project administrator, you do the following activities:
 
 1. [Sign in to the Project Console](sign-in-to-project-console.md)
 2. [View CLA Details for a Project](view-cla-details.md)
-3. [Add a New CLA Group](add-new-cla-group.md)
+3. [Add a New CLA Group](create-new-cla-group.md)
 4. [Add or Remove Project from CLA Group](add-or-remove-a-project-from-cla-group.md)
 5. [Add](add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
 6. [Add](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization) or [Disassociate](add-and-manage-git-organizations-and-repositories/#disassociate-gerrit-organization) Gerrit Organization 

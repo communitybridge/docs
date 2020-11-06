@@ -36,7 +36,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console on admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation**.** You can perform the following activities ****within the EasyCLA service:
 
-1. [Add a New CLA Group](../project-managers/add-new-cla-group.md)
+1. [Add a New CLA Group](../project-managers/create-new-cla-group.md)
 2. [Add or Remove Project from CLA Group](../project-managers/add-or-remove-a-project-from-cla-group.md)
 3. [Add](../project-managers/add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](../project-managers/add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
 4. [Add](../project-managers/add-and-manage-git-organizations-and-repositories/#add-gerrit-organization) or [Disassociate](../project-managers/add-and-manage-git-organizations-and-repositories/#disassociate-gerrit-organization) Gerrit Organization 

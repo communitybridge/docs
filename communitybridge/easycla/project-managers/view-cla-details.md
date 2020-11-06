@@ -17,7 +17,7 @@ Based on CLA configuration for the project, available data are shown.
 
 ### CLA not Configured
 
-You can configure CLA by [adding a new CLA group](add-new-cla-group.md).
+You can configure CLA by [adding a new CLA group](create-new-cla-group.md).
 
 ![No CLA Signed](../../../.gitbook/assets/no-cla-signed.png)
 

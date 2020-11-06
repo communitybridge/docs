@@ -1,4 +1,4 @@
-# Add New CLA Group
+# Create New CLA Group
 
 A CLA group defines:
 
@@ -10,7 +10,7 @@ As a project manager, you use the CLA Project Console to add and name a CLA grou
 
 1. [Sign in](sign-in-to-project-console.md).
 
-2. Click a project of interest.
+2. Click a project or project group for which you want to create a CLA group.
 
 3. From **Tools** tab, and click **CLA**.
 
@@ -46,6 +46,6 @@ As a project manager, you use the CLA Project Console to add and name a CLA grou
 
 ![](../../../.gitbook/assets/edit-review-template%20%282%29.png)
 
-9. Under **Select Projects** tab, select the projects that you want to enroll under the CLA group, and click **Finish.**  
+9. Under **Select Projects** tab, select the projects that you want to enroll under the project group level CLA group, and click **Finish.**  
 **Note:** **Select all Projects** allows you to select all the projects at a time.
 

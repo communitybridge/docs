@@ -196,7 +196,7 @@
     * [Project Managers](communitybridge/easycla/project-managers/README.md)
       * [Sign in to Project Console](communitybridge/easycla/project-managers/sign-in-to-project-console.md)
       * [View CLA Details](communitybridge/easycla/project-managers/view-cla-details.md)
-      * [Add New CLA Group](communitybridge/easycla/project-managers/add-new-cla-group.md)
+      * [Create New CLA Group](communitybridge/easycla/project-managers/create-new-cla-group.md)
       * [Add or Remove a Project from CLA Group](communitybridge/easycla/project-managers/add-or-remove-a-project-from-cla-group.md)
       * [View and Manage Signed CLAs for a CLA Group](communitybridge/easycla/project-managers/view-and-manage-signed-clas-for-a-cla-group.md)
       * [Add and Manage Git Organizations and Repositories](communitybridge/easycla/project-managers/add-and-manage-git-organizations-and-repositories/README.md)
