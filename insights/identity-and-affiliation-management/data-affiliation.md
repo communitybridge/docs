@@ -2,7 +2,7 @@
 
 Affiliation is a close association or connection to an organization, company, and so on. An example of affiliation is being a contributor to a community organization. Or, a contributor could belong to two or more companies that are related through common ownership but are treated as one. In this case, a single contributor might have multiple identities such as two different company emails. Data affiliation connects or associates these identities.
 
-INSIGHTS uses _Affiliation Management_ to handle data affiliations as follows:
+Insights uses _Affiliation Management_ to handle data affiliations as follows:
 
 ## Data Sources and Tools <a id="DataAffiliation-DataSourcesandTools"></a>
 

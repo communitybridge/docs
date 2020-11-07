@@ -1,11 +1,5 @@
 # Confluence Activities
 
-{% hint style="info" %}
-Role: Project Manager
-
-Where: Confluence dashboards are available from the **Documentation** drop-down list.
-{% endhint %}
-
 You use Confluence for your project documentation. You are interested in getting information about Confluence activities such as the top edited pages and top editors. This information helps you identify where your documentation effort is focused and by whom.
 
 **Do these steps:**

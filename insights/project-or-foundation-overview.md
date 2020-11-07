@@ -1,10 +1,10 @@
 # Project or Project Group Overview
 
-CommunityBridge Insights shows project and project group cards, in alphabetical order, that show relevant data associated with the project or project group.
+LFX Insights shows project and project group cards, in alphabetical order, that show relevant data associated with the project or project group.
 
 **Follow these steps:**
 
-1. Open [https://lfanalytics.io](https://lfanalytics.io/). The Projects page appears and lists the projects and project groups.
+1. Open [https://lfanalytics.io](https://lfanalytics.io/).
 2. Navigate to a project or project group or type the name in the **Search for a project** filed for quick search: **Note:** If you click a project from search field, it opens the Commits &gt; Overview page. If you click a project group from the search field, it shows all the projects under the project group.
    * [Project Overview](project-or-foundation-overview.md#project-overview)
    * [Project Group Overview](project-or-foundation-overview.md#project-group-overview)

@@ -6,7 +6,7 @@ Roles: Developers, Community Managers
 Where: GitHub Pull Requests dashboard is available from the **Source Control** drop-down list.
 {% endhint %}
 
-INSIGHTS lets you look at the pull request contributions to the project and answer questions such as:
+Insights lets you look at the pull request contributions to the project and answer questions such as:
 
 * Who contributes to the community by submitting pull requests?
 * How responsive is the project to changes?
