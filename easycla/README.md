@@ -1,12 +1,6 @@
 # EasyCLA
 
-​[​![CircleCI](https://circleci.com/gh/communitybridge/easycla.svg?style=svg)​](https://circleci.com/gh/communitybridge/easycla)​
-
-The Contributor License Agreement \(CLA\) service of the Linux Foundation lets project contributors read, sign, and submit contributor license agreements easily.
-
-This repository contains both the backend and front-end UI for supporting and managing the application.
-
-This platform supports both GitHub and Gerrit source code repositories. Additional information can be found in the [Getting Started Guide](getting-started/).
+EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\) so you can stay compliant with project policies. It is the only tool to support both individual and corporate CLA workflows.
 
 ## Third-party Services <a id="third-party-services"></a>
 

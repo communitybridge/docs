@@ -1,10 +1,6 @@
 # Mentorship
 
-Mentorship programs help projects grow their communities by cultivating relationships between experienced mentors and a diverse, talented, and committed group of mentees. The goal of this program is to connect new talent with open source experts and potential employers.
-
-By offering paid mentorships, projects are able to provide mentees with opportunities to learn from experienced open source contributors as a segue to get internship and job opportunities after successful completion of the mentorship program. 
-
-The Mentorship platform was created by the Linux Foundation to make it easy for projects to administer their mentorship programs by connecting mentorship candidates with projects and mentors.
+Mentorship makes it easier than ever to pair promising open source talent with experienced mentors. Invest in building a stronger and more diverse community of qualified developers and engineers.
 
 ## How to Participate <a id="CommunityBridgeMentorship-HowtoParticipate"></a>
 

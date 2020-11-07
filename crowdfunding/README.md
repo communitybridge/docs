@@ -1,8 +1,6 @@
 # Crowdfunding
 
-LFX Crowdfunding makes it possible for open source projects to raise money via donations from individuals and organizations. The goal behind the crowdfunding effort is to ensure the project communities have financial resources to secure, maintain, and advance open source initiatives.
-
-The Linux Foundation doesn't charge any fees for the first $10M raised through the platform,  which allows developers to use more money for work, drive innovation, sustainability, and adoption.
+Crowdfunding makes it easy for individuals and organizations to donate, providing a neutral and trusted platform managed by the Linux Foundation. Projects receive 100% of donations and manage their own funds.
 
 ### [Discover Funds](dashboard/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
 
