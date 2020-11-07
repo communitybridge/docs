@@ -13,7 +13,7 @@ Keep these items ready before you begin:
 
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org/).
 2. Click Apply and select **ADD GITHUB PROJECT.**  ![](../../.gitbook/assets/add-github-project.png)**.**
-3. Select your repository and **Authorize LFX Crowdfunding** to read-only access to your GitHub account.  ![](../../.gitbook/assets/7418542.png) 
+3. Select **Authorize communityBridge** to grant Crowdfunding read-only access to your GitHub account.  ![](../../.gitbook/assets/7418542.png) 
 4. Select the **repository** that you want to use and click **Next.**
 5. Complete the [project application form](../project-application.md); red asterisks indicate required fields.
 6. Click **Submit Application.**
