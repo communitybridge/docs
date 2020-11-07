@@ -1,0 +1,50 @@
+# Travel Funds
+
+Travel Funds provide financial assistance to need-based individuals for travel expenses such as travel to a Linux Foundation conference or an open source project-related technical summit. You can donate to the travel funds that you want to support.
+
+1. [Sign in ](../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Travels Funds](./#Dashboard-TravelScholarships) tab, and select a travel fund to navigate to the dashboard.
+2. Select one of the following tabs to view details:
+   * [Overview](travel-funds.md#TravelScholarships-Overview)
+   * [Dashboard](travel-funds.md#TravelScholarships-Dashboard)
+   * [Financial](travel-funds.md#TravelScholarships-Financial)
+
+## Overview <a id="TravelScholarships-Overview"></a>
+
+The overview shows some or all of the following items depending on the data that is available.
+
+| Name | Description |
+| :--- | :--- |
+| **Current Balance** | The total amount of funds available in the account. |
+| **Sponsor Organizations** | The logos of the companies that sponsor the project. |
+| **Visit Website** | Opens the associated website. |
+| **Donate** | Click Donate to [donate](../donate-sponsor/) to a travel fund. |
+
+  
+View an example of a travel fund overview section:
+
+![Travel Fund Overview](../../.gitbook/assets/travel-fund-overview.png)
+
+## Dashboard <a id="TravelScholarships-Dashboard"></a>
+
+The Dashboard shows various aspects of the fund depending on the data that is available.
+
+| Name | Description |
+| :--- | :--- |
+| **Current Balance** | The total amount of funds available in the account. |
+| **Donations** | The amount of money that has been donated to the project. |
+| **Expenses**  | The amount of money spent or costs incurred for the project, which indicate the cost of doing business. |
+| **Travel Funding Distribution** | Shows how meet-up funds are distributed and their dollar amounts. |
+
+  
+View an example of a travel fund dashboard section:
+
+![](../../.gitbook/assets/7418524%20%281%29.jpg)
+
+## Financial <a id="TravelScholarships-Financial"></a>
+
+The Financial tab lists all transactions with details in chronological order.
+
+View an example of a travel fund financial tab section:
+
+![](../../.gitbook/assets/7418523%20%281%29.jpg)
+
