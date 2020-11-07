@@ -15,17 +15,17 @@ The world runs on open source, and projects need more than a version or source c
 
 **Available tools include...**
 
-* Insights gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with our analytics and reporting tools.
-* Security \(Beta Available\) gives you more visibility into your project's security by automatically monitoring thousands of open source repositories for possible vulnerabilities and weaknesses.
-* Individual Dashboard is your self-service hub for all of your open source activity. Build your personal profile, manage credentials and contact details, update your affiliations, and track your community participation all in one place.
-* EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\) so you can stay compliant with project policies.
-* Mentorship makes it easier than ever to pair promising open source talent with experienced mentors. Invest in building a stronger and more diverse community of qualified developers and engineers.
-* Crowdfunding makes it possible for open source projects to raise money from individuals and organizations who believe in what they're building. Projects receive 100% of donations and manage their own funds.
-* Member Enrollment makes it easier than ever for people to join your project. Onboard new members faster with streamlined data entry and contract execution.
-* Landscape is an open sourced tool that lets you build a visual map of your ecosystem. Organize your contributors and related projects to better analyze how everyone fits into your project development.
-* Community Events lets you easily host and manage events for your project community. Whether planning a virtual conference or working with local meetup organizers, our robust platform has you covered.
-* Training Portal provides individuals and corporate learners centralized access to The Linux Foundation’s extensive list of courses and certifications, developed and taught by expert instructors.
-* Project Control Center  \(Limited Access Beta Early 2021\) provides seamless operations support across governance, IT, and product management needs so you can focus on getting the work done.
+* [Insights ](http://lfx.linuxfoundation.org/tools/insights)gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with our analytics and reporting tools.
+* [Security](http://lfx.linuxfoundation.org/tools/security) \(Beta Available\) gives you more visibility into your project's security by automatically monitoring thousands of open source repositories for possible vulnerabilities and weaknesses.
+* [Individual Dashboard ](http://lfx.linuxfoundation.org/tools/individual-dashboard)is your self-service hub for all of your open source activity. Build your personal profile, manage credentials and contact details, update your affiliations, and track your community participation all in one place.
+* [EasyCLA ](http://lfx.linuxfoundation.org/tools/easycla)streamlines the management and execution of Contributor License Agreements \(CLAs\) so you can stay compliant with project policies.
+* [Mentorship](http://lfx.linuxfoundation.org/tools/mentorship) makes it easier than ever to pair promising open source talent with experienced mentors. Invest in building a stronger and more diverse community of qualified developers and engineers.
+* [Crowdfunding ](http://lfx.linuxfoundation.org/tools/crowdfunding)makes it possible for open source projects to raise money from individuals and organizations who believe in what they're building. Projects receive 100% of donations and manage their own funds.
+* [Member Enrollment](http://lfx.linuxfoundation.org/tools/member-enrollment) makes it easier than ever for people to join your project. Onboard new members faster with streamlined data entry and contract execution.
+* [Landscape](http://lfx.linuxfoundation.org/tools/landscape) is an open sourced tool that lets you build a visual map of your ecosystem. Organize your contributors and related projects to better analyze how everyone fits into your project development.
+* [Community Events](http://lfx.linuxfoundation.org/tools/community-events) lets you easily host and manage events for your project community. Whether planning a virtual conference or working with local meetup organizers, our robust platform has you covered.
+* [Training Portal](http://lfx.linuxfoundation.org/tools/training-portal) provides individuals and corporate learners centralized access to The Linux Foundation’s extensive list of courses and certifications, developed and taught by expert instructors.
+* [Project Control Center](http://lfx.linuxfoundation.org/tools/product-control-center)  \(Limited Access Beta Early 2021\) provides seamless operations support across governance, IT, and product management needs so you can focus on getting the work done.
 
 ## Who can access LFX Toolkit? <a id="CommunityBridgeFAQs-WhocanaccessCommunityBridge?"></a>
 
