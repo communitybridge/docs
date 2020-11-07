@@ -14,7 +14,7 @@ With the public release, we also wanted to update everyone on the open source pl
 
 Open source powers more than 80% of the technology we all use every day, yet many of the world’s most critical developers and open source projects face barriers to growing and sustaining their communities, ranging from challenges with generating funding to improving security to advancing developers’ ability to further excel and contribute.
 
-Ensuring open source communities have the resources needed to secure and maintain their code, grow their communities, and advance these technologies is critical. CommunityBridge will help address these issues by:
+Ensuring open source communities have the resources needed to secure and maintain their code, grow their communities, and advance these technologies is critical. LFX will help address these issues by:
 
 * Improving the sustainability of open source by putting more money into the hands of developers;
 * Nurturing new contributors and increasing diversity in open source communities by creating on-ramps for open source talent; and
@@ -22,9 +22,9 @@ Ensuring open source communities have the resources needed to secure and maintai
 
 ## What services does LFX provide? <a id="CommunityBridgeFAQs-WhatservicesdoesCommunityBridgeprovide?"></a>
 
-Linux Foundation provides a full suite of LFX services and tools designed to support maintainers, contributors, aspiring developers, and organizations that create and depend on open source software.
+Linux Foundation provides a full suite of LFX tools designed to support maintainers, contributors, aspiring developers, and organizations that create and depend on open source software.
 
-Following are various CommunityBridge services provided by Linux Foundation:
+Following are various LFX tools provided by Linux Foundation:
 
 * Crowdfunding: A crowdfunding service to raise money via donations from individuals and corporations so projects can pay maintainers and developers directly for their development efforts or project expenses. Features include fund matching, best practice badges, and diversity and civility promotions.
 * Security: A project scanning service to provide maintainers with relevant information about upstream dependencies, security vulnerabilities, usage reports, and licensing details. Includes a bug bounty service to provide replicable defects as well as a backlog of actionable data that maintainers can easily use to improve the security and robustness of their projects.
@@ -34,9 +34,9 @@ Following are various CommunityBridge services provided by Linux Foundation:
 
 ## Who can access LFX Platform? <a id="CommunityBridgeFAQs-WhocanaccessCommunityBridge?"></a>
 
-LFX platform is open to the public. Anyone can view the public dashboards for open source projects on CommunityBridge, apply to participate as a mentor or mentee, or donate funds to a project.
+LFX platform is open to the public. Anyone can view the public dashboards for open source projects on LFX, apply to participate as a mentor or mentee, or donate funds to a project.
 
-Maintainers of open source projects that have made an impact on the world can apply to run crowdfunding campaigns or mentorship programs through CommunityBridge.
+Maintainers of open source projects that have made an impact on the world can apply to run crowdfunding campaigns or mentorship programs through LFX platform.
 
 ## Is there a cost to host my project on LFX Platform? <a id="CommunityBridgeFAQs-IsthereacosttohostmyprojectonCommunityBridge?"></a>
 
@@ -44,17 +44,17 @@ LFX platform is free for open source projects. No fees of any kind are assessed 
 
 ## Is there a cost to donors? <a id="CommunityBridgeFAQs-Isthereacosttodonors?"></a>
 
-No fees of any kind will be charged for the first $10M USD raised through CommunityBridge; the Linux Foundation will underwrite the platform fees and payment processor fees for these donations. Every dollar of the first $10M raised will be available to the projects hosted on CommunityBridge for their use. Once the $10M milestone has been reached, contributions from individual and corporate donors will be subject to a 5% platform fee plus a payment processor fee.
+No fees of any kind will be charged for the first $10M USD raised through LFX; the Linux Foundation will underwrite the platform fees and payment processor fees for these donations. Every dollar of the first $10M raised will be available to the projects hosted on LFX for their use. Once the $10M milestone has been reached, contributions from individual and corporate donors will be subject to a 5% platform fee plus a payment processor fee.
 
 ## How do I submit my project to LFX? <a id="CommunityBridgeFAQs-HowdoIsubmitmyprojecttoCommunityBridge?"></a>
 
-Simply log in with your Google, GitHub, or Linux Foundation ID and follow the step-by-step guide. The application process takes just a few minutes, but please note that only project maintainers and/or collaborators with administrative control can submit a project to CommunityBridge to be reviewed for inclusion.
+Simply log in with your Google, GitHub, or Linux Foundation ID and follow the step-by-step guide. The application process takes just a few minutes, but please note that only project maintainers and/or collaborators with administrative control can submit a project to Linux Foundation to be reviewed for inclusion.
 
 ## Can I add other maintainers on my project? <a id="CommunityBridgeFAQs-CanIaddothermaintainersonmyproject?"></a>
 
 At this time, LFX supports one maintainer per project who serves as the admin of that project within the platform.
 
-## How are CommunityBridge projects selected? <a id="CommunityBridgeFAQs-HowareCommunityBridgeprojectsselected?"></a>
+## How are LFX projects selected? <a id="CommunityBridgeFAQs-HowareCommunityBridgeprojectsselected?"></a>
 
-Inclusion of an open source project on CommunityBridge will be subject to the review and approval of the Linux Foundation. Among others, relevant considerations may include confirmation that the project is entirely an open source project; that it has sufficient indicia of broad community usage; and that it is aligned to the Linux Foundation’s purposes for the support of open source projects.
+Inclusion of an open source project on LFX platform will be subject to the review and approval of the Linux Foundation. Among others, relevant considerations may include confirmation that the project is entirely an open source project; that it has sufficient indicia of broad community usage; and that it is aligned to the Linux Foundation’s purposes for the support of open source projects.
 
