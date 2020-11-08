@@ -136,7 +136,6 @@
   * [Platform Overview](mentorship/platform-overview/README.md)
     * [View Mentorship Program Details](mentorship/platform-overview/view-projects-details.md)
     * [View Mentor/Mentee Profile](mentorship/platform-overview/view-a-mentor-or-mentee-profile.md)
-    * [Toggle Between Mentorship and Funding](mentorship/platform-overview/toggle-between-mentorship-and-funding.md)
   * [Administrators](mentorship/administrators/README.md)
     * [Enroll Your Program](mentorship/administrators/enroll-your-project/README.md)
       * [Mentorship Project Enrollment Form](mentorship/administrators/enroll-your-project/mentorship-project-enrollment-form.md)
