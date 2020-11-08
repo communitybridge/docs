@@ -6,7 +6,7 @@ You can submit an application to [Open Source Technology Improvement Fund](https
 2. Click **Apply** and select **ADD SECURITY AUDIT**.  ![](../../.gitbook/assets/add-security-audit.png) 
 3. Complete the [security audit application form](../security-audit-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application.**
-5. \(Optional\) Go to your user account and select **My Projects** to see your pending project.
+5. \(Optional\) Click **My Projects** tab to view your pending project.
 
 {% hint style="info" %}
 You can edit your project at any time. Select the project you want to update and select **Edit Project.**
