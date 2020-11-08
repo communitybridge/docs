@@ -11,5 +11,5 @@ Have these items handy before you begin:
 2. Click **Apply** and select **ADD EVENT**.  ![](../../.gitbook/assets/add-event.png) 
 3. Complete the [event application form](../event-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application**.
-5. \(Optional\) Go to your user account and select **My Projects** to see your event pending for approval.  ![](../../.gitbook/assets/7418553.png)  **Note:** You can edit your event at any time. Select the event that you want to update and click **Edit Event**.
+5. \(Optional\) Click **My Projects** tab to view your event pending for approval.   **Note:** You can edit your event at any time. Select the event that you want to update and click **Edit Event**.
 
