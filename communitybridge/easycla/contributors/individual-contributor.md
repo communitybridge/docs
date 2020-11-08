@@ -16,9 +16,9 @@ As an individual contributor, you are contributing code on your own behalf \(not
 2. A cross next to your contributor name means the CLA check failed.
 {% endhint %}
 
-![CLA check failed](../../../.gitbook/assets/cla-not-signed.png)
+![CLA Check Failed](../../../.gitbook/assets/cla-github-individual-check-fail.png)
 
-3. Click ![](../../../.gitbook/assets/cla-not-signed-button.png)  or **Please click here to be authorized**.
+3. Click ![](../../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
 
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require this authorization.\)
 

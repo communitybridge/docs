@@ -18,9 +18,9 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 2. A cross next to your contributor name means the CLA check failed.
 {% endhint %}
 
-![CLA GitHub Company Contributor Fail](../../../.gitbook/assets/cla-github-company-contributor-fail.png)
+![CLA Check Fail](../../../.gitbook/assets/cla-github-individual-check-fail.png)
 
-4. Click ![](../../../.gitbook/assets/cla-not-signed-button.png)  or **Please click here to be authorized**.  
+4. Click ![](../../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.  
 **Note:** The Authorize Linux Foundation: EasyCLA dialog appears.
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
