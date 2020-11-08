@@ -13,7 +13,7 @@ Keep these items ready before you begin:
 2. Click **Apply** and select **ADD INITIATIVE**.  ![](../../.gitbook/assets/add-initiative.png) 
 3. Complete the[ initiative application form](../initiative-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application.**
-5. \(Optional\) Click **My Projects** tab to view your pending project.
+5. \(Optional\) Go to your user account and select **My Projects** to see your pending project.
 
 {% hint style="info" %}
 You can edit your project at any time. Select the project you want to update and select **Edit Project.**

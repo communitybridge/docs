@@ -15,7 +15,7 @@ Keep these items ready before you begin, although they are not required:
 2. Click **Apply** and ****Select **ADD GIT PROJECT.**  ![](../../.gitbook/assets/add-git-project%20%281%29.png) 
 3. Complete a [project application form](../project-application.md); red asterisks indicate required fields. 
 4. Click **Submit Application.**
-5. \(Optional\) Click **My Projects** tab to view your pending project.
+5. \(Optional\) Go to your user account and select **My Projects** to see your pending project.
 
 {% hint style="info" %}
 You can edit your project at any time. Select the project you want to update and click **Edit Project.**
