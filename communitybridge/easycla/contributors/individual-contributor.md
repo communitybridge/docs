@@ -22,7 +22,7 @@ As an individual contributor, you are contributing code on your own behalf \(not
 
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require this authorization.\)
 
-​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla%20%281%29.png)​
+​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png) ​
 
 The CLA Contributor Console appears and shows the CLA group for your project.
 

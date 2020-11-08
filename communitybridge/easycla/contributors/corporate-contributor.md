@@ -21,13 +21,13 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 ![CLA GitHub Company Contributor Fail](../../../.gitbook/assets/cla-github-company-contributor-fail.png)
 
 4. Click ![](../../../.gitbook/assets/cla-not-signed-button.png)  or **Please click here to be authorized**.  
-**Note:** The Authorize CommunityBridge: EasyCLA dialog appears.
+**Note:** The Authorize Linux Foundation: EasyCLA dialog appears.
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
 **Result:** The CLA Contributor Console appears in a new tab.
 
-​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla.png)​
+​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png) ​
 
 ![CLA CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
 
