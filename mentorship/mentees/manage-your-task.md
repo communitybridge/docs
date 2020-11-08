@@ -1,6 +1,6 @@
 # Manage Your Tasks
 
-1. To manage tasks assigned to you  [Sign in](../../sso/sign-in/) to the [Mentorship](https://people.dev.platform.linuxfoundation.org/) and select **My Tasks** tab.  
+1. To manage tasks assigned to you  [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org) and select **My Tasks** tab.  
 
 2. In **Tasks Assigned To Me** section you can view prerequisite tasks as well as mentorship milestone tasks. If required, upload a file to complete a task and change its status from the **Status** dropdown. 
 

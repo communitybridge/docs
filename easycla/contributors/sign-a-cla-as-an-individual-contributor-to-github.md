@@ -1,26 +1,25 @@
 # Sign a CLA as an Individual Contributor to GitHub
 
-As an individual contributor to an open-source project who is contributing code on your own behalf \(and not on behalf of an employer\), you create a pull request in GitHub to inform code maintainers about changes made to the code. During the pull request process, your CLA is verified. Also during the process, you click a link to open the CLA Contributor Console to sign the CLA.
+As an individual contributor, you are contributing code on your own behalf \(and not on behalf of an employer\), you create a pull request in GitHub to inform code maintainers about changes made to the code. During the pull request process, your CLA is verified. Also during the process, you click a link to open the CLA Contributor Console to sign the CLA.
 
-**Do these steps:**
+**To Sign CLA:**
 
-1. In GitHub, go to the repository that is linked to the project for your organization.
+1. Navigate to the GitHub repository that is linked to the project for your organization.
 
 2. Make a change and send a pull request.
 
-EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names who are involved in that pull request based on their CLA status.
-
-A cross next to your contributor name means the CLA check failed.
+{% hint style="info" %}
+* EasyCLA checks your CLA status. It marks a cross or a tick beside your name based on your CLA status.
+* A cross next to your contributor name means the CLA check failed.
+{% endhint %}
 
 ![CLA GitHub Individual Check Fail](../../.gitbook/assets/cla-github-individual-contributor-fail.png)
 
-3. Click **Please click here to be authorized**.
-
-The Authorize CommunityBridge: EasyCLA dialog appears.
+3. Click ![](../../.gitbook/assets/cla-not-signed-button.png)  or **Please click here to be authorized**.
 
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-​![Authorize CommunityBridge: EasyCLA](../../.gitbook/assets/cla-authorize-easycla%20%281%29.png)​
+​ ![](../../.gitbook/assets/authorize-linux-foundation-easycla.png) 
 
 The CLA Contributor Console appears and shows the CLA group for your project. The CLA types display:
 

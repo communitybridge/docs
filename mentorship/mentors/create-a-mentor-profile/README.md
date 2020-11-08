@@ -1,6 +1,8 @@
 # Become a Mentor
 
-1. To become a mentor for a mentorship program [Sign in](../../../sso/sign-in/) to [Mentorship](https://mentorship.lfx.linuxfoundation.org) and click on **Become a Mentor** navigation menu item to [create mentor profile](./), and request to be [added ](request-to-be-added-to-a-program.md#to-apply-to-a-project)to a program.
+1. To become a mentor for a mentorship program [Sign in](../../../sso/sign-in/) to [Mentorship](https://mentorship.lfx.linuxfoundation.org) 
+
+2. Click on **Become a Mentor** navigation menu item to [create mentor profile](./), and request to be [added ](request-to-be-added-to-a-program.md#to-apply-to-a-project)to a program.
 
 Keep these items ready before you begin:
 
@@ -12,7 +14,7 @@ Keep these items ready before you begin:
 
 ![](../../../.gitbook/assets/become-a-mentor%20%281%29.png)
 
-2. Complete the form fields.  
+3. Complete the form fields.  
 **Note:** Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form. Click any of the following links for information about fields.
 
 * [User Information](./#CreateaMentorProfile-MentorProfile)
@@ -22,7 +24,7 @@ Keep these items ready before you begin:
 * [Mentorship Project Details](./#CreateaMentorProfile-ProjectDetails)
 * [Terms and Conditions](./#CreateaMentorProfile-TermsandConditions)
 
-3. Select the checkbox and click **Submit**. Click on **My Profile** navigation menu item to view and edit your profile.  
+4. Select the checkbox and click **Submit**. Click on **My Profile** navigation menu item to view and edit your profile.  
   
 **Note:** The Project Admin of the mentorship program you requested to be added to as a mentor will review your profile before you're added to the program. 
 

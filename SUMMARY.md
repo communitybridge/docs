@@ -159,7 +159,7 @@
     * [Review Mentees Applications](mentorship/mentors/review-mentee-applications-and-tasks.md)
     * [Manage Mentees Tasks](mentorship/mentors/manage-mentees-tasks.md)
     * [Contact a Mentee](mentorship/mentors/contact-a-mentee.md)
-    * [Manage Your Account](mentorship/mentors/manage-your-mentorship-account.md)
+    * [Manage Your Mentorship Profile](mentorship/mentors/manage-your-mentorship-account.md)
   * [Mentee Stipends](mentorship/mentee-stipends/README.md)
     * [Total Stipend Amount](mentorship/mentee-stipends/total-stipend-amount.md)
   * [Mentee Guide](mentorship/mentee-guide/README.md)

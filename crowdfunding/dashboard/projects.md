@@ -2,7 +2,7 @@
 
 To view more information about a project, including its financials: 
 
-1. [Sign in ](../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Projects ](./#Dashboard-ProjectsandMentorships)tab, and select a project to navigate to the project's dashboard. 
+1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://funding.communitybridge.org/), click [Projects ](./#Dashboard-ProjectsandMentorships)tab, and select a project to navigate to the project's dashboard. 
 2. Select one of the following tabs to view details:
    * [Overview](projects.md#ProjectsandMentorships-Overview)
    * [Dashboard](projects.md#dashboard)

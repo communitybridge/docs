@@ -18,11 +18,11 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 ![CLA GitHub Company Contributor Fail](../../.gitbook/assets/cla-github-company-contributor-fail.png)
 
 4. Click **Please click here to be authorized**.  
-**Note:** The Authorize CommunityBridge: EasyCLA dialog appears.
+**Note:** The Authorize Linux Foundation: EasyCLA dialog appears.
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-​![Authorize CommunityBridge: EasyCLA](../../.gitbook/assets/cla-authorize-easycla.png)​
+​​ ![](../../.gitbook/assets/authorize-linux-foundation-easycla.png) 
 
 6. The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
 

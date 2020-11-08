@@ -15,7 +15,7 @@ Keep these items ready before you begin:
 * A list of names and email addresses for the individuals who you want to invite as mentors.
 {% endhint %}
 
-1. To enroll the project [Sign in ](../../../sso/sign-in/)to the [Mentorship](https://people.communitybridge.org/) and select **Enroll Your Project** from the main navigation. 
+1. To enroll the project [Sign in ](../../../sso/sign-in/)to the [Mentorship](https://mentorship.lfx.linuxfoundation.org/) and select **Enroll Your Project** from the main navigation. 
 
 ![](../../../.gitbook/assets/enroll-your-program.png)
 

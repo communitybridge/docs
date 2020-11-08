@@ -1,6 +1,6 @@
 # Open & Close Mentorship Applications
 
-1. To open or close mentorship program applications [Sign in](../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/)
+1. To open or close mentorship program applications [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org)
 
 Select **My Projects** tab
 

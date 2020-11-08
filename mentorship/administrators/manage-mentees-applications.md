@@ -4,7 +4,7 @@
 **Important:** You cannot accept a mentee who has graduated or is actively participating in another Linux Foundation mentorship program.
 {% endhint %}
 
-1. To manage mentee applications ****[Sign in](../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
+1. To manage mentee applications ****[Sign in](../../sso/sign-in/) to [Mentorship](https://mentorship.lfx.linuxfoundation.org/), click on **My Account** menu icon, and select **My Projects** from dropdown.
 
 2. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants. 
 
