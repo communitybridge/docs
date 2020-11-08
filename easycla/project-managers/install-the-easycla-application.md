@@ -2,12 +2,11 @@
 
 As a project manager, you use the CLA Management Console to install the EasyCLA Application on GitHub. The EasyCLA Application installation process connects GitHub to the CLA Management Console. After you complete installation, you must [configure the repositories to enforce CLA monitoring](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md).
 
-**Do these steps:**
+**To Install the EasyCLA Application:**
 
 1. [Sign in](sign-in-to-the-cla-management-console.md).
 
-2. Click a project of interest.  
-The project page appears.
+2. Click a project of interest.
 
 3. Click **CONNECT GITHUB ORGANIZATION**.  
 The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
