@@ -208,7 +208,6 @@
     * [Initiatives](crowdfunding/platform-overview/initiatives.md)
     * [Integrated Services for a Project](crowdfunding/platform-overview/integrated-services-for-a-project.md)
     * [Search](crowdfunding/platform-overview/search.md)
-    * [Toggle Between Funding and Mentorship for a Project](crowdfunding/platform-overview/toggle-between-funding-and-mentorship-for-a-project.md)
   * [Apply for Crowdfunding](crowdfunding/apply-for-crowdfunding/README.md)
     * [Add a GitHub Project](crowdfunding/apply-for-crowdfunding/add-a-github-project.md)
     * [Add a Git Project](crowdfunding/apply-for-crowdfunding/add-a-git-project.md)
