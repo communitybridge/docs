@@ -130,6 +130,7 @@
     * [Add or Delete CLA Managers](easycla/ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
     * [View Employee Acknowledgements](easycla/ccla-managers-and-ccla-signatories/view-employee-acknowledgements.md)
     * [Edit the Company Name and Manager Details](easycla/ccla-managers-and-ccla-signatories/edit-the-company-name-and-manager-details.md)
+  * [EasyCLA Get Help](easycla/easycla-get-help.md)
 * [Mentorship](mentorship/README.md)
   * [Sample Timelines](mentorship/sample-mentorship-program-timelines.md)
   * [Platform Overview](mentorship/platform-overview/README.md)

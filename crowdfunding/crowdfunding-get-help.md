@@ -4,7 +4,7 @@ Navigate to **Get Help** and select an **option** from the drop-down list.
 
 ![](../.gitbook/assets/get-help%20%282%29.png)
 
-**Docs** opens the Linux Foundation Product Documentation.  
+**Docs** opens the [Linux Foundation Product Documentation](https://docs.linuxfoundation.org/lfx/crowdfunding).  
 **Support** opens the Help Center.  
 **FAQ** opens the Funding FAQs.
 

@@ -1,13 +1,11 @@
 # Mentorship - Get Help
 
-**To Get Help:** 
+Navigate to **Get Help** and select an **option** from the drop-down list:
 
-Go to **Get Help** and select an **option** from the drop-down list:
+![](../.gitbook/assets/mentorship-get-help.png)
 
-![Get Help Options](../.gitbook/assets/get-help.png)
-
-**Docs** opens the Linux [Foundation Product Documentation](https://docs.linuxfoundation.org/).  
-**Support** open the Help Center.  
+**Docs** opens the [Linux Foundation Product Documentation](https://docs.linuxfoundation.org/lfx/mentorship).  
+**Support** opens the Help Center.  
 **FAQ** opens the Mentorship FAQs.  
 
 
