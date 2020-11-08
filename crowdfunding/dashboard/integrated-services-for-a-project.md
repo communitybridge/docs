@@ -6,22 +6,15 @@ Integrated services for a project lets you see additional information about a pr
 
 **To view integrated services:** 
 
-1. [Sign in ](../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/).
+1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/)
 2. From [Projects](./#Dashboard-ProjectsandMentorships) tab, select a project to navigate to the project's dashboard.
 3. Funding integrates with the following independent Linux Foundation services:
-   * [Mentorship Program](integrated-services-for-a-project.md#IntegratedServicesforaProject-MentorshipProgram)
    * [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks)
-   * [Vulnerability Detection](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection)
+   * [Security](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection)
 
 {% hint style="info" %}
 **Note:** Integrated service is displayed on a project dashboard if the project is enrolled for the service.
 {% endhint %}
-
-## Mentorship Program <a id="IntegratedServicesforaProject-MentorshipProgram"></a>
-
-**Mentorship** **Program** provides a mentorship matchmaking service that connects mentorship candidates with projects, mentees with mentors, projects with donors to provide mentorship stipends, and mentorship graduates with potential job opportunities.
-
-![](../../.gitbook/assets/7416592.png)
 
 ## Stacks <a id="IntegratedServicesforaProject-Stacks"></a>
 
@@ -29,9 +22,9 @@ Integrated services for a project lets you see additional information about a pr
 
 ![](../../.gitbook/assets/7416590.png)
 
-## Vulnerability Detection <a id="IntegratedServicesforaProject-VulnerabilityDetection"></a>
+## Security <a id="IntegratedServicesforaProject-VulnerabilityDetection"></a>
 
-**Vulnerability Detection** provides a scanning service to detect vulnerabilities in your project by severity of vulnerabilities discovered in the project repositories. Hover mouse over a severity level to log in to Vulnerability Detection and see details.
+**Security** provides a scanning service to detect vulnerabilities in your project by severity of vulnerabilities discovered in the project repositories. Hover over a severity level to log in to Security and view details.
 
 | ![](../../.gitbook/assets/7416591.png) | ![](../../.gitbook/assets/7416589%20%281%29.png) |
 | :--- | :--- |
