@@ -2,8 +2,9 @@
 
 Travel Funds provide financial assistance to need-based individuals for travel expenses such as travel to a Linux Foundation conference or an open source project-related technical summit. You can donate to the travel funds that you want to support.
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/), click [Travels Funds](./#Dashboard-TravelScholarships) tab, and select a travel fund to navigate to the dashboard.
-2. Select one of the following tabs to view details:
+1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+2. From [Travels Funds](./#Dashboard-TravelScholarships) tab, and select a travel fund to navigate to the dashboard.
+3. Select one of the following tabs to view details:
    * [Overview](travel-funds.md#TravelScholarships-Overview)
    * [Dashboard](travel-funds.md#TravelScholarships-Dashboard)
    * [Financial](travel-funds.md#TravelScholarships-Financial)

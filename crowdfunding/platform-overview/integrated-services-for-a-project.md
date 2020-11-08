@@ -6,7 +6,7 @@ Integrated services for a project lets you see additional information about a pr
 
 **To view integrated services:** 
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/)
+1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. From [Projects](./#Dashboard-ProjectsandMentorships) tab, select a project to navigate to the project's dashboard.
 3. Funding integrates with the following independent Linux Foundation services:
    * [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks)

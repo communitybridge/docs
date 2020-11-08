@@ -2,8 +2,9 @@
 
 Security Audit page displays the projects that are currently enrolled for security audit performed by [Open Source Technology Improvement Fund \(OSTIF\)](https://ostif.org/the-ostif-mission/).
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/), click [Security Audits \(OSTIF\)](./#security-audits-ostif) tab, and select a project to navigate to the project's dashboard. 
-2. Select one of the following tabs to view details:
+1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+2. From [Security Audits \(OSTIF\)](./#security-audits-ostif) tab, select a project to navigate to the project's dashboard. 
+3. Select one of the following tabs to view details:
    * [Overview](security-audit.md#overview)
    * [Dashboard](security-audit.md#dashboard)
    * [Financial](security-audit.md#ProjectsandMentorships-Financial)

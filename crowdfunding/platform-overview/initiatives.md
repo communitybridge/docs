@@ -2,8 +2,9 @@
 
 Initiatives page displays the initiatives that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/)
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/), click [Initiatives](./#initiatives) tab, and select a project to navigate to the project's dashboard. 
-2. Select one of the following tabs to view details:
+1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+2. From [Initiatives](./#initiatives) tab, and select a project to navigate to the project's dashboard. 
+3. Select one of the following tabs to view details:
    * [Overview](initiatives.md#overview)
    * [Dashboard](initiatives.md#dashboard)
    * [Financial](initiatives.md#ProjectsandMentorships-Financial)

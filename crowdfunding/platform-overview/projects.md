@@ -2,8 +2,9 @@
 
 To view more information about a project, including its financials: 
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/), click [Projects ](./#Dashboard-ProjectsandMentorships)tab, and select a project to navigate to the project's dashboard. 
-2. Select one of the following tabs to view details:
+1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+2. From [Projects ](./#Dashboard-ProjectsandMentorships)tab, select a project to navigate to the project's dashboard. 
+3. Select one of the following tabs to view details:
    * [Overview](projects.md#ProjectsandMentorships-Overview)
    * [Dashboard](projects.md#dashboard)
    * [Financial](projects.md#ProjectsandMentorships-Financial)
