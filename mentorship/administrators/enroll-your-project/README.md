@@ -17,9 +17,9 @@ Keep these items ready before you begin:
 
 1. To enroll the project [Sign in ](../../../sso/sign-in/)to the [Mentorship](https://people.communitybridge.org/) and select **Enroll Your Project** from the main navigation. 
 
-![](../../../.gitbook/assets/enroll-your-project-screen.png)
+![](../../../.gitbook/assets/enroll-your-program.png)
 
-2. Complete the [Mentorship Project Application](mentorship-project-enrollment-form.md) form. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
+2. Complete the [Mentorship Project Enrollment ](mentorship-project-enrollment-form.md)form. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 
 3. Read and agree to the Terms and Conditions and **Submit** the application.  
    An "Almost There!" message appears:
@@ -29,6 +29,6 @@ Keep these items ready before you begin:
       **Note: My Projects** takes to your account &gt; My Projects
 
 {% hint style="info" %}
-After The Linux Foundation reviews the project application, you will receive an email notification with a review decision. 
+After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
 {% endhint %}
 
