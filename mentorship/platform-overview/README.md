@@ -11,7 +11,7 @@ The Mentorship platform facilitates a structured remote learning environment to 
 2. To view more information about the program click on the program name to:
    * [View mentorship program details](view-projects-details.md)
    * [View participating](view-a-mentor-or-mentee-profile.md)[ mentors and mentees and navigate to their profiles ](view-a-mentor-or-mentee-profile.md)
-   * [Toggle between Mentorship and Funding](../../crowdfunding/dashboard/toggle-between-funding-and-mentorship-for-a-project.md)
+   * [Toggle between Mentorship and Funding](../../crowdfunding/platform-overview/toggle-between-funding-and-mentorship-for-a-project.md)
 3. To participate:
    * Administrators – [enroll your mentorship program ](https://app.gitbook.com/@lfdocs/s/docs/communitybridge/mentorship/administrators/enroll-your-project)
    * Mentees – [create a profile](../mentees/create-a-mentee-profile.md) and [apply to a program](../mentees/apply-to-a-project.md)

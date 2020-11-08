@@ -1,4 +1,4 @@
-# Dashboard
+# Platform Overview
 
 Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
 
