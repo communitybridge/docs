@@ -13,9 +13,13 @@ The Applications or Organizations pane appears.
 
 4. Click **Installed GitHub Apps** tab if it does not appear by default.
 
-5. Click **Configure** for the Linux Foundation: EasyCLA app.
+5. Click **Configure** for the CommunityBridge: EasyCLA app.
 
-6. Go to the Uninstall Linux Foundation: EasyCLA section and click **Uninstall**.
+![CLA Uninstall the EasyCLA App](../../.gitbook/assets/cla-uninstall-the-easycla-app.png)
+
+6. Go to the Uninstall CommunityBridge: EasyCLA section and click **Uninstall**.
+
+![CLA Uninstall the EasyCLA app button](../../.gitbook/assets/cla-uninstall-the-easycla-app-button.png)
 
 7. Refresh the CLA Management Console.
 
