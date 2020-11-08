@@ -12,26 +12,28 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 2. Make a change and send a pull request.
 
-3. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names involved in that pull request based on their CLA status.  
-**Note:** A cross next to your contributor name means the CLA check failed.
+{% hint style="info" %}
+* EasyCLA checks your CLA status. It marks a cross or a tick beside your name based on your CLA status.
+* A cross next to your contributor name means the CLA check failed.
+{% endhint %}
 
-![CLA GitHub Company Contributor Fail](../../.gitbook/assets/cla-github-company-contributor-fail.png)
+![](../../.gitbook/assets/cla-github-individual-check-fail.png)
 
-4. Click **Please click here to be authorized**.  
+3. Click ![](../../.gitbook/assets/lfx-easycla.png)  or **Please click here to be authorized**.  
 **Note:** The Authorize Linux Foundation: EasyCLA dialog appears.
 
-5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
+4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
 ​​ ![](../../.gitbook/assets/authorize-linux-foundation-easycla.png) 
 
-6. The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
+5. The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
 
 ![CLA GitHub Select Company or Individual](../../.gitbook/assets/cla-github-select-company-or-individual.png)
 
-7. Select **Company**.  
+6. Select **Company**.  
 **Note:** To contribute to this project, you must be added to an approved list by the CLA manager under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
 
-8. Continue:
+7. Continue:
 
 * [If Confirmation of Association statement appears](contribute-to-a-github-company-project.md#if-confirmation-of-association-statement-appears)
 * [If you are not added to the approved list](contribute-to-a-github-company-project.md#if-you-are-not-added-to-the-approved-list)
