@@ -6,7 +6,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 1. ****[Sign in](../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org), and click Donate on a project card.
 
-**Note:** If you click **Donate** on a project card on LFX Mentorship, you will be redirected to the Crowdfunding donation form for the project.
+**Note:** If you click **Donate** on a project card on Mentorship platform, you will be redirected to the Crowdfunding donation form for the project.
 
 2. Select **Individual** option on the donation form, the **I want to give** options show preset amounts for individual donor.
 

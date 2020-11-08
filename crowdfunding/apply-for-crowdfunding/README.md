@@ -28,8 +28,10 @@ Consider the following submission guidelines before you apply:
 **Important:** The application includes information about you and your project; provide this information if you are authorized to provide on behalf of your project.
 {% endhint %}
 
-1. [Sign in](../../sso/sign-in/) to [Funding](https://funding.communitybridge.org/).
-2. Click **Apply** and then select an **option.** ![](../../.gitbook/assets/7418532.png)
+1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+2. Click **Apply** form top right of the page, and then select an **option.**
+
+![Apply to enroll for Crowdfunding](../../.gitbook/assets/apply-project-for-crowdfunding.png)
 
 * [Add GitHub Project](add-a-github-project.md)
 * [Add Git Project](add-a-git-project.md)

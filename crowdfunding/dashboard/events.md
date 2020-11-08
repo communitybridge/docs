@@ -2,7 +2,7 @@
 
 Events page displays the project related events that are organized for specific reasons. You can [donate](../donate-sponsor/) to the events that you want to support, and also [register](../register-for-an-event.md) to attend an event.
 
-1. [Sign in ](../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Events](./#Dashboard-Events) tab, and select an event to navigate to the event's dashboard. 
+1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/), click [Events](./#Dashboard-Events) tab, and select an event to navigate to the event's dashboard. 
 2. Select one of the following tabs to view details:
    * [Overview](events.md#Events-Overview)
    * [Dashboard](events.md#Events-Dashboard)
@@ -21,7 +21,6 @@ The overview shows some or all of the following items depending on the data that
 | **Sponsor** | Click Sponsor to [donate](../donate-sponsor/) to the event. |
 | **Current Balance** | The total amount of funds available in the account. |
 | **Sponsor Organizations** | The logos of companies that sponsor the project. |
-| **Sponsorships** | The logos for the types of sponsorships. |
 
   
 View an example of an event overview section:
@@ -48,7 +47,7 @@ View an example of an event dashboard section:
 
 ## Financial <a id="Events-Financial"></a>
 
-The Financial tab lists all transactions with details in chronological order. Click the icon next to Fees to see the see distribution of applicable fees.
+The Financial tab lists all transactions with details in chronological order. Click the icon beside Fees to see the see distribution of applicable fees.
 
 ![](../../.gitbook/assets/fees-icon-events.png)
 

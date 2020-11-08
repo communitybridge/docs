@@ -27,12 +27,12 @@ Designated **beneficiaries** get reimbursed for their work efforts by submitting
 
 You can participate by applying and submitting your open source project, initiative or event to raise money through crowdfunding, as well as by donating to projects, and sponsoring events and travel funds. 
 
-You must have an [LF SSO account](../sso/create-an-account.md) to sign in to [crowdfunding](https://funding.communitybridge.org/) to participate. For Sign In details, please see [sign in to your account.](../sso/sign-in/)  
+You must have an [LF SSO account](../sso/create-an-account.md) to sign in to [crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/) to participate. For Sign In details, view [sign in to your account.](../sso/sign-in/)  
 **Note:** If you already have an LF SSO account,  you can sign in using your SSO credentials.
 
 ### **Submit an application** <a id="CommunityBridgeFunding-ApplyingforFunding"></a>
 
-**As an individual/project administrator**, ****you can [submit an application](apply-for-crowdfunding/) to list your category on crowdfunding and raise funds for your Git-based open source project. After your fund is approved by the Linux Foundation, it will be publicly visible on the crowdfunding [dashboard](https://funding.communitybridge.org/). You can also apply for event crowdfunding or travel funds by submitting an [Event Application Form](event-application.md) or a [Travel Fund application form](travel-fund-application.md). 
+**As an individual/project administrator**, ****you can [submit an application](apply-for-crowdfunding/) to list your category on crowdfunding and raise funds for your Git-based open source project. After your fund is approved by the Linux Foundation, it will be publicly visible on the [crowdfunding dashboard](https://crowdfunding.lfx.linuxfoundation.org/). You can also apply for event crowdfunding or travel funds by submitting an [Event Application Form](event-application.md) or a [Travel Fund application form](travel-fund-application.md). 
 
 ### Donating/Sponsoring <a id="CommunityBridgeFunding-Donating/Sponsoring"></a>
 

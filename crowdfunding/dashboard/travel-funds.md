@@ -2,7 +2,7 @@
 
 Travel Funds provide financial assistance to need-based individuals for travel expenses such as travel to a Linux Foundation conference or an open source project-related technical summit. You can donate to the travel funds that you want to support.
 
-1. [Sign in ](../../sso/sign-in/)to [Funding](https://funding.communitybridge.org/), click [Travels Funds](./#Dashboard-TravelScholarships) tab, and select a travel fund to navigate to the dashboard.
+1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/), click [Travels Funds](./#Dashboard-TravelScholarships) tab, and select a travel fund to navigate to the dashboard.
 2. Select one of the following tabs to view details:
    * [Overview](travel-funds.md#TravelScholarships-Overview)
    * [Dashboard](travel-funds.md#TravelScholarships-Dashboard)
@@ -33,9 +33,10 @@ The Dashboard shows various aspects of the fund depending on the data that is av
 | **Current Balance** | The total amount of funds available in the account. |
 | **Donations** | The amount of money that has been donated to the project. |
 | **Expenses**  | The amount of money spent or costs incurred for the project, which indicate the cost of doing business. |
-| **Travel Funding Distribution** | Shows how meet-up funds are distributed and their dollar amounts. |
+| **Travel Fund Funding Distribution** | Shows how meet-up funds are distributed and their dollar amounts. |
+| **Breakdown** | The financial goal and progress towards it by individual goal. |
+| **Recent Transactions** | Lists recorded financial transactions in chronological order. Click **View all transactions** to see a log of transactions in the Financial tab. |
 
-  
 View an example of a travel fund dashboard section:
 
 ![](../../.gitbook/assets/7418524%20%281%29.jpg)

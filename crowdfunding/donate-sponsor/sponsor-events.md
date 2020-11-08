@@ -13,14 +13,10 @@ Keep these items ready before you begin:
 
  ****1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org/). ****
 
-2. From **Events** tab, select **Sponsor** on an event of interest.  
-  
- ![](../../.gitbook/assets/sponsor-an-event.png)   
-  
+2. From **Events** tab, select **Sponsor** on an event of interest.   
 The New Donation form appears, for example:           
                                                                                                                                                                                                 
-![](../../.gitbook/assets/7418588.png)  
-
+![](../../.gitbook/assets/7418588.png)
 
 3. Select **Individual** or an **Organization**. If you select **Organization,** you can [add, edit, or delete an organization](donate-as-a-sponsor/add-edit-or-delete-an-organization.md) anytime.
 

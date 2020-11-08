@@ -11,15 +11,13 @@ Keep these items ready before you begin, although they are not required:
 * A list of names and email addresses for the individuals who will benefit from working on the project
 {% endhint %}
 
-1. [Sign in](../../sso/sign-in/) to [Funding](https://funding.communitybridge.org/).
-2. Click **Apply** and ****Select **ADD GIT PROJECT.**  ![](../../.gitbook/assets/add-git-project%20%281%29.png) 
+1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+2. Click **Apply** from top right of the page, ****and ****Select **ADD GIT PROJECT.**  ![](../../.gitbook/assets/add-git-project%20%281%29.png) 
 3. Complete a [project application form](../project-application.md); red asterisks indicate required fields. 
 4. Click **Submit Application.**
 5. \(Optional\) Click **My Projects** tab to view your pending project.
 
 {% hint style="info" %}
-You can edit your project at any time. Select the project you want to update and click **Edit Project.**
+You can edit your project at any time. Select the project that you want to update, and click **Edit Project.**
 {% endhint %}
-
-
 

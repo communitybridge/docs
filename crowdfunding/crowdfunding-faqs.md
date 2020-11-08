@@ -4,7 +4,7 @@
 
 LFX Crowdfunding enables a simple, managed process for your open source project to raise funds from donors to reimburse project contributors for project expenses. Crowdfunding is free for open source projects, and every dollar of the first $10M raised through Crowdfunding will be passed directly to the projects hosted on LFX, resulting in more money to support critical work on your project. Additionally, funds raised via Crowdfunding can be applied towards mentorship programs via the LFX Mentorship service.
 
-## Are donors charged fees for donations to a project on LFX? <a id="FundingFAQs-AredonorschargedfeesfordonationstoaprojectonCommunityBridge?"></a>
+## Are donors charged fees for donations to a project on LFX platform? <a id="FundingFAQs-AredonorschargedfeesfordonationstoaprojectonCommunityBridge?"></a>
 
 For the first $10M USD donated to projects through LFX Crowdfunding, the Linux Foundation will underwrite all platform fees as well as any fees charged by third-party payment processors. Every dollar of the first $10M raised through Crowdfunding will be available to the projects hosted on LFX for their use. Once the $10M milestone has been reached, contributions from individual and corporate donors will be subject to a 5% platform fee plus a payment processor fee.
 

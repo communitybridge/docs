@@ -4,7 +4,7 @@ You can participate in an event to understand more about the project related inf
 
 **To Register for an event:** 
 
-1. [Sign in](../sso/sign-in/) to[ Funding](https://funding.communitybridge.org/).
+1. [Sign in](../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. Under **Events** tab, select an event that you want to participate, and click **Register**.
 
 The event page opens. Click **REGISTER NOW** on the event page, and follow the procedure to register.  

@@ -2,9 +2,9 @@
 
 Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://funding.communitybridge.org/).
+1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. From [Projects ](./#Dashboard-ProjectsandMentorships)tab, click a project to navigate to the project dashboard.
-3. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives) to learn more about each. 
+3. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives), [My Transactions](./#my-transactions), [My Projects](./#my-projects), and [My Account](./#my-account) to learn more about each. 
 4. To participate:
    * [Apply to raise fund for a project](../apply-for-crowdfunding/)
      * [Add a GitHub project](../apply-for-crowdfunding/add-a-github-project.md)
@@ -29,7 +29,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 
 To learn more, see [Projects](projects.md).
 
-![](../../.gitbook/assets/funding-project-cards.png)
+![Crowdfunding Projects](../../.gitbook/assets/crowdfunding-projects.png)
 
 ## Events <a id="Dashboard-Events"></a>
 
@@ -45,7 +45,7 @@ To learn more, see [Projects](projects.md).
 
 To learn more, see [Events](events.md).
 
-![](../../.gitbook/assets/crowdfunding-events.png)
+![Crowdfunding Events](../../.gitbook/assets/crowdfunding-events.png)
 
 ## Travel Funds <a id="Dashboard-TravelScholarships"></a>
 
@@ -60,7 +60,7 @@ To learn more, see [Events](events.md).
 
 To learn more, see [Travel Funds](travel-funds.md).
 
-![](../../.gitbook/assets/funding-travel-funds.png)
+![Crowdfunding Travelfunds](../../.gitbook/assets/crowdfunding-travel-funds.png)
 
 ## Security Audits \(OSTIF\)
 
@@ -75,11 +75,27 @@ To learn more, see [Travel Funds](travel-funds.md).
 
 To learn more, see [Security Audit](security-audit.md).
 
-![ ](../../.gitbook/assets/security-audit-projects.png)
+![Crowdfunding Projects applied for Security Audit](../../.gitbook/assets/crowdfunding-security-audits.png)
 
 ## Initiatives
 
 Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
 
-![](../../.gitbook/assets/initiatives.png)
+![Crowdfunding Initiatives](../../.gitbook/assets/crowdfunding-initiatives.png)
+
+## My Transactions
+
+My Transactions shows your monthly donations and lists all your transactions. For details, see [My Transactions](../manage-your-crowdfunding-account.md#my-transactions).
+
+## My Projects
+
+My Projects lets you see all the projects, security audits, initiatives, events, and funds that you maintain all in one place. You can see the status of a project, for example "Pending approval".
+
+Click a project to see the fund details.Click **Edit** on a card to edit the fund details.
+
+## My Account
+
+**My Account** lets you manage your organization, and payment method. For details, see [My Account](../manage-your-crowdfunding-account.md#my-account).
+
+\*\*\*\*
 

@@ -19,6 +19,5 @@ Keep these items ready before you begin:
 6. Click **Submit Application.**
 7. \(Optional\) Click **My Projects** tab to view your pending project.
 
-  
-**Note:** You can edit your project at any time. Select the project you want to update and click **Edit Project**.
+**Note:** You can edit your project at any time. Select the project you ****that you want to update, and click **Edit Project**.
 

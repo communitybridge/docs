@@ -11,14 +11,11 @@ Have these items handy before you begin:
 
  1. [Sign in](../../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org/).
 
-2. Click **Donate** on a project of interest.  
- ![](../../../.gitbook/assets/donate-to-a-project.png) 
+2. Click **Donate** on a project of interest. 
 
-3. Select an **organization.** [You can add, edit, or delete an organization.](add-edit-or-delete-an-organization.md)  
+3. Select an **organization.** [You can add, edit, or delete an organization.](add-edit-or-delete-an-organization.md)
 
-
-4. Select a **preset amount** or click in the **I want to give** field and enter a dollar amount.  
-
+4. Select a **preset amount** or click in the **I want to give** field and enter a dollar amount.
 
 5. Select a donation frequency option: One-time or Monthly.
 
