@@ -42,6 +42,6 @@ Have these items handy before you begin:
 9. Click **Submit Donation** or **Submit Subscription,** depending on your donation selection. 
 
 {% hint style="info" %}
-At any time, you can go to your user account ![](../../../.gitbook/assets/7418575.png) and select **My Transactions** to edit your monthly donation amount by selecting **Edit monthly donation** on the project of interest.
+At any time, you can select **My Transactions** tab to edit your monthly donation amount by selecting **Edit monthly donation** for the project of interest.
 {% endhint %}
 

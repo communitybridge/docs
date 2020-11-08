@@ -10,11 +10,11 @@ You can donate/sponsor to the open source projects or events that you want to su
 
 The following eligibility rules apply to donors:
 
-* Must be able to make a donation in accordance with applicable laws and regulations.
-* Must not reside in a country or jurisdiction, or be subject to sanctions programs, where the donation would be prohibited under applicable U.S. federal, state or local laws or the laws of other countries.
-* Donations on behalf of an organization \(such as an employer\) must be authorized by that organization.
+* Must be able to make a donation in accordance with applicable laws and regulations
+* Must not reside in a country or jurisdiction, or be subject to sanctions programs, where the donation would be prohibited under applicable U.S. federal, state or local laws or the laws of other countries
+* Donations on behalf of an organization \(such as an employer\) must be authorized by that organization
 
-Consider the following information before you donate:
+Consider the following funding information before you donate:
 
 * Your donation is made to The Linux Foundation and is deposited in an account managed by The Linux Foundation. Unless otherwise explicitly specified by The Linux Foundation, your donation will not be tax-deductible under United States federal taxation laws.
 * To ensure transparency, a record of each donation may be retained indefinitely and made public in the ledger on the project’s page.
