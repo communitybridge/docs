@@ -11,6 +11,7 @@ Integrated services for a project lets you see additional information about a pr
 3. Funding integrates with the following independent Linux Foundation services:
    * [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks)
    * [Security](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection)
+   * [Mentorship Program](integrated-services-for-a-project.md#IntegratedServicesforaProject-MentorshipProgram)
 
 {% hint style="info" %}
 **Note:** Integrated service is displayed on a project dashboard if the project is enrolled for the service.
@@ -29,4 +30,10 @@ Integrated services for a project lets you see additional information about a pr
 | ![](../../.gitbook/assets/7416591.png) | ![](../../.gitbook/assets/7416589%20%281%29.png) |
 | :--- | :--- |
 
+
+## Mentorship Program <a id="IntegratedServicesforaProject-MentorshipProgram"></a>
+
+‌It is displayed if the project is enrolled to LFX mentorship program. The **Mentorship** **Program** provides a mentorship matchmaking service that helps grow interested mentees into participating contributors in open source communities. This program connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
+
+![](https://gblobscdn.gitbook.com/assets%2Flinux-foundation-documentation%2F-M2D_dS1B24qzcG9ihj9%2F-M2Dc-_8wyqKKQaOHEMW%2F7416592.png?alt=media)
 
