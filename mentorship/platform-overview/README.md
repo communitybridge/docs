@@ -19,9 +19,7 @@ The Mentorship platform facilitates a structured remote learning environment to 
 
 ## Mentorships Tab <a id="DashboardOverview-Projects"></a>
 
-![Mentorship Cards - Project Overview](../../.gitbook/assets/mentorships.png)
-
-![Mentorship Card - Project Statistics](../../.gitbook/assets/mentorships2.png)
+![](../../.gitbook/assets/mentorships%20%281%29.png)
 
 Each Mentorship Program card contains the following information:
 
@@ -38,7 +36,7 @@ Each Mentorship Program card contains the following information:
 
 ## Mentees Tab <a id="DashboardOverview-Mentors"></a>
 
-![Mentees](../../.gitbook/assets/mentees-cards.png)
+![](../../.gitbook/assets/mentees.png)
 
 **Mentees** tab shows mentee profile cards with the following information: 
 
@@ -51,9 +49,9 @@ Each Mentorship Program card contains the following information:
 
 ## Mentors Tab <a id="DashboardOverview-Mentors"></a>
 
-![Mentors](../../.gitbook/assets/mentors-cards.png)
+![](../../.gitbook/assets/mentors.png)
 
-**Mentors** tab shows the mentor profile cards with the following information :
+**Mentors** tab shows mentor profile cards with the following information :
 
 * **Mentor name and avatar** - Click on the name to navigate to mentor profile page
 * **Skills** - mentor technical skills 
