@@ -62,5 +62,3 @@ Program admins can select which prerequisite requirements mentees need to comple
 
 The terms and conditions checkbox is mandatory and need to be selected before the form can be submitted.
 
-![](../../../.gitbook/assets/mentorship-project-terms-and-conditions.png)
-

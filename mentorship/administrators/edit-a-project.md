@@ -4,5 +4,5 @@
 
 2. In section **Projects for which I am an Administrator**, click on **Edit** CTA on the program card.
 
-![](../../.gitbook/assets/edit-project.png)
+![](../../.gitbook/assets/edit-program.png)
 

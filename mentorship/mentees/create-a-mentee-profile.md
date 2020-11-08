@@ -1,8 +1,8 @@
-# Create a Mentee Profile
+# Create Mentee Profile
 
-1. To create a mentee profile, [Sign in](../../sso/sign-in/) to the [Mentorship](https://people.communitybridge.org/) and select **Become a Mentee** navigation menu item.
+1. To create a mentee profile, [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org/) and select **Become a Mentee** navigation menu item.
 
-![](../../.gitbook/assets/become-a-mentee.png)
+![](../../.gitbook/assets/become-a-mentee%20%281%29.png)
 
 {% hint style="info" %}
 Keep these items ready before you begin:
@@ -33,9 +33,7 @@ Keep these items ready before you begin:
 Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 {% endhint %}
 
-4. Select the **Terms and Conditions** check box, and click **Submit**. 
-
-5. To edit your profile see [Manage Your Account](manage-your-mentorship-account.md) section. 
+4. Select the **Terms and Conditions** checkbox, and click **Submit**. 
 
 ## User Information <a id="CreateaMenteeProfile-MenteeProfile"></a>
 
@@ -69,7 +67,5 @@ Providing your demographics is optional. This information is collected for the p
 
 ## Terms and Conditions <a id="CreateaMenteeProfile-TermsandConditions"></a>
 
-You must select the check box to submit the application.
-
-![](../../.gitbook/assets/7418794.jpg)
+You must select the checkbox to submit the application.
 

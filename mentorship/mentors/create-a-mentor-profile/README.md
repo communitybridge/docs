@@ -1,6 +1,6 @@
 # Become a Mentor
 
-1. To become a mentor for a mentorship program [Sign in](../../../sso/sign-in/) to [Mentorship](https://people.communitybridge.org/) and click on **Become a Mentor** navigation menu item to [Create a mentor profile](./), and request to be [added ](request-to-be-added-to-a-program.md#to-apply-to-a-project)to a program.
+1. To become a mentor for a mentorship program [Sign in](../../../sso/sign-in/) to [Mentorship](https://mentorship.lfx.linuxfoundation.org) and click on **Become a Mentor** navigation menu item to [create mentor profile](./), and request to be [added ](request-to-be-added-to-a-program.md#to-apply-to-a-project)to a program.
 
 Keep these items ready before you begin:
 
@@ -10,7 +10,7 @@ Keep these items ready before you begin:
 * An image file for your avatar in JPG, PNG, SVG format with a maximum size of 2 MB
 * \(Required\) Information about that project for which you like to mentor individuals: project name, project repository URL, and project administrator name and email
 
-![](../../../.gitbook/assets/become-a-mentor.png)
+![](../../../.gitbook/assets/become-a-mentor%20%281%29.png)
 
 2. Complete the form fields.  
 **Note:** Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form. Click any of the following links for information about fields.
@@ -26,7 +26,7 @@ Keep these items ready before you begin:
   
 **Note:** The Project Admin of the mentorship program you requested to be added to as a mentor will review your profile before you're added to the program. 
 
-**See:**  [Manage Account](../../administrators/manage-your-account.md)
+**See:**  [Manage Account](../../mentees/manage-your-mentorship-profile.md)
 
 ### User Information <a id="CreateaMentorProfile-MentorProfile"></a>
 
@@ -65,6 +65,4 @@ After the project maintainer adds you to the project, you will get an email noti
 ### Terms and Conditions <a id="CreateaMentorProfile-TermsandConditions"></a>
 
 Read the Terms and Conditions, and select the checkbox.
-
-![](../../../.gitbook/assets/mentor-terms-and-conditions.png)
 

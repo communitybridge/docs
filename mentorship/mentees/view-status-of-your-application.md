@@ -1,8 +1,10 @@
 # View Status of your Application
 
-1. To view the status of your application [Sign in](../../sso/sign-in/) to the [Mentorship](https://people.dev.platform.linuxfoundation.org/) and navigate to **My Account -&gt;** **My Projects.** Your application status is listed on the mentorship program card\(s\). 
+1. To view the status of your application [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org/) and select **My Projects** tab. 
 
-![application status for mentee](../../.gitbook/assets/application-status.png)
+2. The status of your application is listed on the mentorship program card.
+
+![](../../.gitbook/assets/mentorship-profile.png)
 
 Below is a description of each application status:
 

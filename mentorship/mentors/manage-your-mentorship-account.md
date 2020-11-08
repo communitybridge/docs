@@ -1,4 +1,4 @@
 # Manage Your Account
 
-{% page-ref page="../administrators/manage-your-account.md" %}
+{% page-ref page="../mentees/manage-your-mentorship-profile.md" %}
 
