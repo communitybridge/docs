@@ -10,11 +10,5 @@ Users can toggle between Mentorship and Funding to gain an insight into the ment
 **To toggle between Funding and Mentorship:**
 
 1. Select a project you would like to view. 
-2. From Mentorship, click on **Funding** in the navigation menu and vice versa.
-
-![Toggle to Funding](../../.gitbook/assets/toggle-to-funding.png)
-
-![Toggle to Mentorship](../../.gitbook/assets/toggle-to-mentorship.png)
-
-The project details or project list appears in the service you selected.
+2. From mentorship program details page, click on View Crowdfunding CTA and vice versa, from Crowdfunding project details page, click on View Mentorship CTA.
 

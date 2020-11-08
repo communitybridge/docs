@@ -2,7 +2,7 @@
 
 To view program details, navigate to the [Mentorship](https://people.communitybridge.org/profile) platform and under the Mentorships tab select a program you would like to view. 
 
-![](../../.gitbook/assets/mentorship-project-details%20%282%29.png)
+![](../../.gitbook/assets/program-details.png)
 
 On the program detail page you can view the following information, depending on the available data:
 
