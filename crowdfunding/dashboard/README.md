@@ -2,10 +2,11 @@
 
 Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
 
-1. [Sign in ](../../sso/sign-in/)to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
+1. Open [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. From [Projects ](./#Dashboard-ProjectsandMentorships)tab, click a project to navigate to the project dashboard.
-3. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives), [My Transactions](./#my-transactions), [My Projects](./#my-projects), and [My Account](./#my-account) to learn more about each. 
-4. To participate:
+3. Navigate to other tabs, such as [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives), and to learn more about each.
+4. Sign in to view [My Transactions](./#my-transactions), [My Projects](./#my-projects), and [My Account](./#my-account) tabs, and to learn more about each. 
+5. To participate:
    * [Apply to raise fund for a project](../apply-for-crowdfunding/)
      * [Add a GitHub project](../apply-for-crowdfunding/add-a-github-project.md)
      * [Add a Git project](../apply-for-crowdfunding/add-a-git-project.md)
