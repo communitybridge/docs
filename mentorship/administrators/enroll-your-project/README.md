@@ -1,10 +1,12 @@
 # Enroll Your Program
 
-Enrolled mentorship programs are reviewed by The Linux Foundation before they're published and visible on the Mentorship platform. Projects are reviewed based on the following factors: 
+Enrolled mentorship programs are reviewed by The Linux Foundation before they're published and visible on the Mentorship platform. 
+
+Submitted mentorship programs are reviewed based on the following factors: 
 
 * Open source status - projects must be 100% open source 
 * Community-wide adoption
-* Alignment with The Linux Foundation’s support of open source initiative 
+* Alignment with The Linux Foundation’s support of open source initiativez 
 
 {% hint style="info" %}
 Keep these items ready before you begin:
