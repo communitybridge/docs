@@ -51,7 +51,7 @@ At any time, you can change the settings to manage your project CLA monitoring, 
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **Individual Contributor \(GitHub\):** [Sign a CLA as an Individual Contributor and contribute to GitHub project.](../contributors/sign-a-cla-as-an-individual-contributor-to-github.md)
+* **Individual Contributor \(GitHub\):** [Sign a CLA as an Individual Contributor and contribute to GitHub project.]()
 * **Individual Contributor \(Gerrit\):** [Contribute  to Gerrit project](../contributors/contribute-to-a-gerrit-project.md#individual-contributor)
 * **Corporate** **Contributor \(GitHub\):** [Contribute to GitHub project](../contributors/contribute-to-a-github-company-project.md)
 * **Corporate** **Contributor \(Gerrit\):** [Contribute to Gerrit Project](../contributors/contribute-to-a-gerrit-project.md#corporate-contributor)

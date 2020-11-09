@@ -40,7 +40,7 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 
 ## If Confirmation of Association statement appears
 
-This message appears if you are added to the approved list, and your CLA doesn't require you to sign ICLA. If the CLA is configured for you to sign ICLA, you will be redirected to sign an Individual CLA, as shown in [step 5 of sign ICLA](sign-a-cla-as-an-individual-contributor-to-github.md).
+This message appears if you are added to the approved list, and your CLA doesn't require you to sign ICLA. If the CLA is configured for you to sign ICLA, you will be redirected to sign an Individual CLA, as shown in [step 5 of sign ICLA]().
 
 1. Read the Confirmation of Association statement and select the checkbox.
 
