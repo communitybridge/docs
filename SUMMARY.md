@@ -28,7 +28,7 @@
   * [Insights FAQs](insights/insights-faqs.md)
   * [Dashboard Overview](insights/dashboard-overview.md)
   * [View Project Dashboard](insights/view-project-dashboard/README.md)
-    * [Summary](insights/view-project-dashboard/summary.md)
+    * [Summary or Project Group Summary](insights/view-project-dashboard/summary-or-project-group-summary.md)
     * [Source Control](insights/view-project-dashboard/source-control/README.md)
       * [Commits](insights/view-project-dashboard/source-control/git.md)
     * [Pull Request Management](insights/view-project-dashboard/pull-request-management/README.md)
