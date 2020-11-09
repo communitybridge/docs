@@ -19,8 +19,6 @@ CommunityBridge Insights shows project and foundation cards, in alphabetical ord
 
 A project is a standalone project maintained by Linux Foundation. Following is an example of a standalone project that shows an overview of project related data on the project card.
 
-![Project Overview](../../.gitbook/assets/project-overview.png)
-
 Each project card shows the following information:
 
 * Project name identifies the project by name.
