@@ -5,7 +5,7 @@ Insights gives you complete visibility into project performance and ecosystem tr
 ## Get Started <a id="DevAnalyticsGettingStarted-GetStarted"></a>
 
 * [Project or Project Group Overview](dashboard-overview.md)
-* [Viewing Dashboards](project-dashboards/)
+* [Viewing Dashboards](view-project-dashboard/)
 * [Filtering Data](filtering-data/)
 * [Analyzing the Data](analyzing-the-data/)
 * [Identity and Affiliation Management](identity-and-affiliation-management/)
