@@ -77,13 +77,17 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 
 ![Agreement Link](../../../.gitbook/assets/agreement-link.png)
 
-8. Click **Proceed To Corporate Authorization**.
+8. Click **Corporate CLA** , and then click **Please review the agreement** link.
+
+![](../../../.gitbook/assets/ccla-flow.png)
+
+9. Click **Proceed To Corporate Authorization**.
 
 ![](../../../.gitbook/assets/proceed-to-corporate-authorization.png)
 
-9. You are redirected to Corporate Contributor Console. Sign in if prompted.
+10. You are redirected to Corporate Contributor Console. Sign in if prompted.
 
-10. Continue:
+11. Continue:
 
 * [If you are not added to the approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
 * [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list)
