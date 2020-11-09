@@ -1,12 +1,10 @@
 # Contribute to a GitHub Company Project
 
-As a corporate \(employee\) contributor to an open-source project, you create a pull request in GitHub to inform code maintainers about changes made to the code. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement in order for your contribution to be accepted into the company. During the pull request process, your CLA status is verified.
+If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement in order for your contribution to be accepted into the company. During the pull request process, your CLA status is verified.
 
-When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association to the company during your first pull request. Then you can continue with your pull request. Your subsequent contributions will not require association confirmations.
+When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association to the company during your first pull request. Your subsequent contributions will not require association confirmations.
 
-**Do these steps:**
-
-_If you are a project manager, make sure that you are logged out of the CLA Management Console before you begin._
+**To Contribute to GitHub Project:**
 
 1. In GitHub, go to the repository that is linked to the project for your organization.
 
@@ -42,7 +40,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 ## If Confirmation of Association statement appears
 
-This message appears if you are added to the approved list, and your CLA doesn't require you to sign ICLA. If the CLA is configured for you to sign ICLA, you will be re-directed to sign an Individual CLA, as shown in [step 5 of sign ICLA](sign-a-cla-as-an-individual-contributor-to-github.md).
+This message appears if you are added to the approved list, and your CLA doesn't require you to sign ICLA. If the CLA is configured for you to sign ICLA, you will be redirected to sign an Individual CLA, as shown in [step 5 of sign ICLA](sign-a-cla-as-an-individual-contributor-to-github.md).
 
 1. Read the Confirmation of Association statement and select the checkbox.
 

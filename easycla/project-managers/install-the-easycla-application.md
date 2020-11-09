@@ -4,7 +4,7 @@ As a project manager, you use the CLA Management Console to install the EasyCLA 
 
 **To Install the EasyCLA Application:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console.
 
 2. Click a project of interest.
 

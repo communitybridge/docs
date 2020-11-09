@@ -1,6 +1,6 @@
 # Contributors
 
-EasyCLA handles the process of ensuring that CLA signatures are in place before you can contribute to a repository. EasyCLA lets you sign CLAs from within a pull request. You cannot merge changes into a project until the CLA checks pass. After you sign a CLA or sign a confirmation of association with your company, the status of your pull request is updated and you can continue.
+As a contributor, you must sign a CLA before you can contribute to a repository. EasyCLA lets you sign CLAs from within a pull request. You cannot merge changes into a project until the CLA checks pass. After you sign a CLA or sign a confirmation of association with your company, the status of your pull request is updated and you can continue.
 
 As a contributor, you can easily comply to your legal obligations for a company or contribute individually by doing one or both of the following tasks:
 

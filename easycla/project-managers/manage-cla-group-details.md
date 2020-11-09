@@ -2,13 +2,10 @@
 
 As a project manager, you use the CLA Management Console to manage your CLA group details, and view user signatures and companies.
 
-**Do these steps:**
+**To manage CLA groups:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console
 2. Click a **project** of interest.
-
-   The project page appears.
-
 3. Do any of the following actions:
    * [Change Your Current CLA Type Selections](manage-cla-group-details.md#change-your-current-cla-type-selections)
    * [View CLA User Signatures](manage-cla-group-details.md#view-cla-user-signatures)
@@ -18,7 +15,7 @@ As a project manager, you use the CLA Management Console to manage your CLA grou
 
 You can change your CLA type selections if needed.
 
-**Do these steps:**
+**To change CLA type:**
 
 1. Click the **gear icon** ![CLA Gear Settings icon](../../.gitbook/assets/cla-gear-settings-icon.png) next to the CLA group name.
 
@@ -32,7 +29,7 @@ The CLA Group dialog appears and shows your current CLA type selections.
 
 You can view the full set of signatures and list of approved contributors who are interacting with a project. A signature list shows details about who signed a CLA for your project.
 
-**Do these steps:**
+**To view CLA signatures:**
 
 1. Click **VIEW SIGNATURES**.
 
@@ -56,7 +53,7 @@ Details for all user signatures appear:
 
 The Corporate CLA list lets you see what companies in your project have a signed Corporate CLA.
 
-**Do these steps:**
+**To view CLA companies:**
 
 1. Click **VIEW COMPANIES** on a Corporate CLA.
 

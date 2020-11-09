@@ -11,12 +11,11 @@ In these cases, you simply add the updated CLA using the same procedure as for a
 
 _Verify that the pop-up blocker is disabled on your browser before you begin this procedure._
 
-**Do these steps:**
+**To Add CLA:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console.
 
-2. Click a **project** of interest.  
-The project page appears.
+2. Click a **project** of interest.
 
 3. Go to the CLA group to which you want to add a CLA and click **SELECT TEMPLATE**.  
 The Select a template page appears and lists available templates.

@@ -8,12 +8,11 @@ As a project manager, you use the CLA Management Console to:
 
 If you already added a Gerrit instance during the CLA onboarding process, skip this procedure unless you want to add more Gerrit instances.
 
-**Do these steps:**
+**To add or remove Gerrit Instances:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md).
+1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console.
 
-2. Click a **project** of interest  
-The project page appears.
+2. Click a **project** of interest
 
 3. Click **ADD GERRIT INSTANCE**  
 The Add Gerritt Instance form appears.
