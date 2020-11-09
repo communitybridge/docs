@@ -120,8 +120,6 @@
   * [Contributors](easycla/contributors/README.md)
     * [Individual Contributor](easycla/contributors/individual-contributor.md)
     * [Corporate Contributor](easycla/contributors/corporate-contributor.md)
-    * [Contribute to a GitHub Company Project](easycla/contributors/contribute-to-a-github-company-project.md)
-    * [Contribute to a Gerrit Project](easycla/contributors/contribute-to-a-gerrit-project.md)
   * [CLA Managers and CLA Signatories](easycla/ccla-managers-and-ccla-signatories/README.md)
     * [Sign In to the CLA Corporate Console](easycla/ccla-managers-and-ccla-signatories/sign-in-to-the-cla-corporate-console.md)
     * [Add a Company to a Project](easycla/ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md)
