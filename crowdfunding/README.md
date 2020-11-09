@@ -2,7 +2,7 @@
 
 Crowdfunding makes it easy for individuals and organizations to donate, providing a neutral and trusted platform managed by the Linux Foundation. Projects receive 100% of donations and manage their own funds.
 
-### [Discover Funds](platform-overview/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
+### [Discover Funds](dashboard-overview/) <a id="CommunityBridgeFunding-DiscoverFunds"></a>
 
 Browse through projects to learn about their fundraising goals, donations, expenses, and security vulnerabilities. 
 

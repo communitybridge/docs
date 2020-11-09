@@ -1,4 +1,4 @@
-# Viewing Dashboards
+# Project Dashboards
 
 When you navigate to a project's dashboard, by default the [Summary](summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into two groups: **Technical Trends** and **Ecosystem Trends**. 
 
