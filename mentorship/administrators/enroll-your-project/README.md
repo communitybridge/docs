@@ -6,7 +6,7 @@ Submitted mentorship programs are reviewed based on the following factors:
 
 * Open source status - projects must be 100% open source 
 * Community-wide adoption
-* Alignment with The Linux Foundation’s support of open source initiativez 
+* Alignment with The Linux Foundation’s support of open source initiatives
 
 {% hint style="info" %}
 Keep these items ready before you begin:
