@@ -20,7 +20,7 @@ This is a remote opportunity and there is no need to relocate or move to partici
 
 ### **Get paid while learning**
 
-Mentees are eligible to receive a [stipend](../mentee-stipends/total-stipend-amount.md). The stipends are paid in several installments, provided that regular interval evaluations show you're making satisfactory progress. The final installment will be paid upon successful mentorship completion. Not just that. You will also be sponsored for your travel to attend project related meetups.
+Mentees are eligible to receive a [stipend](../mentee-stipends/total-stipend-amount.md), which is paid in two installments, provided that regular interval evaluations show you're making satisfactory progress. The final installment will be paid upon successful mentorship completion. 
 
 ### **Get Hired**
 

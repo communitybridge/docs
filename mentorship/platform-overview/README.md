@@ -4,18 +4,19 @@ The Mentorship platform facilitates a structured remote learning environment to 
 
 **To Get started:**
 
-1. Navigate to the [Mentorship](https://people.communitybridge.org/) platform dashboard:
+1. Navigate to the [Mentorship](https://mentorship.lfx.linuxfoundation.org/) platform dashboard:
    * [Mentorships](./#DashboardOverview-Projects) tab includes the mentorships programs enrolled on the platform, categorized by programs accepting mentee applications, in progress and completed.
    * [Mentors](./#DashboardOverview-Mentors) tab includes profiles all the participating mentors.
    * [Mentees](../mentees/) tab includes profiles of currently participating and graduated mentees.
 2. To view more information about the program click on the program name to:
    * [View mentorship program details](view-projects-details.md)
-   * [View participating](view-a-mentor-or-mentee-profile.md)[ mentors and mentees and navigate to their profiles ](view-a-mentor-or-mentee-profile.md)
-   * [Toggle between Mentorship and Funding]()
-3. To participate:
-   * Administrators – [enroll your mentorship program ](https://app.gitbook.com/@lfdocs/s/docs/communitybridge/mentorship/administrators/enroll-your-project)
-   * Mentees – [create a profile](../mentees/create-a-mentee-profile.md) and [apply to a program](../mentees/apply-to-a-project.md)
-   * Mentors – [create a profile](../mentors/create-a-mentor-profile/) and [request to be added to a program](../mentors/create-a-mentor-profile/request-to-be-added-to-a-program.md#apply-to-a-project)
+   * [View participating mentors and mentees](view-a-mentor-or-mentee-profile.md)
+
+To participate:
+
+* Administrators – [enroll your mentorship program ](../administrators/enroll-your-program/)
+* Mentees – [create a profile](../mentees/create-a-mentee-profile.md) and [apply to a program](../mentees/apply-to-a-project.md)
+* Mentors – [create a profile](../mentors/create-a-mentor-profile/) and [request to be added to a program](../mentors/create-a-mentor-profile/request-to-be-added-to-a-program.md#apply-to-a-project)
 
 ## Mentorships Tab <a id="DashboardOverview-Projects"></a>
 

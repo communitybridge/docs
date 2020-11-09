@@ -10,7 +10,7 @@ Browse through projects to learn about their fundraising goals, donations, expen
 
 **Project Maintainers** can submit an application for financial support from individuals and companies to grow their open source communities. The donations help projects pay developers for their contributions, sponsor project related meetups, or other project expenses, such as documentation or marketing. 
 
-[Project administrators can also apply to have their projects offer a mentorship program](../mentorship/administrators/enroll-your-project/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel funds for events and project summits.
+[Project administrators can also apply to have their projects offer a mentorship program](../mentorship/administrators/enroll-your-program/) to help aspiring developers learn while they contribute to their open source project. Projects can utilize raised funds to pay mentee stipends and provide travel funds for events and project summits.
 
 ### [Donate/Sponsor](donate-sponsor/) <a id="CommunityBridgeFunding-Donate/Sponsor7417266.html"></a>
 

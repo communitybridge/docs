@@ -26,7 +26,7 @@ The following table lists all the fields in the **Project Branding** panel of th
 ### Project Beneficiaries
 
 {% hint style="warning" %}
-**Important:** If you enroll your project for mentorship program, the accepted mentees are automatically added as project beneficiaries in the funding application. For details, see [enroll your project](../mentorship/administrators/enroll-your-project/).
+**Important:** If you enroll your project for mentorship program, the accepted mentees are automatically added as project beneficiaries in the funding application. For details, see [enroll your project](../mentorship/administrators/enroll-your-program/).
 {% endhint %}
 
 Beneficiaries are individuals who work on a project and then request reimbursement for their time and expenses. They receive invitation from Expensify \(an expense management application\) to submit  [reimbursement](get-reimbursed.md) for their expenses.

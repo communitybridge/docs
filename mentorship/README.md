@@ -6,7 +6,7 @@ Mentorship makes it easier than ever to pair promising open source talent with e
 
 You can participate in the Linux Foundation Mentorship program as a program administrator, a mentor or a mentee. 
 
-[**Program Administrator**](administrators/): As a program administrator you will [enroll a mentorship program](administrators/enroll-your-project/) on the platform and act as a single point of contact for mentors, mentees and the Linux Foundation HR and finance team. Specifically, you will collaborate with mentors during the application review process and work closely with The Linux Foundation HR and finance team to oversee the mentee acceptance process and stipend payments.
+[**Program Administrator**](administrators/): As a program administrator you will [enroll a mentorship program](administrators/enroll-your-program/) on the platform and act as a single point of contact for mentors, mentees and the Linux Foundation HR and finance team. Specifically, you will collaborate with mentors during the application review process and work closely with The Linux Foundation HR and finance team to oversee the mentee acceptance process and stipend payments.
 
 [**Mentor**](mentors/): Mentors volunteer their time to work with mentees during the mentorship program. You will need to [create a mentor profile](mentors/create-a-mentor-profile/) on the Mentorship platform before you can request to be a mentor for The Linux Foundation Mentorship program. 
 

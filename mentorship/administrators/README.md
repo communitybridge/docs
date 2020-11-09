@@ -6,7 +6,7 @@ Project administrators enroll projects on the Mentorship platform, coordinate th
 
 Get started by enrolling your project. 
 
-* [Enroll Your Project](enroll-your-project/)
+* [Enroll Your Project](enroll-your-program/)
 * [Edit a Project](edit-a-project.md)
 * [Manage Your Project Mentees](manage-mentees-applications.md)
 * [Open or Close Mentorship Applications](open-close-mentorship-applications.md)
