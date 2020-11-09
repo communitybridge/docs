@@ -7,7 +7,7 @@ You can contribute on behalf of a company or contribute individually by doing on
 * ​[Confirm your association with a company that has a signed Corporate Contributor License Agreement](corporate-contributor.md). You write code for your employer and contribute this code to a project on your employer's behalf.
 * ​[Sign an Individual Contributor License Agreement](individual-contributor.md). You are contributing code on your own behalf \(code that you write on your own time, and not for an employer or using your employer’s facilities or equipment\).
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **Important:** You should not submit a contribution under an Individual CLA if that contribution is done using time and/or material resources belonging to your company. Instead, you should contribute it under a Corporate CLA signed by your company.
 {% endhint %}
 
