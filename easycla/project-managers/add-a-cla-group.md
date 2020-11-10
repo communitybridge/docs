@@ -6,7 +6,7 @@ A CLA group defines:
 * What CLAs and their versions are used for the contributors
 * What GitHub repositories, Gerrit instances, or both enforce CLA monitoring
 
-As a project manager, you use the CLA Management Console to add and name a CLA group for your project. A CLA group gives you the flexibility to handle different CLA requirements for various GitHub repositories and Gerrit instances.
+A CLA group gives you the flexibility to handle different CLA requirements for various GitHub repositories and Gerrit instances.
 
 **To Add a CLA Group**:
 

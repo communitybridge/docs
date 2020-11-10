@@ -1,7 +1,5 @@
 # View Current and Previous CLA PDFs
 
-## View Current and Previous CLA PDFs
-
 The CLA Management Console lets you select and view the current CLA PDF and previous CLA PDFs for your project.
 
 **To view CLA PDFs:**

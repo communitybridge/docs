@@ -51,10 +51,10 @@ At any time, you can change the settings to manage your project CLA monitoring, 
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **Individual Contributor \(GitHub\):** [Sign a CLA as an Individual Contributor and contribute to GitHub project.]()
-* **Individual Contributor \(Gerrit\):** [Contribute  to Gerrit project]()
-* **Corporate** **Contributor \(GitHub\):** [Contribute to GitHub project]()
-* **Corporate** **Contributor \(Gerrit\):** [Contribute to Gerrit Project]()
+* **Individual Contributor \(GitHub\):** [Sign a CLA as an Individual Contributor and contribute to GitHub project](../contributors/individual-contributor.md#github).
+* **Individual Contributor \(Gerrit\):** [Contribute  to Gerrit project](../contributors/individual-contributor.md#gerrit)
+* **Corporate** **Contributor \(GitHub\):** [Contribute to GitHub project](../contributors/corporate-contributor.md#github)
+* **Corporate** **Contributor \(Gerrit\):** [Contribute to Gerrit Project](../contributors/corporate-contributor.md#gerrit)
 
 ### Corporate CLA Manager <a id="corporate-cla-manager"></a>
 
@@ -68,6 +68,5 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authori
 
 You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
 
-* ​[Sign a Corporate CLA on behalf of the company](../cla-manager/sign-a-corporate-cla-for-company.md)—as a signatory you must have legal authority to sign documents on behalf of the company.
 * [Review and sign a Corporate CLA by request](../cla-signatories/review-and-sign-a-corporate-cla-by-request.md).
 
