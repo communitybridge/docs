@@ -1,12 +1,12 @@
-# Vulnerability Detection FAQs
+# LFX Security FAQs
 
-## What is LFX Vulnerability Detection? <a id="VulnerabilityDetectionFAQs-WhatisCommunityBridgeVulnerabilityDetection?"></a>
+## What is LFX Security? <a id="VulnerabilityDetectionFAQs-WhatisCommunityBridgeVulnerabilityDetection?"></a>
 
-LFX Vulnerability Detection is a service that helps open source developers identify and remediate security vulnerabilities in order to create more secure code. Projects that are part of the Linux Foundation database receive free weekly scans via the LFX Vulnerability Detection service in order to detect vulnerabilities in code repositories. A public dashboard gives developers visibility into open security issues and paths to remediation.
+LFX Security \(earlier  called as Vulnerability Detection\) is a service that helps open source developers identify and remediate security vulnerabilities in order to create more secure code. Projects that are part of the Linux Foundation database receive free weekly scans via the LFX Security service in order to detect vulnerabilities in code repositories. A public dashboard gives developers visibility into open security issues and paths to remediation.
 
 ## Does LFX Security automatically scan my project’s code? <a id="VulnerabilityDetectionFAQs-DoesCommunityBridgeautomaticallyscanmyproject&#x2019;scode?"></a>
 
-Yes, if your project is set up on  Linux Foundation database, then LFX Vulnerability Detection automatically scans your code on a weekly basis, and adds any detected vulnerabilities to your project dashboards. Issues are classified as high, medium, or low risk based on information in databases including CVE and CWE. An inventory of your project’s detected dependencies and licenses is mapped along with the dependency details.
+Yes, if your project is set up on  Linux Foundation database, then LFX Security automatically scans your code on a weekly basis, and adds any detected vulnerabilities to your project dashboards. Issues are classified as high, medium, or low risk based on information in databases including CVE and CWE. An inventory of your project’s detected dependencies and licenses is mapped along with the dependency details.
 
 ## Who can see Vulnerability reports?
 
@@ -18,11 +18,11 @@ Dependency and vulnerability scanning is currently supported for JavaScript, Nod
 
 ## How are licenses identified? <a id="VulnerabilityDetectionFAQs-Howarelicensesidentified?"></a>
 
-LFX Vulnerability Detection uses Snyk to scan a project’s Git-based repository and identifies dependencies’ licenses against the SPDX license list. License identification varies by ecosystem, but generally it is produced via a combination of the stated license on the package, retrieving metadata from the registry, and license information in manifest files.
+LFX Security uses Snyk to scan a project’s Git-based repository and identifies dependencies’ licenses against the SPDX license list. License identification varies by ecosystem, but generally it is produced via a combination of the stated license on the package, retrieving metadata from the registry, and license information in manifest files.
 
-## What partners support the LFX Vulnerability Detection service? <a id="VulnerabilityDetectionFAQs-WhatpartnerssupporttheCommunityBridgeVulnerabilityDetectionservice?"></a>
+## What partners support the LFX Security service? <a id="VulnerabilityDetectionFAQs-WhatpartnerssupporttheCommunityBridgeVulnerabilityDetectionservice?"></a>
 
-For LFX Vulnerability Detection, we are partnering with a few solutions providers where it makes sense. For example, projects can choose to allocate funds raised through the LFX Funding service to administer bug bounty programs through a partnership with HackerOne. Snyk provides daily vulnerability scanning for all projects on LFX \(Funding and Mentorship\) to identify vulnerabilities and dependencies — and to help manage Internet Protocol \(IP\) risk with license verification.
+For LFX Security, we are partnering with a few solutions providers where it makes sense. For example, projects can choose to allocate funds raised through the LFX Funding service to administer bug bounty programs through a partnership with HackerOne. Snyk provides daily vulnerability scanning for all projects on LFX \(Funding and Mentorship\) to identify vulnerabilities and dependencies — and to help manage Internet Protocol \(IP\) risk with license verification.
 
 ## How does LFX help a project manage its intellectual property obligations? <a id="VulnerabilityDetectionFAQs-HowdoesCommunityBridgehelpaprojectmanageitsintellectualpropertyobligations?"></a>
 

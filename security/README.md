@@ -3,7 +3,7 @@
 The LFX Security tool provides automated vulnerability scanning and provides visibility into potential vulnerabilities to help projects address top security concerns.
 
 * LFX Security FAQs
-* [LFX Security Requirements](communitybridge-security-requirements/)
+* [LFX Security Requirements](lfx-security-requirements/)
 * Add a Project to LFX Security
 * Open LFX Security
 * [Get a Vulnerability Status Overview](get-a-vulnerability-status-overview.md)
