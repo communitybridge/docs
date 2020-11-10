@@ -9,7 +9,7 @@ Only project maintainers can access Vulnerability Detection details to gain visi
 As a project maintainer, you can access vulnerability scan details for projects based on the LFX service you opted while enrolling your project:
 
 * [Projects applied to LFX Funding](open-lfx-security.md#projects-applied-to-lfx-funding)
-* [Projects applied to LFX Vulnerability Detection](open-lfx-security.md#projects-applied-to-lfx-vulnerability-detection)
+* [Projects applied to LFX Security](open-lfx-security.md#projects-applied-to-lfx-security)
 
 **Note:** If you are not a project maintainer and/or not authorized to see vulnerability report for a project, you can [request access](open-lfx-security.md#requesting-access-to-view-vulnerability-report) to see vulnerability scan details.
 
