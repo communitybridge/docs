@@ -4,10 +4,13 @@ When you log in for the first time to any Linux Foundation managed service that 
 
 1. For tools, such as Events Registration, JIRA, Confluence, Training and Certification, and so on, clicking on the service URL will display the Sign In page.
 
-3. Navigate to any LFX tool page, for example [https://crowdfunding.lfx.linuxfoundation.org/](https://crowdfunding.lfx.linuxfoundation.org/), and click Create Community Profile from top right corner of the page.  
-On Sign In page, click on **Create an Account**. 
+3. Navigate to any LFX tool page, for example [https://crowdfunding.lfx.linuxfoundation.org/](https://crowdfunding.lfx.linuxfoundation.org/), and click Create Community Profile from top right corner of the page.
 
-![](../.gitbook/assets/new-sso.png)
+![Create Community Profile](../.gitbook/assets/create-community-profile.png)
+
+4. You can also create account from Sign In page. Click **Create an Account** on Sign in page.
+
+![Create an account](../.gitbook/assets/new-sso.png)
 
 4. On Create Your LF Account page, enter your first name, last name, email address, username, password, and click on **Create Account** CTA button.
 

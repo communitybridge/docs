@@ -20,7 +20,7 @@ In addition to increased security, it’s also a greater convenience. Since you 
 
 ## How do I view emails associated with my LF Account?
 
-You can view emails associated with your LF Account at your Individual Dashboard at [https://myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org).
+You can view emails associated with your LF Account at your Individual Dashboard at [https://myprofile.lfx.linuxfoundation.org/](https://myprofile.lfx.linuxfoundation.org/).
 
 On the Individual Dashboard you can also:
 
