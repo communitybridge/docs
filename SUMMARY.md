@@ -89,7 +89,7 @@
   * [LFX Security Requirements](security/communitybridge-security-requirements/README.md)
     * [Supported Languages](security/communitybridge-security-requirements/supported-languages.md)
   * [Date Range](security/data-range.md)
-  * [Add a Project to LFX Vulnerability Detection](security/add-a-project-to-communitybridge-vulnerability-detection/README.md)
+  * [Add a Project to LFX Security](security/add-a-project-to-communitybridge-vulnerability-detection/README.md)
     * [Add a GitHub/Git Project to Vulnerability Detection](security/add-a-project-to-communitybridge-vulnerability-detection/add-a-github-project-to-vulnerability-detection.md)
   * [Open LFX Vulnerability Detection](security/open-communitybridge-vulnerability-detection.md)
   * [Get a Vulnerability Status Overview](security/get-a-vulnerability-status-overview.md)
