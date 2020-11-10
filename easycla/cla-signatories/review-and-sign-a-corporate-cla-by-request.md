@@ -1,10 +1,8 @@
 # Review and Sign a Corporate CLA by Request
 
-## Review and Sign a Corporate CLA by Request
-
 As a CCLA signatory, you may receive email requests to review and sign a Corporate CLA.
 
-**Do these steps:**
+**To sign a CCLA:**
 
 1. Look in your email inbox for a CLA Sign Request email and open the email.
 2. Click **REVIEW DOCUMENT** in the email.

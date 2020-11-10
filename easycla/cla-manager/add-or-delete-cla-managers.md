@@ -6,14 +6,9 @@ CCLA managers have the following responsibilities:
 * Authorize domain names and email addresses.
 * Change the settings to manage your company CLAs.
 
-You can add CCLA managers to your project or remove them.
+**To Add or Delete CLA Managers:**
 
-**Do these steps:**
-
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md).
-
-   The CLA Corporate Console appears and shows Companies.
-
+1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console.
 2. Click a **company** of interest.
 
    The CLA Corporate Console shows Signed CLAs.

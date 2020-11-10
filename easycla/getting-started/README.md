@@ -69,5 +69,5 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authori
 You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
 
 * ​[Sign a Corporate CLA on behalf of the company](../cla-manager/sign-a-corporate-cla-for-company.md)—as a signatory you must have legal authority to sign documents on behalf of the company.
-* [Review and sign a Corporate CLA by request](../cla-signatory/review-and-sign-a-corporate-cla-by-request.md).
+* [Review and sign a Corporate CLA by request](../cla-signatories/review-and-sign-a-corporate-cla-by-request.md).
 

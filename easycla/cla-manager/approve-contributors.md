@@ -4,7 +4,7 @@
 You will receive an email after a contributor sends request to be added to the approved list.
 {% endhint %}
 
-You can approve contributors by adding their name to the Aprroved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
+You can approve contributors by adding their name to the Approved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
 
 * Domain Approved List allows entities to contribute under any email address under that domain name.
 * Email Approved List allows entities to contribute under an individual email address.
@@ -15,9 +15,9 @@ Each approved list applies to the project for which the company has signed a Cor
 
 _Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA for the same company._
 
-**Do these steps:**
+**To Approve Contributors:**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md).
+1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console.
 
 2. The CLA Corporate Console appears and shows Companies.
 
@@ -68,7 +68,7 @@ Each member of your organization must ensure that these items are Public in thei
 * Their membership with the organization. Each Private member should follow this [procedure](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership) to make their membership Public.
 * The associated email address for the organization member. Each Private member should make their associated email address Public \(members can have multiple emails in their Profile, so they must select the appropriate one\).
 
-**Do these steps:**
+**To Add or Remove an Organization from Approved List:**
 
 1. Click the edit icon \(**pencil\)** next to Github Org Approved List.  
     The Edit Github Organization Approved List dialog appears.
@@ -77,7 +77,9 @@ Each member of your organization must ensure that these items are Public in thei
 
 **Note:** Click **CONNECT GITHUB** if the organization you want to authorize is not listed in the dialog. The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
 
-2.Type a GitHub organization name in the field, select from drop-down, and click **SAVE APPROVED LIST** or click ![](../../.gitbook/assets/close-icon.png) next to the organization that you want to add/remove, respectively.
+2. To Add, type a GitHub organization name in the field, select from drop-down, and click **SAVE APPROVED LIST**. 
+
+3. To remove, click ![](../../.gitbook/assets/close-icon.png) next to the organization that you want to add/remove, respectively.
 
 Your organizations appear in their organization approved list.
 
