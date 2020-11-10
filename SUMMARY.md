@@ -85,7 +85,7 @@
   * [Glossary](insights/glossary.md)
   * [Get Help](insights/get-help.md)
 * [Security](security/README.md)
-  * [Vulnerability Detection FAQs](security/vulnerability-detection-faqs.md)
+  * [LFX Security FAQs](security/vulnerability-detection-faqs.md)
   * [LFX Security Requirements](security/communitybridge-security-requirements/README.md)
     * [Supported Languages](security/communitybridge-security-requirements/supported-languages.md)
   * [Date Range](security/data-range.md)
