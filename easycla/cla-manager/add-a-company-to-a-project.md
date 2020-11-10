@@ -18,5 +18,5 @@ As a CLA manager for a company, you use the CLA Corporate Console to add your co
 
    ​​ ![](../../.gitbook/assets/add-company-add-company.png)
 
-4. Sign out or continue to [Sign a CCLA on Behalf of a Company](sign-a-corporate-cla-on-behalf-of-the-company.md).
+4. Sign out or continue to [Sign a CCLA on Behalf of a Company](sign-a-corporate-cla-for-company.md).
 

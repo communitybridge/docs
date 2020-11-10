@@ -1,4 +1,4 @@
-# Sign a Corporate CLA on Behalf of a Company
+# Sign a Corporate CLA for Company
 
 As a CCLA signatory, you must be authorized by your company to sign a Corporate CLA on its behalf. If you are a CCLA manager but not a CCLA signatory, you can request that the CCLA signatory sign the Corporate CLA.
 
@@ -23,8 +23,8 @@ A CLA Signing Requirement dialog appears:
 
 6. Click **YES** or **NO** according to your permissions:
 
-* [YES](sign-a-corporate-cla-on-behalf-of-the-company.md#yes)
-* [NO](sign-a-corporate-cla-on-behalf-of-the-company.md#no)
+* [YES](sign-a-corporate-cla-for-company.md#yes)
+* [NO](sign-a-corporate-cla-for-company.md#no)
 
 ## YES <a id="yes"></a>
 
@@ -46,7 +46,7 @@ The Send E-Mail To CLA Signatory form opens. The Signatory Name and Signatory E-
 
 ![Send E-Mail To CCLA Signatory](../../.gitbook/assets/cla-send-e-mail-to-cla-signatory.png)
 
-​[The CCLA signatory receives a CLA Sign Request](review-and-sign-a-corporate-cla-by-request.md) email, reviews and signs the document.
+​[The CCLA signatory receives a CLA Sign Request](../cla-signatory/review-and-sign-a-corporate-cla-by-request.md) email, reviews and signs the document.
 
 After the Corporate CLA is signed, the Company page shows the signed Corporate CLA under Signed Project CCLAs. You receive a CLA Signed Document email with an attached document PDF. Contributors to the company project simply need to confirm their association to the company, and then they can continue with their pull requests. Their subsequent contributions will not require association confirmations.
 

@@ -121,7 +121,7 @@ If your company has not signed CLA, Verify Your Permission window appears. To pr
 
 1. Click an answer: Are You a CLA Manager?
 
-   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md).
+   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [sign a CLA](../cla-manager/sign-a-corporate-cla-for-company.md).
 
    **NO**— A **Request Access** form appears. Continue to next step.  
     ![](../../.gitbook/assets/request-access.png) 
@@ -140,7 +140,7 @@ If you don't find your company's name in the list:
 
 2. Click an answer: Are You a CLA Manager?
 
-   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md) to a project.
+   **YES**— You will be redirected to [corporate.lfcla.com](https://corporate.lfcla.com/#/companies) to [add your company](../cla-manager/add-a-company-to-a-project.md) to a project.
 
    **NO**— A **Request Access** form appears. Continue to next step.  
     ![](../../.gitbook/assets/request-access.png) 
