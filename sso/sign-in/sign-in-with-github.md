@@ -4,9 +4,9 @@ You can use your GitHub login credentials to sign in to the protected Linux Foun
 
 ## To Sign in with GitHub: <a id="to-log-in-with-github"></a>
 
-1.  On the **SSO login page**, click on the GitHub icon to sign in with your GitHub account. 
+1.  On the **SSO login page**, click on the GitHub icon to sign in with your GitHub account.
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.19.18-am.png)
+![Sign in with GitHub](../../.gitbook/assets/sign-in-with-github.png)
 
 2.  Enter your GitHub login credentials and click on **Sign in** CTA icon.             
 
@@ -24,7 +24,7 @@ You will be presented with the two-factor authentication page if your account ha
 
 ![](../../.gitbook/assets/create-lf-account-if-authenticating-via-other.png)
 
-6. Enter username, and click on **Create Account** CTA button. You will be re-directed to the Linux Foundation service page that you are trying to access.
+6. Enter username, and click on **Create Account** CTA button. You will be redirected to the Linux Foundation service page that you are trying to access.
 
 {% hint style="info" %}
 This username will be your new LF Account username, and will be synced with your email address.

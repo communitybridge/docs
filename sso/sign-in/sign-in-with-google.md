@@ -4,9 +4,9 @@ You can use your Google \(Gmail\) login credentials to sign in to the protected 
 
 ## To Sign in with Google  <a id="to-log-in-with-google"></a>
 
-1. On the **SSO login page**, click on the Google icon to sign in with your Google account. 
+1. On the **SSO Sign In page**, click on the Google icon to sign in with your Google account.
 
-![](../../.gitbook/assets/screen-shot-2020-05-05-at-2.19.18-am.png)
+![Sign in with Google](../../.gitbook/assets/sign-in-with-google.png)
 
 2. Enter your email address and click **Next.**                     
 
@@ -20,7 +20,7 @@ You can use your Google \(Gmail\) login credentials to sign in to the protected 
 
 ![](../../.gitbook/assets/create-lf-account-if-authenticating-via-other.png)
 
-5. Enter username, and click on **Create Account** CTA button. You will be re-directed to the Linux Foundation service page that you are trying to access.
+5. Enter username, and click on **Create Account** CTA button. You will be redirected to the Linux Foundation service page that you are trying to access.
 
 {% hint style="info" %}
 This username will be your new LF Account username, and will be synced with your email address.

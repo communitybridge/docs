@@ -2,11 +2,10 @@
 
 When you log in for the first time to any Linux Foundation managed service that is protected with Single Sign On \(SSO\),  you must create an account. To create an LF account follow these steps: 
 
-1. For services like Events Registration, JIRA, Confluence, Training and Certification, and so on, clicking on the service URL will display the Sign In page.
+1. For tools, such as Events Registration, JIRA, Confluence, Training and Certification, and so on, clicking on the service URL will display the Sign In page.
 
-2. For services like Mentorship and Crowdfunding you may see see the **Sign In** page when applying or donating to a project. 
-
-3. Click on **Create an Account** CTA link. 
+3. Navigate to any LFX tool page, for example [https://crowdfunding.lfx.linuxfoundation.org/](https://crowdfunding.lfx.linuxfoundation.org/), and click Create Community Profile from top right corner of the page.  
+On Sign In page, click on **Create an Account**. 
 
 ![](../.gitbook/assets/new-sso.png)
 

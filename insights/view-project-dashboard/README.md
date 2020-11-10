@@ -5,7 +5,7 @@
 
 ## Project Group
 
-Project group dashboard shows individual projects that come under the project group, and a metrics card that shows metrics, such as total number of contributors, contributions, commits, repositories, lines of code added and modified, total number of mentions, messages, and so on for all the projects that come under the project group. 
+Project group dashboard shows individual projects that come under the project group, and a metrics card that shows metrics for all the projects under the group, such as total number of contributors, contributions, commits, repositories, lines of code added and modified, total number of mentions, messages, and so on. 
 
 * Click a [project](./#project) to navigate to the project [summary](summary-or-project-group-summary.md) page. 
 * Type a project name in **Search project within** field to search for a project within the project group.
