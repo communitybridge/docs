@@ -10,7 +10,7 @@ The Affiliations sections shows data used to populate statistical dashboards for
 * Time duration for each contribution
 * Edit CTA to manage your affiliations 
 
-![](../.gitbook/assets/affiliations.png)
+![](../.gitbook/assets/affiliations%20%281%29.png)
 
 2. To edit dates for your affiliations, click ![](../.gitbook/assets/edit.png) **Edit** icon and select dates from the calendar widget. 
 
