@@ -1,6 +1,6 @@
 # Add Registered Emails
 
-To add your registered emails, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click the settings icon![](../.gitbook/assets/settings%20%281%29.png)on the **Registered Emails** section.
+To add your registered emails, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and click the settings icon![](../.gitbook/assets/settings%20%281%29.png)on the **Registered Emails** section.
 
 ![](../.gitbook/assets/registered-emails.png)
 

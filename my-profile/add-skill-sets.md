@@ -1,6 +1,6 @@
 # Add Skill Sets
 
-1. To add your skill sets, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click the settings icon![](../.gitbook/assets/settings%20%281%29.png)on the **Skill Sets** section.
+1. To add your skill sets, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and click the settings icon![](../.gitbook/assets/settings%20%281%29.png)on the **Skill Sets** section.
 
 ![](../.gitbook/assets/skill-sets.png)
 

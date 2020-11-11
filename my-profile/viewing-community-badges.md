@@ -1,6 +1,6 @@
 # ​View Community Badges
 
-To view the badges you were awarded, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and scroll down to the **Badges** section.
+To view the badges you were awarded, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and scroll down to the **Badges** section.
 
 ![](../.gitbook/assets/badges%20%281%29.png)
 

@@ -1,6 +1,6 @@
 # Edit My Information
 
-1. To edit your contact information, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click the **Edit My Information** CTA button.
+1. To edit your contact information, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and click the **Edit My Information** CTA button.
 
 ![](../.gitbook/assets/edit-my-information%20%283%29.png)
 

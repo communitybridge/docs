@@ -4,7 +4,7 @@ description: My Email Subscriptions
 
 # My Email Subscriptions
 
-1. To edit your email subscription, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and select **My Email Subscription** in the sidebar navigation.
+1. To edit your email subscription, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and select **My Email Subscription** in the sidebar navigation.
 
 ![](../.gitbook/assets/email-subscriptions.png)
 
