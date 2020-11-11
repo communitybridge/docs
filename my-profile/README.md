@@ -20,11 +20,11 @@ Select a topic below to view detailed information about that section.
 * [View Training and Certifications ](viewing-training-and-certifications.md)
 * [View Transactions](viewing-the-transactions.md)
 
-![MyProfile - Identities and Badges](../.gitbook/assets/my-profile-identities-and-badges%20%281%29.png)
+![My Profile - Identities and Affiliations](../.gitbook/assets/my-profile-identities-and-badges%20%283%29.png)
 
-![MyProfile - Events and Community Participation](../.gitbook/assets/myprofile-events-and-community-participation%20%281%29.png)
+![MyProfile - Events and Community Participation](../.gitbook/assets/myprofile-events-and-community-participation%20%283%29.png)
 
-![](../.gitbook/assets/my-profile-training-and-certifications-and-more.png)
+![MyProfile - Training &amp; Certifications and Transactions](../.gitbook/assets/my-profile-training-and-certifications-and-transactions.png)
 
 
 
