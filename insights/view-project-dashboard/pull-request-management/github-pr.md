@@ -1,7 +1,7 @@
 # GitHub PR
 
 {% hint style="info" %}
-By default, Bot commit is filtered. To add/manage filters, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+By default, Bot commit is filtered. To add/manage filters, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
  The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub PR:
@@ -11,7 +11,7 @@ By default, Bot commit is filtered. To add/manage filters, see [Add and Manage D
 * [Timing](github-pr.md#timing)
 * [Backlog](github-pr.md#backlog)
 
-By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../filtering-data/add-and-manage-data-filters.md).
+By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
 
 Click ![](../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
 

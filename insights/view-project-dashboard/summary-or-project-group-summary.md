@@ -34,7 +34,7 @@ Following dashboards are displayed under Technical Trends:
 
 ### **Source Control**
 
-[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
+[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filter-data/select-time-range.md) to view  data for the selected time range.
 
 * Clicking **Go To Overview** and **View All** takes you to the respective dashboard of [Commits &gt; Overview](source-control/git.md) page.
 

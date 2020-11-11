@@ -4,13 +4,13 @@ description: My Email Subscriptions
 
 # My Email Subscriptions
 
-1. To edit your email subscription, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on **My Email Subscription** CTA button.
+1. To edit your email subscription, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and select **My Email Subscription** in the sidebar navigation.
 
 ![](../.gitbook/assets/email-subscriptions.png)
 
 
 
-2. In **Choose My Email** dropdown select the email for which you want to manage the subscriptions.
+2. In **Choose email** dropdown select the email for which you want to manage the subscriptions.
 
 ![Choose Subscription Email ](../.gitbook/assets/image%20%289%29.png)
 

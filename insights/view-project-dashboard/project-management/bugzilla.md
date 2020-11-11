@@ -1,7 +1,7 @@
 # Bugzilla
 
 {% hint style="info" %}
-By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
 Click ![](../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.

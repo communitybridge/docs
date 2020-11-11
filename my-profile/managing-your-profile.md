@@ -1,6 +1,6 @@
 # Edit My Information
 
-1. To edit your contact information, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Edit My Information** CTA button.
+1. To edit your contact information, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click the **Edit My Information** CTA button.
 
 ![](../.gitbook/assets/edit-my-information%20%283%29.png)
 
@@ -20,7 +20,7 @@
 
 ![](../.gitbook/assets/edit-information-section.png)
 
-3. After you finish making the changes, click **Save CTA**  and Click on **Back to Profile** to return to the dashboard.
+3. After you finish making the changes, click **Save CTA** and click on **Back to Profile** to return to the dashboard.
 
 4. If any of your data is inaccurate or needs to be updated, you can reach out to Linux Foundation Support Team by clicking on **Support** Link in the sidebar navigation.
 

@@ -6,9 +6,9 @@ Insights gives you complete visibility into project performance and ecosystem tr
 
 * [Project or Project Group Overview](dashboard-overview.md)
 * [Viewing Dashboards](view-project-dashboard/)
-* [Filtering Data](filtering-data/)
+* [Filtering Data](filter-data/)
 * [Analyzing the Data](analyzing-the-data/)
-* [Identity and Affiliation Management](identity-and-affiliation-management/)
+* [Identity and Affiliation Management](identities-and-affiliations/)
 * [Troubleshooting](troubleshooting.md)
 * [Glossary](glossary.md)
 * [Get Help](get-help.md)

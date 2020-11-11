@@ -1,7 +1,7 @@
 # Jira
 
 {% hint style="info" %}
-By default, Bot Commits and Issues Only are filtered. Dashboard shows data only for number of issues, not for comments, and other values. You can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filtering-data/add-and-manage-data-filters.md).
+By default, Bot Commits and Issues Only are filtered. Dashboard shows data only for number of issues, not for comments, and other values. You can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
 Click ![](../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.

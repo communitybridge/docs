@@ -6,7 +6,6 @@ To view the training and certifications you are enrolled in or have completed, l
 * The start, end dates and the duration of each for training and certification course.
 * The status of each training and certification course.
 * The Enroll CTA button to navigates user to the Linux Foundation Training and Certification course catalogues respectively. 
-* **Please note:** the training information isn't available at this time. 
 
 ![](../.gitbook/assets/training%20%281%29.png)
 
