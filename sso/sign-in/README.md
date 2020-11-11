@@ -1,4 +1,4 @@
-# Sign in to your Account
+# Sign in to Your Account
 
 To access protected Linux Foundation tools, you must sign in using your LF SSO account. If you already have a legacy Linux Foundation account formerly known as LFID, you can use it. If you just [created a brand new account](../create-an-account.md), please proceed as follows.
 
