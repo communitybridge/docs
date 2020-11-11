@@ -1,22 +1,22 @@
 # Manage Affiliations
 
-The Affiliations sections shows data used to populate statistical dashboards for communities and allows a user to update the organization, time duration and contribution level.
+The Affiliations sections shows data used to populate statistical dashboards for communities and allows users to update the organization, contribution level and time duration for each affiliation. 
 
-1. To manage your affiliations, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and navigate to **Affiliations** section. The section will display the following details: 
+1. To manage your affiliations, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and navigate to **Affiliations** section. The section will display the following details based on data availability: 
 
 * The names of the projects you're contributing to
-* The names of the organizations you're affiliate with as a contributor
+* The names of the organizations you're affiliated with as a contributor
 * Your level of contributions, i.e. contributor, maintainer
-* Time duration of your contributions for each affiliation 
-* Edit CTA to manage your affiliations and contributions 
+* Time duration for each contribution
+* Edit CTA to manage your affiliations 
 
 ![](../.gitbook/assets/affiliations.png)
 
-2. To edit dates for your affiliations, click edit ![](../.gitbook/assets/edit.png) pen CTA and select dates from the calendar widget. 
+2. To edit dates for your affiliations, click ![](../.gitbook/assets/edit.png) **Edit** icon and select dates from the calendar widget. 
 
 ![](../.gitbook/assets/edit-affiliations.png)
 
-3. To edit the organization, click inside Contributing As field and enter the organization name.
+3. To edit the organization, click inside **Contributing As** field and enter the organization name.
 
 ![](../.gitbook/assets/add-organization.png)
 
@@ -28,7 +28,7 @@ The Affiliations sections shows data used to populate statistical dashboards for
 
 ![](../.gitbook/assets/add-organization-popup.png)
 
-6. To **Split Affiliation** click  ![](../.gitbook/assets/split.png) split icon to add new organization, select contribution level and dates. To cancel, click ![](../.gitbook/assets/cancel.png) cancel icon. 
+6. To **Split Affiliation** click  ![](../.gitbook/assets/split.png) **split icon** to add new organization, select contribution level and dates. To cancel or delete , click ![](../.gitbook/assets/cancel.png)**Cancel** icon ****or ****![](../.gitbook/assets/delete.png)D**elete** icon.
 
 ![](../.gitbook/assets/split-contribution.png)
 
