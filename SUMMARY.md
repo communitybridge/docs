@@ -17,6 +17,7 @@
   * [​View Community Badges](my-profile/viewing-community-badges.md)
   * [Add Skill Sets](my-profile/add-skill-sets.md)
   * [Connect Accounts](my-profile/linking-social-accounts.md)
+  * [Manage Affiliations](my-profile/manage-affiliations.md)
   * [Add Registered Emails](my-profile/adding-alternative-emails.md)
   * [My Email Subscriptions](my-profile/my-email-subscriptions.md)
   * [Purchase a Lifetime Linux.com Email Alias](my-profile/purchasing-linux-email.md)
