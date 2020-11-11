@@ -2,7 +2,7 @@
 
 1. To edit your contact information, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Edit My Information** CTA button.
 
-![](../.gitbook/assets/header-%20%281%29.png)
+![](../.gitbook/assets/edit-my-information%20%283%29.png)
 
 2. On the **Edit My Information** modal you can update the following details:
 
