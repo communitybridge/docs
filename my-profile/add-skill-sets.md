@@ -6,5 +6,5 @@
 
 2. On the **Edit Skill Sets** subpage, enter your skill set and select +Add CTA button**,** the added skill will appear in **Skills Added** section below. Click on **Back to Profile** to return to the dashboard.
 
-![](../.gitbook/assets/skill-sets%20%281%29.png)
+![](../.gitbook/assets/skill-sets%20%282%29.png)
 

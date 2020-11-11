@@ -6,7 +6,7 @@ description: My Email Subscriptions
 
 1. To edit your email subscription, login to [myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/) and click on the **Edit My Email Subscription** CTA button.
 
-![My Email Subscriptions ](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/email-subscriptions.png)
 
 
 
