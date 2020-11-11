@@ -28,7 +28,7 @@ The Affiliations sections shows data used to populate statistical dashboards for
 
 ![](../.gitbook/assets/add-organization-popup.png)
 
-6. To **Split Affiliation** click  ![](../.gitbook/assets/split.png) **split icon** to add new organization, select contribution level and dates. To cancel or delete , click ![](../.gitbook/assets/cancel.png)**Cancel** icon ****or ****![](../.gitbook/assets/delete.png)D**elete** icon.
+6. To **Split Existing Affiliation** click  ![](../.gitbook/assets/split.png) **split icon** to add new organization, select contribution level and dates. To cancel or delete , click ![](../.gitbook/assets/cancel.png)**Cancel** icon ****or ****![](../.gitbook/assets/delete.png)D**elete** icon.
 
 ![](../.gitbook/assets/split-contribution.png)
 
