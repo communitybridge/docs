@@ -32,5 +32,5 @@ The Affiliations sections shows data used to populate statistical dashboards for
 
 ![](../.gitbook/assets/split-contribution.png)
 
-7. To cancel or delete , click ![](../.gitbook/assets/cancel.png)**Cancel** or ****![](../.gitbook/assets/delete.png)D**elete** icon. 
+7. To cancel the edits click ![](../.gitbook/assets/cancel.png)**Cancel** icon. The delete the affiliation row click![](../.gitbook/assets/delete.png)D**elete** icon. 
 
