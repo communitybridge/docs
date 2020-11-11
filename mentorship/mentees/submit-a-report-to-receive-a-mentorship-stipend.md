@@ -23,7 +23,7 @@ After receiving a successful performance evaluation, all mentees are required to
      **Merchant:** Your name  
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
-     **Category:** Select **Mentee** from the drop-down list  
+     **Category:** Select **Mentorship** from the drop-down list  
      **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;,  for example "Linux Kernel - mentee stipend payment 1 of 3"
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
