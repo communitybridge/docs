@@ -6,8 +6,6 @@ By default, Empty Commits \(Commits with Zero value\) and Bots are filtered, how
 
 The Commits dashboard represents a set of metrics that shows high level information, such as total number of commits, authors, repositories, and so on for  all repositories of the project.
 
-Click ![](../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
-
 ## **Overview** <a id="GitRepositories-GitRepositories&gt;Overview"></a>
 
 Overview shows information about commits in Git repositories. For each commit, Git stores information about who and when authored the commit \(author\), and about the organization that included the commit in the repository.

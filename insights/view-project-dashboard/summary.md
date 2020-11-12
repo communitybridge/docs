@@ -63,7 +63,7 @@ Data is not available for a Git data source that is not configured for  Insights
 
 **Gerrit** shows total number of changesets \(both open and closed\), number of open changestes, average time in hours to merge changesets, average time in days for first review of changeset, and total number of approved changesets for a selected time range.
 
-* Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/graph/chart of [Gerrit Changesets &gt; Overview](pull-request-management/gerrit-changestes.md#overview) section.
+* Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/graph/chart of [Gerrit Changesets &gt; Overview](pull-request-management/gerrit-changeset.md#overview) section.
 
 ![Gerrit Dashboard](../../.gitbook/assets/gerrit-dashboard.png)
 

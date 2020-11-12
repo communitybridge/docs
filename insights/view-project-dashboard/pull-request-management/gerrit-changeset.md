@@ -1,4 +1,4 @@
-# Gerrit Changestes
+# Gerrit Changeset
 
 {% hint style="info" %}
 By default, Bots and Changesets Only are filtered. Dashboard shows data only for number of changesets, not for comments, approvals, and other values. Empty changesets— Changesets that have value as zero— are also filtered. To add/manage filters, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
@@ -6,11 +6,11 @@ By default, Bots and Changesets Only are filtered. Dashboard shows data only for
 
 The Gerrit Changesets dashboards represent a set of metrics that shows detailed information about changesets and patchsets per changeset. Following are the various dashboards of Gerrit data source:
 
-* [Overview](gerrit-changestes.md#overview)
-* [Efficiency](gerrit-changestes.md#efficiency)
-* [Timing](gerrit-changestes.md#timing)
-* [Backlog](gerrit-changestes.md#backlog)
-* [Approvals](gerrit-changestes.md#approvals)
+* [Overview](gerrit-changeset.md#overview)
+* [Efficiency](gerrit-changeset.md#efficiency)
+* [Timing](gerrit-changeset.md#timing)
+* [Backlog](gerrit-changeset.md#backlog)
+* [Approvals](gerrit-changeset.md#approvals)
 
 By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
 
