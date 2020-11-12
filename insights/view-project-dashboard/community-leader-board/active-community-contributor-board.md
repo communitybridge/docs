@@ -1,20 +1,19 @@
 # Active Community Contributor board
 
-Active Community Leaderboard displays an aggregated data of individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira and GitHub Issues\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
+Active Community Contributor board displays an aggregated data of individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira, GitHub Issues, and Bugzilla\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
 
-* Click **Search** to search for contributor's details with author name and organization name. As an administrator for a project, you can also search details with email addresses of contributors of the project.
-* You can also quickly search a page by entering the page number in the page number filed as shown below:
-
-![](../../../.gitbook/assets/active-contributor-page-and-export.png)
-
+* **Search within Contributor Board** lets you quickly search for contributor's details with author name and organization name. As an administrator for a project, you can also search details with email addresses of contributors of the project.
+* You can also quickly search a page by entering the page number in the page number filed at the bottom right corner.
 * Click **Export** to download the table data to a `.csv` file.
 * The Active Community Leaderboard Table lets you sort by values except Author Name, Organization, and Email Id.
+
+![Active Community Contributor Board](../../../.gitbook/assets/active-community-contributor-board.png)
 
 | Name | Description |
 | :--- | :--- |
 | **Author Name** | Name of the contributor |
-| **Email Id** | Email address of the contributor **Note:** Only Project Administrators, after signing in, can view Email Ids of contributors. |
 | **Organization** | Name of affiliated organization |
+| **Email Id** | Email address of the contributor **Note:** Only **Project Administrators**, after signing in, can view Email Ids of contributors. |
 | **Commits** | Total number of commits to git repositories over time |
 | **LOC Added** | Total number of lines of code added by the contributor to git repositories over time. |
 | **LOC Modified** | Total number of lines of code modified by the contributor on git repositories over time. |
