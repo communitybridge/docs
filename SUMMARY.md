@@ -76,7 +76,6 @@
   * [Identities and Affiliations](insights/identities-and-affiliations/README.md)
     * [Data Affiliation](insights/identities-and-affiliations/data-affiliation.md)
     * [Request Access to Affiliation Management](insights/identities-and-affiliations/request-access-to-affiliation-management.md)
-    * [Sign In to Affiliation Management](insights/identities-and-affiliations/sign-in-to-affiliation-management.md)
     * [View and Address the Top Unaffiliated Contributors](insights/identities-and-affiliations/view-and-address-the-top-unaffiliated-contributors.md)
     * [Find a Profile](insights/identities-and-affiliations/find-a-profile.md)
     * [Edit Profile Personal Details](insights/identities-and-affiliations/edit-profile-personal-details.md)

@@ -4,13 +4,9 @@ Affiliation Management becomes available to you after you request and are grante
 
 **Prerequisites:**  You must have a Single Sign-On \(SSO\) account. [Create an account](../../sso/create-an-account.md) if you do not have an SSO account.
 
-**Do these steps:**
+1. Sign in to [LFX Insights](https://insights.lfx.linuxfoundation.org/projects), and navigate to a project dashboard.
 
-1. Sign in to the [Linux Foundation Help Center](https://jira.linuxfoundation.org/servicedesk/customer/portal/4).
-
-2. Select CB Insights, and click **Submit other Insights Request**.
-
-![Community Bridge Support](../../.gitbook/assets/submit-insights-request.png)
+2. From the navigation bar, click **Request To Edit Affiliations**.
 
 3. Provide details in the form that appears.
 

@@ -2,6 +2,7 @@
 
 Active Community Contributor board displays an aggregated data of individual contributors for three major data sources—Code based \(Git and Gerrit\), Issue Tracker \(Jira, GitHub Issues, and Bugzilla\), and Wiki page \(confluence\). Columns, such as Commits, LOC Added, LOC Modified, and LOC Deleted provide data of git repositories.
 
+* By default, data is displayed for **Code** data source. Select other data sources to view related data. Click All to select all the data sources.
 * **Search within Contributor Board** lets you quickly search for contributor's details with author name and organization name. As an administrator for a project, you can also search details with email addresses of contributors of the project.
 * You can also quickly search a page by entering the page number in the page number filed at the bottom right corner.
 * Click **Export** to download the table data to a `.csv` file.
