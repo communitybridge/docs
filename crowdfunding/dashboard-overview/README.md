@@ -29,7 +29,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 
 To learn more, see [Projects](projects.md).
 
-![Crowdfunding Projects](../../.gitbook/assets/crowdfunding-projects.png)
+![](../../.gitbook/assets/crowdfunding-projects%20%281%29.png)
 
 ## Events <a id="Dashboard-Events"></a>
 
@@ -45,7 +45,7 @@ To learn more, see [Projects](projects.md).
 
 To learn more, see [Events](events.md).
 
-![Crowdfunding Events](../../.gitbook/assets/crowdfunding-events.png)
+![](../../.gitbook/assets/crowdfunding-events%20%281%29.png)
 
 ## Travel Funds <a id="Dashboard-TravelScholarships"></a>
 
@@ -60,7 +60,7 @@ To learn more, see [Events](events.md).
 
 To learn more, see [Travel Funds](travel-funds.md).
 
-![Crowdfunding Travelfunds](../../.gitbook/assets/crowdfunding-travel-funds.png)
+![](../../.gitbook/assets/crowdfunding-travel-funds%20%281%29.png)
 
 ## Security Audits \(OSTIF\)
 
@@ -75,13 +75,13 @@ To learn more, see [Travel Funds](travel-funds.md).
 
 To learn more, see [Security Audit](security-audit.md).
 
-![Crowdfunding Projects applied for Security Audit](../../.gitbook/assets/crowdfunding-security-audits.png)
+![](../../.gitbook/assets/crowdfunding-security-audit.png)
 
 ## Initiatives
 
 Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
 
-![Crowdfunding Initiatives](../../.gitbook/assets/crowdfunding-initiatives.png)
+![](../../.gitbook/assets/crowdfunding-initiatives%20%281%29.png)
 
 ## My Transactions
 
