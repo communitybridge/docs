@@ -181,17 +181,15 @@ Following dashboards are displayed under Technical Trends:
 
 ### Earned Media
 
-[Earned Media](earned-media/) shows analytic overview of how many times consumers \(unique users\) searched, mentioned, and shared project related articles or blogs  on different media platforms, starting from Facebook, Linked to blog sites and news publishing websites. This helps project administrators, companies and organizations to understand software development projects through quantitative analysis of social media activity, and processes. The data Earned Media includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on.
-
-* Clicking sparklines opens a stacked bar graph that represents relevant data per calendar period.
-* Clicking the number beside the sparklines opens the respective dashboard.
-* Clicking **View All** opens the respective dashboard.
+[Earned Media](earned-media/) shows analytic overview of how many times consumers \(unique users\) searched, mentioned, and shared project related articles or blogs  on different media platforms, such as facebook, linkedin, blog sites, news publishing websites, and so on. The data includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on.
 
 **Total Shares** shows how many times a project's search results are shared by consumers on different social media platforms. This also shows number of shares on individual social media platforms.
 
 **Top 10 Publishers** lists top ten media houses and blog sites that mention most about the project in the form of articles and blog posts. It includes the number and percentage of mentions about your project.
 
 **Key Messages** shows a doughnut chart that displays how many times the project and its competitors' search results are mentioned by consumers \(unique users\). Mouse over a color in the chart to see the number of mentions for a project out of the total mentions. For example, Linux Foundation is mentioned 4.88k times by consumers on different media platforms out of the total 6.52k times including its competitors' mentions as per the following data.
+
+![Earned Media](../../.gitbook/assets/earned-media.png)
 
 
 
