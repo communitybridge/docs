@@ -4,12 +4,9 @@
 By default, Bot commit is filtered, and can't be included for Summary dashboard.
 {% endhint %}
 
-Summary provides a high-level metrics about each data source for which the project is configured. Following are activities for quick navigation:
+Summary provides a high-level metrics about each data source for which the project is configured. Following are activities for quick navigation: 
 
-* Click Copy Short URL ![](../../.gitbook/assets/copy-short-url.png) to copy the link of summary dashboard for a project.
-* Select a value from the drop down to quickly navigate to the respective section on Summary dashboard: ![](../../.gitbook/assets/summary-drop-down%20%281%29.png) 
-
-  **Technical Trends:**
+* **Technical Trends:**
 
   * [Source Control](summary.md#source-control)
   * [Pull Requests / Changesets](summary.md#pull-requests-changeset)
@@ -24,17 +21,13 @@ Summary provides a high-level metrics about each data source for which the proje
   * [Documentation](summary.md#documentation)
   * [Earned Media](summary.md#earned-media)
 
-* Clicking sparklines ![](../../.gitbook/assets/sparkly-lines.png)  opens a stacked bar graph that represents relevant data per calendar period.  ![](../../.gitbook/assets/sparkly-line.png) 
-* Clicking numbers on a data card opens the respective dashboard.  ![](../../.gitbook/assets/click-for-dashboard.png) 
-* While navigating from top to bottom on Summary dashboard, click ![](../../.gitbook/assets/summary-dashboard-up-arrow.png) on the down right corner to reach to the top of the page.
-
 ## **Technical Trends**
 
 Following dashboards are displayed under Technical Trends:
 
 ### **Source Control**
 
-[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filtering-data/select-time-range.md) to view  data for the selected time range.
+[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filter-data/select-time-range.md) to view  data for the selected time range.
 
 * Clicking **Go To Overview** and **View All** takes you to the respective dashboard of [Commits &gt; Overview](source-control/git.md) page.
 
@@ -72,13 +65,13 @@ Data is not available for a Git data source that is not configured for  Insights
 
 * Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/graph/chart of [Gerrit Changesets &gt; Overview](pull-request-management/gerrit-changestes.md#overview) section.
 
-![Gerrit Dashboard](../../.gitbook/assets/changesets-gerrit.png)
+![Gerrit Dashboard](../../.gitbook/assets/gerrit-dashboard.png)
 
 **GitHub** shows total number of pull requests \(both open and closed\), number of open pull requests, average time in hours to merge pull requests, and average time in hours pull requests were open for a selected time range.
 
 * Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/chart/graph of [GitHub PR &gt; Overview](project-management/github-issues.md#overview) section.
 
-![GitHub Dashboard](../../.gitbook/assets/pull-requests-github.png)
+![Pull Requests GitHub](../../.gitbook/assets/pull-requests-github.png)
 
 **Top 10 Contributors By PRs** \(for GitHub\) ****or **Top 10 Contributors By Changesets** \(for Gerrit\) ****lists the top ten individuals—that contribute most to the project— by name, total number of pull requests or changestes, and percentage of commits out of the total number of commits by the community.
 
@@ -200,9 +193,5 @@ Following dashboards are displayed under Technical Trends:
 
 **Key Messages** shows a doughnut chart that displays how many times the project and its competitors' search results are mentioned by consumers \(unique users\). Mouse over a color in the chart to see the number of mentions for a project out of the total mentions. For example, Linux Foundation is mentioned 4.88k times by consumers on different media platforms out of the total 6.52k times including its competitors' mentions as per the following data.
 
-![](../../.gitbook/assets/share-of-voice-mouse-over.png)
 
-Click a project name as shown below to exclude the result. Click again to include.
-
-![](../../.gitbook/assets/share-of-voice-click-a-name.png)
 
