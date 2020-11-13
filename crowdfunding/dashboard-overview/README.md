@@ -4,7 +4,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 
 1. Go to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. Navigate to tabs, such as [Projects](./#Dashboard-ProjectsandMentorships), [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives), and to learn more about each.
-3. Sign in to view [My Transactions](./#my-transactions), [My Projects](./#my-projects), and [My Account](./#my-account) tabs, and to learn more about each. 
+3. Sign in to [manage your crowdfunding account ](../manage-your-crowdfunding-account.md)
 4. To participate:
    * [Apply to raise fund for a project](../apply-for-crowdfunding/)
      * [Add a GitHub project](../apply-for-crowdfunding/add-a-github-project.md)
@@ -82,20 +82,6 @@ To learn more, see [Security Audit](security-audit.md).
 Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
 
 ![](../../.gitbook/assets/crowdfunding-initiatives%20%281%29.png)
-
-## My Transactions
-
-My Transactions shows your monthly donations and lists all your transactions. For details, see [My Transactions](../manage-your-crowdfunding-account.md#my-transactions).
-
-## My Projects
-
-My Projects lets you see all the projects, security audits, initiatives, events, and funds that you maintain all in one place. You can see the status of a project, for example "Pending approval".
-
-Click a project to see the fund details.Click **Edit** on a card to edit the fund details.
-
-## My Account
-
-**My Account** lets you manage your organization, and payment method. For details, see [My Account](../manage-your-crowdfunding-account.md#my-account).
 
 \*\*\*\*
 
