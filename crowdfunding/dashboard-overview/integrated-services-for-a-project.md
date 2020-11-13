@@ -27,5 +27,9 @@ Integrated services for a project lets you see additional information about a pr
 
 **Security** provides a scanning service to detect vulnerabilities in your project by severity of vulnerabilities discovered in the project repositories. Hover mouse over a severity level to log in to Security and view details.
 
+## Mentorship Program <a id="IntegratedServicesforaProject-MentorshipProgram"></a>
 
+‌It is displayed if the project is enrolled to LFX mentorship program. The **Mentorship** **Program** provides a mentorship matchmaking service that helps grow interested mentees into participating contributors in open source communities. This program connects mentorship candidates with projects; mentees with mentors; projects with donors to provide mentorship stipends; and mentorship graduates with potential job opportunities.
+
+![](https://gblobscdn.gitbook.com/assets%2Flinux-foundation-documentation%2F-M2D_dS1B24qzcG9ihj9%2F-M2Dc-_8wyqKKQaOHEMW%2F7416592.png?alt=media)
 

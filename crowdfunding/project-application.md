@@ -71,9 +71,7 @@ The Financial Summary shows the annual financial goal and progress towards it by
 
 ### Terms and Conditions
 
-Read and agree to the Terms and Conditions and **Submit** the application.
+Select the checkbox
 
-{% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
-{% endhint %}
+![](../.gitbook/assets/7418615.png)
 

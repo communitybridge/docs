@@ -48,9 +48,9 @@ The following table lists all the fields in the **Project Branding** panel of th
 
 ### Terms and Conditions
 
-Read and agree to the Terms and Conditions and **Submit** the application.
+Select the checkbox
 
-{% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
-{% endhint %}
+![](https://gblobscdn.gitbook.com/assets%2Flinux-foundation-documentation%2F-M2D_dS1B24qzcG9ihj9%2F-M2DaMsMo1_dQxKyDVOA%2F7418615.png?alt=media)
+
+
 

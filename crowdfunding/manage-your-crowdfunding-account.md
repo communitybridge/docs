@@ -10,36 +10,23 @@ You can manage your Crowdfunding account, for example view a record of all your 
 
 ### My Transactions
 
-My Transactions shows your monthly donations and lists all your transactions with details.
+Under **My Transactions tab** you can view the list of all your transactions and monthly subscription donations. 
 
-* Click **Cancel Monthly Subscription** on a project to cancel your donation subscription. Click **Yes, cancel subscription** on the confirmation dialog that appears.
-* Click **Discover projects** to go to the Projects page. This option appears when you do not have any Monthly Donations.
+* Click **Cancel Monthly Subscription** on a project to cancel your monthly donation subscription. 
 
 ![](../.gitbook/assets/7417305.png)
 
 ### My Projects
 
-My Projects lets you see all the projects, security audits, initiatives, events, and funds that you maintain all in one place. You can see the status of a project, for example "Pending approval".
-
-Click a project to see the fund details.Click **Edit** on a card to edit the fund details.
-
-**Note: Mentorship Goal** is displayed under **Fund Distribution** if your project is enrolled in the Mentorship program. 
+Under **My Projects tab** you can view all your crowdfunding initiatives and their statuses. Click a project to see the fund details and click **Edit** on a card to edit the fund details.
 
 ### **My Account**
 
-**My Account** lets you manage your organization, and payment method.
+Under **My Account** tab you can add and/or edit your payment method or organization. 
 
-**Manage Organization** lets you add or edit your organization. Click **+ Add Organization** to add an organization.
+![Add organization to donate or sponsor](../.gitbook/assets/7417301.png)
 
-![](../.gitbook/assets/7417301.png)
+![Add new payment method ](../.gitbook/assets/add-card.png)
 
-**Payment Method** lets you add or change your credit or debit card provider and number.
-
-Click **Add Card** to add your card details.
-
-![](../.gitbook/assets/add-card.png)
-
-Click **Edit Card** or **Delete Card** to edit or delete an existing payment method, respectively.
-
-![](../.gitbook/assets/7417299.png)
+![Edit payment method](../.gitbook/assets/7417299.png)
 
