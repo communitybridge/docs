@@ -8,8 +8,6 @@ Edit a profile to add or update contributor information. For example, if you wan
 
 2. Click **Affiliation Management**.
 
-![Affiliation Management](../../../.gitbook/assets/affiliation-management.png)
-
 3. Select a profile from the **Top Unaffiliated Contributors** list or [search for a profile](find-a-profile.md) that you want to edit.
 
 ![](../../../.gitbook/assets/18088125.png)

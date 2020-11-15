@@ -55,8 +55,6 @@ After you add a unique identity to a profile, the identity appears under Profile
 
 Click **Un-merge**, and confirm ****to unmerge the unique identity from the user profile.
 
-![Unmerge User Affiliations](../../../.gitbook/assets/unmerge-identity.png)
-
 
 
 

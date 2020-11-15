@@ -15,8 +15,6 @@ The Sign In window appears.
 **Affiliation Management** appears in the menu, next to **Select** **Time Range**. If you do not have access, Affiliation Management does not appear.
 {% endhint %}
 
-![](../../../.gitbook/assets/affiliation-management.png)
-
 4. Click **Affiliation Management**.  
 The Affiliation Management Home page appears.
 
