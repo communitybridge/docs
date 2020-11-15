@@ -20,15 +20,13 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 
 **Projects** tab includes Git-based projects. Each project card shows the following information:
 
-* Project name, logo, and description
-* Tags shows technologies the project is associated with
-* Funds Raised shows total funds raised so far
-* Goal shows total funding goal for the project
-* Funds Distributed shows the total expenses so far
-* Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
-* **Donate** allows you to donate funds to the project they want to support
-
-To learn more, see [Projects](projects.md).
+* **Project name and logo** - click on the project title/logo to navigate to[ project ](projects.md)details page
+* **Tags** - technologies the project is associated with
+* **Funds Raised** - total funds raised so far
+* **Goal** - total funding goal for the project
+* **Funds Distributed** - total expenses so far
+* **Sponsors** - images of sponsors \(Individuals and Organizations\) for the project
+* **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
 ![](../../.gitbook/assets/crowdfunding-projects%20%281%29.png)
 
@@ -36,16 +34,14 @@ To learn more, see [Projects](projects.md).
 
 **Events** tab shows events, such as forums or conferences.  Each event card shows the following information:
 
-* Name, logo, and description of the event.
-* Tags shows technologies the event is associated with
-* Dates shows the beginning and end dates of the event.
-* Funds Raised shows total amount of funds raised for the event.
-* Location shows the place where the event takes place.
-* Sponsors shows images of sponsors \(Individuals and Organizations\) for the event.
-* **Sponsor** allows users to sponsor events they want to support.
-* **Register** allows users to register for an event they want to attend.
-
-To learn more, see [Events](events.md).
+* **Event name and logo** - click on the event title/logo to navigate to [event ](events.md)details page
+* **Tags** - technologies the event is associated with
+* **Dates** - beginning and end dates of the event
+* **Funds Raised** - total amount of funds raised for the event
+* **Location** - ****the place where the event takes place
+* **Sponsors** - images of sponsors \(Individuals and Organizations\) for the event
+* **Sponsor** - Click to [sponsor events](../donate-sponsor/sponsor-events.md) they want to support
+* **Register** - Click to [register for an event](../register-for-an-event.md) they want to attend
 
 ![](../../.gitbook/assets/crowdfunding-events%20%281%29.png)
 
@@ -53,15 +49,13 @@ To learn more, see [Events](events.md).
 
 **Travel Funds** includes diversity and need-based travel funding. Each travel fund card shows the following information:
 
-* Travel Fund name, logo, and description.
-* Tags shows technologies the travel related event or meet-up is associated with.
-* Dates show the start date and end date of the meet up or event.
-* Funds Raised shows total funds raised so far.
-* Sponsors shows images of sponsors \(Individuals and Organizations\) for the travel fund.
-* Funds Distributed shows the total expenses so far for the event.
-* **Donate** allows users to donate to travel funds they want to support.
-
-To learn more, see [Travel Funds](travel-funds.md).
+* **Travel Fund name and logo** - click on the travel fund title/logo to navigate to [travel fund](travel-funds.md) details page
+* **Tags** - technologies the travel related event or meet-up is associated with.
+* **Dates** - start date and end date of the meet up or event
+* **Funds Raised** - total funds raised so far
+* **Sponsors** - images of sponsors \(Individuals and Organizations\) for the travel fund.
+* **Funds** **Distributed** - total expenses so far for the event
+* **Donate** - Click to [donate](../donate-sponsor/) to travel funds they want to support
 
 ![](../../.gitbook/assets/crowdfunding-travel-funds%20%281%29.png)
 
@@ -69,15 +63,13 @@ To learn more, see [Travel Funds](travel-funds.md).
 
 **Security Audits \(OSTF\)** tab includes projects that applied for a security audit performed by [Open Source Technology Improvement Fund](https://ostif.org/the-ostif-mission/). Each Security Audit card shows the following information:
 
-* Project name, logo, and description
-* Tag shows technologies the project is associated with
-* Funds Raised shows total funds raised so far
-* Goal shows total funding goal for the project
-* Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
-* Funds Distributed shows the total expenses so far
-* **Donate** allows users to donate funds to the project they want to support
-
-To learn more, see [Security Audit](security-audit.md).
+* **Project name and logo** - click on the project title/logo to navigate to[ security audit](security-audit.md) details page
+* **Tags** - technologies the project is associated with
+* **Funds Raised** - total funds raised so far
+* **Goal** - ****total funding goal for the project
+* **Sponsors** - images of sponsors \(Individuals and Organizations\) for the project
+* **Funds Distributed** - total expenses so far
+* **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
 ![](../../.gitbook/assets/crowdfunding-security-audit.png)
 
@@ -87,15 +79,13 @@ Initiatives section includes open-source initiatives for which people have raise
 
 Each Initiative card shows the following information:
 
-* Initiative name, logo, and description
-* Tag shows technologies the initiative is associated with
-* Funds Raised shows total funds raised so far
-* Goal shows total funding goal for the project
-* Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
-* Funds Distributed shows the total expenses so far
-* **Donate** allows users to donate funds to the project they want to support
-
-For details to know about an initiative, see the [project/initiative details](projects.md).
+* Initiative name and logo - click on the initiative title/logo to navigate to[ ](projects.md)[initiative](initiatives.md) details page
+* **Tags** - technologies the project is associated with
+* **Funds Raised** - total funds raised so far
+* **Goal** - ****total funding goal for the project
+* **Sponsors** - images of sponsors \(Individuals and Organizations\) for the project
+* **Funds Distributed** - total expenses so far
+* **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
 ![](../../.gitbook/assets/crowdfunding-initiatives%20%281%29.png)
 
