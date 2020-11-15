@@ -26,5 +26,7 @@ Integrated services for a project lets you see additional information about a pr
 
 **Security** provides a scanning service to detect vulnerabilities in your project by severity of vulnerabilities discovered in the project repositories. Hover mouse over a severity level to log in to Security and view details.
 
+![](../../.gitbook/assets/security-report.png)
+
 
 
