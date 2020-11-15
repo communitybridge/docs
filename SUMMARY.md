@@ -79,7 +79,7 @@
     * [View and Address the Top Unaffiliated Contributors](insights/identities-and-affiliations/view-and-address-the-top-unaffiliated-contributors.md)
     * [Find a Profile](insights/identities-and-affiliations/find-a-profile.md)
     * [Edit Profile Personal Details](insights/identities-and-affiliations/edit-profile-personal-details.md)
-    * [Merge or Un-merge an Identity Profile](insights/identities-and-affiliations/merge-or-un-merge-an-identity-profile.md)
+    * [Merge or Unmerge an Identity Profile](insights/identities-and-affiliations/merge-or-unmerge-an-identity-profile.md)
     * [Add or Delete an Organization Affiliation](insights/identities-and-affiliations/add-or-delete-an-organization-affiliation.md)
     * [Blacklist an Email Address](insights/identities-and-affiliations/blacklist-an-email-address.md)
   * [Troubleshooting](insights/troubleshooting.md)

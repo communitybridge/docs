@@ -6,7 +6,9 @@ Affiliation Management becomes available to you after you request and are grante
 
 1. Sign in to [LFX Insights](https://insights.lfx.linuxfoundation.org/projects), and navigate to a project dashboard.
 
-2. From the navigation bar, click **Request To Edit Affiliations**.
+2. From the navigation bar, click **Request To Edit Affiliations**.  
+  
+ ![](../../.gitbook/assets/request-to-edit-affiliations.png) 
 
 3. Provide details in the form that appears.
 

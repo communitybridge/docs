@@ -2,12 +2,11 @@
 
 You can search by a name or keyword to find specific profiles. The search results let you identify what data \(for example, Email or Affiliations\) is not provided in a profile, and that you might want to add.
 
-**Do these steps:**
+**To Search a Profile:**
 
 1. Click a **project** of interest.
 
-2. Click **Affiliation Management**.  
-The Affiliation Management Home page shows Search Profiles field.
+2. Click **Identities & Affiliations**.
 
 ![](../../.gitbook/assets/18088122.png)
 
@@ -17,5 +16,5 @@ The Affiliation Management Home page shows Search Profiles field.
   * Affiliations shows the name of the organization that is affiliated with the profile.
   * Number \(\#\) shows the number of identities associated with the profile.
 
-4. \(Optional\) Continue to [Merge or Un-merge an Identity Profile](merge-or-un-merge-an-identity-profile.md).
+4. \(Optional\) Continue to [Merge or Un-merge an Identity Profile](merge-or-unmerge-an-identity-profile.md).
 
