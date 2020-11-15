@@ -21,11 +21,12 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 **Projects** tab includes Git-based projects. Each project card shows the following information:
 
 * Project name, logo, and description
-* Technologies or Categories the project is associated with
-* Funding Goal shows total funding goal for the project
+* Tags shows technologies the project is associated with
 * Funds Raised shows total funds raised so far
+* Goal shows total funding goal for the project
+* Funds Distributed shows the total expenses so far
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
-* **Donate** allows users to donate funds to the project they want to support
+* **Donate** allows you to donate funds to the project they want to support
 
 To learn more, see [Projects](projects.md).
 
@@ -33,9 +34,10 @@ To learn more, see [Projects](projects.md).
 
 ## Events <a id="Dashboard-Events"></a>
 
-**Events** tab events, such as forums or conferences.  Each event card shows the following information:
+**Events** tab shows events, such as forums or conferences.  Each event card shows the following information:
 
 * Name, logo, and description of the event.
+* Tags shows technologies the event is associated with
 * Dates shows the beginning and end dates of the event.
 * Funds Raised shows total amount of funds raised for the event.
 * Location shows the place where the event takes place.
@@ -52,10 +54,11 @@ To learn more, see [Events](events.md).
 **Travel Funds** includes diversity and need-based travel funding. Each travel fund card shows the following information:
 
 * Travel Fund name, logo, and description.
-* Technologies or Categories the travel related event or meet-up is associated with.
+* Tags shows technologies the travel related event or meet-up is associated with.
 * Dates show the start date and end date of the meet up or event.
 * Funds Raised shows total funds raised so far.
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the travel fund.
+* Funds Distributed shows the total expenses so far for the event.
 * **Donate** allows users to donate to travel funds they want to support.
 
 To learn more, see [Travel Funds](travel-funds.md).
@@ -67,10 +70,11 @@ To learn more, see [Travel Funds](travel-funds.md).
 **Security Audits \(OSTF\)** tab includes projects that applied for a security audit performed by [Open Source Technology Improvement Fund](https://ostif.org/the-ostif-mission/). Each Security Audit card shows the following information:
 
 * Project name, logo, and description
-* Technologies or Categories the project is associated with
-* Funding Goal shows total funding goal for the project
+* Tag shows technologies the project is associated with
 * Funds Raised shows total funds raised so far
+* Goal shows total funding goal for the project
 * Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
+* Funds Distributed shows the total expenses so far
 * **Donate** allows users to donate funds to the project they want to support
 
 To learn more, see [Security Audit](security-audit.md).
@@ -79,7 +83,19 @@ To learn more, see [Security Audit](security-audit.md).
 
 ## Initiatives
 
-Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. For details to know about an initiative, see the [project/initiative details](projects.md). Click **Donate** to support the initiative. To know more, see [Initiatives](initiatives.md).
+Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. 
+
+Each Initiative card shows the following information:
+
+* Initiative name, logo, and description
+* Tag shows technologies the initiative is associated with
+* Funds Raised shows total funds raised so far
+* Goal shows total funding goal for the project
+* Sponsors shows images of sponsors \(Individuals and Organizations\) for the project
+* Funds Distributed shows the total expenses so far
+* **Donate** allows users to donate funds to the project they want to support
+
+For details to know about an initiative, see the [project/initiative details](projects.md).
 
 ![](../../.gitbook/assets/crowdfunding-initiatives%20%281%29.png)
 

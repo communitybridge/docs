@@ -67,7 +67,7 @@ In the Annual Funding Goal filed, provide an initial funding goal estimated for 
 
 ### Terms and Conditions
 
-Read and agree to the Terms and Conditions and **Submit** the application.
+Read and agree to the Terms and Conditions, and **Submit** the application.
 
 {% hint style="info" %}
 After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 

@@ -35,7 +35,7 @@ The Dashboard shows various aspects of the fund depending on the data that is av
 | **Donations** | The amount of money that has been donated to the project. |
 | **Expenses**  | The amount of money spent or costs incurred for the project, which indicate the cost of doing business. |
 | **Travel Fund Funding Distribution** | Shows how meet-up funds are distributed and their dollar amounts. |
-| **Breakdown** | The financial goal and progress towards it by individual goal. |
+| **Goals Breakdown** | The financial goal and progress towards it by individual goal. |
 | **Recent Transactions** | Lists recorded financial transactions in chronological order. Click **View all transactions** to see a log of transactions in the Financial tab. |
 
 View an example of a travel fund dashboard section:

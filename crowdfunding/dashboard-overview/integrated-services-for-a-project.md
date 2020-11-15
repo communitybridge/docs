@@ -11,7 +11,6 @@ Integrated services for a project lets you see additional information about a pr
 3. Funding integrates with the following independent Linux Foundation services:
    * [Stacks](integrated-services-for-a-project.md#IntegratedServicesforaProject-Stacks)
    * [Security](integrated-services-for-a-project.md#IntegratedServicesforaProject-VulnerabilityDetection)
-   * [Mentorship Program](integrated-services-for-a-project.md#IntegratedServicesforaProject-MentorshipProgram)
 
 {% hint style="info" %}
 **Note:** Integrated service is displayed on a project dashboard if the project is enrolled for the service.

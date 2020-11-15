@@ -8,7 +8,6 @@ The following table lists all the fields in the **Event Details** panel of the E
 | :--- | :--- |
 | **Event name** | An event name which must be unique. **Note:** Funds of a different type can use the same name. For example, an Event fund and a Project fund can use the same name. |
 | **Topic** | Type of industry that relates to your event. Click **+Add topic**  after you select a category from the list. |
-| **Elevator pitch**  | Brief statement of why your project is important to support. |
 | **Event Summary** | A brief description about your event. |
 | **Website URL** | A link to the website that you want to associate with the event funding. |
 | **Registration URL** | The specific URL where people can register or sign-up for your event. |
@@ -106,7 +105,7 @@ The Financial Summary shows the annual financial goal and progress towards it by
 
 ### Terms and Conditions
 
-Read and agree to the Terms and Conditions and **Submit** the application.
+Read and agree to the Terms and Conditions, and **Submit** the application.
 
 {% hint style="info" %}
 After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
