@@ -10,7 +10,7 @@ Consolidate all of the expenses eligible for reimbursement to apply them to the 
 
 2. Under your account, select **Reports** tab.
 
-![](../.gitbook/assets/reports%20%281%29.png)
+![](../.gitbook/assets/reports.png)
 
 3. On **Reports** page, select **New Report** located in the top-right corner of your screen.
 
