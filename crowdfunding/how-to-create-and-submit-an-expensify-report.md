@@ -6,15 +6,15 @@ Consolidate all of the expenses eligible for reimbursement to apply them to the 
 
 **Note:** Ensure that you select the correct fund policy that is associated with the project or event you are approved for.
 
-![Travel Fund Policy](../.gitbook/assets/travel-fund-policy.png)
+![](../.gitbook/assets/expense-report.png)
 
 2. Under your account, select **Reports** tab.
 
-![](../.gitbook/assets/expensify-reports-tab.png)
+![](../.gitbook/assets/reports%20%281%29.png)
 
 3. On **Reports** page, select **New Report** located in the top-right corner of your screen.
 
-![Expensify New Reports](../.gitbook/assets/expensify-new-reports.png)
+![](../.gitbook/assets/new-report.png)
 
 4. Write a **Report Name** that must include your name, and: 
 
@@ -22,7 +22,7 @@ a\) For events and travel funds: the name and year of the event, for example:`Ja
 
 b\) For projects: the name of the project 
 
-![Expense Report](../.gitbook/assets/expense-reports.png)
+![](../.gitbook/assets/submit-report.png)
 
 5. Click ![](../.gitbook/assets/plus-icon.png)to add expenses to report.
 
