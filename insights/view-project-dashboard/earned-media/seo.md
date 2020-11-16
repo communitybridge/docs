@@ -6,9 +6,9 @@ Search engine optimization \(SEO\) is the process of optimizing a website's onli
 
 **Number of Mentions** shows how many times a project related article or blog is mentioned over different media types based on project's search term \(keyword\). One article/blog is equal to one mention even if the search terms are used more than once in the article/blog.
 
-**Non-PR Referral Traffic**
+**Non-PR Referral Traffic** shows periodic analysis of how many times your website is visited from other articles and blog posts with backlinks for your website. This doesn't include data if a user visits your website directly using website URL.
 
-**Total Coverage vs. Total Web Traffic**
+**Total Coverage vs. Total Web Traffic** shows the potential impact your total news coverage has on your total website traffic_._ These values are color coded. Total coverage or total sessions shows periodic analysis of how many times your website is visited from both PR and Non-PR activities. Total coverage is based on your search value, and includes traffic from articles and blog posts with and without backlinks.
 
 \*\*\*\*
 
