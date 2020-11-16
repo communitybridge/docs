@@ -22,4 +22,12 @@ Mentees and mentors can use these phases and timelines to gain an understanding 
    * End of Week 6: Midterm mentee evaluations due and first stipend payment approvals
    * End of Week 9: Third mentee evaluations due 
    * End of Week 12: Final mentee evaluations and mentee blog submission due, second and final stipend payment approvals  
+4. Mentorship duration - 24 weeks \(part-time schedule\)
+   * Week 1: Mentorship program begins with the initial work assignments
+   * End of Week 6: First mentee evaluations due 
+   * End of Week 12: Midterm mentee evaluations due and first stipend payment approvals
+   * End of Week 18: Third mentee evaluations due 
+   * End of Week 24: Final mentee evaluations and mentee blog submission due, second and final stipend payment approvals  
+
+
 

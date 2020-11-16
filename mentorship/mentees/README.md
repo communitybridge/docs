@@ -23,7 +23,7 @@ The following eligibility rules apply to all mentee applicants.
 
 ### Mentorship Stipends
 
-Mentee stipends are paid in installments tied to mentee evaluations and satisfactory progress with program deliverables up to that point. The final installment is paid upon successful completion of the program. For additional stipend information and amounts please refer to [Mentee Stipends section. ](../mentee-stipends/)
+Mentee stipends are paid in installments tied to mentee evaluations and satisfactory progress with program deliverables up to that point. The final installment is paid upon successful completion of the program. For additional stipend information and amounts please refer to [Mentee Stipends section. ](https://docs.linuxfoundation.org/docs/communitybridge/mentorship/mentee-stipends)
 
 To be eligible for a mentorship stipend mentees must receive a satisfactory progress evaluation before they [submit an Expensify Report ](https://docs.linuxfoundation.org/docs/communitybridge/mentorship/mentees/submit-a-report-to-receive-a-mentorship-stipend)
 
