@@ -6,3 +6,9 @@ Search engine optimization \(SEO\) is the process of optimizing a website's onli
 
 **Number of Mentions** shows how many times a project related article or blog is mentioned over different media types based on project's search term \(keyword\). One article/blog is equal to one mention even if the search terms are used more than once in the article/blog.
 
+**Non-PR Referral Traffic**
+
+**Total Coverage vs. Total Web Traffic**
+
+\*\*\*\*
+
