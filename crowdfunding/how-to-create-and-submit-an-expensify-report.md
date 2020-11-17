@@ -38,15 +38,25 @@ For Events and Travel Funds, choose a category—Accommodation, Airfare, Ground 
 
 ![](../.gitbook/assets/create-an-expense.png)
 
+![](../.gitbook/assets/submit-report.png)
+
+8. After you add all the expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab. 
+
 {% hint style="warning" %}
-**Important:** For International \(non-U.S.\) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_ **in addition** to your receipt\(s\).
+If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
+{% endhint %}
+
+![](../.gitbook/assets/add-us-bank-account.png)
+
+{% hint style="warning" %}
+For International \(non-U.S.\) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_ **in addition** to your receipt\(s\).
 {% endhint %}
 
 {% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
-8. After you add all the expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
 
-![Submit Report](../.gitbook/assets/submit-report.png)
+
+
 
  
 
