@@ -22,19 +22,16 @@ And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/new-expense.png)
 
-6. Create a new expense by completing the fields as follows:  
+6. Create a new expense by completing the fields as follows and click **Save**.  
      **Merchant:** Your name  
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
      **Category:** Select **Mentorship** from the dropdown list  
-     **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2"
+     **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-7. Mentees residing in the US: Click **Save**.  
-**International Mentees \(non-U.S.\):** please add “International” next to your name and click **Save.** The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. 
-
-NOTE: In case you need to update your bank information, please use the wire transfer form below, add "updated" to the title, and attach it with your recept. 
+NOTE. **International Mentees** \(not residing in the US\): please add “International” next to your name before you click **Save.** The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. In case you need to update your bank information, please use the wire transfer form below, add "updated" to the title, and attach it with your recept. 
 
 {% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
