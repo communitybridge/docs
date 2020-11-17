@@ -1,6 +1,6 @@
 # Submit a Report to Receive Mentorship Stipend
 
-After receiving a successful performance evaluation, all mentees are required to submit an Expensify report to receive each mentorship stipend payment. 
+After receiving a successful performance evaluation, all mentees are required to submit an Expensify report to receive mentorship stipend payments. 
 
 1. To create and submit an **Expensify Report,** login to [Expensify](%20https://www.expensify.com). Ensure that you use the same email address that you used to set up your account in Expensify.
 
@@ -11,7 +11,7 @@ After receiving a successful performance evaluation, all mentees are required to
 3. On **Reports** page, select **New Report** located in the top-right corner of your screen.
 
 4. A report name with a report ID is auto-generated based on your profile information.  
-**Note:** Update the ****report name to "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 3"
+**Note:** Update the ****report name to "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 2"
 
 5. Click ![](../../.gitbook/assets/plus-icon.png) to add expense to report.
 
@@ -24,7 +24,7 @@ After receiving a successful performance evaluation, all mentees are required to
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
      **Category:** Select **Mentorship** from the dropdown list  
-     **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;,  for example "Linux Kernel - mentee stipend payment 1 of 3"
+     **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;,  for example "Linux Kernel - mentee stipend payment 1 of 2"
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
