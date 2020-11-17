@@ -52,7 +52,7 @@ b\) For Projects, choose category applicable to your expense.
 
 9. After you add the expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
 
-![](../.gitbook/assets/submit.png)
+![Submit Report](../.gitbook/assets/submit-report.png)
 
  
 
