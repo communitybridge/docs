@@ -22,7 +22,7 @@ And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/new-expense.png)
 
-6. Create a new expense by completing the fields as follows and click **Save**.  
+6. Create a new expense by completing the fields as follows:  
      **Merchant:** Your name  
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
