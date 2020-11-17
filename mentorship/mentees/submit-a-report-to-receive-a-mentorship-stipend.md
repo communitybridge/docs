@@ -24,7 +24,7 @@ And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/new-expense.png)
 
-7. Create a new expense by completing the fields as follows:  
+6. Create a new expense by completing the fields as follows:  
      **Merchant:** Your name  
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
@@ -33,14 +33,14 @@ And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-8. **US Residents:** Click **Save**.  
- **International Mentees \(non-U.S.\):** please add “International” next to your name. The Linux    Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. 
+7. Mentees residing in the US: Click **Save**.  
+**International Mentees \(non-U.S.\):** please add “International” next to your name and click **Save.** The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. 
 
-NOTE: Please In case you need to update your bank information Then click **Save.** 
+NOTE: In case you need to update your bank information, please use the wire transfer form below, add "updated" to the title, and attach it with your recept. 
 
 {% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
-9. You will be redirected to the Report page. Click **Submit** from the top left corner.
+After you're redirected to the Reports page, click **Submit** from the top left corner.
 
 {% hint style="info" %}
 If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
@@ -49,6 +49,6 @@ If you reside in the United States, add a U.S. bank deposit account to Expensify
 ![](../../.gitbook/assets/add-us-bank-account.png)
 
 {% hint style="warning" %}
-**NOTE:** It may take up to 45 business days for the funds to be processed and released by a bank outside the United States. 
+**NOTE:** It may take up to 45 business days for the funds to be processed via wire-transfer and released by a bank outside the United States. 
 {% endhint %}
 
