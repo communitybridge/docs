@@ -32,7 +32,7 @@ After receiving a successful performance evaluation, all mentees are required to
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
 8. **US Residents:** Click **Save**.  
-    **International Mentees \(non-U.S.\):** please add “International” next to your name. The Linux    Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. 
+ **International Mentees \(non-U.S.\):** please add “International” next to your name. The Linux    Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. 
 
 NOTE: Please In case you need to update your bank information Then click **Save.** 
 
@@ -40,7 +40,7 @@ NOTE: Please In case you need to update your bank information Then click **Save.
 
 9. You will be redirected to the Report page. Click **Submit** from the top left corner.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
 {% endhint %}
 
