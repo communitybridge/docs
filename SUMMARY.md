@@ -154,7 +154,7 @@
     * [View Status of your Application](mentorship/mentees/view-status-of-your-application.md)
     * [Manage Your Tasks](mentorship/mentees/manage-your-task.md)
     * [Manage Your Mentorship Profile](mentorship/mentees/manage-your-mentorship-profile.md)
-    * [Submit a Report to Receive Mentorship Stipend](mentorship/mentees/submit-a-report-to-receive-a-mentorship-stipend.md)
+    * [Submit Expensify Report to Receive Mentorship Stipend](mentorship/mentees/submit-a-report-to-receive-a-mentorship-stipend.md)
   * [Mentors](mentorship/mentors/README.md)
     * [Become a Mentor](mentorship/mentors/create-a-mentor-profile/README.md)
       * [Request to be Added to a Program](mentorship/mentors/create-a-mentor-profile/request-to-be-added-to-a-program.md)
