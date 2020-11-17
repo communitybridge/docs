@@ -6,14 +6,18 @@ After receiving a successful performance evaluation, all mentees are required to
 
 2. Under your account, select **Reports** tab.
 
-![](../../.gitbook/assets/expensify-reports-tab.png)
+![](../../.gitbook/assets/reports.png)
 
 3. On **Reports** page, select **New Report** located in the top-right corner of your screen.
 
-4. A report name with a report ID is auto-generated based on your profile information.  
-**Note:** Update the ****report name to "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 2"
+![](../../.gitbook/assets/new-report.png)
 
-5. Click ![](../../.gitbook/assets/plus-icon.png) to add expense to report.
+4. A report name with a report ID is auto-generated.  
+**Note:** Update the ****report name to "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 2" 
+
+![](../../.gitbook/assets/submit-report.png)
+
+5. Click **Add Expenses** CTA to add expense to report.
 
 6. On Add Expense To Report window, click **New Expense**.
 
