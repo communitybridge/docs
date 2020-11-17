@@ -12,7 +12,7 @@ After receiving a successful performance evaluation, all mentees are required to
 
 ![](../../.gitbook/assets/new-report.png)
 
-4. Update auto-generated the ****report name to: "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 2"
+4. Update auto-generated report name to: "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 2"
 
 5. Select **Add Expenses** to create and add  a new expense.
 
