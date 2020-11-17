@@ -23,18 +23,18 @@ a\) For events and travel funds: enter the name and year of the event, for examp
 
 ![](../.gitbook/assets/add-expenses.png)
 
-5. Click **Add Expenses** CTA to add expenses to report.   
+5. Select **Add Expenses** to add expenses to report.   
 
 ![](../.gitbook/assets/new-expense.png)
 
-7. On the **New Expense** screen upload your receipt and provide the following details:  
+6. On the **New Expense** screen upload your receipt and provide the following details:  
 **Merchant:** Name of the Merchant.  
 **Date:** Date of Purchase  
 **Total:** Total amount in USD$  
 **Category:**   
-a\) For Events and Travel Funds, choose a category—Accommodation, Airfare, Ground Transportation, Other.‌
+For Events and Travel Funds, choose a category—Accommodation, Airfare, Ground Transportation, Other.‌ For Projects, choose category applicable to your expense.
 
-b\) For Projects, choose category applicable to your expense.
+7. Click **Save** and repeat Step 6 to add additional expenses.
 
 ![](../.gitbook/assets/create-an-expense.png)
 
@@ -44,9 +44,7 @@ b\) For Projects, choose category applicable to your expense.
 
 {% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
-8. Click **Save** and repeat Step 7 to add additional expenses.
-
-9. After you add all the expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
+8. After you add all the expenses that are eligible for reimbursement, click **Submit** located in the top left corner of the **Reports** tab.
 
 ![Submit Report](../.gitbook/assets/submit-report.png)
 
