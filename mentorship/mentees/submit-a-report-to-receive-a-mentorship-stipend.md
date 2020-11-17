@@ -4,30 +4,32 @@ After receiving a successful performance evaluation, all mentees are required to
 
 1. To create and submit an **Expensify Report,** login to [Expensify](%20https://www.expensify.com). Ensure that you use the same email address that you used to set up your account in Expensify.
 
-2. Select **Reports** tab from the sidebar menu.
+2. Select **Reports** from the sidebar menu.
 
 ![](../../.gitbook/assets/reports.png)
 
-3. On **Reports** page, select **New Report** located in the top-right corner of the screen.
+3. On **Reports** screen, select **New Report** located in the top-right corner of the screen.
 
 ![](../../.gitbook/assets/new-report.png)
 
-4. Update auto-generated report name to: "_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_  for example  "Jane Brown - mentee stipend payment 1 of 2"
+4. Update auto-generated report name to:
 
-5. Select **Add Expenses** to create and add  a new expense.
+"_your name -_ mentee stipend payment &lt;_number&gt;_ of _&lt;number&gt;",_                                                    for example  "Jane Brown - mentee stipend payment 1 of 2"
+
+And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/add-expenses.png)
 
-6. Select **New Expenses** to create a new expense and
+5. Select **New Expenses** to create a new expense.
 
 ![](../../.gitbook/assets/new-expense.png)
 
-7. Create a new expense by completing the following fields:  
+7. Create a new expense by completing the fields as follows:  
      **Merchant:** Your name  
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** Amount of your stipend payment for each evaluation period   
      **Category:** Select **Mentorship** from the dropdown list  
-     **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;,     for example "Linux Kernel - mentee stipend payment 1 of 2"
+     **Description:** Name of your mentorship - mentee stipend payment &lt;number&gt; of &lt;number&gt;                .    for example "Linux Kernel - mentee stipend payment 1 of 2"
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
