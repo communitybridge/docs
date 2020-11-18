@@ -194,7 +194,7 @@
         * [EasyCLA is Disabled](communitybridge/easycla/getting-started/cla-troubleshooting/easycla-is-disabled.md)
       * [EasyCLA FAQs](communitybridge/easycla/getting-started/easycla-faqs.md)
     * [Project Managers](communitybridge/easycla/project-managers/README.md)
-      * [Sign in to Project Console](communitybridge/easycla/project-managers/sign-in-to-project-console.md)
+      * [Sign in to Project Control Center](communitybridge/easycla/project-managers/sign-in-to-project-control-center.md)
       * [View CLA Details](communitybridge/easycla/project-managers/view-cla-details.md)
       * [Create New CLA Group](communitybridge/easycla/project-managers/create-new-cla-group.md)
       * [Add or Remove a Project from CLA Group](communitybridge/easycla/project-managers/add-or-remove-a-project-from-cla-group.md)

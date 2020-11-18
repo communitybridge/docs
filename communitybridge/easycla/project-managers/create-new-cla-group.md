@@ -8,7 +8,7 @@ A CLA group defines:
 
 As a project manager, you use the CLA Project Console to add and name a CLA group for your project.
 
-1. [Sign in](sign-in-to-project-console.md).
+1. [Sign in](sign-in-to-project-control-center.md).
 
 2. Click a project or project group for which you want to create a CLA group.
 

@@ -4,7 +4,7 @@ You can view details, such as user signatures, companies, CLA managers, and so o
 
 **Do these steps:**
 
-1. [Sign in](sign-in-to-project-console.md).
+1. [Sign in](sign-in-to-project-control-center.md).
 2. Click a **project** of interest.
 
    The project page appears.

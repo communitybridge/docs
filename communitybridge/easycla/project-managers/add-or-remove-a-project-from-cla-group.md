@@ -2,7 +2,7 @@
 
 You can add new projects to a CLA group to let contributors sign and contribute to the projects or remove projects from a CLA group..
 
-1. [Sign in](sign-in-to-project-console.md).
+1. [Sign in](sign-in-to-project-control-center.md).
 
 2. Click a project, and navigate to **Tools &gt; CLA**.
 

@@ -2,7 +2,7 @@
 
 #### To view CLA details of a project:
 
-1. [Sign in](sign-in-to-project-console.md).
+1. [Sign in](sign-in-to-project-control-center.md).
 
 2. Click a **project name** of interest.
 

@@ -14,7 +14,7 @@ After you successfully add/connect Git organizations, you can:
 
 ### Add GitHub Organization:
 
-1. [Sign in](../sign-in-to-project-console.md).
+1. [Sign in](../sign-in-to-project-control-center.md).
 
 2.Click a **project** of interest.  
 The project page appears.

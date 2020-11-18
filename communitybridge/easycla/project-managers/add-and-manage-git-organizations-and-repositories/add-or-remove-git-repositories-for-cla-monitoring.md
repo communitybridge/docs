@@ -2,7 +2,7 @@
 
 Before you enable GitHub repositories for CLA monitoring or remove them from CLA monitoring, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
 
-1. [Sign in](../sign-in-to-project-console.md).
+1. [Sign in](../sign-in-to-project-control-center.md).
 
 2.Click a **project** of interest.
 
