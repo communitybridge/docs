@@ -22,7 +22,7 @@ Source Control configuration page appears.
 
 1. Under GitHub, select the connected/added organization for which you want to manage repositories.
 
-2. Turn on or Turn off the toggle key next to a repository to enforce or remove from CLA monitoring.
+2. Select or deselect the check box next to a repository to enforce or remove from CLA monitoring for the repository .
 
 3. Turn on or Turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time.
 

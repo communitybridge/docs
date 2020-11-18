@@ -41,11 +41,13 @@ Source Control configuration page appears.
 
 ![Install GitHub EasyCLA App](../../../../.gitbook/assets/install-github-easycla-app.png)
 
-7. Sign in to GitHub if sign in window appears, and click **Configure**.
+7. Sign in to GitHub if sign in window appears, and click **Install**.
 
 ![](../../../../.gitbook/assets/configure-cla-for-github-organization.png)
 
 8. Select the organization that you want to enroll for CLA monitoring.
+
+9. Select repositories, and click **Install**.
 
 ![Select GitHub Organization](../../../../.gitbook/assets/select-github-organization.png)
 
