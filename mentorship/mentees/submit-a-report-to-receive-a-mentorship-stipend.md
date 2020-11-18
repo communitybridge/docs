@@ -29,16 +29,18 @@ And select **Add Expenses** to create and add  a new expense.
      **Category:** Select **Mentorship** from the dropdown list  
      **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
 
-![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
+NOTE. **International Mentees** \(not residing in the US\): please add “International” next to your name before you click **Save.** The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. 
 
-NOTE. **International Mentees** \(not residing in the US\): please add “International” next to your name before you click **Save.** The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment. In case you need to update your bank information, please use the wire transfer form below, add "updated" to the title, and attach it with your recept. 
+In case you need to update your bank information, please download and use the wire transfer form below, add "updated" to the title, and attach it with your recept. 
+
+![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
 {% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
 
 After you're redirected to the Reports page, click **Submit** from the top left corner.
 
 {% hint style="info" %}
-If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Personal Bank Accounts** as shown below.
+If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Bank Accounts** as shown below.
 {% endhint %}
 
 ![](../../.gitbook/assets/add-us-bank-account.png)
