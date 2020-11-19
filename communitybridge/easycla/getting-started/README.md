@@ -1,12 +1,12 @@
 # Getting Started
 
-## What is EasyCLA? <a id="what-is-easycla"></a>
+## What is LFX EasyCLA? <a id="what-is-easycla"></a>
 
-_EasyCLA_ helps maintainers of open source projects streamline their workflows, reduce the hassle of managing Contributor License Agreements \(CLAs\) and authorizing contributors. By automating many of the manual processes, this open source solution hosted by the Linux Foundation reduces delays for developers to get authorized under a CLA.
+_LFX EasyCLA_ helps maintainers of open source projects streamline their workflows, reduce the hassle of managing Contributor License Agreements \(CLAs\) and authorizing contributors. By automating many of the manual processes, this open source solution hosted by the Linux Foundation reduces delays for developers to get authorized under a CLA.
 
 ## What is a CLA? <a id="what-is-a-cla"></a>
 
-A _Contributor License Agreement_ \(CLA\) defines the terms under which intellectual property is contributed to a company or project. Typically, the intellectual property is software under an open source license. EasyCLA helps to ensure that contributions are not pulled into a project unless a CLA covering the contributor has been signed. CLAs typically fall into one of two categories:
+A _Contributor License Agreement_ \(CLA\) defines the terms under which intellectual property is contributed to a company or project. Typically, the intellectual property is software under an open source license. LFX EasyCLA helps to ensure that contributions are not pulled into a project unless a CLA covering the contributor has been signed. CLAs typically fall into one of two categories:
 
 * **Corporate Contributor License Agreement \(CCLA\)**
 
@@ -28,54 +28,35 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 * [Project Manager](./#project-manager)
 * [Contributor](./#contributor)
-* [Corporate CLA \(CCLA\) manager](./#corporate-cla-manager)
-* [Corporate CLA \(CCLA\) manager designee](./#corporate-cla-manager-designee)
-* [Corporate CLA \(CCLA\) signatory](./#corporate-cla-signatory-1)
+* [CLA Manager](./#cla-manager)
+* [CLA Manager Designee](./#cla-manager-designee)
+* [CLA Signatory](./#corporate-cla-signatory)
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console on admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation**.** You can perform the following activities ****within the EasyCLA service:
-
-1. [Add a New CLA Group](../project-managers/create-new-cla-group.md)
-2. [Add or Remove Project from CLA Group](../project-managers/add-or-remove-a-project-from-cla-group.md)
-3. [Add](../project-managers/add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](../project-managers/add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
-4. [Add](../project-managers/add-and-manage-git-organizations-and-repositories/#add-gerrit-organization) or [Disassociate](../project-managers/add-and-manage-git-organizations-and-repositories/#disassociate-gerrit-organization) Gerrit Organization 
-5. [Add GitHub repositories](../project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md) to enforce CLA monitoring
-6. [Uninstall the EasyCLA Application](../project-managers/uninstall-the-easycla-application.md)
-
-At any time, you can do other management tasks:
-
-* [View Signed CLA Documents](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
-* [View Signed Individual CLAs \(ICLAs\)](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-signed-individual-clas-iclas)
-* [View Signed Corporate CLAs \(CCLAs\)](../project-managers/view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
-* [View Connection Status of Git Organizations and Repositories](../project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
+You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console on admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation, and perform project related activities. ****For details, see [Project Managers](../project-managers/).
 
 ### Contributor <a id="contributor"></a>
 
-You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
+You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With LFX EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual. As [individual](../contributors/individual-contributor.md) and [corporate contributors](../contributors/corporate-contributor.md), you use LFX contributor console to you sign CLA or confirm your association with company before you can contribute code.
 
-* **Corporate** **Contributor \(GitHub\):** [confirm your association with a company](../contributors/corporate-contributor.md#github) that has a signed Corporate Contributor License Agreement.
-* **Individual** **Contributor \(GitHub\):** [sign an Individual Contributor License Agreement](../contributors/individual-contributor.md#github).
-* **Corporate** **Contributor \(Gerrit\):** [confirm your association with a company](../contributors/corporate-contributor.md#gerrit) that has a signed Corporate Contributor License Agreement.
-* **Individual Contributor \(Gerrit\):** [sign an Individual Contributor License Agreement](../contributors/individual-contributor.md#gerrit).
+### CLA Manager
 
-### Corporate CLA Manager <a id="corporate-cla-manager"></a>
-
-You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. With this responsibility, you use EasyCLA to:
+You are a CLA Manager or _Corporate CLA manager_ \(CCLA manager\) if you are authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. You use LFX Company Dashboard to:
 
 * [Add Contributors to Approved List](../cla-managers/add-and-manage-contributors.md)
 * [Add or Delete CLA Managers](../cla-managers/add-or-delete-cla-managers.md)
 
-### Corporate CLA Manager Designee
+### CLA Manager Designee
 
-You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA managers for a company, and you are the first person to sign a CLA for a project.
+You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA managers for a company, and you are the first person to sign a CLA for a project. You use LFX Company Dashboard to sign CLA. For details, see [CLA Manager Designee or Initial CLA Manager](../cla-manager-designee-or-initial-cla-manager/).
 
 You become a CLA manager designee:
 
+* When you receive an email informing you that you are identified as a CLA manager for a project. You must have an LF ID to sign the CLA.
 * When you are authorized to [sign CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md) for a company as an initial CLA manager. After you sign CLA, you become [CLA manager](../cla-managers/). 
-* When you receive an email informing you that you are identified as a CLA manager for a project. You [sign the CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-from-invitation.md), and become CLA manager. You must have an LF ID to sign the CLA.
 
-### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
+### CLA Signatory <a id="corporate-cla-signatory"></a>
 
-You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as [review and sign the project’s CLA on behalf of the company](../cla-signatories/review-and-sign-a-corporate-cla-by-request.md). As a signatory, you must have legal authority to sign documents on behalf of the company. 
+A _Corporate CLA signatory_ \(CCLA signatory\) is a person with legal authority to sign documents on behalf of the company. If you are authorized and receive an email notification to sign contracts, then [review and sign the project’s CLA on behalf of the company](../cla-signatories/review-and-sign-a-corporate-cla-by-request.md).
 
