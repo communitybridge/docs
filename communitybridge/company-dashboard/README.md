@@ -8,7 +8,7 @@ The Linux Foundation provides a platform for corporate members to view Corporate
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
-* [Organization Profile](manage-your-organization.md)
+* [Organization Profile](organization-profile.md)
 
 ## What Role are You? \(Should we mention about other roles, like Company Owner, Company Admin, and so on\) <a id="what-role-are-you"></a>
 

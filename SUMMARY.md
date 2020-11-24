@@ -221,7 +221,7 @@
       * [Sign CLA for a Project](communitybridge/company-dashboard/projects/sign-cla-for-a-project.md)
       * [Add or Delete a CLA Manager](communitybridge/company-dashboard/projects/add-or-delete-a-cla-manager.md)
       * [Add and Manage a Contributor](communitybridge/company-dashboard/projects/add-and-manage-a-contributor.md)
-    * [Manage Your Organization](communitybridge/company-dashboard/manage-your-organization.md)
+    * [Organization Profile](communitybridge/company-dashboard/organization-profile.md)
     * [Manage your Profile](communitybridge/company-dashboard/manage-your-profile.md)
     * [FAQs](communitybridge/company-dashboard/faqs.md)
 * [Training and Certification](training-and-certification.md)
