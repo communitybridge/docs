@@ -1,8 +1,21 @@
 # Organization Profile
 
-Only organization administrators can edit and update organization information. Organization Profile displays the following sections:
+Only organization administrators can edit and update organization information. Individuals are entitled as organization administrators if they are:
 
-### Organization Profile header
+* Added by another administrator
+* CLA managers of the organization
+* Primary contacts for an organization
+
+Organization Profile displays the following sections:
+
+* [Organization Profile Header](organization-profile.md#organization-profile-header)
+* [Addresses](organization-profile.md#addresses)
+* [Organization Account Administrators](organization-profile.md#organization-account-administrators)
+* [Team Member Roles - Services](organization-profile.md#team-member-roles-services-1)
+* [Team Contacts - Membership](organization-profile.md#team-contacts-membership)
+* [Team Member Roles - Committee](organization-profile.md#team-member-roles-services-1)
+
+### Organization Profile Header
 
 This section shows organization name, logo, primary address, and last updated time and date.
 
@@ -42,7 +55,16 @@ Only Organization administrators can add and/or edit an address.
 
 ### Organization Account Administrators
 
-This section shows a 
+This section shows details about organization administrators:
+
+* **Name** shows the name, email address, and image of the administrator. _**ID Not Verified**_  ****is displayed if the administrator does not have an LF SSO account. After the individual creates and verifies SSO account, the status is removed.
+* **Appointed By** shows how the individual is entitled the role of administrator.
+* **Manage** \(only for administrators\) lets administrators unassign the role for an individual. _**Unassign**_ is not displayed if there is only one administrator for an organization.
+* **Assign** \(only for administrators\) lets administrators [assign](organization-profile.md#to-assign-organization-administrator) the administrator role to individuals.
+
+#### To Assign Organization Administrator:
+
+
 
 ### Team Member Roles - Services
 
