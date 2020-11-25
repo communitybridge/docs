@@ -17,15 +17,17 @@ You can also enable or disable scanning for all repositories by toggle of **Scan
 
 ![Enable Scan Repository](../.gitbook/assets/scan_repo.png)
 
-4.Under Scan Dev Dependencies tab, toggle 
+4.Under **Scan Dev Dependencies** tab, toggle scan button to enable or disable dev dependency scan.
 
-3.Under **Last** **Scan Results** tab, click **View details** to ****investigate a repository's scanned file.
+![Dev Dependency Scan](../.gitbook/assets/dev_depn.png)
+
+ 3.Under **Last** **Scan Results** tab, click **View details** to ****investigate a repository's scanned file.
 
 {% hint style="info" %}
 The **View Details** link is enabled if there are errors during the repository's scan.
 {% endhint %}
 
-![View Details](../.gitbook/assets/1%20%281%29.png)
+![Last Scan Details ](../.gitbook/assets/view_results.png)
 
 5.You can also see the open issues related to the repository under **Open Issues** tab.
 
