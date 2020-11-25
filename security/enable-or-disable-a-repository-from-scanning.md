@@ -17,11 +17,11 @@ You can also enable or disable scanning for all repositories by toggle of **Scan
 
 ![Enable Scan Repository](../.gitbook/assets/scan_repo.png)
 
-4.Under **Scan Dev Dependencies** tab, toggle scan button to enable or disable dev dependency scan.
+3.Under **Scan Dev Dependencies** tab, toggle scan button to enable or disable dev dependency scan.
 
 ![Dev Dependency Scan](../.gitbook/assets/dev_depn.png)
 
- 3.Under **Last** **Scan Results** tab, click **View details** to ****investigate a repository's scanned file.
+ 4.Under **Last** **Scan Results** tab, click **View details** to ****investigate a repository's scanned file.
 
 {% hint style="info" %}
 The **View Details** link is enabled if there are errors during the repository's scan.
@@ -33,11 +33,11 @@ The **View Details** link is enabled if there are errors during the repository's
 
 ![Open Issues](../.gitbook/assets/open_issues.png)
 
-6.You can also click on the **Total Connected/Not Connected** repositories that are connected to the Github org.  This will provide the details of the repositories that are connected or not connected.  
+6.You can also click on the **Total Connected/Not Connected** repositories that are connected to the GitHub org.  This will provide the details of the repositories that are connected or not connected.  
 
 This provides the status of repositories within the GitHub Org, if the repositories are accessible or not.
 
-![Github List](../.gitbook/assets/git.png)
+![GitHub List](../.gitbook/assets/github_list.png)
 
 
 
