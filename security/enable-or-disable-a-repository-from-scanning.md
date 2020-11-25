@@ -7,15 +7,17 @@ You can enable or disable scanning for a repository to refine scanning report of
 1.Select **Settings** from the menu.  
 All repositories of the project are listed in alphabetical order. 
 
-![Settings](../.gitbook/assets/3%20%281%29.png)
+![Settings](../.gitbook/assets/new_settings.png)
 
-2.Toggle the **Enable Scan** button to enable or disable a repository from scanning. 
+2.Under **Scan Repositories** tab, toggle **scan** button to enable or disable a repository from scanning. 
 
 {% hint style="info" %}
-You can also enable or disable scanning for all repositories by toggle of **Scan**. 
+You can also enable or disable scanning for all repositories by toggle of **Scan Repositories**. 
 {% endhint %}
 
-![Enable Scan](../.gitbook/assets/2%20%281%29.png)
+![Enable Scan Repository](../.gitbook/assets/scan_repo.png)
+
+4.Under Scan Dev Dependencies tab, toggle 
 
 3.Under **Last** **Scan Results** tab, click **View details** to ****investigate a repository's scanned file.
 
