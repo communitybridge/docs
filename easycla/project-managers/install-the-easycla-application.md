@@ -11,7 +11,7 @@ The EasyCLA Application installation process connects GitHub to the CLA Manageme
 3. Click **CONNECT GITHUB ORGANIZATION**.  
 The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
 
-Connecting your GitHub organization will let you enable EasyCLA checks on that organization. If you already have a CLA process in place, go to [https://cloud.email.thelinuxfoundation.org/EasyCLA](https://cloud.email.thelinuxfoundation.org/EasyCLA) and file a ticket to describe your particular needs, and import your existing CLAs.
+Connecting your GitHub organization will let you enable EasyCLA checks on that organization. If you already have a CLA process in place, go to the [Linux Foundation Support Center](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143), fill the form, and click **Create** to file a ticket to describe your particular needs, and import your existing CLAs.
 
 4. Enter your organization name in the GitHub Organization URL field. The URL automatically appends the name. Click **CONNECT**.
 
