@@ -4,7 +4,7 @@ Only organization administrators can edit and update organization information. I
 
 * Added by another administrator
 * CLA managers of the organization
-* Primary contacts for an organization
+* Primary contacts for the organization
 
 Organization Profile displays the following sections:
 
