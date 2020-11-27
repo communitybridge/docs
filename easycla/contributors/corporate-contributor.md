@@ -121,7 +121,7 @@ If your company has not signed CLA, Verify Your Permission window appears. To pr
 
 1. Click an answer: Are You a CLA Manager?
 
-   **YES**— You will be redirected to [t](https://corporate.v1.easycla.lfx.linuxfoundation.org/)he [CLA Corporate Console](https://corporate.v1.easycla.lfx.linuxfoundation.org/) to [sign a CLA](../cla-manager/sign-a-corporate-cla-for-company.md).
+   **YES**— You will be redirected to the [CLA Corporate Console](https://corporate.v1.easycla.lfx.linuxfoundation.org/) to [sign a CLA](../cla-manager/sign-a-corporate-cla-for-company.md).
 
    **NO**— A **Request Access** form appears. Continue to next step.  
     ![](../../.gitbook/assets/request-access.png) 
