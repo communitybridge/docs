@@ -20,17 +20,7 @@ Following are the core goals of the Mentorship program:
 
 ## **Program Structure**
 
-The Mentorship program is a 12-week full-time or 24-week part-time training program. There will be a time period for prerequisite tasks completion, skill evaluation, review and selection process prior to starting of actual training.
+The Mentorship program is a three months, 12-week full-time or six months, 24-week part-time training program.  As a mentor, you will be associated with the mentees throughout the program, starting from application process to graduation time.
 
-1. Mentee prerequisite and skill evaluation process - 2 weeks \(not applicable to all projects\)
-2. Mentee application process - 6 weeks
-3. Review and selection process - 2 weeks
-4. Mentee contract and HR process - 2 weeks
-5. Mentorship full-time program - 12 weeks \(40 hrs/week\)
-6. Mentorship part-time program - 24 weeks \(20 hrs/week\)
-7. Mentees write and publish blogs about their experience and the project they completed.
-8. Mentees get digital Certificate of Completion
-9. Attending an event: a project event scheduled during/after the mentorship program
-
-As a mentor, you will be associated with the mentees throughout the program, starting from application process to graduation time.
+Please see [Program Schedule & Timeline](../sample-mentorship-program-timelines.md) for more details. 
 
