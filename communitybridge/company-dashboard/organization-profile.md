@@ -1,10 +1,10 @@
 # Organization Profile
 
-Only organization administrators can edit and update organization information. Individuals are entitled as organization administrators if they are:
+Only organization administrators can edit and update organization information. You are entitled as organization administrators if your are:
 
 * Added by another administrator
-* CLA managers of the organization
-* Primary contacts for the organization
+* CLA manager of the organization
+* Primary contact for the organization
 
 Organization Profile displays the following sections:
 
@@ -67,6 +67,39 @@ This section shows details about organization administrators:
 
 
 ### Team Member Roles - Services
+
+This section shows different roles assigned to the members of the organization. As an administrator, you must add roles for team members of the company after company account is created. CLA roles are displayed automatically as per the organization profile information, and you cannot edit and delete CLA roles.
+
+* **Name** displays the name and email id of the individual.
+* **Role** displays the role of the individual for a project or project group. An individual can have more than one role for a project or project group.
+* **Project Group** displays the name of the project group under which the individual is assigned the role.
+* **Projects** displays the name of the project for which the individual is assigned the role under the project group.
+* **Manage** \(only for Administrators\) lets you [edit or delete](organization-profile.md#edit-a-team-member-role) a role. You cannot edit or delete a CLA role.
+* **Add Team Members** \(only for Administrators\) lets you [add](organization-profile.md#add-a-team-member) a team member.
+
+![Team Member Roles - Services](../../.gitbook/assets/team-member-roles-services.png)
+
+#### Add a Team Member:
+
+As a project administrator:
+
+1. Click **Add Team Member**.
+
+ 2. Type full name in the Search user field, and click the name from the drop-down list or enter first name, last name, and email address of the user in the respective fields of Enter User Details.
+
+3. Select the role, project group and project from the drop-down lists to assign to the user.
+
+4. Click **+Add Role** to assign multiple roles to the user for multiple projects.
+
+5. Click **Save**.
+
+![Add Team Member](../../.gitbook/assets/add-team-member.png)
+
+#### Edit a Team Member Role
+
+To edit a role, click the pencil icon ![](../../.gitbook/assets/edit-cta.png) next to a user. Make updates, and click **Save**.
+
+Click ![](../../.gitbook/assets/delete.png) next to a user to delete the role.
 
 ### Team Contacts - Membership
 

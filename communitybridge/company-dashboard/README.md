@@ -4,7 +4,7 @@
 **Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage company dashboard based on their roles for a project.
 {% endhint %}
 
-The Linux Foundation provides a platform for corporate members to view Corporate License Agreement \(CLA\) details for corporates, and to sign CLA for an organization. You can also manage other roles and activities based on your role in relation to a project. After you [sign in](../../sso/sign-in/) to [LFX Company Dashboard](https://lfx.platform.linuxfoundation.org/), you can view the following dashboards:
+The Linux Foundation provides a platform for corporate members to view Corporate License Agreement \(CLA\) details for corporates, and to sign CLA for an organization. You can also manage other roles and activities based on your role in relation to a project. After you [sign in](../../sso/sign-in/) to LFX Company Dashboard, you can view the following dashboards:
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
@@ -20,9 +20,9 @@ How you interact with corporate console depends on your role. Corporate Console 
 
 ### Contributor <a id="contributor"></a>
 
-You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. You can view your and company details after you sign in to corporate console.
+You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. You can view company details after you sign in to corporate console.
 
-While signing CLA for a company from GitHub or Gerrit workflow, you are navigated to corporate console to sign CLA. You become the initial CLA manager, also called CLA manager designee, and sign CLA after which you become the CLA manager for your company or you can designate someone else to sign CLA for your company. See [CLA Manager Designee / Initial CLA Manager](../easycla/cla-manager-designee-or-initial-cla-manager/) and [CLA Managers](../easycla/cla-managers/) for details about their roles.
+While signing CLA for a company from GitHub or Gerrit workflow, you are navigated to corporate console to sign CLA. You become the initial CLA manager, also called CLA manager designee, and sign CLA for your company or designate someone else to sign CLA on behalf of the company. After CLA is signed, you become the CLA manager for your company. See [CLA Manager Designee / Initial CLA Manager](../easycla/cla-manager-designee-or-initial-cla-manager/) and [CLA Managers](../easycla/cla-managers/) for details about their roles.
 
 ### Corporate CLA Manager Designee
 
