@@ -1,28 +1,40 @@
-# Sample Timelines
+# Program Schedule & Timelines
 
-As a project administrator you can use these sample timelines to set up your Mentorship program.
+The Linux Foundation Mentorship Program will follow the following term schedule in 2021. 
 
-Mentees and mentors can use these phases and timelines to gain an understanding of the work and effort that may be required to participate in a Mentorship program.
+**Full-Time Terms:**
 
-### Suggested Mentorship Program Timeline 
+**Spring Term: March 1st - May 31st** 
 
-**Note:** Phases may overlap.
+* mentorships available on LFX Mentorship: Jan 15th, 2021
+* applications open: Jan 15th - Feb 12th \(4 weeks\)
+* application review/admission decisions/HR paperwork: Feb 15th - Feb 26th 
 
-1. Participating open source project communities submit program proposals:
-   * Call for proposals to participating project communities - 2-3 weeks
-   * Selected programs enrollment on Mentorship platform - 1 week
-   * Mentors invitations/sign-up - 2 weeks
-2. Mentee Application Acceptance and Review:
-   * Mentee application acceptance phase - 2-6 weeks
-   * Mentee application review and selection process - 2- 4 weeks
-   * Mentee acceptance paperwork phase - 2 weeks
-3. Mentorship duration - 12 weeks \(full-time schedule\)
+**Summer Term: June 1st - August  31st**
+
+* mentorships available on LFX Mentorship: April 15th, 2021
+* applications open: April 15th - May 14th \(4 weeks\)
+* application review/admission decisions/HR paperwork: May 17th - May 31st
+
+**Fall Term: September 1st - Nov 30th**
+
+* mentorships available on LFX Mentorship: July 15th, 2021
+* applications open: July 15th - August 12th \(4 weeks\)
+* application review/admission decisions/HR paperwork: August 12th - August 31st
+
+{% hint style="info" %}
+Part-time terms will start on the same schedule and last six versus three months.
+{% endhint %}
+
+**Activity Timelines** 
+
+1. Mentorship duration - 12 weeks \(full-time schedule\)
    * Week 1: Mentorship program begins with the initial work assignments
    * End of Week 3: First mentee evaluations due 
    * End of Week 6: Midterm mentee evaluations due and first stipend payment approvals
    * End of Week 9: Third mentee evaluations due 
    * End of Week 12: Final mentee evaluations and mentee blog submission due, second and final stipend payment approvals  
-4. Mentorship duration - 24 weeks \(part-time schedule\)
+2. Mentorship duration - 24 weeks \(part-time schedule\)
    * Week 1: Mentorship program begins with the initial work assignments
    * End of Week 6: First mentee evaluations due 
    * End of Week 12: Midterm mentee evaluations due and first stipend payment approvals
