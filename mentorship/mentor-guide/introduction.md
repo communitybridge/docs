@@ -20,7 +20,7 @@ Following are the core goals of the Mentorship program:
 
 ## **Program Structure**
 
-The Mentorship program is a three months, 12-week full-time or six months, 24-week part-time training program.  As a mentor, you will be associated with the mentees throughout the program, starting from application process to graduation time.
+The Linux Foundation Mentorship program lasts three months 12-weeks for full-time terms, or six months, 24-weeks for part-time terms.  As a mentor, you will be engaged with the mentees throughout the program, starting with the application process.
 
-Please see [Program Schedule & Timeline](../sample-mentorship-program-timelines.md) for more details. 
+Please see [Program Schedule & Timeline](../sample-mentorship-program-timelines.md) for term schedule and activity timeline.  
 
