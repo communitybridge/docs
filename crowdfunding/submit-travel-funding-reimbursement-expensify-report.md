@@ -13,9 +13,8 @@ Consider the following financial aspects of reimbursement:
 {% hint style="info" %}
 Have these items handy before you begin:
 
-* The amount of the travel funding awarded to you
-* Your receipts converted to USD
-* The amount of your approved Travel Fund
+* Your receipts converted to USD 
+* The amount of your approved Travel Fund 
 {% endhint %}
 
 ## Set Up a Reimbursement Account in Expensify <a id="SubmitTravelFundingReimbursementExpenseReport-SetUpaReimbursementAccountinExpensify"></a>
