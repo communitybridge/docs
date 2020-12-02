@@ -11,9 +11,9 @@ Organization Profile displays the following sections:
 * [Organization Profile Header](organization-profile.md#organization-profile-header)
 * [Addresses](organization-profile.md#addresses)
 * [Organization Account Administrators](organization-profile.md#organization-account-administrators)
-* [Team Member Roles - Services](organization-profile.md#team-member-roles-services-1)
+* [Team Member Roles - Services](organization-profile.md#team-member-roles-services)
 * [Team Contacts - Membership](organization-profile.md#team-contacts-membership)
-* [Team Member Roles - Committee](organization-profile.md#team-member-roles-services-1)
+* [Team Member Roles - Committee](organization-profile.md#team-member-roles-committee)
 
 ### Organization Profile Header
 
@@ -66,7 +66,14 @@ This section shows details about organization administrators:
 
 1. Click **Assign**.
 2. Type the name in the Search field, and click the name from search options.
-3. If the name is not dislayed
+3. If the name is not displayed from search, click **User not Found. Enter Details below**.
+4. Enter first name, last name, email address with organization domain, and click **Save**.
+
+![Assign Account Administrator](../../.gitbook/assets/assign-account-admistrator.png)
+
+#### To Unassign Administrator:
+
+Click **Unassign** next to an administrator.
 
 ### Team Member Roles - Services
 
@@ -101,6 +108,8 @@ You cannot edit or delete CLA role\(s\) of a team member.
 
 To edit a role, click the pencil icon ![](../../.gitbook/assets/edit-cta.png) next to a user. Make updates, and click **Save**.
 
+#### Delete a Team Member Role
+
 Click ![](../../.gitbook/assets/delete.png) next to a user to delete the role.
 
 ### Team Contacts - Membership
@@ -113,15 +122,25 @@ This section shows a table that lists contact members of the organization. It di
 
 1. Click **Manage Team Members**.
 
-2. On **Manage Team Contacts - Membership** page, click **Add Contacts**.
+2. On **Manage Team Contacts - Membership** page, click **Add Contact**.
+
+![Add Contact](../../.gitbook/assets/add-contact.png)
 
 3. Select contact type from the drop-down list, provide first name, last name, email address, and click **Save**.
 
-To Edit a Contact
+#### To Set a Contact Type:
 
+Select the check box next to a contact to set contact type for the member.
 
+#### To Delete a Contact:
+
+Click the delete icon ![](../../.gitbook/assets/delete.png) beside a contact to delete.
 
 ### Team Member Roles - Committee
 
-As organization administrator, you can update organization information, add additional administrators, and manage services, memberships and community roles for your organization.
+This section shows a table that lists committees of the organization, associated project or project group name, name and email address of the team member, associated role with the committee, start and end date of the role, and who appointed the role to the member.
+
+The table lets you sort values by project/project group, and committee. Click the filter icon, select values, and click **Apply** to filter the table values.
+
+![Filter Values for Team Member Role- Committee](../../.gitbook/assets/filter-committee.png)
 
