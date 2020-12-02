@@ -52,7 +52,11 @@ A dashboard shows various aspects of the project, and a Vulnerability Report.
 
 3.On a project card of interest, click **View Issues**.
 
-![Cards](../.gitbook/assets/new_card.png)
+![View Issues](../.gitbook/assets/new_card%20%281%29.png)
+
+{% hint style="info" %}
+The **View Scan Report** provides  you the scan details of the repositories and link to access those repositories along with scan error details.
+{% endhint %}
 
 4.The Overview page appears with the details for the selected project. 
 
