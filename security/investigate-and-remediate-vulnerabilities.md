@@ -32,7 +32,7 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 ![Vulnerability Details ](../.gitbook/assets/more.png)
 
-6.You can also  Click a CWE-\# link or CVE-\# link to read a description, references, and so on, about the vulnerability. The [Common Weakness Enumeration website](https://cwe.mitre.org/) or [Common Vulnerabilities and Exposures website](https://cve.mitre.org/) shows an identifier and details for the vulnerability by an identifier.
+6.You can also click a CWE-\# link or CVE-\# link to read a description, references, and so on, about the vulnerability. The [Common Weakness Enumeration website](https://cwe.mitre.org/) or [Common Vulnerabilities and Exposures website](https://cve.mitre.org/) shows an identifier and details for the vulnerability by an identifier.
 
 ![CWE and CVE](../.gitbook/assets/cve.png)
 
