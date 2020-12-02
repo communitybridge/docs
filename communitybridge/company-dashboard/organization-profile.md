@@ -64,7 +64,9 @@ This section shows details about organization administrators:
 
 #### To Assign Organization Administrator:
 
-
+1. Click **Assign**.
+2. Type the name in the Search field, and click the name from search options.
+3. If the name is not dislayed
 
 ### Team Member Roles - Services
 
