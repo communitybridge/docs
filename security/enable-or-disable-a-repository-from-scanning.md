@@ -35,7 +35,7 @@ An error will be displayed when the language used in the repository is not suppo
 
 5.You can also see the open issues related to the repository under **Open Issues** tab.
 
-
+![Open Issues](../.gitbook/assets/oi1.png)
 
 6.You can also click on the **Total Connected/Not Connected** repositories that are connected to the GitHub org.  This will provide the details of the repositories that are connected or not connected.  
 
