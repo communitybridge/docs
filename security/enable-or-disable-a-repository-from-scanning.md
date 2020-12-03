@@ -26,10 +26,12 @@ You can also enable or disable scanning for all repositories by toggle of **Scan
 When the scan of the repository is successful, it is displayed as Successful and if there are any errors, it will be displayed as Error
 
 {% hint style="info" %}
-When the scan of the repository is successful, it is displayed as **Successful** and if there are any errors, it will be displayed as **Error**. 
+The error details for the repository can be checked when you click the ![](../.gitbook/assets/error.png) icon. 
+
+An error will be displayed when the language is not supported by Security scan.
 {% endhint %}
 
-![Last Scan Details ](../.gitbook/assets/view_results.png)
+![Last Scan Results](../.gitbook/assets/last_scan.png)
 
 5.You can also see the open issues related to the repository under **Open Issues** tab.
 
