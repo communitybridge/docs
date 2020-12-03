@@ -27,7 +27,7 @@
   * [View Transactions](my-profile/viewing-the-transactions.md)
   * [View Roles](my-profile/view-roles.md)
 * [Insights](insights/README.md)
-  * [Dashboard Overview](insights/dashboard-overview.md)
+  * [Platform Overview](insights/platform-overview.md)
   * [View Project Dashboard](insights/view-project-dashboard/README.md)
     * [Summary](insights/view-project-dashboard/summary.md)
     * [Source Control](insights/view-project-dashboard/source-control/README.md)

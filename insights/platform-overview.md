@@ -1,20 +1,18 @@
-# Dashboard Overview
+# Platform Overview
 
-Insights dashboard shows project and project group cards, in alphabetical order, that show relevant data associated with the project or project group.
+Insights platform shows project and project group cards, in alphabetical order, that show relevant data associated with the project or project group.
 
 1. Go to [https://insights.lfx.linuxfoundation.org/](https://insights.lfx.linuxfoundation.org/).
-2. Navigate to a project or project group or type the name in the **Search projects** field for quick search.
+2. Navigate to a [project](platform-overview.md#project) or [project group](platform-overview.md#project-group) or type the name in the **Search projects** field for quick search.
 3. Project group card displays stack of individual projects, and an individual project card displays a single card. 
-   * [Project Card](dashboard-overview.md#project-card)
-   * [Project Group Card](dashboard-overview.md#project-group-card)i
-4. To enroll a project on LFX Insights, click **Enroll Project** from the navigation bar to [create](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/341) a support ticket.
+4. To enroll a project to LFX Insights, click **Enroll Project** from the navigation bar to [create](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/341) a support ticket.
 5. To request access to manage contributor affiliations for a project, click **Request To Edit Affiliations** from the navigation bar to [create](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/377) a support ticket.
 
 ![](../.gitbook/assets/landing-page.png)
 
-### Project Card
+### Project
 
-A project is a standalone project maintained by Linux Foundation. Click the project or **Go to Overview** to navigate to the [project summary](view-project-dashboard/summary.md) dashboard.
+A project is a standalone project maintained by Linux Foundation. Click the project name or **Go to Overview** to navigate to the [project summary](view-project-dashboard/summary.md) dashboard.
 
 ![Project Overview](../.gitbook/assets/project-overview.png)
 
@@ -29,7 +27,7 @@ Each project card shows the following information:
 * **Lines of Code** shows total number of lines of code added and modified for the project repository.
 * **Data Sources** shows the logos of different data sources, such as ![](../.gitbook/assets/18088261.png) for GitHub and/or Gerrit, ![](../.gitbook/assets/18088260.png) for Jira, or ![](../.gitbook/assets/18088259.png) for Slack, and so on.
 
-### Project Group Card
+### Project Group
 
 A project group is a group of individual projects. Click the name or click **Go to Projects** to see the overview metrics card and sub-projects under the project group.
 
