@@ -41,6 +41,8 @@ An error will be displayed when the language used in the repository is not suppo
 
 This provides the status of repositories within the GitHub Org, if the repositories are accessible or not.
 
+![GitHub List](../.gitbook/assets/github_repo.png)
+
 
 
 
