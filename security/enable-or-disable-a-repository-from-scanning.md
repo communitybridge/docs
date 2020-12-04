@@ -26,7 +26,7 @@ You can also enable or disable scanning for all repositories by toggle of **Scan
 When the scan of the repository is successful, it is displayed as **Successful** and if there are any errors, it will be displayed as **Error**.
 
 {% hint style="info" %}
-The error details for the repository can be checked when you click the ![](../.gitbook/assets/error.png) icon. 
+The error details for the repository is displayed when you click the ![](../.gitbook/assets/error.png) icon. 
 
 An error will be displayed when the language used in the repository is not supported by Security scan.
 {% endhint %}
