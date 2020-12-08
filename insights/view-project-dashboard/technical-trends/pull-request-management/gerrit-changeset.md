@@ -1,7 +1,7 @@
 # Gerrit Changeset
 
 {% hint style="info" %}
-By default, Bots and Changesets Only are filtered. Dashboard shows data only for number of changesets, not for comments, approvals, and other values. Empty changesets— Changesets that have value as zero— are also filtered. To add/manage filters, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
+By default, Bots and Changesets Only are filtered. Dashboard shows data only for number of changesets, not for comments, approvals, and other values. Empty changesets— Changesets that have value as zero— are also filtered. To add/manage filters, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
 The Gerrit Changesets dashboards represent a set of metrics that shows detailed information about changesets and patchsets per changeset. Following are the various dashboards of Gerrit data source:
@@ -12,9 +12,9 @@ The Gerrit Changesets dashboards represent a set of metrics that shows detailed 
 * [Backlog](gerrit-changeset.md#backlog)
 * [Approvals](gerrit-changeset.md#approvals)
 
-By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
+By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
-Click ![](../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
 
 ## Overview
 
@@ -63,7 +63,7 @@ Efficiency offers a view of efficiency closing reviews based on metrics: Review 
 
 **Review Efficiency Index** shows a multi-line graph that represents the REI. REI is the number of closed reviews divided by the number of open ones in a given period of time. This visualization measures efficiency closing reviews. REI Moving Avg. \(8 weeks\) identifies changes in trends. Average is also shown as a reference. REI values greater than 1 mean the community is closing more reviews than those they are opening. Values smaller than 1 mean the opposite—more reviews open than those closed during a given time frame. Mouse over this graph or **Lead Time** to show a line that displays the date and time at the top of the legend.
 
-![](../../../.gitbook/assets/18088226.png)
+![](../../../../.gitbook/assets/18088226.png)
 
 **Repositories** shows a table that displays the number of days 50th percentile of repository's reviews or changesets are open before they are closed. It gives an insight on the efficiency of closing reviews per repository.
 

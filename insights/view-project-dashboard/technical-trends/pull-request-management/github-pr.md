@@ -1,7 +1,7 @@
 # GitHub PR
 
 {% hint style="info" %}
-By default, Bot commit is filtered. To add/manage filters, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
+By default, Bot commit is filtered. To add/manage filters, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
  The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub PR:
@@ -11,9 +11,9 @@ By default, Bot commit is filtered. To add/manage filters, see [Add and Manage D
 * [Timing](github-pr.md#timing)
 * [Backlog](github-pr.md#backlog)
 
-By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
+By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
-Click ![](../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
 
 ## Overview
 
@@ -49,7 +49,7 @@ Efficiency offers a view of efficiency closing issues based on metrics: Review E
 
 **REI** \(Review Efficiency Index\) shows a multi-line graph that represents the REI. REI is defined as the number of closed pull requests divided by the number of open pull requests in a given period of time. This visualization measures efficiency in closing pull requests. REI as a moving average is set to 8 weeks to identify changes in trends. Average is also shown as a reference. REI values greater than 1 mean the community is closing more pull requests than those they are opening. Values smaller than 1 mean the opposite—more pull requests open than those closed during a given time frame. Mouse over this graph or **Lead Time** to show a line that displays the date and time at the top of the legend.
 
-![](../../../.gitbook/assets/18088229.png)
+![](../../../../.gitbook/assets/18088229.png)
 
 **Time to Merge** shows the time from pull request creation to the moment in which the pull request is closed. The gauge is set to show green color for less than 7 days, yellow for values from 7 to 30 days and red from 30 to 90 days. This setting means that a week is considered as a good time to merge.
 

@@ -27,11 +27,11 @@ Following dashboards are displayed under Technical Trends:
 
 ### **Source Control**
 
-[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../filter-data/select-time-range.md) to view  data for the selected time range.
+[Source Control](source-control/) shows analytic overview of git commits for a selected time range. Default time range is **Last 90 Days**. You can [select a time range](../../filter-data/select-time-range.md) to view  data for the selected time range.
 
 * Clicking **Go To Overview** and **View All** takes you to the respective dashboard of [Commits &gt; Overview](source-control/git.md) page.
 
-![Source Control](../../.gitbook/assets/source-control%20%281%29.png)
+![Source Control](../../../.gitbook/assets/source-control%20%281%29.png)
 
 **Commits** shows the following information:
 
@@ -46,7 +46,7 @@ Following dashboards are displayed under Technical Trends:
 **Top 10 Companies By Commits** shows a doughnut chart that represents ****top ten companies that contribute most to the project.
 
 Mouse over a color in the chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:  
- ![](../../.gitbook/assets/show-and-exclude-company-data.png) 
+ ![](../../../.gitbook/assets/show-and-exclude-company-data.png) 
 
 {% hint style="info" %}
 * **Unknown** as a company name shows number/percentage of codes submitted by those contributors who are not affiliated with any organization.
@@ -65,20 +65,20 @@ Data is not available for a Git data source that is not configured for  Insights
 
 * Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/graph/chart of [Gerrit Changesets &gt; Overview](pull-request-management/gerrit-changeset.md#overview) section.
 
-![Gerrit Dashboard](../../.gitbook/assets/gerrit-dashboard.png)
+![Gerrit Dashboard](../../../.gitbook/assets/gerrit-dashboard.png)
 
 **GitHub** shows total number of pull requests \(both open and closed\), number of open pull requests, average time in hours to merge pull requests, and average time in hours pull requests were open for a selected time range.
 
 * Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/chart/graph of [GitHub PR &gt; Overview](project-management/github-issues.md#overview) section.
 
-![Pull Requests GitHub](../../.gitbook/assets/pull-requests-github.png)
+![Pull Requests GitHub](../../../.gitbook/assets/pull-requests-github.png)
 
 **Top 10 Contributors By PRs** \(for GitHub\) ****or **Top 10 Contributors By Changesets** \(for Gerrit\) ****lists the top ten individuals—that contribute most to the project— by name, total number of pull requests or changestes, and percentage of commits out of the total number of commits by the community.
 
 **Top 10 Companies By PRs** \(for GitHub\) ****or **Top 10 Companies By Changesets** \(for Gerrit\) ****shows a doughnut chart that represents ****top ten companies that contribute most to the project.
 
 * Mouse over a color in the doughnut chart to view company name and number of commits made by the company. 
-* Click a company name to exclude company data. Click again to add the company data. Following is an example:  ![](../../.gitbook/assets/top-10-companies.png)
+* Click a company name to exclude company data. Click again to add the company data. Following is an example:  ![](../../../.gitbook/assets/top-10-companies.png)
 
 {% hint style="info" %}
 * **Unknown** as a company name shows number/percentage of codes submitted by those contributors who are not affiliated with any organization.
@@ -106,7 +106,7 @@ Data is not available for a Git data source that is not configured for  Insights
 **Top 10 Companies By Issues Submitted shows a doughnut chart that represents** top ten companies that contribute most to the project.
 
 Mouse over a color in the doughnut chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:  
- ![](../../.gitbook/assets/top-10-companies-github-issues.png) 
+ ![](../../../.gitbook/assets/top-10-companies-github-issues.png) 
 
 {% hint style="info" %}
 * **Unknown** as a company name shows number/percentage of issues submitted by those contributors who are not affiliated with any organization.
@@ -115,7 +115,7 @@ Mouse over a color in the doughnut chart to view company name and number of comm
 
 Following an example of Issue Management overview section for a project that uses Jira, GitHub Issues, and Bugzilla to manage issues:
 
-![Issue Management](../../.gitbook/assets/issue-management%20%281%29.png)
+![Issue Management](../../../.gitbook/assets/issue-management%20%281%29.png)
 
 ### **CI/CD**
 
@@ -125,7 +125,7 @@ Following an example of Issue Management overview section for a project that use
 
 **Build Results** shows a doughnut chart that represents total number of builds for all the build results, such as Success, Failure, Unstable, and Aborted. Click a result to exclude the data. Click again to include.
 
-![Ci/Cd](../../.gitbook/assets/ci-cd.png)
+![Ci/Cd](../../../.gitbook/assets/ci-cd.png)
 
 ### **Registry**
 
@@ -135,7 +135,7 @@ Following an example of Issue Management overview section for a project that use
 
 **Top 10 images By Star Count** lists the top ten stars by name, number, and percentage.
 
-![Registry](../../.gitbook/assets/registry.png)
+![Registry](../../../.gitbook/assets/registry.png)
 
 ### **Ecosystem Trends**
 
@@ -143,21 +143,21 @@ Following dashboards are displayed under Technical Trends:
 
 ### **Chat Room**
 
-[Chat Room](chat-room/) ****shows an analytic overview of Slack and RocketChat channels used by a project.
+[Chat Room](../ecosystem-trends/chat-room/) ****shows an analytic overview of Slack and RocketChat channels used by a project.
 
-**Slack** shows total number of messages, channels, participants, replies, and reactions over time. Clicking **Go To Overview** and **View All** under **Slack** takes you to the respective table/chart/graph of [Slack &gt; Overview](chat-room/slack.md#overview) section.
+**Slack** shows total number of messages, channels, participants, replies, and reactions over time. Clicking **Go To Overview** and **View All** under **Slack** takes you to the respective table/chart/graph of [Slack &gt; Overview](../ecosystem-trends/chat-room/slack.md#overview) section.
 
-**RocketChat** shows total number of messages, channels, participants, replies, and reactions over time. Clicking **Go To Overview** and **View All** under **RocketChat** takes you to the respective table/chart/graph of [RocketChat &gt; Overview](chat-room/rocket-chat.md#overview) section.
+**RocketChat** shows total number of messages, channels, participants, replies, and reactions over time. Clicking **Go To Overview** and **View All** under **RocketChat** takes you to the respective table/chart/graph of [RocketChat &gt; Overview](../ecosystem-trends/chat-room/rocket-chat.md#overview) section.
 
 **Top 10 Message Senders** lists the top ten individuals—who communicate most in the project— by name, number of messages, and percentage of messages out of the total number of messages shared by the community.
 
 **Top 10 Channels** lists the top ten slack channels where most amount of communication is happening. It shows the channel name, number of messages per channel, and percentage of messages per channel. Following is an example of chat room dashboard:
 
-![Chat Room](../../.gitbook/assets/chat-room%20%281%29.png)
+![Chat Room](../../../.gitbook/assets/chat-room%20%281%29.png)
 
 ### **Mailing List**
 
-[Mailing List ](mailing-list/)shows an analytic overview of email communication channels, such as Groups.io or Pipermail:
+[Mailing List ](../ecosystem-trends/mailing-list/)shows an analytic overview of email communication channels, such as Groups.io or Pipermail:
 
 **Groups.Io** shows total number of emails, groups, companies, authors, and average number of messages communicated over time.
 
@@ -167,21 +167,21 @@ Following dashboards are displayed under Technical Trends:
 
 **Top 10 Mailing Lists** lists the top ten email lists where most number of communication is happening. It shows the list name, number of emails per list, and percentage of emails per list. 
 
-![Mailing List](../../.gitbook/assets/mailing-list.png)
+![Mailing List](../../../.gitbook/assets/mailing-list.png)
 
 ### **Documentation**
 
-[Documentation](documentation/) shows an analytic overview of project's [confluence](documentation/confluence.md) pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages, and average number of editors per day.
+[Documentation](../ecosystem-trends/documentation/) shows an analytic overview of project's [confluence](../ecosystem-trends/documentation/confluence.md) pages for a selected time range. It shows total number of confluence pages created/edited, total number comments in the form of feedback or conversation on confluence pages, total number of editors who contributed to create/edit or provide feedback/comment on the confluence pages, and average number of editors per day.
 
 **Top 10 Editors** lists the top ten individuals— who makes most number of edits/updates— by name, number of pages edited by the individual, and percentage of contribution out of the total document contribution by the community members.
 
 **Top 10 Companies** lists the top ten companies— that contribute most to the project— by name, total number of editions, and percentage.
 
-![Documentation](../../.gitbook/assets/documentation.png)
+![Documentation](../../../.gitbook/assets/documentation.png)
 
 ### Earned Media
 
-[Earned Media](earned-media/) shows analytic overview of how many times consumers \(unique users\) searched, mentioned, and shared project related articles or blogs  on different media platforms, such as facebook, linkedin, blog sites, news publishing websites, and so on. The data includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on.
+[Earned Media](../ecosystem-trends/earned-media/) shows analytic overview of how many times consumers \(unique users\) searched, mentioned, and shared project related articles or blogs  on different media platforms, such as facebook, linkedin, blog sites, news publishing websites, and so on. The data includes various metrics, such as geographical data, sentiment analysis, SEO metrics, social media sharing/mentions, publishers, and so on.
 
 **Total Shares** shows how many times a project's search results are shared by consumers on different social media platforms. This also shows number of shares on individual social media platforms.
 
@@ -189,7 +189,7 @@ Following dashboards are displayed under Technical Trends:
 
 **Key Messages** shows a doughnut chart that displays how many times the project and its competitors' search results are mentioned by consumers \(unique users\). Mouse over a color in the chart to see the number of mentions for a project out of the total mentions. For example, Linux Foundation is mentioned 4.88k times by consumers on different media platforms out of the total 6.52k times including its competitors' mentions as per the following data.
 
-![Earned Media](../../.gitbook/assets/earned-media.png)
+![Earned Media](../../../.gitbook/assets/earned-media.png)
 
 
 

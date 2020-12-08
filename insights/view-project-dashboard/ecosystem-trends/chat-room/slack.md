@@ -1,7 +1,7 @@
 # Slack
 
 {% hint style="info" %}
-By default, Severe Activity and Bot Commits are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
+By default, Severe Activity and Bot Commits are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
 The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.

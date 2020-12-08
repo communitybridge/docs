@@ -19,36 +19,17 @@ Refer the following for refining data for summary page and individual data sourc
 
 Project group dashboard shows individual projects that come under the project group, and a metrics card that shows metrics, such as total number of contributors, contributions, commits, repositories, lines of code added and modified, total number of mentions, messages, and so on for all the projects under the group.
 
-* Click a [project](./#project-project-group-summary) to navigate to the project [summary](summary.md) page.
+* Click a [project](./#project-project-group-summary) to navigate to the project [summary](technical-trends/summary.md) page.
 * Type a project name in **Search project within** field to search for a project within the project group.
-* Click Go To Overview below project group name to navigate to the [project group summary](summary.md) page.
+* Click Go To Overview below project group name to navigate to the [project group summary](technical-trends/summary.md) page.
 
 ![Project Group Dashboard](../../.gitbook/assets/project-group-dashboard.png)
 
 ## Project / Project Group Summary
 
-When you navigate to a project's dashboard, by default the [Summary](summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into two groups: ****[Technical Trends](./#technical-trends) and [Ecosystem Trends](./#ecosystem-trends). Navigate to each to learn more about the data sources.
+When you navigate to a project's dashboard, by default the [Summary](technical-trends/summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into two groups: ****[Technical Trends](./#technical-trends) and [Ecosystem Trends](./#ecosystem-trends). Navigate to each to learn more about the data sources.
 
 ![Technical and Ecosystem Trends](../../.gitbook/assets/technical-trends-and-ecosystem-trends.png)
-
-#### Technical Trends:
-
-Data for Technical Trends is displayed for all the projects, and shows details for the following data sources:
-
-* [Source Control](summary.md#source-control)
-* [Pull Request Management](pull-request-management/)
-* [Issue Management](summary.md#issue-management)
-* [CI/CD](summary.md#ci-cd)
-* [Registry](summary.md#registry)
-
-#### Ecosystem Trends:
-
-Ecosystem trends is displayed if 
-
-* [Chat Room](summary.md#chat-room)
-* [Mailing List](summary.md#mailing-list)
-* [Documentation](summary.md#documentation)
-* [Earned Media](summary.md#earned-media)
 
 **View Community Leaderboard:** Click [Community Leaderboard](community-leader-board/) from top right corner to view [Active Community Contributor board](community-leader-board/active-community-contributor-board.md).
 

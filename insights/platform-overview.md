@@ -12,7 +12,7 @@ Insights platform shows project and project group cards, in alphabetical order, 
 
 ### Project
 
-A project is a standalone project maintained by Linux Foundation. Click the project name or **Go to Overview** to navigate to the [project summary](view-project-dashboard/summary.md) dashboard.
+A project is a standalone project maintained by Linux Foundation. Click the project name or **Go to Overview** to navigate to the [project summary](view-project-dashboard/technical-trends/summary.md) dashboard.
 
 ![Project Overview](../.gitbook/assets/project-overview.png)
 

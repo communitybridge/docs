@@ -8,7 +8,7 @@ The Jenkins dashboards under CI/CD drop-down list represents a set of metrics th
 * [Nodes](jenkins.md#nodes)
 * [Build data](jenkins.md#build-data)
 
-Click ![](../../../.gitbook/assets/copy-short-url.png) to share the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/copy-short-url.png) to share the path of respective dashboards.
 
 ## Overview
 

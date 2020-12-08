@@ -1,7 +1,7 @@
 # Commits
 
 {% hint style="info" %}
-By default, Empty Commits \(Commits with Zero value\) and Bots are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
+By default, Empty Commits \(Commits with Zero value\) and Bots are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
 The Commits dashboard represents a set of metrics that shows high level information, such as total number of commits, authors, repositories, and so on for  all repositories of the project.
