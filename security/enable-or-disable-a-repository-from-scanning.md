@@ -23,6 +23,8 @@ You can also enable or disable scanning for all repositories by toggle of **Scan
 
  4.Under **Last** **Scan Results** tab, you can see whether the repository scan has been successful or where there were any errors while scanning the repository.
 
+When the scan of the repository is successful, it is displayed as Successful and if there are any errors, it will be displayed as Error.
+
 When the scan of the repository is successful, it is displayed as **Successful** and if there are any errors, it will be displayed as **Error**.
 
 {% hint style="info" %}
@@ -30,6 +32,8 @@ The error details for the repository is displayed when you click the ![](../.git
 
 An error will be displayed when the language used in the repository is not supported by Security scan.
 {% endhint %}
+
+![Last Scan Results](../.gitbook/assets/last_scan%20%281%29.png)
 
 ![Last Scan Results](../.gitbook/assets/last_scan.png)
 
