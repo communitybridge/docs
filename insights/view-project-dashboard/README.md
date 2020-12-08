@@ -27,7 +27,7 @@ Project group dashboard shows individual projects that come under the project gr
 
 ## Project / Project Group Summary
 
-When you navigate to a project's dashboard, by default the [Summary](technical-trends/summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into two groups: ****[Technical Trends](./#technical-trends) and [Ecosystem Trends](./#ecosystem-trends). Navigate to each to learn more about the data sources.
+When you navigate to a project's dashboard, by default the [Summary](technical-trends/summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into two groups: ****[Technical Trends](technical-trends/) and [Ecosystem Trends](ecosystem-trends/). Navigate to each to learn more about the data sources.
 
 ![Technical and Ecosystem Trends](../../.gitbook/assets/technical-trends-and-ecosystem-trends.png)
 
