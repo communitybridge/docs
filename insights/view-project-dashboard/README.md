@@ -31,7 +31,9 @@ When you navigate to a project's dashboard, by default the [Summary](summary.md)
 
 ![Technical and Ecosystem Trends](../../.gitbook/assets/technical-trends-and-ecosystem-trends.png)
 
-#### Technical Trends
+#### Technical Trends:
+
+Data for Technical Trends is displayed for all the projects, and shows details for the following data sources:
 
 * [Source Control](summary.md#source-control)
 * [Pull Request Management](pull-request-management/)
@@ -39,7 +41,9 @@ When you navigate to a project's dashboard, by default the [Summary](summary.md)
 * [CI/CD](summary.md#ci-cd)
 * [Registry](summary.md#registry)
 
-#### Ecosystem Trends
+#### Ecosystem Trends:
+
+Ecosystem trends is displayed if 
 
 * [Chat Room](summary.md#chat-room)
 * [Mailing List](summary.md#mailing-list)

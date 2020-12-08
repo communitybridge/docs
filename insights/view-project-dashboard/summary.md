@@ -6,20 +6,20 @@ By default, Bot commit is filtered, and can't be included for Summary dashboard.
 
 Summary provides a high-level metrics about each data source for which the project is configured. Following are activities for quick navigation: 
 
-* **Technical Trends:**
+\*\*\*\*[**Technical Trends**](summary.md#technical-trends)**:**
 
-  * [Source Control](summary.md#source-control)
-  * [Pull Requests / Changesets](summary.md#pull-requests-changeset)
-  * [Issue Management](summary.md#issue-management)
-  * [CI/CD](summary.md#ci-cd)
-  * [Registry](summary.md#registry)
+* [Source Control](summary.md#source-control)
+* [Pull Requests / Changesets](summary.md#pull-requests-changeset)
+* [Issue Management](summary.md#issue-management)
+* [CI/CD](summary.md#ci-cd)
+* [Registry](summary.md#registry)
 
-  **Ecosystem Trends:**
+\*\*\*\*[**Ecosystem Trends**](summary.md#ecosystem-trends)**:**
 
-  * [Chat Room](summary.md#chat-room)
-  * [Mailing List](summary.md#mailing-list)
-  * [Documentation](summary.md#documentation)
-  * [Earned Media](summary.md#earned-media)
+* [Chat Room](summary.md#chat-room)
+* [Mailing List](summary.md#mailing-list)
+* [Documentation](summary.md#documentation)
+* [Earned Media](summary.md#earned-media)
 
 ## **Technical Trends**
 
