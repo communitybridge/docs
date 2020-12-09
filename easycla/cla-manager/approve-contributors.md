@@ -1,10 +1,10 @@
 # Approve Contributors
 
 {% hint style="info" %}
-You will receive an email after a contributor sends request to be added to the approved list.
+You will receive an email after a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the Approved list.
 {% endhint %}
 
-You can approve contributors by adding their name to the Approved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
+You can approve contributors by adding them to the Approved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
 
 * Domain Approved List allows entities to contribute under any email address under that domain name.
 * Email Approved List allows entities to contribute under an individual email address.
@@ -12,8 +12,6 @@ You can approve contributors by adding their name to the Approved List. **Approv
 * GitHub Organization Approved List allows entities to contribute under a GitHub organization name.
 
 Each approved list applies to the project for which the company has signed a Corporate CLA. The CLA application checks all the approved lists for allowing contributions to a company project. A contributor only needs to be on one approved list. Contributors can use EasyCLA to send email requests to be associated \(authorized\) with the company.
-
-_Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA for the same company._
 
 **To Approve Contributors:**
 
