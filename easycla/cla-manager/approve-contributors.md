@@ -1,7 +1,7 @@
 # Approve Contributors
 
 {% hint style="info" %}
-You will receive an email after a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the Approved list.
+You will receive an email when a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the Approved list.
 {% endhint %}
 
 You can approve contributors by adding them to the Approved List. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. As a CCLA manager, you allow contributions to projects on behalf of your company by using any approved list:
