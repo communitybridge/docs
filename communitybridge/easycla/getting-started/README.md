@@ -44,7 +44,7 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 You are a CLA Manager or _Corporate CLA manager_ \(CCLA manager\) if you are authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. You use LFX Company Dashboard to:
 
-* [Add Contributors to Approved List](../cla-managers/add-and-manage-contributors.md)
+* [Add Contributors to Approved List](../cla-managers/approve-and-manage-contributors.md)
 * [Add or Delete CLA Managers](../cla-managers/add-or-delete-cla-managers.md)
 
 ### CLA Manager Designee

@@ -212,7 +212,7 @@
     * [CLA Managers](communitybridge/easycla/cla-managers/README.md)
       * [Sign In to the CLA Corporate Console](communitybridge/easycla/cla-managers/sign-in-to-the-cla-corporate-console.md)
       * [Add or Delete CLA Managers](communitybridge/easycla/cla-managers/add-or-delete-cla-managers.md)
-      * [Add and Manage Contributors](communitybridge/easycla/cla-managers/add-and-manage-contributors.md)
+      * [Approve and Manage Contributors](communitybridge/easycla/cla-managers/approve-and-manage-contributors.md)
     * [CLA Signatories](communitybridge/easycla/cla-signatories/README.md)
       * [Review and Sign a Corporate CLA by Request](communitybridge/easycla/cla-signatories/review-and-sign-a-corporate-cla-by-request.md)
   * [Company Dashboard](communitybridge/company-dashboard/README.md)

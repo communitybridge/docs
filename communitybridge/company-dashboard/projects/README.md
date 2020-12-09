@@ -59,9 +59,9 @@ It shows a table that lists details of approved contributors from your organizat
 * **Approved List** shows the user name/email lD/GitHub user ID /GitHub Organization or Domain name that is in the approved list.
 * **Coverage Type** shows the type with which the contributor is listed in the approved list.
 * **Added on** **shows** the date when the user was added to the approved list.
-* **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/cla-managers/add-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/cla-managers/add-and-manage-contributors.md#delete-a-contributors-details) the approved list.
+* **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
 
-**+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/cla-managers/add-and-manage-contributors.md#add-contributor-s) to an approved list.
+**+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
 
 #### CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION <a id="contributor-acknowledgement-from-my-organization"></a>
 

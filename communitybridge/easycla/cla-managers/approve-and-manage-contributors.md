@@ -1,14 +1,16 @@
-# Add and Manage Contributors
+# Approve and Manage Contributors
 
-You can add contributors' names to the Approved List so that they can contribute to the project under a signed corporate CLA . **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allows contributors to be authorized to contribute under a signed corporate CLA.
+{% hint style="info" %}
+You may receive an email after a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the approved list.
+{% endhint %}
+
+You can approve contributors by adding them to the Approved List so that they can contribute to the project under a signed corporate CLA. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allows contributors to be authorized to contribute under a signed corporate CLA.
 
 As a CLA manager, you can:
 
-* [Add Contributors](add-and-manage-contributors.md#add-contributor-s)
-* [Edit a Contributor's Details](add-and-manage-contributors.md#edit-a-contributors-details)
-* [Delete a Contributor's Details](add-and-manage-contributors.md#delete-a-contributors-details)
-
-_Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA for the same company._
+* [Add Contributors](approve-and-manage-contributors.md#add-contributor-s)
+* [Edit a Contributor's Details](approve-and-manage-contributors.md#edit-a-contributors-details)
+* [Delete a Contributor's Details](approve-and-manage-contributors.md#delete-a-contributors-details)
 
 ### **Add Contributor\(s\)**
 

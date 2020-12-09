@@ -39,7 +39,7 @@ You can designate someone else as CLA Signatory to sign CLA on behalf of the com
 
 You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. With this responsibility, you use corporate console to:
 
-* [Add Contributors to Approved List](../easycla/cla-managers/add-and-manage-contributors.md)
+* [Add Contributors to Approved List](../easycla/cla-managers/approve-and-manage-contributors.md)
 * [Add or Delete CLA Managers](../easycla/cla-managers/add-or-delete-cla-managers.md)
 
 ## Support or Contact
