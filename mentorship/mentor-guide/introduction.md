@@ -22,5 +22,5 @@ Following are the core goals of the Mentorship program:
 
 The Linux Foundation Mentorship program lasts three months 12-weeks for full-time terms, or six months, 24-weeks for part-time terms.  As a mentor, you will be engaged with the mentees throughout the program, starting with the application process.
 
-Please see [Program Schedule & Timeline](../sample-mentorship-program-timelines.md) for term schedule and activity timeline.  
+Please see [Program Schedule & Timeline](../mentorship-program-timelines.md) for term schedule and activity timeline.  
 

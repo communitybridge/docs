@@ -135,7 +135,7 @@
     * [Review and Sign a Corporate CLA by Request](easycla/cla-signatories/review-and-sign-a-corporate-cla-by-request.md)
   * [EasyCLA Get Help](easycla/easycla-get-help.md)
 * [Mentorship](mentorship/README.md)
-  * [Program Schedule & Timelines](mentorship/sample-mentorship-program-timelines.md)
+  * [Program Schedule & Timelines](mentorship/mentorship-program-timelines.md)
   * [Platform Overview](mentorship/platform-overview/README.md)
     * [View Mentorship Program Details](mentorship/platform-overview/view-projects-details.md)
     * [View Mentor/Mentee Profile](mentorship/platform-overview/view-a-mentor-or-mentee-profile.md)
