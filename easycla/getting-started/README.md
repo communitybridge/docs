@@ -1,8 +1,8 @@
 # Getting Started
 
-## What is EasyCLA? <a id="what-is-easycla"></a>
+## What is LFX EasyCLA? <a id="what-is-easycla"></a>
 
-_EasyCLA_ helps maintainers of open source projects streamline their workflows and reduce the hassle of managing Contributor License Agreements \(CLAs\) and authorizing contributors. By automating many of the manual processes, this open source solution hosted by the Linux Foundation reduces delays for developers to get authorized under a CLA.
+_LFX EasyCLA_ helps maintainers of open source projects streamline their workflows and reduce the hassle of managing Contributor License Agreements \(CLAs\) and authorizing contributors. By automating many of the manual processes, this open source solution hosted by the Linux Foundation reduces delays for developers to get authorized under a CLA.
 
 ## What is a CLA? <a id="what-is-a-cla"></a>
 
@@ -33,7 +33,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console.
+You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console, also referred as Project Control Center.
 
 With EasyCLA, you do the following CLA set-up tasks:
 

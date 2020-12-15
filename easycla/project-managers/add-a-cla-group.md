@@ -10,7 +10,7 @@ A CLA group gives you the flexibility to handle different CLA requirements for v
 
 **To Add a CLA Group**:
 
-1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console.
+1. [Sign in](sign-in-to-the-easycla-management-console.md) to the CLA management console.
 
 2. Click a **project** of interest.  
 The project page appears. A message informs you that your project needs a CLA group. A CLA group defines one or more CLA types that contributors must sign before they can contribute to a project.

@@ -1,6 +1,6 @@
 # CLA Managers
 
-As a CLA manager, you do the following CLA tasks after you [sign in to the CLA Corporate Console](sign-in-to-the-cla-corporate-console.md):
+As a CLA manager, you do the following CLA tasks after you [sign in to the CLA Corporate Console](sign-in-to-the-easycla-corporate-console.md):
 
 * [Add a Company to a Project](add-a-company-to-a-project.md)
 * [Sign a Corporate CLA for the company](sign-a-corporate-cla-for-company.md)

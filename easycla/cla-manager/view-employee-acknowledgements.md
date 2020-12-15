@@ -4,7 +4,7 @@ CLA managers can view a list of employee acknowledgements.
 
 **To View Employee Acknowledgements:**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console.
+1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the corporate console.
 2. Click a **company** of interest.
 
    The CLA Corporate Console shows Signed CLAs.

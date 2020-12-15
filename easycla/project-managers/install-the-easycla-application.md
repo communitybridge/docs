@@ -4,7 +4,7 @@ The EasyCLA Application installation process connects GitHub to the CLA Manageme
 
 **To Install the EasyCLA Application:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console.
+1. [Sign in](sign-in-to-the-easycla-management-console.md) to the CLA management console.
 
 2. Click a project of interest.
 

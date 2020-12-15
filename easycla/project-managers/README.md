@@ -4,7 +4,7 @@ As a project manager, you have responsibilities to manage a project’s GitHub o
 
 To Set Up CLA:
 
-1. ​[Sign in to the CLA Management Console](sign-in-to-the-cla-management-console.md)
+1. ​[Sign in to the CLA Management Console](sign-in-to-the-easycla-management-console.md)
 2. [Install the EasyCLA Application](install-the-easycla-application.md).
 3. ​[Add a CLA Group](add-a-cla-group.md).
 4. ​[Add Contributor License Agreements](add-contributor-license-agreements.md).

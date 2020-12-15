@@ -1,6 +1,6 @@
-# Sign In to the CLA Corporate Console
+# Sign In to the EasyCLA Corporate Console
 
-As a CLA manager, sign in to the CLA Corporate Console to add your company to a project and do management tasks.
+As a CLA manager, sign in to the EasyCLA Corporate Console to add your company to a project and do management tasks.
 
 1. Go to [https://easycla.lfx.linuxfoundation.org/](https://easycla.lfx.linuxfoundation.org/)
 2. On Organizations card, click **Proceed**.  ![](../../.gitbook/assets/sign-in-to-corporate-console.png) 

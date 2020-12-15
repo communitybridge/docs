@@ -2,7 +2,7 @@
 
 You must be authorized by your company to sign a Corporate CLA. If you are a CLA manager but not a CLA signatory, you can request that the CCLA signatory sign the Corporate CLA.
 
-1. [Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console.
+1. [Sign in](sign-in-to-the-easycla-corporate-console.md) to the corporate console.
 
 2. Under **Companies you are associated with in Easy CLA**, click the company for which you want to sign a Corporate CLA.
 

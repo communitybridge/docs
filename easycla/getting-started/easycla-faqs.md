@@ -4,7 +4,7 @@
 
 Submit [the form](https://docs.google.com/forms/d/e/1FAIpQLSdnTk_9xjk7YoiX_FcPEqsFytsLMcT8OzYUbK6TsYopR1XhdA/viewform) describing your requirements, and import your existing CLAs.
 
-**Why does Linux Foundation ask contributors of some projects to sign CLAs?**
+**Why does The Linux Foundation ask contributors of some projects to sign CLAs?**
 
 Some project communities have elected to use CLAs as a required step for contributions to their code. For those that have, the Linux Foundation wants to ensure that contributions comply with the IP policies of that project, including ensuring that contributors have accepted the corresponding CLA.
 

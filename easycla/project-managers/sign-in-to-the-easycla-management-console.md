@@ -1,6 +1,6 @@
-# Sign In to the CLA Management Console
+# Sign In to the EasyCLA Management Console
 
-Project managers sign in to the CLA Management Console to perform the CLA set-up and management tasks.
+Project managers sign in to the EasyCLA Management Console to perform the CLA set-up and management tasks.
 
 1. Go to [https://easycla.lfx.linuxfoundation.org/](https://easycla.lfx.linuxfoundation.org/)
 

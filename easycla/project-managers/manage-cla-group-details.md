@@ -4,7 +4,7 @@ As a project manager, you use the CLA Management Console to manage your CLA grou
 
 **To manage CLA groups:**
 
-1. [Sign in](sign-in-to-the-cla-management-console.md) to the CLA management console
+1. [Sign in](sign-in-to-the-easycla-management-console.md) to the CLA management console
 2. Click a **project** of interest.
 3. Do any of the following actions:
    * [Change Your Current CLA Type Selections](manage-cla-group-details.md#change-your-current-cla-type-selections)

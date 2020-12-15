@@ -15,7 +15,7 @@ Each approved list applies to the project for which the company has signed a Cor
 
 **To Approve Contributors:**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to the corporate console.
+1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the corporate console.
 
 2. The CLA Corporate Console appears and shows Companies.
 
