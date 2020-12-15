@@ -12,5 +12,5 @@ You sign in to the CLA project control center to perform the CLA set-up and mana
 
 ![Project Control Center](../../.gitbook/assets/project-control-center.png)
 
-4. Click a project to view more about the project. For details, see [View Project CLA Details](view-cla-details.md).
+4. Click a project to view more about the project or search for a project from the left navigation pane . For details, see [View Project CLA Details](manage-cla-groups.md).
 

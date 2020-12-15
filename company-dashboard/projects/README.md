@@ -49,8 +49,8 @@ It shows a table that lists CLA managers of your company including their details
 * **Name** shows name and image of the CLA Manager
 * **Email Address** shows email address of the CLA Manager.
 * **Added on** shows the date when the individual was added as CLA Manager.
-* **Manage** \(Only for CLA Managers\) lets CLA managers [delete](../../easycla/cla-managers/add-or-delete-cla-managers.md#delete-a-cla-manager) the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted.
-* **+ Add CLA Manager** \(Only for CLA Managers\) lets you [add](../../easycla/cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) a user as a CLA manager.
+* **Manage** \(Only for CLA Managers\) lets CLA managers [delete](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#delete-a-cla-manager) the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted.
+* **+ Add CLA Manager** \(Only for CLA Managers\) lets you [add](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) a user as a CLA manager.
 
 #### APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION <a id="approved-list-of-contributors-from-my-organization"></a>
 
@@ -59,9 +59,9 @@ It shows a table that lists details of approved contributors from your organizat
 * **Approved List** shows the user name/email lD/GitHub user ID /GitHub Organization or Domain name that is in the approved list.
 * **Coverage Type** shows the type with which the contributor is listed in the approved list.
 * **Added on** **shows** the date when the user was added to the approved list.
-* **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
+* **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
 
-**+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
+**+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
 
 #### CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION <a id="contributor-acknowledgement-from-my-organization"></a>
 
@@ -88,7 +88,7 @@ This is displayed only for project groups, and shows a table that lists the foll
 
 ## If Company has not signed CLA
 
-Following is an example that appears if your company has not signed CLA for a project or a project group. Sign CLA for a project or designate someone to sign CLA for the project. For details, see [Sign Corporate CLA for a Company](../../easycla/cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+Following is an example that appears if your company has not signed CLA for a project or a project group. Sign CLA for a project or designate someone to sign CLA for the project. For details, see [Sign Corporate CLA for a Company](../../easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 **Note:** You can sign CLA at project-group level or project level based on how the CLA Group is configured.
 

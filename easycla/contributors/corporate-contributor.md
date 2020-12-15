@@ -173,7 +173,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 **Important:** If you don't have a username \(LF SSO Account\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username.
 {% endhint %}
 
-4. You will be redirected to corporate console on a new tab to [sign a CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+4. You will be redirected to corporate console on a new tab to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 After you successfully sign a CCLA, navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
 
@@ -209,5 +209,5 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![](../../.gitbook/assets/company-added-successfully.png)
 
-4. Click **Proceed** to [sign a corporate CLA](../cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+4. Click **Proceed** to [sign a corporate CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 

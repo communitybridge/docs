@@ -6,11 +6,12 @@ You can add new projects to a CLA group to let contributors sign and contribute 
 
 2. Under My Projects, click a project, and navigate to **Tools &gt; CLA**.
 
-2. Click **Add/Manage Projects** under a CLA group to which you want to add projects.
+2. Under CLA Groups, select a CLA group for which you want to manage projects.
 
-![](../../.gitbook/assets/add-manage-project%20%281%29.png)
+3.  Select or deselect the checkbox next to a project to add and remove the project from the CLA group.  
+**Note:** You cannot deselect a project if the project is added to another CLA group.
 
-3. Select or clear check boxes to add or remove the projects respectively, and click **Submit**.
+4. Click **Update CLA Group**.
 
-![](../../.gitbook/assets/select-projects%20%281%29.png)
+![Add and Manage Projects under a CLA group.](../../.gitbook/assets/add-and-manage-projects.png)
 

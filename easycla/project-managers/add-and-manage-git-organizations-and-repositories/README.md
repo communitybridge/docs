@@ -24,10 +24,11 @@ You can also connect the GitHub organization during IT set up in the **IT Servic
 
 ![](../../../.gitbook/assets/tools-tab.png)
 
-3. Under a CLA group, click **Add/Manage Repos for a project.**  
-Source Control configuration page appears.
+3. Under CLA Groups, select a CLA group to which you have added the project.
 
-![Add and Manage Repositories](../../../.gitbook/assets/add-manage-repositories.png)
+4. Click **Manage** next to the project for which you want to manage repositories.
+
+![Add and Manage Repositories](../../../.gitbook/assets/add-and-manage-repositories.png)
 
 4. Under GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
 

@@ -5,7 +5,7 @@ Project managers manage a project’s GitHub organization or Gerrit instance, re
 As a project administrator, you do the following activities:
 
 1. [Sign in to Project Control Center](sign-in-to-project-control-center.md)
-2. [View CLA Details for a Project](view-cla-details.md)
+2. [View CLA Details for a Project](manage-cla-groups.md)
 3. [Add a New CLA Group](create-new-cla-group.md)
 4. [Add or Remove Project from CLA Group](add-or-remove-a-project-from-cla-group.md)
 5. [Add](add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
@@ -15,12 +15,12 @@ As a project administrator, you do the following activities:
 
 At any time, you can do other management tasks:
 
-* [View Signed CLA Documents](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-cla-document)
-* [View Signed Individual CLAs \(ICLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-individual-clas-iclas)
-* [View Signed Corporate CLAs \(CCLAs\)](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
-* [View CLA managers of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
-* [View approval criteria for corporate contributors](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
-* [View approved contributors of the company](view-and-manage-signed-clas-for-a-cla-group.md#view-signed-corporate-clas-cclas)
+* [View Signed CLA Documents]()
+* [View Signed Individual CLAs \(ICLAs\)]()
+* [View Signed Corporate CLAs \(CCLAs\)]()
+* [View CLA managers of the company]()
+* [View approval criteria for corporate contributors]()
+* [View approved contributors of the company]()
 * [View Connection Status of Git Organizations and Repositories](add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
 
 

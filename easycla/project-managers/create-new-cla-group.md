@@ -16,7 +16,8 @@ A CLA group defines:
 
 ![](../../.gitbook/assets/tools-tab.png)
 
-4. Click **+Add New CLA Group**.
+4. Click **+Add New CLA Group**.  
+**Note:** If you have already created a CLA group at project group level, **+Add New CLA Group** is disabled. You can create only one CLA group at project group level, however you can create multiple CLA groups for different projects under a project group.
 
 ![Add New CLA Group](../../.gitbook/assets/add-new-cla-group%20%281%29.png)
 

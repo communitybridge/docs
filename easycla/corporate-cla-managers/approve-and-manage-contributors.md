@@ -17,18 +17,19 @@ As a CLA manager, you can:
 1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to corporate console.  
 The CLA Corporate Console appears and shows projects your company is associated with.
 
-3. Click a **project** of interest.  
-Signed CLAs are displayed under **CLA FOR MY ORGANIZATION**.
+3. Click a **project** of interest.
 
-5. Click **+ Add Contributor\(s\)** under **APPROVED LIST OF CONTRIBUTIONS FROM MY ORGANIZATION**.
+5. Click **+ Add Approval Criteria** under **APPROVED LIST OF CONTRIBUTIONS FROM MY ORGANIZATION**.
 
-![](../../.gitbook/assets/add-contributors%20%281%29.png)
+![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria.png)
 
-6. On **Add Contributor\(s\)** window, select an option from the **Select Type** drop-down list, and type details in the filed for the value that you selected.
+6. On **Add Approval Criteria** window, select an option from the **Select Type** drop-down list, and type details in the filed for the value that you selected.
 
 {% hint style="info" %}
 **Note:** The option that you select to add a contributor is displayed under **Approval Criteria** column for a value under Approved List of Contributors from my Organization section.
 {% endhint %}
+
+
 
 ![](../../.gitbook/assets/add-contributors-window%20%281%29.png)
 

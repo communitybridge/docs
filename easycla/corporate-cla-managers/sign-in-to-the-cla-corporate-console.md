@@ -1,6 +1,6 @@
 # Sign In to the CLA Corporate Console
 
-Sign in to the corporate console before you can sign a CLA, and perform other activities.
+Sign in to the corporate console before you can sign a Corporate CLA, and perform other activities.
 
 1. Go to [https://lfx.platform.linuxfoundation.org/](https://lfx.platform.linuxfoundation.org/).
 2. Click **SIGN IN**.

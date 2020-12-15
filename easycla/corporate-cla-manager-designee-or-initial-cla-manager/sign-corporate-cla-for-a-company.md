@@ -4,11 +4,11 @@ description: This page describes how to sign CLA as a CLA manager.
 
 # Sign Corporate CLA for a Company
 
-As a CLA manager designee \(initial CLA manager\), you must sign a Corporate CLA before you can manage contributors of your company, and add other CLA managers. You become a [CLA manager](../cla-managers/) after you sign CLA as a CLA manager designee.
+As a CCLA manager designee \(initial CLA manager\), you must sign a Corporate CLA before you can manage contributors of your company, and add other CLA managers. You become a[ CCLA manager](../corporate-cla-managers/) after you sign CLA as a CLA manager designee.
 
-1. [Sign in](../cla-managers/sign-in-to-the-cla-corporate-console.md) to the [corporate console](https://lfx.platform.linuxfoundation.org/) as a CLA manager designee.
+1. [Sign in](../corporate-cla-managers/sign-in-to-the-cla-corporate-console.md) to the [corporate console](https://lfx.platform.linuxfoundation.org/) as a CCLA manager designee.
 
-2. Click the project for which you want to sign CLA, and click **Start the CLA Process**.  
+2. Click the project for which you want to sign CLA, navigate to **Tools &gt; CLA,** and click **Start the CLA Process**.  
 **Note:** If you are already designated as a CLA manager designee for a project, details appear as shown in step 5.  
 
 ![Start the CLA Process](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA0HEhVP16NYN7Vs27E%2Fstart%20cla%20process.png?alt=media&token=31a11567-bb06-4d1e-972a-8f616d6a9500)
@@ -23,7 +23,7 @@ As a CLA manager designee \(initial CLA manager\), you must sign a Corporate CLA
 ****A window appears confirming that request is submitted to respective individual.
 
 {% hint style="info" %}
-The individual must have an LF [SSO]() account to sign CLA.
+The individual must have an [LF SSO](https://docs.linuxfoundation.org/lfx/sso) account to sign CLA.
 {% endhint %}
 
 5. You are designated as the initial CLA manager \(CLA manager designee\). Under **Action** column, click **Proceed with Signing**.  
@@ -58,5 +58,5 @@ The individual must have an LF [SSO]() account to sign CLA.
 
 ![CCLA signed successfully](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA0FkDbYMbJ7MutyGb5%2Fcla%20managers%20from%20my%20organization%20example.png?alt=media&token=fa0e823e-87f6-4d20-9675-891c2e50bc7b)
 
-After you become the CLA manager, you can [add individuals as CLA managers](../cla-managers/add-or-delete-cla-managers.md), and [approve contributors](../cla-managers/approve-and-manage-contributors.md) to contribute to the project.
+After you become the CLA manager, you can [add individuals as CLA managers](../corporate-cla-managers/add-or-delete-cla-managers.md), and [approve contributors](../corporate-cla-managers/approve-and-manage-contributors.md) to contribute to the project.
 
