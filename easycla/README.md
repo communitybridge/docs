@@ -4,9 +4,7 @@ EasyCLA streamlines the management and execution of Contributor License Agreemen
 
 ## Third-party Services <a id="third-party-services"></a>
 
-​[EasyCLA​](./#easycla-architechture)
-
-Besides integration with Auth0 and Salesforce, the EasyCLA system has the following third party services:
+Besides integration with Auth0 and Salesforce, the EasyCLA system uses the following third party services:
 
 * ​[Docusign](https://www.docusign.com/) for CLA agreement e-sign flow
 * ​[Docraptor](https://docraptor.com/) for converting html CLA template to PDF file
@@ -31,7 +29,7 @@ EasyCLA frontend consists of three independent Single Page Application \(SPA\) b
 
 The following diagram explains the EasyCLA architecture.
 
-![EasyCLA Architecture](../.gitbook/assets/cla-architecture-overview.png)
+![EasyCLA Architecture](../.gitbook/assets/easycla-architecture-overview.png)
 
 ## EasyCLA Release Process <a id="easycla-release-process"></a>
 
