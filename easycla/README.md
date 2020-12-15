@@ -8,20 +8,22 @@
 
 Besides integration with Auth0 and Salesforce, the CLA system has the following third party services:
 
-* ​[Docusign](https://www.docusign.com/) for the CLA agreement e-sign flow
-* ​[Docraptor](https://docraptor.com/) for converting html CLA template to PDF file
+* ​[Docusign](https://www.docusign.com/) for CLA agreement e-sign flow
+* ​[Docraptor](https://docraptor.com/) to convert html CLA template as PDF file
 
-## EasyCLA Backend <a id="cla-backend"></a>
+## CLA Backend <a id="cla-backend"></a>
 
-The EasyCLA tool has two backend components.
+The CLA project has two backend projects.
 
 The majority of the backend APIs are implemented in python, and can be found in the [`cla-backend`](https://github.com/communitybridge/easycla/tree/master/cla-backend) directory.
 
 Recent backend development was implemented in Golang, and can be found in the [`cla-backend-go`](https://github.com/communitybridge/easycla/tree/master/cla-backend-go) directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
 
-## EasyCLA Frontend <a id="cla-frontend"></a>
+## CLA Frontend <a id="cla-frontend"></a>
 
-EasyCLA front end consists of three independent Single Page Application \(SPA\) built with [Ionic](https://ionicframework.com/) framework:
+### Overview <a id="overview"></a>
+
+CLA front end consists of three independent SPA build with [Ionic](https://ionicframework.com/) framework:
 
 * [CLA front-end project console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-project-console) for Linux Foundation director/admin/user to manage project CLA
 * [CLA front-end corporate console](https://github.com/communitybridge/easycla/tree/master/cla-frontend-corporate-console) for company CCLA manager to sign a CCLA and manage employee CLA approved list

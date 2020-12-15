@@ -28,21 +28,21 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 * [Project Manager](./#project-manager)
 * [Contributor](./#contributor)
-* [CLA Manager](./#cla-manager)
+* Corporate [CLA Manager](./#cla-manager)
 * [CLA Manager Designee](./#cla-manager-designee)
 * [CLA Signatory](./#corporate-cla-signatory)
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console on admin dashboard where you have access to specific projects as per the permission provided by Linux Foundation, and perform project related activities. ****For details, see [Project Managers](../project-managers/).
+You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console, also referred as Project Control Center, where you have access to specific projects as per permissions provided by The Linux Foundation, and perform project related activities. ****For details, see [Project Managers](../project-managers/).
 
 ### Contributor <a id="contributor"></a>
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With LFX EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual. As [individual](../contributors/individual-contributor.md) and [corporate contributors](../contributors/corporate-contributor.md), you use LFX contributor console to you sign CLA or confirm your association with company before you can contribute code.
 
-### CLA Manager
+### Corporate CLA Manager
 
-You are a CLA Manager or _Corporate CLA manager_ \(CCLA manager\) if you are authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. You use LFX Company Dashboard to:
+You are a _Corporate CLA manager_ \(CCLA manager\) if you are authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. You use LFX Company Dashboard to:
 
 * [Add Contributors to Approved List](../cla-managers/approve-and-manage-contributors.md)
 * [Add or Delete CLA Managers](../cla-managers/add-or-delete-cla-managers.md)
