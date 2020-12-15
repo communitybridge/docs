@@ -1,7 +1,6 @@
 # Table of contents
 
 * [LFX Toolkit](README.md)
-* [Release Notes](release-notes.md)
 * [EasyCLA](easycla/README.md)
   * [Getting Started](easycla/getting-started/README.md)
     * [EasyCLA Requirements](easycla/getting-started/easycla-requirements.md)
