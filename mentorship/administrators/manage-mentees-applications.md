@@ -14,7 +14,7 @@ Please note the following application statuses:
 
 * **Pending** - mentee has applied to the mentorship program. The mentee application is ready for review when **"Tasks Submitted"** is displayed above the status dropdown. 
 * **Accepted** - mentee has been accepted to the program. Accepted mentees are also visible  on the program Dashboard
-* **Withdrawn** - mentee has withdrawn the application. 
+* **Withdrawn** - mentee has withdrawn the application. This status will also apply when admin withdraws a mentee because of nonperformance. 
 * **Declined -** mentee's application for the mentorship program has been declined.
 * **Graduated** - mentee has successfully completed the mentorship program. 
 
