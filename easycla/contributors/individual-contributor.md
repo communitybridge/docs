@@ -44,7 +44,7 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 
 ![DocuSign](../../.gitbook/assets/docusign-icla-flow.png)
 
-6. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+7. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**
@@ -57,7 +57,7 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update. A
 
 ![GitHub Individual Contributor Pass](../../.gitbook/assets/cla-github-individual-contributor-pass.png)
 
-7. Click **Merge pull request** and confirm the merge.
+8. Click **Merge pull request** and confirm the merge.
 
 The CLA is added to the project.
 
@@ -73,9 +73,9 @@ The CLA is added to the project.
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Sign in using your LF [Single Sign-On \(SSO\)]() account.
+5. Sign in using your LF[ Single Sign-On \(SSO\)](https://docs.linuxfoundation.org/lfx/sso/create-an-account) account.
 
-6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
+6. Navigate to **Settings**— the gear icon on the upper right corner— and click **Agreements** from the menu on the left:
 
 ​![Settings Icon](../../.gitbook/assets/settings-icon.png)​    ​![Gerrit Agreements](../../.gitbook/assets/agreements.png)​
 

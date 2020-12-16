@@ -40,7 +40,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 **Note:** 
 
 * If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1).
-* If the corporate cla setup for the selected company is not completed, **Setup Required** window appears. Click the link to submit a ticket, and click Exit CLA.
+* **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
 
 ![ccla flow](../../.gitbook/assets/select-organization.png)
@@ -67,7 +67,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Sign in using your LF [Single Sign-On \(SSO\)]() account.
+5. Sign in using your LF [Single Sign-On \(SSO\)](https://docs.linuxfoundation.org/lfx/sso/create-an-account) account.
 
 6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
 

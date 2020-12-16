@@ -14,20 +14,19 @@ As a CLA manager, you can:
 
 ### **Add Contributor\(s\)**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to corporate console.  
-The CLA Corporate Console appears and shows projects your company is associated with.
+1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to corporate console.
 
-3. Click a **project** of interest.
+2. Click a **project** of interest.
 
-5. Click **+ Add Approval Criteria** under **APPROVED LIST OF CONTRIBUTIONS FROM MY ORGANIZATION**.
+3. Click **+ Add Approval Criteria** under **APPROVED LIST OF CONTRIBUTIONS FROM MY ORGANIZATION**.
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria.png)
 
-6. On **Add Approval Criteria** window, select an option from the **Select Type** drop-down list, and type details in the filed for the value that you selected.
+4. On **Add Approval Criteria** window, select an option from the **Select Type** drop-down list, and provide details in the field nest to it.
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria-window.png)
 
-3. Click **+Add More** to add other details for a contributor.
+5. Click **+Add More** to add other details for a contributor.
 
 {% hint style="info" %}
 **Note:** 
@@ -40,9 +39,9 @@ The CLA Corporate Console appears and shows projects your company is associated 
 GitHub Organization and GitHub Username are not required while adding contributors to Gerrit projects.
 {% endhint %}
 
-4. Click **Save** to add the contributor.
+6. Click **Save** to add the contributor.
 
-The added contributor is displayed under Approved List of Contributors from my 
+The added contributor is displayed under Approved List of Contributors from my Organization.
 
 ### Edit a Contributor's Details
 

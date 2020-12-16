@@ -16,43 +16,42 @@ After you successfully add/connect Git organizations, you can:
 
 1. [Sign in](../sign-in-to-project-control-center.md).
 
-2.Click a **project** of interest.  
-The project page appears.
+2.Click a **project** of interest.
 
 3. Navigate to **Tools** tab, and click **CLA**.  
-You can also connect the GitHub organization during IT set up in the **IT Services** tab, and then install EasyCLA application in **Tools** tab to add it for CLA monitoring.
+**Note:** You can also connect the GitHub organization during IT set up in the **IT Services** tab, and then install EasyCLA application in **Tools** tab to add it for CLA monitoring.
 
 ![](../../../.gitbook/assets/tools-tab.png)
 
-3. Under CLA Groups, select a CLA group to which you have added the project.
+4. Under CLA Groups, select a CLA group to which you have added the project.
 
-4. Click **Manage** next to the project for which you want to manage repositories.
+5. Click **Manage** next to the project for which you want to manage repositories.
 
 ![Add and Manage Repositories](../../../.gitbook/assets/add-and-manage-repositories.png)
 
-4. Under GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
+6. Under GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
 
 ![](../../../.gitbook/assets/add-github-organization.png)
 
-5. Type GitHub organization name in the **Enter GitHub Organization** field, and click **Connect**.
+7. Type GitHub organization name in the **Enter GitHub Organization** field, and click **Connect**.
 
 ![](../../../.gitbook/assets/connect-github-organization.png)
 
-6. Click **Install GitHub EasyCLA App**.
+8. Click **Install GitHub EasyCLA App**.
 
 ![Install GitHub EasyCLA App](../../../.gitbook/assets/install-github-easycla-app.png)
 
-7. Sign in to GitHub if sign in window appears, and click **Install**.
+9. Sign in to GitHub if sign in window appears, and click **Install**.
 
 ![](../../../.gitbook/assets/configure-cla-for-github-organization.png)
 
-8. Select the organization that you want to enroll for CLA monitoring.
+10. Select the organization that you want to enroll for CLA monitoring.
 
-9. Select repositories, and click **Install**.
+11. Select repositories, and click **Install**.
 
 ![Select GitHub Organization](../../../.gitbook/assets/select-github-organization.png)
 
-9. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.
+12. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.
 
 {% hint style="warning" %}
 **Important:** _To enable a CLA check on a repository, you must_  [_configure a GitHub repository_](add-or-remove-git-repositories-for-cla-monitoring.md#configure-github-repositories) _or_ [_add a Gerrit instance_](./#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
@@ -62,7 +61,7 @@ You can also connect the GitHub organization during IT set up in the **IT Servic
 
 1. Click the settings icon ![](../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.
 
-2. Click **Disassociate GitHub Org**, and click **Yes, Disconnect** on the confirmation page.
+2. Click **Disassociate GitHub Org**, and click the link to create a support ticket to disassociate the GitHub org.
 
 ![Disassociate GitHub Organization](../../../.gitbook/assets/disassociate-github-organization.png)
 

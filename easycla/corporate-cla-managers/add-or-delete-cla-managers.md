@@ -15,7 +15,7 @@ As a CLA manager, you can:
 
 2. Navigate to the project for which you want to add CLA managers.
 
-3. Under EasyCLA tab, navigate to **CLA MANAGERS FROM MY ORGANIZATION**, and click **+ Add CLA Manager**.
+3. Navigate to **CLA MANAGERS FROM MY ORGANIZATION** section, and click **+ Add CLA Manager**.
 
 ![Add CLA Manager](../../.gitbook/assets/add-cla-manager.png)
 

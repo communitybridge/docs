@@ -26,7 +26,7 @@ Source Control configuration page appears.
 
 3. Turn on or Turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time.
 
-![Add or Remove Repositories from CLA Monitoring](../../../.gitbook/assets/add-or-remove-repositories.png)
+![Add or Remove Git Repositories](../../../.gitbook/assets/add-or-remove-repositories.png)
 
 ### Configure Gerrit Repositories
 
