@@ -4,7 +4,7 @@ You sign in to the CLA project control center to perform the CLA set-up and mana
 
 **To Sign in:**
 
-1. Go to [https://admin.dev.platform.linuxfoundation.org/](https://admin.dev.platform.linuxfoundation.org/).
+1. Go to [http://projectadmin.lfx.linuxfoundation.org/](http://projectadmin.lfx.linuxfoundation.org/).
 
 2. Click **Sign in with SSO**.
 
@@ -12,5 +12,5 @@ You sign in to the CLA project control center to perform the CLA set-up and mana
 
 ![Project Control Center](../../.gitbook/assets/project-control-center.png)
 
-4. Click a project to view more about the project or search for a project from the left navigation pane . For details, see [View Project CLA Details](manage-cla-groups.md).
+4. Click a project to view more about the project or search for a project from the left navigation pane . For details, see [View Project CLA Details](view-and-manage-cla-group-details.md).
 

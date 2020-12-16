@@ -14,7 +14,7 @@
     * [Sign in to Project Control Center](easycla/project-managers/sign-in-to-project-control-center.md)
     * [Create New CLA Group](easycla/project-managers/create-new-cla-group.md)
     * [Add or Remove a Project from CLA Group](easycla/project-managers/add-or-remove-a-project-from-cla-group.md)
-    * [Manage CLA Groups](easycla/project-managers/manage-cla-groups.md)
+    * [View and Manage CLA Group Details](easycla/project-managers/view-and-manage-cla-group-details.md)
     * [Add and Manage Git Organizations and Repositories](easycla/project-managers/add-and-manage-git-organizations-and-repositories/README.md)
       * [View Connection Status of Git Organizations and Repositories](easycla/project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
       * [Add or Remove Git Repositories for CLA Monitoring](easycla/project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md)

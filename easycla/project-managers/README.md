@@ -5,7 +5,7 @@ Project managers manage a project’s GitHub organization or Gerrit instance, re
 As a project administrator, you do the following activities:
 
 1. [Sign in to Project Control Center](sign-in-to-project-control-center.md)
-2. [View CLA Details for a Project](manage-cla-groups.md)
+2. [View CLA Details for a Project](view-and-manage-cla-group-details.md)
 3. [Add a New CLA Group](create-new-cla-group.md)
 4. [Add or Remove Project from CLA Group](add-or-remove-a-project-from-cla-group.md)
 5. [Add](add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Disassociate](add-and-manage-git-organizations-and-repositories/#disassociate-github-organization) GitHub Organization
