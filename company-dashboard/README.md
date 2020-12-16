@@ -4,7 +4,7 @@
 **Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage company dashboard based on their roles for a project.
 {% endhint %}
 
-The Linux Foundation provides a platform for corporate members to view Corporate License Agreement \(CLA\) details for corporates, and to sign CLA for an organization. You can also manage other roles and activities based on your role in relation to a project. After you [sign in]() to LFX Company Dashboard, you can view the following dashboards:
+The Linux Foundation provides a platform for corporate members to view Corporate License Agreement \(CLA\) details for corporates, and to sign CLA for an organization. You can also manage other roles and activities based on your role in relation to a project. After you sign in to [LFX Company Dashboard](http://member.lfx.linuxfoundation.org/), you can view the following sections:
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
@@ -33,7 +33,7 @@ You become a CLA manager designee:
 * When you are authorized to [sign CLA](../easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md) for a company as an initial CLA manager. After you sign CLA, you become [CLA manager](../easycla/corporate-cla-managers/). 
 * When you receive an email informing you that you are identified as a CLA manager for a project. You [sign in ](../easycla/corporate-cla-managers/sign-in-to-the-cla-corporate-console.md)to corporate console,  [sign the CLA](../easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-from-invitation.md), and become CLA manager. You must have an LFID to sign the CLA.
 
-You can designate someone else as CLA Signatory to sign CLA on behalf of the company. After he/she sign CLA, you become the [CLA manager](../easycla/corporate-cla-managers/) for your company.
+You can designate someone else as CLA Signatory to sign CLA on behalf of the company. After they sign CLA, you become the [CLA manager](../easycla/corporate-cla-managers/) for your company.
 
 ### Corporate CLA Manager <a id="corporate-cla-manager"></a>
 
