@@ -134,6 +134,7 @@
   * [CLA Signatories](easycla/cla-signatories/README.md)
     * [Review and Sign a Corporate CLA by Request](easycla/cla-signatories/review-and-sign-a-corporate-cla-by-request.md)
   * [EasyCLA Get Help](easycla/easycla-get-help.md)
+  * [Glossary](easycla/glossary.md)
 * [Mentorship](mentorship/README.md)
   * [Program Schedule & Timelines](mentorship/mentorship-program-timelines.md)
   * [Platform Overview](mentorship/platform-overview/README.md)
