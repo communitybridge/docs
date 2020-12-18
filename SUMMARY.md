@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LFX Toolkit](README.md)
+* [Release Notes](release-notes.md)
 * [EasyCLA](easycla/README.md)
   * [Getting Started](easycla/getting-started/README.md)
     * [EasyCLA Requirements](easycla/getting-started/easycla-requirements.md)
@@ -31,6 +32,7 @@
     * [Approve and Manage Contributors](easycla/corporate-cla-managers/approve-and-manage-contributors.md)
   * [CCLA Signatories](easycla/corporate-cla-signatories/README.md)
     * [Review and Sign a Corporate CLA by Request](easycla/corporate-cla-signatories/review-and-sign-a-corporate-cla-by-request.md)
+  * [Glossary](easycla/glossary.md)
 * [Company Dashboard](company-dashboard/README.md)
   * [Dashboard](company-dashboard/dashboard.md)
   * [Projects](company-dashboard/projects/README.md)
