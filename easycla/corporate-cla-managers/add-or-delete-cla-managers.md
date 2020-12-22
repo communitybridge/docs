@@ -30,7 +30,5 @@ As a CLA manager, you can:
 
 ### Delete a CLA Manager:
 
-Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9) under **Manage** column on a CLA manager's row to delete the user. There will always be one CLA Manager, the last undeleted CLA Manager cannot be deleted.
-
-![Delete CLA Manager](../../.gitbook/assets/delete-cla-manager.png)
+Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9) under **Manage** column on a CLA manager's row to delete the user. There will always be one CLA Manager, and you cannot delete the CLA manager if there is only one CLA manager.
 

@@ -1,10 +1,6 @@
 # Projects
 
-Click **Projects** to view all the CLA enabled projects.
-
-![Projects of Company Dashboard](../../.gitbook/assets/projects-of-company-dashboard.png)
-
-Click a project group or project to view related CLA information.
+Expand Projects, and click a project group or project to view the related EasyCLA information.
 
 ## Project Group / Project
 
@@ -16,7 +12,8 @@ This provides CLA highlights for the project group.
 
 * **CLA SIGNED** shows total number of individual CLA and corporate CLA signed by your company for the project group. This does not include approved contributors.
 * **TOTAL CONTRIBUTORS** shows the total number of individual and corporate contributors including approved contributors who contribute to the project group.
-* **REPOSITORIES USING EASYCLA** shows total number git repositories of projects under the project group that use EasyCLA
+* **REPOSITORIES USING EASYCLA** \(for an individual project\) shows total number git repositories of projects under the project group that use EasyCLA.
+* **PROJECTS USING EASYCLA** \(for a project group\) shows number of projects under the project group that are EasyCLA enabled.
 
 Data in the following sections are displayed based on:
 
@@ -34,8 +31,7 @@ Data in the following sections are displayed based on:
 It shows a table that lists the CLAs signed by your company with the project:
 
 * **Project** shows name and logo of the project with which CLA is signed.
-* **Projects Using** \(Only for Project Group\) shows the names of the individual projects under the project group that are CLA enabled. 
-* **CLA Type** \(Only for Project Group\) shows at which level the CLA is signed, for example, project group level or project level.
+* **CLA Type** \(Displayed at Project Group level\) shows at which level the CLA is signed, for example, project group level or project level.
 * **CLA Group** shows CLA group name which the project belong to. A project can have multiple CLA groups.
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
@@ -48,22 +44,25 @@ It shows a table that lists CLA managers of your company including their details
 
 * **Name** shows name and image of the CLA Manager
 * **Email Address** shows email address of the CLA Manager.
-* **Added on** shows the date when the individual was added as CLA Manager.
+* **Project** shows the project name for which the individual is assigned as a CLA Manager.
 * **Manage** \(Only for CLA Managers\) lets CLA managers [delete](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#delete-a-cla-manager) the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted.
 * **+ Add CLA Manager** \(Only for CLA Managers\) lets you [add](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) a user as a CLA manager.
 
-#### APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION <a id="approved-list-of-contributors-from-my-organization"></a>
+**RECENT ACTIVITY LOG FOR MY ORGANIZATION**
+
+It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
+
+**APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION** \(Displayed at Project level\)
 
 It shows a table that lists details of approved contributors from your organization for the project.
 
 * **Approved List** shows the user name/email lD/GitHub user ID /GitHub Organization or Domain name that is in the approved list.
-* **Coverage Type** shows the type with which the contributor is listed in the approved list.
-* **Added on** **shows** the date when the user was added to the approved list.
+* **Approval Criteria** shows the type with which the contributor is listed in the approved list.
+* **Added on** shows the date when the user was added to the approved list.
 * **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
+* **+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
 
-**+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
-
-#### CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION <a id="contributor-acknowledgement-from-my-organization"></a>
+**CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION** \(Displayed at Project level\)
 
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
@@ -74,17 +73,17 @@ It shows a table that lists contributors from your company associated with this 
 
 **Search** lets you to search a contributor by name and LFID/GHID.
 
-#### RECENT ACTIVITY LOG FOR MY ORGANIZATION <a id="recent-activity-log-for-my-organization"></a>
-
-It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
-
-**CLA STATISTICS FOR MY ORGANIZATION** \(Only for Project Group\)
+**CLA STATISTICS FOR MY ORGANIZATION** \(Displayed at Project Group level\)
 
 This is displayed only for project groups, and shows a table that lists the following information:
 
-* **Projects** shows the names of the CLA enabled projects that come under the project group.
-* **My CLA Managers** shows number of CLA managers per project.
-* **My Approved List** shows  number of approved lists per project.
+* **Projects** shows the names of the EasyCLA enabled projects that come under the project group.
+* **My CLA Managers** shows total number of CLA managers assigned to projects.
+* **My Approved List** shows total number of approved lists added to projects.
+
+**PROJECTS WITH EASYCLA ENABLED** \(Displayed at Project Group level\)
+
+Shows the individual projects that are EasyCLA enabled. Click **View Details** to navigate to the project page.
 
 ## If Company has not signed CLA
 

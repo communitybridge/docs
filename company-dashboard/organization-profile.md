@@ -82,7 +82,7 @@ This section shows a table that lists your team members— their profile photos,
 As an administrator, you must add roles for team members of the company after company account is created. CLA roles are displayed automatically as per the organization profile information.
 
 {% hint style="warning" %}
-You cannot edit or delete CLA role\(s\) of a team member.
+**Note:** You cannot edit or delete CLA role\(s\) of a team member.
 {% endhint %}
 
 * **Add Team Members** \(only for Administrators\) lets you [add](organization-profile.md#add-a-team-member) a team member.
