@@ -21,7 +21,9 @@ This section shows organization name, logo, primary address, and last updated ti
 
 #### To Edit Organization Information:
 
-Only organization administrators can edit organization information.
+{% hint style="warning" %}
+**Note:** Only organization administrators can edit organization information.
+{% endhint %}
 
 1. Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA6GWiKNR8NbAdZLdDp%2F-MA6JwfLBLbIeqxWexWs%2Fedit%20CTA%20button.png?alt=media&token=9bd600af-26bb-448f-9123-a08056015c16) on the profile header.
 
@@ -41,7 +43,9 @@ This section displays the organization addresses:
 
 #### To Add an Address:
 
-Only Organization administrators can add and/or edit an address.
+{% hint style="warning" %}
+**Note:** Only Organization administrators can add and/or edit an address.
+{% endhint %}
 
 1.  Click **Add Address** from the Address section.
 
@@ -64,6 +68,10 @@ This section shows details about organization administrators:
 
 #### To Assign Organization Administrator:
 
+{% hint style="warning" %}
+**Note:** Only Organization administrators can assign.
+{% endhint %}
+
 1. Click **Assign**.
 2. Type the name in the Search field, and click the name from search options.
 3. If the name is not displayed from search, click **User not Found. Enter Details below**.
@@ -77,7 +85,7 @@ Click **Unassign** next to an administrator.
 
 ### Team Member Roles - Services
 
-This section shows a table that lists your team members— their profile photos, names, email addresses, and their roles with project groups and projects they are associated with. If a member has more than one role, click **View More Roles** to know more about the other roles the member is associated with.
+This section shows a table that lists your team members— their profile photos, names, email addresses, and their roles with project groups and projects they are associated with. If a member has more than one role, click **View More Roles** to know about the other roles the member is assigned with.
 
 As an administrator, you must add roles for team members of the company after company account is created. CLA roles are displayed automatically as per the organization profile information.
 
@@ -85,14 +93,18 @@ As an administrator, you must add roles for team members of the company after co
 **Note:** You cannot edit or delete CLA role\(s\) of a team member.
 {% endhint %}
 
-* **Add Team Members** \(only for Administrators\) lets you [add](organization-profile.md#add-a-team-member) a team member.
+* **+Add Team Members** \(only for Administrators\) lets you [add](organization-profile.md#add-a-team-member) a team member.
 * **Manage** \(only for Administrators\) lets you [edit or delete](organization-profile.md#edit-a-team-member-role) a role. You cannot edit or delete a CLA role.
 
 ![Team Member Roles - Services](../.gitbook/assets/team-member-roles-services.png)
 
 #### Add a Team Member:
 
-1. Click **Add Team Member**.
+{% hint style="warning" %}
+**Note:** Only Organization administrators add team members.
+{% endhint %}
+
+1. Click **+Add Team Member**.
 
  2. Type full name in the Search user field, and click the name from the drop-down list or enter first name, last name, and email address of the user in the respective fields of Enter User Details.
 
@@ -119,6 +131,10 @@ This section shows a table that lists contact members of the organization. It di
 **Manage Team Members** \(only for administrators\) lets you add, edit and delete a contact for your organization.
 
 #### To Add a Contact:
+
+{% hint style="warning" %}
+**Note:** Only Organization administrators can add a contact.
+{% endhint %}
 
 1. Click **Manage Team Members**.
 
