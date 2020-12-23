@@ -19,9 +19,9 @@ Recent backend development was implemented in Golang, and can be found in the [`
 
 ## EasyCLA Frontend <a id="cla-frontend"></a>
 
-EasyCLA front end consists of three independent Single Page Application \(SPA\) built with [Ionic](https://ionicframework.com/) framework:
+EasyCLA frontend consists of three independent Single Page Application \(SPA\) built with [Ionic](https://ionicframework.com/) framework:
 
-* [EasyCLA front-end project console](http://projectadmin.lfx.linuxfoundation.org/) for The Linux Foundation director/admin/user to manage project CLA
+* [EasyCLA front-end project console](http://projectadmin.lfx.linuxfoundation.org/) for The Linux Foundation director/ project administrator to manage project's CLA 
 * [EasyCLA front-end corporate console](https://member.lfx.linuxfoundation.org/company/dashboard) for company CCLA manager to sign a CCLA and manage employees using CLA approved list
 * [EasyCLA front-end contributor console](https://github.com/communitybridge/easycla-contributor-console) for any project contributor to sign ICLA or CCLA
 
