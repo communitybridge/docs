@@ -1,14 +1,14 @@
 # Company Dashboard
 
 {% hint style="info" %}
-**Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage company dashboard based on the permission.
+**Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage company dashboard based on their permission level.
 {% endhint %}
 
-The LFX Company Dashboard makes it easier for corporate members to view Contributor License Agreement \(CLA\) details for their companies, sign CLA for an organization, manage other roles and activities based on the permission they have for a project. After you sign in to [LFX Company Dashboard](http://member.lfx.linuxfoundation.org/), you view the following sections:
+The LFX Company Dashboard makes it easier for corporate members to view Contributor License Agreement \(CLA\) details for their companies, sign CLA for an organization, manage other roles and activities based on their permission level. After you sign in to [LFX Company Dashboard](http://member.lfx.linuxfoundation.org/), you view the following sections:
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
-* [Organization Profile](organization-profile.md)
+* [Organization Profile](manage-organization.md)
 
 ## What Role are You? <a id="what-role-are-you"></a>
 

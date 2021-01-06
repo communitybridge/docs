@@ -35,11 +35,11 @@
   * [Glossary](easycla/glossary.md)
 * [Company Dashboard](company-dashboard/README.md)
   * [Dashboard](company-dashboard/dashboard.md)
+  * [Manage Organization](company-dashboard/manage-organization.md)
   * [Projects](company-dashboard/projects/README.md)
     * [Sign CLA for a Project](company-dashboard/projects/sign-cla-for-a-project.md)
     * [Add or Delete a CLA Manager](company-dashboard/projects/add-or-delete-a-cla-manager.md)
     * [Add and Manage a Contributor](company-dashboard/projects/add-and-manage-a-contributor.md)
-  * [Organization Profile](company-dashboard/organization-profile.md)
   * [Manage your Profile](company-dashboard/manage-your-profile.md)
   * [FAQs](company-dashboard/faqs.md)
 
