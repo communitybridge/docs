@@ -64,7 +64,7 @@ It shows a table that lists details of approved contributors from your organizat
 * **Approval Criteria** shows the type with which the contributor is listed in the approved list.
 * **Added on** shows the date when the user was added to the approved list.
 * **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
-* **+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
+* **+Add Approval Criteria** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
 
 **CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION**
 
@@ -75,9 +75,9 @@ It shows a table that lists details of approved contributors from your organizat
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
 * **Name** shows the name and image of the contributor. Data is retrieved from the individual profile page.
-* **LFID/GHID** shows the Linux Foundation ID or GitHub ID of the contributor.
+* **LF Login/GHID** shows the Linux Foundation ID or GitHub ID of the contributor.
 * **Agreement** shows the version of CLA agreement that was signed by the contributor.
-* **Timestamp** shows date and time when the user acknowledged the agreement.
+* **Acknowledged On** shows date and time when the user acknowledged the agreement.
 
 **Search** lets you to search a contributor by name and LFID/GHID.
 
