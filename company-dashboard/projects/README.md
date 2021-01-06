@@ -55,7 +55,7 @@ It shows recent activities of your company for the project. The activity-log dis
 **APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION**
 
 {% hint style="info" %}
-**Note:** This section is displayed only at project level.
+**Note:** This section is displayed only for individual projects, not for project groups.
 {% endhint %}
 
 It shows a table that lists details of approved contributors from your organization for the project.
@@ -69,7 +69,7 @@ It shows a table that lists details of approved contributors from your organizat
 **CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION**
 
 {% hint style="info" %}
-**Note:** This section is displayed only at project level.
+**Note:** This section is displayed only for individual projects, not for project groups.
 {% endhint %}
 
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
@@ -84,7 +84,7 @@ It shows a table that lists contributors from your company associated with this 
 **CLA STATISTICS FOR MY ORGANIZATION**
 
 {% hint style="info" %}
-**Note:** This section is displayed ****only at project-group level.
+**Note:** This section is displayed ****only for project groups, not for individual projects.
 {% endhint %}
 
 This is displayed only for project groups, and shows a table that lists the following information:
@@ -93,7 +93,11 @@ This is displayed only for project groups, and shows a table that lists the foll
 * **My CLA Managers** shows total number of CLA managers assigned to projects.
 * **My Approved List** shows total number of approved lists added to projects.
 
-**PROJECTS WITH EASYCLA ENABLED** \(Displayed at Project Group level\)
+**PROJECTS WITH EASYCLA ENABLED**
+
+{% hint style="info" %}
+**Note:** This section is displayed ****only for project groups, not for individual projects.
+{% endhint %}
 
 Shows the individual projects that are EasyCLA enabled. Click **View Details** to navigate to the project page.
 

@@ -8,7 +8,7 @@ The LFX Company Dashboard makes it easier for corporate members to view Contribu
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
-* [Organization Profile](manage-organization.md)
+* [Manage Organization](manage-organization.md)
 
 ## What Role are You? <a id="what-role-are-you"></a>
 
