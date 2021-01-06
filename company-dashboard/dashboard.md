@@ -2,7 +2,7 @@
 
 ![Company Dashboard](../.gitbook/assets/company-dashboard.png)
 
-Following are the aggregate data of all projects that use EasyCLA.
+Following are the aggregate data of all the projects that use LFX EasyCLA.
 
 ### CLA STATISTICS <a id="cla-statistics"></a>
 

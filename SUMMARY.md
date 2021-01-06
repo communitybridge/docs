@@ -27,7 +27,7 @@
     * [Sign Corporate CLA for a Company](easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md)
     * [Sign Corporate CLA from Invitation](easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-from-invitation.md)
   * [Corporate CLA Managers](easycla/corporate-cla-managers/README.md)
-    * [Sign In to the CLA Corporate Console](easycla/corporate-cla-managers/sign-in-to-the-cla-corporate-console.md)
+    * [Sign In to the EasyCLA Corporate Console](easycla/corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md)
     * [Add or Delete CLA Managers](easycla/corporate-cla-managers/add-or-delete-cla-managers.md)
     * [Approve and Manage Contributors](easycla/corporate-cla-managers/approve-and-manage-contributors.md)
   * [CCLA Signatories](easycla/corporate-cla-signatories/README.md)

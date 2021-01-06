@@ -14,7 +14,7 @@ As a CLA manager, you can:
 
 ### **Add Contributor\(s\)**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md) to corporate console.
+1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to corporate console.
 
 2. Click a **project** of interest.
 

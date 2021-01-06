@@ -14,7 +14,7 @@ A Corporate CLA needs to be in place if you are contributing code on behalf of y
 
 An Individual CLA is signed by an individual for contributions that they contribute on their own behalf, as opposed to contributions on behalf of their employer or another entity.
 
-**Which Corporate CLA approvedlist option has the lowest maintenance overhead?**
+**Which Corporate CLA approved-list option has the lowest maintenance overhead?**
 
 The Domain **Approved List** option requires less overhead for CCLA signatories and CCLA managers because it allows entities to contribute under any email address under that domain name. When CCLA signatories and CCLA managers use the Email Approved List instead of the Domain Approved List, they must use the tool to add an email address every time a new company contributor joins the project. Therefore, using the Domain **Approved List** requires less overhead because CCLA signatories and CCLA managers do not need to add and manage numerous employee email addresses.
 

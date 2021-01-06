@@ -1,4 +1,4 @@
-# Sign In to the CLA Corporate Console
+# Sign In to the EasyCLA Corporate Console
 
 Sign in to the corporate console before you can sign a Corporate CLA, and perform other activities.
 

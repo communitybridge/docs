@@ -1,6 +1,6 @@
 # Projects
 
-Expand Projects, and click a project group or project to view the related EasyCLA information.
+Expand Projects, and search a project group or project to view the related EasyCLA information.
 
 ## Project Group / Project
 
@@ -32,7 +32,7 @@ It shows a table that lists the CLAs signed by your company with the project:
 
 * **Project** shows name and logo of the project with which CLA is signed.
 * **CLA Type** \(Displayed at Project Group level\) shows at which level the CLA is signed, for example, project group level or project level.
-* **CLA Group** shows CLA group name which the project belong to. A project can have multiple CLA groups.
+* **CLA Group** shows CLA group name which the project belongs to. A CLA group can have multiple projects.
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
 * **Signed By** shows name of the person who signed the CLA.
@@ -52,7 +52,11 @@ It shows a table that lists CLA managers of your company including their details
 
 It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
 
-**APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION** \(Displayed at Project level\)
+**APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION**
+
+{% hint style="info" %}
+**Note:** This section is displayed only at project level.
+{% endhint %}
 
 It shows a table that lists details of approved contributors from your organization for the project.
 
@@ -62,7 +66,11 @@ It shows a table that lists details of approved contributors from your organizat
 * **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
 * **+Add Contributor\(s\)** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
 
-**CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION** \(Displayed at Project level\)
+**CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION**
+
+{% hint style="info" %}
+**Note:** This section is displayed only at project level.
+{% endhint %}
 
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
@@ -73,7 +81,11 @@ It shows a table that lists contributors from your company associated with this 
 
 **Search** lets you to search a contributor by name and LFID/GHID.
 
-**CLA STATISTICS FOR MY ORGANIZATION** \(Displayed at Project Group level\)
+**CLA STATISTICS FOR MY ORGANIZATION**
+
+{% hint style="info" %}
+**Note:** This section is displayed ****only at project-group level.
+{% endhint %}
 
 This is displayed only for project groups, and shows a table that lists the following information:
 
