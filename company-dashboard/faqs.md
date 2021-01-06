@@ -8,17 +8,3 @@ The LFX Company Dashboard is only for corporate members. Individuals who are ass
 
 Yes, multiple projects can come under one CLA group, however, one project can not be associated with multiple CLA groups.
 
-## Who <a id="is-it-required-for-a-cla-signatory-to-have-an-lfid"></a>
-
-## Can project managers see projects owned by other project managers? <a id="can-project-managers-see-projects-owned-by-other-project-managers"></a>
-
-
-
-​
-
-​
-
-​
-
-Last updated 2 months ago
-
