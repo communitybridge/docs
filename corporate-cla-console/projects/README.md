@@ -4,18 +4,7 @@ Expand Projects, and search a project group or project to view the related EasyC
 
 ## Project Group / Project
 
-Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for a project:
-
-### CLA STATISTICS
-
-This provides CLA highlights for the project group.
-
-* **CLA SIGNED** shows total number of individual CLA and corporate CLA signed by your company for the project group. This does not include approved contributors.
-* **TOTAL CONTRIBUTORS** shows the total number of individual and corporate contributors including approved contributors who contribute to the project group.
-* **REPOSITORIES USING EASYCLA** \(for an individual project\) shows total number git repositories of projects under the project group that use EasyCLA.
-* **PROJECTS USING EASYCLA** \(for a project group\) shows number of projects under the project group that are EasyCLA enabled.
-
-Data in the following sections are displayed based on:
+Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for a project based on:
 
 * [If company has signed CLA](./#if-company-has-signed-cla)
 * [If company has not signed CLA](./#if-company-has-not-signed-cla)
@@ -46,7 +35,7 @@ It shows a table that lists CLA managers of your company including their details
 * **Email Address** shows email address of the CLA Manager.
 * **Project** shows the project name for which the individual is assigned as a CLA Manager.
 * **Manage** \(Only for CLA Managers\) lets CLA managers [delete](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#delete-a-cla-manager) the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted.
-* **+ Add CLA Manager** \(Only for CLA Managers\) lets you [add](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) a user as a CLA manager.
+* **+ Add CLA Manager** \(Only for CLA Managers\) lets you [add](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) an individual as a CLA manager.
 
 **RECENT ACTIVITY LOG FOR MY ORGANIZATION**
 
@@ -91,7 +80,7 @@ This is displayed only for project groups, and shows a table that lists the foll
 
 * **Projects** shows the names of the EasyCLA enabled projects that come under the project group.
 * **My CLA Managers** shows total number of CLA managers assigned to projects.
-* **My Approved List** shows total number of approved lists added to projects.
+* **Approved Contributor Count** shows total number of approved contributors of projects.
 
 **PROJECTS WITH EASYCLA ENABLED**
 

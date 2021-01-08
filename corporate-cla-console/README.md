@@ -1,10 +1,10 @@
-# Company Dashboard
+# Corporate CLA Console
 
 {% hint style="info" %}
-**Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage company dashboard based on their permission level.
+**Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage corporate console based on their permission level.
 {% endhint %}
 
-The LFX Company Dashboard makes it easier for corporate members to view Contributor License Agreement \(CLA\) details for their companies, sign CLA for an organization, manage other roles and activities based on their permission level. After you sign in to [LFX Company Dashboard](http://member.lfx.linuxfoundation.org/), you view the following sections:
+Corporate CLA Console makes it easier for corporate members to view Contributor License Agreement \(CLA\) details for their companies, sign CLA for an organization, manage other roles and activities based on their permission level. After you sign in to [Corporate CLA Console](https://member.lfx.linuxfoundation.org/company/dashboard), you view the following sections:
 
 * [Dashboard](dashboard.md)
 * [Projects](projects/)
@@ -12,7 +12,7 @@ The LFX Company Dashboard makes it easier for corporate members to view Contribu
 
 ## What Role are You? <a id="what-role-are-you"></a>
 
-How you interact with the LFX corporate console depends on your role. Corporate console supports the following roles in its workflow for EasyCLA:
+How you interact with the Corporate CLA Console depends on your role. Corporate console supports the following roles in its workflow for EasyCLA:
 
 * [Contributor](./#contributor)
 * [Corporate CLA \(CCLA\) manager designee](./#corporate-cla-manager-designee)

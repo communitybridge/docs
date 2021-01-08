@@ -1,6 +1,6 @@
 # Dashboard
 
-![Company Dashboard](../.gitbook/assets/company-dashboard.png)
+![Corporate CLA Dashboard](../.gitbook/assets/company-dashboard.png)
 
 Following are the aggregate data of all the projects that use LFX EasyCLA.
 
