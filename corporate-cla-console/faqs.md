@@ -1,8 +1,8 @@
 # FAQs
 
-## Who can use the Company Dashboard? <a id="can-multiple-projects-come-under-one-cla-group"></a>
+## Who can use the Corporate CLA Console? <a id="can-multiple-projects-come-under-one-cla-group"></a>
 
-The LFX Company Dashboard is only for corporate members. Individuals who are associated with member companies of The Linux Foundation can sign in using their LF SSO crede
+Only corporate members have access to the Corporate CLA Console. Individuals who are associated with member companies of The Linux Foundation can sign in using their LF SSO account credentials.
 
 ## Can multiple projects come under one CLA group? <a id="can-multiple-projects-come-under-one-cla-group"></a>
 

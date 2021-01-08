@@ -36,9 +36,9 @@ Individual Contributor License Agreement \(ICLA\) defines terms and conditions u
 
 A [CLA signatory](corporate-cla-signatories/) signs CLA on behalf of the company. CLA signatories can be any individual with  legal authority to sign documents on behalf of the company.
 
-#### **Corporate Console**
+#### **Corporate CLA Console**
 
-Corporate employees and CLA Managers use the [corporate console](http://member.lfx.linuxfoundation.org/), also referred as LFX Company Dashboard, to view and manage company’s CLA information based on their permissions.
+Corporate employees and CLA Managers use the [corporate console](https://member.lfx.linuxfoundation.org/), also referred as Corporate CLA Console, to view and manage company’s CLA information based on their permissions.
 
 #### **Contributor Console**
 
