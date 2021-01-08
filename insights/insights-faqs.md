@@ -6,7 +6,7 @@ LFX Insights collects data for a project, segregates them to different data sour
 
 ## What is a Data Source?
 
-A data source is the primary location where data is stored, and data is fetched from this location and is used. For example, in a database management system, the primary data source is the database, which can be located in a disk or a remote server. The data source for a computer program can be a file, a data sheet, a spreadsheet, an XML file or even hard-coded data within the program.
+Data sources are the collaboration tools or the remote servers that are used by projects to drive the development of a project. For example, in a database management system, the primary data source is the database, which can be located in a disk or a remote server. The data source for a computer program can be a file, a data sheet, a spreadsheet, an XML file or even hard-coded data within the program.
 
 ## What are the Data Sources supported by The Linux Foundation?
 
