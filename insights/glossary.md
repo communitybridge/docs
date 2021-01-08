@@ -50,6 +50,10 @@ A _dashboard_ is a data visualization that displays analytics metrics and import
 
 _Data affiliation_ connects or associates identities. Affiliation is a close association or connection to an organization, company, and so on. An example of affiliation is being a member of a community organization. Or, a member could belong to two or more companies that are related through common ownership, but are treated as one. In this case, a single member might have multiple identities such as two different company emails.
 
+## Data Source
+
+A data source is the primary location where data is stored, and data is fetched from this location and is used. For example, in a database management system, the primary data source is the database, which can be located in a disk or a remote server. The data source for a computer program can be a file, a data sheet, a spreadsheet, an XML file or even hard-coded data within the program.
+
 ## Free and Open Source Software \(FOSS\) <a id="DevAnalyticsGlossary-FreeandOpenSourceSoftware(FOSS)"></a>
 
 _Free and Open Source Software \(FOSS\)_ development is software developed by informal collaborative networks of programmers. 

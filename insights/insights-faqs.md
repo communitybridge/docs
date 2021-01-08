@@ -4,6 +4,14 @@
 
 LFX Insights collects data for a project, segregates them to different data sources, such as source control for code related data, issue management for issues statuses, documentation for confluence and wiki pages, CI/CD for Jenkins, and so on. It represents these data on different visualization dashboards, such as graphs, charts, and tables.
 
+## What is a Data Source?
+
+A data source is the primary location where data is stored, and data is fetched from this location and is used. For example, in a database management system, the primary data source is the database, which can be located in a disk or a remote server. The data source for a computer program can be a file, a data sheet, a spreadsheet, an XML file or even hard-coded data within the program.
+
+## What are the Data Sources supported by The Linux Foundation?
+
+The Linux Foundation supports various data sources string from source control systems to social media platforms to collect and visualize project's data. For details, see [Supported Data Sources](supported-data-sources.md).
+
 ## Who can see LFX Insights reports?
 
 Anyone can see reports for projects that are on LFX platform. However, only project maintainers can see information related to affiliation management, and email ids of contributors.

@@ -22,6 +22,10 @@ Overview shows information about Confluence documentation reviews, including edi
 
 **Editors** **Per Day** shows a bar graph that represents the number of editors for the project over time. Mouse over a color in the graph to see the total number of editors for a date.
 
+Activity By Organization Per Day 
+
+
+
 **Top Editors** shows a table that lets you sort values by Editor, Page Edits, New Pages, Comments, Blog Posts, Attachments, and Last Action Date.
 
 **Last Actions** shows a table that lets you sort values by Summary, URL, Action Type, and Action Date. Click **+ Info** to open the corresponding page.
