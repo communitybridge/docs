@@ -1,7 +1,3 @@
----
-description: My Individual Enrollments Page
----
-
 # Individual Enrollments
 
 The individual enrollments page is a page from the individual dashboard, where you can view and manage your individual subscriptions as a user.      
