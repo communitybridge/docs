@@ -38,11 +38,11 @@ In this case you will have your membership to be renewed automatically.
 
 3- Auto Renew 
 
-Auto renew is a toggle to enable or disable the yearly automatic renewal on your behalf. 
+Auto renew is a toggle to enable or disable the **yearly automatic renewa**l on your behalf. 
 
 Enabling the auto renew, will automatically renew your next cycle before it will be expired in 1 day. 
 
-Disabling the auto renew, allow you to renew manually. 
+Disabling the auto renew, allow you to **renew manually**. 
 
   
 
@@ -50,7 +50,7 @@ Disabling the auto renew, allow you to renew manually.
 
 4- Purchase History of Individual Enrollments  
 
-To ****view the purchase history of your enrollments; you have to look at the purchase history section from "My Profile" page 
+To ****view the purchase history of your enrollments; you have to look at the **purchase history section** from "My Profile" page 
 
 ![Menu Access to &quot;My Profile&quot; ](../.gitbook/assets/image%20%2812%29.png)
 
