@@ -4,7 +4,7 @@ It can be intimidating initially if you are mentoring an open source group for t
 
 Open source development is truly global. All cultures, all languages, all time zones, and all continents--yes, even Antarctica.
 
-* It is synchronous in nature. Most collaboration is done via email, forum posts, mailing lists, and pull requests.
+* It is asynchronous in nature. Most collaboration is done via email, forum posts, mailing lists, and pull requests.
 * Cooperation and consensus building is the greatest challenge.
 * Because other people can’t see your face or hear your voice, emotions are lost and intent muddled.
 
