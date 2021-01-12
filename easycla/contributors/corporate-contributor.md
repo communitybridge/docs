@@ -34,7 +34,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 6. Click **Proceed as a Corporate Contributor**.   
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement.
 
-7. On **Select Your Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
+7. On **Select Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
 
 {% hint style="info" %}
 **Note:** 
@@ -43,7 +43,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
 
-![ccla flow](../../.gitbook/assets/select-organization.png)
+
 
 ![](../../.gitbook/assets/setup-required.png)
 
