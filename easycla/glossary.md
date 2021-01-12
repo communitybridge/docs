@@ -4,6 +4,10 @@
 
 Approved Lists are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed Corporate CLA. [CLA managers](glossary.md#cla-manager) create and manage the approved list.
 
+#### Approval Criteria
+
+Approval Criteria is the category under which a contributor is added to the approved list. There are four approval criterias available—Domain, Email Address, GitHub Username, and GitHub Organization.
+
 #### **CLA**
 
 A Contributor License Agreement \(CLA\) defines the terms under which intellectual property is contributed to a company or project. Typically, the intellectual property is software under an open source license. It is a legal contract signed by contributors before they can contribute code to a project.
@@ -52,6 +56,10 @@ A [CLA group](glossary.md#cla-group) that is created at the project group level.
 
 Individual contributors contribute code on their own behalf \(not on behalf of an employer\). CLA is verified while creating a PR, and they must sign CLA before they can contribute to GitHub or Gerrit. They are navigated to the LFX Contributor Console from GitHub or Gerrit to sign the CLA.
 
+#### **Legal Entity**
+
+Legal entity is a team of The Linux Foundation that has legal rights and responsibilities to manage projects and provide access to project managers to maintain projects.
+
 #### **Project Console**
 
 Also known as Project Control Center. Project managers use the [project console](http://projectadmin.lfx.linuxfoundation.org/) to create CLA groups, add and manage projects, repositories, and so on for the CLA group.
@@ -64,8 +72,8 @@ A [CLA group](https://docs.google.com/document/d/1N_IjTN1I5ZnN8vHmNAH8tu8YGLecY8
 
 [Project managers](project-managers/) or Project admins are authorized by The Linux Foundation to maintain projects. They use the [LFX Project Control Center \(PCC\)](http://projectadmin.lfx.linuxfoundation.org/) or Project Console where they have access to specific projects as per the permission provided by The Linux Foundation. They add and manage projects and repositories on PCC.
 
-#### **Legal Entity**
+#### Signing Entity
 
-Legal entity is a team of The Linux Foundation that has legal rights and responsibilities to manage projects and provide access to project managers to maintain projects.  
+Signing entity is an organization's Legal Entity name who will sign the corporate CLA. While signing corporate CLA, signing entity names of an organization are displayed on **Select Organization** window. Contributors must select a signing entity name for their organization.  
 
 

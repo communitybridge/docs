@@ -43,7 +43,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
 
-
+![Select Organization](../../.gitbook/assets/select-organization.png)
 
 ![](../../.gitbook/assets/setup-required.png)
 
