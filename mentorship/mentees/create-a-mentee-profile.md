@@ -49,13 +49,13 @@ Introduce yourself by answering the questions required to complete this section.
 
 Provide a mailing address. 
 
-![Mentee Mailing Address](../../.gitbook/assets/7418798.jpg)
+![Mentee Mailing Address](../../.gitbook/assets/7418798%20%281%29.jpg)
 
 ## External Profile Links <a id="CreateaMenteeProfile-ExternalProfileLinks"></a>
 
 Provide links to your external profiles and upload your resume. Mentee resumes will be shared with mentors during the application process. After graduation, the resumes may be shared with prospective employers.
 
-![External Profile Links](../../.gitbook/assets/7418797.png)
+![External Profile Links](../../.gitbook/assets/7418797%20%281%29.png)
 
 ## Skills <a id="CreateaMenteeProfile-Skills"></a>
 

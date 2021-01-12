@@ -86,7 +86,7 @@ This message appears if you are added to the approved list, and your CLA doesn't
 
 A dialog appears and informs you: You are done!
 
-![](../../.gitbook/assets/cla-github-you-are-done%20%281%29.png)
+![](../../.gitbook/assets/cla-github-you-are-done%20%281%29%20%281%29.png)
 
 3. Click **RETURN TO REPO**.
 

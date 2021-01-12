@@ -25,7 +25,7 @@ When you update a task, the mentee receives an email informing them that the tas
 
 **Note:** Mentees can also change status of a task to either In Progress or Submitted by navigating to their accounts.If Mentees change status, the same status also reflects for you.
 
-![](../../.gitbook/assets/mentee-tasks%20%283%29.png)
+![](../../.gitbook/assets/mentee-tasks%20%283%29%20%281%29.png)
 
 Below is a description of each status:
 

@@ -34,7 +34,7 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 1. Sign in to [https://www.expensify.com/signin](https://www.expensify.com/signin)  
      Ensure that you use the same email address linked to your travel funding approval. 
 
-![](../.gitbook/assets/7419228.png)
+![](../.gitbook/assets/7419228%20%282%29.png)
 
 2. Depending on your location:
 

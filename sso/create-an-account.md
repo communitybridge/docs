@@ -12,7 +12,7 @@ When you log in for the first time to any Linux Foundation managed service that 
 
 3. On Create Your LF Account page, enter your first name, last name, email address, username, password, and click on **Create Account** CTA button.
 
-![](../.gitbook/assets/create-account.png)
+![](../.gitbook/assets/create-account%20%281%29.png)
 
 4. You will receive an email verification at the email address you provided with the link to verify your email.  If you don't receive the email, click on **Resend Email** CTA button.
 
