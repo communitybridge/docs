@@ -34,7 +34,7 @@ The individual must have an [LF SSO](https://docs.linuxfoundation.org/lfx/sso) a
 6. Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
  ![](../../.gitbook/assets/identify-cla-signatory.png) 
 
-* **Yes**— **Review CCLA** window appears. Click **Review & Sign CCLA**, and continue to step 8.  ****![](../../.gitbook/assets/review-ccla.png) 
+* **Yes**— **Review CCLA** window appears. Click **Review & Sign CCLA**, and continue to step 8.![](../../.gitbook/assets/review-ccla.png)   **** 
 * **No**— An **Identify Authorized Signatory** form appears. Continue to next step.  ![](../../.gitbook/assets/identify-authorized-signatory.png) 
 
 7. Complete the form, and click **Send Signature Request Email**.  
