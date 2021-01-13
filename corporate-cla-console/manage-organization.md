@@ -36,3 +36,5 @@ This section shows a table that lists your team members— their profile photos,
 
 CLA roles are displayed automatically as per the organization profile information. To edit or delete a role, click **Submit a Support Ticket** under Request a change to submit a ticket.
 
+![Team Member Roles - Services](../.gitbook/assets/team-member-roles-services.png)
+
