@@ -14,6 +14,14 @@ A Corporate CLA needs to be in place if you are contributing code on behalf of y
 
 An Individual CLA is signed by an individual for contributions that they contribute on their own behalf, as opposed to contributions on behalf of their employer or another entity.
 
+#### What is Signing Entity? Should I always select a signing entity?
+
+Signing Entity is organization's legal entity which is authorized by the organization to sign a corporate CLA. Yes, you must select a signing entity under your organization.
+
+#### What if there is no signing entity available for my organization?
+
+Every company has a legal signing entity. If you don't see a signing entity name under your organization, you must provide the signing entity name by navigating to [create new organization window](../contributors/corporate-contributor.md#if-the-select-company-dialog-appears-1).
+
 **Which Corporate CLA approval criteria option has the lowest maintenance overhead?**
 
 The **Approval Criteria** option requires less overhead for CCLA signatories and CCLA managers because it allows entities to contribute under any email address under that domain name. When CCLA signatories and CCLA managers use the Email Approval Criteria instead of the Domain Approval Criteria, they must  add email address of the contributor every time a new company contributor joins the project. Therefore, using the Domain **Approval Criteria** requires less overhead because CCLA signatories and CCLA managers do not need to add and manage numerous employee email addresses.

@@ -34,18 +34,16 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 6. Click **Proceed as a Corporate Contributor**.   
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement.
 
-7. On **Select Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
+7. On **Select Organization** window, type organization name in the field, select the [signing entity name](../glossary.md#signing-entity-name) for the organization from the drop-down list, and click **Proceed**.
 
 {% hint style="info" %}
 **Note:** 
 
-* If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1).
+* If your company or the signing entity is not in the list, you can add the company and/or its signing entity as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1) and [if Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-is-not-in-the-list).
 * **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
 
 ![Select Organization](../../.gitbook/assets/select-organization.png)
-
-![](../../.gitbook/assets/setup-required.png)
 
 8. Continue:
 
@@ -54,6 +52,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 * [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
+* [If Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-is-not-in-the-list)
 
 ## Gerrit
 
@@ -94,6 +93,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 * [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
+* [If Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-is-not-in-the-list)
 
 ## If you are not added to the approved list
 
@@ -200,9 +200,11 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![company not listed](../../.gitbook/assets/company-not-listed.png)
 
-2. ****Provide organization name and website URL on **Enter Organization Details** window, and click **Next**.
+2. ****Provide organization website URL, organization name, and signing entity name in the respective fields.
 
-![](../../.gitbook/assets/enter-organization-details.png)
+4. Click **Next**.
+
+![Create New Organization](../../.gitbook/assets/create-new-organization.png)
 
 3. A window appears confirming that the organization is successfully added.  
 **Note:**  if the company is already added to the list, **Company Already Exists** window appears and directs you to re-enter the company name in the Search field. You can search again to find the company.
@@ -210,4 +212,14 @@ You will receive an email after you are added to the approved list. After you ar
 ![](../../.gitbook/assets/company-added-successfully.png)
 
 4. Click **Proceed** to [sign a corporate CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+
+## If Signing Entity Name is not in the List
+
+1. Click **+Click Here** next to **Organization not listed?**
+
+2. Provide organization website URL. The organization name is displayed automatically in the **Organization Name** field.
+
+3. Provide signing entity name in the **Signing Entity Name** field, and click **Next**.
+
+![](../../.gitbook/assets/create-new-organization.png)
 

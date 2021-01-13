@@ -72,8 +72,8 @@ A [CLA group](https://docs.google.com/document/d/1N_IjTN1I5ZnN8vHmNAH8tu8YGLecY8
 
 [Project managers](project-managers/) or Project admins are authorized by The Linux Foundation to maintain projects. They use the [LFX Project Control Center \(PCC\)](http://projectadmin.lfx.linuxfoundation.org/) or Project Console where they have access to specific projects as per the permission provided by The Linux Foundation. They add and manage projects and repositories on PCC.
 
-#### Signing Entity
+#### Signing Entity Name
 
-Signing entity is an organization's Legal Entity name who will sign the corporate CLA. While signing corporate CLA, signing entity names of an organization are displayed on **Select Organization** window. Contributors must select a signing entity name for their organization.  
+Signing entity name is an organization's Legal Entity name that is authorized to sign the corporate CLA on behalf of the company. For example, for company Google, there can be multiple signing entities for the company, such as Google USA, Google Bulgaria, Google India, and so on. While signing corporate CLA, signing entity names of an organization are displayed on **Select Organization** window. Contributors must select a signing entity name for their organization.  
 
 
