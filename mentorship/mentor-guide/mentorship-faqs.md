@@ -12,7 +12,7 @@ Absolutely! For mentees who successfully graduate, Linux Foundation promotes the
 
 The Linux Foundation offers mentorship programs around the year with specific term dates. Please check the projects of your interest to find details of the program term dates.
 
-**How long is a mentors engaged in the program?**
+**How long are mentors engaged in the program?**
 
 It might vary based on project guidelines. In general, there is an application period and formal program participation/contribution. Mentors can be engaged with the community even after the completion of the program.
 
@@ -23,4 +23,3 @@ Travel Funding is the eye-catching part of this program. Yes, additional travel 
 **Is the mentee selection process transparent and in the open?**
 
 Yes, Linux Foundation maintains transparency in the mentee selection process. Selection is based on the application materials they submitted, and interview/additional assessment tasks if assigned by the mentor. If mentees meet the eligibility requirements, applications are submitted, and all the assigned tasks are completed, their applications will be reviewed.
-
