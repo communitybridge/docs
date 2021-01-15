@@ -6,7 +6,7 @@ description: This page describes how to sign CLA as a CLA manager.
 
 As a CCLA manager designee \(initial CLA manager\), you must sign a Corporate CLA before you can manage contributors of your company, and add other CLA managers. You become a[ CCLA manager](../corporate-cla-managers/) after you sign CLA as a CLA manager designee.
 
-1. [Sign in](../corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md) to the [corporate console](http://member.lfx.linuxfoundation.org/) as a CCLA manager designee.
+1. [Sign in](../corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md) to the [corporate console](http://member.lfx.linuxfoundation.org/).
 
 2. Click the project for which you want to sign CLA, navigate to **Tools &gt; CLA,** and click **Start the CLA Process**.  
 **Note:** If you are already designated as a CLA manager designee for a project, details appear as shown in step 5.  
@@ -29,7 +29,7 @@ The individual must have an [LF SSO](https://docs.linuxfoundation.org/lfx/sso) a
 5. You are designated as the initial CLA manager \(CLA manager designee\). Under **Action** column, click **Proceed with Signing**.  
 **Result:** Identify CLA Signatory window appears.
 
-![Proceed with Signing CLA](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA0-8_cL605eCKF8NMT%2F-MA0AMSeGRZh-N_H24ZK%2Fproceed%20with%20signing%20cla.png?alt=media&token=80bd1c7e-e336-4db8-89c3-b65faf4270d3)
+![Proceed with Signing CLA](../../.gitbook/assets/proceed-with-signing.png)
 
 6. Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
  ![](../../.gitbook/assets/identify-cla-signatory.png) 

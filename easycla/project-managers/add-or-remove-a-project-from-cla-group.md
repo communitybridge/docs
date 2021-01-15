@@ -13,5 +13,5 @@ You can add new projects to a CLA group to let contributors sign and contribute 
 
 4. Click **Update CLA Group**.
 
-![Add and Manage Projects under a CLA group.](../../.gitbook/assets/add-and-manage-projects.png)
+![Add and Manage Projects under a CLA Group](../../.gitbook/assets/add-and-manage-projects-under-a-cla-group.png)
 

@@ -1,6 +1,6 @@
 # Dashboard
 
-![Corporate CLA Dashboard](../.gitbook/assets/company-dashboard.png)
+![Corporate CLA Dashboard](../.gitbook/assets/corporate-cla-dashboard.png)
 
 Following are the aggregate data of all the projects that use LFX EasyCLA.
 
@@ -23,8 +23,6 @@ Following are the aggregate data of all the projects that use LFX EasyCLA.
 * **No. of Projects** shows the total number of projects that are EasyCLA enabled under a project group. Click the number to see the project names as shown in the following image.  **Note:** A project name under **No. of Projects** indicates that it is an individual project and doesn't come under any project group.
 
 Click a project group or a project under a project group to view the  EasyCLA information.
-
-![View Projects](../.gitbook/assets/view-projects.png)
 
 ​
 
