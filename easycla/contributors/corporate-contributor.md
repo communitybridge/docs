@@ -223,3 +223,5 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![](../../.gitbook/assets/create-new-organization.png)
 
+4. If company has signed CLA, clicking **Next** displays the CLA managers from the company. Select CLA managers whom you want to [request to authorize](corporate-contributor.md#if-you-are-not-added-to-the-approved-list) you to contribute.
+

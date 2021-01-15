@@ -8,7 +8,7 @@ You can add new projects to a CLA group to let contributors sign and contribute 
 
 2. Under CLA Groups, select a CLA group for which you want to manage projects.
 
-3.  Select or deselect the checkbox next to a project to add and remove the project from the CLA group.  
+3.  Select or deselect the checkbox next to a project to add or remove the project from the CLA group.  
 **Note:** You cannot deselect a project if the project is added to another CLA group.
 
 4. Click **Update CLA Group**.

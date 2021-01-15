@@ -27,10 +27,9 @@ This section shows organization name, logo, and last updated time and date.
 
 2. Update or edit logo, name, and website of an organization, and click **Save**.
 
-**Note:**
-
-* Only SVG files are accepted for company logo.
-* Provide website URL without using _`www`_or _`https://`,_ for example provide _google.com_ instead of _www.google.com_ or _https://www.google.com_
+{% hint style="info" %}
+**Note:** Only SVG files are accepted for company logo.
+{% endhint %}
 
 ![Edit Organization Information](../.gitbook/assets/edit-organization-information.png)
 
