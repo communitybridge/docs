@@ -19,13 +19,14 @@ Below are Mentorship enrollment form fields and their descriptions:
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Name<b>             </b>
+      </th>
       <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Required and/or desirable skills and training</b>
+      <td style="text-align:left"><b>Required and/or desirable skills </b>
       </td>
       <td style="text-align:left">The desirable skills and training that mentees applying to the program
         should have.</td>
@@ -40,8 +41,12 @@ Below are Mentorship enrollment form fields and their descriptions:
       <td style="text-align:left"><b>Program Terms</b>
       </td>
       <td style="text-align:left">
-        <p>Terms for your mentorship program.</p>
-        <p><b>Note: </b>A program can have maximum two terms at the same time</p>
+        <p>Terms for your mentorship program. A program can have maximum two terms
+          at the same time.</p>
+        <p><b>Note: For the 2021 mentorships schedule a program can have the following terms: Spring 2021, Summer 2021, or Fall 2021. </b>
+        </p>
+        <p><b>For Full Time and Part Time distinction, please add FT or PT to the name, i.e. Spring 2021 FT</b>
+        </p>
         <p></p>
       </td>
     </tr>
