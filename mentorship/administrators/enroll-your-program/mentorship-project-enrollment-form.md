@@ -45,7 +45,7 @@ Below are Mentorship enrollment form fields and their descriptions:
           at the same time.</p>
         <p><b>Note: For the 2021 mentorships schedule a program can have the following terms: Spring 2021, Summer 2021, or Fall 2021. </b>
         </p>
-        <p><b>For Full Time and Part Time distinction, please add FT or PT to the name, i.e. Spring 2021 FT</b>
+        <p><b>For Full Time and Part Time distinction, please add FT or PT to the name, i.e. Spring 2021- FT</b>
         </p>
         <p></p>
       </td>
