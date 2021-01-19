@@ -63,7 +63,7 @@ After you successfully add/connect Git organizations, you can:
 
 2. Click **Disassociate GitHub Org**, and click the link to create a support ticket to disassociate the GitHub org.
 
-![Disassociate GitHub Organization](../../../.gitbook/assets/disassociate-github-organization.png)
+![Disassociate GitHub Organization](../../../.gitbook/assets/disassociate-github-orgnanization.png)
 
 ### Add Gerrit Organization:
 

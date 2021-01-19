@@ -26,11 +26,11 @@ Source Control configuration page appears.
 
 3. Turn on or Turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time.
 
-![Add or Remove Git Repositories](../../../.gitbook/assets/add-or-remove-repositories.png)
+![Add or Remove Git Repositories](../../../.gitbook/assets/add-or-remove-git-repositories.png)
 
 ### Configure Gerrit Repositories
 
-After you[ add a Gerrit organization](./#add-gerrit-organization), by default all its repositories are CLA enabled. You cannot disable CLA for an individual gerrit repository. However, you can [disassociate gerrit organization](./#disassociate-gerrit-organization) to disable CLA for the organization and all its repositories.
+After you[ add a Gerrit organization](./#add-gerrit-organization), by default all its repositories are CLA enabled. You cannot disable CLA for an individual gerrit repository. However, you can [disassociate gerrit organization](./#disassociate-gerrit-organization) to disable CLA for the organization and all of its repositories.
 
 ![Gerrit Instance showing all its repositories CLA enabled](../../../.gitbook/assets/gerrit-instances.png)
 

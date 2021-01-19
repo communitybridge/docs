@@ -22,7 +22,7 @@ You can view CLA group details, edit or delete an added CLA group. Based on CLA 
 * Navigate to **TEMPLATES** tab to view ICLA and/or CCLA documents based on CLA configuration.
 * Navigate to **SIGNATURES** tab to view signed ICLAs and CCLAs. Click 
   * **Signed ICLAs** lists the details of individuals who have signed ICLA.
-  * **Signed CCLAs** lists the details of corporate members who have signed CCLA. It lists the CLA managers, approved contributors, approval criteria for the approved contributor, and the signed CLA document.
+  * **Signed CCLAs** lists the details of corporate members who have signed CCLA. It lists the company name, CLA managers, approved contributors, approval criteria for the approved contributor, and the signed CLA document.
 
 ![View CLA Group Details](../../.gitbook/assets/view-cla-group-details.png)
 

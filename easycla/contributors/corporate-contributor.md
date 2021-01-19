@@ -165,7 +165,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 ![](../../.gitbook/assets/configuring-cla-manager-settings.png)
 
-3.  Click **Proceed** on the window that appears. Ensure that you disable pop-up blocker if you have enabled any as shown in the note.
+3.  Click **Proceed** on the window that appears. Ensure that you disable pop-up blocker if you have enabled any pop-up blocker as shown in the note.
 
 ![](../../.gitbook/assets/proceed-to-corporate-console-from-contributor-console.png)
 
