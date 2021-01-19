@@ -37,9 +37,9 @@ After you successfully add/connect Git organizations, you can:
 
 ![](../../../.gitbook/assets/connect-github-organization.png)
 
-8. Click **Install GitHub EasyCLA App**.
-
 ![Install GitHub EasyCLA App](../../../.gitbook/assets/install-github-easycla-app.png)
+
+8. Click **Install GitHub EasyCLA App**.
 
 9. Sign in to GitHub if sign in window appears, and click **Install**.
 

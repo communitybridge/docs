@@ -37,7 +37,7 @@ This section shows organization name, logo, and last updated time and date.
 
 This section shows a table that lists your team members— their profile photos, names, email addresses, and their roles with project groups and projects they are associated with. If a member has more than one role, click **View More Roles** to know about the other roles the member is assigned with. CLA roles are displayed automatically as per the organization profile information. 
 
-As a company admin, you can edit or delete a role by clicking **Submit a Support Ticket** under Request a change to submit a ticket requesting to change the CLA role.
+Only company administrators can submit a ticket requesting for a change in team member role. Clicking **Submit a Support Ticket** under Request a change to submit a ticket requesting to change the CLA role.
 
 ![Team Member Roles - Services](../.gitbook/assets/team-member-roles-services.png)
 

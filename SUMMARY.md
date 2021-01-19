@@ -35,11 +35,11 @@
   * [Glossary](easycla/glossary.md)
 * [Corporate CLA Console](corporate-cla-console/README.md)
   * [Dashboard](corporate-cla-console/dashboard.md)
-  * [Manage Organization](corporate-cla-console/manage-organization.md)
   * [Projects](corporate-cla-console/projects/README.md)
     * [Sign CLA for a Project](corporate-cla-console/projects/sign-cla-for-a-project.md)
     * [Add or Delete a CLA Manager](corporate-cla-console/projects/add-or-delete-a-cla-manager.md)
     * [Add and Manage a Contributor](corporate-cla-console/projects/add-and-manage-a-contributor.md)
+  * [Manage Organization](corporate-cla-console/manage-organization.md)
   * [Manage your Profile](corporate-cla-console/manage-your-profile.md)
   * [FAQs](corporate-cla-console/faqs.md)
 

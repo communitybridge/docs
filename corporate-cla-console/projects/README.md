@@ -20,7 +20,7 @@ Data under a project group is an aggregate data of all the projects that come un
 It shows a table that lists the CLAs signed by your company with the project:
 
 * **Project** shows name and logo of the project with which CLA is signed.
-* **CLA Type** \(Displayed at Project Group level\) shows at which level the CLA is signed, for example, project group level or project level.
+* **Type** \(Displayed at Project Group level\) shows at which level the CLA is signed, for example, project group level or project level.
 * **CLA Group** shows CLA group name which the project belongs to. A CLA group can have multiple projects.
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
