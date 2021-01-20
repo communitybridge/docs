@@ -11,7 +11,7 @@ Select a topic below to view detailed information about that section.
 * [Edit My Information](managing-your-profile.md)
 * [Change Password](changing-account-password.md)
 * [View Community Badges](viewing-community-badges.md)
-* [Add Skill Sets](https://app.gitbook.com/@lfdocs/s/docs/~/drafts/-MDqXViRIoHy56spTLD9/my-profile/add-skill-sets)
+* [Add Skill Sets](add-skill-sets.md)
 * [Connect Accounts](linking-social-accounts.md)
 * [Add Registered Emails](adding-alternative-emails.md)
 * [Purchase Linux.com Email Alias](purchasing-linux-email.md)
