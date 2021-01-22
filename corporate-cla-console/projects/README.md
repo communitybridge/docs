@@ -64,7 +64,7 @@ It shows a table that lists details of approved contributors from your organizat
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
 * **Name** shows the name and image of the contributor. Data is retrieved from the individual profile page.
-* **LF Login/GHID** shows the Linux Foundation ID or GitHub ID of the contributor.
+* **LF Login/GHID** shows the Linux Foundation login name or GitHub ID of the contributor.
 * **Agreement** shows the version of CLA agreement that was signed by the contributor.
 * **Acknowledged On** shows date and time when the user acknowledged the agreement.
 
