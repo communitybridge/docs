@@ -42,4 +42,5 @@
   * [Manage Organization](corporate-cla-console/manage-organization.md)
   * [Manage your Profile](corporate-cla-console/manage-your-profile.md)
   * [FAQs](corporate-cla-console/faqs.md)
+  * [Glossary](corporate-cla-console/glossary.md)
 

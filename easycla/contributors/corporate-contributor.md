@@ -84,7 +84,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 
 ![](../../.gitbook/assets/proceed-to-corporate-authorization.png)
 
-10. You are redirected to Corporate Contributor Console. Sign in if prompted.
+10. You are redirected to Corporate CLA Console. Sign in with LF login name if prompted.
 
 11. Continue:
 
@@ -154,7 +154,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-* [Yes](corporate-contributor.md#yes-if-you-are-authorized)
+* [Yes](corporate-contributor.md#yes-if-you-are-authorized)— You become the initial CLA manager after you sign CLA.
 * [No](corporate-contributor.md#no-if-you-are-not-authorized)
 
 ### **Yes \(If you  are authorized\)**
