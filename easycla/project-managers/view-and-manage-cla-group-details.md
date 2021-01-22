@@ -28,7 +28,7 @@ You can view CLA group details, edit or delete an added CLA group. Based on CLA 
 
 ![Signed CCLAs](../../.gitbook/assets/signed-cclas.png)
 
-**ACTIVITY LOG** shows the recent CLA activities for the project, such as activity description, name of the person who did the activity, date and time of activity, association company's name, and the project for which the activity happened.  
+**ACTIVITY LOG** shows the recent CLA activities for the project, such as activity description, name of the person who did the activity, date and time of the activity, association company's name, and the project for which the activity is done.  
 
 ![](../../.gitbook/assets/activity-log.png)
 

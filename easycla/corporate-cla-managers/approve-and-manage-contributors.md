@@ -22,9 +22,9 @@ As a CLA manager, you can:
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria.png)
 
-4. On **Add Approval Criteria** window, select an option from the **Select Type** drop-down list, and provide details in the field next to it.
+4. On **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria-window.png)
+![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
 
 5. Click **+Add More** to add other details for a contributor.
 
