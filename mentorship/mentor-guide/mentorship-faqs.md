@@ -23,3 +23,4 @@ Travel Funding is the eye-catching part of this program. Yes, additional travel 
 **Is the mentee selection process transparent and in the open?**
 
 Yes, Linux Foundation maintains transparency in the mentee selection process. Selection is based on the application materials they submitted, and interview/additional assessment tasks if assigned by the mentor. If mentees meet the eligibility requirements, applications are submitted, and all the assigned tasks are completed, their applications will be reviewed.
+

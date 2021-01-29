@@ -21,7 +21,7 @@ To see vulnerability scan details for projects from LFX Funding:
 
 2.From dashboard, click a **project** of interest or click **My Projects** to see your projects.
 
-![My Projects](../.gitbook/assets/new_search%20%281%29.png)
+![My Projects](../.gitbook/assets/new_search%20%281%29%20%281%29.png)
 
 {% hint style="info" %}
 You can also for the required project, using the Search box.
@@ -48,7 +48,7 @@ A dashboard shows various aspects of the project, and a Vulnerability Report.
 
 2.Click **My Projects** to see your projects.
 
-![My Projects](../.gitbook/assets/new_search%20%281%29%20%281%29.png)
+![My Projects](../.gitbook/assets/new_search%20%281%29%20%281%29%20%281%29.png)
 
 3.On a project card of interest, click **View Issues**.
 

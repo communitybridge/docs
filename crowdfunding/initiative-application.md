@@ -23,7 +23,7 @@
       <td style="text-align:left"><b>Topic</b> / <b>Category</b>
       </td>
       <td style="text-align:left">Topic or category that relates to your Travel Fund. Click
-        <img src="../.gitbook/assets/18088098.jpg"
+        <img src="../.gitbook/assets/18088098 (3).jpg"
         alt/>after you select category/ categories.</td>
     </tr>
     <tr>

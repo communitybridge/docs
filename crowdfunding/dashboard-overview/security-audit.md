@@ -20,7 +20,7 @@ The overview shows some or all of the following items depending on the data that
 | **Sponsor Organizations** | The logos of companies that sponsor the project. |
 | **View Repository** | Opens the project repository in GitHub. |
 | **View Website** | Opens the associated website. |
-| **CII badge field** ![](../../.gitbook/assets/7418513%20%281%29%20%282%29.png) | A CII Badge indicated that a project participates in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/). |
+| **CII badge field** ![](../../.gitbook/assets/7418513%20%281%29%20%282%29%20%282%29.png) | A CII Badge indicated that a project participates in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/). |
 | **Code of Conduct** | Link to the project's code of conduct. If the project doesn't have its own code of conduct, the link will default to [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) code of conduct. |
 
 ## Dashboard

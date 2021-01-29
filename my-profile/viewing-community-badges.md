@@ -2,7 +2,7 @@
 
 To view the badges you were awarded, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org/) and scroll down to the **Badges** section.
 
-![](../.gitbook/assets/badges%20%281%29%20%281%29.png)
+![](../.gitbook/assets/badges%20%281%29%20%281%29%20%281%29.png)
 
 Community badges are generated from the following sources:
 

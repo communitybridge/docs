@@ -43,7 +43,7 @@ Efficiency offers a view of efficiency closing issues based on metrics: Backlog 
 
 **Backlog Management Index** shows a multi-line graph that represents the Backlog Management Index \(BMI\). BMI is the number of closed issues divided by the number of open ones in a given period of time. Moving Avg. is set to 8 weeks to identify changes in trends. Average is also shown as a reference. BMI values greater than 1 mean the community is closing more issues than those they are opening. Values less than 1 mean the opposite—more issues are open than those closed during a given time frame. Mouse over this graph or **Lead Time** to show a line that displays the date and time at the top of the legend..
 
-![](../../../../.gitbook/assets/18088187%20%281%29.png)
+![](../../../../.gitbook/assets/18088187%20%281%29%20%281%29.png)
 
 **Lead Time** shows a multi-line graph that represents the Average Time to Close issues expressed in days and what the trend is. This graph helps you to identify peaks and visualize the time spent in closing issues.
 

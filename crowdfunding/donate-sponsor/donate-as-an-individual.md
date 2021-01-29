@@ -12,7 +12,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 #### 
 
-![](../../.gitbook/assets/7418566%20%281%29.png)
+![](../../.gitbook/assets/7418566%20%283%29%20%281%29.png)
 
 
 
@@ -31,7 +31,7 @@ As an Individual, you can donate a minimum of $5. When donating to a project, yo
 
 6. **Credit or debit card** lets you add a default card or edit a default card to use for your donation payment. Click **Add Card** or **Edit Card** to add or edit a card, respectively. Enter your card details and click **Submit**.
 
-![](../../.gitbook/assets/7418601%20%283%29.png)
+![](../../.gitbook/assets/7418601%20%283%29%20%283%29.png)
 
 7. Review your donation summary and your donation amounts in the **Review Donation** section.
 

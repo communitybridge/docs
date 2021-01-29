@@ -33,7 +33,7 @@ As a beneficiary, you receive an invitation email from the Expensify Concierge i
 
 1. Sign in to [https://www.expensify.com/signin](https://www.expensify.com/signin)  
 Ensure to use the same email address that the Expensify Concierge used to send you the invitation.  
-![](../.gitbook/assets/7419228%20%281%29.png)
+![](../.gitbook/assets/7419228%20%282%29%20%281%29.png)
 
 3. Record expenses in a report to submit them to the project administrator and the Linux Foundation for reimbursement.
 

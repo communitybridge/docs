@@ -24,7 +24,7 @@ This section includes the following information depending on the available data:
 | **View Mentorship** | Lets you toggle to Mentorship platform to view mentorship program details for the project. |
 | **Current Balance** | The total amount of funds available in the account. |
 | **Sponsor Organizations** | The logos of companies that sponsor the project. |
-| **CII Badge**  ![](../../.gitbook/assets/7418513%20%281%29%20%282%29.png) | A CII Badge indicated that a project participates in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/). |
+| **CII Badge**  ![](../../.gitbook/assets/7418513%20%281%29%20%282%29%20%282%29.png) | A CII Badge indicated that a project participates in the [Core Infrastructure Initiative \(CII\) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/). |
 | **Code of Conduct** | Link to the project's code of conduct. If the project doesn't have its own code of conduct, the link will default to [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) code of conduct. |
 
 Following is an example of a project overview section:

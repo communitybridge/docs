@@ -20,7 +20,7 @@ On the program detail page you can view the following information, depending on 
         <p><b>CII Badge </b>
         </p>
         <p>
-          <img src="../../.gitbook/assets/7418513 (1).png" alt/>
+          <img src="../../.gitbook/assets/7418513 (1) (2).png" alt/>
         </p>
       </td>
       <td style="text-align:left">Indicates project&apos;s participation in the <a href="https://www.coreinfrastructure.org/programs/badge-program/">Core Infrastructure Initiative (CII) Badge Program</a>.
