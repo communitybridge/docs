@@ -74,6 +74,6 @@ A [CLA group](https://docs.google.com/document/d/1N_IjTN1I5ZnN8vHmNAH8tu8YGLecY8
 
 #### Signing Entity Name
 
-Signing entity name is an organization's Legal Entity name that is authorized to sign the corporate CLA on behalf of the company. For example, there can be multiple signing entities for Google such as Google USA, Google Bulgaria, Google India, and so on. While signing corporate CLA, signing entity names of an organization are displayed on **Select Organization** window. Contributors must select a signing entity name for their organization.  
+Signing entity name is an organization's Legal Entity name that is authorized to sign the corporate CLA on behalf of the company. For example, there can be multiple signing entities for Google such as Google USA, Google Bulgaria, Google India, and so on. While signing corporate CLA, signing entity names of an organization are displayed on **Select Organization** window. Contributors must select a signing entity name for their organization under which you they want to sign the CLA . You can also select   
 
 
