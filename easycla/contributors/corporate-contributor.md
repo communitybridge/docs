@@ -225,7 +225,7 @@ You will receive an email after you are added to the approved list. After you ar
 
 2. Provide organization website URL, and select the organization name from the list.
 
-3. Organization name appears in the **Organization Name** filed.
+3. Organization name appears in the **Organization Name** field.
 
 4. Provide signing entity name in the **Signing Entity Name** field, and click **Next**.
 
