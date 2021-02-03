@@ -114,6 +114,10 @@ To view the individual projects, perform the following steps:
 
 ![Project Summary ](../.gitbook/assets/nlf3.png)
 
+{% hint style="info" %}
+The warning ![](../.gitbook/assets/war.png) icon provides information on why the security scan is failed for the repositories. 
+{% endhint %}
+
 3. You can also check the issues related to the individual project by click of **View Issues**. 
 
 
