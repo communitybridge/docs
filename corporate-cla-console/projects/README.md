@@ -1,8 +1,22 @@
 # Projects
 
-Expand Projects, and search a project group or project to view the related EasyCLA information.
+Click a project from the dashboard, or expand **Projects**, search a project group or project, and click **EasyCLA** under the project to view the related EasyCLA information.
+
+![](../../.gitbook/assets/search-a-project.png)
 
 ## Project Group / Project
+
+If your company has multiple signing entities, select the signing entity, from the drop-down, under which you want to sign CLA.
+
+![](../../.gitbook/assets/signing-entity-name.png)
+
+If signing entity name is not in the list, create a new signing entity as described below:
+
+1. From the drop-down list, click **+Add New Signing Entity**.
+2. In the **Signing Entity Name** field, provide signing entity name.
+3. Click **Add Signing Entity**.
+
+![Create New Signing Entity](../../.gitbook/assets/create-new-signing-entity-name.png)
 
 Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for a project based on:
 
