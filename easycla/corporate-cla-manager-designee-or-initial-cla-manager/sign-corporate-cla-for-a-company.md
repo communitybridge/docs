@@ -19,8 +19,7 @@ As a CCLA manager designee \(initial CLA manager\), you must sign a Corporate CL
 * **Yes**— Continue to step 5.
 * **No**— An **Identify CLA Manager** form appears. Continue to next step.  ![](../../.gitbook/assets/identify-cla-manager.png)  
 
-4. Enter first and last name, email address, and click **Submit Request**, Or click **Contact Company Admin** if you are not sure who should sign the corporate CLA.  
-****A window appears confirming that request is submitted to respective individual.
+4. Enter first and last name, email address, and click **Submit Request**, Or click **Contact Company Admin** if you are not sure who should sign the corporate CLA.
 
 {% hint style="info" %}
 The individual must have an [LF SSO](https://docs.linuxfoundation.org/lfx/sso) account to sign CLA.
