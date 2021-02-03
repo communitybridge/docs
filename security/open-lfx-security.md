@@ -88,7 +88,7 @@ A Foundation project group is a group of individual projects. Normally Foundatio
 
 A Foundation  project with group of individual projects are displayed as shown in the following image:
 
-![Foundation Project](../.gitbook/assets/foundation-.png)
+![Foundation Projects](../.gitbook/assets/nlf1.png)
 
 #### View Individual Projects in the Foundation Project
 
@@ -96,9 +96,9 @@ You can view the individual projects that are stacked in the Foundation project 
 
 To view the individual projects, perform the following steps:
 
-1.Click **View Issues** from the Foundation project. 
+1.Click **Go to Projects** from the Foundation project. 
 
-![View Issues ](../.gitbook/assets/foundation-_issues.png)
+![Go to Projects](../.gitbook/assets/nlf2.png)
 
 2.The Project Summary is displayed along with the list of Individual project cards. The following Project Summary details are listed:
 
@@ -112,7 +112,7 @@ To view the individual projects, perform the following steps:
 * Upstream Dependencies 
 * Types of Licenses Found
 
-![Project Summary](../.gitbook/assets/f1.png)
+![Project Summary ](../.gitbook/assets/nlf3.png)
 
 3. You can also check the issues related to the individual project by click of **View Issues**. 
 
