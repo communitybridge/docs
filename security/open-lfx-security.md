@@ -82,9 +82,9 @@ If you are not authorized to see vulnerability report for a project, **Not Autho
 LFX support team reviews your request and informs you about your access permission.
 {% endhint %}
 
-### Project Groups
+### Foundation Project Groups
 
-A project group is a group of individual projects. Normally Foundation group hosts group of projects in a single Foundation project.
+A Foundation project group is a group of individual projects. Normally Foundation group hosts group of projects in a single Foundation project.
 
 A Foundation  project with group of individual projects are displayed as shown in the following image:
 
