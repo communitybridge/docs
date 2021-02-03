@@ -82,6 +82,44 @@ If you are not authorized to see vulnerability report for a project, **Not Autho
 LFX support team reviews your request and informs you about your access permission.
 {% endhint %}
 
+### Project Groups
+
+A project group is a group of individual projects. Normally Foundation group hosts group of projects in a single Foundation project.
+
+A Foundation  project with group of individual projects are displayed as shown in the following image:
+
+![Foundation Project](../.gitbook/assets/foundation-.png)
+
+#### View Individual Projects in the Foundation Project
+
+You can view the individual projects that are stacked in the Foundation project and check the issues related to the individual projects.  
+
+To view the individual projects, perform the following steps:
+
+1.Click **View Issues** from the Foundation project. 
+
+![View Issues ](../.gitbook/assets/foundation-_issues.png)
+
+2.The Project Summary is displayed along with the list of Individual project cards. The following Project Summary details are listed:
+
+* Repositories Scanned
+* Projects Successfully Scanned
+* Projects Partially Scanned
+* Issues Found 
+* Fixable Issues 
+* Issues Fixed
+* Languages 
+* Upstream Dependencies 
+* Types of Licenses Found
+
+![Project Summary](../.gitbook/assets/f1.png)
+
+3. You can also check the issues related to the individual project by click of **View Issues**. 
+
+
+
+
+
   
 
 
