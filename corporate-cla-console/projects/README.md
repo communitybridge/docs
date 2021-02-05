@@ -16,8 +16,6 @@ If signing entity name is not in the list, create a new signing entity as descri
 2. In the **Signing Entity Name** field, provide signing entity name.
 3. Click **Add Signing Entity**.
 
-![Create New Signing Entity](../../.gitbook/assets/create-new-signing-entity-name.png)
-
 Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for a project based on:
 
 * [If company has signed CLA](./#if-company-has-signed-cla)

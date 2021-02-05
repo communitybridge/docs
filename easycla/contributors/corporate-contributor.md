@@ -34,8 +34,9 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 6. Click **Proceed as a Corporate Contributor**.   
 **Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement.
 
-7. On **Select Organization** window, type organization name or [signing entity name](../glossary.md#signing-entity-name) of the organization in the field, select the [signing entity name](../glossary.md#signing-entity-name) for the organization from the drop-down list, and click **Proceed**.  
-**Note:** Select the parent organization if you don't want to sign cla under company's signing entity.
+7. On **Select Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
+
+![Select Organization](../../.gitbook/assets/select-organization.png)
 
 {% hint style="info" %}
 **Note:** 
@@ -43,8 +44,6 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * If your company or the signing entity is not in the list, you can add the company and/or its signing entity name as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1) or [if Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-is-not-in-the-list).
 * **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
-
-![Select Organization](../../.gitbook/assets/select-organization.png)
 
 8. Continue:
 
@@ -94,7 +93,6 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 * [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
-* [If Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-for-an-existing-company-is-not-in-the-list)
 
 ## If you are not added to the approved list
 
@@ -106,12 +104,10 @@ If your company has signed CLA, but you are not added to the approved list, **Re
 ![Request Authorization](../../.gitbook/assets/request-authorization.png)
 
 2. Click **Request Authorization**.  
-A dialog appears and informs you: Request Submitted ​
+A dialog appears and informs you: Request Submitted.  
+ ![](../../.gitbook/assets/request-submitted.png) 
 
-![](../../.gitbook/assets/request-submitted.png)
-
-3. Click **Exit EasyCLA**.  
-_****_The CLA  manager adds you to the approved list.
+3. Click **Exit EasyCLA**.
 
 {% hint style="info" %}
 You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
@@ -138,7 +134,8 @@ Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to updat
 3. On **CLA Ready For Signature** window, click **SIGN CLA**.  
  ![](../../.gitbook/assets/cla-ready-for-signature.png) 
 
-4. Follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+4. Follow the instructions in the DocuSign document, sign it, and click **FINISH**.  
+**Note:** Ensure that the organization name is correct in the document before you sign.
 
 {% hint style="info" %}
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
@@ -156,7 +153,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
 * [Yes](corporate-contributor.md#yes-if-you-are-authorized)— You become the initial CLA manager after you sign CLA.
-* [No](corporate-contributor.md#no-if-you-are-not-authorized)
+* [No](corporate-contributor.md#no-if-you-are-not-authorized) — Send request to the authorized person to sign CLA.
 
 ### **Yes \(If you  are authorized\)**
 
@@ -199,34 +196,14 @@ You will receive an email after you are added to the approved list. After you ar
 
 ![company not listed](../../.gitbook/assets/company-not-listed.png)
 
-2. ****Provide organization website URL, organization name, and signing entity name in the respective fields.
+2. ****Provide organization website URL, and organization name in the respective fields.  
+**Note:** If the a company is already registered with the provided URL, the company name appears in the **Organization Name** field, and you cannot edit the organization name. Ensure that you provide a website URL which is not already registered by an organization.
 
 3. Click **Next**.
 
 ![Create New Organization](../../.gitbook/assets/create-new-organization.png)
 
 4. Click an answer:
-
-* **Yes:** Follow the procedure, and click **Proceed** to [sign corporate CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
-* **No:** Provide name and email address of the person whom you want to authorize as a CLA manager for your company, click **Submit Request**.
-
-## If Signing Entity Name for an Existing Company is not in the List
-
-1. Click **+Click Here** next to **Organization not listed?** 
-
-![company not listed](../../.gitbook/assets/company-not-listed.png)
-
-2. Provide organization website URL, and select the parent organization name from the list.
-
-![New Signing Entity](../../.gitbook/assets/new-signing-entity-name.png)
-
-3. Organization name appears in the **Organization Name** field.
-
-4. Provide signing entity name in the **Signing Entity Name** field, and click **Next**.
-
-![](../../.gitbook/assets/create-new-organization.png)
-
-5. Click an answer:
 
 * **Yes:** Follow the procedure, and click **Proceed** to [sign corporate CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 * **No:** Provide name and email address of the person whom you want to authorize as a CLA manager for your company, click **Submit Request**.
