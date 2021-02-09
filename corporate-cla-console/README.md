@@ -4,11 +4,11 @@
 **Note:** Only ****corporate members, such as company owners, admins, and employees can view and manage corporate console based on their permission level.
 {% endhint %}
 
-Corporate CLA Console makes it easier for corporate members to view Contributor License Agreement \(CLA\) details for their companies, sign CLA for an organization, manage other roles and activities based on their permission level. After you sign in to [Corporate CLA Console](https://member.lfx.linuxfoundation.org/company/dashboard), you view the following sections:
+Corporate CLA Console makes it easier for corporate members to sign Contributor License Agreement \(CLA\) for a project, view CLA details, manage other roles and activities based on their permission level. After you sign in to the [Corporate CLA Console](https://member.lfx.linuxfoundation.org/company/dashboard), you view the following sections:
 
 * [Dashboard](dashboard.md)
-* [Projects](projects/)
 * [Manage Organization](manage-organization.md)
+* [Projects](projects/)
 
 ## What Role are You? <a id="what-role-are-you"></a>
 
