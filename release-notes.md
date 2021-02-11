@@ -20,7 +20,5 @@ The Linux Foundation introduces a new platform for [project managers](easycla/pr
 
 The Linux Foundation introduces a new platform for corporate members to sign CLAs and manage the entire CLA process for their companies. It is also referred as corporate console.
 
-
-
 ### Known Issues and Workarounds
 
