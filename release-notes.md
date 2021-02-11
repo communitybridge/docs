@@ -1,6 +1,6 @@
 # Release Notes
 
-The LFX v2 release delivers new features and changes for the **LFX** **EasyCLA tool**, including support for the following platforms:
+The LFX v2.0.0 release delivers new features and changes for the **LFX** **EasyCLA tool**, including support for the following platforms:
 
 * LFX Project Control Center for project managers
 * Corporate CLA Console for corporate members
@@ -19,6 +19,4 @@ The Linux Foundation introduces a new platform for [project managers](easycla/pr
 #### Corporate CLA Console
 
 The Linux Foundation introduces a new platform for corporate members to sign CLAs and manage the entire CLA process for their companies. It is also referred as corporate console.
-
-### Known Issues and Workarounds
 

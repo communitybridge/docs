@@ -3,6 +3,7 @@
 * [LFX Toolkit](README.md)
 * [Release Notes](release-notes.md)
 * [EasyCLA](easycla/README.md)
+  * [Release Notes](easycla/release-notes.md)
   * [Getting Started](easycla/getting-started/README.md)
     * [EasyCLA Requirements](easycla/getting-started/easycla-requirements.md)
     * [Get Access to EasyCLA](easycla/getting-started/get-access-to-easycla.md)
