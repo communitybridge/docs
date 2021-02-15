@@ -41,7 +41,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 {% hint style="info" %}
 **Note:** 
 
-* If your company or the signing entity is not in the list, you can add the company and/or its signing entity name as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1) or [if Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-is-not-in-the-list).
+* If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1)
 * **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
 
@@ -52,7 +52,6 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 * [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
-* [If Signing Entity Name is not in the List](corporate-contributor.md#if-signing-entity-name-is-not-in-the-list)
 
 ## Gerrit
 
@@ -113,17 +112,6 @@ A dialog appears and informs you: Request Submitted.
 You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
 {% endhint %}
 
-## If you are added to the approved list
-
-1. Based on the CLA configuration, you will be asked to [sign individual CLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA requires corporate contributors to sign individual CLA.
-
-2. An acknowledgement window appears informing you that you have completed the contribution acknowledgement.  
- ![](../../.gitbook/assets/contribution-acknowledgement.png) 
-
-3. Click **Exit EasyCLA**.
-
-Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
-
 ## If you are asked to sign ICLA
 
 1. If you are added to the approved list, but your CLA requires you to sign Individual CLA \(ICLA\),  the following screen appears:  
@@ -173,7 +161,12 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 4. You will be redirected to corporate console to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
-After you successfully sign the CCLA, navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
+{% hint style="info" %}
+**Note:** 
+
+1. After you successfully sign the CCLA, navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to be updated or refresh the page, and merge PR or submit change.
+2. If the status is still showing **Not Covered**, then your CLA requires you to sign Individual CLA \(ICLA\). Click **Not Covered**, and follow the procedure as described in [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla).
+{% endhint %}
 
 ### **No \(If you are not authorized\)**
 
@@ -197,7 +190,7 @@ You will receive an email after you are added to the approved list. After you ar
 ![company not listed](../../.gitbook/assets/company-not-listed.png)
 
 2. ****Provide organization website URL, and organization name in the respective fields.  
-**Note:** If the a company is already registered with the provided URL, the company name appears in the **Organization Name** field, and you cannot edit the organization name. Ensure that you provide a website URL which is not already registered by an organization.
+**Note:** If the a company is already registered with the provided URL, the company name appears in the **Organization Name** field, and you cannot edit the organization name. Ensure that you provide a website URL which is not already registered.
 
 3. Click **Next**.
 
@@ -206,5 +199,5 @@ You will receive an email after you are added to the approved list. After you ar
 4. Click an answer:
 
 * **Yes:** Follow the procedure, and click **Proceed** to [sign corporate CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
-* **No:** Provide name and email address of the person whom you want to authorize as a CLA manager for your company, click **Submit Request**.
+* **No:** Provide name and email address of the person whom you want to authorize as a CLA manager for your company, and click **Submit Request**.
 
