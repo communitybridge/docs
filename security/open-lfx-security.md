@@ -100,25 +100,29 @@ To view the individual projects, perform the following steps:
 
 ![Go to Projects](../.gitbook/assets/nlf2.png)
 
-2.The Project Summary is displayed along with the list of Individual project cards. The following Project Summary details are listed:
+2.The Security Summary is displayed along with the list of Individual project cards. The following Project Summary details are listed:
 
-* Repositories Scanned
+* Repositories Successfully Scanned
 * Projects Successfully Scanned
 * Projects Partially Scanned
-* Issues Found 
+* Issues Open
 * Fixable Issues 
 * Issues Fixed
 * Languages 
 * Upstream Dependencies 
 * Types of Licenses Found
 
-![Project Summary ](../.gitbook/assets/nlf3.png)
+![Security Summary](../.gitbook/assets/fp1.png)
 
 {% hint style="info" %}
 The warning ![](../.gitbook/assets/war.png) icon provides information on why the security scan is failed for the repositories. 
 {% endhint %}
 
 3. You can also check the issues related to the individual project by click of **View Issues**. 
+
+{% hint style="info" %}
+You might see **Request Access**, if you do not have the access to the project. 
+{% endhint %}
 
 
 
