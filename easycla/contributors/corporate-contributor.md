@@ -74,6 +74,10 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 * [Verify Your Permission of Access window appears](corporate-contributor.md#verify-your-permission-of-access)
 * [If your company is not in the list](corporate-contributor.md#if-your-company-is-not-in-the-list)
 
+11. After you complete signing the CLA, navigate to gerrit window, sign out from gerrit, and sign in again for the CLA status to be updated.
+
+
+
 ## If Confirmation of Association statement appears
 
 This message appears if you are added to the approved list, and your CLA doesn't require you to sign ICLA. If the CLA is configured for you to sign ICLA, you will be redirected to sign an Individual CLA, as shown in [step 5 of sign ICLA](individual-contributor.md#github).
