@@ -16,7 +16,7 @@ You can view CLA group details, edit or delete an added CLA group. Based on CLA 
 
 * **Name** of the CLA group, and the type of coverages, such as corporate CLA allowing only corporate members to sign CLA under the CLA group, individual CLA allowing individuals to sign CLA under the group, and corporate-individual CLAs allowing both corporate members and individuals to sign CLA under the CLA group. 
   * **Projects Covered** shows the number of projects that are covered under the CLA group.
-  * **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must[ enforce EasyCLA](add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md) for one or more Git repositories for them to be counted.
+  * **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must[ enforce EasyCLA](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md) for one or more Git repositories for them to be counted.
   * **Signatures** shows the total number of individuals who have signed CLA within the CLA group. This includes both ICLA and/or CCLA based on the CLA group configuration.
   * Click![](../../.gitbook/assets/edit-cta.png)to edit the title and description of the CLA group.
   * Click![](../../.gitbook/assets/delete-icon.png)to create a support ticket requesting to delete the CLA group. 

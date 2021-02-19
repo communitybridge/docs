@@ -19,7 +19,7 @@
     * [View and Manage CLA Group Details](easycla/project-managers/view-and-manage-cla-group-details.md)
     * [Add and Manage Git Organizations and Repositories](easycla/project-managers/add-and-manage-git-organizations-and-repositories/README.md)
       * [View Connection Status of Git Organizations and Repositories](easycla/project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
-      * [Add or Remove Git Repositories for CLA Monitoring](easycla/project-managers/add-and-manage-git-organizations-and-repositories/add-or-remove-git-repositories-for-cla-monitoring.md)
+      * [Enforce or Remove CLA Monitoring](easycla/project-managers/add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md)
     * [Uninstall the EasyCLA Application](easycla/project-managers/uninstall-the-easycla-application.md)
   * [Contributors](easycla/contributors/README.md)
     * [Individual Contributor](easycla/contributors/individual-contributor.md)
