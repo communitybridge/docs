@@ -10,7 +10,7 @@ A CLA group defines:
 
 1. [Sign in](sign-in-to-project-control-center.md).
 
-2. Under My Projects, click a project or project group for which you want to create a CLA group.
+2. Under My Projects, click a project or search the project from the search bar for which you want to create a CLA group.
 
 3. From **Tools** tab, and click **CLA**.
 
