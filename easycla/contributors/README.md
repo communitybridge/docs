@@ -8,7 +8,7 @@ You can contribute on behalf of a company or contribute individually by doing on
 * ​[Sign an Individual Contributor License Agreement](individual-contributor.md). You are contributing code on your own behalf \(code that you write on your own time, and not for an employer or using your employer’s facilities or equipment\).
 
 {% hint style="warning" %}
-**Important:** You should not submit a contribution under an Individual CLA if that contribution is done using time and/or material resources belonging to your company. Instead, you should contribute it under a Corporate CLA signed by your company.
+**Important:** You should not submit a contribution under an Individual CLA if that contribution is done using time or material resources belonging to your company. Instead, you should contribute under a Corporate CLA signed by your company.
 {% endhint %}
 
 Gerrit contributors, see [Contribute to a Gerrit Project](corporate-contributor.md#gerrit).

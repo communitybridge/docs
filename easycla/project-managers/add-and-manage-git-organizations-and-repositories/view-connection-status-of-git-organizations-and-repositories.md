@@ -2,7 +2,7 @@
 
 After you [add a GitHub](./#add-github-organization) or [Gerrit organization](./#add-gerrit-organization), the organizations are displayed with different colors referring to their connection statuses. Following is an example:
 
-![Git Organizations Connection Status](../../../.gitbook/assets/github-organization-status.png)
+![GitHub Organization Connection Status](../../../.gitbook/assets/github-organization-status.png)
 
 * ![](../../../.gitbook/assets/connected-green-color.png) indicates full connection—all the repositories of the organization are connected.
 * ![](../../../.gitbook/assets/orange-partial-connection.png) indicates partial connection—some repositories of the organization are connected.

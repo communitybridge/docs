@@ -39,10 +39,16 @@ A CLA group defines:
 8. For a Project Group: ****Click **Next.** Continue to next step.  
     For an Individual Project**:** Click **Finish.**
 
-{% hint style="danger" %}
-**Important:** If you log out at this stage, you will lose all the details that you have provided.
+9. Under **Select Projects** tab, select the projects that you want to enroll under the project-group level CLA group, and click **Finish.**
+
+{% hint style="info" %}
+**Note:** 
+
+* A project group can have only one CLA group at project-group level.
+* If you create the CLA group at project-group level by selecting the checkbox for the parent project, you cannot create another CLA group for the project.
 {% endhint %}
 
-9. Under **Select Projects** tab, select the projects that you want to enroll under the project group level CLA group, and click **Finish.**  
-**Note:** **Select all Projects** allows you to select all the projects at a time.
+![Creating CLA group at project-group level](../../.gitbook/assets/select-projects.png)
+
+
 

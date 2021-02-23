@@ -7,7 +7,7 @@ Before you can add or manage git repositories, you must connect/add Git organiza
 * [Add Gerrit Organization](./#add-gerrit-organization)
 * [Disassociate Gerrit Organization](./#disassociate-gerrit-organization)
 
-After you successfully add/connect Git organizations, you can:
+After you successfully add Git organizations, you can:
 
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
 * [Enforce or Remove CLA Monitoring for Repositories](enforce-or-remove-cla-monitoring.md)
@@ -45,16 +45,20 @@ After you successfully add/connect Git organizations, you can:
 
 ![](../../../.gitbook/assets/configure-cla-for-github-organization.png)
 
-10. Select the organization that you want to enroll for CLA monitoring.
+10. Select the organization that you want to enroll for CLA monitoring.  
+ ![](../../../.gitbook/assets/select-github-organization.png)
 
 11. Select repositories, and click **Install**.
 
-![Select GitHub Organization](../../../.gitbook/assets/select-github-organization.png)
+{% hint style="info" %}
+**Note**: If you select **Only select repositories**, then a newly added repository to the github organization will not be reflected automatically under the project's github organization page in Project Console.  
+ ![](../../../.gitbook/assets/selecting-individual-repositories.png)
+{% endhint %}
 
 12. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.
 
 {% hint style="warning" %}
-**Important:** _To enable a CLA check on a repository, you must_  [_configure a GitHub repository_](enforce-or-remove-cla-monitoring.md#configure-github-repositories) _or_ [_add a Gerrit instance_](./#add-gerrit-organization)_. Simply adding an organization to the project does not enable the CLA check for any CLA groups._
+**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for gerrit repositories. Simply adding an GitHub organization to the project does not enable the CLA check for any CLA groups.
 {% endhint %}
 
 ### Disassociate GitHub Organization:
@@ -73,7 +77,7 @@ After you successfully add/connect Git organizations, you can:
 
  1. Click the **+** sign at the top right of Add Gerrit Organization.
 
-![](../../../.gitbook/assets/add-gerrit-organization.png)
+![Add Gerrit Organization](../../../.gitbook/assets/add-gerrit-organization.png)
 
 2. Complete the form fields, and click **Connect**.  
 **Gerrit Instance Name** - Name of the Gerrit Instance  

@@ -18,7 +18,7 @@ As an individual contributor, you are contributing code on your own behalf \(not
 
 ![CLA Check Failed](../../.gitbook/assets/cla-github-individual-check-fail.png)
 
-3. Click ![](../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
+3. Click![](../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
 
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require this authorization.\)
 
@@ -58,8 +58,6 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update. A
 ![GitHub Individual Contributor Pass](../../.gitbook/assets/cla-github-individual-contributor-pass.png)
 
 8. Click **Merge pull request** and confirm the merge.
-
-The CLA is added to the project.
 
 ## Gerrit
 
