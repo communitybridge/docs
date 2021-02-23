@@ -193,7 +193,7 @@ You will receive an email after you are added to the approved list. After you ar
 
 ## Acknowledge Company Contribution
 
-After the CLA manager adds you to the approved list, you must complete company acknowledgement before you can contribute code under the signed CLA.
+After the CLA manager adds you to the approved list, you must acknowledge company contribution before you can contribute code under the signed CLA.
 
 1. Navigate to the GitHub PR page.
 

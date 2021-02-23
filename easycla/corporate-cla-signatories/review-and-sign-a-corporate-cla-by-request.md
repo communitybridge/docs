@@ -3,7 +3,7 @@
 As a CCLA signatory, you may receive email requests to review and sign a Corporate CLA on behalf of the company.
 
 {% hint style="info" %}
-_Single Sign-On \(SSO\) account is not mandatory for you have to sign a corporate CLA as you are signing CLA on behalf of the company._
+**Note:** Single Sign-On \(SSO\) account is not mandatory for you to sign a corporate CLA as you are signing CLA on behalf of the company.
 {% endhint %}
 
 **Do these steps:**

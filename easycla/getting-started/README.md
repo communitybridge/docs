@@ -34,7 +34,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_  or _project admin_ if you are authorized by Linux Foundation to maintain project\(s\). You use the project console, also referred as Project Control Center, where you have access to specific projects as per permissions provided by The Linux Foundation, and perform project related activities. ****For details, see [Project Managers](../project-managers/).
+You are a _project manager_  or _project admin_ if you are authorized by The Linux Foundation to maintain project\(s\). You use the project console, also referred as Project Control Center, where you have access to specific projects as per permissions provided by The Linux Foundation, and perform project related activities. ****For details, see [Project Managers](../project-managers/).
 
 ### Contributor <a id="contributor"></a>
 
@@ -42,18 +42,18 @@ You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit
 
 ### Corporate CLA Manager
 
-You are a _Corporate CLA manager_ \(CCLA manager\) if you are authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. You use LFX Company Dashboard to:
+You are a _Corporate CLA manager_ \(CCLA manager\) if you are authorized to manage the list of approved contributors under your company’s corporate CLA. There can be one or more CLA managers for a company. You use corporate CLA console to:
 
 * [Add Contributors to Approved List](../corporate-cla-managers/approve-and-manage-contributors.md)
 * [Add or Delete CLA Managers](../corporate-cla-managers/add-or-delete-cla-managers.md)
 
 ### Corporate CLA Manager Designee
 
-You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CCLA manager for a company, and you are the first person to sign a Corporate CLA for a project. You use LFX Company Dashboard to sign corporate CLA. For details, see [Corporate CLA Manager Designee or Initial CLA Manager](../corporate-cla-manager-designee-or-initial-cla-manager/).
+You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA manager for a company, and you are the first person to sign a Corporate CLA for a project. You use corporate CLA console to sign CLA. For details, see [Corporate CLA Manager Designee or Initial CLA Manager](../corporate-cla-manager-designee-or-initial-cla-manager/).
 
 You become a CLA manager designee:
 
-* When you receive an email informing you that you are identified as a CLA manager for a project. You must have an LF ID to sign the CLA.
+* When you receive an email informing you that you are identified as a CLA manager for a project. You must have an LF login to sign the CLA.
 * When you are authorized to [sign CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md) for a company as an initial CLA manager. After you sign CLA, you become [CLA manager](../corporate-cla-managers/). 
 
 ### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
