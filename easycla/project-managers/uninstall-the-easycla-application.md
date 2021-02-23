@@ -10,8 +10,6 @@ As a project manager, you can uninstall the EasyCLA Application for a GitHub org
 
 3. Click **Configure** for the Linux Foundation: EasyCLA app.
 
-![Configure for Linux Foundation EasyCLA](../../.gitbook/assets/configure-easycla-application.png)
-
 4. Navigate to **Danger zone &gt; Uninstall Linux Foundation: EasyCLA** section, and click **Uninstall**.
 
 ![Uninstall EasyCLA App](../../.gitbook/assets/uninstall-easycla-application.png)
