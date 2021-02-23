@@ -41,7 +41,9 @@ GitHub Organization and GitHub Username are not required while adding contributo
 
 6. Click **Save** to add the contributor.
 
-The added contributor is displayed under Approved List of Contributors from my Organization.
+{% hint style="info" %}
+After you add contributors to the approved list, inform them to [acknowledge company contribution](../contributors/corporate-contributor.md#acknowledge-company-contribution) before they contribute to the project.
+{% endhint %}
 
 ### Edit a Contributor's Details
 

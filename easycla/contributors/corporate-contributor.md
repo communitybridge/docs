@@ -150,13 +150,13 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 ![](../../.gitbook/assets/proceed-to-corporate-console-from-contributor-console.png)
 
 {% hint style="info" %}
-**Important:** If you don't have a username \(LF SSO Account\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username.
+**Note:** If you don't have a username \(LF SSO Account\) associated with Linux Foundation, you will be redirected to Linux Foundation page to create a username.
 {% endhint %}
 
 4. You will be redirected to corporate console to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 {% hint style="warning" %}
-**Important:** After you successfully sign the CCLA, and want to contribute to the project, you must [add yourself to the approved list](../corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s), and [complete company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you contribute.
+**Important:** After you sign the CLA, and want to contribute to the project, you must [add yourself to the approved list](../corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s), and [complete company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you contribute.
 {% endhint %}
 
 ### **No \(If you are not authorized\)**
