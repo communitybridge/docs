@@ -51,8 +51,9 @@ After you successfully add Git organizations, you can:
 11. Select repositories, and click **Install**.
 
 {% hint style="info" %}
-**Note**: If you select **Only select repositories**, then a newly added repository to the github organization will not be reflected automatically under the project's github organization page in Project Console.  
- ![](../../../.gitbook/assets/selecting-individual-repositories.png)
+**Note**: If you select **Only select repositories**, then a newly added repository to the github organization will not be reflected automatically under the project's github organization page in Project Console.
+
+![](../../../.gitbook/assets/selecting-individual-repositories.png)
 {% endhint %}
 
 12. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.

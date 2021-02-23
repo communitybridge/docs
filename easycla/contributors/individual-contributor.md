@@ -50,10 +50,10 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 **Result:**
 
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
+* You can download the PDF document by clicking the link from the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
-You are redirected to GitHub. Wait a few seconds for the CLA status to update. A tick appears next to your branch.
+You are redirected to GitHub. Wait a few seconds or refresh the page for the CLA status to be updated. A tick appears next to your branch.
 
 ![GitHub Individual Contributor Pass](../../.gitbook/assets/cla-github-individual-contributor-pass.png)
 
@@ -109,5 +109,11 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 * You can download the PDF document by clicking the link from the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
-You can now contribute to Gerrit as an individual. Navigate to the gerrit project, and start contributing.
+13. Navigate to the Gerrit project, and start contributing.
+
+{% hint style="info" %}
+**Note:** If you still see CLA status not updated, sign out from Gerrit, and sign in again for the CLA status to be updated.
+{% endhint %}
+
+
 

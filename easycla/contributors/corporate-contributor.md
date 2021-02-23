@@ -20,8 +20,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 
 ![CLA Check Fail](../../.gitbook/assets/cla-github-individual-check-fail.png)
 
-4. Click ![](../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.  
-**Note:** The Authorize Linux Foundation: EasyCLA dialog appears.
+4. Click ![](../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
@@ -31,24 +30,23 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 
 ![CLA CCLA Flow](../../.gitbook/assets/cla-ccla-flow.png)
 
-6. Click **Proceed as a Corporate Contributor**.   
-**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement.
+6. Click **Proceed as a Corporate Contributor**.
 
 7. On **Select Organization** window, type organization name in the field, select the organization from the drop-down list, and click **Proceed**.
 
-![Select Organization](../../.gitbook/assets/select-organization.png)
-
 {% hint style="info" %}
-**Note:** 
+**Note:**
 
 * If your company is not in the list, you can add the company as described in [If Company is not in the list](corporate-contributor.md#if-the-select-company-dialog-appears-1)
 * **Setup Required** window appears if the company has not completed the CLA set-up. Click the link to submit a ticket, and click Exit CLA.
 {% endhint %}
 
+![Select Organization](../../.gitbook/assets/select-organization.png)
+
 8. Continue:
 
 * [If you are not added to the approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
-* [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list)
+* [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list): Acknowledge company association 
 * [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 * [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
@@ -88,7 +86,7 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 11. Continue:
 
 * [If you are not added to the approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
-* [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list)
+* [If you are added to the approved list](corporate-contributor.md#if-you-are-added-to-the-approved-list): Acknowledge company association
 * [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 * [If Company has not signed CLA](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If Company is not in the List](corporate-contributor.md#if-the-select-company-dialog-appears-1)
@@ -97,20 +95,38 @@ As a corporate \(employee\) contributor, you are contributing code on company's 
 
 If your company has signed CLA, but you are not added to the approved list, **Request Authorization to Contribute** window appears that shows the CLA manager\(s\) for your company.
 
-1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.  
+1. Select CLA manager\(s\) from the drop-down list whom you want to request to authorizing you.  
 **Note:** Clicking **Exit EasyCLA** cancels the CLA signing process.
 
 ![Request Authorization](../../.gitbook/assets/request-authorization.png)
 
 2. Click **Request Authorization**.  
-A dialog appears and informs you: Request Submitted.  
  ![](../../.gitbook/assets/request-submitted.png) 
 
 3. Click **Exit EasyCLA**.
 
-{% hint style="info" %}
-You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
+{% hint style="warning" %}
+**GitHub Contributors:** 
+
+After the CLA manager adds you to the approved list, [acknowledge company association](corporate-contributor.md#if-you-are-added-to-the-approved-list) before you can contribute code under the signed CLA.
+
+**Gerrit Contributors:**
+
+After the CLA manager adds you the approved list, 
 {% endhint %}
+
+## If you are added to the approved list
+
+After the CLA manager adds you to the approved list, you must complete company acknowledgement before you can contribute code under the signed CLA.
+
+1. Navigate to the GitHub PR page.
+
+2. Click **Not Covered**, and follow the procedure.
+
+3. On **Select Organization** window, select the company, and click **Proceed**.
+
+A window appears confirming your association with the company. Click Exit EasyCLA, and you will be redirected to GitHub page for the CLA status to be updated.  
+ ![](../../.gitbook/assets/company-acknowledgement.png)
 
 ## If you are asked to sign ICLA
 
@@ -126,11 +142,17 @@ You will receive an email notification if the CLA manager approves or rejects yo
 **Note:** Ensure that the organization name is correct in the document before you sign.
 
 {% hint style="info" %}
-* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link from the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
+You receive an email confirmation. You can download the signed CLA PDF document by clicking the link from the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  
+![](../../.gitbook/assets/proceed-to-download-icla.png)
 {% endhint %}
 
-Navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to update or refresh the page, and merge PR or submit change.
+{% hint style="info" %}
+**GitHub Contributors:**  
+Navigate to the GitHub page. Wait a few seconds for the CLA status to be updated or refresh the page.
+
+**Gerrit Contributors:**  
+Navigate to Gerrit. Sign out and sign in again for the change submit status to be updated.
+{% endhint %}
 
 ## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
 
@@ -140,7 +162,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-* [Yes](corporate-contributor.md#yes-if-you-are-authorized)— You become the initial CLA manager after you sign CLA.
+* [Yes](corporate-contributor.md#yes-if-you-are-authorized) — You become the initial CLA manager after you sign CLA.
 * [No](corporate-contributor.md#no-if-you-are-not-authorized) — Send request to the authorized person to sign CLA.
 
 ### **Yes \(If you  are authorized\)**
@@ -161,11 +183,8 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 4. You will be redirected to corporate console to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
-{% hint style="info" %}
-**Note:** 
-
-1. After you successfully sign the CCLA, navigate to the GitHub or Gerrit. Wait a few seconds for the CLA status to be updated or refresh the page, and merge PR or submit change.
-2. If the status is still showing **Not Covered**, then your CLA requires you to sign Individual CLA \(ICLA\). Click **Not Covered**, and follow the procedure as described in [If you are asked to sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla).
+{% hint style="warning" %}
+**Important:** After you successfully sign the CCLA, and want to contribute to the project, you must [add yourself to the approved list](../corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s), and [complete company acknowledgement](corporate-contributor.md#if-you-are-added-to-the-approved-list) before you can contribute.
 {% endhint %}
 
 ### **No \(If you are not authorized\)**
@@ -173,14 +192,13 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 1. An **Identify CLA Manager** form appears.  
  ![](../../.gitbook/assets/identify-cla-manager%20%281%29.png) 
 
-2. Complete the form, and click **Submit Request**, ****Or if you don't know email address of the CLA Manager of your company, click **Contact Company Admin**.  
-**Result:** A window appears confirming that notification is sent. You must contact the individual to sign the CLA and add you to the approved list.
+2. Complete the form, and click **Submit Request**, ****Or if you don't know email address of the CLA Manager of your company, click **Contact Company Admin**.
 
 3. Click **Exit EasyCLA**.  
 You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list. 
 
 {% hint style="info" %}
-You will receive an email after you are added to the approved list. After you are added, you [acknowledge the company contribution](corporate-contributor.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
+You will receive an email after you are added to the approved list. After you are added, you must [acknowledge the company contribution](corporate-contributor.md#if-you-are-added-to-the-approved-list) and/or [sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
 {% endhint %}
 
 ## If Company is not in the List <a id="if-the-select-company-dialog-appears"></a>

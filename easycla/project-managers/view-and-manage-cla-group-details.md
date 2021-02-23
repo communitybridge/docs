@@ -20,7 +20,7 @@ You can view CLA group details, edit or delete an added CLA group. Based on CLA 
   * **Signatures** shows the total number of individuals who have signed CLA within the CLA group. This includes both ICLA and/or CCLA based on the CLA group configuration.
   * Click![](../../.gitbook/assets/edit-cta.png)to edit the title and description of the CLA group.
   * Click![](../../.gitbook/assets/delete-icon.png)to create a support ticket requesting to delete the CLA group. 
-* Under **PROJECTS** tab, expand the project group to view projects that are enrolled for the CLA group. Inactive Selected checkbox indicates that the project is added under another CLA group. Click **Manage** to [add and manage git organizations and repositories](add-and-manage-git-organizations-and-repositories/).
+* Under **PROJECTS** tab, expand the project group to view projects that are enrolled for the CLA group. Inactive selected checkboxes indicate that the project is added to another CLA group. Click **Manage** to [add and manage git organizations and repositories](add-and-manage-git-organizations-and-repositories/).
 * Navigate to **TEMPLATES** tab to view and download ICLA and/or CCLA documents based on CLA configuration.
 * Navigate to **SIGNATURES** tab to view signed ICLAs and CCLAs.
   * **Signed ICLAs** lists details of individuals who have signed ICLA, such as name, LF Login name, GitHub id, and email address.
