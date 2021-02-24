@@ -12,7 +12,7 @@ After you successfully add Git organizations, you can:
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
 * [Enforce or Remove CLA Monitoring for Repositories](enforce-or-remove-cla-monitoring.md)
 
-### Add GitHub Organization:
+### Add GitHub Organization
 
 1. [Sign in](../sign-in-to-project-control-center.md).
 
@@ -59,10 +59,10 @@ After you successfully add Git organizations, you can:
 12. A confirmation window appears informing you that the GitHub organization is connected for CLA monitoring.
 
 {% hint style="warning" %}
-**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for gerrit repositories. Simply adding an GitHub organization to the project does not enable the CLA check for any CLA groups.
+**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for gerrit repositories. Simply adding a GitHub organization to the project does not enable the CLA check for any CLA groups.
 {% endhint %}
 
-### Disassociate GitHub Organization:
+### Disassociate GitHub Organization
 
 1. Click the settings icon ![](../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.
 
@@ -70,7 +70,7 @@ After you successfully add Git organizations, you can:
 
 ![Disassociate GitHub Organization](../../../.gitbook/assets/disassociate-github-orgnanization.png)
 
-### Add Gerrit Organization:
+### Add Gerrit Organization
 
 {% hint style="info" %}
 **Note:** If you have already added a Gerrit instance during the CLA on-boarding process, skip this procedure unless you want to add more Gerrit instances.
@@ -99,7 +99,7 @@ The CLA Project Console lists the CLA-enabled instances, as shown below.​​
 
 ![Gerrit Instances](../../../.gitbook/assets/gerrit-instances.png)
 
-### Disassociate Gerrit Organization:
+### Disassociate Gerrit Organization
 
 1. Click **Disassociate Gerrit** next to a Gerrit Instance, and click **Yes, Disconnect** on the confirmation page.
 
