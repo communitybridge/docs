@@ -21,9 +21,9 @@ Recent backend development was implemented in Golang, and can be found in the [`
 
 EasyCLA frontend consists of three independent Single Page Application \(SPA\) built with [Ionic](https://ionicframework.com/) framework:
 
-* [EasyCLA front-end project console](http://projectadmin.lfx.linuxfoundation.org/) for The Linux Foundation director/ project administrator to manage project's CLA 
-* [EasyCLA front-end corporate console](https://member.lfx.linuxfoundation.org/company/dashboard) for company CCLA manager to sign a CCLA and manage employees using CLA approved list
-* [EasyCLA front-end contributor console](https://github.com/communitybridge/easycla-contributor-console) for any project contributor to sign ICLA or CCLA
+* [LFX Project Control Center](https://projectadmin.lfx.linuxfoundation.org/) for The Linux Foundation director/ project administrator to manage project's CLA. It is also referred as EasyCLA project console in the document.
+* [Corporate CLA Console ](https://member.lfx.linuxfoundation.org/)for company CLA manager to sign a corporate CLA and manage employees using CLA approved list. It is also referred as EasyCLA corporate console in the document.
+* [EasyCLA contributor console](https://github.com/communitybridge/easycla-contributor-console) for any project contributor to sign ICLA or CCLA.
 
 ## EasyCLA Architecture <a id="easycla-architechture"></a>
 
@@ -39,11 +39,9 @@ The following diagram illustrates the EasyCLA release process:
 
 ## License <a id="license"></a>
 
-Copyright The Linux Foundation and each contributor to CommunityBridge.
+This project’s source code is licensed under the MIT License. A copy of the license is available in [LICENSE](https://github.com/communitybridge/easycla/blob/main/LICENSE).
 
-This project’s source code is licensed under the MIT License. A copy of the license is available in LICENSE.
+The project includes source code from `keycloak`, which is licensed under the Apache License, version 2.0 \(Apache-2.0\), a copy of which is available in [LICENSE-keycloak](https://github.com/communitybridge/easycla/blob/main/LICENSE-keycloak).
 
-The project includes source code from `keycloak`, which is licensed under the Apache License, version 2.0 \(Apache-2.0\), a copy of which is available in LICENSE-keycloak.
-
-This project’s documentation is licensed under the Creative Commons Attribution 4.0 International License \(CC-BY-4.0\). A copy of the license is available in LICENSE-docs.
+This project’s documentation is licensed under the Creative Commons Attribution 4.0 International License \(CC-BY-4.0\). A copy of the license is available in [LICENSE-docs](https://github.com/communitybridge/easycla/blob/main/LICENSE-docs).
 

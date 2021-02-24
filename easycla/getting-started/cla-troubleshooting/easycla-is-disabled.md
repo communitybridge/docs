@@ -4,7 +4,9 @@ EasyCLA is disabled so the organizations that I want EasyCLA to monitor are not 
 
 **Solution:**
 
-This is a known issue. GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling apps like EasyCLA. Do the following steps to mitigate this problem immediately. Be sure to educate your administrators and organization owners about this GitHub setup and solution.
+#### **Enable Branch Protection**
+
+This is a known issue. GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling EasyCLA.
 
 1. As the GitHub organization owner or administrator, go to the GitHub repository that you want EasyCLA to monitor.
 

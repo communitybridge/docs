@@ -11,4 +11,7 @@ description: >-
 * ​[CLA Management Console Data Does Not Load](cla-management-console-data-does-not-load.md)
 * ​[CLA Manager Does Not Receive Email](cla-manager-does-not-receive-email-notifications.md) ​
 * ​[EasyCLA is Disabled](easycla-is-disabled.md)​
+* [EasyCLA status is not updated in Contributor Console](easycla-status-is-not-updated-in-contributor-console.md)
+
+
 

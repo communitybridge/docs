@@ -112,7 +112,7 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 13. Navigate to the Gerrit project, and start contributing.
 
 {% hint style="info" %}
-**Note:** If you still see CLA status not updated, sign out from Gerrit, and sign in again for the CLA status to be updated.
+**Note:** If you still see CLA status not updated, sign out from Gerrit sign in again, and then follow the procedure again to submit the change.
 {% endhint %}
 
 

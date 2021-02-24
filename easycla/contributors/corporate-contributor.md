@@ -104,8 +104,8 @@ If your company has signed CLA, but you are not added to the approved list, **Re
 3. Click **Exit EasyCLA**.
 
 {% hint style="info" %}
-* **GitHub Contributors:** After the CLA manager adds you to the approved list, [acknowledge company contribution](corporate-contributor.md#acknowledge-company-contribution) before you can contribute code under the signed CLA.
-* **Gerrit Contributors:** After the CLA manager adds you the approved list, 
+* **GitHub Contributors:** After the CLA manager adds you to the approved list, you must [acknowledge company contribution](corporate-contributor.md#acknowledge-company-contribution) or[ sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if your CLA requires you to sign CLA before you can contribute code under the signed CLA.
+* **Gerrit Contributors:** After the CLA manager adds you the approved list, or you sign CLA when navigated form contributor console, and you still see **No Contributor Agreement** error, then sign out from Gerrit, sign in again, and then [follow the procedure](corporate-contributor.md#gerrit) again to submit the change.
 {% endhint %}
 
 ## If you are asked to sign ICLA
@@ -123,7 +123,7 @@ If your company has signed CLA, but you are not added to the approved list, **Re
 
 {% hint style="info" %}
 * **GitHub Contributors:** Navigate to the GitHub page. Wait a few seconds for the CLA status to be updated or refresh the page.
-* **Gerrit Contributors:** Navigate to Gerrit. Sign out and sign in again for the change submit status to be updated.
+* **Gerrit Contributors: If** you still see **No Contributor Agreement** error, then sign out from Gerrit, sign in again, and then [follow the procedure](corporate-contributor.md#gerrit) again to submit the change.
 {% endhint %}
 
 ## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
@@ -156,7 +156,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 4. You will be redirected to corporate console to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 {% hint style="warning" %}
-**Important:** After you sign the CLA, and want to contribute to the project, you must [add yourself to the approved list](../corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s), and [complete company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you contribute.
+**Important:** After you sign the CLA, and want to contribute to the project, you must [add yourself to the approved list](../corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s), and [complete company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you can contribute.
 {% endhint %}
 
 ### **No \(If you are not authorized\)**
@@ -170,7 +170,8 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list. 
 
 {% hint style="info" %}
-You will receive an email after you are added to the approved list. After you are added, you must [acknowledge the company contribution](corporate-contributor.md#acknowledge-company-contribution) and/or [sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
+* **GitHub Contributors:** You will receive an email after you are added to the approved list. After you are added, you must [acknowledge the company contribution](corporate-contributor.md#acknowledge-company-contribution) and/or [sign ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla) if the CLA is configured for you to sign ICLA before you can contribute to the project.
+* Gerrit Contributors: After the CLA manager adds you the approved list, if you still see **No Contributor Agreement** error, then sign out from Gerrit, sign in again, and then [follow the procedure](corporate-contributor.md#gerrit) again to submit the change.
 {% endhint %}
 
 ## If Company is not in the List <a id="if-the-select-company-dialog-appears"></a>
