@@ -19,13 +19,10 @@ As a CLA manager, you can:
 
 ![Add CLA Manager](../../.gitbook/assets/add-cla-manager.png)
 
-4. On **Adding CLA Manager** window, type first name, last name, email address, and click **Add**.
+4. On **Adding CLA Manager** window, type first name, last name, email address, and click **Add**.  
+**Note:** The individual must have LF SSO account to be added as a CLA manager.
 
 ![Adding CLA Manager](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y1LTmgKwkHVbHABGk%2Fadding%20cla%20manager%20window.png?alt=media&token=0de68199-4f6c-4215-9988-b09f49e0c993)
-
-{% hint style="info" %}
-The added CLA manager must log in to the EasyCLA corporate console with LF SSO account to perform other activities. If the user doesn't have account, they must create an LF SSO account.
-{% endhint %}
 
 ### Delete a CLA Manager:
 
