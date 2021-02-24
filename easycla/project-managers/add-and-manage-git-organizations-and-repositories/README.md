@@ -73,7 +73,10 @@ After you successfully add Git organizations, you can:
 ### Add Gerrit Organization
 
 {% hint style="info" %}
-**Note:** If you have already added a Gerrit instance during the CLA on-boarding process, skip this procedure unless you want to add more Gerrit instances.
+**Note:** 
+
+* If you have already added a Gerrit instance during the CLA on-boarding process, skip this procedure unless you want to add more Gerrit instances.
+* After you add a Gerrit organization, all of its repositories are CLA enabled by default.
 {% endhint %}
 
  1. Click the **+** sign at the top right of Add Gerrit Organization.
@@ -94,8 +97,8 @@ After you successfully add Git organizations, you can:
 * One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
 {% endhint %}
 
-The CLA Project Console lists the CLA-enabled instances, as shown below.​​  
-**Note:** You cannot disable CLA check for individual gerrit repositories.
+The EasyCLA project console lists the CLA-enabled instances, as shown below.​​  
+**Note:** You cannot disable CLA check for individual Gerrit repositories.
 
 ![Gerrit Instances](../../../.gitbook/assets/gerrit-instances.png)
 
