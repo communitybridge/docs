@@ -12,5 +12,3 @@ description: >-
 * ​[CLA Manager Does Not Receive Email](cla-manager-does-not-receive-email-notifications.md) ​
 * ​[EasyCLA is Disabled](easycla-is-disabled.md)​
 
-
-

@@ -139,7 +139,7 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 ### **Yes \(If you  are authorized\)**
 
-1. A **Configuring CLA Manager Settings** window appears. 
+1. A **Configuring CLA Manager Settings** window appears.
 
 2. After the configuration settings is completed, click **Proceed**.
 
