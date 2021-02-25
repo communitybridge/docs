@@ -63,10 +63,12 @@ If you select **Only select repositories**, then a newly added repository to the
 ![](../../../.gitbook/assets/selecting-individual-repositories.png)
 {% endhint %}
 
-12. Navigate to the Project Control Center, and click **I am Done Installing**.
+12. Navigate to the Project Control Center, and click **I'm Done Installing**.
+
+![Installation Completed](../../../.gitbook/assets/installation-completed.png)
 
 {% hint style="warning" %}
-**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for gerrit repositories. Simply adding a GitHub organization to the project does not enable the CLA check for any CLA groups.
+**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the CLA check for any CLA groups.
 {% endhint %}
 
 ### Enable Branch Protection and Auto Enable New Repositories
