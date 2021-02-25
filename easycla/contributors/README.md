@@ -1,7 +1,5 @@
 # Contributors
 
-As a contributor, you must sign CLA document before you can contribute to a repository. EasyCLA lets you sign CLAs from within a pull request. After you sign a CLA or sign a confirmation of association with your company, the status of your pull request is updated and you can contribute.
-
 You can contribute on behalf of a company or contribute individually by doing one or both of the following tasks:
 
 * ​[Confirm your association with a company that has a signed Corporate Contributor License Agreement](corporate-contributor.md). You write code for your employer and contribute this code to a project on your employer's behalf.

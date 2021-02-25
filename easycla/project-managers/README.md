@@ -1,6 +1,6 @@
 # Project Managers
 
-Project managers manage project details, such as GitHub organization or Gerrit instance, repositories, and legal aspects, such as EasyCLA for the assigned projects. The Linux Foundation provides you administrator access for projects, and you use the Project Control Center \(PCC\), also referred as Project Console, to manage projects.
+Project managers manage project details, such as GitHub organization or Gerrit instance, repositories, and legal aspects. The Linux Foundation provides project managers administrator access to projects through the Project Control Center \(PCC\) —also known as Project Console— to manage projects.
 
 As a project administrator, you do the following activities:
 
@@ -9,7 +9,7 @@ As a project administrator, you do the following activities:
 3. [Add GitHub organization](add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Gerrit organization](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization)
 4. [Enforce CLA monitoring for GitHub repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) or [Gerrit repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md#enforce-cla-monitoring-for-gerrit-repositories)
 
-Additionally, you can anytime view and manage CLA details, git organization and repositories:
+Additionally, you can anytime view and manage CLA details, Git organizations and repositories:
 
 1. [View and Manage CLA Group Details](view-and-manage-cla-group-details.md)
 2. [Add or Remove Project from CLA Group](add-or-remove-a-project-from-cla-group.md)

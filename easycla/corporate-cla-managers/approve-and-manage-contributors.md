@@ -4,13 +4,13 @@
 You may receive an email after a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the approved list.
 {% endhint %}
 
-You can approve contributors by adding them to the Approved List so that they can contribute to the project under a signed corporate CLA. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allows contributors to be authorized to contribute under a signed corporate CLA.
+You can approve contributors by adding them to the Approved List so that they can contribute to the project under a signed corporate CLA. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allow contributors to be authorized to contribute under a signed corporate CLA.
 
 As a CLA manager, you can:
 
 * [Add Contributors](approve-and-manage-contributors.md#add-contributor-s)
 * [Edit a Contributor's Details](approve-and-manage-contributors.md#edit-a-contributors-details)
-* [Delete a Contributor's Details](approve-and-manage-contributors.md#delete-a-contributors-details)
+* [Delete a Contributor](approve-and-manage-contributors.md#delete-a-contributors-details)
 
 ### **Add Contributor\(s\)**
 
@@ -32,7 +32,7 @@ As a CLA manager, you can:
 **Note:** 
 
 * Domain allows contribution under any email address under that domain name.
-* Email Address allows contribution under an individual email address.
+* Email address allows contribution under an individual email address.
 * GitHub Username allows contribution under a GitHub username.
 * GitHub Organization allows contribution under a GitHub organization name.
 
@@ -51,7 +51,7 @@ Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/
 
 ### Delete a Contributor's Details
 
-Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9) under Manage column on a contributor's row to delete the contributor's details.
+Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9) under Manage column on a contributor's row to delete the contributor.
 
 ![Delete Contributors](../../.gitbook/assets/delete-contributors.png)
 

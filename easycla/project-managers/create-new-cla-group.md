@@ -3,8 +3,8 @@
 A CLA group defines:
 
 * What CLA types your project requires for pull requests or push submissions—the agreement types are for corporate or individual CLAs
-* What CLAs and their versions are used for the contributors
-* What GitHub repositories, Gerrit instances, or both enforce CLA monitoring
+* What CLA templates and their versions are used for the contributors
+* What GitHub repositories, Gerrit instances, or both are enforced for CLA monitoring
 
 #### To Create CLA Group:
 
@@ -12,7 +12,7 @@ A CLA group defines:
 
 2. Under My Projects, click a project or search the project from the search bar for which you want to create a CLA group.
 
-3. From **Tools** tab, and click **CLA**.
+3. From **Tools** tab, click **CLA**.
 
 ![](../../.gitbook/assets/tools-tab.png)
 
@@ -21,12 +21,12 @@ A CLA group defines:
 
 ![Add New CLA Group](../../.gitbook/assets/add-new-cla-group%20%281%29.png)
 
-5. Under CLA Group Name tab, provide a CLA group name, and description in the respective fields.  
+5. Under **CLA Group Name** tab, provide a CLA group name, and description in the respective fields.  
 **Note:** Click the help icons \(**?**\) to know more about a field or check box.
 
 ![](../../.gitbook/assets/cla-group-name%20%281%29.png)
 
-6. Select the check boxes as applicable to contributors of project, and click **Next**.
+6. Select the check boxes as applicable to the contributors of a project, and click **Next**.
 
 {% hint style="info" %}
 * A warning message appears if you select only one.

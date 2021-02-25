@@ -1,6 +1,6 @@
 # Uninstall the EasyCLA Application
 
-If you uninstall the EasyCLA application form an organization, CLA monitoring is no longer in effect for the organization and all of its the repositories.
+To uninstall, you must be an owner of the GitHub organization. If you uninstall the EasyCLA application form a GitHub organization, CLA monitoring is no longer in effect for the organization and all of its the repositories.
 
 1. Sign in to GitHub, and navigate to the organization for which you want to uninstall the EasyCLA application.
 

@@ -1,6 +1,6 @@
 # Individual Contributor
 
-As an individual contributor, you are contributing code on your own behalf \(not on behalf of an employer\). You create a pull request in GitHub or submit changed code in Gerrit to inform reviewers about the changes. During the process, your CLA is verified, and you must sign a CLA if you have not already signed, before you can contribute to GitHub or Gerrit.
+As an individual contributor, you are contributing code on your own \(not on behalf of an employer\). You create a pull request in GitHub or submit changed code in Gerrit to inform reviewers about the changes. During the process, your CLA is verified, and you must sign a CLA if you have not already signed before you can contribute to GitHub or Gerrit.
 
 * [GitHub](individual-contributor.md#github)
 * [Gerrit](individual-contributor.md#gerrit)
@@ -9,7 +9,7 @@ As an individual contributor, you are contributing code on your own behalf \(not
 
 1. In GitHub, go to the repository that is linked to the project for your organization.
 
-2. Make a change and send a pull request.
+2. Make a change and create a pull request.
 
 {% hint style="info" %}
 1. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names who are involved in that pull request based on their CLA status.
@@ -27,7 +27,7 @@ As an individual contributor, you are contributing code on your own behalf \(not
 The CLA Contributor Console appears and shows the CLA group for your project.
 
 {% hint style="info" %}
-**Note:** If the project is not configured for CCLA, then **Proceed as a** **Corporate Contributor** is not displayed.
+**Note:** If the project is not configured for CCLA, then **Proceed as a** **Corporate Contributor** is inactive.
 {% endhint %}
 
 ![CLA ICLA Flow](../../.gitbook/assets/cla-icla-flow.png)
@@ -44,7 +44,7 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 
 ![DocuSign](../../.gitbook/assets/docusign-icla-flow.png)
 
-7. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+7. Select the check box, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**
@@ -99,7 +99,7 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 
 ![DocuSign](../../.gitbook/assets/docusign-icla-flow.png)
 
-12. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+12. Select the check box, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**

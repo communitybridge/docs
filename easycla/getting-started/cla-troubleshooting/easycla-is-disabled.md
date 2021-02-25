@@ -1,6 +1,6 @@
 # EasyCLA is Disabled
 
-EasyCLA is disabled so the organizations that I want EasyCLA to monitor are not monitored.
+EasyCLA is disabled hence the GitHub organization\(s\) that I want EasyCLA to monitor are not monitored.
 
 **Solution:**
 
@@ -26,7 +26,7 @@ GitHub is set up to permit administrators and organization owners to have maximu
 
 ![CLA GitHub branch Add Rule](../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
-**Result:** Branch protection rule settings appears
+**Result:** Branch protection rule setting appears.
 
 6. Select the following check boxes in Rule settings and click **Create**.
 

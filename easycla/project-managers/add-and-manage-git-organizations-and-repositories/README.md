@@ -1,6 +1,6 @@
 # Add and Manage Git Organizations and Repositories
 
-Before you can add or manage git repositories, you must connect/add Git organizations while setting up IT services. However, you can also add GitHub organization in the GitHub pane and add Gerrit instance in the Gerrit pane of **Tools** tab.
+Before you can add or manage Git repositories, you must connect/add Git organizations while setting up IT services. However, you can also add GitHub organization in the GitHub pane and add Gerrit instance in the Gerrit pane of **Tools** tab, as described below.
 
 * [Add GitHub Organization](./#add-github-organization)
 * [Enable Branch Protection and Auto Enable New Repositories](./#enable-branch-protection-and-auto-enable-new-repositories)
@@ -46,7 +46,7 @@ After you successfully add Git organizations, you can:
 
 8. Click **Install GitHub EasyCLA App**.
 
-9. Sign in to GitHub if sign in window appears, and click **Install**.
+9. Sign in to GitHub if sign in window appears, and click **Configure**.
 
 ![](../../../.gitbook/assets/configure-cla-for-github-organization.png)
 
@@ -63,13 +63,15 @@ If you select **Only select repositories**, then a newly added repository to the
 ![](../../../.gitbook/assets/selecting-individual-repositories.png)
 {% endhint %}
 
+12. Navigate to the Project Control Center, and click **I am Done Installing**.
+
 {% hint style="warning" %}
 **Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for gerrit repositories. Simply adding a GitHub organization to the project does not enable the CLA check for any CLA groups.
 {% endhint %}
 
 ### Enable Branch Protection and Auto Enable New Repositories
 
-After adding the GitHub organization, you should enable branch protection and auto enable new repositories. **Enable Branch Protection** helps you to automatically enable CLA check for all the branches of the GitHub organization. You do not need to [enable branch protection manually](../../getting-started/cla-troubleshooting/easycla-is-disabled.md#enable-branch-protection).
+After adding the GitHub organization, you should enable branch protection and auto enable new repositories. **Enable Branch Protection** helps you to automatically enable CLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../../getting-started/cla-troubleshooting/easycla-is-disabled.md#enable-branch-protection).
 
 If you add a new repository to the GitHub organization, selecting Auto Enable New Repositories automatically adds the repository under the GitHub organization on project console.
 
