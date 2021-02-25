@@ -2,8 +2,8 @@
 
 EasyCLA has the following requirements:
 
-* \(Gerrit only\) Your project is hosted on the Linux Foundation platform
 * Your project repositories are in GitHub or Gerrit
+* If your project uses Gerrit source control, the Gerrit instance should be hosted on The Linux Foundation platform.
 * You have an LF Single Sign-On \(SSO\) account. If you do not have an SSO account, [create an account](../../sso/create-an-account.md).
 * For Corporate CLAs, your company has a corporate authority role
 

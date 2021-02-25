@@ -108,7 +108,6 @@
     * [Get Access to EasyCLA](easycla/getting-started/get-access-to-easycla.md)
     * [CLA Troubleshooting](easycla/getting-started/cla-troubleshooting/README.md)
       * [CLA Management Console Data Does Not Load](easycla/getting-started/cla-troubleshooting/cla-management-console-data-does-not-load.md)
-      * [CLA Manager Does Not Receive Email Notifications](easycla/getting-started/cla-troubleshooting/cla-manager-does-not-receive-email-notifications.md)
       * [EasyCLA is Disabled](easycla/getting-started/cla-troubleshooting/easycla-is-disabled.md)
     * [Sign Out of EasyCLA](easycla/getting-started/sign-out-of-easycla.md)
     * [EasyCLA FAQs](easycla/getting-started/easycla-faqs.md)
