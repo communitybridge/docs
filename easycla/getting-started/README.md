@@ -10,7 +10,7 @@ A _Contributor License Agreement_ \(CLA\) defines the terms under which intellec
 
 * **Corporate Contributor License Agreement**
 
-  If the company \(employer\) owns the contribution, a CCLA signatory signs a Corporate CLA. The Corporate CLA legally binds the corporation, so the agreement must be signed by a person with authority to enter into legal contracts on behalf of the corporation. A project may require that every employee \(developer\) should sign their own individual CLA \(which separately covers contributions owned by the individual contributor\) besides being covered by corporate CLA.
+  If the company \(employer\) owns the contribution, a CCLA signatory signs a Corporate CLA. The Corporate CLA legally binds the corporation, so the agreement must be signed by a person with authority to enter into legal contracts on behalf of the corporation. A Corporate CLA may not remove the need for every employee \(developer\) to sign their own Individual CLA -- which separately covers contributions owned by the individual contributor -- if the project requires this.
 
 * **Individual Contributor License Agreement**
 
