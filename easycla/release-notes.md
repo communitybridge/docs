@@ -6,7 +6,7 @@ Following are the known issues in v2.0.0 release of EasyCLA:
 
 #### Two-Level Project Hierarchies
 
-EasyCLA v2.0.0 supports project hierarchies only with two levels. Following is an example:
+EasyCLA v2.0.0 supports projects with only two levels of hierarchies. Following is an example:
 
 * Parent Project
   * Child Project

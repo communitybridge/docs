@@ -10,7 +10,7 @@ A _Contributor License Agreement_ \(CLA\) defines the terms under which intellec
 
 * **Corporate Contributor License Agreement \(CCLA\)**
 
-  If the company \(employer\) owns the contribution, an authorized person from the company signs the Corporate CLA. The Corporate CLA legally binds the corporation, so the agreement must be signed by a person with authority to enter into legal contracts on behalf of the corporation. A Corporate CLA may require every employee \(developer\) to sign their own Individual CLA -- which separately covers contributions owned by the individual contributor -- if the project requires this.
+  If the company \(employer\) owns the contribution, an authorized person from the company signs the Corporate CLA. The Corporate CLA legally binds the corporation, so the agreement must be signed by a person with authority to enter into legal contracts on behalf of the corporation. A project may require that every employee \(developer\) should sign their own individual CLA \(which separately covers contributions owned by the individual contributor\) besides being covered by corporate CLA.
 
 * **Individual Contributor License Agreement \(ICLA\)**
 
@@ -49,7 +49,7 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are authorized to mana
 
 ### Corporate CLA Manager Designee
 
-You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA manager for a company, and you are the first person to sign corporate CLA for a project. You use corporate CLA console to sign CLA. For details, see [Corporate CLA Manager Designee or Initial CLA Manager](../corporate-cla-manager-designee-or-initial-cla-manager/).
+You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there is no existing CLA manager for a company, and you are the first person to sign corporate CLA for a project. You use corporate CLA console to sign CLA. For details, see [Corporate CLA Manager Designee or Initial CLA Manager](../corporate-cla-manager-designee-or-initial-cla-manager/).
 
 You become a CLA manager designee:
 
