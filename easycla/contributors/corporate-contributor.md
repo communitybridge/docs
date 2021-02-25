@@ -138,21 +138,19 @@ If your company has not signed a CLA, **No Signed CLA Found** window appears.
 
 ### **Yes \(If you  are authorized\)**
 
-1. A **Configuring CLA Manager Settings** window appears.
+1. Click **Proceed** on the window that appears.
 
-2. After the configuration settings is completed, click **Proceed**.
-
-![](../../.gitbook/assets/configuring-cla-manager-settings.png)
-
-3.  Click **Proceed** on the window that appears. Ensure that you disable pop-up blocker if you have enabled any pop-up blocker as shown in the note.
-
-![](../../.gitbook/assets/proceed-to-corporate-console-from-contributor-console.png)
+![Proceed to Sign with SSO Account](../../.gitbook/assets/proceed-to-sign-with-sso-account.png)
 
 {% hint style="info" %}
 **Note:** If you don't have a username \(LF SSO Account\) associated with Linux Foundation, you will be redirected to The Linux Foundation page to create a username.
 {% endhint %}
 
-4. You will be redirected to corporate console to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+2.  Click **Proceed** again.
+
+![Redirecting to CLA Manager COnsole](../../.gitbook/assets/redirecting-to-cla-manager-console.png)
+
+3. You will be redirected to corporate console to [sign a CLA](../corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
 
 {% hint style="warning" %}
 **Important:** After you sign the CLA, and want to contribute to the project, you must [add yourself to the approved list](../corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s), and [complete company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you can contribute.
