@@ -79,19 +79,7 @@ It shows a table that lists contributors from your company associated with this 
 * **Agreement** shows the version of CLA agreement that was signed by the contributor.
 * **Acknowledged On** shows date and time when the user acknowledged the agreement.
 
-**Search** lets you to search a contributor by name and LFID/GHID.
-
-**CLA STATISTICS FOR MY ORGANIZATION**
-
-{% hint style="info" %}
-**Note:** This section is displayed ****only for project groups, not for individual projects.
-{% endhint %}
-
-This is displayed only for project groups, and shows a table that lists the following information:
-
-* **Projects** shows the names of the EasyCLA enabled projects that come under the project group.
-* **My CLA Managers** shows total number of CLA managers assigned to projects.
-* **Approved Contributor Count** shows total number of approved contributors of projects.
+**Search** lets you to search a contributor by name and LF Login or GitHub ID.
 
 **PROJECTS WITH EASYCLA ENABLED**
 
