@@ -32,7 +32,6 @@ Data under a project group is an aggregate data of all the projects that come un
 It shows a table that lists the CLAs signed by your company with the project:
 
 * **Project** shows name and logo of the project with which CLA is signed.
-* **Type** \(Displayed at Project Group level\) shows at which level the CLA is signed, for example, project group level or project level.
 * **CLA Group** shows CLA group name which the project belongs to. A CLA group can have multiple projects.
 * **Status** shows CLA status—Signed/Not signed.
 * **Signed on** shows the date when CLA was signed.
@@ -76,7 +75,7 @@ It shows a table that lists details of approved contributors from your organizat
 It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
 
 * **Name** shows the name and image of the contributor. Data is retrieved from the individual profile page.
-* **LF Login/GHID** shows the Linux Foundation login name or GitHub ID of the contributor.
+* **LF Login/GitHubID** shows The Linux Foundation login name or GitHub ID of the contributor.
 * **Agreement** shows the version of CLA agreement that was signed by the contributor.
 * **Acknowledged On** shows date and time when the user acknowledged the agreement.
 
