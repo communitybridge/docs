@@ -6,7 +6,7 @@ description: This page describes how to sign CLA as a CLA manager.
 
 As a CCLA manager designee \(initial CLA manager\), you must sign a corporate CLA before you manage contributors for your company, and add other CLA managers. You become a[ CCLA manager](../corporate-cla-managers/) after you sign CLA as a CLA manager designee.
 
-1. [Sign in](../corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md) to the [corporate console](https://organization.lfx.linuxfoundation.org/company/dashboard).
+1. [Sign in](../corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md) to the [corporate console](http://member.lfx.linuxfoundation.org/).
 
 2. Select the project from the **Search** field, and click **EasyCLA** under the project name.  
 **Note:** If you are already designated as a CLA manager designee for a project, details appear as shown in step 5.

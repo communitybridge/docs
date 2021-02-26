@@ -10,7 +10,7 @@ As a CLA manager, you can:
 
 ### **Add Contributor\(s\)**
 
-1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to [corporate console](https://organization.lfx.linuxfoundation.org/company/dashboard).
+1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to [corporate console](https://member.lfx.linuxfoundation.org/company/dashboard).
 
 2. Click a **project** of interest.
 
