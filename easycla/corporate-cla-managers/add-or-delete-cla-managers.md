@@ -11,7 +11,7 @@ As a CLA manager, you can:
 
 ### Add a CLA Manager:
 
-1. Sign in to the [corporate console](https://member.lfx.linuxfoundation.org/company/dashboard).
+1. Sign in to the [corporate console](https://organization.lfx.linuxfoundation.org/company/dashboard).
 
 2. Navigate to the project for which you want to add CLA managers.
 
