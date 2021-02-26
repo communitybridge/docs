@@ -2,7 +2,7 @@
 
 **To Edit Company details:**
 
-1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the [corporate console](https://easycla.lfx.linuxfoundation.org/#/).
+1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the corporate console.
 
    _To see all companies in your organization which are associated to the Linux Foundation, click the_ _**hamburger icon**_ _next to CLA Corporate Console._
 
