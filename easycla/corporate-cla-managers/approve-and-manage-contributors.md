@@ -20,15 +20,15 @@ As a CLA manager, you can:
 
 4. On **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-
+![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
 
 5. Click **+Add More** to add other details for a contributor.
 
 {% hint style="info" %}
 **Note:** 
 
-* Domain allows contribution under any email address under that domain name.
-* Email address allows contribution under an individual email address.
+* Email Address Domain allows contribution under any email address under that domain name.
+* Gerrit/GitHub Email allows contribution under an individual email address associated with Gerrit/GitHub.
 * GitHub Username allows contribution under a GitHub username.
 * GitHub Organization allows contribution under a GitHub organization name.
 
