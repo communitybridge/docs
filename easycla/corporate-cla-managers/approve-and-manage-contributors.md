@@ -1,9 +1,5 @@
 # Approve and Manage Contributors
 
-{% hint style="info" %}
-You may receive an email after a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the approved list.
-{% endhint %}
-
 You can approve contributors by adding them to the Approved List so that they can contribute to the project under a signed corporate CLA. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allow contributors to be authorized to contribute under a signed corporate CLA.
 
 As a CLA manager, you can:
@@ -24,7 +20,7 @@ As a CLA manager, you can:
 
 4. On **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
+
 
 5. Click **+Add More** to add other details for a contributor.
 
