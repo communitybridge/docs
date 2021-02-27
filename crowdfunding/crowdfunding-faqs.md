@@ -40,3 +40,7 @@ No, after donors complete their donation, they cannot later object to a projectâ
 
 No, donors cannot receive refunds or object to a projectâ€™s use of allocated funds. LFX provides a transparent and open ledger to provide visibility into expenditures and to help ensure donated funds are not abused.
 
+## How about funds transation specially in underdevelopment countries where foreign outbound transactions policy is stringent?<a id=FundoingFAQs-Howaboutfundstransactionspeciallyinunderdevelopmentcountrieswhereforeignoutnoundtransactiospolicyisstringent?></a>
+
+As of now no definite policy adopted for such issues, however you can contact in such cases [check get help page]<a https://docs.linuxfoundation.org/lfx/crowdfunding/crowdfunding-get-help></a> or get clarifications from your organization or mentor.
+
