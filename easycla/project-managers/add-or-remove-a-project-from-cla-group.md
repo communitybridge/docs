@@ -1,6 +1,6 @@
 # Add or Remove a Project from CLA Group
 
-You can add new projects to a CLA group or remove projects from a CLA group.
+The Project Manager can add new projects to a CLA group or remove projects from a CLA group.
 
 1. [Sign in](sign-in-to-project-control-center.md).
 
@@ -9,7 +9,7 @@ You can add new projects to a CLA group or remove projects from a CLA group.
 2. Under CLA Groups, select a CLA group for which you want to manage projects.
 
 3.  Select or deselect the check box next to a project to add or remove the project from the CLA group.  
-**Note:** A project's check box is selected and unavailable under a CLA group if the project is added to another CLA group.
+**Note:** A project's check box is selected and unavailable under a CLA group if the project has already been added to another CLA group.
 
 4. Click **Update CLA Group**.
 

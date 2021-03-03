@@ -1,4 +1,4 @@
 # Sign CLA for a Project
 
-As a corporate member, you can sign CLA for a project or designate someone to sign CLA. For details regarding how to sign CLA, see [Sign Corporate CLA for a Company](../../easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+A company can use the EasyCLA Corporate Console to sign a CCLA for a project. For details, see [Getting Started](../../easycla/getting-started) and [coordinating signing a CCLA](../../easycla/corporate-cla-managers/coordinate-signing-ccla.md).
 

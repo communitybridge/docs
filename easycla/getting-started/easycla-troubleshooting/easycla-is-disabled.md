@@ -1,12 +1,14 @@
-# EasyCLA is Disabled
+# EasyCLA is Disabled for a GitHub repository
 
-EasyCLA is disabled hence the GitHub organization\(s\) that I want EasyCLA to monitor are not monitored.
+EasyCLA was previously enabled for a GitHub repository, but someone other than the project manager has subsequently disabled it.
 
 **Solution:**
 
 #### **Enable Branch Protection**
 
-GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the **Enable Branch Protection** check box](../../project-managers/add-and-manage-git-organizations-and-repositories/#enable-branch-protection-and-auto-enable-new-repositories) after the GitHub organization is added to a project or add the branch protection rule manually, as described below:
+GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the **Enable Branch Protection** check box](../../project-managers/add-and-manage-git-organizations-and-repositories/#enable-branch-protection-and-auto-enable-new-repositories) after the GitHub organization is added to a project.
+
+You can also add the branch protection rule manually, as described below:
 
 1. As the GitHub organization owner or administrator, go to the GitHub repository that you want EasyCLA to monitor.
 

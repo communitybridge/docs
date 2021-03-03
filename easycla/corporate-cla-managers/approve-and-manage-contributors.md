@@ -1,45 +1,47 @@
 # Approve and Manage Contributors
 
+After a company signs a CCLA, the company's CLA Managers can approve their company's employees to contribute by adding them to their Approved List for that project. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allow contributors to be authorized to contribute under the signed CCLA.
+
 {% hint style="info" %}
-You may receive an email after a contributor sends a request to be added to the Approved list. To approve them, you must add their email address or GitHub username to the approved list.
+CLA Managers may receive an email after a contributor sends a request to be added to the Approved list. To approve them, the CLA Manager must add their email address or GitHub username to the approved list.
 {% endhint %}
 
-You can approve contributors by adding them to the Approved List so that they can contribute to the project under a signed corporate CLA. **Approved Lists** are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names that allow contributors to be authorized to contribute under a signed corporate CLA.
+As a CLA manager for a project, you can:
 
-As a CLA manager, you can:
+* [Add Contributors to the project's Approved List](approve-and-manage-contributors.md#add-contributor-s)
+* [Edit the details for an Approved List criteria](approve-and-manage-contributors.md#edit-a-contributors-details)
+* [Delete a Contributor from the project's Approved List](approve-and-manage-contributors.md#delete-a-contributors-details)
 
-* [Add Contributors](approve-and-manage-contributors.md#add-contributor-s)
-* [Edit a Contributor's Details](approve-and-manage-contributors.md#edit-a-contributors-details)
-* [Delete a Contributor](approve-and-manage-contributors.md#delete-a-contributors-details)
+**Note**: Before doing any of the following actions, you must first be a CLA Manager under a signed CCLA. If your company has not yet signed a CCLA, you will need to first [coordinate the CCLA signing process](./coordinate-signing-ccla.md).
 
 ### **Add Contributor\(s\)**
 
-1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to [corporate console](https://member.lfx.linuxfoundation.org/company/dashboard).
+1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the [EasyCLA Corporate Console](https://member.lfx.linuxfoundation.org/company/dashboard).
 
 2. Click a **project** of interest.
 
-3. Click **+ Add Approval Criteria** under **APPROVED LIST OF CONTRIBUTIONS FROM MY ORGANIZATION**.
+3. Click **+ Add Approval Criteria** under **Approved List Of Contributions From My Organization**.
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria.png)
 
-4. On **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
+4. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
-
-5. Click **+Add More** to add other details for a contributor.
 
 {% hint style="info" %}
 **Note:** 
 
-* Domain allows contribution under any email address under that domain name.
-* Email address allows contribution under an individual email address.
-* GitHub Username allows contribution under a GitHub username.
-* GitHub Organization allows contribution under a GitHub organization name.
+* _Domain_ allows contribution from anyone with an email address with that domain name.
+* _Email address_ allows contribution from the person with that email address.
+* _GitHub Username_ allows contribution from the person with that GitHub username.
+* _GitHub Organization_ allows contribution from anyone in that GitHub organization.
 
-GitHub Organization and GitHub Username are not required while adding contributors to Gerrit projects.
+GitHub Organization and GitHub Username are not applicable while adding contributors to Gerrit projects.
 {% endhint %}
 
-6. Click **Save** to add the contributor.
+5. Click **+Add More** to add other details for more contributors.
+
+6. Click **Save** to save the approval criteria settings.
 
 {% hint style="info" %}
 If you add a contributor to the approved list after you receive an email requesting authorization, inform them to [acknowledge company contribution](../contributors/corporate-contributor.md#acknowledge-company-contribution) before they contribute to the project.
@@ -47,11 +49,11 @@ If you add a contributor to the approved list after you receive an email request
 
 ### Edit a Contributor's Details
 
-Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9r8HAsE33veE1f8-jp%2F-M9rgXW5MmdCw4zlarnJ%2Fedit%20icon.png?alt=media&token=dc04f1ad-302e-49e8-983e-dacbaa49f029) next to a contributor's row, make edits, and click **Save**.
+Click ![](../../.gitbook/assets/edit-icon.png) in the row for one of the Approval List criteria, make edits, and click **Save**.
 
 ### Delete a Contributor's Details
 
-Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9) under Manage column on a contributor's row to delete the contributor.
+Click ![](../../.gitbook/assets/delete-icon.png) in the row for one of the Approval List criteria, to delete the contributor or the group criteria.
 
 ![Delete Contributors](../../.gitbook/assets/delete-contributors.png)
 

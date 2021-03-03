@@ -1,37 +1,45 @@
 # EasyCLA
 
-​[​](https://circleci.com/gh/communitybridge/easycla)EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\) so you can stay compliant with project policies. It is the only tool to support both individual and corporate CLA workflows.
+​[​](https://circleci.com/gh/communitybridge/easycla)EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\), to help projects ensure that contributions are made in accordance with project policies. It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated fashion.
 
-## Third-party Services <a id="third-party-services"></a>
+## Quick Help <a id="quick-help"></a>
 
-​Besides integration with Auth0 and Salesforce, the CLA system uses the following third party services:
+For information about how to get started with contributing to a project that uses EasyCLA, please see [Getting Started](./getting-started) and our [FAQs page](./getting-started/easycla-faqs).
+
+For support questions, please see our [Troubleshooting page](./getting-started/easycla-troubleshooting) or [file a support ticket](https://docs.linuxfoundation.org/lfx/v/v2/easycla/getting-started/easycla-troubleshooting).
+
+## EasyCLA Development
+
+### Third-party Services <a id="third-party-services"></a>
+
+​Besides integration with the LFX platform and its underlying services, EasyCLA uses the following third party services:
 
 * ​[Docusign](https://www.docusign.com/) for the CLA agreement e-sign flow
-* ​[Docraptor](https://docraptor.com/) for converting html CLA template to PDF file
+* ​[Docraptor](https://docraptor.com/) for converting CLA templates from HTML to PDF
 
-## EasyCLA Backend <a id="cla-backend"></a>
+### EasyCLA Backend <a id="cla-backend"></a>
 
 The EasyCLA tool has two backend components.
 
-The majority of the backend APIs are implemented in python, and can be found in the [`cla-backend`](https://github.com/communitybridge/easycla/tree/master/cla-backend) directory.
+The majority of the backend APIs are implemented in Python, and can be found in the [`cla-backend`](https://github.com/communitybridge/easycla/tree/master/cla-backend) directory.
 
 Recent backend development was implemented in Golang, and can be found in the [`cla-backend-go`](https://github.com/communitybridge/easycla/tree/master/cla-backend-go) directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
 
-## EasyCLA Frontend <a id="cla-frontend"></a>
+### EasyCLA Frontend <a id="cla-frontend"></a>
 
-EasyCLA frontend consists of three independent Single Page Application \(SPA\) built with [Ionic](https://ionicframework.com/) framework:
+The EasyCLA frontend consists of three independent Single Page Applications \(SPAs\) built with the [Ionic](https://ionicframework.com/) framework:
 
-* [LFX Project Control Center](https://projectadmin.lfx.linuxfoundation.org/) for The Linux Foundation director/ project administrator to manage project's CLA. It is also referred as EasyCLA project console in the document.
-* [Corporate CLA Console ](https://member.lfx.linuxfoundation.org/)for company CLA manager to sign a corporate CLA and manage employees using CLA approved list. It is also referred as EasyCLA corporate console in the document.
-* [EasyCLA contributor console](https://github.com/communitybridge/easycla-contributor-console) for any project contributor to sign ICLA or CCLA.
+* [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org/) for a project's director or manager (typically an LF staff member) to oversee the project's CLA setup. It is sometimes referred as the LFX Project Control Center in this documentation.
+* [EasyCLA Contributor Console](https://github.com/communitybridge/easycla-contributor-console) for a contributor to a project to sign an Individual CLA (ICLA), or to kick off the corporate CLA (CCLA) signature process.
+* [EasyCLA Corporate Console](https://member.lfx.linuxfoundation.org/) for a company's CLA Manager to coordinate the corporate CLA signature process, and then to manage their company's authorized contributors.
 
-## EasyCLA Architecture <a id="easycla-architechture"></a>
+### EasyCLA Architecture <a id="easycla-architecture"></a>
 
-The following diagram explains the EasyCLA architecture:
+The following diagram illustrates EasyCLA's architecture:
 
 ![EasyCLA Architecture Overview](../.gitbook/assets/easycla-architecture-overview.png)
 
-## EasyCLA Release Process <a id="easycla-release-process"></a>
+### EasyCLA Release Process <a id="easycla-release-process"></a>
 
 The following diagram illustrates the EasyCLA release process:
 
