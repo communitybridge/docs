@@ -3,9 +3,7 @@
 A Project Manager can view CLA group details and can edit or delete a CLA group.
 
 1. [Sign in](sign-in-to-project-control-center.md).
-
 2. Click a **project name** of interest.
-
 3. Navigate to the **Tools** tab, and click **CLA**.
 
 ![Tools](../../.gitbook/assets/tools-tab.png)
@@ -31,6 +29,4 @@ A Project Manager can view CLA group details and can edit or delete a CLA group.
 **ACTIVITY LOG** shows the recent CLA activities for the projects within the CLA group, such as activity description, name of the person who did the activity, date and time of the activity, the corresponding company name where applicable, and the applicable project.
 
 ![](../../.gitbook/assets/activity-log.png)
-
- 
 

@@ -14,10 +14,10 @@ In the user interface, some projects are nested under parent projects or foundat
 ## If Company has signed CLA
 
 {% hint style="warning" %}
-**Important:** The CLA Managers for a project can edit their company's EasyCLA settings (such as authorized contributors approval lists) for only the project(s) where they are the CLA Managers. Others (such as CLA Managers for other projects, or other roles) will have read-only access but cannot change the company's EasyCLA settings for the project.
+**Important:** The CLA Managers for a project can edit their company's EasyCLA settings \(such as authorized contributors approval lists\) for only the project\(s\) where they are the CLA Managers. Others \(such as CLA Managers for other projects, or other roles\) will have read-only access but cannot change the company's EasyCLA settings for the project.
 {% endhint %}
 
-#### ACTIVE CLAs FOR MY ORGANIZATION <a id="cla-for-my-organization"></a>
+### ACTIVE CLAs FOR MY ORGANIZATION <a id="cla-for-my-organization"></a>
 
 This shows a table that lists the CCLA signed by your company for this project:
 
@@ -28,7 +28,7 @@ This shows a table that lists the CCLA signed by your company for this project:
 * **Signed By** shows the name of the person who signed the CCLA.
 * **Download** \(shown if CCLA is signed\) lets you download the PDF file of the signed CLA.
 
-#### CLA MANAGERS FROM MY ORGANIZATION <a id="cla-managers-from-my-organization"></a>
+### CLA MANAGERS FROM MY ORGANIZATION <a id="cla-managers-from-my-organization"></a>
 
 This shows a table that lists CLA Managers of your company including their details.
 
@@ -64,11 +64,11 @@ This shows a table that lists details of approved contributors from your organiz
 This shows a table that lists contributors from your company authorized to contribute to this project who have completed contributor acknowledgments.
 
 * **Name** shows the name of the contributor.
-* **LF Login/GHID** shows the Linux Foundation login name or GitHub ID of the contributor.
+* **LF Login/GitHub ID** shows the Linux Foundation login name or GitHub ID of the contributor.
 * **Agreement** shows the version of the CCLA under which the contributor was authorized.
 * **Acknowledged On** shows the date and time when the user acknowledged their association with the company under the CCLA.
 
-**Search** lets you search for a contributor by name and LFID/GHID.
+**Search** lets you search for a contributor by name and LFID/GitHub ID.
 
 **PROJECTS WITH EASYCLA ENABLED**
 
@@ -84,4 +84,5 @@ If your company has not yet signed a CCLA for a project, the following screen wi
 
 ![CLA not signed](../../.gitbook/assets/company-has-not-signed-cla.png)
 
-For details about signing a CCLA, see [Getting Started](../../easycla/getting-started) and [coordinating signing a CCLA](../../easycla/corporate-cla-managers/coordinate-signing-ccla.md).
+For details about signing a CCLA, see [Getting Started](../../easycla/getting-started/) and [coordinating signing a CCLA](../../easycla/corporate-cla-managers/coordinate-signing-ccla.md).
+

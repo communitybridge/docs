@@ -47,23 +47,23 @@ A _Project Manager_ is responsible for setting up the project's CLA templates an
 
 ### Contributor <a id="contributor"></a>
 
-A _Contributor_ is someone \(typically a developer\) who contributes code to a GitHub or Gerrit project that is set up on EasyCLA. 
+A _Contributor_ is someone \(typically a developer\) who contributes code to a GitHub or Gerrit project that is set up on EasyCLA.
 
-The specific workflow that a contributor follows will depend on: 
+The specific workflow that a contributor follows will depend on:
 
 * whether the project is hosted on GitHub or Gerrit; and
 * whether they are contributing on behalf of themselves or a company \(typically their employer\). 
 
 After submitting a contribution on GitHub or Gerrit, if a Contributor has not yet been authorized under a signed CLA, then their contribution will be initially blocked. They will use the EasyCLA Contributor Console to either:
 
-* sign an ICLA (if contributing on their own behalf); or
+* sign an ICLA \(if contributing on their own behalf\); or
 * identify the company on whose behalf they are contributing, so that they can either be authorized under a signed CCLA or else start the CCLA signing process.
 
 ### CLA Manager
 
-A _CLA Manager_ is someone who is authorized by a company to manage the list of (1) authorized Contributors, and (2) other CLA Managers, under that company’s CCLA for a project.
+A _CLA Manager_ is someone who is authorized by a company to manage the list of \(1\) authorized Contributors, and \(2\) other CLA Managers, under that company’s CCLA for a project.
 
-When a CCLA is first being set up for signature, it will specify an "Initial CLA Manager". This person uses the EasyCLA Corporate Console to coordinate the signing of the CLA (see [CLA Signatory](./#cla-signatory) below).
+When a CCLA is first being set up for signature, it will specify an "Initial CLA Manager". This person uses the EasyCLA Corporate Console to coordinate the signing of the CLA \(see [CLA Signatory](./#cla-signatory) below\).
 
 After the CCLA is fully signed, then the specified Initial CLA Manager will be able to use the EasyCLA Corporate Console to manage the list of authorized Contributors. They can also designate additional CLA Managers.
 
@@ -76,8 +76,9 @@ A CLA Manager uses the EasyCLA Corporate Console to:
 
 ### CLA Signatory <a id="cla-signatory"></a>
 
-A _CLA Signatory_ is someone who has been authorized by their company to sign a CCLA on its behalf. 
+A _CLA Signatory_ is someone who has been authorized by their company to sign a CCLA on its behalf.
 
 If a company's CLA Signatory is the same as their Initial CLA Manager, then they will be redirected to sign the CCLA via the EasyCLA Corporate Console. If the CLA Signatory is a different person from the Initial CLA Manager, then the CLA Signatory will receive an email to review and sign the CCLA.
 
 If you are authorized and receive an email request to sign contracts, then [review and sign the project’s CLA on behalf of the company](../corporate-cla-signatories/review-and-sign-a-corporate-cla-by-request.md).
+

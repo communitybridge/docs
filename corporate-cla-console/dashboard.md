@@ -18,3 +18,4 @@ From the dashboard, you can choose the project for which you want to sign a CCLA
 Navigate to a project, or type a project name in the search box and press Enter to search for the project. Note that some projects are nested within parent projects or foundations, so you may need to click through the parent to see a list of its children.
 
 Click a project to navigate to the CLA Corporate Console details page for that project. For more information about per-project details, see [Projects](projects/).
+

@@ -9,3 +9,4 @@ For a project to use EasyCLA, it must meet the following requirements:
 For a CLA Manager to access EasyCLA, they must register an LF Single Sign-On \(SSO\) account. If you do not have an LF SSO account, you can read how to [create an account here](https://docs.linuxfoundation.org/lfx/sso/create-an-account).
 
 For a company to sign a project's CCLA, they will need to identify the appropriate company employees who will be the CLA Manager and CLA Signatory for that CCLA.
+

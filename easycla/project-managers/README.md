@@ -19,5 +19,3 @@ Additionally, you can view and manage CLA details, GitHub and Gerrit organizatio
 6. [Remove CLA Monitoring from GitHub repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories)
 7. [Uninstall the EasyCLA Application from git organization](uninstall-the-easycla-application.md)
 
-
-

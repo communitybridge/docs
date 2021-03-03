@@ -10,3 +10,4 @@ After you [add a GitHub](./#add-github-organization) or [Gerrit organization](./
 * ![](../../../.gitbook/assets/red-connection-failure.png) indicates connection failure: for a connected organization, either the EasyCLA configuration is uninstalled or the organization is deleted from GitHub.
 
 A repository with a cross mark next to it indicates connection failure. It means the repository was EasyCLA enabled, but it is deleted from the organization.
+

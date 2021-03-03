@@ -4,9 +4,9 @@
 
 ## Quick Help <a id="quick-help"></a>
 
-For information about how to get started with contributing to a project that uses EasyCLA, please see [Getting Started](./getting-started) and our [FAQs page](./getting-started/easycla-faqs).
+For information about how to get started with contributing to a project that uses EasyCLA, please see [Getting Started](getting-started/) and our [FAQs page](https://github.com/communitybridge/docs/tree/f3a4dfdd6f9845ac96d41cd1b8878b1e12f70c92/easycla/getting-started/easycla-faqs/README.md).
 
-For support questions, please see our [Troubleshooting page](./getting-started/easycla-troubleshooting) or [file a support ticket](https://docs.linuxfoundation.org/lfx/v/v2/easycla/getting-started/easycla-troubleshooting).
+For support questions, please see our [Troubleshooting page](getting-started/easycla-troubleshooting/) or [file a support ticket](https://docs.linuxfoundation.org/lfx/v/v2/easycla/getting-started/easycla-troubleshooting).
 
 ## EasyCLA Development
 
@@ -29,8 +29,8 @@ Recent backend development was implemented in Golang, and can be found in the [`
 
 The EasyCLA frontend consists of three independent Single Page Applications \(SPAs\) built with the [Ionic](https://ionicframework.com/) framework:
 
-* [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org/) for a project's director or manager (typically an LF staff member) to oversee the project's CLA setup. It is sometimes referred as the LFX Project Control Center in this documentation.
-* [EasyCLA Contributor Console](https://github.com/communitybridge/easycla-contributor-console) for a contributor to a project to sign an Individual CLA (ICLA), or to kick off the corporate CLA (CCLA) signature process.
+* [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org/) for a project's director or manager \(typically an LF staff member\) to oversee the project's CLA setup. It is sometimes referred as the LFX Project Control Center in this documentation.
+* [EasyCLA Contributor Console](https://github.com/communitybridge/easycla-contributor-console) for a contributor to a project to sign an Individual CLA \(ICLA\), or to kick off the corporate CLA \(CCLA\) signature process.
 * [EasyCLA Corporate Console](https://member.lfx.linuxfoundation.org/) for a company's CLA Manager to coordinate the corporate CLA signature process, and then to manage their company's authorized contributors.
 
 ### EasyCLA Architecture <a id="easycla-architecture"></a>

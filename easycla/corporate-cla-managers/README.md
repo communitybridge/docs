@@ -1,6 +1,6 @@
 # Corporate CLA Managers
 
-A CLA Manager is the person who is responsible for managing the list of authorized contributors, and managing other aspects of their company's CCLA. 
+A CLA Manager is the person who is responsible for managing the list of authorized contributors, and managing other aspects of their company's CCLA.
 
 The CLA Manager does the following activities via the [CLA Corporate Console](https://member.lfx.linuxfoundation.org/). \(Read here for [details on signing in](sign-in-to-the-easycla-corporate-console.md) to the console.\)
 

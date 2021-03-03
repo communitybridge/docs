@@ -1,6 +1,6 @@
 # Sign In to the EasyCLA Corporate Console
 
-A CLA Manager \(or someone who will become an initial CLA Manager after a CCLA is signed\) must sign in to the corporate console in order to [coordinate the CCLA signing process](./coordinate-signing-ccla.md), and to perform other activities.
+A CLA Manager \(or someone who will become an initial CLA Manager after a CCLA is signed\) must sign in to the corporate console in order to [coordinate the CCLA signing process](coordinate-signing-ccla.md), and to perform other activities.
 
 1. Go to [https://member.lfx.linuxfoundation.org/company/dashboard](https://member.lfx.linuxfoundation.org/company/dashboard).
 2. Enter your credentials and click **SIGN IN**.

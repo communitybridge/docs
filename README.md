@@ -9,8 +9,7 @@ With 11 tools currently available and more on the roadmap for early next year, t
 
 ## Why was LFX created? <a id="CommunityBridgeFAQs-WhywasCommunityBridgecreated?"></a>
 
-The world runs on open source, and projects need more than a version or source control system to scale. The Linux Foundation has evolved a proven methodology to transform projects into category leaders. LFX operationalizes this approach, providing a suite of tools built to facilitate every aspect of open source development.  
-
+The world runs on open source, and projects need more than a version or source control system to scale. The Linux Foundation has evolved a proven methodology to transform projects into category leaders. LFX operationalizes this approach, providing a suite of tools built to facilitate every aspect of open source development.
 
 [Learn More ](https://lfx.linuxfoundation.org/about/why-lfx/)
 
@@ -36,7 +35,7 @@ Developers and sponsors of open source projects hosted by The Linux Foundation c
 
 The LFX tools are provided as a value to developers and sponsors of open source projects hosted by the Linux Foundation. No fees of any kind are assessed to open source projects on the platform.
 
-## How do I get started using LFX for my project?  <a id="CommunityBridgeFAQs-HowdoIsubmitmyprojecttoCommunityBridge?"></a>
+## How do I get started using LFX for my project? <a id="CommunityBridgeFAQs-HowdoIsubmitmyprojecttoCommunityBridge?"></a>
 
 Simply log into \[Project Control Center\] using your Linux Foundation account and follow the step-by-step instructions. The application process takes just a few minutes, then your submission will be reviewed by the LFX team. You’ll receive a communication from us once your project has been set up.
 
