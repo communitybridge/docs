@@ -25,7 +25,7 @@ The world runs on open source, and projects need more than a version or source c
 * [Landscape](https://lfx.linuxfoundation.org/tools/landscape) is an open sourced tool that lets you build a visual map of your ecosystem. Organize your contributors and related projects to better analyze how everyone fits into your project development.
 * [Community Events](https://lfx.linuxfoundation.org/tools/community-events) lets you easily host and manage events for your project community. Whether planning a virtual conference or working with local meetup organizers, our robust platform has you covered.
 * [Training Portal](https://lfx.linuxfoundation.org/tools/training-portal) provides individuals and corporate learners centralized access to The Linux Foundation’s extensive list of courses and certifications, developed and taught by expert instructors.
-* [Project Control Center](https://lfx.linuxfoundation.org/tools/product-control-center)  \(Limited Access Beta Early 2021\) provides seamless operations support across governance, IT, and product management needs so you can focus on getting the work done.
+* [Project Control Center](https://lfx.linuxfoundation.org/tools/project-control-center) provides seamless operations support across governance, IT, and product management needs so you can focus on getting the work done.
 
 ## Who can access LFX Toolkit? <a id="CommunityBridgeFAQs-WhocanaccessCommunityBridge?"></a>
 

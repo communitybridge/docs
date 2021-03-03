@@ -39,7 +39,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 * [CLA Manager](./#cla-manager)
 * [CLA Signatory](./#cla-signatory)
 
-When a CCLA is first being signed, the Contributor, CLA Manager, and CLA Signatory all might be the same person--or they might be different people. Each contributing company will determine for themselves which employees have these roles. Read below to understand these roles so that you can discuss with your company's maangement and legal counsel about who should be designated for each.
+When a CCLA is first being signed, the Contributor, CLA Manager, and CLA Signatory all might be the same person--or they might be different people. Each contributing company will determine for themselves which employees have these roles. Read below to understand these roles so that you can discuss with your company's management and legal counsel about who should be designated for each.
 
 ### Project Manager <a id="project-manager"></a>
 
