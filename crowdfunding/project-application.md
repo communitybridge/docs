@@ -7,7 +7,7 @@ The following table lists all the fields in the **Project Details** panel of the
 | Field Name | Description |
 | :--- | :--- |
 | **Project Name** | A funding project name which must be unique. **Note:** Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name. |
-| **Topic / Category**  | Type of industry that relates to your repository. Click in the field to open a list of names to choose from. Click ![](../.gitbook/assets/18088098%20%283%29%20%282%29.jpg) after you select a category from the list. |
+| **Topic / Category**  | Type of industry that relates to your repository. Click in the field to open a list of names to choose from. Click ![](../.gitbook/assets/18088098%20%283%29%20%282%29%20%282%29.jpg) after you select a category from the list. |
 | **Elevator pitch**  | Brief statement of why your project is important to support. |
 | **Repository URL** | URL of the Git repository.  **Note:** If you choose **Add GITHUB/GIT Repository** from the options while applying, your Git repository is automatically reflected in this field. |
 | **Website URL** | A link to the website that you want to associate with the fund. |
