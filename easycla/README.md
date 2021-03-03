@@ -6,7 +6,7 @@
 
 For information about how to get started with contributing to a project that uses EasyCLA, please see [Getting Started](getting-started/) and our [FAQs page](https://github.com/communitybridge/docs/tree/f3a4dfdd6f9845ac96d41cd1b8878b1e12f70c92/easycla/getting-started/easycla-faqs/README.md).
 
-For support questions, please see our [Troubleshooting page](getting-started/easycla-troubleshooting/) or [file a support ticket](https://docs.linuxfoundation.org/lfx/v/v2/easycla/getting-started/easycla-troubleshooting).
+For support questions, please see our [Troubleshooting page](getting-started/easycla-troubleshooting/) or [file a support ticket](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
 
 ## EasyCLA Development
 
