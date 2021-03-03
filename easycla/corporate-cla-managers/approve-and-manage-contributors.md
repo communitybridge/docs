@@ -29,10 +29,10 @@ As a CLA manager for a project, you can:
 {% hint style="info" %}
 **Note:**
 
-* _Domain_ allows contribution from anyone with an email address with that domain name.
-* _Email address_ allows contribution from the person with that email address.
-* _GitHub Username_ allows contribution from the person with that GitHub username.
+* _Email Address Domain_ allows contribution from anyone with an email address with that domain name.
+* _Contributor's Gerrit/GitHub Email address_ allows contribution from the person with that email address.
 * _GitHub Organization_ allows contribution from anyone in that GitHub organization.
+* _GitHub Username_ allows contribution from the person with that GitHub username.
 
 GitHub Organization and GitHub Username are not applicable while adding contributors to Gerrit projects.
 {% endhint %}
