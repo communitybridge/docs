@@ -34,11 +34,11 @@ After you successfully add Git organizations, you can:
 
 ![Add and Manage Repositories](../../../.gitbook/assets/add-and-manage-repositories.png)
 
-6. Under GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
+6. Under the GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
 
 ![](../../../.gitbook/assets/add-github-organization.png)
 
-7. Type GitHub organization name in the **Enter GitHub Organization** field, and click **Connect**.
+7. Type the GitHub organization name in the **Enter GitHub Organization** field, and click **Connect**.
 
 ![](../../../.gitbook/assets/connect-github-organization.png)
 
@@ -46,7 +46,7 @@ After you successfully add Git organizations, you can:
 
 8. Click **Install GitHub EasyCLA App**.
 
-9. Sign in to GitHub if sign in window appears, and click **Configure**.
+9. Sign in to GitHub if the sign-in window appears, and click **Configure**.
 
 ![](../../../.gitbook/assets/configure-cla-for-github-organization.png)
 
@@ -58,7 +58,7 @@ After you successfully add Git organizations, you can:
 {% hint style="info" %}
 #### Note:
 
-If you select **Only select repositories**, then a newly added repository to the github organization will not be reflected automatically under the project's github organization page in Project Console.
+If you select **Only select repositories**, then a newly added repository to the github organization will not be reflected automatically under the project's GitHub organization page in Project Console.
 
 ![](../../../.gitbook/assets/selecting-individual-repositories.png)
 {% endhint %}
@@ -68,21 +68,19 @@ If you select **Only select repositories**, then a newly added repository to the
 ![Installation Completed](../../../.gitbook/assets/installation-completed.png)
 
 {% hint style="warning" %}
-**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the CLA check for any CLA groups.
+**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the EasyCLA check for any CLA groups.
 {% endhint %}
 
 ### Enable Branch Protection and Auto Enable New Repositories
 
-After adding the GitHub organization, you should enable branch protection and auto enable new repositories. **Enable Branch Protection** helps you to automatically enable CLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../../getting-started/cla-troubleshooting/easycla-is-disabled.md#enable-branch-protection).
+After adding the GitHub organization, you should enable branch protection and auto enable new repositories. **Enable Branch Protection** helps you to automatically enable the EasyCLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../../getting-started/easycla-troubleshooting/easycla-is-disabled.md#enable-branch-protection).
 
-If you add a new repository to the GitHub organization, selecting Auto Enable New Repositories automatically adds the repository under the GitHub organization on project console.
+If you add a new repository to the GitHub organization, selecting **Auto Enable New Repositories** automatically adds the repository under the GitHub organization on the project console.
 
 1. Click the settings icon ![](../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.
-2. Click both the check boxes.
+2. Click both of the check boxes.
 
 ![Additional Settings](../../../.gitbook/assets/additional-setttings.png)
-
-
 
 ### Disassociate GitHub Organization
 
@@ -97,15 +95,15 @@ If you add a new repository to the GitHub organization, selecting Auto Enable Ne
 {% hint style="info" %}
 **Note:** 
 
-* If you have already added a Gerrit instance during the CLA on-boarding process, skip this procedure unless you want to add more Gerrit instances.
-* After you add a Gerrit organization, all of its repositories are CLA enabled by default.
+* If you have already added a Gerrit instance during the EasyCLA on-boarding process, skip this procedure unless you want to add more Gerrit instances.
+* After you add a Gerrit organization, all of its repositories are EasyCLA-enabled by default.
 {% endhint %}
 
  1. Click the **+** sign at the top right of Add Gerrit Organization.
 
 ![Add Gerrit Organization](../../../.gitbook/assets/add-gerrit-organization.png)
 
-2. Complete the form fields, and click **Connect**.  
+2. Complete the form fields, and click **Connect**.
 **Gerrit Instance Name** - Name of the Gerrit Instance  
 **Gerrit Instance URL** - URL of the Gerrit Instance  
 **ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
@@ -114,13 +112,13 @@ If you add a new repository to the GitHub organization, selecting Auto Enable Ne
 {% hint style="info" %}
 **Notes:**
 
-* Contact the IT team of Linux Foundation to get Gerrit Instance Name and URL.
+* Contact the Linux Foundation IT team to get Gerrit Instance Name and URL.
 * Contact the Linux Foundation IT team if you do not know the LDAP Group IDs.
 * One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
 {% endhint %}
 
 The EasyCLA project console lists the CLA-enabled instances, as shown below.​​  
-**Note:** You cannot disable CLA check for individual Gerrit repositories.
+**Note:** You cannot disable the CLA check for individual Gerrit repositories.
 
 ![Gerrit Instances](../../../.gitbook/assets/gerrit-instances.png)
 
@@ -129,6 +127,3 @@ The EasyCLA project console lists the CLA-enabled instances, as shown below.​�
 1. Click **Disassociate Gerrit** next to a Gerrit Instance, and click **Yes, Disconnect** on the confirmation page.
 
 ![Disassociate Gerrit](../../../.gitbook/assets/disassociate-gerrit-organization.png)
-
-
-

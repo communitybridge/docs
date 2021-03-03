@@ -1,22 +1,12 @@
 # Projects
 
-Click a project from the dashboard, or expand **Projects**, search a project group or project, and click **EasyCLA** under the project to view the related EasyCLA information.
+Click a project from the dashboard, or expand **Projects**, search for a project, and click **EasyCLA** under the project to view the related EasyCLA information.
 
 ![](../../.gitbook/assets/search-a-project.png)
 
-## Project Group / Project
+## Project Hierarchy
 
-If your company has multiple signing entities, select the signing entity, from the drop-down, under which you want to sign CLA.
-
-![](../../.gitbook/assets/signing-entity-name.png)
-
-If signing entity name is not in the list, create a new signing entity as described below:
-
-1. From the drop-down list, click **+Add New Signing Entity**.
-2. In the **Signing Entity Name** field, provide signing entity name.
-3. Click **Add Signing Entity**.
-
-Data under a project group is an aggregate data of all the projects that come under the project group. Following sections display CLA information for a project based on:
+In the user interface, some projects are nested under parent projects or foundations that they are contained in. The data shown for a parent project or foundation is an aggregate of all the projects under it. The following sections show CLA information for a project based on:
 
 * [If company has signed CLA](./#if-company-has-signed-cla)
 * [If company has not signed CLA](./#if-company-has-not-signed-cla)
@@ -24,33 +14,32 @@ Data under a project group is an aggregate data of all the projects that come un
 ## If Company has signed CLA
 
 {% hint style="warning" %}
-**Important:** CLA Managers of a project can add another user as a CLA manager and/or contributor or delete such added users for the same project, however can view CLA managers, Approved List, and Contributor Acknowledgements for other projects of the company. All other roles can view CLA details for the project.
+**Important:** The CLA Managers for a project can edit their company's EasyCLA settings (such as authorized contributors approval lists) for only the project(s) where they are the CLA Managers. Others (such as CLA Managers for other projects, or other roles) will have read-only access but cannot change the company's EasyCLA settings for the project.
 {% endhint %}
 
 #### ACTIVE CLAs FOR MY ORGANIZATION <a id="cla-for-my-organization"></a>
 
-It shows a table that lists the CLAs signed by your company with the project:
+This shows a table that lists the CCLA signed by your company for this project:
 
-* **Project** shows name and logo of the project with which CLA is signed.
-* **CLA Group** shows CLA group name which the project belongs to. A CLA group can have multiple projects.
-* **Status** shows CLA status—Signed/Not signed.
-* **Signed on** shows the date when CLA was signed.
-* **Signed By** shows name of the person who signed the CLA.
-* **Download** \(shows if CLA is signed\) lets you download PDF file of the signed CLA.
+* **Project** shows the name and logo of the project for which the CCLA was signed.
+* **CLA Group** shows the CLA group name which the project belongs to. A CLA group can cover multiple projects.
+* **Status** shows CCLA status \(e.g., Signed or Not signed\).
+* **Signed on** shows the date when the CCLA was signed.
+* **Signed By** shows the name of the person who signed the CCLA.
+* **Download** \(shown if CCLA is signed\) lets you download the PDF file of the signed CLA.
 
 #### CLA MANAGERS FROM MY ORGANIZATION <a id="cla-managers-from-my-organization"></a>
 
-It shows a table that lists CLA managers of your company including their details.
+This shows a table that lists CLA Managers of your company including their details.
 
-* **Name** shows name and image of the CLA Manager
-* **Email Address** shows email address of the CLA Manager.
-* **Project** shows the project name for which the individual is assigned as a CLA Manager.
-* **Manage** \(Only for CLA Managers\) lets CLA managers [delete](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#delete-a-cla-manager) the added CLA managers. Each project has at least one CLA manager. If there is only one CLA manager for a project, that person's details cannot be deleted.
-* **+ Add CLA Manager** \(Only for CLA Managers\) lets you [add](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) an individual as a CLA manager.
+* **Name** shows the name of the CLA Manager
+* **Email Address** shows the email address of the CLA Manager.
+* **Manage** \(Only for CLA Managers\) lets CLA Managers [delete](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#delete-a-cla-manager) CLA Managers.
+* **+ Add CLA Manager** \(Only for CLA Managers\) lets CLA Managers [add](../../easycla/corporate-cla-managers/add-or-delete-cla-managers.md#add-a-cla-manager) other CLA Managers.
 
 **RECENT ACTIVITY LOG FOR MY ORGANIZATION**
 
-It shows recent activities of your company for the project. The activity-log displays activity details, project name and logo for which the activity happened along with date and time.
+This shows recent EasyCLA-related activities of your company for the project. The activity log displays activity details, the project name and logo for which the activity happened, and the date and time.
 
 **APPROVED LIST OF CONTRIBUTORS FROM MY ORGANIZATION**
 
@@ -58,13 +47,13 @@ It shows recent activities of your company for the project. The activity-log dis
 **Note:** This section is displayed only for individual projects, not for project groups.
 {% endhint %}
 
-It shows a table that lists details of approved contributors from your organization for the project.
+This shows a table that lists details of approved contributors from your organization for the project.
 
-* **Approved List** shows the user name/email lD/GitHub user ID /GitHub Organization or Domain name that is in the approved list.
-* **Approval Criteria** shows the type with which the contributor is listed in the approved list.
-* **Added on** shows the date when the user was added to the approved list.
-* **Manage** \(Only for CLA Managers\) lets CLA managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the approved list.
-* **+Add Approval Criteria** is displayed only for CLA Managers, and lets CLA managers [add contributors](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to an approved list.
+* **Approved List** shows the GitHub user name, email lD, GitHub Organization, or Domain name that is in the approved list.
+* **Approval Criteria** shows the type of approval criteria.
+* **Added on** shows the date when the criteria was added to the approved list.
+* **Manage** \(Only for CLA Managers\) lets CLA Managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the criteria on the approved list.
+* **+Add Approval Criteria** \(Only for CLA Managers\) lets CLA managers [add contributor approval criteria](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#add-contributor-s) to the approved list.
 
 **CONTRIBUTOR ACKNOWLEDGEMENT FROM MY ORGANIZATION**
 
@@ -72,28 +61,27 @@ It shows a table that lists details of approved contributors from your organizat
 **Note:** This section is displayed only for individual projects, not for project groups.
 {% endhint %}
 
-It shows a table that lists contributors from your company associated with this project who have completed contributor acknowledgments.
+This shows a table that lists contributors from your company authorized to contribute to this project who have completed contributor acknowledgments.
 
-* **Name** shows the name and image of the contributor. Data is retrieved from the individual profile page.
-* **LF Login/GitHubID** shows The Linux Foundation login name or GitHub ID of the contributor.
-* **Agreement** shows the version of CLA agreement that was signed by the contributor.
-* **Acknowledged On** shows date and time when the user acknowledged the agreement.
+* **Name** shows the name of the contributor.
+* **LF Login/GHID** shows the Linux Foundation login name or GitHub ID of the contributor.
+* **Agreement** shows the version of the CCLA under which the contributor was authorized.
+* **Acknowledged On** shows the date and time when the user acknowledged their association with the company under the CCLA.
 
-**Search** lets you to search a contributor by name and LF Login or GitHub ID.
+**Search** lets you search for a contributor by name and LFID/GHID.
 
 **PROJECTS WITH EASYCLA ENABLED**
 
 {% hint style="info" %}
-**Note:** This section is displayed ****only for project groups, not for individual projects.
+**Note:** This section is displayed only for parent projects that have child projects.
 {% endhint %}
 
-Shows the individual projects that are EasyCLA enabled. Click **View Details** to navigate to the project page.
+Shows the child projects that have EasyCLA enabled. Click **View Details** to navigate to the project page.
 
 ## If Company has not signed CLA
 
-Following is an example that appears if your company has not signed CLA for a project or a project group. Sign CLA for a project or designate someone to sign CLA for the project. For details, see [Sign Corporate CLA for a Company](../../easycla/corporate-cla-manager-designee-or-initial-cla-manager/sign-corporate-cla-for-a-company.md).
+If your company has not yet signed a CCLA for a project, the following screen will appear.
 
-**Note:** You can sign CLA at project-group level or project level based on how the CLA Group is configured.
+![CLA not signed](../../.gitbook/assets/company-has-not-signed-cla.png)
 
-![CLA not signed](https://gblobscdn.gitbook.com/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9roIeDUquwapsG6oPJ%2F-M9rpJlKSE1tcHGVUxfZ%2Fcompany%20has%20not%20signed%20cla.png?alt=media&token=7c8318e4-79e9-4692-9c73-a19d3bc2d831)
-
+For details about signing a CCLA, see [Getting Started](../../easycla/getting-started) and [coordinating signing a CCLA](../../easycla/corporate-cla-managers/coordinate-signing-ccla.md).

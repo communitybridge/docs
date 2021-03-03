@@ -1,10 +1,10 @@
 # Manage Organization
 
-Only organization administrators can edit and update organization information. You are entitled as organization administrators if your are:
+Only organization administrators can edit and update organization information. You are entitled as organization administrators if you are:
 
 * Added by another administrator
-* CLA manager of the organization
 * Primary contact for the organization
+* The first CLA Manager assigned when the company was created (if no other organization administrator exists)
 
 Organization Profile displays the following sections:
 

@@ -1,13 +1,12 @@
 # Contributors
 
-You can contribute on behalf of a company or contribute individually by doing one or both of the following tasks:
+A Contributor is someone who contributes either on behalf of a company, or individually on their own behalf.
 
-* ​[Confirm your association with a company that has a signed Corporate Contributor License Agreement](corporate-contributor.md). You write code for your employer and contribute this code to a project on your employer's behalf.
-* ​[Sign an Individual Contributor License Agreement](individual-contributor.md). You are contributing code on your own behalf \(code that you write on your own time, and not for an employer or using your employer’s facilities or equipment\).
+* If contributing on behalf of their company: the Cont​ributor will [confirm their association with a company that has a signed Corporate Contributor License Agreement (CCLA)](corporate-contributor.md).
+  * If their company has not yet signed a CCLA, then the Contributor can start the workflow for the signing process.
+  * If the Contributor has not yet been added to the authorized contributors list by their company's CLA Manager, then the Contributor can submit a request to their CLA Manager to be added.
+* If contributing on their own behalf: the Contributor will ​[sign an Individual Contributor License Agreement (ICLA)](individual-contributor.md).
 
 {% hint style="warning" %}
-**Important:** You should not submit a contribution under an Individual CLA if that contribution is done using time or material resources belonging to your company. Instead, you should contribute under a Corporate CLA signed by your company.
+**Important:** You should not submit a contribution under an ICLA if that contribution is done on behalf of your company. Instead, you should contribute under a Corporate CLA signed by your company. If you are uncertain whether you should be contributing under a CCLA or an ICLA, you should consult your employer's legal department to discuss.
 {% endhint %}
-
-Gerrit contributors, see [Contribute to a Gerrit Project](corporate-contributor.md#gerrit).
-

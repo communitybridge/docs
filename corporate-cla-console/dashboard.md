@@ -2,23 +2,19 @@
 
 ![Corporate CLA Dashboard](../.gitbook/assets/corporate-cla-dashboard.png)
 
-Following are the aggregate data of all the projects that use LFX EasyCLA.
+The EasyCLA Corporate Console dashboard shows the aggregate data of all the projects that use LFX EasyCLA.
 
-### CLA STATISTICS <a id="cla-statistics"></a>
+## EasyCLA Statistics <a id="cla-statistics"></a>
 
-* **PROJECTS USING EASYCLA** shows the total number of projects that are using EasyCLA to streamline the CLA signing process for the contributors.
-* **CLA SIGNED** shows total number of Contributor License Agreements—ICLA \(Individual CLA\) and CCLA \(Corporate CLA\)—signed by all the member companies of the Linux Foundation. This number doesn't include the number of approved contributors.
-* **TOTAL CONTRIBUTORS** shows the total number of individual and corporate contributors including approved contributors of companies.
-* **REPOSITORIES USING EASYCLA** shows total number of git repositories that are EasyCLA enabled.
+* **PROJECTS USING EASYCLA** shows the total number of projects that are using EasyCLA.
+* **CLA SIGNED** shows the total number of Contributor License Agreements — ICLAs \(Individual CLAs\) and CCLAs \(Corporate CLAs\) — signed by all contributors to Linux Foundation projects using EasyCLA.
+* **TOTAL CONTRIBUTORS** shows the total number of contributors to projects using EasyCLA, including individual contributors under ICLAs and companies' approved contributors under CCLAs.
+* **REPOSITORIES USING EASYCLA** shows total number of Git repositories that are enabled for CLA checks using EasyCLA.
 
-## Project Group with EasyCLA Enabled
+## Projects using EasyCLA
 
-​A project group is a parent project of individual projects. Navigate to a project or type a project name in the search box and press Enter to view the project. Click a project to navigate to project details page. For project details, see [Projects](projects/).
+From the dashboard, you can choose the project for which you want to sign a CCLA or manage your company's contributors as a CLA Manager.
 
-* **Project Group** shows the name of the project group.
-* **No. of Projects** shows the total number of projects that are EasyCLA enabled under a project group. Click the number to see the project names as shown in the following image.  **Note:** A project name under **No. of Projects** indicates that it is an individual project and doesn't come under any project group.
+Navigate to a project, or type a project name in the search box and press Enter to search for the project. Note that some projects are nested within parent projects or foundations, so you may need to click through the parent to see a list of its children.
 
-Click a project group or a project under a project group to view the  EasyCLA information.
-
-​
-
+Click a project to navigate to the CLA Corporate Console details page for that project. For more information about per-project details, see [Projects](projects/).

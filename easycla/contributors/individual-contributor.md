@@ -1,19 +1,21 @@
 # Individual Contributor
 
-As an individual contributor, you are contributing code on your own \(not on behalf of an employer\). You create a pull request in GitHub or submit changed code in Gerrit to inform reviewers about the changes. During the process, your CLA is verified, and you must sign a CLA if you have not already signed before you can contribute to GitHub or Gerrit.
+An individual contributor is one who contributes code on their own behalf \(and not on behalf of an employer\). If you are contributing code on behalf of your employer, please see the [Corporate Contributor](corporate-contributor.md) workflow.
+
+Upon creating a pull request in GitHub or submitting changed code in Gerrit, EasyCLA will check whether the contributor is authorized under a signed CLA for that project. If they are not, and if they are contributing on their own behalf, then they must sign an ICLA.
 
 * [GitHub](individual-contributor.md#github)
 * [Gerrit](individual-contributor.md#gerrit)
 
 ## GitHub
 
-1. In GitHub, go to the repository that is linked to the project for your organization.
+1. In GitHub, go to the repository where you are contributing code.
 
 2. Make a change and create a pull request.
 
 {% hint style="info" %}
-1. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names who are involved in that pull request based on their CLA status.
-2. A cross next to your contributor name means the CLA check failed.
+1. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA displays a cross or a check mark beside the name of each contributor who is involved in that pull request based on their CLA status.
+2. A cross next to a contributor's name means the EasyCLA check has failed, because the contributor is not authorized under a signed CLA.
 {% endhint %}
 
 ![CLA Check Failed](../../.gitbook/assets/cla-github-individual-check-fail.png)
@@ -27,33 +29,33 @@ As an individual contributor, you are contributing code on your own \(not on beh
 The CLA Contributor Console appears and shows the CLA group for your project.
 
 {% hint style="info" %}
-**Note:** If the project is not configured for CCLA, then **Proceed as a** **Corporate Contributor** is inactive.
+**Note:** If the project is not configured to use ICLAs, then **Proceed as an Individual Contributor** is inactive. In this case, individuals would not be able to contribute on their own behalf.
 {% endhint %}
 
 ![CLA ICLA Flow](../../.gitbook/assets/cla-icla-flow.png)
 
 5. Click **Proceed as an Individual Contributor**.  
-**Result: Preparing CLA** window appears.  
+The **Preparing CLA** window appears.
  ![](../../.gitbook/assets/preparing-cla.png) 
 
- 6. After **CLA is Ready For Signature** window appears, click **SIGN CLA** .
+6. After the **CLA Ready For Signature** window appears, click **SIGN CLA**.
 
 ![CLA Ready for Signature](../../.gitbook/assets/cla-ready-for-signature.png)
 
-DocuSign presents the agreement that you must sign. The ICLA is not tied to any employer you may have, so enter your personal email address in the E-Mail field.
+DocuSign presents the ICLA document for your signature.
 
 ![DocuSign](../../.gitbook/assets/docusign-icla-flow.png)
 
-7. Select the check box, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+7. Select the check box and click **CONTINUE**. Follow the instructions in the DocuSign document, fill in the indicated fields, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**
 
-* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link from the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
+* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA. 
+* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
-You are redirected to GitHub. Wait a few seconds or refresh the page for the CLA status to be updated. A tick appears next to your branch.
+You are redirected to GitHub. Wait a few seconds or refresh the page for the EasyCLA status to be updated. A check mark appears next to your branch.
 
 ![GitHub Individual Contributor Pass](../../.gitbook/assets/cla-github-individual-contributor-pass.png)
 
@@ -69,9 +71,9 @@ You are redirected to GitHub. Wait a few seconds or refresh the page for the CLA
 
 ![CLA Gerrit Sign a CLA](../../.gitbook/assets/cla-gerrit-sign-a-cla.png)
 
-4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
+4. Navigate to the Gerrit instance of your project. For example, if you are contributing to the OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Sign in using your LF[ Single Sign-On \(SSO\)](https://docs.linuxfoundation.org/lfx/sso/create-an-account) account.
+5. Sign in using your LF [Single Sign-On \(SSO\)](https://docs.linuxfoundation.org/lfx/sso/create-an-account) account.
 
 6. Navigate to **Settings**— the gear icon on the upper right corner— and click **Agreements** from the menu on the left:
 
@@ -87,33 +89,30 @@ You are redirected to GitHub. Wait a few seconds or refresh the page for the CLA
 
 9. Click **Proceed To Individual Authorization**.
 
-![proceed to individual authorization](../../.gitbook/assets/proceed-to-individual-authorization.png)
+![Proceed to Individual Authorization](../../.gitbook/assets/proceed-to-individual-authorization.png)
 
-10. Sign in if you are prompted, and you will be redirected to Contributor Console.
+10. Sign in if you are prompted, and you will be redirected to the Contributor Console.
 
 11. After CLA preparation is completed, click **Sign CLA**.
 
 ![CLA Ready for Signature](../../.gitbook/assets/cla-ready-for-signature.png)
 
-DocuSign presents the agreement that you must sign. The ICLA is not tied to any employer you may have, so enter your personal email address in the E-Mail field.
+DocuSign presents the ICLA document for your signature.
 
 ![DocuSign](../../.gitbook/assets/docusign-icla-flow.png)
 
-12. Select the check box, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+12. Select the check box and click **CONTINUE**. Follow the instructions in the DocuSign document, fill in the indicated fields, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**
 
-* A message appears informing you that you have signed CLA.
-* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
-* You can download the PDF document by clicking the link from the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
+* A message appears informing you that you have signed the ICLA.
+* You will also receive an email from The Linux Foundation, informing you that you have signed the ICLA. 
+* You can download the PDF document by clicking the link from the email. You will be redirected to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../.gitbook/assets/proceed-to-download-icla.png) 
 {% endhint %}
 
 13. Navigate to the Gerrit project, and start contributing.
 
 {% hint style="info" %}
-**Note:** If you still see CLA status not updated, sign out from Gerrit sign in again, and then follow the procedure again to submit the change.
+**Note:** If you still see the EasyCLA status not updated, sign out from Gerrit and sign in again, and then follow the procedure again to submit the change.
 {% endhint %}
-
-
-

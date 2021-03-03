@@ -1,6 +1,6 @@
 # View and Manage CLA Group Details
 
-You can view CLA group details, edit or delete a CLA group. Based on CLA configuration for the project, available data is shown under CLA Groups.
+A Project Manager can view CLA group details and can edit or delete a CLA group.
 
 1. [Sign in](sign-in-to-project-control-center.md).
 
@@ -10,25 +10,25 @@ You can view CLA group details, edit or delete a CLA group. Based on CLA configu
 
 ![Tools](../../.gitbook/assets/tools-tab.png)
 
-**CLA Groups** shows the CLA groups that you have added to the project. A CLA group defines one or more CLA types that contributors must sign. A CLA group shows the following details:
+**CLA Groups** shows the CLA groups that have been added to the project. A CLA group defines a CCLA and/or ICLA that contributors must sign. A CLA group shows the following details:
 
 ![CLA Groups](../../.gitbook/assets/cla-group-names.png)
 
-* **Name** of the CLA group, and the type of coverages, such as corporate CLA allowing only corporate members to sign CLA under the CLA group, individual CLA allowing individuals to sign CLA under the group, and corporate-individual CLAs allowing both corporate members and individuals to sign CLA under the CLA group. 
+* **Name** of the CLA group, and whether the CLA Group includes a CCLA and/or an ICLA.
   * **Projects Covered** shows the number of projects that are covered under the CLA group.
-  * **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must[ enforce EasyCLA](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md) for one or more Git repositories for them to be counted.
+  * **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must [enforce EasyCLA](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md) for one or more Git repositories for them to be counted.
   * **Signatures** shows the total number of individuals who have signed CLA within that CLA group. This includes both ICLA and/or CCLA based on the CLA group configuration.
   * Click![](../../.gitbook/assets/edit-cta.png)to edit the title and description of the CLA group.
   * Click![](../../.gitbook/assets/delete-icon.png)to create a support ticket requesting to delete the CLA group. 
-* Under **PROJECTS** tab, expand the project group to view projects that are enrolled for the CLA group. Inactive selected check boxes indicate that the project is added to another CLA group. Click **Manage** to [add and manage Git organizations and repositories](add-and-manage-git-organizations-and-repositories/).
-* Navigate to **TEMPLATES** tab to view and download ICLA and/or CCLA documents based on CLA configuration.
+* Under the **PROJECTS** tab, expand the project group to view projects that are enrolled for the CLA group. Inactive selected check boxes indicate that the project has already been added to another CLA group. Click **Manage** to [add and manage Git organizations and repositories](add-and-manage-git-organizations-and-repositories/).
+* Navigate to **TEMPLATES** tab to view and download the ICLA and/or CCLA templates.
 * Navigate to **SIGNATURES** tab to view signed ICLAs and CCLAs.
-  * **Signed ICLAs** lists details of individuals who have signed ICLA, such as name, LF Login name, GitHub id, and email address.
-  * **Signed CCLAs** lists the details of corporate members who have signed CCLA. It lists the company name, CLA managers, approved contributors, approval criteria for the approved contributor, signed CLA document along with the date.
+  * **Signed ICLAs** lists details of individuals who have signed an ICLA, such as name, LF Login name, GitHub ID, and email address.
+  * **Signed CCLAs** lists the details of companies that have signed a CCLA. It lists the company name, CLA Managers, approved contributors, approval criteria for the approved contributors, and the signed CCLA document along with the date.
 
 ![Signed CCLAs](../../.gitbook/assets/signed-cclas.png)
 
-**ACTIVITY LOG** shows the recent CLA activities for the projects within the CLA group, such as activity description, name of the person who did the activity, date and time of the activity, company name of the individual who did the activity, and the project for which the activity is done.
+**ACTIVITY LOG** shows the recent CLA activities for the projects within the CLA group, such as activity description, name of the person who did the activity, date and time of the activity, the corresponding company name where applicable, and the applicable project.
 
 ![](../../.gitbook/assets/activity-log.png)
 

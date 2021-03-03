@@ -1,11 +1,11 @@
 # EasyCLA Requirements
 
-EasyCLA has the following requirements:
+For a project to use EasyCLA, it must meet the following requirements:
 
-* Your project repositories are in GitHub or Gerrit
-* If your project uses Gerrit source control, the Gerrit instance should be hosted on The Linux Foundation platform.
-* You have an LF Single Sign-On \(SSO\) account. If you do not have an LF SSO account, [create an account](https://docs.linuxfoundation.org/lfx/sso/create-an-account).
-* For Corporate CLAs, your company has a corporate authority role
+* The project repositories are in GitHub or Gerrit
+* If the project uses Gerrit source control, the Gerrit instance should be hosted on The Linux Foundation platform.
+* The repository administrator should enable Branch Restrictions and Branch Protection for the repository in GitHub. The restrictions and protection should be set to enable required status checks on a branch regardless of the role for the organization.
 
-As a repository administrator, enable Branch Restrictions and Branch Protection for your organizations in GitHub. Set the restrictions and protection to enable required status checks on a branch regardless of the role for the organization.
+For a CLA Manager to access EasyCLA, they must register an LF Single Sign-On \(SSO\) account. If you do not have an LF SSO account, you can read how to [create an account here](https://docs.linuxfoundation.org/lfx/sso/create-an-account).
 
+For a company to sign a project's CCLA, they will need to identify the appropriate company employees who will be the CLA Manager and CLA Signatory for that CCLA.

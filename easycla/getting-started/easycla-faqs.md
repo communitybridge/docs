@@ -6,40 +6,46 @@ Open [https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143
 
 **Why does The Linux Foundation ask contributors of some projects to sign CLAs?**
 
-Some project communities have elected to use CLAs as a required step for code contributions. The Linux Foundation wants to ensure that contributions comply with the IP \(Intellectual Property\) policies of that project.
+Some project communities have elected to use CLAs as a required mechanism for code contributions. When a project community has decided to use a CLA, The Linux Foundation uses EasyCLA to help ensure that contributions to the project are made under a signed CLA, in accordance with the project's policies specified in its charter.
 
-**What is the difference between Corporate CLA and Individual CLA?**
+**What is the difference between a Corporate CLA (CCLA) and an Individual CLA (ICLA)?**
 
-A Corporate CLA needs to be in place if you are contributing code on behalf of your employer. A Corporate CLA should be signed by an individual who is authorized to enter into legal agreement on behalf of the company. After the Corporate CLA is signed, your email address needs to be included in an approved list for the project. A CCLA manager for your company is responsible for managing the approved list.
+A CCLA governs code that is contributed behalf of the contributor's employer. A Corporate CLA should be signed by a person who is authorized to sign the CLA on behalf of the company. Each company or organization has its own processes to manage who is an authorized signatory, so you may need to check with your management or legal department if you are not sure who this should be.
 
-An Individual CLA is signed by an individual for contributions that they make on their own, as opposed to contributions on behalf of their employer or another entity.
+After a CCLA is signed, the CLA Manager from that company is responsible for managing the approved list of authorized Contributors from that company.
 
-**Which Corporate CLA approval criteria option has the lowest maintenance overhead?**
+Unlike a CCLA, an ICLA is signed by an individual for contributions that they make on their own behalf. Frequently this will be, for example, code that is written and contributed entirely on the individual's own time and unrelated to their employment.
 
-Using the Domain **Approval Criteria** requires less overhead because CCLA signatories and CCLA managers do not need to add and manage numerous employee email addresses.
+If you are uncertain whether you should be contributing under a CCLA or an ICLA, you should consult your employer's legal department to discuss.
 
-**I contribute to an open source project, as an employee, for a company. Do I need to complete, sign, and submit a DocuSign document?**
+**Which CCLA approval criteria option has the lowest maintenance overhead?**
 
-Probably not. If your company's CCLA signatory has signed a Corporate CLA, and if you are included in the approved list under that company's CLA, then you simply confirm your association to the company during your code submission process.
+When a CLA Manager manages the list of authorized Contributors, EasyCLA provides several different types of "Approval Criteria" to do so. For example, a CLA Manager can specify only particular email addresses or GitHub / Gerrit usernames; or they can specify a domain name to authorize all email addresses under that domain.
 
-However, if you are the first one from your company to contribute to a project, then your company's CCLA signatory will need to sign a Corporate CLA as part of the EasyCLA setup process. Depending on the company, you might be an authorized CCLA signatory \(please check with legal counsel of your company to be sure\).
+Using the email address domain approval criteria typically requires less overhead, because the CLA Manager does not need to separately add and manage each contributing employee's email address.
 
-Otherwise, if your company has already signed a Corporate CLA, but you are not yet on your company's approved list, then you must be included in the approved list by your company's CCLA manager as part of the EasyCLA process.
+**I contribute to an open source project on behalf of my employer. Do I need to sign anything?**
 
-**What should I do if my company is not listed while signing CLA?**
+Probably not. If your company has previously signed a CCLA, then you will be guided to request that your CLA Manager add you to the list of authorized contributors (if you are not already on the list). After you are added, then you will simply confirm your association to the company during your code submission process the first time you contribute to the project.
 
-You must create a company as described [here](../contributors/corporate-contributor.md#if-the-select-company-dialog-appears-1).
+However, if you are the first person from your company to contribute to a project, then your company will need to sign a CCLA. You may or may not be authorized to sign the CCLA yourself, or to manage the list of approved contributors as a CLA Manager after it is signed. You will likely want to check with your company's management or legal department to confirm who will be the CLA Manager and CLA Signatory for this project. After confirming this, the EasyCLA workflow will help guide you and your company through the signature process.
 
-**If my project community has elected to use CLAs as a required step for code contributions, do I need to be authorized under a CLA for each project to which I contribute?**
+**When I am trying to contribute code under a CCLA, what should I do if my company is not listed?**
 
-Yes, provided that the project has a CLA.
+If your company is not listed after searching for it in the Contributor Console, then as part of the process you will need to create a record for your company as described [here](../contributors/corporate-contributor.md#if-the-select-company-dialog-appears-1).
 
-* If you are contributing as an individual—you must sign an Individual CLA for each project to which you contribute.
-* If you are contributing as an employee of a company, your company's CCLA signatory must sign a Corporate CLA.
+**Do I need to be authorized under a CLA for each project to which I contribute?**
 
-**Do I have to sign a CLA every time I contribute code?**
+Yes, provided that the project has adopted a CLA as a required step for code contributions.
 
-No, once a CLA check is cleared, you are free to contribute code. You may, however, need to clear CLAs checks for other projects that require CLAs.
+* If you are contributing as an individual, you must sign an ICLA for the project.
+* If you are contributing as an employee of a company, your company's CLA Signatory must sign a CCLA, and then you must be authorized to contribute under it by your company's CLA Manager for that project.
+
+**Do I have to sign a CLA every time I contribute code to a project?**
+
+No, once a CLA check is cleared for the first contribution, you are free to contribute code to that project thereafter.
+
+However, you may need to sign or be authorized under a separate CLA for other projects that require CLAs.
 
 **What is the acceptable email format?**
 
