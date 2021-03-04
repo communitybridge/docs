@@ -2,7 +2,7 @@
 
 After a Contributor has signed an ICLA, it may take a few moments for the status of the EasyCLA checks to update. Please wait a few moments and then try refreshing the page.
 
-For a CCLA, after a Contributor has been added to the approved list for the first item, the CLA status will still display **Not Covered** for GitHub and **No Contributor Agreement** for Gerrit. The Contributor will need to take the following steps:
+For a CCLA, after a Contributor has been added to the approved list for the first itme, the CLA status will still display **Not Covered** for GitHub and **No Contributor Agreement** for Gerrit. The Contributor will need to take the following steps:
 
 ## Solutions:
 

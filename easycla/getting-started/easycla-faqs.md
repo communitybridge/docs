@@ -47,12 +47,3 @@ No, once a CLA check is cleared for the first contribution, you are free to cont
 
 However, you may need to sign or be authorized under a separate CLA for other projects that require CLAs.
 
-**What is the acceptable email format?**
-
-A valid email address with an email prefix and an email domain, for example _abc@mail.com_
-
-The allowed characters for email prefix are letters \(a-z\), numbers, underscores, periods, and dashes, and an underscore, period, or dash must be followed by one or more letter or number, for example:  
-_abc-d@mail.com/abc.def@mail.com/abc@mail.com/abc\_def@mail.com_
-
-The allowed characters for email domain are letters, numbers, dashes, and the last portion of the domain must be at least two characters, for example: _.com_, _.org_, _.cc_
-
