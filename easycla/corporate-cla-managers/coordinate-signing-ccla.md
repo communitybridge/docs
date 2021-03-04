@@ -19,24 +19,27 @@ You may need to consult with your management or legal department for guidance on
 
 ## CCLA signing workflow
 
-1. [Sign in](sign-in-to-the-easycla-corporate-console.md) to the [corporate console](https://member.lfx.linuxfoundation.org/).
-2. Select the project from the **Search** field, and click **EasyCLA** under the project name.
+1. [Sign in](sign-in-to-the-easycla-corporate-console.md) to the [corporate console](https://organization.lfx.linuxfoundation.org/company/dashboard).
 
+2. Select the project from the **Search** field, and click **EasyCLA** under the project name.  
 **Note:** If a CCLA signature workflow is already in process for this project, you may be taken to the screen shown in step 5.
 
-1. Click **Start the CLA process**.
+3. Click **Start the CLA process**.
 
 ![Start the CLA Process](../../.gitbook/assets/start-cla-process.png)
 
-1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**  
+4. Click an answer: **Are you authorized to be a CLA Manager for your organization?**  
 
-   ![](../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png) 
+![](../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png) 
 
-If you are _not_ going to be your company's initial CLA Manager, then you will need to identify someone else as the initial CLA Manager; click **No** and go to the section below about [designating someone else as the initial CLA Manager](coordinate-signing-ccla.md#designating-another-initial-CLA-manager).
+* Yes:
+* No: 
+
+**Note:** If you are _not_ going to be your company's initial CLA Manager, then you will need to identify someone else as the initial CLA Manager; click **No** and go to the section below about [designating someone else as the initial CLA Manager](coordinate-signing-ccla.md#designating-another-initial-CLA-manager).
 
 Otherwise, if you _are_ going to be your company's initial CLA Manager, then click **Yes** and continue.
 
-1. You should see an entry indicating that the CCLA is pending signature. Under the **Action** column, click **Proceed with Signing**.  
+5. You should see an entry indicating that the CCLA is pending signature. Under the **Action** column, click **Proceed with Signing**.  
 
 ![Proceed with Signing CLA](../../.gitbook/assets/proceed-with-signing.png)
 
