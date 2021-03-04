@@ -69,7 +69,7 @@ You will now be able to [approve contributors](approve-and-manage-contributors.m
 {% hint style="info" %}
 * After signing the CCLA, you will receive an email from The Linux Foundation confirming that the CCLA is signed.
 * You can download the signed PDF document by clicking the link from that email, where you will be redirected to The Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../.gitbook/assets/proceed-to-download-ccla.png)
-* You can also download the signed CCLA at any time from within the CLA Corporate Console.
+* You can also download the signed CCLA at any time from within the EasyCLA Corporate Console.
 {% endhint %}
 
 ## Designating someone else as initial CLA Manager <a id="designating-another-initial-CLA-manager"></a>
