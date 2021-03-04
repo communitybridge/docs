@@ -30,3 +30,11 @@ Firstly all projects in LFX automatically get dependency license scans. LFX prov
 
 Secondly, the Linux Foundation’s new EasyCLA \(Contributor License Agreement\) service tackles the difficult problem of ensuring that Contributor's assign IP rights on their source code to opensource projects. The new EasyCLA  service also handles corporate authority considerations by requiring corporate EasyCLA  to be signed by an authorized signatory of a company. It enables companies to control which of their employees are authorized to contribute to which projects under the signed EasyCLA . Depending on their own needs and processes, companies can take a fine-grained approach by specifying individual authorized contributors’ email addresses, or can easily authorize all employees across a domain name. The EasyCLA service facilitates all these workflows and ensures that code contributions can only be accepted after the contributor satisfies the EasyCLA requirements. Although the EasyCLA service is initially available to Linux Foundation-hosted projects, we hope to make it available to a broader set of projects, including those on LFX.
 
+## When is the license information displayed as "Unknow"? <a id="VulnerabilityDetectionFAQs-HowdoesCommunityBridgehelpaprojectmanageitsintellectualpropertyobligations?"></a>
+
+The license information is displayed as "Unknown"  when **License** field is **Unknown**. The Snyk API returns this information and the license information is displayed as "**Unknown"**.
+
+## When is the license information displayed as empty without any license information? <a id="VulnerabilityDetectionFAQs-HowdoesCommunityBridgehelpaprojectmanageitsintellectualpropertyobligations?"></a>
+
+The license information is displayed as empty when **License** field is blank with out having any license information. The Snyk API will be unable to find any information related to the license and the license information is displayed as empty.
+
