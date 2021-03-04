@@ -60,7 +60,7 @@ The **View Scan Report** provides  you the scan details of the repositories and 
 
 4.The Overview page appears with the details for the selected project. 
 
-![](../.gitbook/assets/vulnerabilites.png)
+![Overview](../.gitbook/assets/ovn1%20%281%29.png)
 
 ### Requesting Access to view Vulnerability Report
 
