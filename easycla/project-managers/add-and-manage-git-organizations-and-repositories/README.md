@@ -58,7 +58,7 @@ After you successfully add Git organizations, you can:
 {% hint style="info" %}
 #### Note:
 
-If you select **Only select repositories**, then a newly added repository to the github organization will not be reflected automatically under the project's GitHub organization page in Project Console.
+If you select **Only select repositories**, then a newly added repository to the GitHub organization will not be reflected automatically under the project's GitHub organization page in Project Console.
 
 ![](../../../.gitbook/assets/selecting-individual-repositories.png)
 {% endhint %}
@@ -73,12 +73,14 @@ If you select **Only select repositories**, then a newly added repository to the
 
 ## Enable Branch Protection and Auto Enable New Repositories
 
-After adding the GitHub organization, you should enable branch protection and auto enable new repositories. **Enable Branch Protection** helps you to automatically enable the EasyCLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../../getting-started/easycla-troubleshooting/easycla-is-disabled.md#enable-branch-protection).
+After adding the GitHub organization, you should enable branch protection and auto enable new repositories. 
 
-If you add a new repository to the GitHub organization, selecting **Auto Enable New Repositories** automatically adds the repository under the GitHub organization on the project console.
+* **Enable Branch Protection** automatically enables the EasyCLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../../getting-started/easycla-troubleshooting/easycla-is-disabled.md#enable-branch-protection).
+* **Auto Enable New Repositories** automatically adds a repository under the GitHub organization on the project console when you add the repository to the GitHub organization.
 
 1. Click the settings icon ![](../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.
-2. Click both of the check boxes.
+
+2. Click both the check boxes.
 
 ![Additional Settings](../../../.gitbook/assets/additional-setttings.png)
 
@@ -102,15 +104,11 @@ If you add a new repository to the GitHub organization, selecting **Auto Enable 
 
 ![Add Gerrit Organization](../../../.gitbook/assets/add-gerrit-organization.png)
 
-1. Complete the form fields, and click **Connect**.
-
-   **Gerrit Instance Name** - Name of the Gerrit Instance  
-
-   **Gerrit Instance URL** - URL of the Gerrit Instance  
-
-   **ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
-
-   **CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
+2. Complete the form fields, and click **Connect**.  
+**Gerrit Instance Name** - Name of the Gerrit Instance  
+**Gerrit Instance URL** - URL of the Gerrit Instance  
+**ICLA Group ID** - An existing LDAP Group ID for Individual CLAs  
+**CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
 
 {% hint style="info" %}
 **Notes:**
