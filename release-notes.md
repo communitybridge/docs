@@ -18,5 +18,5 @@ The Linux Foundation introduces a new platform for corporate contributors to sig
 
 ### LFX Project Control Center
 
-The Linux Foundation introduces a new platform for [project managers](easycla/project-managers/) to add/manage CLA groups, repositories, enforce CLA monitoring, view who have signed CLA, who are the approved contributors, and perform many more activities for the projects they have permission to manage. The LFX Project Control Center is also referred as project console.
+The Linux Foundation introduces a new platform for [project managers](easycla/project-managers/) to add/manage CLA groups, repositories, enforce CLA monitoring, view who have signed CLA, who are the approved contributors, and perform many more activities for the projects they have permission to manage. The LFX Project Control Center is also referred to project console.
 
