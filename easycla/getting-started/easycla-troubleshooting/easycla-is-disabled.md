@@ -15,23 +15,21 @@ You can also add the branch protection rule manually, as described below:
 
 ![CLA GitHub Repository Settings](../../../.gitbook/assets/cla-github-repository-settings.png)
 
-1. Settings appear with Options in the left pane.
-2. Click **Branches** under Options.
+3. Settings appear with Options in the left pane.
+
+4. Click **Branches** under Options.
 
 ![CLA GitHub Options](../../../.gitbook/assets/cla-github-options.png)
 
-**Result:** Branch settings appears.
-
-1. Select **master** for the Default branch. Click **Edit** or **Add rule** for Branch protection rules of your organization.
+5. Select **master** for the Default branch. Click **Edit** or **Add rule** for Branch protection rules of your organization.
 
 ![CLA GitHub branch Add Rule](../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
-**Result:** Branch protection rule setting appears.
+6. Select the following check boxes under **Rule settings**, and click **Create**.
 
-1. Select the following check boxes in Rule settings and click **Create**.
-2. Require status checks to pass before merging
-3. Require branches to be up to date before merging
-4. Include administrators
+* Require status checks to pass before merging
+* Require branches to be up to date before merging
+* Include administrators
 
 ![CLA GitHub Branch Protection Rule](../../../.gitbook/assets/cla-github-branch-protection-rule.png)
 

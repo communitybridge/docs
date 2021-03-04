@@ -10,5 +10,5 @@ A Project Manager can sign in to the EasyCLA Project Control Center to perform t
 
 ![Project Control Center](../../.gitbook/assets/project-control-center.png)
 
-1. Click a project to view more about the project or search for a project from the left navigation pane. For details, see [View Project CLA Details](view-and-manage-cla-group-details.md).
+4. Click a project to view more about the project or search for a project from the left navigation pane. For details, see [View Project CLA Details](view-and-manage-cla-group-details.md).
 

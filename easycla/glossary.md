@@ -34,7 +34,7 @@ An Individual Contributor License Agreement \(ICLA\) defines terms and condition
 
 [CLA Managers](corporate-cla-managers/) are authorized by their company to manage the list of approved contributors under the company’s CCLA for a project. They use the EasyCLA Corporate Console to add and manage contributors and other CLA Managers.
 
-Before a CCLA is signed, there is not an official CLA Manager. The person who will become the initial CLA Manager is responsible for [coordinating the CCLA signing process](corporate-cla-managers/coordinate-signing-ccla.md). This may involve them signing the CCLA themselves if they are authorized by their company to do so, or designating someone else as the CLA Signatory if they are not authorized. After the CCLA is signed, they become the initial CLA Manager under that CCLA.
+Before a CCLA is signed, there is not an official CLA Manager. The person who will become the initial CLA Manager is responsible for [coordinating the CCLA signing process](https://github.com/communitybridge/docs/tree/f3a4dfdd6f9845ac96d41cd1b8878b1e12f70c92/corporate-cla-managers/coordinate-signing-ccla.md). This may involve them signing the CCLA themselves if they are authorized by their company to do so, or designating someone else as the CLA Signatory if they are not authorized. After the CCLA is signed, they become the initial CLA Manager under that CCLA.
 
 ## **CLA Signatory**
 
@@ -42,7 +42,7 @@ A [CLA Signatory](corporate-cla-signatories/) signs a CCLA on behalf of the comp
 
 ## **EasyCLA Corporate Console**
 
-Corporate employees and CLA Managers use the [EasyCLA Corporate Console](https://organization.lfx.linuxfoundation.org/company/dashboard) to view and \(in the case of CLA Managers\) manage their company’s CCLA information.
+Corporate employees and CLA Managers use the [EasyCLA Corporate Console](https://member.lfx.linuxfoundation.org/) to view and \(in the case of CLA Managers\) manage their company’s CCLA information.
 
 ## **Contributor Console**
 
@@ -58,5 +58,5 @@ Also known as Project Control Center. Project managers use the [project console]
 
 ## Project Manager
 
-[Project managers](project-managers/) are authorized by The Linux Foundation to configure the EasyCLA settings for a project. They use the [LFX Project Control Center \(PCC\)](https://projectadmin.lfx.linuxfoundation.org/), also known as Project Console, where they have access to specific projects as per the permission provided by The Linux Foundation. They add and manage projects and repositories on PCC.
+[Project managers](project-managers/) are authorized by The Linux Foundation to configure the EasyCLA settings for a project. They use the [LFX Project Control Center \(PCC\)](https://projectadmin.lfx.linuxfoundation.org/) or Project Console where they have access to specific projects as per the permission provided by The Linux Foundation. They add and manage projects and repositories on PCC.
 
