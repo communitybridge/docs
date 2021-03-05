@@ -39,7 +39,7 @@ Contributor's commits are linked to GitHub or Gerrit account, however, they are 
 
 #### Solution for Gerrit:
 
-Ensure that your Gerrit email address is associated with your Gerrit username.
+Ensure that your Gerrit email address is added to the approved list, and you must log in to Gerrit instance of your project using the same email address that is added to the approved list.
 
 ## Contributor's EasyCLA status is not updated
 

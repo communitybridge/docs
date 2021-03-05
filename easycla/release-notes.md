@@ -2,6 +2,8 @@
 
 Release notes for the EasyCLA backend and APIs can be found at [https://github.com/communitybridge/easycla/releases](https://github.com/communitybridge/easycla/releases).
 
+Release notes for the EasyCLA Contributor Console can be found at [https://github.com/communitybridge/easycla-contributor-console/releases](https://github.com/communitybridge/easycla-contributor-console/releases)
+
 ## Known Issues
 
 The following issues are known to be present in the v2.0.0 release of EasyCLA:
