@@ -13,7 +13,7 @@ Upon creating a pull request in GitHub or submitting changed code in Gerrit, Eas
 ## GitHub
 
 1. In GitHub, go to the repository that is linked to your project.
-2. Make a change and create a pull request.
+2. Make a code change and create a pull request.
 3. EasyCLA checks the CLA status of all committers involved in that pull request.
 
 {% hint style="info" %}
@@ -82,7 +82,11 @@ Upon creating a pull request in GitHub or submitting changed code in Gerrit, Eas
 
 **Result:** You are redirected to the EasyCLA Corporate Console. Sign in with your LF SSO account if prompted.
 
-10. You will need to complete one of the following workflows:
+10. On **Select Organization** window, type your company's name in the field, select it from the drop-down list, and click **Proceed**.
+
+![](../../.gitbook/assets/select-organization.png)
+
+11. You will need to complete one of the following workflows:
 
 * [If your company is not in the company list](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If your company has not yet signed a CCLA](corporate-contributor.md#if-company-has-not-signed)
@@ -144,11 +148,10 @@ If your company has not yet signed a CLA, the **No Signed CLA Found** window app
 
 1. An **Identify CLA Manager** window appears. ![](../../.gitbook/assets/identify-cla-manager%20%281%29.png)
 2. Complete the form, and click **Submit Request**. If you don't know the email address of the person who should become the CLA Manager of your company, then \(unless you just created the company record\) you can click the **Contact Company Admin** link, which may let you reach out to your company's LFX administrative contact if your company has set someone up with this role.
-3. Click **Exit EasyCLA**. You can contribute after your company has signed the project's CCLA, and the CLA Manager has added you to the approved list.
+3. Click **Exit EasyCLA**. You can contribute after your company signs the project's CCLA, and the CLA Manager adds you to the approved list.
 
-{% hint style="info" %}
-* **GitHub Contributors**: You will receive an email after you are added to the approved list. After you are added, you must [complete your company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you can contribute to the project.
-* **Gerrit Contributors**: After the CLA Manager adds you the approved list, if you still see a **No Contributor Agreement** error, then sign out from Gerrit, sign in again, and then [follow the steps shown above](corporate-contributor.md#gerrit) again to submit the change.
+{% hint style="warning" %}
+**Important:** You will receive an email after the CLA Manager adds you to the approved list. After you are added to the approved list, you must [complete your company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you can contribute to the project.
 {% endhint %}
 
 ## If you have not yet been added to the approved list <a id="if-you-are-not-added-to-the-approved-list"></a>
@@ -164,14 +167,15 @@ If your company has signed a CCLA, but you have not yet been added to the approv
 
 3. Click **Exit EasyCLA**.
 
-{% hint style="info" %}
-* **GitHub Contributors**: You will receive an email after you are added to the approved list. After you are added, you must [complete your company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you can contribute to the project.
-* **Gerrit Contributors**: After the CLA Manager adds you the approved list, if you still see a **No Contributor Agreement** error, then sign out from Gerrit, sign in again, and then [follow the steps shown above](corporate-contributor.md#gerrit) again to submit the change.
+{% hint style="warning" %}
+**Important:** You will receive an email after the CLA Manager adds you to the approved list. After you are added to the approved list, you must [complete your company acknowledgement](corporate-contributor.md#acknowledge-company-contribution) before you can contribute to the project.
 {% endhint %}
 
 ## Acknowledge Company Contribution
 
 After the CCLA is signed and the CLA Manager adds you to the approved list, you must re-select your company association before you can contribute code under that company's signed CCLA.
+
+### For GitHub:
 
 1. Navigate to the GitHub PR page.
 2. Click **Not Covered**, and then click **Proceed as a Corporate Contributor**.
@@ -179,6 +183,18 @@ After the CCLA is signed and the CLA Manager adds you to the approved list, you 
 
 A window appears confirming your association with the company. Click Exit EasyCLA, and you will be redirected back to the GitHub page where the CLA status will be updated. If it does not immediately update, please wait a moment and then refresh the GitHub page.  
 ![](../../.gitbook/assets/company-acknowledgement.png)
+
+### For Gerrit:
+
+Navigate to the Gerrit instance of your project, and re-complete the procedure by following [step 4 through step 10 as described above for Gerrit](corporate-contributor.md#gerrit) to complete company acknowledgement.
+
+A window appears confirming your association with the company. Click Exit EasyCLA, and start contributing.
+
+{% hint style="warning" %}
+**Important:** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
+
+![](../../.gitbook/assets/signout-gerrit.png)   
+{% endhint %}
 
 ## If you are additionally asked to sign an ICLA <a id="if-you-are-asked-to-sign-icla"></a>
 
@@ -191,6 +207,8 @@ For certain projects, in addition to being authorized under your company's signe
 
 {% hint style="info" %}
 * **GitHub Contributors:** Navigate to the GitHub page. Wait a few seconds for the CLA status to be updated or refresh the page.
-* **Gerrit Contributors:** If you still see a **No Contributor Agreement** error, then sign out from Gerrit, sign in again, and then [follow the steps shown above](corporate-contributor.md#gerrit) again to submit the change.
+* **Gerrit Contributors:** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
+
+  ![](../../.gitbook/assets/signout-gerrit.png)
 {% endhint %}
 
