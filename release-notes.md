@@ -1,8 +1,8 @@
 # Release Notes
 
-The LFX v2.0.0 release delivers new features and changes for the **LFX** **EasyCLA** tool, including support for the following platforms:
+The LFX v2.0.0 release delivers new features and changes for the **LFX** **EasyCLA tool**, including support for the following platforms:
 
-* LFX Corporate CLA Console for corporate contributors
+* Corporate CLA Console for corporate contributors
 * New options for contributors in Contributor Console
 * LFX Project Control Center for project managers
 

@@ -82,7 +82,11 @@ Upon creating a pull request in GitHub or submitting changed code in Gerrit, Eas
 
 **Result:** You are redirected to the EasyCLA Corporate Console. Sign in with your LF SSO account if prompted.
 
-10. You will need to complete one of the following workflows:
+10. On **Select Organization** window, type your company's name in the field, select it from the drop-down list, and click **Proceed**.
+
+![](../../.gitbook/assets/select-organization.png)
+
+11. You will need to complete one of the following workflows:
 
 * [If your company is not in the company list](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If your company has not yet signed a CCLA](corporate-contributor.md#if-company-has-not-signed)
@@ -173,12 +177,26 @@ If your company has signed a CCLA, but you have not yet been added to the approv
 
 After the CCLA is signed and the CLA Manager adds you to the approved list, you must re-select your company association before you can contribute code under that company's signed CCLA.
 
+### For GitHub:
+
 1. Navigate to the GitHub PR page.
 2. Click **Not Covered**, and then click **Proceed as a Corporate Contributor**.
 3. On the **Select Organization** window, select your company, and click **Proceed**.
 
 A window appears confirming your association with the company. Click Exit EasyCLA, and you will be redirected back to the GitHub page where the CLA status will be updated. If it does not immediately update, please wait a moment and then refresh the GitHub page.  
 ![](../../.gitbook/assets/company-acknowledgement.png)
+
+### For Gerrit:
+
+You need to re-complete the organization selection process on corporate console. Navigate to the Gerrit instance of your project, and re-complete the procedure by following [step 4 through step 10 as described above under Gerrit](corporate-contributor.md#gerrit) section to complete company acknowledgement.
+
+A window appears confirming your association with the company. Click Exit EasyCLA_, and you will be redirected back to the Gerrit window_.
+
+{% hint style="warning" %}
+**Important:** If the status on Gerrit CLI is still not updated automatically or when you re-push the code, you need to navigate to the Gerrit window, **sign out**, **sign back in**, and then re-push the code from Gerrit CLI.
+
+![](../../.gitbook/assets/signout-gerrit.png)   
+{% endhint %}
 
 ## If you are additionally asked to sign an ICLA <a id="if-you-are-asked-to-sign-icla"></a>
 
