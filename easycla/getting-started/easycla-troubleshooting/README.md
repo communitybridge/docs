@@ -27,7 +27,7 @@ Ensure that your commits are [linked to your GitHub account](https://docs.github
 
 #### Problem:
 
-My commits are linked to GitHub account, however, I am still having trouble contributing to EasyCLA-enforced repositories on GitHub?
+Contributor's commits are linked to GitHub account, however, they are still having trouble contributing to EasyCLA-enforced repositories on GitHub?
 
 #### Solution:
 
