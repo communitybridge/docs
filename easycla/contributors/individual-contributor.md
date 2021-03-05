@@ -109,7 +109,9 @@ DocuSign presents the ICLA document for your signature.
 
 13. Navigate to the Gerrit project, and start contributing.
 
-{% hint style="info" %}
-**Note:** If you still see the EasyCLA status not updated, sign out from Gerrit and sign in again, and then follow the procedure again to submit the change.
+{% hint style="warning" %}
+**Important:** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
+
+![](../../.gitbook/assets/signout-gerrit.png) 
 {% endhint %}
 
