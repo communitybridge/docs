@@ -35,7 +35,7 @@ Contributor's commits are linked to GitHub account, however, they are still havi
 2. Ensure that your [commits are linked to the correct user](https://help.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user).
 3. Ask your CLA Manager to add your GitHub Username to the Approved List, instead of your email.
 4. If you are a member of an Approved GitHub Organization, [ensure that you have made that membership public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
-5. Try making your GitHub email address public.
+5. Make your GitHub email address public.
 
 ## Contributor's EasyCLA status is not updated
 
