@@ -8,10 +8,12 @@ Before you enable GitHub repositories for CLA monitoring or remove them from CLA
 
 ![Tools](../../../.gitbook/assets/tools-tab.png)
 
-1. Select the CLA group to which you have added the project.
-2. Click **Manage** next to the project for which you want to manage repositories. The Source Control configuration page appears.
-3. [Enforce CLA Monitoring for GitHub Repositories](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories)
-4. [Enforce CLA Monitoring for Gerrit Repositories](enforce-or-remove-cla-monitoring.md#enforce-cla-monitoring-for-gerrit-repositories)
+4. Select the CLA group to which you have added the project.
+
+5. Click **Manage** next to the project for which you want to manage repositories.
+
+* [Enforce CLA Monitoring for GitHub Repositories](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories)
+* [Enforce CLA Monitoring for Gerrit Repositories](enforce-or-remove-cla-monitoring.md#enforce-cla-monitoring-for-gerrit-repositories)
 
 ## Enforce or Remove CLA Monitoring from GitHub Repositories
 

@@ -7,7 +7,6 @@
   * [Getting Started](easycla/getting-started/README.md)
     * [EasyCLA Requirements](easycla/getting-started/easycla-requirements.md)
     * [EasyCLA Troubleshooting](easycla/getting-started/easycla-troubleshooting/README.md)
-      * [Contributor's EasyCLA Status is not Updated](easycla/getting-started/easycla-troubleshooting/contributor-easycla-status-is-not-updated.md)
       * [EasyCLA is Disabled](easycla/getting-started/easycla-troubleshooting/easycla-is-disabled.md)
     * [EasyCLA FAQs](easycla/getting-started/easycla-faqs.md)
   * [Project Managers](easycla/project-managers/README.md)
