@@ -9,7 +9,7 @@ description: Troubleshooting helps you to resolve problems in your EasyCLA imple
 Following sections help you troubleshoot common problems that you might encounter when using EasyCLA tool.
 
 * [GitHub pull request is not passing](./#github-pull-request-is-not-passing)
-* [Unable to contribute to EasyCLA-enforced repositories on GitHub](./#unable-to-contribute-to-easycla-enforced-repositories-on-github)
+* [Unable to contribute to EasyCLA-enforced repositories](./#unable-to-contribute-to-easycla-enforced-repositories)
 * [Contributor's EasyCLA status is not updated](./#contributors-easycla-status-is-not-updated)
 * ​[EasyCLA is Disabled for a GitHub repository](easycla-is-disabled.md)​
 
@@ -23,7 +23,7 @@ I have an agreement on file, but my GitHub pull request is still not passing.
 
 Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any user, GitHub will display the grey Octocat logo beside them.
 
-## Unable to contribute to EasyCLA-enforced repositories on GitHub
+## Unable to contribute to EasyCLA-enforced repositories
 
 #### Problem:
 
