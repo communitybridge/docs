@@ -32,9 +32,9 @@ And select **Add Expenses** to create and add  a new expense.
 {% hint style="info" %}
 
 
-1.**United States residents:** please add the US bank deposit account to Expensify when first setting up the Expensify account 
+1. **United States residents:** please add the US bank deposit account to Expensify when first setting up the Expensify account 
 
-2. **International mentees not residing in the US:** please add “International Bank”   next to your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
+2. **International mentees not residing in the US:** please add “ - International Bank”   after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
 
 3. If you need to **update your bank information,** please download and use the wire transfer form below, add "updated" to the title, and attach it as a receipt with your report. 
 {% endhint %}
