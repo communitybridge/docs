@@ -12,6 +12,12 @@ The Mentorship platform facilitates a structured remote learning environment to 
    * [View mentorship program details](view-projects-details.md)
    * [View participating mentors and mentees](view-a-mentor-or-mentee-profile.md)
 
+{% hint style="danger" %}
+If you're unable to view My Mentorships, My Tasks, and My Account tabs, after you login, please log out and login again directly to [mentorship.lfx.linuxfoundation.org](https://mentorship.lfx.linuxfoundation.org/).
+
+Thank you for your patience. We're working to resolve this issues as soon as possible. 
+{% endhint %}
+
 To participate:
 
 * Administrators – [enroll your mentorship program ](../administrators/enroll-your-program/)
