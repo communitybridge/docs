@@ -1,6 +1,6 @@
 # Submit Expensify Report to Receive Mentorship Stipend
 
-After receiving a successful performance evaluation, all mentees are required to submit an Expensify report to receive mentorship stipend payments. 
+After receiving a successful performance evaluation, all mentees are required to submit an Expensify report to receive mentorship stipend payments. There are two stipend payments, the first one halfway and the second one at the end, upon successful completion of the program. 
 
 1. To create and submit an **Expensify Report,** login to [Expensify](%20https://www.expensify.com). Ensure that you use the same email address that you used to set up your account in Expensify.
 
