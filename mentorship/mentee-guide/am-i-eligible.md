@@ -11,7 +11,7 @@ The following eligibility rules apply to all mentee applicants.
 * Seeking to participate on your own behalf as an individual
 * Not be subject to any existing obligations to third parties \(such as contractual obligations to an employer\) that would restrict or prohibit your participation in a mentorship program.
 * Meet all criteria set by the program to which a mentees is applying, i.e. any custom prerequisites and requirements.
-* Not be a maintainer, contributor, etc.. with more than minimal involvement with the open source project that offers the mentorship program.
+* Not be a maintainer, contributor, etc.. with more than minimal involvement with the open source project that offers a mentorship program.
 
 
 
