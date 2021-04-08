@@ -25,7 +25,7 @@ This section shows organization name, logo, and last updated time and date.
 
 ![Organization Profile Header](../.gitbook/assets/organization-profile-header.png)
 
-1. Update or edit logo, name, and website of an organization, and click **Save**.
+2. Update or edit logo, name, and website of an organization, and click **Save**.
 
 {% hint style="info" %}
 **Note:** Only SVG files are accepted for company logo.
