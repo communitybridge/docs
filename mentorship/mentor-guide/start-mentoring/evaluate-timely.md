@@ -1,10 +1,10 @@
 # Mentee Evaluations
 
-Mentee evaluations are conducted three or four times throughout the duration of the mentorship project in order to provide mentees with feedback on their progress.You may choose to have 1:1 check-ins, written evaluations, or virtual meetings with your mentees.
+Mentee evaluations are conducted three or four times throughout the duration of the mentorship program in order to provide mentees with feedback on their progress. 
 
-Only after receiving a satisfactory evaluation, mentees can submit an Expensify report to receive stipends.  
+Depending on the mentorship program, program admins may choose to have 1:1 check-ins, written evaluations, or virtual meetings with your mentees. Please work directly with the program admin to find out how the evaluations should be conducted and submitted. 
 
-**Note:** Mentees are also asked to share their experience, provide feedback and suggestions at the end of their mentorship so that Linux Foundation can make improvements to program.   
+Only after receiving a satisfactory evaluation, mentees can submit an Expensify report to receive stipends.    
 
 
   
