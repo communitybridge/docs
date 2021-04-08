@@ -199,7 +199,7 @@
       * [Create Project Plan and Prepare Mentees](mentorship/mentor-guide/start-mentoring/create-project-plan-and-prepare-mentees.md)
       * [Set Expectations](mentorship/mentor-guide/start-mentoring/set-expectations.md)
       * [Managing the Project Plan](mentorship/mentor-guide/start-mentoring/managing-the-project-plan.md)
-      * [Mentee Evaluations](mentorship/mentor-guide/start-mentoring/evaluate-timely.md)
+      * [Mentee Evaluations](mentorship/mentor-guide/start-mentoring/mentee-evaluations.md)
     * [Additional Resources](mentorship/mentor-guide/additional-resources.md)
     * [Mentorship FAQs](mentorship/mentor-guide/mentorship-faqs.md)
     * [Code of Conduct](mentorship/mentor-guide/code-of-conduct.md)
