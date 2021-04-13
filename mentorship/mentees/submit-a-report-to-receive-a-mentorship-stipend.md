@@ -25,7 +25,7 @@ And select **Add Expenses** to create and add  a new expense.
 6. Create a new expense by completing the fields as follows:  
      **Merchant:** Your name   
      **Date:** Date of the stipend payment \(today's date\)  
-     **Total:** 50% of the total amount of your stipend payment for each evaluation period   
+     **Total:** Amount of your stipend payment for each evaluation period   
      **Category:** Select **Mentorship** from the dropdown list  
      **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
 
