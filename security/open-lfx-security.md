@@ -133,6 +133,8 @@ Security Leaderboard is a type of dashboard that provides prominent statistics r
 * Top 10 Projects Most Active in Fixing Vulnerabilities
 * Top 10 Projects by Repositories Scanned
 
+![Security Leaderboard](../.gitbook/assets/sw1.png)
+
 ### Scanned Repositories, Vulnerabilities and Fixes
 
 The Security Leaderboard dashboard provides overview information on the repositories, vulnerabilities and fixes. The following statistical information is available for repositories, vulnerabilities and fixes:
