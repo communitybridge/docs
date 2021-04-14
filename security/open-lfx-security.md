@@ -144,17 +144,25 @@ The Security Leaderboard dashboard provides overview information on the reposito
 * Number of recommended fixes provides for the detected vulnerability 
 * Number of fixed vulnerabilities 
 
+![Statistical Information on Repositories, Vulnerabilities and Fixes](../.gitbook/assets/sw2.png)
+
 ### Top 10 Most Impactful Fixable Vulnerabilities
 
 Top 10 most impactful fixable vulnerabilities list shows you the top 10 fixable vulnerabilities along with the repositories impacted with the vulnerabilities, CVE and CWE. This list auto scrolls when you hover over the mouse on the list.
+
+![Top 10 Most Impactful Fixable Vulnerabilities](../.gitbook/assets/sw3.png)
 
 ### Top 10 Projects Most Active in fixing vulnerabilities
 
 Top 10 projects most active in fixing vulnerabilities list shows you the top 10 projects  that have actively fixed the detected vulnerabilities. The list provides you the project name and the number of vulnerabilities fixed. This list auto scrolls when you hover over the mouse on the list.
 
+![Top 10 Projects Most Active in Fixing Vulnerabilities](../.gitbook/assets/sw4.png)
+
 ### Top 10 Projects by Repositories Scanned
 
 Top 10 projects by repositories scanned list shows you the top 10 projects with the highest number of repositories scanned in the project. The list provides you the project name and the number of repositories scanned for the project. This list auto scrolls when you hover over the mouse on the list.
+
+![Top 10 Projects by Repositories Scanned](../.gitbook/assets/sw5.png)
 
 
 
