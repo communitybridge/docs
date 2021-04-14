@@ -7,19 +7,19 @@ The Linux Foundation Mentorship Program will follow the following term schedule 
 **Spring Term: March 1st - May 31st** 
 
 * mentorships available on LFX Mentorship: Jan 15th, 2021
-* applications open: Jan 15th - Feb 12th \(4 weeks\)
+* mentee applications open: Jan 15th - Feb 12th \(4 weeks\)
 * application review/admission decisions/HR paperwork: Feb 15th - Feb 26th 
 
 **Summer Term: June 1st - August  31st**
 
 * mentorships available on LFX Mentorship: April 15th, 2021
-* applications open: April 15th - May 14th \(4 weeks\)
+* mentee applications open: April 15th - May 14th \(4 weeks\)
 * application review/admission decisions/HR paperwork: May 17th - May 31st
 
 **Fall Term: September 1st - Nov 30th**
 
 * mentorships available on LFX Mentorship: July 15th, 2021
-* applications open: July 15th - August 12th \(4 weeks\)
+* mentee applications open: July 15th - August 12th \(4 weeks\)
 * application review/admission decisions/HR paperwork: August 12th - August 31st
 
 {% hint style="info" %}
