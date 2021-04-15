@@ -12,7 +12,7 @@
 
 
 {% hint style="warning" %}
-* You can apply to maximum **three** mentorship in one term.
+* You can apply to maximum **three** mentorship programs in one term. The programs you withdraw from don't count towards that limit.
 * You can reapply to mentorship programs if you were previously declined or you withdrew your application.
 {% endhint %}
 
