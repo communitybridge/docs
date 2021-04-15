@@ -8,7 +8,7 @@ A Project Manager can sign in to the EasyCLA Project Control Center to perform t
 2. Click **Sign in with SSO**.
 3. Enter your credentials as the Project Manager and click **Sign In**.
 
-![Project Control Center](../../.gitbook/assets/project-control-center.png)
+![Project Control Centre](../../.gitbook/assets/project-control-centre.png)
 
 4. Click a project to view more about the project or search for a project from the left navigation pane. For details, see [View Project CLA Details](view-and-manage-cla-group-details.md).
 
