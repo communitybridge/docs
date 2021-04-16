@@ -19,20 +19,18 @@ After you successfully add Git organizations, you can:
 **Note:** You must be the owner of the GitHub organization which you want to connect for CLA monitoring.
 {% endhint %}
 
-1. [Sign in](../sign-in-to-project-control-center.md).
+1. Sign in to the [Project Control Centre](https://projectadmin.lfx.linuxfoundation.org/).
 
 2. Click a **project** of interest.
 
-3. Navigate to **Tools** tab, and click **CLA**.  
-**Note:** You can also connect the GitHub organization during IT set up in the **IT Services** tab, and then install EasyCLA application in **Tools** tab to add it for CLA monitoring.
-
-![](../../../.gitbook/assets/tools-tab.png)
+3. Scroll down to the **Tools** **Status** section, and click **EasyCLA**.  
+**Note:** You can also connect the GitHub organization during IT set up in the **IT Services Status** section, and then install EasyCLA application in **Tools Status** section to add it for CLA monitoring.
 
 4. Under CLA Groups, select a CLA group to which you have added the project.
 
 5. Click **Manage** next to the project for which you want to manage repositories.
 
-![Add and Manage Repositories](../../../.gitbook/assets/add-and-manage-repositories.png)
+![Add and manage repositories](../../../.gitbook/assets/add-and-manage-repositories.png)
 
 6. Under the GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
 
@@ -80,7 +78,7 @@ After adding the GitHub organization, you should enable branch protection and au
 
 1. Click the settings icon ![](../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.
 
-2. Click both the check boxes.
+2. Click both the check boxes, and click **Save Changes**.
 
 ![Additional Settings](../../../.gitbook/assets/additional-setttings.png)
 

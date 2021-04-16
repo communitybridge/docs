@@ -12,12 +12,12 @@ A single CLA Group includes a pair of CCLA and ICLA templates, if both types are
 
 1. [Sign in](sign-in-to-project-control-center.md) to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 2. Under My Projects, click a project or search the project from the search bar for which you want to create a CLA group.
-3. From **Tools** tab, click **CLA**.
+3. On the home page, scroll down to **Tools Status** section, and click **EasyCLA**.
 
-![](../../.gitbook/assets/tools-tab.png)
+![Tools Status](../../.gitbook/assets/tools-status-tab.png)
 
 4. Click **+Add New CLA Group**.  
-**Note:** For the current v2 release, a single project can have only one CLA Group. If you have already created a CLA Group for that project, _or for a parent of that project_, the **+Add New CLA Group** button will be disabled and you will not be able to create another CLA group for that project.
+**Note:** For the current v2 release, a single project can have only one CLA Group. If you have already created a CLA Group for that project, _or for a parent of that project_, the **+Add New CLA Group** button will be disabled and you will not be able to create another CLA group for that project
 
 ![Add New CLA Group](../../.gitbook/assets/add-new-cla-group%20%281%29.png)
 
@@ -53,5 +53,5 @@ A single CLA Group includes a pair of CCLA and ICLA templates, if both types are
 As mentioned above, for the initial v2 release, a single project can only have one CLA Group. If you have already created a CLA Group for that project, _or for a parent of that project_, the **+Add New CLA Group** button will be disabled and you will not be able to create another CLA group for that project.
 {% endhint %}
 
-![Creating CLA group at project-group level](../../.gitbook/assets/select-projects.png)
+![Creating CLA Group at Project Group Level](../../.gitbook/assets/creating-cla-group-at-project-group-level.png)
 

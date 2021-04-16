@@ -2,11 +2,11 @@
 
 A Project Manager can view CLA group details and can edit or delete a CLA group.
 
-1. [Sign in](sign-in-to-project-control-center.md).
+1. Sign in to the [Project Control Centre](https://projectadmin.lfx.linuxfoundation.org/).
 2. Click a **project name** of interest.
-3. Navigate to the **Tools** tab, and click **CLA**.
+3. Scroll down to **Tools Status** section, and click  **EasyCLA**.
 
-![Tools](../../.gitbook/assets/tools-tab.png)
+![Tools Status](../../.gitbook/assets/tools-status-tab.png)
 
 **CLA Groups** shows the CLA groups that have been added to the project. A CLA group defines a CCLA and/or ICLA that contributors must sign. A CLA group shows the following details:
 

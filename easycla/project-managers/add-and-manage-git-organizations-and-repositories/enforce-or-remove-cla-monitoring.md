@@ -6,8 +6,6 @@ Before you enable GitHub repositories for CLA monitoring or remove them from CLA
 2. Click a **project** of interest.
 3. Navigate to **Tools** tab, and click **CLA**.
 
-![Tools](../../../.gitbook/assets/tools-tab.png)
-
 4. Select the CLA group to which you have added the project.
 
 5. Click **Manage** next to the project for which you want to manage repositories.
