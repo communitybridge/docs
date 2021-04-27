@@ -163,6 +163,7 @@
   * [Mentors](mentorship/mentors/README.md)
     * [Become a Mentor](mentorship/mentors/create-a-mentor-profile/README.md)
       * [Request to be Added to a Program](mentorship/mentors/create-a-mentor-profile/request-to-be-added-to-a-program.md)
+      * [Admin Invites a Mentor to a Program](mentorship/mentors/create-a-mentor-profile/admin-invites-a-mentor-to-a-program.md)
     * [Review Mentees Applications](mentorship/mentors/review-mentee-applications-and-tasks.md)
     * [Manage Mentees Tasks](mentorship/mentors/manage-mentees-tasks.md)
     * [Contact a Mentee](mentorship/mentors/contact-a-mentee.md)
