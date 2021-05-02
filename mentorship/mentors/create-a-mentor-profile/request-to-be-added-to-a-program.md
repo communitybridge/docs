@@ -6,7 +6,7 @@
 
 3. After the project maintainer adds you to the program, you will get an email notification and the "Requested" status will change to **Added**.
 
-4. You can remove yourself from the program by selecting **Remove from Program** CTA.
+4. You can remove yourself from the program by selecting **Remove From Program** CTA.
 
-![](../../../.gitbook/assets/remove-from-program%20%281%29.png)
+![](../../../.gitbook/assets/remove-from-program.png)
 
