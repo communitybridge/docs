@@ -27,6 +27,7 @@
   * [View Events You Attended Or Will Attend](my-profile/viewing-the-events.md)
   * [View Transactions](my-profile/viewing-the-transactions.md)
   * [View Roles](my-profile/view-roles.md)
+  * [My Rewards](my-profile/my-rewards.md)
 * [Insights](insights/README.md)
   * [Insights FAQs](insights/insights-faqs.md)
   * [Supported Data Sources](insights/supported-data-sources.md)
