@@ -2,7 +2,7 @@
 
 A Project Manager can view CLA group details and can edit or delete a CLA group.
 
-1. Sign in to the [Project Control Centre](https://projectadmin.lfx.linuxfoundation.org/).
+1. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 2. Click a **project name** of interest.
 3. Scroll down to **Tools Status** section, and click  **EasyCLA**.
 

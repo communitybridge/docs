@@ -2,9 +2,11 @@
 
 Before you enable GitHub repositories for CLA monitoring or remove them from CLA monitoring, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
 
-1. [Sign in](../sign-in-to-project-control-center.md).
+1. [Sign in](../sign-in-to-project-control-center.md) to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 2. Click a **project** of interest.
-3. Navigate to **Tools** tab, and click **CLA**.
+3. Scroll down to **Tools Status** section, and click **EasyCLA**.
+
+![Tools Status](../../../.gitbook/assets/tools-status-tab.png)
 
 4. Select the CLA group to which you have added the project.
 

@@ -19,7 +19,7 @@ After you successfully add Git organizations, you can:
 **Note:** You must be the owner of the GitHub organization which you want to connect for CLA monitoring.
 {% endhint %}
 
-1. Sign in to the [Project Control Centre](https://projectadmin.lfx.linuxfoundation.org/).
+1. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 
 2. Click a **project** of interest.
 
@@ -87,7 +87,7 @@ After adding the GitHub organization, you should enable branch protection and au
 1. Click the settings icon ![](../../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitHub organization.
 2. Click **Disassociate GitHub Org**, and click the link to create a support ticket to disassociate the GitHub org.
 
-![Disassociate GitHub Organization](../../../.gitbook/assets/disassociate-github-orgnanization.png)
+![Additional Settings - Disassociate GitHub Organization](../../../.gitbook/assets/additional-setttings.png)
 
 ## Add Gerrit Organization
 
