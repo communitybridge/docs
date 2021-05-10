@@ -8,9 +8,9 @@ LFX Crowdfunding enables a simple, managed process for your open source project 
 
 LFX Crowdfunding is integrated with GitHub Sponsors and you can configure your sponsor button by editing a Funding.yml file in your repository's .github folder, on the default branch. 
 
-You can configure the button to add LFX Crowdfunding platform on a new line, using the following syntax: LFX Crowdfunding: PROJECT-NAME
+Specifically, you can configure the button and add LFX Crowdfunding platform on a new line, using the following syntax: LFX Crowdfunding: PROJECT-NAME
 
-For more details, please refer to GitHub Sponsors user documentation: 
+For more details, please refer to GitHub user documentation: 
 
 [https://docs.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository](https://docs.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository)
 
