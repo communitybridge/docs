@@ -4,7 +4,7 @@
 
 LFX Crowdfunding enables a simple, managed process for your open source project to raise funds from donors to reimburse project contributors for project expenses. Crowdfunding is free for open source projects, and every dollar of the first $10M raised through Crowdfunding will be passed directly to the projects hosted on LFX, resulting in more money to support critical work on your project. Additionally, funds raised via Crowdfunding can be applied towards mentorship programs via the LFX Mentorship service.
 
-## How to add LFX Crowdfunding as an option under GitHub Sponsors? <a id="FundingFAQs-Dodonorsreceiverefundsifaprojectchangesitsgoalsordoesn&#x2019;tallocatefundstospecifiedgoals?"></a>
+## How to add LFX Crowdfunding as an option to sponsor your project through GitHub Sponsors? <a id="FundingFAQs-Dodonorsreceiverefundsifaprojectchangesitsgoalsordoesn&#x2019;tallocatefundstospecifiedgoals?"></a>
 
 LFX Crowdfunding is integrated with GitHub Sponsors and you can configure your sponsor button by editing a Funding.yml file in your repository's .github folder, on the default branch. 
 
