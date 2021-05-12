@@ -11,10 +11,11 @@ The Gerrit Changesets dashboards represent a set of metrics that shows detailed 
 * [Timing](gerrit-changeset.md#timing)
 * [Backlog](gerrit-changeset.md#backlog)
 * [Approvals](gerrit-changeset.md#approvals)
+* [Reviews](gerrit-changeset.md#reviews)
 
 By default, **Bots** and **Changesets Only** filters are applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
-Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
+Click ![](../../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
 ## Overview
 
@@ -142,4 +143,24 @@ Approvals shows statistics about changesets that are approved. The dashboard sho
 **Approvals by Reviewer Per Repo** shows a table that lists reviewer name, corresponding repository name, number of changes approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer for the repository over time.
 
 **Approvals by Submitter** shows a table that lists submitter name, total number of changesets and patchsets that are approved for the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter out of the total number of approved commits over time.
+
+## Reviews
+
+Reviews shows metrics about reviewed changesets. The dashboard shows reviewers, repository names, numbers of respective data, and so on.
+
+**Filter** lets you filter the dashboard data by reviewer name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
+**Summary** shows the total number of changesets, total number of individuals who reviewed changesets, total number approved changesets, total number of review comments for the submitted changesets, and average time in days to review the first changeset.
+
+**Review Types** shows a doughnut chart that represents the total number of changesets in the project by review status: Comment, Approval, Patchset, and Changeset. Mouse over a color in the chart to see the status, total number, and percentage of changesets by review status.
+
+**Median Time to First Review** shows a graph that represents number of days taken to first review a changeset over a period of time. Mouse over a color in the graph to see the data.
+
+**Median Time to First Approval** shows a graph that represents number of days taken for first approval a changeset over a period of time. Mouse over a color in the graph to see the data.
+
+**Changesets Merged Without Approval** shows graph that displays number of changesets that are merged without approval over a period of time.
+
+**Repository Changeset Review Summary** 
+
+**Organization Changeset Review Summary** 
 

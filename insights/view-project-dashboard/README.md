@@ -5,7 +5,7 @@
 
 Refer the following for refining data for summary page and individual data sources:
 
-* Click Copy Short URL ![](../../.gitbook/assets/copy-short-url.png) to copy the link of a respective dashboard for a project.
+* Click Copy Short URL ![](../../.gitbook/assets/get-short-url.png) to copy the link of a respective dashboard for a project.
 * [Select Time Range](../filter-data/select-time-range.md) to view data for a selected time range. Default is **Last 90 Days**.
 * [View Community Leader board](community-leader-board/)
 * [View Identities and Affiliations](../identities-and-affiliations/)
