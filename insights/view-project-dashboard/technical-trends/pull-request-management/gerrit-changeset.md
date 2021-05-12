@@ -12,7 +12,7 @@ The Gerrit Changesets dashboards represent a set of metrics that shows detailed 
 * [Backlog](gerrit-changeset.md#backlog)
 * [Approvals](gerrit-changeset.md#approvals)
 
-By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
+By default, **Bots** and **Changesets Only** filters are applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
 Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
 

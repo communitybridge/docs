@@ -11,7 +11,7 @@ By default, Bot commit is filtered. To add/manage filters, see [Add and Manage D
 * [Timing](github-pr.md#timing)
 * [Backlog](github-pr.md#backlog)
 
-By default, Bots and Changesets Only filters are applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
+By default, **Bots** filter is applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
 Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of respective dashboards.
 
@@ -19,7 +19,7 @@ Click ![](../../../../.gitbook/assets/copy-short-url.png) to copy the path of re
 
 Overview shows all the information about pull requests for a project.
 
-**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name, organization name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of pull requests, submitters, and repositories of the project over time.
 
