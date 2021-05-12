@@ -160,7 +160,9 @@ Reviews shows metrics about reviewed changesets. The dashboard shows reviewers, 
 
 **Changesets Merged Without Approval** shows graph that displays number of changesets that are merged without approval over a period of time.
 
-**Repository Changeset Review Summary** shows a table that ****that lets you sort values by repository name, number of submitters and reviewers per repository, number review comments, approvals, and changesets.
+**Repository Changeset Review Summary** shows a table that displays review activity per repository, and lets you sort values by repository name, number of submitters and reviewers per repository, number review comments, approvals, and changesets.
 
-**Organization Changeset Review Summary** shows a table that ****that lets you sort values by organization name, number of submitters and reviewers per organization, number review comments, approvals, and changesets.
+**Organization Changeset Review Summary** shows a table that displays review activity per organization, and lets you sort values by organization name, number of submitters and reviewers per organization, number review comments, approvals, and changesets.
+
+**Reviewer Activity** shows a table that displays activities by top reviewers, and lets you sort values by reviewer name, reviewer's organization name, number of approved changesets, and review comments.
 
