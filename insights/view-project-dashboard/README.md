@@ -27,11 +27,9 @@ Project group dashboard shows individual projects that come under the project gr
 
 ## Project / Project Group Summary
 
-When you navigate to a project's dashboard, by default the [Summary](technical-trends/summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into two groups: ****[Technical Trends](technical-trends/) and [Ecosystem Trends](ecosystem-trends/). Navigate to each to learn more about the data sources.
+When you navigate to a project's dashboard, by default the [Summary](technical-trends/summary.md) page appears that displays overview of the project's data sources. The Summary page is divided into three groups: ****[Technical Trends](technical-trends/), [Ecosystem Trends](ecosystem-trends/), and [Community Leaderboard](community-leader-board/). Navigate to each to learn more about the data sources.
 
-![Technical and Ecosystem Trends](../../.gitbook/assets/technical-trends-and-ecosystem-trends.png)
+![Summary Page Groups](../../.gitbook/assets/summary-page-groups.png)
 
-**View Community Leaderboard:** Click [Community Leaderboard](community-leader-board/) from top right corner to view [Active Community Contributor board](community-leader-board/active-community-contributor-board.md).
-
-**View Identities & Affiliations:** After you sign in as an administrator, you can view Identities & Affiliations beside Community Leaderboard if you have access to the project. If you don't have access, click **Request To Edit Affiliations** from navigation bar to request for access. Click **Identities & Affiliations** to [view and manage](../identities-and-affiliations/) contributors' affiliations.
+**View Identities & Affiliations:** After you sign in as an administrator, you can view Identities & Affiliations beside Community Leaderboard if you have access to the dashboard. If you don't have access, click **Request To Edit Affiliations** from navigation bar to request for access. Click **Identities & Affiliations** to [view and manage](../identities-and-affiliations/) contributors' affiliations.
 

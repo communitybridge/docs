@@ -119,11 +119,11 @@ Following an example of Issue Management overview section for a project that use
 
 ### **CI/CD**
 
-[CI/CD](ci-cd/) ****shows an analytic overview of the number of total builds, jobs, failed builds, job categories, and average build duration in minutes. Clicking **Go To Overview** and **View All** under **CI/CD** takes you to the respective table/chart/graph of [Jenkins &gt; Overview](ci-cd/jenkins.md#overview) section.
+[CI/CD](ci-cd/) ****shows an analytic overview of the number of total builds, jobs, failed builds, job categories, and average build duration in minutes. Clicking **Go To Overview** and **View All** under **CI/CD** takes you to the respective table/chart/graph of [Jenkins &gt; Overview](ci-cd/jenkins.md#overview) and [CircleCI &gt; Overview](ci-cd/circle-ci.md#overview) sections respectively.
 
 **Top 10 Jobs** lists the top ten jobs by name, number, and percentage.
 
-**Build Results** shows a doughnut chart that represents total number of builds for all the build results, such as Success, Failure, Unstable, and Aborted. Click a result to exclude the data. Click again to include.
+**Build Results** for Jenkins and **Jobs Results** for CircleCI shows a doughnut chart that represents total number of builds for all the build results, such as Success, Failure, Unstable, and Aborted. Click a result to exclude the data. Click again to include.
 
 ![Ci/Cd](../../../.gitbook/assets/ci-cd.png)
 
@@ -159,7 +159,9 @@ Following dashboards are displayed under Technical Trends:
 
 [Mailing List ](../ecosystem-trends/mailing-list/)shows an analytic overview of email communication channels, such as Groups.io or Pipermail:
 
-**Groups.Io** shows total number of emails, groups, companies, authors, and average number of messages communicated over time.
+**Groupsio** shows total number of emails, groups, companies, authors, and average number of messages communicated over time.
+
+**Google Groups** shows a richer context around how frequently the community is interacting. ****Project community managers can use metrics like “Daily Active Users”, “Emails by Organization”, and even “Top Trending Topics” to better engage and acknowledge their community members. For detail metrics, see [Google Groups](../ecosystem-trends/mailing-list/google-groups.md).
 
 **Piper Mail** shows total number of emails, mailing lists, companies, authors, and average number of messages communicated over time.
 

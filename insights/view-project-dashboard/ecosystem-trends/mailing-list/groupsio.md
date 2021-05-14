@@ -1,10 +1,10 @@
-# Groups.io
+# Groupsio
 
 {% hint style="info" %}
 By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-The Groups.io dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows information about the groups.io communication channel.
+The Groupsio dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows information about the groups.io communication channel.
 
 ## Overview <a id="Groups.io-Groups.io&gt;Overview"></a>
 

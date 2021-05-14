@@ -34,23 +34,19 @@ Following are the various issue tracking system data sources currently supported
 
 #### Build Systems
 
-Insights supports [Jenkins](view-project-dashboard/technical-trends/ci-cd/jenkins.md) as one of the popular build system data sources.
+Insights supports [Jenkins](view-project-dashboard/technical-trends/ci-cd/jenkins.md) and CircleCI as two of the popular build system data sources.
 
 #### Email Systems
 
-Insights supports [Pipermail](view-project-dashboard/ecosystem-trends/mailing-list/pipermail.md), and [Groups.io](view-project-dashboard/ecosystem-trends/mailing-list/groups.io.md) as email systems to visualize project related communication activities.
+Insights supports [Pipermail](view-project-dashboard/ecosystem-trends/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-trends/mailing-list/groupsio.md), and Google Groups as email systems to visualize project related communication activities.
 
 ## In Progress 
 
 The Linux Foundation is developing Insights tool to support the following data sources in the next release:
 
-#### Build Systems
+#### Social Media
 
-The Linux Foundation is developing Insights tool to support **CircleCI** as a build system data source in the next release.
-
-#### Email Systems
-
-The Linux Foundation is developing Insights tool to support **Google Groups** and **GitHub Team Discussions**.
+The Linux Foundation is releasing soon the support for social media platforms, such as Facebook, Twitter, and LinkedIn.
 
 ## Coming Soon
 
@@ -60,7 +56,7 @@ The Linux Foundation is working towards supporting the following data sources ve
 
 The Linux Foundation is releasing soon the support for some more popular build system data sources, such as **Travis CI**, **Gitlab CI**, **GitHub Actions**, to name a few.
 
-#### Social Media
+#### Email Systems
 
-The Linux Foundation is releasing soon the support for social media platforms, such as Facebook, Twitter, and LinkedIn.
+The Linux Foundation is developing Insights tool to support **GitHub Team Discussions**.
 
