@@ -23,25 +23,38 @@ Overview shows all the information about pull requests for a project.
 
 **Summary** shows the total number of pull requests, submitters, and repositories of the project over time.
 
+**Most Used PR Labels** shows a cluster of top 10 Pull request labels. Click a label to filter the project dashboard to view label related details. Click the cross mark next to a label in the **Add Filter** navigation bar to remove the filter.
+
 **Submitters Over Time** shows a bar graph that represents the number of pull request submitters per day over time. Mouse over a color in the graph to see the total number of submitters that occurred on a date.
 
 **Pull Requests By Organization** shows a doughnut chart that represents the total number of pull requests per organization over a time range. Mouse over a color \(organization\) in the chart to see the organization name, total number and percentage of pull requests.
 
-**Pull Requests by Status Over Time** shows a stacked bar graph that represents the number of open and closed pull requests over time. Mouse over a color in the graph to see the total number of pull requests by status that occurred on a date.
+**PRs Created Over Time** shows a periodic line graph that displays the number of Pull Requests created over time. Hover mouse over the graph to view the date and number of PRs created on the date.
 
-**Pull Request by Organizations Over Time** shows a stacked bar graph that represents the number of pull requests per day by organization over time. Mouse over a color in the graph to see the total number of pull requests that occurred on a date for the organization.
+**Pull Requests By Submitters** shows a table that lists submitter name, number of pull requests by the submitter, number of repositories the submitter submitted PRs to, number of merged, rejected and open PRs by the submitter, and average number of days taken to merge the submitter's PRs.
 
-**Pull Requests By Submitters** shows a table that lists submitter name, number of pull requests by the submitter, number of repositories the submitter submitted PRs, and average number of days the submitter's PRs were open before they were closed.
+**Pull Request by Organization** shows a table that lists and lets you sort values by organization name, number of Pull Requests submitted by the organization over time, total number of submitters of the organization, and number of repositories to which the submitters of the organization have submitted PRs .
 
-**Organization** shows a table that lists and lets you sort values by organization name, number of Pull Requests submitted by the organization over time, total number of submitters of the organization, and number of repositories to which the submitters of the organization have submitted PRs .
-
-**Pull Requests By Repositories** shows a table that lists and lets you sort values by repository link, number of pull requests, authors, assignees, and labels per repository. You can select a repository to view details on GitHub.
-
-**Pull Requests By Project** shows a table and lists and lets you sort values by project name, number of pull requests, submitters, and repositories per project.
+**Pull Requests By Repositories** shows a table that lists and lets you sort values by repository link, number of pull requests per repository, number of PR submitters for the repository, and average time taken in days to merge the PRs. You can select a repository to view details on GitHub.
 
 ## Efficiency
 
-Efficiency offers a view of efficiency closing issues based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
+Efficiency offers an overall view of understanding and optimizing project efficiency in closing GitHub issues.
+
+**Filter** lets you filter the project data by organization name, author name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
+**Summary** shows a cluster of 
+
+* Total number of closed issues
+* Number of submitters whose issues are closed
+* Number organizations that helped in closing the issues
+* Repositories of the project to which the closed issues belong to
+* Number of days it took to close 50 percentage of the issues, and 
+* Number of days it took to close 95 percentage of the issues over time
+
+**50th percentile of Time To Close By Repo** shows a cluster of top 10 repositories  names for which it took most time to close 50% of the issues.
+
+Time to Close shows a grap
 
 **Efficiency Closing GitHub Pull Requests** lets you select an organization and project as values for the dashboard data. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
@@ -83,10 +96,9 @@ Timing shows information about open and closed pull requests in time. The dashbo
 
 **Pull Requests By Status** shows a stacked bar graph that represents the total number of pull requests over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issues for the status, and the date.
 
-**Submitters:**
+**Submitters Over Time** shows a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see total number of submitters and the date.
 
-* shows a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see total number of submitters and the date.
-* shows a table that lets you sort values by Submitter, number of pull requests, repositories, and average number of days for which the PRs remained opened .
+Pull Requests By Submitters shows a table that lets you sort values by Submitter, number of pull requests, repositories, and average number of days for which the PRs remained opened .
 
 **Organizations** shows a table that lets you sort values by Organization, Pull Requests, Submitters, Assignees, and Avg. Open Days.
 
