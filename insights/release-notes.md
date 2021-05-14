@@ -39,6 +39,22 @@ Following visualizations are deprecated in this release, and the dashboards are 
 
 **Lead time**: the time expressed in days between the initiation and completion of a production process, in this case, a pull request. Shown in average.
 
+### GitHub Timing
+
+**Status** shows a doughnut chart that represents the total number of pull requests in the project by status: closed or open. Mouse over a color in the chart to see the status, total number of pull requests for the status, and the percentage of the project's pull requests for that status.
+
+**Pull Requests By Status** shows a stacked bar graph that represents the total number of pull requests over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issues for the status, and the date.
+
+**Submitters Over Time** shows a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see total number of submitters and the date.
+
+**Pull Requests By Submitters** shows a table that lets you sort values by Submitter, number of pull requests, repositories, and average number of days for which the PRs remained opened .
+
+**Latest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Created on. The default sort is by most recently created issues.
+
+**The Oldest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Open Days. The default sort is by the greatest number of open days.
+
+**95th Percentile Open Time \(days\)** shows a bar graph that represents number of days for which 95% of open pull requests \(out of all PRs created on a date\) remained open. Mouse over a color in the graph to see the number. Mouse over a color in the graph to see the  number.
+
 
 
 

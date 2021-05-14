@@ -67,31 +67,25 @@ Efficiency offers an overall view of understanding and optimizing project effici
 
 Timing shows information about open and closed pull requests in time. The dashboard focuses on how long pull requests remain open. Statistical information provides closing times and also tables with the latest and the oldest pull requests.
 
-**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name, organization name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows the total number of Pull Requests, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\) over time—number of days for which 50% of Open Pull Requests remained open.
+**Summary** shows the total number of Pull Requests, Submitters, Assignees, Average number of days the PRs are in open state, and average number of days taken to merge Pull Requests.
 
-**Median Open Time \(days\)** shows a bar graph that represents number of days for which 50% of open pull requests \(out of all PRs created on a date\) remained open. Mouse over a color in the graph to see the number.
+**Pull Requests by Organization** shows a doughnut chart that represents the total number and percentage of pull requests submitted by organizations. Mouse over a color in the chart to see the total number and percentage of pull requests submitted by the organization.
 
-**95th Percentile Open Time \(days\)** shows a bar graph that represents number of days for which 95% of open pull requests \(out of all PRs created on a date\) remained open. Mouse over a color in the graph to see the number. Mouse over a color in the graph to see the  number.
+**Median Time to Merge \(Days\)** shows a line graph that represents number of days it took for 50% of open pull requests \(out of all PRs created on a date\) to get merged . Mouse over a color in the graph to see the number.
 
-**Status** shows a doughnut chart that represents the total number of pull requests in the project by status: closed or open. Mouse over a color in the chart to see the status, total number of pull requests for the status, and the percentage of the project's pull requests for that status.
+**Submitters** shows a line graph that represents the number of pull request submitters and organizations over time. Mouse over a color in the graph to view the date and number of organizations and submitters that created PRs.
 
-**Pull Requests by Organization** shows a doughnut chart that represents the total number of pull requests submitted by an organization. Mouse over a color in the chart to see the total number of pull requests for the organization, and their percentage.
+**Median Time To First Review**
 
-**Pull Requests By Status** shows a stacked bar graph that represents the total number of pull requests over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issues for the status, and the date.
+**Median Time To First Approval** 
 
-**Submitters Over Time** shows a bar graph that represents the total number of submitters over time in the project. Mouse over a color in the graph to see total number of submitters and the date.
+**Submitters**
 
-Pull Requests By Submitters shows a table that lets you sort values by Submitter, number of pull requests, repositories, and average number of days for which the PRs remained opened .
+**Organizations** shows a table that lists organization name, total number of pull requests submitted by the organization along with number of PRs by status, such as merged, rejected and open state, and average time taken in days to merge the PRs per organization.
 
-**Organizations** shows a table that lets you sort values by Organization, Pull Requests, Submitters, Assignees, and Avg. Open Days.
-
-**Repositories** shows a table that lets you sort values by Repository, Pull Requests, Submitters, Assignees, and Avg. Open Days.
-
-**Latest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Created on. The default sort is by most recently created issues.
-
-**The Oldest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Open Days. The default sort is by the greatest number of open days.
+**Repositories** shows a table that lists and let you sort values by repositories, number of pull requests along with number of PRs by status, such as merged, rejected and open state, submitters, and average time taken to merge the PRs per repository.
 
 ## Backlog
 
