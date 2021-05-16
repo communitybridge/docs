@@ -134,9 +134,11 @@ Reviews provides an overall analysis of reviewed pull requests, approved ones, d
 
 **PRs Merged Without Approval** shows a line graph that shows the number of pull requests merged without approval on a particular day. Mouse over the graph to view details.
 
-**Repository PR Review Summary** 
+**Repository PR Review Summary** shows a table that lists repository URL, number of submitters, reviewers, review comments received per repository, and number of approved, changes requested, and dismissed PRs per repository over time.
 
-**Organization PR Review Summary**
+**Organization PR Review Summary** shows a table that lists organization name, total number of pull requests raised by the organization, number of reviewers, review comments received for PRs raised by the organization, and number of approved, changes requested, and dismissed PRs per organization over time.
 
-\*\*\*\*
+**Reviewer Activity** shows a table that lists reviewer names, total number of activity by the reviewer, number of approved, changes requested, review comments and dismissed PRs per reviewer over time. Total Activity is the sum of all activities done by the reviewer, such as how many PRs they approved, provided comments for, dismissed, and requested changes.
+
+**Latest PRs Review Activity** shows a table that lists GitHub pull request link, date on which the PR is created, and if the PR is approved or dismissed, or any number of review comments and changes requested for the PR. Numbers as one and zero are used to indicate true or false for approved and dismissed PRs.
 
