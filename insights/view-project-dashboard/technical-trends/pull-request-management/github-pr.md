@@ -10,9 +10,9 @@ By default, Bot commit is filtered. To add/manage filters, see [Add and Manage D
 * [Efficiency](github-pr.md#efficiency)
 * [Timing](github-pr.md#timing)
 * [Backlog](github-pr.md#backlog)
-* Reviews
+* [Reviews](github-pr.md#reviews)
 
-By default, **Bots** filter is applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
+By default, **Bot** commits are filtered. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
 Click ![](../../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
@@ -114,9 +114,29 @@ Reviews provides an overall analysis of reviewed pull requests, approved ones, d
 
 **Filter** lets you filter the dashboard data by reviewer name, organization name, repository name and URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows total number of pull requests in open state, total number of repositories having pull requests in open state, and average number of days pull requests have been in open state.
+**Summary** shows the following details:
 
-\*\*\*\*
+* Submitted: Total number of PRs created \(submitted\) and reviewed across all monitored repositories.
+* Reviewers: Total number of unique PR reviewers across all monitored repositories.
+* Approvals: Total number of approvals received on all submitted PRs.
+* Changes Requested: Total number of 'Request Changes' received on all submitted PRs.
+* Review Comments: Total number of Comments received on all submitted PRs.
+* Dismissed: Total number of PR reviews being dismissed.
+* Avg. Time to First Review: The average time it took to get the first review on the PR across all submitted PRS.
+
+**Repos By Review Activity** shows a cluster of top 10 repositories on which most review activity happened. Click a repo to view dashboard data specific to the repository.
+
+**PR Review States** shows a doughnut chart that displays the number and percentage of pull request reviews by state, such as commented, approved, changes requested, and dismissed. Mouse over a color to view details.
+
+**Median Time To First Review** shows a line graph that displays the 50th percentile of days it takes for a pull request to get a review in a given timeframe. Mouse over the graph to view details.
+
+**Median Time To First Approval** shows a line graph that displays the 50th percentile of days it takes for a pull request to get an approval in a given timeframe. Mouse over the graph to view details.
+
+**PRs Merged Without Approval** shows a line graph that shows the number of pull requests merged without approval on a particular day. Mouse over the graph to view details.
+
+**Repository PR Review Summary** 
+
+**Organization PR Review Summary**
 
 \*\*\*\*
 

@@ -13,7 +13,7 @@ The LFX Insights, May 2021 Release delivers support for new data sources and met
 
 Following visualizations are deprecated in this release, and the dashboards are updated and enhanced with new visualizations in various data sources:
 
-### GitHub PR Overview
+### GitHub Overview
 
 **Pull Requests by Status Over Time** showed a stacked bar graph that represents the number of open and closed pull requests over time. Mouse over a color in the graph to see the total number of pull requests by status that occurred on a date.
 
@@ -21,7 +21,7 @@ Following visualizations are deprecated in this release, and the dashboards are 
 
 **Pull Requests By Project** showed a table and lists and lets you sort values by project name, number of pull requests, submitters, and repositories per project.
 
-### GitHub PR Efficiency
+### GitHub Efficiency
 
 **Efficiency Closing GitHub Pull Requests** let you select an organization and project as values for the dashboard data. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
@@ -39,7 +39,7 @@ Following visualizations are deprecated in this release, and the dashboards are 
 
 **Lead time**: the time expressed in days between the initiation and completion of a production process, in this case, a pull request. Shown in average.
 
-### GitHub PR Timing
+### GitHub Timing
 
 **Status** shows a doughnut chart that represents the total number of pull requests in the project by status: closed or open. Mouse over a color in the chart to see the status, total number of pull requests for the status, and the percentage of the project's pull requests for that status.
 
@@ -54,16 +54,6 @@ Following visualizations are deprecated in this release, and the dashboards are 
 **The Oldest Pull Requests** shows a table that lets you sort values by Title, Repository, Submitter, URL, Id, and Open Days. The default sort is by the greatest number of open days.
 
 **95th Percentile Open Time \(days\)** shows a bar graph that represents number of days for which 95% of open pull requests \(out of all PRs created on a date\) remained open. Mouse over a color in the graph to see the number. Mouse over a color in the graph to see the  number.
-
-### GitHub PR Backlog
-
-**Open Pull Requests Statistics Summary** shows the total number of Open Pull Requests, cumulative number of days for which individual PRs are open, and the average time in days Open per Pull Request.
-
-**Backlog: Pull Requests \(Accumulated Over Time\)** shows a bar graph that represents the cumulative number of days for which individual pull requests are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the pull requests were waiting to be closed on a date.
-
-**Pull Requests Backlog Percentage By Organizations** shows a doughnut chart that represents the total number of pull requests in the project by organizations that are yet be closed. Mouse over a color in the chart to see the total number of pull requests by the organization, and their percentage of the project's organization.
-
-
 
 
 
