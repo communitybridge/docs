@@ -43,59 +43,51 @@ The percentile rank of a score is the percentage of scores in its frequency dist
 
 **Patchsets per Changeset** shows a stacked bar graph that represents the number of patchsets \(by percentile\) per changeset for a day. Mouse over a color in the graph to see the total number of patchsets per percentile.
 
-**Submitters** shows a table that lets you sort values by:
+**Submitters** shows a table that lists name of the submitter, total number of changesets submitted by the submitter for the project, total number of projects the submitter has submitted changeset to, and average number of patchsets submitted by a submitter over time.
 
-* Submitter: Name of the submitter
-* Changesets: Total number of changesets submitted by the submitter for the entire project
-* Projects: Total number of projects the submitter has submitted changeset to
-* Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
-
-**Repositories** shows a table that lets you sort values by: 
-
-* Repository: Name of the repository
-* Changesets: Total number of changesets submitted to the repository
-* Submitters: Number of contributors who submitted changesets to the repository
+**Repositories** shows a table that lists name of the repository, total number of changesets submitted to the repository, number of contributors who submitted changesets to the repository
 
 ## Efficiency
 
-Efficiency offers a view of efficiency closing reviews based on metrics: Review Efficiency Index \(REI\), Time to Merge, and Lead Time.
+Efficiency offers an overall view of understanding and optimizing project efficiency in closing/merging Gerrit Changesets.
 
-**Efficiency Closing Gerrit Reviews** lets you select an Organization and Repository as values for the dashboard data. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the project data by organization name, author name, and repository name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Review Efficiency Index** shows a multi-line graph that represents the REI. REI is the number of closed reviews divided by the number of open ones in a given period of time. This visualization measures efficiency closing reviews. REI Moving Avg. \(8 weeks\) identifies changes in trends. Average is also shown as a reference. REI values greater than 1 mean the community is closing more reviews than those they are opening. Values smaller than 1 mean the opposite—more reviews open than those closed during a given time frame. Mouse over this graph or **Lead Time** to show a line that displays the date and time at the top of the legend.
+**Summary** shows a cluster of
 
-![](../../../../.gitbook/assets/18088226.png)
+* 50th percentile of Time To Merge \(Days\): The number of days it took to merge 50 percent of the changesets.
+* 95th percentile of Time To Merge \(Days\): The number of days it took to merge 95 percent of the changesets.
+* Merged Changesets: Total number of changesets merged over time.
+* Organizations: Total number of organizations whose submitters authored the merged changesets.
+* Submitters: Total number of submitters whose changesets were merged.
+* Repositories: Total number of repositories the merged changesets belonged to.
 
-**Repositories** shows a table that displays the number of days 50th percentile of repository's reviews or changesets are open before they are closed. It gives an insight on the efficiency of closing reviews per repository.
+**Time to Merge** shows line graphs that represent number of changesets that took certain amount of time to get merged. These time slots are divided into four categories, such as less than 1 day, 1 to 7 days, 7 to 30 days, and more than 30 days. Hover mouse over the graph to view number of of PRs along with the time taken to get merged.
 
-**Time to Merge** shows a gauge that represents the time from issue creation to the moment in which it is merged. The gauge is set to show green color for less than 7 days, yellow for values from 7 to 30 days, and red from 30 to 90 days. This color scheme means that a week is considered as a good time to merge. The color scheme is just a visual reference and you can always rely on the number, ignoring this color scheme.
+* Less than 1 day: The number of changesets merged in less than one day.
+* 1 to 7 days: The number of changesets merged in more than one day but less than seven days.
+* 7 to 30 days: The number of changesets merged in more than seven days but less than thirty days.
+* More than 30 days: The number of changesets merged in more than thirty days.
 
-**Lead Time** shows a multi-line graph that represents the average Time to Merge expressed in days together to its trend. This helps to identify peaks and visualize the time spent in closing reviews.  Mouse over this graph or **REI** to show a line that displays the date and time at the top of the legend.
+**Repositories** shows a table that lists repositories, total number of merged changesets along with the time it took for 50% and 95% of the changesets to get merged per repository. Click a repository to navigate to GitHub to view details.
 
 ## Timing
 
 Timing shows information about open and closed changesets over time. The dashboard focuses on how long changesets remain open. Statistical information provides closing times and also tables with the latest and the oldest changesets.
 
-**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by repository, author who submitted changesets, and author who approved the changesets. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Gerrit Timing Summary** shows the total number of Changesets, Changeset Submitters, Repositories, and Average time in days to review the first changeset.
 
-**Changesets Open in Median** shows a bar graph that represents number of days for which 50% of total number of changesets are open. Mouse over a color in the graph to see the data.
+**Changesets Merged By Organization** shows graphs that display number of changesets merged by organizations over a period of time. Mouse over a color to view details related to an organization.
 
-**Changesets Open \(best 80 percentile\)** shows a bar graph that represents number of days for which 80% of total number of changesets are open. Mouse over a color in the graph to see the data.
+**Changesets Open in Median** shows a line graph that represents number of days for which 50% of total number of changesets are open. Mouse over a color in the graph to see the data.
 
-**Changesets By Status** shows a doughnut chart that represents the total number of changesets in the project by status: MERGED, ABANDONED, NEW, DRAFT. Mouse over a color in the chart to see the status, total number of changesets for the status, and the percentage of the project's changesets for that status.
+**Changesets Open \(best 80 percentile\)** shows a line graph that represents number of days for which 80% of total number of changesets are open. Mouse over a color in the graph to see the data.
 
-**Organizations** shows a doughnut chart that represents the total number of activities related to changeset, patchset, and approvals submitted  by an organization over a time range. Mouse over a color in the chart to see the total number of data activities for the organization, and their percentage.
+**Submitters** shows a table that lists name of the submitters, total number of changesets submitted by the submitter, average number of patchsets submitted by the submitter over time, and average number of days that the submitter's changesets are in open state.
 
-**Submitters** shows a table that lists
-
-* Submitter: Name of the submitter
-* Changesets: Total number of changesets submitted by the submitter
-* Avg. Patchsets: Average number of patchsets submitted by the submitter over time
-* Avg. Time Open \(Days\): Average number of days that the submitter's changesets are open
-
-**Repositories** shows a table that lists repository name, total number of changesets submitted to the repository, and total number of submitters of the repository.
+**Repositories** shows a table that lists repository name, total number of changesets submitted to the repository along with total number of submitters to the repository.
 
 **Changesets** shows a table that shows changeset URLs for the project. For each changeset, the table shows summary, number of days for which the changeset was open, submitter's name, changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
 
@@ -104,6 +96,10 @@ Timing shows information about open and closed changesets over time. The dashboa
 Backlog focuses on open changesets \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organizations.
 
 **Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
+**Summary** shows total number of new changesets that are in open state, cumulative number of days the changesets have been in open state, and average number of days each changeset has been in open state.
+
+**Backlog: NEW Changesets waiting to be Closed** shows a line graph that
 
 **NEW Changesets Statistics Summary** shows:
 
