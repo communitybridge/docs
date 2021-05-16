@@ -81,6 +81,32 @@ Following visualizations are deprecated in this release, and the dashboards are 
 
 **Organizations** shows a doughnut chart that represents the total number of activities related to changeset, patchset, and approvals submitted  by an organization over a time range. Mouse over a color in the chart to see the total number of data activities for the organization, and their percentage.
 
+### Gerrit Changeset Backlog
+
+NEW Changesets Statistics Summary shows:
+
+Total number of newly created Changesets over time.
+
+Accumulated Open Time in Days\(Status: NEW\) shows cumulative number of days for which each newly created changeset was open.
+
+Average Open Time in Days per Changeset \(Status: NEW\) shows average number of days for which each newly created changeset was open.
+
+Backlog: Accumulated Days waiting to be Closed shows a bar graph that represents the cumulative number of days for which individual changesets are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days issues were waiting to be closed on a date.
+
+Backlog: New Changesets waiting to be Closed shows a bar graph that represents the number of newly opened changesets that are yet to be closed, on a particular day.
+
+Changeset Backlog Percentage By Organization shows a doughnut chart that represents the total number of newly created changesets accumulated by an organization over a time range. Mouse over a color in the chart to see the total number of changesets, and their percentage.
+
+Changeset Submitters shows a table that lists
+
+Submitters: Name of the submitter
+
+Changesets: Total number of changesets submitted by the submitter for the entire project
+
+Projects: Total number of projects the submitter is submitting changeset for
+
+Avg Patchsets: Average number of patchsets submitted by a submitter over time. 
+
 ### GitHub Issues Efficiency
 
 **Efficiency Closing GitHub Issues** lets you select and organization and project as values for the dashboard data.

@@ -37,29 +37,19 @@ Overview shows information about issues in project repositories and who submitte
 
 ## Efficiency
 
-Efficiency offers an overall view of understanding and optimizing project efficiency in closing GitHub issues.
+Efficiency offers a view of efficiency closing issues based on metrics: Backlog Management Index \(BMI\), Lead Time, and Time to Close.
 
-**Filter** lets you filter the project data by organization name, author name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Efficiency Closing GitHub Issues** lets you select and organization and project as values for the dashboard data.
 
-**Summary** shows a cluster of 
+**Backlog Management Index** shows a multi-line graph that represents the Backlog Management Index \(BMI\). BMI is the number of closed issues divided by the number of open ones in a given period of time. Moving Avg. is set to 8 weeks to identify changes in trends. Average is also shown as a reference. BMI values greater than 1 mean the community is closing more issues than those they are opening. Values less than 1 mean the opposite—more issues are open than those closed during a given time frame. Mouse over this graph or **Lead Time** to show a line that displays the date and time at the top of the legend..
 
-* Total number of closed issues
-* Number of submitters whose issues are closed
-* Number organizations that helped in closing the issues
-* Repositories of the project to which the closed issues belong to
-* Number of days it took to close 50 percentage of the issues, and 
-* Number of days it took to close 95 percentage of the issues over time
+![](../../../../.gitbook/assets/18088187%20%281%29%20%281%29%20%281%29.png)
 
-**50th percentile of Time To Close By Repo** shows a cluster of top 10 repositories  names for which it took most time to close 50% of the issues.
+**Lead Time** shows a multi-line graph that represents the Average Time to Close issues expressed in days and what the trend is. This graph helps you to identify peaks and visualize the time spent in closing issues.
 
-**Time to Close** shows line graphs that represent number of issues that took certain amount of time to get closed. These time slots are divided into four categories, such as less than 1 day, 1 to 7 days, 7 to 30 days, and more than 30 days. Hover mouse over the graph to view number of of PRs along with the time taken to get merged.
+**Time to Close** shows a gauge that represents the time from issue creation to the moment in which it is closed. The gauge is set to show green color for less than 7 days, yellow for values from 7 to 30 days, and red from 30 to 90 days. This color scheme means that a week is considered as a good time to close. The color scheme is just a visual reference and you can always rely on the number, ignoring this color scheme.
 
-* Less than 1 day: The number of pull requests merged in less than one day.
-* 1 to 7 days: The number of pull requests merged in more than one day but less than seven days.
-* 7 to 30 days: The number of pull requests merged in more than seven days but less than thirty days.
-* More than 30 days: The number of pull requests merged in more than thirty days.
-
-**Repositories** shows a table that lists repository link, time it took for 50% and 95% of the issues to get closed per repository. Click a repository to navigate to GitHub to view details.
+**Median Time To Close Issues By Repositories** shows a table that lets you sort values by Repository and 50th percentile of Median Time Open \(days\).
 
 ## Timing
 
