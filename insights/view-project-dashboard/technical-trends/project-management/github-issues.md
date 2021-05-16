@@ -19,7 +19,7 @@ Overview shows information about issues in project repositories and who submitte
 
 **Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows the total number of Issues, Submitters, and Repositories for the project.
+**Summary** shows the total number of issues, submitters, and repositories for the project.
 
 **Issues by Organization Over Time** shows a stacked bar graph that represents the number of issues created by organizations per day.
 
@@ -69,7 +69,7 @@ Timing shows information about open and closed issues in time. The dashboard foc
 
 **Summary** shows the total number of Issues, Submitters, Assignees, and 50th percentile of Median Time Open \(Days\)—number of days for which 50% of open issues remained open.
 
-**Issues By Status** shows a stacked bar graph that represents the total number of issues over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issue for the status, and the date.
+**Issues By Status** shows a doughnut chart that represents the total number of issues over time in the project by status: closed or open. Mouse over a color in the graph to see the status, the total number of issue for the status, and the date.
 
 **Status** shows a doughnut chart that represents the total number of issues in the project by status: closed or open. Mouse over a color in the chart to see the status, the total number of issues for the status, and the percentage of the project's issues for that status.
 
