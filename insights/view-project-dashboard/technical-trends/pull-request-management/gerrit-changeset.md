@@ -115,7 +115,11 @@ Approvals shows statistics about changesets that are approved. The dashboard sho
 
 **Filter** lets you filter the dashboard data by repository, author who submitted changesets and author who approved changesets. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Total Approvals** shows total number of changesets submitted for the project, and the total number of approvals made for the changesets.
+**Total Approvals** shows 
+
+* Approvals: Sum of all approvals given on all the changesets
+* Changesets Approved: Number of changesets that were given an approval
+* Approvers: The number of reviewers that approved the changesets
 
 **Approvals By Organization** shows a doughnut chart that represents the number and percentage of changesets that are approved by the authors of the organization. Mouse over a color in the chart to view details.
 
