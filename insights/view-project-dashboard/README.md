@@ -2,6 +2,7 @@
 
 * [Project Group](./#project-group)
 * [Project Summary or Project Group Summary](./#project-project-group-summary)
+* [Compare and View overall Project Health ](compare-and-view-project-health.md)
 
 Refer the following for refining data for summary page and individual data sources:
 
@@ -31,5 +32,5 @@ When you navigate to a project's dashboard, by default the [Summary](technical-t
 
 ![Summary Page Groups](../../.gitbook/assets/summary-page-groups.png)
 
-**View Identities & Affiliations:** After you sign in as an administrator, you can view Identities & Affiliations beside Community Leaderboard if you have access to the dashboard. If you don't have access, click **Request To Edit Affiliations** from navigation bar to request for access. Click **Identities & Affiliations** to [view and manage](../identities-and-affiliations/) contributors' affiliations.
+**View Identities & Affiliations:** After you sign in as an administrator, you can view Identities & Affiliations below Community Leaderboard if you have access to the dashboard. Click **Identities & Affiliations** to [view and manage](../identities-and-affiliations/) contributors' affiliations. If you don't have access, click **Request To Edit Affiliations** from navigation bar to request for access.
 

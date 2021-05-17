@@ -2,7 +2,7 @@
 
 ## How does LFX Insights work?
 
-LFX Insights collects data for a project, segregates them to different data sources, such as source control for code related data, issue management for issues statuses, documentation for confluence and wiki pages, CI/CD for Jenkins, and so on. It represents these data on different visualization dashboards, such as graphs, charts, and tables.
+LFX Insights collects data for a project, segregates them to different data sources, such as source control for code related data, issue management for issues statuses, documentation for confluence and wiki pages, CI/CD for build systems, and so on. It represents these data on different visualization dashboards, such as graphs, charts, and tables.
 
 ## What is a Data Source?
 
@@ -11,6 +11,18 @@ Data sources are the collaboration tools or the remote servers that are used by 
 ## What are the Data Sources supported by The Linux Foundation?
 
 The Linux Foundation supports various data sources string from source control systems to social media platforms to collect and visualize project's data. For details, see [Supported Data Sources](supported-data-sources.md).
+
+## **Does Insights monitor forked repositories?**
+
+No, Insights does not monitor forked repositories. A repository that is forked from another public repository contains commits from upstream projects and the current version of Insights cannot correctly differentiate between the contributions done on the forked repository and those coming from upstream. Hence, as a rule Insights does not monitor forked repositories.
+
+## **What if a repository gets deleted on the Version Control System? Will the data thus collected be deleted too?**
+
+In case if a repository that was being monitored**,** and later is deleted, then we will keep the data from the old repository as historical endpoints, and the data will be reflected on the dashboards when queried for the time period during which there were activities on that repository.
+
+## **What are the changes introduced as a part of the latest Insights upgrade for Github?**
+
+With our latest upgrade to the github service, we are collecting more data than ever before**,** and producing many more metrics, such as detailed reviewer data and better efficiency statistics that were absent in the earlier versions. Since this upgrade affected the structure of the github data and the schema of the database, any github repository endpoint that can no longer be reached because they might have been deleted forever, and will not be included in our metrics reporting as we have no way to sync data for sync endpoints. If the repositories are renamed, then we can still process the data for the endpoint and there will be no loss in the data thus collected.
 
 ## Who can see LFX Insights reports?
 

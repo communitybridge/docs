@@ -34,6 +34,7 @@
   * [Supported Data Sources](insights/supported-data-sources.md)
   * [Platform Overview](insights/platform-overview.md)
   * [View Project Dashboard](insights/view-project-dashboard/README.md)
+    * [Compare and View Project Health](insights/view-project-dashboard/compare-and-view-project-health.md)
     * [Technical Trends](insights/view-project-dashboard/technical-trends/README.md)
       * [Summary](insights/view-project-dashboard/technical-trends/summary.md)
       * [Source Control](insights/view-project-dashboard/technical-trends/source-control/README.md)

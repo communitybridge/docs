@@ -1,15 +1,15 @@
 # Google Groups
 
-{% hint style="info" %}
-By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
-{% endhint %}
-
 The Google Groups dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows information about the google groups communication channel. Following are the various dashboards of CircleCI:
 
 * [Overview](google-groups.md#overview)
 * [Topics](google-groups.md#topics)
 
 ## Overview
+
+{% hint style="info" %}
+By default, Bot Commits are filtered for, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../../filter-data/add-and-manage-data-filters.md).
+{% endhint %}
 
 **Filter** lets you filter the dashboard data by group name, origin google groups channel, and project name. Select values from the drop down lists, and click **Apply Changes**.
 
