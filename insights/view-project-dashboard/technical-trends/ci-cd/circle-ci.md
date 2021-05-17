@@ -26,9 +26,7 @@ Workflow status by organization
 
 **Workflow status by origin repository** shows a table that lists origin repositories where the build job is created, target repository, number of build jobs by status: success, failed, and cancelled. 
 
-**Job run count** shows table that lists total number of build jobs, related project name, and 
-
-
+**Job run count** shows table that lists the job number, related project name, and number of times the job was run to complete the workflow.
 
 ## Jobs
 
