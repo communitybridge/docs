@@ -7,7 +7,7 @@ By default, Bot Commits are filtered, however, you can include the filter value 
 The Google Groups dashboard is available from the **Mailing List** drop-down list, and represents a set of metrics that shows information about the google groups communication channel. Following are the various dashboards of CircleCI:
 
 * [Overview](google-groups.md#overview)
-* [Jobs](google-groups.md#jobs)
+* [Topics](google-groups.md#topics)
 
 ## Overview
 
@@ -29,5 +29,13 @@ The Google Groups dashboard is available from the **Mailing List** drop-down lis
 
 **Active Participants** shows a table that lists name of the persons who sent emails along with how many emails the participant sent, and in how many groups the email is shared.
 
-## Jobs
+## Topics
+
+**Filter** lets you filter the dashboard data by group name, origin google groups channel name, and project name. Select values from the drop down lists, and click **Apply Changes**.
+
+**Topics Trend Per Week** displays a line graph that shows the gradual increase or decrease in the number of topics discussed per week for monitored groups over time. Mouse over a point in the graph to view details.
+
+**Activity Per Topic** shows a table that lists top 10 most active topics, related google group names, and number of emails shared along with number of participants per topic.
+
+**Top 10 Active Topics** shows a doughnut chart that displays top 10 active topics on which maximum communication is happening along with the number and percentage of discussions per topic for monitored groups. Mouse over a color in the chart to view details.
 
