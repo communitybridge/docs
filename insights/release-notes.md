@@ -35,7 +35,7 @@ We added key metrics including:
 * **Workflow Duration Trend:** Workflow completion time trend analysis. Project maintainers can use this metric to help identify the effects of major code updates on the build pipeline, or to track against a goal of reducing build duration time.
 
 {% hint style="info" %}
-**Note:** You can view some visualizations on different data sources are renamed, changed, or completely enhanced for better user understanding and data retrieval. Consider the current visualizations as the most recent and updated ones.
+**Note:** You can view some visualizations on different data sources are renamed, changed, or completely enhanced for better user understanding and more clarity in data retrieval. Consider the current visualizations as the most recent and updated ones.
 {% endhint %}
 
 
