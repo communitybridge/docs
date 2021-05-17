@@ -18,11 +18,11 @@ The CircleCI dashboards under CI/CD drop-down list represents a set of metrics t
 
 **Workflow duration trend** shows line graphs that display minimum and maximum time \(in minutes\) taken to complete a workflow. It also displays the average time \(in minutes\) taken by 50% of the total number of workflows to be completed.
 
-Workflow Duration \(minutes\) 95th Percentile shows a bar graph that displays 
+**Workflow Duration \(minutes\) 95th Percentile** shows a bar graph that displays time  taken in minutes to complete 95% of total build jobs created per day.
 
 **Workflow status by author** shows a table that lists name of authors, total number of workflows \(by status\) created by the author: success, failed, cancelled, and approved.
 
-Workflow status by organization 
+**Workflow status by organization** shows a table that lists name of organizations the authors belong to, total number of workflows \(by status\) created by the authors of the organization: success, failed, and cancelled.
 
 **Workflow status by origin repository** shows a table that lists origin repositories where the build job is created, target repository, number of build jobs by status: success, failed, and cancelled. 
 
