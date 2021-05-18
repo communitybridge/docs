@@ -53,10 +53,10 @@ Active Community Contributor board displays an aggregated data of individual con
 |  | **Issues Avg Days In Open** | Average number of days for which the issues created by the contributor in Bugzilla, are in open state. |
 | **Confluence** |  | Following metrics are shown under Confluence wiki page doc management data source. |
 |  | **Comments** | Total number of comments give by the contributor on confluence over time. |
-|  | **Posts** | Total number articles, topics, images, videos or any files posted by the contributor over time. |
+|  | **Posts** | Total number blog posts created by the contributor over time. |
 | \*\*\*\* | **Pages Created** | Total number of confluence pages created by the contributor over time. |
 |  | **Pages Edited** | Total number of confluence pages edited by the contributor over time. |
-|  | **Attachments** | Total number of documents or files attached over confluence pages by the contributor over time. |
+|  | **Attachments** | Total number of documents or files of any format the contributor attached to confluence pages over time. |
 |  | **Last Update** | Date when the contributor had contributed for the last time to wiki pages on confluence. |
 | \*\*\*\* | **Days since Last Documentation** | Total number of days since the contributor has not contributed anything to wiki pages on confluence. |
 

@@ -21,8 +21,6 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Summary** shows total number of issues, submitters , and projects.
 
-**Backlog** shows a line graph shows the total number of issues in open state over time.
-
 **Issues by Status** shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
 **Issues Assigned To Organization** shows a stacked bar graph that represents the number of issues assigned to an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues assigned to the organization on a date.
