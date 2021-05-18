@@ -15,28 +15,35 @@ Active Community Contributor board displays an aggregated data of individual con
 | **Author Name** |  | Name of the contributor |
 | **Organization** |  | Name of affiliated organization |
 | **Email Id** |  | Email address of the contributor **Note:** Only **Project Administrators**, after signing in, can view Email Ids of contributors. |
-| **Code** |  |  |
-|  | **Commits** | Total number of codes committed by the contributor  to git repositories over time |
+| **Code** |  | Following metrics are shown for Code data source. |
+|  | **Commits** | Total number of codes committed by the contributor to git repositories over time. |
 | \*\*\*\* | **LOC Added** | Total number of lines of code added by the contributor to git repositories over time. |
 | \*\*\*\* | **LOC Modified** | Total number of lines of code modified by the contributor on git repositories over time. |
 | \*\*\*\* | **LOC Deleted** | Total number of lines of code deleted by the contributor on git repository over time. |
-| **GitHub PRs** |  |  |
+| **GitHub PRs** |  | Following metrics are shown for GitHub PRs data source. |
 |  | **PRs Created** | Total number of pull requests created by the contributor over time. |
-|  | **PRs Open** | Total number of pull requests, submitted by the contributor, that are in open state over time. |
-|  | **PRs Closed** | Total number of pull requests, submitted by the contributor, that are closed over time. |
-|  | **PRs Merged** | Total number of pull requests, submitted by the contributor, that are merged to GitHub over time. |
-|  | **PRs Reviewed** | Total number of pull requests, submitted by the contributor, that are reviewed over time. |
-|  | **PRs Approved** |  |
-|  | **PRs Review Comments** |  |
-|  | PRs Comment Activity |  |
-| **Gerrit** |  |  |
-|  | **Approvals** |  |
-|  | **Active Changesets** |  |
-|  | Merged Changesets |  |
-|  | Review Comments |  |
-| **Jira**  |  |  |
-|  | **Comments** |  |
-|  | **Issues Assigned** |  |
+|  | **PRs Open** | Number of pull requests, out of all created PRs by the contributor, that are in open state over time. |
+|  | **PRs Closed** | Number of pull requests, out of all created PRs by the contributor, that are closed over time. |
+|  | **PRs Merged** | Number of pull requests, out of all created PRs by the contributor, that are merged over time. |
+|  | **PRs Reviewed** | Total number of pull requests reviewed  by the contributor over time. |
+|  | **PRs Approved** | Total number of pull requests approved by the contributor over time. |
+|  | **PRs Review Comments** | Total number of review comments given by the contributor for all pull requests. |
+|  | **PRs Comment Activity** | Total number of review comments, code comments, and conversation comments given by the contributor for PRs. |
+| **Gerrit** |  | Following metrics are shown for Gerrit data source. |
+|  | **Approvals** | Total number of Gerrit changesets approved by the contributor. |
+|  | **Active Changesets** | Total number of Gerrit changesets, submitted by the contributor, that are in active state. |
+|  | **Merged Changesets** | Number of changesets, out of all submitted changesets by the contributor, that are merged over time. |
+|  | **Review Comments** | Total number of review comments given by the contributor for all changesets. |
+| **Jira**  |  | Following metrics are shown for Jira issue management data source. |
+|  | **Comments** | Total number of comments given by the contributor for Jira issues. |
+|  | **Issues Assigned** | Total number of Jira issues assigned to the contributor over time. |
+|  | **Issues Created** | Total number of Jira issues created by the contributor. |
+|  | Issues Closed | Total number of Jira issues closed by the contributor. |
+|  | Issues Avg Days In Open |  |
+| **GitHub Issues** |  |  |
+|  | Issues Avg Days In Open |  |
+|  |  |  |
+|  |  |  |
 | **Gerrit Merges** |  | Total number of changesets submitted by the contributor that are merged over time. |
 | **Gerrit Approvals** |  | Total number of changesets and patchsets submitted by the contributor that are approved for merge over time. |
 | **Jira Comments** |  | Total number of comments provided by the contributor for different Jira issues over time. |
