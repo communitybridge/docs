@@ -60,6 +60,8 @@ Efficiency offers an overall view of understanding and optimizing project effici
 * Submitters: Total number of submitters whose changesets were merged.
 * Repositories: Total number of repositories the merged changesets belonged to.
 
+**50th Percentile of Time To Merge By Repo** shows a cloud of top 10 repositories for which it took the most time for 50% of the changesets to get merged. Click  a repository to filter the dashboard data to view metrics related to the repository.
+
 **Time to Merge** shows line graphs that represent number of changesets that took certain amount of time to get merged. These time slots are divided into four categories, such as less than 1 day, 1 to 7 days, 7 to 30 days, and more than 30 days. Hover mouse over the graph to view number of of PRs along with the time taken to get merged.
 
 * Less than 1 day: The number of changesets merged in less than one day.
@@ -75,19 +77,21 @@ Timing shows information about open and closed changesets over time. The dashboa
 
 **Filter** lets you filter the dashboard data by repository, author who submitted changesets, and author who approved the changesets. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Gerrit Timing Summary** shows the total number of Changesets, Changeset Submitters, Repositories, and Average time in days to review the first changeset.
+**Summary** shows the total number of changeset submitters, number of new, merged, and abandoned changesets, and average number of days the changesets are open, and average number of days it took for the changesets to be merged.
 
-**Changesets Merged By Organization** shows graphs that display number of changesets merged by organizations over a period of time. Mouse over a color to view details related to an organization.
+**Changesets By Organization** shows a doughnut chart that represent number and percentage of changesets submitted by an organization over a time period. Mouse over a color to view details related to an organization.
 
-**Changesets Open in Median** shows a line graph that represents number of days for which 50% of total number of changesets are open. Mouse over a color in the graph to see the data.
+**Median Time To Merge \(Days\)** shows line graphs that represent the increase or decrease in time it takes for 50 percent of the changesets to be merged.
 
-**Changesets Open \(best 80 percentile\)** shows a line graph that represents number of days for which 80% of total number of changesets are open. Mouse over a color in the graph to see the data.
+**Submitters** shows line graphs that represent the increase or decrease in the number of changeset submitters and their affiliated organizations over time.
 
-**Submitters** shows a table that lists name of the submitters, total number of changesets submitted by the submitter, average number of patchsets submitted by the submitter over time, and average number of days that the submitter's changesets are in open state.
+**Median Time To First Review** shows line graphs that represent the 50th percentile of days it takes for a changeset to get reviewed in a given timeframe.
 
-**Repositories** shows a table that lists repository name, total number of changesets submitted to the repository along with total number of submitters to the repository.
+**Organizations** shows a table that lists organization name, number of submitters from the organization, number changesets submitted by the organization's submitters, number of changesets in different stages, such as new, merged and abandoned, average number of patchsets submitted per total changesets, and average number of days it took to merge the changesets for an organization.
 
-**Changesets** shows a table that shows changeset URLs for the project. For each changeset, the table shows summary, number of days for which the changeset was open, submitter's name, changeset status, and the date the changeset was opened. You can click a URL to go to the changeset in the project.
+**Submitters** shows a table that lists name of the submitters, total number of changesets submitted by the submitter, number of changesets in different stages, such as new, merged and abandoned, average number of patchsets submitted by the submitter over time, and average number of days it took to merge the changesets submitted by a submitter.
+
+**Repositories** shows a table that lists repository name, total number of changesets submitted to the repository, total number of submitters, number of changesets \(submitted to the repository\) in different stages, such as new, merged and abandoned , average number of patchsets per changesets over time, and average number of days it took to merge the changesets for a repository.
 
 ## Backlog
 
