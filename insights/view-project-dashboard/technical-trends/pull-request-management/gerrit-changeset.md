@@ -103,19 +103,15 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 
 **Changeset Backlog Percentage By Organization** shows a doughnut chart that displays number and percentage of changesets created by on organization over time. Mouse over a color to view details.
 
+**Backlog \(New Changesets\)** shows a table that provides a summary of oldest changesets that are waiting to be closed. It lists backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was created, and the number of days that the backlog was in open state. Click a URL to go to the changeset in the project.
 
+**Backlog** shows line graphs that displays the number of new changesets created over time.
 
+**Backlog By Submitters** shows a table that provides summary of new changesets created by individual submitters. It lists submitter's names, number of changesets and average number of patchsets created by the submitter, and average number of days the changesets have been in open state.
 
+**Backlog By Organizations** shows a table that provides summary of new changesets created by organizations. It lists organizations' names, number of submitters of the organization, number of changesets and average number of patchsets created by the organizations' submitters, and average number of days the changesets have been in open state.
 
-**Backlog: NEW Changesets waiting to be Closed** shows a line graph that shows number of new changesets created over time. Mouse over the graph to view numbers over time.
-
-\*\*\*\*
-
- **Changeset Submitters** shows a table that lists name of submitters, number of changesets, average number patchsets submitted the submitter, and average number of days the changesets are in open state for a submitter.
-
-Organizations shows a table that lists name of the organization, number of changesets, submitters of the organization, and average number of days the changesets are open submitted by an organization.
-
-**Backlog** shows a table that lists backlog URLs for the project. For each backlog, the table shows the backlog summary, the submitter name, the date and time the changeset was opened, and the number of days that the backlog was open. Click a URL to go to the changeset in the project.
+**Backlog By Repositories** shows a table that provides summary of new changesets submitted to repositories. It lists repository names, number of submitters to the repository, number of changesets and average number of patchsets submitted to the repository, and average number of days the changesets have been in open state for a repository.
 
 ## Approvals
 
@@ -123,7 +119,7 @@ Approvals shows statistics about changesets that are approved. The dashboard sho
 
 **Filter** lets you filter the dashboard data by repository, author who submitted changesets and author who approved changesets. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Total Approvals** shows 
+**Summary** shows 
 
 * Approvals: Sum of all approvals given on all the changesets
 * Changesets Approved: Number of changesets that were given an approval
@@ -139,9 +135,9 @@ Approvals shows statistics about changesets that are approved. The dashboard sho
 
 **Approvals Done by Reviewer** shows a table that lists reviewer name, number of changes approved by the reviewer, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer for the repository over time.
 
-**Approvals By Reviewer Per Repo** shows a table that lists name of the reviewer, corresponding repository the reviewer worked upon, number of changesets approved by the reviewer for the repository, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewer for the repository over time.
+**Approvals by Reviewer Organization** shows a table that provides summary of organizations that approved changesets. It lists name of the organization that approved changesets, number of changesets approved by the organization, and number of code review ratings \(-2, -1, 1, 2\) given by the reviewers of the organization over time.
 
-**Approvals Received** shows a table that lists name of the changeset submitter, number of approvals received by the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the reviewer for the repository over time.
+**Approvals Received** shows a table that provides summary of changeset submitters who received maximum number of approvals. It lists name of the changeset submitter, number of approvals received by the submitter, and number of code review ratings \(-2, -1, 1, 2\) received by the submitter over time.
 
 ## Reviews
 
@@ -149,19 +145,19 @@ Reviews shows metrics about reviewed changesets. The dashboard shows reviewers, 
 
 **Filter** lets you filter the dashboard data by reviewer name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows the total number of changesets, total number of individuals who reviewed changesets, total number approved changesets, total number of review comments for the submitted changesets, and average time in days to review the first changeset.
+**Summary** shows the total number of changesets, total number of individuals who reviewed changesets, total number approved changesets, total number of review comments received for the submitted changesets, and average time in days it took to review the first changeset.
 
-**Review Types** shows a doughnut chart that represents the total number of changesets in the project by review status: Comment, Approval, Patchset, and Changeset. Mouse over a color in the chart to see the status, total number, and percentage of changesets by review status.
+**Repos By Review Activity** shows a cloud of top 10 repositories where maximum number of review activities happened. Click a repository to view the dashboard data specific to the repository.
 
-**Median Time to First Review** shows a graph that represents number of days taken to first review a changeset over a period of time. Mouse over a color in the graph to see the data.
+**Review Types** shows a doughnut chart that represents the total number and percentage of changesets in the project by review status: Comment, Approval, Patchset, and Changeset. Mouse over a color in the chart to see the status, total number, and percentage of changesets by review status.
 
-**Median Time to First Approval** shows a graph that represents number of days taken for first approval a changeset over a period of time. Mouse over a color in the graph to see the data.
+**Median Time to First Review** shows a graph that displays 50th percentile of days it takes for a changeset to get a review in a given timeframe_._ Mouse over a color in the graph to see the data.
 
-**Changesets Merged Without Approval** shows graph that displays number of changesets that are merged without approval over a period of time.
+**Changesets Merged Without Approval** shows graph that displays number of changesets that are merged without going through a approval process, over a period of time.
 
-**Repository Changeset Review Summary** shows a table that displays review activity per repository, and lets you sort values by repository name, number of submitters and reviewers per repository, number review comments, approvals, and changesets.
+**Repository Changeset Review Summary** shows a table that displays review activity per repository, and lets you sort values by repository name, number of submitters and reviewers per repository, total number of changesets submitted to the repository, number review comments and approvals received for changesets per repository.
 
-**Organization Changeset Review Summary** shows a table that displays review activity per organization, and lets you sort values by organization name, number of submitters and reviewers per organization, number review comments, approvals, and changesets.
+**Organization Changeset Review Summary** shows a table that displays review activities per organization, and lets you sort values by organization name, number of submitters and reviewers of an organization, total number of changesets submitted by an organization, number review comments and approvals given by an organization's submitters over time.
 
-**Reviewer Activity** shows a table that displays activities by top reviewers, and lets you sort values by reviewer name, reviewer's organization name, number of approved changesets, and review comments.
+**Reviewer Activity** shows a table that displays activities by top reviewers. It list reviewer name, reviewer's organization name, number of  changesets and patchsets reviewed by the reviewer, number of review comments given, number of changesets approved by the reviewer along with the total number of activities done by the reviewer.
 
