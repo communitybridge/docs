@@ -34,11 +34,11 @@ Following are the various issue tracking system data sources currently supported
 
 #### Build Systems
 
-Insights supports [Jenkins](view-project-dashboard/technical-trends/ci-cd/jenkins.md) and CircleCI as two of the popular build system data sources.
+Insights supports [Jenkins](view-project-dashboard/technical-trends/ci-cd/jenkins.md) and [CircleCI](view-project-dashboard/technical-trends/ci-cd/circle-ci.md) as two of the popular build system data sources.
 
 #### Email Systems
 
-Insights supports [Pipermail](view-project-dashboard/ecosystem-trends/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-trends/mailing-list/groupsio.md), and Google Groups as email systems to visualize project related communication activities.
+Insights supports [Pipermail](view-project-dashboard/ecosystem-trends/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-trends/mailing-list/groupsio.md), and [Google Groups](view-project-dashboard/ecosystem-trends/mailing-list/google-groups.md) as email systems to visualize project related communication activities.
 
 ## In Progress 
 
