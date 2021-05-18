@@ -100,8 +100,6 @@ Backlog focuses on open pull requests \(data is retrieved at the moment of dashb
 
 **Backlog \(Open Pull Requests\)** shows a table that provides a summary of oldest PRs that are in open states, and are waiting to be closed. It lists PR URLs for the project. For each PR, the table shows the summary, date and time the PR was created, and how long \(in days\) the PR have been in open state. Click a URL to go to the changeset in the project.
 
-shows a table that lets you sort values by Summary, URL, Open Date, and average time in days the pull requests are in open stat. Click the URL to go to the pull request in the project.
-
 **Backlog** shows a line graph that represents the number of pull requests that are open on a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
 
 **Backlog By Submitters** shows a table that lists submitter name, number of pull requests raised by the submitter, number of repositories the submitter worked upon, and average time in days the pull requests are in open state for a submitter.
