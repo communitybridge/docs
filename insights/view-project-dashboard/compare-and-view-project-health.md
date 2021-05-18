@@ -5,7 +5,7 @@ Project Health Dashboard lets you view the overall code contributions to the pro
 Compare Project Health dashboard serves two purposes: Comparing various key metrics for different time lines for a single project, and comparing key metrics between two or more projects in different time lines.
 
 {% hint style="info" %}
-**Note:** For better comparing of metrics between projects, compare projects that have the same data sources as version control or issue management systems. If you compare projects that use different data sources, the side-by-side comparison will not be available, and metrics will show separately. For example if you compare between Onap and Yocto, Onap uses Jira and Yocto uses Bugzilla as issue management systems, the comparison of metrics won't be available side-by-side, rather will have metrics separately.
+**Note:** For better comparing of metrics between projects, compare projects that have the same data sources as version control or issue management systems. If you compare projects that use different data sources, the side-by-side comparison will not be available, and metrics will show separately. For example if you compare between Onap and Yocto, Onap uses Jira and Yocto uses Bugzilla as issue management systems, the comparison of these two metrics will not be displayed side-by-side, rather will show separately.
 {% endhint %}
 
 **To View Project Health Dashboard:**
