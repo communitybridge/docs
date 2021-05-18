@@ -12,7 +12,7 @@ The following new features are added in May 2021 release of LFX Insights:
 
 * [GitHub – Reviews Dashboard & Efficiency Metrics](release-notes.md#github-reviews-dashboard-and-efficiency-metrics)
 * [Google Groups and Circle CI](release-notes.md#google-groups-and-circleci)
-* [Gerrit Changesets Reviews and Approval Dashboards](release-notes.md#gerrit-changesets-reviews-and-approval-dashboards)
+* [Gerrit Changeset Dashboards](release-notes.md#gerrit-changeset-dashboards)
 
 For more information on added features, see [https://lfx.linuxfoundation.org/blog/lfx-insights-release-may-2021**/**](https://lfx.linuxfoundation.org/blog/lfx-insights-release-may-2021/)\*\*\*\*
 
@@ -26,9 +26,9 @@ New GitHub Reviews Dashboard and an improved GitHub Efficiency Dashboard are add
 
 **Circle CI Dashboards:** LFX Insights supports a new build system— CircleCI, providing various builds related-metrics right on the Insights dashboard for your project, helping you monitor your project’s build pipeline and improve workflow efficiency. For details about visualizations, see [CircleCI](view-project-dashboard/technical-trends/ci-cd/circle-ci.md).
 
-### Gerrit Changesets Reviews and Approval Dashboards
+### Gerrit Changeset Dashboards
 
-Gerrit Changesets Reviews and Approval Dashboards are redesigned to help project maintainers analyze and set goals around changeset approvals and merge times. For details about the added visualizations, see [Gerrit Changeset Reviews](view-project-dashboard/technical-trends/pull-request-management/gerrit-changeset.md#reviews) and [Gerrit Changeset Approvals](view-project-dashboard/technical-trends/pull-request-management/gerrit-changeset.md#approvals).
+Gerrit Changesets Dashboards are redesigned to help project maintainers analyze and set goals around changeset approvals and merge times. For details about the added/enhanced visualizations, see [Gerrit Changeset](view-project-dashboard/technical-trends/pull-request-management/gerrit-changeset.md).
 
 {% hint style="info" %}
 **Note:** You can view some visualizations on different data sources, such as Gerrit Changesets' approval and reviews dashboards are renamed, changed, or completely enhanced for better user understanding and more clarity in data retrieval. Consider the current visualizations as the most recent and updated.
