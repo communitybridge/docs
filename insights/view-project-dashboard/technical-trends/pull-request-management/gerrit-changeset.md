@@ -99,11 +99,17 @@ Backlog focuses on open changesets \(data is retrieved at the moment of dashboar
 
 **Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows total number of new changesets that are in open state, cumulative number of days the changesets have been in open state, and average number of days each changeset has been in open state.
+**Summary** shows total number of new changesets that are in open state, number of repositories where the new changesets are submitted, and are in open state, and average number of days changesets have been in open state.
+
+**Changeset Backlog Percentage By Organization** shows a doughnut chart that displays number and percentage of changesets created by on organization over time. Mouse over a color to view details.
+
+
+
+
 
 **Backlog: NEW Changesets waiting to be Closed** shows a line graph that shows number of new changesets created over time. Mouse over the graph to view numbers over time.
 
-**Changeset Backlog Percentage By Organization** shows a doughnut chart that displays number and percentage of changesets created by on organization over time. Mouse over a color to view details.
+\*\*\*\*
 
  **Changeset Submitters** shows a table that lists name of submitters, number of changesets, average number patchsets submitted the submitter, and average number of days the changesets are in open state for a submitter.
 
