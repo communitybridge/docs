@@ -10,8 +10,9 @@ By default, Bot commit is filtered. To add/manage filters, see [Add and Manage D
 * [Efficiency](github-pr.md#efficiency)
 * [Timing](github-pr.md#timing)
 * [Backlog](github-pr.md#backlog)
+* [Reviews](github-pr.md#reviews)
 
-By default, **Bots** filter is applied. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
+By default, **Bot** commits are filtered. To apply more filters, see [add and manage data filters](../../../filter-data/add-and-manage-data-filters.md).
 
 Click ![](../../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
@@ -39,20 +40,20 @@ Overview shows all the information about pull requests for a project.
 
 ## Efficiency
 
-Efficiency offers an overall view of understanding and optimizing project efficiency in closing GitHub issues.
+Efficiency offers an overall view of understanding and optimizing project efficiency in closing GitHub Pull Requests.
 
 **Filter** lets you filter the project data by organization name, author name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows a cluster of 
+**Summary** shows a cluster of
 
-* Total number of closed issues
-* Number of submitters whose issues are closed
-* Number organizations that helped in closing the issues
-* Repositories of the project to which the closed issues belong to
-* Number of days it took to close 50 percentage of the issues, and 
-* Number of days it took to close 95 percentage of the issues over time
+* 50th percentile of Time To Merge \(Days\): The number of days it took to merge 50 percent of the pull requests.
+* 95th percentile of Time To Merge \(Days\): The number of days it took to merge 95 percent of the pull requests.
+* Merged PRs: Total number of pull requests merged.
+* Organizations: Total number of organizations whose submitters authored the merged pull requests.
+* Submitters: Total number of submitters whose pull requests were merged.
+* Repositories: Total number of repositories the merged pull requests belonged to.
 
-**50th percentile of Time To Close By Repo** shows a cluster of top 10 repositories  names for which it took most time to close 50% of the issues.
+**50th percentile of Time To Close By Repo** shows a cluster of top 10 repositories  names for which it took most time to merge 50% of the pull requests.
 
 **Time to Merge** shows a graph that displays number of Pull Requests that took certain amount of time to get merged. These time slots are divided into four categories, such as less than 1 day, 1 to 7 days, 7 to 30 days, and more than 30 days. Hover mouse over the graph to view number of of PRs along with the time taken to get merged.
 
@@ -75,13 +76,13 @@ Timing shows information about open and closed pull requests in time. The dashbo
 
 **Median Time to Merge \(Days\)** shows a line graph that represents number of days it took for 50% of open pull requests \(out of all PRs created on a date\) to get merged . Mouse over a color in the graph to see the number.
 
-**Submitters** shows a line graph that represents the number of pull request submitters and organizations over time. Mouse over a color in the graph to view the date and number of organizations and submitters that created PRs.
+**Submitters** shows line graphs that represent the number of submitters and organizations who raised pull request over time. Mouse over a color in the graph to view the date and number of organizations and submitters that created PRs.
 
-**Median Time To First Review**
+**Median Time To First Review** shows a line graph that displays the number days it takes for 50% of the pull request to get their first review over time.
 
-**Median Time To First Approval** 
+**Median Time To First Approval** shows a line graph that displays the number days it takes for 50% of the pull request to get their first approval over time.
 
-**Submitters**
+**Submitters** shows a table that lists name of submitters, number of pull requests raised by the submitter, number of repositories the submitter worked upon, total number pull requests raised by the submitter by status, such as merged, rejected and open states, and average time in days it takes to merge the pull request submitted by the submitter.
 
 **Organizations** shows a table that lists organization name, total number of pull requests submitted by the organization along with number of PRs by status, such as merged, rejected and open state, and average time taken in days to merge the PRs per organization.
 
@@ -89,21 +90,57 @@ Timing shows information about open and closed pull requests in time. The dashbo
 
 ## Backlog
 
-Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, and associated organization.
+Backlog focuses on open pull requests \(data is retrieved at the moment of dashboard creation\), their accumulated time, associated organizations and submitters.
 
-**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name, organization name, repository name and URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Open Pull Requests Statistics Summary** shows the total number of Open Pull Requests, cumulative number of days for which individual PRs are open, and the average time in days Open per Pull Request.
+**Summary** shows total number of pull requests in open state, total number of repositories having pull requests in open state, and average number of days pull requests have been in open state.
 
-**Backlog \(Open Pull Requests\)** shows a table that lets you sort values by Summary, URL, Open Date, and Days Open. Click **+Info** to open the URL to go to the pull request in the project.
+**Pull Request Backlog Percentage By Organizations** shows a pie chart that displays the number and percentage of pull requests in open state by organization. Mouse over a color in the chart to view details.
 
-**Backlog** shows a bar graph that represents the number of pull requests that are open on a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
+**Backlog \(Open Pull Requests\)** shows a table that provides a summary of oldest PRs that are in open states, and are waiting to be closed. It lists PR URLs for the project. For each PR, the table shows the summary, date and time the PR was created, and how long \(in days\) the PR have been in open state. Click a URL to go to the changeset in the project.
 
-**Backlog: Pull Requests \(Accumulated Over Time\)** shows a bar graph that represents the cumulative number of days for which individual pull requests are open, on a particular date. Mouse over a color in the graph to see the accumulated number of days the pull requests were waiting to be closed on a date.
+shows a table that lets you sort values by Summary, URL, Open Date, and average time in days the pull requests are in open stat. Click the URL to go to the pull request in the project.
 
-**Pull Requests Backlog Percentage By Organizations** shows a doughnut chart that represents the total number of pull requests in the project by organizations that are yet be closed. Mouse over a color in the chart to see the total number of pull requests by the organization, and their percentage of the project's organization.
+**Backlog** shows a line graph that represents the number of pull requests that are open on a particular day. Mouse over a color in the graph to see the total number of pull requests on a date.
 
-**Organizations** shows a table that lets you sort values by Organization, Pull Requests Open, Submitters, and Repositories.
+**Backlog By Submitters** shows a table that lists submitter name, number of pull requests raised by the submitter, number of repositories the submitter worked upon, and average time in days the pull requests are in open state for a submitter.
 
-**Backlog Submitters** shows a table that lets you sort values by Submitter, Pull Requests, Avg. Time Open \(Days\), and Repositories.
+**Backlog By Organizations** shows a table that lists organization name, number of pull requests raised by the organization, number of submitters from the organization, number of repositories the submitters of the organization worked upon, and average number of days the pull requests raised by the organization are in open state.
+
+**Backlog By Repositories** shows a table that lists repository URL, number of pull requests raised, number of submitters, and average number of days the pull requests are in open state per repository.
+
+## Reviews
+
+Reviews provides an overall analysis of reviewed pull requests, approved ones, dismissals, average time to first review, approve, and so on along with the associated organizations and reviewers.
+
+**Filter** lets you filter the dashboard data by reviewer name, organization name, repository name and URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+
+**Summary** shows the following details:
+
+* Submitted: Total number of PRs created \(submitted\) and reviewed across all monitored repositories.
+* Reviewers: Total number of unique PR reviewers across all monitored repositories.
+* Approvals: Total number of approvals received on all submitted PRs.
+* Changes Requested: Total number of 'Request Changes' received on all submitted PRs.
+* Review Comments: Total number of Comments received on all submitted PRs.
+* Dismissed: Total number of PR reviews being dismissed.
+* Avg. Time to First Review: The average time it took to get the first review on the PR across all submitted PRS.
+
+**Repos By Review Activity** shows a cluster of top 10 repositories on which most review activity happened. Click a repo to view dashboard data specific to the repository.
+
+**PR Review States** shows a doughnut chart that displays the number and percentage of pull request reviews by state, such as commented, approved, changes requested, and dismissed. Mouse over a color to view details.
+
+**Median Time To First Review** shows a line graph that displays the 50th percentile of days it takes for a pull request to get a review in a given timeframe. Mouse over the graph to view details.
+
+**Median Time To First Approval** shows a line graph that displays the 50th percentile of days it takes for a pull request to get an approval in a given timeframe. Mouse over the graph to view details.
+
+**PRs Merged Without Approval** shows a line graph that shows the number of pull requests merged without approval on a particular day. Mouse over the graph to view details.
+
+**Repository PR Review Summary** shows a table that lists repository URL, number of submitters, reviewers, review comments received per repository, and number of approved, changes requested, and dismissed PRs per repository over time.
+
+**Organization PR Review Summary** shows a table that lists organization name, total number of pull requests raised by the organization, number of reviewers, review comments received for PRs raised by the organization, and number of approved, changes requested, and dismissed PRs per organization over time.
+
+**Reviewer Activity** shows a table that lists reviewer names, total number of activity by the reviewer, number of approved, changes requested, review comments and dismissed PRs per reviewer over time. Total Activity is the sum of all activities done by the reviewer, such as how many PRs they approved, provided comments for, dismissed, and requested changes.
+
+**Latest PRs Review Activity** shows a table that lists GitHub pull request link, date on which the PR is created, and if the PR is approved or dismissed, or any number of review comments and changes requested for the PR. Numbers as one and zero are used to indicate true or false for approved and dismissed PRs.
 
