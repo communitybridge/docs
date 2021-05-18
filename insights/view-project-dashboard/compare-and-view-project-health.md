@@ -1,13 +1,12 @@
 # Compare and View Project Health
 
-You can anytime view the overall metrics of a project for a given time period. Project Health Dashboard lets you visualize the overall code commits, pull requests, changesets, issues, and related data source statistics for a given project, and also provides the ability to compare the project statistics between two or more projects. Following are the data sources currently supported by LFX Insights for viewing the overall project health:
+Project Health Dashboard lets you view the overall code contributions to the project for two data sources: **Version Control Systems** that include Git, GitHub, and Gerrit, and **Issue Management Systems** that include GitHub Issues, Jira, and Bugzilla.
 
-* Git
-* Github Pull Requests
-* Github Issues
-* Gerrit 
-* Jira
-* Bugzilla / Bugzilla Rest
+Compare Project Health dashboard serves two purposes: Comparing various key metrics for different time lines for a single project, and comparing key metrics between two or more projects in different time lines.
+
+{% hint style="info" %}
+**Note:** For better comparing of metrics between projects, compare projects that have the same data sources as version control or issue management systems. If you compare projects that use different data sources, the side-by-side comparison will not be available, and metrics will show separately. For example if you compare between Onap and Yocto, Onap uses Jira and Yocto uses Bugzilla as issue management systems, the comparison of metrics won't be available side-by-side, rather will have metrics separately.
+{% endhint %}
 
 **To View Project Health Dashboard:**
 
