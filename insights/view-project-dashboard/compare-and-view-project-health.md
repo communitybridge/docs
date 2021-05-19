@@ -31,24 +31,55 @@ The dashboard serves two purposes:
    2. **Last Commit Date:** Day when there was a last code contribution to the project.
    3. **Number of Commits:** Total number of code commits to the project for the selected time range.
    4. **Number of total code contributors:** Total number of contributors to the project for the selected time range.
-   5. **Percent of commits from the top organization:** Displays name of the organization that contributed most number of code changes to the project. It also displays the percentage of code contributions, out of the total contributions to the project, made by the authors of the organization.
-   6. **Percent of commit contributors from the top organization:** Displays name of the organization from which maximum number of contributors committed code changes, along with the percentage of contributors, out of the total contributors of the project, from the organization.
-   7. **Percent of commits by affiliated contributors:** Displays percentage of code contributions made by those contributors who are affiliated to organizations, meaning these percentage of contributions are not from "Unknown" authors.
-   8. **Percent of affiliated contributors:** Displays percentage of contributors, out of the total contributors to the project, who are affiliated to organizations, meaning these percentage of contributors are not tagged "Unknown".
-2. **Pull Requests**: Pull Requests show total number of open, closed, and merged PRs, total number of PRs rejected, total number of contributors reviewing PRs, percentage of PRs merged from top organizations, and so on.
-   1. **Number of contributors reviewing PRs:** Total number of contributors who are currently reviewing the pull requests for the project for the selected time range.
+   5. **Percent of commits from the top organization:** Displays name of the organization that contributed most number of code changes to the project. It also displays the percentage of code commits from the organization compared to the total number of commits made to the project by all the organizations.
+   6. **Percent of commit contributors from the top organization:** Displays name of the organization from which maximum number of contributors committed code changes. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
+   7. **Percent of commits by affiliated contributors:** Displays percentage of code contributions made by those contributors who are affiliated with organizations. It means these percentage of contributions are not from "Unknown" authors.
+   8. **Percent of affiliated contributors:** Displays percentage of contributors who are affiliated with organizations. It means these percentage of contributors are not tagged "Unknown".
+2. **Pull Requests**: Following metrics are displayed under Commits data source:
+   1. **Number of contributors reviewing PRs:** Total number of contributors who are currently reviewing the pull requests for the project for a selected time range.
    2. **Number of PRs rejected:** Total number of pull requests that are rejected for a selected time period.
-   3. **Organization reviewing most PRs: Shows name of the top organization whose contributors are reviewing most number of PRs.**
-   4. Average PR lead time \(time in days for a PR to get merged\):
-   5. Number of contributors merging PRs:
-   6. Number of PRs closed:
-   7. Number of PRs opened:
-   8. Number of PRs merged:
-   9. Opened to closed rate:
-   10. Percent of contributors merging PRs from the top organization:
-   11. Percent of PRs merged from the top organization:
-3. **Changesets**: Changesets show how many changesets are in open or closed states, changesets, percentage of changesets merged from top organizations, percentage of contributors merging the changesets, and so on.
-4. **Jira/Bugzilla Issues**: Each section shows total number of issues, submitters, assignees, issues in open state, total number of reopened issues, total number of issues in closed state, complete state, percentage of issues submitted by top organizations, percentage of submitters from top organizations, and so on.
+   3. **Organization reviewing most PRs:** Displays name of the organization whose contributors are reviewing most number of pull requests. It also displays the percentage of reviews done by the organization in relation to the total reviews done by other organizations to the project.
+   4. **Average PR lead time \(time in days for a PR to get merged\):** Displays average number of days it took for a PR to get merged.
+   5. **Number of contributors merging PRs:** Total number of contributors, for a selected time range, who are merging the pull requests.
+   6. **Number of new contributors merging PRs** \(it is displayed for a selected time range\): Total number of new contributors, over a selected time range, who are merging PRs.
+   7. **Number of PRs closed:** Total number of pull requests that are closed for a selected time range.
+   8. **Number of PRs opened:** Total number of pull requests that are newly created over a selected time range.
+   9. **Number of PRs merged:** Total number of pull requests that are merged over a selected time range.
+   10. **Opened to closed rate:** 
+   11. **Percent of contributors merging PRs from the top organization:** Displays name of the organization from which maximum number of contributors are merging pull requests for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
+   12. **Percent of PRs merged from the top organization:** Displays name of the organization whose contributors are merging maximum number of pull requests for a selected time range. It also displays the percentage of PRs merged by the organization compared to the total number of PRs merged by all the organizations.
+3. **Changesets**:
+   1. **Number of contributors merging changesets:** Total number of contributors, for a selected time range, who merged the changesets.
+   2. **Number of new contributors merging changesets** \(it is displayed for a selected time range\): Total number of new contributors, for a selected time range, who are merging changesets.
+   3. **Number of changesets merged:** Total number of changesets merged over a selected time range.
+   4. **Number of changesets approved:** Total number of changesets approved over a selected time range.
+   5. **Number of changesets opened:** Total number of changesets that are newly created over a selected time range.
+   6. **Number of changesets closed:** Total number of changesets that are closed over a selected time range.
+   7. **Opened to closed rate:** 
+   8. **Percent of contributors merging changesets from the top organization:** Displays name of the organization from which maximum number of contributors are merging changesets for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
+   9. **Percent of changesets merged from the top organization:** Displays name of the organization whose contributors are merging maximum number of changesets for a selected time range. It also displays the percentage of changesets merged by the organization compared to the total number of changesets merged by all the organizations.
+4. **GitHub Issues:**
+   1. **75th Percentile of time issue in open state:** Total number of days for which 75% of the total GitHub issues are in open state.
+   2. **95th Percentile of time issue in open state:** Total number of days for which 95% of the total GitHub issues are in open state.
+   3. **Median time issue in open state:** Average number of days for which the issues are in open state.
+   4. **Number of issues closed:** Total number of issues that are closed over a selected time range.
+   5. **Number of issues opened:** Total number of issues that are created over a selected time range.
+   6. **Opened to closed rate:** 
+5. **Jira/Bugzilla/GitHub Issues**: Each section shows the following metrics:
+   1. **Total number of issues:** Total number of issues created over a selected time range.
+   2. **Number of submitters:** Total number issue submitters for a selected time range.
+   3. **Number of assignees:** Number authors, over a selected time range, who are assigned with the created issues.
+   4. **75th Percentile of time issue in open state:** Total number of days for which 75% of the total issues are in open state.
+   5. **95th Percentile of time issue in open state:** Total number of days for which 95% of the total issues are in open state.
+   6. **Median time issue in open state:** Average number of days for which the issues are in open state.
+   7. **Total Number of reopened issues:** Total number of issues that are re-opened over a selected time range.
+   8. **Total Number of issues in closed/completed state:** Total number of issues that are closed or completed over a selected time range.
+   9. **Total Number of issues in open/to-do state:** Total number of issues that are in open or to-do state over a selected time range.
+   10. **Open to closed rate:** 
+   11. **Percent of issues submitted from the top organization:** Displays name of the organization whose contributors are submitting maximum number of issues over a selected time range. It also displays the percentage of issues submitted by the organization compared to the total number of issues submitted to the project by all organizations.
+   12. **Percent of submitters from the top organization:** Displays name of the organization from which maximum number of contributors submitted issues for a selected time range. It also displays the percentage of issue submitters from the organization compared to the total number of submitters of the project from all organizations.
+
+       .
 
 ![Compare Project Health](../../.gitbook/assets/compare-project-health.png)
 
