@@ -43,7 +43,7 @@ The Following data sources display various metrics as described below:
 * **Number of PRs merged:** Total number of pull requests that are merged over a selected time range.
 * **Opened to closed rate:** 
 * **Percent of contributors merging PRs from the top organization:** Displays name of the organization from which maximum number of contributors are merging pull requests for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
-* **Percent of PRs merged from the top organization:** Displays name of the organization whose contributors are merging maximum number of pull requests for a selected time range. It also displays the percentage of PRs merged by the organization compared to the total number of PRs merged by all the organizations.
+* **Percent of PRs merged from the top organization:** Displays name of the organization whose contributors have merged maximum number of pull requests for a selected time range. It also displays the percentage of PRs merged by the organization compared to the total number of PRs merged by all the organizations.
 
 #### **Changesets**
 
@@ -55,7 +55,7 @@ The Following data sources display various metrics as described below:
 * **Number of changesets closed:** Total number of changesets that are closed over a selected time range.
 * **Opened to closed rate:** 
 * **Percent of contributors merging changesets from the top organization:** Displays name of the organization from which maximum number of contributors are merging changesets for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
-* **Percent of changesets merged from the top organization:** Displays name of the organization whose contributors are merging maximum number of changesets for a selected time range. It also displays the percentage of changesets merged by the organization compared to the total number of changesets merged by all the organizations.
+* **Percent of changesets merged from the top organization:** Displays name of the organization whose contributors have merged maximum number of changesets for a selected time range. It also displays the percentage of changesets merged by the organization compared to the total number of changesets merged by all the organizations.
 
 #### **GitHub Issues**
 
