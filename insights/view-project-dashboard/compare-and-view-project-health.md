@@ -48,7 +48,7 @@ The dashboard serves two purposes:
    10. **Opened to closed rate:** 
    11. **Percent of contributors merging PRs from the top organization:** Displays name of the organization from which maximum number of contributors are merging pull requests for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
    12. **Percent of PRs merged from the top organization:** Displays name of the organization whose contributors are merging maximum number of pull requests for a selected time range. It also displays the percentage of PRs merged by the organization compared to the total number of PRs merged by all the organizations.
-3. **Changesets**:
+3. **Changesets**: Following metrics are displayed under Changesets data source:
    1. **Number of contributors merging changesets:** Total number of contributors, for a selected time range, who merged the changesets.
    2. **Number of new contributors merging changesets** \(it is displayed for a selected time range\): Total number of new contributors, for a selected time range, who are merging changesets.
    3. **Number of changesets merged:** Total number of changesets merged over a selected time range.
@@ -58,14 +58,14 @@ The dashboard serves two purposes:
    7. **Opened to closed rate:** 
    8. **Percent of contributors merging changesets from the top organization:** Displays name of the organization from which maximum number of contributors are merging changesets for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
    9. **Percent of changesets merged from the top organization:** Displays name of the organization whose contributors are merging maximum number of changesets for a selected time range. It also displays the percentage of changesets merged by the organization compared to the total number of changesets merged by all the organizations.
-4. **GitHub Issues:**
+4. **GitHub Issues:** Following metrics are displayed under GitHub Issues data source:
    1. **75th Percentile of time issue in open state:** Total number of days for which 75% of the total GitHub issues are in open state.
    2. **95th Percentile of time issue in open state:** Total number of days for which 95% of the total GitHub issues are in open state.
    3. **Median time issue in open state:** Average number of days for which the issues are in open state.
    4. **Number of issues closed:** Total number of issues that are closed over a selected time range.
    5. **Number of issues opened:** Total number of issues that are created over a selected time range.
    6. **Opened to closed rate:** 
-5. **Jira/Bugzilla/GitHub Issues**: Each section shows the following metrics:
+5. **Jira/Bugzilla Issues**: Each section shows the following metrics:
    1. **Total number of issues:** Total number of issues created over a selected time range.
    2. **Number of submitters:** Total number issue submitters for a selected time range.
    3. **Number of assignees:** Number authors, over a selected time range, who are assigned with the created issues.
