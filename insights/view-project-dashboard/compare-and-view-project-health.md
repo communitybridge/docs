@@ -41,7 +41,7 @@ The Following data sources display various metrics as described below:
 * **Number of PRs closed:** Total number of pull requests that are closed for a selected time range.
 * **Number of PRs opened:** Total number of pull requests that are newly created over a selected time range.
 * **Number of PRs merged:** Total number of pull requests that are merged over a selected time range.
-* **Opened to closed rate:** 
+* **Opened to closed rate:** Displays the ratio between numbers of open and closed PRs during the selected time period.
 * **Percent of contributors merging PRs from the top organization:** Displays name of the organization from which maximum number of contributors are merging pull requests for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
 * **Percent of PRs merged from the top organization:** Displays name of the organization whose contributors have merged maximum number of pull requests for a selected time range. It also displays the percentage of PRs merged by the organization compared to the total number of PRs merged by all the organizations.
 
@@ -53,7 +53,7 @@ The Following data sources display various metrics as described below:
 * **Number of changesets approved:** Total number of changesets approved over a selected time range.
 * **Number of changesets opened:** Total number of changesets that are newly created over a selected time range.
 * **Number of changesets closed:** Total number of changesets that are closed over a selected time range.
-* **Opened to closed rate:** 
+* **Opened to closed rate:** Displays the ratio between numbers of open and closed changesets during the selected time period.
 * **Percent of contributors merging changesets from the top organization:** Displays name of the organization from which maximum number of contributors are merging changesets for a selected time range. It also displays the percentage of contributors from the organization compared to the total number of contributors to the project.
 * **Percent of changesets merged from the top organization:** Displays name of the organization whose contributors have merged maximum number of changesets for a selected time range. It also displays the percentage of changesets merged by the organization compared to the total number of changesets merged by all the organizations.
 
@@ -64,7 +64,7 @@ The Following data sources display various metrics as described below:
 * **Median time issue in open state:** Average number of days for which the issues are in open state.
 * **Number of issues closed:** Total number of issues that are closed over a selected time range.
 * **Number of issues opened:** Total number of issues that are created over a selected time range.
-* **Opened to closed rate:** 
+* **Opened to closed rate:** Displays the ratio between numbers of open and closed GitHub Issues during the selected time period.
 
 #### **Jira/Bugzilla Issues:**
 
@@ -79,7 +79,7 @@ Each section displays the following metrics:
 * **Total Number of reopened issues:** Total number of issues that are re-opened over a selected time range.
 * **Total Number of issues in closed/completed state:** Total number of issues that are closed or completed over a selected time range.
 * **Total Number of issues in open/to-do state:** Total number of issues that are in open or to-do state over a selected time range.
-* **Open to closed rate:** 
+* **Open to closed rate:** Displays the ratio between numbers of open and closed Jira or Bugzilla issues during the selected time period.
 * **Percent of issues submitted from the top organization:** Displays name of the organization whose contributors are submitting maximum number of issues over a selected time range. It also displays the percentage of issues submitted by the organization compared to the total number of issues submitted to the project by all organizations.
 * **Percent of submitters from the top organization:** Displays name of the organization from which maximum number of contributors submitted issues for a selected time range. It also displays the percentage of issue submitters from the organization compared to the total number of submitters of the project from all organizations.
 
