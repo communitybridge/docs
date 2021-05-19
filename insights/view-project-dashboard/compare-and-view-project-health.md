@@ -26,12 +26,12 @@ The dashboard serves two purposes:
 
 5. Following are the list of statistics displayed for different data sources:
 
-1. **Commits**: Commits show git commit status, such as last commit date, total number of commits, total number of contributors, percentage of commits from top organizations including the affiliated contributors, and so on. If you select a time range, up and down arrows for a metrics shows if the contributions have increased or decreased in that time period. Percentage of affiliated contributors and contributions shows contributions from those contributors who are affiliated with an organization, meaning the contributions are not from "Unknown" contributors.
+1. **Commits**: Following metrics are displayed under Commits data source:
    1. **Days Since Last Commit:** Number of days there has not been any code contributions to the project.
    2. **Last Commit Date:** Day when there was a last code contribution to the project.
    3. **Number of Commits:** Total number of code commits to the project for the selected time range.
    4. **Number of total code contributors:** Total number of contributors to the project for the selected time range.
-   5. **Percent of commits from the top organization:** Displays name of the organization that contributed most number of code changes to the project, along with the percentage of code contributions, out of the total contributions to the project, made by the authors of the organization.
+   5. **Percent of commits from the top organization:** Displays name of the organization that contributed most number of code changes to the project. It also displays the percentage of code contributions, out of the total contributions to the project, made by the authors of the organization.
    6. **Percent of commit contributors from the top organization:** Displays name of the organization from which maximum number of contributors committed code changes, along with the percentage of contributors, out of the total contributors of the project, from the organization.
    7. **Percent of commits by affiliated contributors:** Displays percentage of code contributions made by those contributors who are affiliated to organizations, meaning these percentage of contributions are not from "Unknown" authors.
    8. **Percent of affiliated contributors:** Displays percentage of contributors, out of the total contributors to the project, who are affiliated to organizations, meaning these percentage of contributors are not tagged "Unknown".
