@@ -15,8 +15,7 @@ The dashboard serves two purposes:
 
  1. Go to[ https://insights.lfx.linuxfoundation.org/](https://insights.lfx.linuxfoundation.org/)
 
-2. From the top left corner, click Compare Project Health.  
-
+2. From the top left corner, click Compare Project Health.
 
 ![Compare Project Health](https://lh5.googleusercontent.com/jkn4-dxyPJSXTkbZKrpvsv56tnE8v0Alhsfc5_1Ok_P8MHuD-hMPhVx8Q_nw8U42RgIDJrooQ1n6SmODF4VcYIGbfCJXxFHN_i1yc8X4-acn0fgHRxRz3zAXbCMbp33ekFlul0i2)
 
@@ -27,10 +26,10 @@ The dashboard serves two purposes:
 
 5. Following are the list of statistics displayed for different data sources:
 
-1. **Commits**: Commits show git commit status, such as last commit date, total number of commits, total number of contributors, percentage of commits from top organizations including the affiliated contributors, and so on. If you select a time range, up and down arrows for a metrics shows if the contributions have increased or decreased in that time period. Percentage of affiliated contributors and contributions shows contributions from those contributors who are affiliated with an organization, meaning the contributions are not from "Unknown" organizations.
+1. **Commits**: Commits show git commit status, such as last commit date, total number of commits, total number of contributors, percentage of commits from top organizations including the affiliated contributors, and so on. If you select a time range, up and down arrows for a metrics shows if the contributions have increased or decreased in that time period. Percentage of affiliated contributors and contributions shows contributions from those contributors who are affiliated with an organization, meaning the contributions are not from "Unknown" contributors.
 2. **Pull Requests**: Pull Requests show total number of open, closed, and merged PRs, total number of PRs rejected, total number of contributors reviewing PRs, percentage of PRs merged from top organizations, and so on.
 3. **Changesets**: Changesets show how many changesets are in open or closed states, changesets, percentage of changesets merged from top organizations, percentage of contributors merging the changesets, and so on.
-4. **Jira/Bugzilla Issues**: Each section shows total number of issues, submitters, assignees, issues in open state, total number of reopened issues, total number of issues in closed, complete state, percentage of issues submitted by top organizations, percentage of submitters from top organizations, and so on.
+4. **Jira/Bugzilla Issues**: Each section shows total number of issues, submitters, assignees, issues in open state, total number of reopened issues, total number of issues in closed state, complete state, percentage of issues submitted by top organizations, percentage of submitters from top organizations, and so on.
 
 ![Compare Project Health](../../.gitbook/assets/compare-project-health.png)
 
