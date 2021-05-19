@@ -11,7 +11,7 @@ The dashboard serves two purposes:
 **Note:** For better comparing of metrics between projects, compare projects that have the same data sources as version control or issue management systems. If you compare projects that use different data sources, the side-by-side comparison will not be available, and metrics will show separately. For example if you compare between Onap and Yocto, Onap uses Jira and Yocto uses Bugzilla as issue management systems, the comparison of these two metrics will not be displayed side-by-side, rather will show separately.
 {% endhint %}
 
-The Following metrics are displayed under various data sources:
+The Following data sources display various metrics as described below:
 
 * [Commits](compare-and-view-project-health.md#commits)
 * [Pull Requests](compare-and-view-project-health.md#pull-requests)
