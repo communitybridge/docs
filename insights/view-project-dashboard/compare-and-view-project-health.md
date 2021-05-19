@@ -1,8 +1,11 @@
 # Compare and View Project Health
 
-Project Health Dashboard lets you view the overall code contributions to the project for two data sources: **Version Control Systems** that include Git, GitHub, and Gerrit, and **Issue Management Systems** that include GitHub Issues, Jira, and Bugzilla.
+Project Health Dashboard is a tool that lets you compare key code related metrics for a project or between projects \(at the most you can compare 10 projects side-by-side\). These metrics come from a variety of data sources that can be broadly categorized into Version Control System and Issue Management System, and include supported systems, such as Git, Github, Gerrit, Jira and Bugzilla.
 
-Compare Project Health dashboard serves two purposes: Comparing various key metrics for different time lines for a single project, and comparing key metrics between two or more projects in different time lines.
+The dashboard serves two purposes:
+
+1. Comparing the key metrics for the same project for different time periods.
+2. Comparing the key metrics between multiple projects for the selected time period.
 
 {% hint style="info" %}
 **Note:** For better comparing of metrics between projects, compare projects that have the same data sources as version control or issue management systems. If you compare projects that use different data sources, the side-by-side comparison will not be available, and metrics will show separately. For example if you compare between Onap and Yocto, Onap uses Jira and Yocto uses Bugzilla as issue management systems, the comparison of these two metrics will not be displayed side-by-side, rather will show separately.
