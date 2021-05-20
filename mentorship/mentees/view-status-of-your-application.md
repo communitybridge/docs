@@ -1,7 +1,7 @@
 # View Status of your Application
 
 {% hint style="info" %}
-**Note:** Application status does not change automatically after you submit your prerequisite tasks. The project admin reviews your application, and changes the status of your application, and you receive an email notification about the application status.
+**Note:** Application status does not change automatically after you submit your prerequisite tasks. The project admin reviews your application, changes the status of your application, and you receive an email notification about the application status.
 {% endhint %}
 
 1. To view the status of your application [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org/) and select **My Projects** tab. 
