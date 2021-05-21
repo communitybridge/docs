@@ -19,7 +19,7 @@ Additionally, you can view and manage CLA details, GitHub and Gerrit organizatio
 6. [Remove CLA Monitoring from GitHub repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories)
 7. [Uninstall the EasyCLA Application from git organization](uninstall-the-easycla-application.md)
 
-For EasyCLA integrated GitHub organizations, and repositories, EasyCLA sends email notification to project managers regarding any changes to the repositories. EasyCLA takes the following actions for different events:
+For EasyCLA integrated GitHub organizations and repositories, EasyCLA sends email notification to project managers regarding any changes to the repositories. EasyCLA takes the following actions for different events:
 
 * **Repository Renamed:** EasyCLA updates GitHub repository table entry to match the new GitHub repository name, and notifies the project manager.
 * **Repository Archived:** EasyCLA takes no action, however notifies the project manager that the repository is archived.
