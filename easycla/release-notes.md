@@ -31,10 +31,10 @@ Currently, user roles in EasyCLA can only be associated with a single company or
 
 
 
-EasyCLA sends email notification to Project Managers regarding any changes happened to the  repositories. EasyCLA takes the following actions for different events, and sends email notifications to project managers regarding the respective actions:
+EasyCLA sends email notification to Project Managers regarding any changes to the repositories. EasyCLA takes the following actions for different events, and sends email notifications to project managers regarding the respective actions:
 
 * **Repository Renamed:** EasyCLA updates GitHub repository table entry to match the new GitHub repository name.
-* **Repository Archived:** EasyCLA takes no action - leave enrolled.
+* **Repository Archived:** EasyCLA takes no action, however notifies the project manager that the repository is archived.
 * **Repository Deleted:** EasyCLA ****disables the repository.
 * **Repository Moved to a Different Organization:** 
   * If ****an EasyCLA enabled repository is moved from one organization to another within the same CLA Group, EasyCLA simply notifies the project manager about the action.
