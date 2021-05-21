@@ -29,3 +29,14 @@ Auto-Branch Protection only protects a repo's default git branch. Non-default br
 
 Currently, user roles in EasyCLA can only be associated with a single company or organization at a time.
 
+
+
+EasyCLA sends email notification to Project Managers regarding any changes happened to the  repositories. EasyCLA takes the following actions for different events, and sends email notifications to project managers regarding the respective actions:
+
+* **Repository Renamed:** EasyCLA updates GitHub repository table entry to match the new GitHub repository name.
+* **Repository Archived:** EasyCLA takes no action - leave enrolled.
+* **Repository Deleted:** EasyCLA ****disables the repository.
+* **Repository Moved to a Different Organization:** 
+  * If ****an EasyCLA enabled repository is moved from one organization to another within the same CLA Group, EasyCLA simply notifies the project manager about the action.
+  * If ****a repository is moved from one organization to another where EasyCLA is NOT configured or the CLA Group is different, EasyCLA disables the repository.
+
