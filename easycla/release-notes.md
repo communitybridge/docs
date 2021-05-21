@@ -8,6 +8,10 @@ Release notes for the EasyCLA Contributor Console can be found at [https://githu
 
 The following issues are known to be present in the v2.0.0 release of EasyCLA:
 
+* [Two-Level Project Hierarchies](release-notes.md#two-level-project-hierarchies)
+* [Auto-Branch Protection](release-notes.md#auto-branch-protection)
+* [Organization Association](release-notes.md#organization-association)
+
 ### Two-Level Project Hierarchies
 
 EasyCLA v2.0.0 supports projects with a parent-child model of at most two hierarchy levels. The following is an example:
