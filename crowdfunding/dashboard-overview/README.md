@@ -79,7 +79,7 @@ Initiatives section includes open-source initiatives for which people have raise
 
 Each Initiative card shows the following information:
 
-* Initiative name and logo - click on the initiative title/logo to navigate to[ ](projects.md)[initiative](initiatives.md) details page
+* Initiative name and logo - click on the initiative title/logo to navigate to[ ](projects.md)[initiative](general-funds.md) details page
 * **Tags** - technologies the project is associated with
 * **Funds Raised** - total funds raised so far
 * **Goal** - ****total funding goal for the project

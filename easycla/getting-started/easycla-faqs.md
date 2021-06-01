@@ -16,7 +16,7 @@ An Individual CLA is signed by an individual for contributions that they contrib
 
 **Which Corporate CLA approved-list option has the lowest maintenance overhead?**
 
-Using the Domain **Approval Criteria** requires less overhead because CCLA signatories and CCLA managers do not need to add and manage numerous employee email addresses.
+Using the **Domain** **Approval Criteria** requires less overhead because CCLA signatories and CCLA managers do not need to add and manage numerous employee email addresses.
 
 **I contribute to an open source project as an employee for a company. Do I need to complete, sign, and submit a DocuSign document?**
 
@@ -28,7 +28,7 @@ Otherwise, if your company has already signed a Corporate CLA, but you are not y
 
 **What should I do if my company is not listed while signing CLA?**
 
-You must create a company as described [here]().
+You must create a company as described [here](../contributors/corporate-contributor.md#if-your-company-is-not-in-the-list).
 
 **If my project community has elected to use CLAs as a required step for contributions to their code, do I need to be authorized under a CLA for each project to which I contribute?**
 

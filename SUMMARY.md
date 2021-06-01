@@ -217,7 +217,7 @@
     * [Events](crowdfunding/dashboard-overview/events.md)
     * [Travel Funds](crowdfunding/dashboard-overview/travel-funds.md)
     * [Security Audit](crowdfunding/dashboard-overview/security-audit.md)
-    * [Initiatives](crowdfunding/dashboard-overview/initiatives.md)
+    * [General Funds](crowdfunding/dashboard-overview/general-funds.md)
     * [Integrated Services for a Project](crowdfunding/dashboard-overview/integrated-services-for-a-project.md)
     * [Toggle Between Crowdfunding and Mentorship](crowdfunding/dashboard-overview/toggle-between-crowdfunding-and-mentorship.md)
     * [Search](crowdfunding/dashboard-overview/search.md)
