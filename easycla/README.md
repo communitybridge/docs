@@ -1,6 +1,6 @@
 # EasyCLA
 
-​[​](https://circleci.com/gh/communitybridge/easycla)EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\), to help projects ensure that contributions are made in accordance with project policies. It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
+EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\), to help projects ensure that contributions are made in accordance with project policies. It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
 
 ## Quick Help <a id="quick-help"></a>
 
@@ -12,18 +12,21 @@ For support questions, please see our [Troubleshooting page](getting-started/eas
 
 ### Third-party Services <a id="third-party-services"></a>
 
-​Besides integration with the LFX platform and its underlying services, EasyCLA uses the following third party services:
+Besides integration with the LFX platform and its underlying services, EasyCLA uses the following third party services:
 
-* ​[Docusign](https://www.docusign.com/) for the CLA agreement e-sign flow
-* ​[Docraptor](https://docraptor.com/) for converting CLA templates from HTML to PDF
+* [Docusign](https://www.docusign.com/) for the CLA agreement e-sign flow
+* [Docraptor](https://docraptor.com/) for converting CLA templates from HTML to PDF
+* [GitHub](https://github.com/) for GitHub PR CLA authorization checking/gating
+* Gerrit for CLA authorization review checking/gating  
+* Auth0 For Single Sign On
+* Salesforce through the LFX Platform APIs
 
 ### EasyCLA Backend <a id="cla-backend"></a>
 
 The EasyCLA tool has two backend components.
 
-The majority of the backend APIs are implemented in Python, and can be found in the [`cla-backend`](https://github.com/communitybridge/easycla/tree/master/cla-backend) directory.
-
-Recent backend development was implemented in Golang, and can be found in the [`cla-backend-go`](https://github.com/communitybridge/easycla/tree/master/cla-backend-go) directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
+* Python - some older APIs are implemented in python and can be found in the [cla-backend](cla-backend) directory.
+* GoLang - Most of the backend development is implemented in Golang, and can be found in the [cla-backend-go](cla-backend-go) directory. In particular, this backend contains APIs powering most of the v2 APIs which integrate with the LFX Platform (including Salesforce data), and the LFX platform permissions model.
 
 ### EasyCLA Frontend <a id="cla-frontend"></a>
 
