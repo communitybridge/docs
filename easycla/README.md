@@ -25,8 +25,8 @@ Besides integration with the LFX platform and its underlying services, EasyCLA u
 
 The EasyCLA tool has two backend components.
 
-* Python - some older APIs are implemented in python and can be found in the [cla-backend](cla-backend) directory.
-* GoLang - Most of the backend development is implemented in Golang, and can be found in the [cla-backend-go](cla-backend-go) directory. In particular, this backend contains APIs powering most of the v2 APIs which integrate with the LFX Platform (including Salesforce data), and the LFX platform permissions model.
+* Python - some older APIs are implemented in python and can be found in the [cla-backend](https://github.com/communitybridge/easycla/tree/main/cla-backend) directory.
+* GoLang - Most of the backend development is implemented in Golang, and can be found in the [cla-backend-go](https://github.com/communitybridge/easycla/tree/main/cla-backend-go) directory. In particular, this backend contains APIs powering most of the v2 APIs which integrate with the LFX Platform (including Salesforce data), and the LFX platform permissions model.
 
 ### EasyCLA Frontend <a id="cla-frontend"></a>
 
