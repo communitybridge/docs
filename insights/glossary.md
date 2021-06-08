@@ -82,7 +82,7 @@ In GitHub, an _issue_ is a suggested improvement, task, or question that is rela
 
 _Jenkins_ is an open source continuous integration software tool for testing and reporting on changes in a code base in real time.
 
-## Jira ![](../.gitbook/assets/18088260%20%283%29%20%283%29%20%282%29.png) <a id="DevAnalyticsGlossary-Jira"></a>
+## Jira ![](../.gitbook/assets/18088260%20%283%29%20%283%29%20%283%29%20%282%29.png) <a id="DevAnalyticsGlossary-Jira"></a>
 
 _Jira_ is an issue tracking product that allows bug tracking and agile project management. 
 
@@ -135,7 +135,7 @@ A _repository_ is an element in GitHub that contains all the project files \(inc
 
 _Review Efficiency Index_ \(REI\) is the number of closed pull requests divided by the number of open ones in a given period of time. 
 
-## Slack ![](../.gitbook/assets/18088264%20%282%29%20%282%29.png) <a id="DevAnalyticsGlossary-Slack"></a>
+## Slack ![](../.gitbook/assets/18088264%20%282%29%20%282%29%20%282%29.png) <a id="DevAnalyticsGlossary-Slack"></a>
 
 _Slack_ is a cloud-based set of team collaboration tools and services.
 
