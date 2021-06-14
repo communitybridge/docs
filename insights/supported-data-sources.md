@@ -42,7 +42,7 @@ Insights supports [Pipermail](view-project-dashboard/ecosystem-metrics/mailing-l
 
 #### Social Media
 
-The Linux Foundation is releasing soon the support for social media platforms, such as Facebook, Twitter, and LinkedIn.
+Insights supports [Twitter](view-project-dashboard/social-media-metrics.md#overview) as social media platform to visualize project's ****high-level insights from the project's twitter account.
 
 ## In Progress 
 
@@ -50,7 +50,7 @@ The Linux Foundation is developing Insights tool to support the following data s
 
 #### Social Media
 
-The Linux Foundation is releasing soon the support for social media platforms, such as Facebook, Twitter, and LinkedIn.
+The Linux Foundation is releasing soon the support for social media platforms, such as Facebook and LinkedIn.
 
 ## Coming Soon
 
