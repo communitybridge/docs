@@ -88,12 +88,12 @@ Upon creating a pull request in GitHub or submitting changed code in Gerrit, Eas
 
 11. You will need to complete one of the following workflows:
 
-* [If your company is not in the company list](corporate-contributor.md#if-the-select-company-dialog-appears)
+* [If your company is not in the company list](corporate-contributor.md#if-your-company-is-not-in-the-list)
 * [If your company has not yet signed a CCLA](corporate-contributor.md#if-company-has-not-signed)
 * [If you have not yet been added to your company's approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
 * [If you are additionally asked to sign an ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 
-## If your Company is not in the List <a id="if-the-select-company-dialog-appears"></a>
+## If your Company is not in the list
 
 1. Click **+Click Here** next to **Organization not listed?**
 
