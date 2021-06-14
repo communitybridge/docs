@@ -1,6 +1,6 @@
-# Ecosystem Trends
+# Ecosystem Metrics
 
-Ecosystem Trends dashboard is shown based on LF SSO account, and is accessible to:
+Ecosystem Metrics dashboard is shown based on LF SSO account, and is accessible to:
 
 * Individuals of member companies of The Linux Foundation.
 * Insights project administrators who have access to manage contributor affiliations in Insights.
@@ -10,10 +10,10 @@ Following screen is displayed when you are not signed in or you don't have acces
 
 ![Ecosystem Trends](../../../.gitbook/assets/ecosystem-trends-access-window.png)
 
-Following are the data sources configured for Ecosystem Trends:
+Following are the data sources configured for Ecosystem Metrics:
 
-* [Chat Room](../technical-trends/summary.md#chat-room)
-* [Mailing List](../technical-trends/summary.md#mailing-list)
-* [Documentation](../technical-trends/summary.md#documentation)
-* [Earned Media](../technical-trends/summary.md#earned-media)
+* [Chat Room](../technical-metrics/summary.md#chat-room)
+* [Mailing List](../technical-metrics/summary.md#mailing-list)
+* [Documentation](../technical-metrics/summary.md#documentation)
+* [Earned Media](../technical-metrics/summary.md#earned-media)
 

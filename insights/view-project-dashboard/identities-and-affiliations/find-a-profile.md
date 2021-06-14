@@ -8,7 +8,7 @@ You can search by a name or keyword to find specific profiles. The search result
 
 2. Click **Identities & Affiliations**.
 
-![](../../.gitbook/assets/18088122.png)
+![](../../../.gitbook/assets/18088122.png)
 
 3. In **Search Profiles** field, enter a **name** or **keyword** and click **Search**.
 

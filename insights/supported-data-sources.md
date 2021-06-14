@@ -18,27 +18,31 @@ Insights supports the following data sources based on their categories:
 
 #### Documentation
 
-Insights supports Confluence for tracking and visualizing project's documentation. For details, see [Confluence](view-project-dashboard/ecosystem-trends/documentation/confluence.md).
+Insights supports Confluence for tracking and visualizing project's documentation. For details, see [Confluence](view-project-dashboard/ecosystem-metrics/documentation/confluence.md).
 
 #### Chat Room
 
-Insights supports chat room platforms, such as [Slack](view-project-dashboard/ecosystem-trends/chat-room/slack.md) and [Rocket Chat](view-project-dashboard/ecosystem-trends/chat-room/rocket-chat.md) to analyze the project related communication activities.
+Insights supports chat room platforms, such as [Slack](view-project-dashboard/ecosystem-metrics/chat-room/slack.md) and [Rocket Chat](view-project-dashboard/ecosystem-metrics/chat-room/rocket-chat.md) to analyze the project related communication activities.
 
 #### Issue Tracking Systems
 
 Following are the various issue tracking system data sources currently supported by Insights:
 
-* [GitHub](view-project-dashboard/technical-trends/project-management/github-issues.md)
-* [Bugzilla](view-project-dashboard/technical-trends/project-management/bugzilla.md)
-* [Jira](view-project-dashboard/technical-trends/project-management/jira.md)
+* [GitHub](view-project-dashboard/technical-metrics/project-management/github-issues.md)
+* [Bugzilla](view-project-dashboard/technical-metrics/project-management/bugzilla.md)
+* [Jira](view-project-dashboard/technical-metrics/project-management/jira.md)
 
 #### Build Systems
 
-Insights supports [Jenkins](view-project-dashboard/technical-trends/ci-cd/jenkins.md) and [CircleCI](view-project-dashboard/technical-trends/ci-cd/circle-ci.md) as two of the popular build system data sources.
+Insights supports [Jenkins](view-project-dashboard/technical-metrics/ci-cd/jenkins.md) and [CircleCI](view-project-dashboard/technical-metrics/ci-cd/circle-ci.md) as two of the popular build system data sources.
 
 #### Email Systems
 
-Insights supports [Pipermail](view-project-dashboard/ecosystem-trends/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-trends/mailing-list/groupsio.md), and [Google Groups](view-project-dashboard/ecosystem-trends/mailing-list/google-groups.md) as email systems to visualize project related communication activities.
+Insights supports [Pipermail](view-project-dashboard/ecosystem-metrics/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-metrics/mailing-list/groupsio.md), and [Google Groups](view-project-dashboard/ecosystem-metrics/mailing-list/google-groups.md) as email systems to visualize project related communication activities.
+
+#### Social Media
+
+The Linux Foundation is releasing soon the support for social media platforms, such as Facebook, Twitter, and LinkedIn.
 
 ## In Progress 
 

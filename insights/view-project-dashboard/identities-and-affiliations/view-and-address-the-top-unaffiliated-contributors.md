@@ -9,7 +9,7 @@ Prer**equisites:** Ensure that you have [access](request-access-to-affiliation-m
 1. Click a **project** of interest.
 2. Click **Identities & Affiliations**.
 
-![](../../.gitbook/assets/identities-and-affiliations-button.png)
+![](../../../.gitbook/assets/identities-and-affiliations-button.png)
 
 A menu provides the following options:
 
