@@ -14,6 +14,16 @@ Following are the five Social Media Metrics dashboards for Twitter:
 * [Languages Summary](social-media-metrics.md#languages-summary): Breakdown of the project’s social media posts by language.
 * [Contributors Summary](social-media-metrics.md#contributors-summary): Overview of social media users \(contributors or influencers\) who are engaged with the project’s social media posts or have mentioned their account.
 
+**No Data Source Configured** appears if a project is not configured for social media metrics analysis. Click **Create Jira Ticket** to provide project related search terms and other details to let Insights provide high-level overview of your twitter account.  
+![](../../.gitbook/assets/no-data-source-configured.png)
+
+If **Access is available to members of the project** appears:
+
+* Ensure that you have **signed in** to the portal.
+* If you have already signed in, then click **Go to My Profile** to update your company information on your profile settings page. Navigate back to the project's social media metrics dashboard and refresh the page.  
+
+![Update Company Information](../../.gitbook/assets/update-company-profile.png)
+
 ## Overview
 
 It provides a high-level overview of the project’s channel-level performance, including follower metrics, post summary, and a breakdown of top hashtags. Following are the various sections and metrics displayed on this dashboard:
