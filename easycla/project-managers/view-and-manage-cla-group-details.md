@@ -1,6 +1,6 @@
 # View and Manage CLA Group Details
 
-A Project Manager can view CLA group details and can update a CLA group details by updating or deleting a CLA group name, updating a CLA template, and invalidating a contributor's signature.
+A Project Manager can view CLA group details and can update a CLA group details by updating or deleting a CLA group name, [updating a CLA template](update-templates.md), and [invalidating a contributor's signature](invalidate-a-contributors-signature.md).
 
 1. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 2. Click a **project name** of interest.
@@ -26,7 +26,9 @@ The Overview page displays CLA groups that have been added to the project, [deta
 
 3. Navigate to **TEMPLATES** tab to view and download the ICLA and/or CCLA templates. You can [update the templates](update-templates.md) incase the email address mentioned in the template is not correct or you want to change.
 
-4. Navigate to **SIGNATURES** tab to view signed ICLAs and CCLAs.
+#### Signatures:
+
+Navigate to **SIGNATURES** tab to view signed ICLAs and CCLAs.
 
 * **Signed ICLAs** lists details of individuals who have signed an ICLA, such as name, LF Login name \(LF ID\), GitHub ID, email address, status of their signature \(Active, Disabled, Invalidated\), and Invalidate CTA under Actions column \(enabled only for Active statuses\). Following are the different signature statuses:
   * **Active:** The contributor has completed the CLA signing process.

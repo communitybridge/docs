@@ -51,7 +51,11 @@ Click ![](../../.gitbook/assets/edit-icon.png) in the row for one of the Approva
 
 ## Delete a Contributor's Details
 
-Click ![](../../.gitbook/assets/delete-icon.png) in the row for one of the Approval List criteria, to delete the contributor or the group criteria.
+Click ![](../../.gitbook/assets/delete-icon.png) in the row for one of the Approval List criteria, to delete the contributor or the group criteria. 
+
+{% hint style="info" %}
+**Note:** If you delete a contributor's details or an approval criteria, then the status of signature for the contributor, who signed a CLA under a CLA group with that criteria, will be displayed as "Disabled" under Signatory tab of the CLA group on project console. For details about the statuses see, [Signatures](../project-managers/view-and-manage-cla-group-details.md#signatures). Only Project Managers and Community Program managers can access project console \(also called Project Control Center\).
+{% endhint %}
 
 ![Delete Contributors](../../.gitbook/assets/delete-contributors.png)
 
