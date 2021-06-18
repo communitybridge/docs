@@ -1,6 +1,6 @@
 # Invalidate a Contributor's Signature
 
-Project Managers can anytime invalidate a contributor's signature in case the contributor 
+Project Managers can anytime invalidate a contributor's signature for any valid reason, for example when a contributor leaves the organization. 
 
 1. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 2. Click a **project name** of interest.
