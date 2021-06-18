@@ -181,7 +181,7 @@ After the CCLA is signed and the CLA Manager adds you to the approved list, you 
 2. Click **Not Covered**, and then click **Proceed as a Corporate Contributor**.
 3. On the **Select Organization** window, select your company, and click **Proceed**.
 
-A window appears confirming your association with the company. Click Exit EasyCLA, and you will be redirected back to the GitHub page where the CLA status will be updated. If it does not immediately update, please wait a moment and then refresh the GitHub page.  
+A window appears confirming your association with the company. Click **Exit EasyCLA**, and you will be redirected back to the GitHub page where the CLA status will be updated. If it does not immediately update, please wait a moment and then refresh the GitHub page.  
 ![](../../.gitbook/assets/company-acknowledgement.png)
 
 ### For Gerrit:

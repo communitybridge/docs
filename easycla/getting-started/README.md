@@ -43,7 +43,7 @@ When a CCLA is first being signed, the Contributor, CLA Manager, and CLA Signato
 
 ### Project Manager <a id="project-manager"></a>
 
-A _Project Manager_ is responsible for setting up the project's CLA templates and configuring the corresponding repositories in the EasyCLA Project Console. For more details, see [Project Managers](../project-managers/).
+A _Project Manager_ is responsible for setting up the project's CLA templates and configuring the corresponding repositories in the [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org/) ****\(also called Project Control Center\). For more details, see [Project Managers](../project-managers/).
 
 ### Contributor <a id="contributor"></a>
 
@@ -61,18 +61,18 @@ After submitting a contribution on GitHub or Gerrit, if a Contributor has not ye
 
 ### CLA Manager
 
-A _CLA Manager_ is someone who is authorized by a company to manage the list of \(1\) authorized Contributors, and \(2\) other CLA Managers, under that company’s CCLA for a project.
+A _CLA Manager_ is someone who is authorized by a company to manage the list of authorized Contributors, and other CLA Managers, under that company’s CCLA for a project.
+
+A CLA Manager uses the [EasyCLA Corporate Console](https://organization.lfx.linuxfoundation.org/company/dashboard) to:
+
+* [Add Contributors to Approved List](../corporate-cla-managers/approve-and-manage-contributors.md)
+* [Add or Delete CLA Managers](../corporate-cla-managers/add-or-delete-cla-managers.md)
 
 When a CCLA is first being set up for signature, it will specify an "Initial CLA Manager". This person uses the EasyCLA Corporate Console to coordinate the signing of the CLA \(see [CLA Signatory](./#cla-signatory) below\).
 
 After the CCLA is fully signed, then the specified Initial CLA Manager will be able to use the EasyCLA Corporate Console to manage the list of authorized Contributors. They can also designate additional CLA Managers.
 
 By default, a CLA Manager is not automatically an authorized Contributor themselves, unless they add themselves to the authorized Contributor list.
-
-A CLA Manager uses the EasyCLA Corporate Console to:
-
-* [Add Contributors to Approved List](../corporate-cla-managers/approve-and-manage-contributors.md)
-* [Add or Delete CLA Managers](../corporate-cla-managers/add-or-delete-cla-managers.md)
 
 ### CLA Signatory <a id="cla-signatory"></a>
 
