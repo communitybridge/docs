@@ -3,14 +3,14 @@
 Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
 
 1. Go to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
-2. Navigate to tabs, such as [Projects](./#Dashboard-ProjectsandMentorships), [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [Initiatives](./#initiatives), and to learn more about each.
-3. Sign in to [manage your crowdfunding account ](../manage-your-crowdfunding-account.md)
+2. Navigate to tabs, such as [Projects](./#Dashboard-ProjectsandMentorships), [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [General Funds](./#general-funds), and to learn more about each.
+3. Sign in to [manage your crowdfunding account](../manage-your-crowdfunding-account.md)
 4. To participate:
    * [Apply to raise fund for a project](../apply-for-crowdfunding/)
      * [Add a GitHub project](../apply-for-crowdfunding/add-a-github-project.md)
      * [Add a Git project](../apply-for-crowdfunding/add-a-git-project.md)
      * [Add a project for security audit](../apply-for-crowdfunding/add-a-project-for-security-audit.md)
-     * [Add initiatives](../apply-for-crowdfunding/add-initiatives.md)
+     * [Add General Fund](../apply-for-crowdfunding/add-general-fund.md)
      * [Add an event](../apply-for-crowdfunding/add-an-event.md)
      * [Add a travel fund](../apply-for-crowdfunding/add-a-travel-fund.md)
    * [Donate/Sponsor to projects](../donate-sponsor/)
@@ -28,7 +28,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Sponsors** - images of sponsors \(Individuals and Organizations\) for the project
 * **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
-![](../../.gitbook/assets/crowdfunding-projects%20%281%29.png)
+![Projects](../../.gitbook/assets/projects.png)
 
 ## Events <a id="Dashboard-Events"></a>
 
@@ -43,7 +43,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Sponsor** - Click to [sponsor events](../donate-sponsor/sponsor-events.md) they want to support
 * **Register** - Click to [register for an event](../register-for-an-event.md) they want to attend
 
-![](../../.gitbook/assets/crowdfunding-events%20%281%29.png)
+![Events](../../.gitbook/assets/events.png)
 
 ## Travel Funds <a id="Dashboard-TravelScholarships"></a>
 
@@ -57,7 +57,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Funds** **Distributed** - total expenses so far for the event
 * **Donate** - Click to [donate](../donate-sponsor/) to travel funds they want to support
 
-![](../../.gitbook/assets/crowdfunding-travel-funds%20%281%29.png)
+![Travel Funds](../../.gitbook/assets/travel-funds.png)
 
 ## Security Audits \(OSTIF\)
 
@@ -71,15 +71,15 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Funds Distributed** - total expenses so far
 * **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
-![](../../.gitbook/assets/crowdfunding-security-audit.png)
+![Security Audits](../../.gitbook/assets/security-audits.png)
 
-## Initiatives
+## General Funds
 
-Initiatives section includes open-source initiatives for which people have raised funds. You can click an initiative to learn more about it. 
+General Funds section includes open-source initiative projects for which people have raised funds.
 
-Each Initiative card shows the following information:
+Each General Fund card shows the following information:
 
-* Initiative name and logo - click on the initiative title/logo to navigate to[ ](projects.md)[initiative](general-funds.md) details page
+* Fund name and logo - click on the title/logo to navigate to[ ](projects.md)[general funds](general-funds.md) details page
 * **Tags** - technologies the project is associated with
 * **Funds Raised** - total funds raised so far
 * **Goal** - ****total funding goal for the project
@@ -87,7 +87,9 @@ Each Initiative card shows the following information:
 * **Funds Distributed** - total expenses so far
 * **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
-![](../../.gitbook/assets/crowdfunding-initiatives%20%281%29.png)
+
+
+![General Funds](../../.gitbook/assets/general-funds.png)
 
 \*\*\*\*
 

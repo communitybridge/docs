@@ -228,7 +228,7 @@
     * [Add a GitHub Project](crowdfunding/apply-for-crowdfunding/add-a-github-project.md)
     * [Add a Git Project](crowdfunding/apply-for-crowdfunding/add-a-git-project.md)
     * [Add a Project for Security Audit](crowdfunding/apply-for-crowdfunding/add-a-project-for-security-audit.md)
-    * [Add Initiatives](crowdfunding/apply-for-crowdfunding/add-initiatives.md)
+    * [Add General Fund](crowdfunding/apply-for-crowdfunding/add-general-fund.md)
     * [Add an Event](crowdfunding/apply-for-crowdfunding/add-an-event.md)
     * [Add a Travel Fund](crowdfunding/apply-for-crowdfunding/add-a-travel-fund.md)
   * [Donate/Sponsor](crowdfunding/donate-sponsor/README.md)

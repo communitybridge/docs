@@ -6,7 +6,7 @@ Crowdfunding makes it easy for individuals and organizations to donate, providin
 
 Browse through projects to learn about their fundraising goals, donations, expenses, and security vulnerabilities. 
 
-### [Apply to add a Project, Security Audit, Initiative, Event, or Travel Fund](apply-for-crowdfunding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
+### [Apply to add a Project, Security Audit, General Fund, Event, or Travel Fund](apply-for-crowdfunding/) <a id="CommunityBridgeFunding-AddaProject,Event,orScholarship"></a>
 
 **Project Maintainers** can submit an application for financial support from individuals and companies to grow their open source communities. The donations help projects pay developers for their contributions, sponsor project related meetups, or other project expenses, such as documentation or marketing. 
 

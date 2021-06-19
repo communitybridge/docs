@@ -36,7 +36,7 @@ Consider the following submission guidelines before you apply:
 * [Add GitHub Project](add-a-github-project.md)
 * [Add Git Project](add-a-git-project.md)
 * [Add a Project for Security Audit](add-a-project-for-security-audit.md)
-* [Add Initiatives](add-initiatives.md)
+* [Add Initiatives](add-general-fund.md)
 * [Add Event](add-an-event.md)
 * [Add a Travel Fund](add-a-travel-fund.md)
 
