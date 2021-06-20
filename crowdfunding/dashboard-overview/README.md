@@ -1,6 +1,6 @@
 # Dashboard Overview
 
-Dashboard gives an overview of projects, events, travel funds, security audits, and initiatives of Crowdfunding.
+Dashboard gives an overview of projects, events, travel funds, security audits, and general funds of Crowdfunding.
 
 1. Go to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. Navigate to tabs, such as [Projects](./#Dashboard-ProjectsandMentorships), [Events](./#Dashboard-Events), [Travel Funds](./#Dashboard-TravelScholarships), [Security Audits \(OSTIF\)](./#security-audits-ostif), [General Funds](./#general-funds), and to learn more about each.
@@ -75,7 +75,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 
 ## General Funds
 
-General Funds section includes open-source initiative projects for which people have raised funds.
+General Funds section includes open-source project initiatives for which people have raised funds.
 
 Each General Fund card shows the following information:
 

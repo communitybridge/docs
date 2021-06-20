@@ -1,6 +1,6 @@
 # General Funds
 
-General Funds page displays the initiative projects that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/)
+General Funds page displays the project initiatives that are currently submitted for raising funds[.](https://ostif.org/the-ostif-mission/)
 
 1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
 2. From **General Funds** tab, select a project to navigate to the project's dashboard.
