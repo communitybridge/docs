@@ -79,7 +79,7 @@ General Funds section includes open-source initiative projects for which people 
 
 Each General Fund card shows the following information:
 
-* Fund name and logo - click on the title/logo to navigate to[ ](projects.md)[general funds](general-funds.md) details page
+* **Fund name and logo** - click on the title/logo to navigate to[ ](projects.md)[general funds](general-funds.md) details page
 * **Tags** - technologies the project is associated with
 * **Funds Raised** - total funds raised so far
 * **Goal** - ****total funding goal for the project

@@ -241,7 +241,7 @@
   * [Event Application](crowdfunding/event-application.md)
   * [Travel Fund Application](crowdfunding/travel-fund-application.md)
   * [Security Audit Application](crowdfunding/security-audit-application.md)
-  * [Initiative Application](crowdfunding/initiative-application.md)
+  * [General Fund Application](crowdfunding/general-fund-application.md)
   * [Manage Your Crowdfunding Account](crowdfunding/manage-your-crowdfunding-account.md)
   * [Get Reimbursed](crowdfunding/get-reimbursed.md)
   * [Submit Travel Funding Reimbursement Expensify Report](crowdfunding/submit-travel-funding-reimbursement-expensify-report.md)

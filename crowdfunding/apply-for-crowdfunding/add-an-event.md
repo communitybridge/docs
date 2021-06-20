@@ -8,7 +8,7 @@ Have these items handy before you begin:
 {% endhint %}
 
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/).
-2. Click **Apply** and select **ADD EVENT**.  ![](../../.gitbook/assets/add-event.png) 
+2. Click **Apply** and select **ADD EVENT**.   ![](../../.gitbook/assets/add-event.png) 
 3. Complete the [event application form](../event-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application**.
 5. \(Optional\) Click **My Projects** tab to view your event pending for approval.  **Note:** You can edit your event at any time. Select the event that you want to update, and click **Edit Event**.

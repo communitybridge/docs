@@ -1,6 +1,6 @@
-# Initiative Application
+# General Fund Application
 
-### Initiative Details
+### **General Fund Details**
 
 <table>
   <thead>
@@ -11,7 +11,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Initiative Name</b>
+      <td style="text-align:left"><b>General Fund Name</b>
       </td>
       <td style="text-align:left">
         <p>A unique name of your Initiative for which you want to raise money.</p>
@@ -39,16 +39,16 @@
   </tbody>
 </table>
 
-### Initiative Branding
+### **General Fund Branding**
 
 | Name | Description |
 | :--- | :--- |
-| **Initiative Logo** | A Symbol or other design adopted by your organization identifies your Initiative. Click **Browse** to upload a JPG, PNG, or SVG file that should be 2 MB max. |
+| **General Fund Logo** | A Symbol or other design adopted by your organization identifies your General Fund. Click **Browse** to upload a JPG, PNG, or SVG file that should be 2 MB max. |
 | **Accent Color** | A color that you want use as your initiative brand. Enter a **hexadecimal number** or click in the field to open the color picker. |
 
-### Initiative Beneficiaries
+### **General Fund Beneficiaries**
 
-Initiative beneficiaries are individuals who can benefit from the funds, or people who you want to sponsor for related activities. They receive invitation from Expensify \(an expense management application\) to submit reimbursements for their expenses.
+General Fund beneficiaries are individuals who can benefit from the funds, or people who you want to sponsor for related activities. They receive invitation from Expensify \(an expense management application\) to submit reimbursements for their expenses.
 
 **Note:** You will be automatically added as a beneficiary when you submit a new initiative application. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
 
@@ -59,18 +59,16 @@ Initiative beneficiaries are individuals who can benefit from the funds, or peop
 
 Click ![](../.gitbook/assets/7418655.jpg) after you enter name and email address of the person you want to add as a beneficiary. 
 
-### Initiative Funding Goal
+### **General Fund Funding Goal**
 
 In the Annual Funding Goal filed, provide an initial funding goal estimated for the initiative.
-
-![](../.gitbook/assets/iniiative-fundig-goal.png)
 
 ### Terms and Conditions
 
 Read and agree to the Terms and Conditions, and **Submit** the application.
 
 {% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
+After The Linux Foundation reviews your application, you will receive an email notification with a review decision. 
 {% endhint %}
 
 
