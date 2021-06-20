@@ -25,7 +25,7 @@ Designated **beneficiaries** get reimbursed for their work efforts by submitting
 
 ## How to Participate <a id="CommunityBridgeFunding-HowtoParticipate"></a>
 
-You can participate by applying and submitting your open source project, initiative or event to raise money through crowdfunding, as well as by donating to projects, and sponsoring events and travel funds. 
+You can participate by applying and submitting your open source project, project related travel fund or event to raise money through crowdfunding, as well as by donating to projects, and sponsoring events and travel funds. 
 
 You must have an [LF SSO account](../sso/create-an-account.md) to sign in to [crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/) to participate. For Sign In details, view [sign in to your account.](../sso/sign-in/)  
 **Note:** If you already have an LF SSO account,  you can sign in using your SSO credentials.

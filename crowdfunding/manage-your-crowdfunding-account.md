@@ -8,6 +8,8 @@ You can manage your Crowdfunding account, for example view a record of all your 
 * [My Projects](manage-your-crowdfunding-account.md#my-projects)
 * [My Account](manage-your-crowdfunding-account.md#my-account)
 
+![Manage Crowdfunding Account](../.gitbook/assets/manage-crowdfunding-account.png)
+
 ### My Transactions
 
 Under **My Transactions tab** you can view the list of all your transactions and monthly subscription donations. 
@@ -18,7 +20,7 @@ Under **My Transactions tab** you can view the list of all your transactions and
 
 ### My Projects
 
-Under **My Projects tab** you can view all your crowdfunding initiatives and their statuses. Click a project to see the fund details and click **Edit** on a card to edit the fund details.
+Under **My Projects tab** you can view all your crowdfunding projects, travel funds, and events including their statuses. Click a project to see the fund details and click **Edit** on a card to edit the fund details.
 
 ### **My Account**
 

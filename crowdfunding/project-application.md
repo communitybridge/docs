@@ -59,7 +59,7 @@ After you enter the name and email address of a person, click **+Add beneficiary
 * **Meetups Goal:** You can use funds allocated for this category to socially connect with your community through local meetups, annual summits, or big industry events. ****
 * **Bug Bounty Goal:** You can use funds allocated for this category to run bug bounty programs \(for example, through HackerOne or other program\), and pay community to help you identify bugs.
 * **Travel Goal:** You can use funds allocated for this category to sponsor travel for project members to attend conferences, meetups, or customer meetings.
-* **Documentation Goal:** You can use funds allocated for this category to drive specific documentation initiatives, such as paying technical writers, purchasing subscription premiums, and so on.
+* **Documentation Goal:** You can use funds allocated for this category to drive specific documentation activities, such as paying technical writers, purchasing subscription premiums, and so on.
 
 ![](../.gitbook/assets/7418622.png)
 
