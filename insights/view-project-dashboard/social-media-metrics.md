@@ -36,7 +36,7 @@ It provides a high-level overview of the project’s channel-level performance, 
 * Name of the metric
 * Metric value
 * % change over time \(based on time range selected\)
-* Metric results-over-time graph \(set in daily increments for the time range selected\)
+* Metric results-over-time graph \(set in daily increments for the time range selected\). Click the graph to open a mini graph that displays  detailed results over time.
 {% endhint %}
 
 ### **Twitter Insights**
