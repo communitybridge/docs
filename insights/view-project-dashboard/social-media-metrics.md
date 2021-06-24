@@ -31,12 +31,14 @@ It provides a high-level overview of the project’s channel-level performance, 
 {% hint style="info" %}
 **Section Summaries:** Each section includes a summary of key metrics. These are visualized as metric blocks, which include the following details:
 
-![](https://lh6.googleusercontent.com/5HwfCuStFXeFf9DBPz8EAGF58PpTDzqcUKRIJuiRvCgyn_aUz2-AZve7zx1GBWuN3LmOEkYLTdfBVNF8HtbGC_Z7nlqCkDryTWes3S4vN1u4CC0R-q8pdNV_bJOlkfPqg0slXLQm)
+![](../../.gitbook/assets/of-tweets.png) 
 
 * Name of the metric
 * Metric value
 * % change over time \(based on time range selected\)
-* Metric results-over-time graph \(set in daily increments for the time range selected\). Click the graph to open a mini graph that displays  detailed results over time.
+* Metric results-over-time graph \(set in daily increments for the time range selected\). Click the mini graph to view detailed results over time.
+
+![](../../.gitbook/assets/of-tweets-mini-graph.png) 
 {% endhint %}
 
 ### **Twitter Insights**
