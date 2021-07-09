@@ -6,7 +6,7 @@ For more information on Security Services, visit [Security Documentation](https:
 
 ## Security Bot Installation  <a id="security-bot-installation"></a>
 
-The Security services can configured from the PCC. You can install the Security bot from the PCC.
+Onboarding projects into LFX Security is done from the PCC \(Project Control Center\). As part of this onboarding a Security Bot is installed on GitHub Organizations of the project.
 
 To setup the Security service using PCC, perform the following steps:
 
@@ -38,12 +38,12 @@ Make sure that you logged into the GitHub.
 
 6.The Install & Authorize LFx Security GitHub App page appears. This page provides the following information:
 
-* Information on the permission requested for the selected repositories. The LFX Security requests the following permissions from your GitHub organization:
+* Information on the permission requested for the selected repositories. The LFX Security requests the following permissions from the GitHub:
   * **Read** access to administer, code, check commit status, lookup members, and other metadata.
   * **Read** and **write** access to organization hooks, pull requests, and repository hooks.
-  *  Installing and authorizing LFX Security GitHub App immediately grants these permissions on your account:
+  *  Installing and authorizing LFX Security GitHub App grants these permissions on your account:
   * **Read** access to emails
-* Access to the repositories. You can either provide access to all the repositories or the for the selected repositories in the GitHub organization.
+* Access to the repositories. You can either provide access to all the repositories or selected repositories within the GitHub Organization.
 
 Click **Install & Authorize** to install the LFX Security GitHub App.
 
