@@ -40,5 +40,5 @@
     * [Add and Manage a Contributor](corporate-cla-console/projects/add-and-manage-a-contributor.md)
   * [Manage Organization](corporate-cla-console/manage-organization.md)
   * [Manage your Profile](corporate-cla-console/manage-your-profile.md)
-* [Security Service](untitled.md)
+* [Security Service](security-service.md)
 
