@@ -25,7 +25,7 @@ Each project card shows the following information:
 * **Commits** shows the total number of commits to the project.
 * **Repositories** shows the total number of repositories created for the project.
 * **Lines of Code** shows total number of lines of code added and modified for the project repository.
-* **Data Sources** shows the logos of different data sources, such as ![](../.gitbook/assets/18088191%20%284%29%20%283%29.png) for GitHub and/or Gerrit, ![](../.gitbook/assets/18088260%20%283%29%20%283%29%20%283%29%20%281%29.png) for Jira, or ![](../.gitbook/assets/18088264%20%282%29%20%282%29%20%282%29%20%281%29.png) for Slack, and so on.
+* **Data Sources** shows the logos of different data sources, such as ![](../.gitbook/assets/18088191%20%284%29%20%283%29.png) for GitHub and/or Gerrit, ![](../.gitbook/assets/18088260%20%283%29%20%283%29%20%283%29%20%283%29%20%281%29.png) for Jira, or ![](../.gitbook/assets/18088264%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png) for Slack, and so on.
 
 ### Project Group
 

@@ -1,8 +1,8 @@
 # Non Inclusive Language
 
-LFX Security with the BluBracket collaboration scans for non inclusive language which is used in the code. Non inclusive language is usage of language where people are unfairly treated, insulted and people are excluded based on their ethnicity, gender or color. Usage of these words or language is not expected and unethical to use in the open source code. 
+LFX Security in collaboration with BluBracket scans for non inclusive language. Non inclusive language that depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. Usage of these words or language is not expected  use in the open source code. 
 
-LFX Security will scan for the non inclusive language  which might have been added by the developers unintentionally without their knowledge. Some of the genetic non inclusive language that are used in the code are blacklist, whitelist, slave, master. 
+LFX Security will scan for the non inclusive language  which might have been added by the developers unintentionally without their knowledge. Some of the generic non inclusive words that are used in the code are blacklist, whitelist, slave, master. 
 
 To view non inclusive language, perform the following steps:
 
@@ -25,12 +25,12 @@ To view non inclusive language, perform the following steps:
 ![Non Inclusive Language Details ](../.gitbook/assets/nil1.png)
 
 {% hint style="info" %}
-When you click on the Description of the non inclusive language, you will be navigated to the line of the code where non inclusive language has been used. 
+When you click on the **Description** of the non inclusive language, you will be taken to the line of the code where non inclusive language has been used. 
 {% endhint %}
 
 ## Notifying Developer 
 
-You have an option to notify the developer who as used the non inclusive language in their code. This notification feature will allow the developer to remove or replace the non inclusive language. 
+You have an option to notify the developer who has used the non inclusive language in their code. This notification feature will allow the developer to remove or replace the non inclusive language. 
 
 To notify a developer on usage of non inclusive language, perform the following steps:
 
@@ -46,7 +46,7 @@ You can see **Notified** along with a green tick mark when a notification is sen
 
 ![Notify Developer ](../.gitbook/assets/nil2.png)
 
-3.You can also send a reminder notification to the developer if the developer as not replaced the non inclusive language even after send a notification. Click **Remind Developer** to send a reminder notification. 
+3.You can also send a reminder notification to the developer if the developer has not replaced the non inclusive language even after a notification. Click **Remind Developer** to send a reminder notification. 
 
 ![Reminder Notification ](../.gitbook/assets/nil3.png)
 

@@ -12,7 +12,7 @@ Refer the following for refining data for summary page and individual data sourc
 * [View Identities and Affiliations](identities-and-affiliations/)
 * Eliminate data by clicking the corresponding legend **caption**. Click the **caption** again to include the data.  ![](../../.gitbook/assets/exclude-data.png)
 * Click **sparklines** to open a bar chart that displays data per calendar period. Following example shows lines of code changed per calendar period.   ![](../../.gitbook/assets/sparkly-line.png) ![](../../.gitbook/assets/sparkly-line-expanded.png) 
-* Click numbers on a data card to view the respective dashboard. Following is an example of Lines of Code Changed:  ![](../../.gitbook/assets/click-for-dashboard%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png) 
+* Click numbers on a data card to view the respective dashboard. Following is an example of Lines of Code Changed:  ![](../../.gitbook/assets/click-for-dashboard%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png) 
 * Select a value from the drop down to quickly navigate to the respective section on Summary dashboard: ![](../../.gitbook/assets/summary-drop-down%20%281%29.png) 
 * While navigating from top to bottom on Summary dashboard, click ![](../../.gitbook/assets/summary-dashboard-up-arrow.png) on the down right corner to reach to the top of the page.
 

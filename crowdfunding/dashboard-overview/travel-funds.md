@@ -40,7 +40,7 @@ The Dashboard shows various aspects of the fund depending on the data that is av
 
 View an example of a travel fund dashboard section:
 
-![](../../.gitbook/assets/7418524%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
+![](../../.gitbook/assets/7418524%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
 
 ## Financial <a id="TravelScholarships-Financial"></a>
 
@@ -48,5 +48,5 @@ The Financial tab lists all transactions with details in chronological order.
 
 View an example of a travel fund financial tab section:
 
-![](../../.gitbook/assets/7418651%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](../../.gitbook/assets/7418651%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
 

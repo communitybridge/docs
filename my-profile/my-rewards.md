@@ -9,7 +9,7 @@ My Rewards consists of the following sections in it:
 * My Coupons
 * My Transactions 
 
-![My Rewards  ](../.gitbook/assets/r1%20%281%29%20%281%29.png)
+![My Rewards  ](../.gitbook/assets/r1%20%281%29%20%281%29%20%281%29.png)
 
 ## My Coupons 
 
@@ -23,7 +23,7 @@ For example, if you have registered for an event say Cloud Native conference, yo
 
 When you hover over the mouse on the ![](../.gitbook/assets/ei.png)  icon, you can see the details related to the earned coupon.
 
-![Earned Coupon](../.gitbook/assets/r1%20%281%29.png)
+![Earned Coupon](../.gitbook/assets/r1%20%281%29%20%281%29.png)
 
 To claim the earned coupon, perform the following steps:
 
