@@ -1,15 +1,27 @@
 # EasyCLA
 
-EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\) so you can stay compliant with project policies. It is the only tool to support both individual and corporate CLA workflows.
+EasyCLA streamlines the management and execution of Contributor License Agreements \(CLAs\), to help projects ensure that contributions are made in accordance with project policies. It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
 
-## Third-party Services <a id="third-party-services"></a>
+## Quick Help <a id="quick-help"></a>
+
+For information about how to get started with contributing to a project that uses EasyCLA, please see [Getting Started](getting-started/) and our [FAQs](getting-started/easycla-faqs.md) page.
+
+For support questions, please see our [Troubleshooting page](getting-started/cla-troubleshooting/) or [file a support ticket](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
+
+## EasyCLA Development
+
+### Third-party Services
 
 Besides integration with Auth0 and Salesforce, the EasyCLA system uses the following third party services:
 
 * ​[Docusign](https://www.docusign.com/) for CLA agreement e-sign flow
 * ​[Docraptor](https://docraptor.com/) for converting html CLA template to PDF file
+* [GitHub](https://github.com/) for GitHub PR CLA authorization checking/gating
+* Gerrit for CLA authorization review checking/gating
+* Auth0 For Single Sign On
+* Salesforce through the LFX Platform APIs
 
-## EasyCLA Backend <a id="cla-backend"></a>
+### EasyCLA Backend
 
 The EasyCLA project has two backend components.
 
@@ -17,7 +29,7 @@ The majority of the backend APIs are implemented in python, and can be found in 
 
 Recent backend development was implemented in Golang, and can be found in the [`cla-backend-go`](https://github.com/communitybridge/easycla/tree/master/cla-backend-go) directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
 
-## EasyCLA Frontend <a id="cla-frontend"></a>
+### EasyCLA Frontend
 
 EasyCLA frontend consists of three independent Single Page Application \(SPA\) built with [Ionic](https://ionicframework.com/) frameworks:
 

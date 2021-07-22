@@ -2,11 +2,15 @@
 
 ## What is LFX EasyCLA? <a id="what-is-easycla"></a>
 
-_LFX EasyCLA_ helps maintainers of open source projects streamline their workflows and reduce the hassle of managing Contributor License Agreements \(CLAs\) and authorizing contributors. By automating many of the manual processes, this open source solution hosted by the Linux Foundation reduces delays for developers to get authorized under a CLA.
+_LFX EasyCLA_ helps streamline the contribution process for open source projects that use Contributor License Agreements \(CLAs\), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project. EasyCLA coordinates the process of getting CLAs signed and, for companies and other organizations, the process of authorizing employees to contribute under a signed CLA. By automating many of the manual processes, this open source solution hosted by The Linux Foundation reduces delays for developers to get authorized under a CLA.
 
 ## What is a CLA? <a id="what-is-a-cla"></a>
 
-A _Contributor License Agreement_ \(CLA\) defines the terms under which intellectual property is contributed to a company or project. Typically, the intellectual property is software under an open source license. EasyCLA helps to ensure that contributions are not pulled into a project unless a CLA covering the contributor has been signed. CLAs typically fall into one of two categories:
+Some projects use a _Contributor License Agreement_ \(CLA\) to define the terms under which content \(such as source code or documentation\) is contributed to the project.
+
+Not all projects use CLAs; many use alternative contribution mechanisms, such as the [Developer Certificate of Origin](https://developercertificate.org/) sign-off process. For those that do use CLAs, LFX EasyCLA helps to ensure that contributions are not merged into a project unless the contributors are covered under a signed CLA.
+
+There are two types of CLAs:
 
 * **Corporate Contributor License Agreement**
 
