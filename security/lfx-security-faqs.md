@@ -2,7 +2,7 @@
 
 ## What is LFX Security? <a id="VulnerabilityDetectionFAQs-WhatisCommunityBridgeVulnerabilityDetection?"></a>
 
-LFX Security \(earlier  called as Vulnerability Detection\) is a service that helps open source developers identify and remediate security vulnerabilities in order to create more secure code. Projects that are part of the Linux Foundation database receive free weekly scans via the LFX Security service in order to detect vulnerabilities in code repositories. A public dashboard gives developers visibility into open security issues and paths to remediation.
+LFX Security \(earlier  called as Vulnerability Detection\) is a service that helps the open source developers identify and remediate security vulnerabilities in order to create more secure code. Projects that are part of the Linux Foundation database receive free weekly scans via the LFX Security service in order to detect vulnerabilities in code repositories. A public dashboard gives developers visibility into open security issues and paths to remediation.
 
 ## Does LFX Security automatically scan my project’s code? <a id="VulnerabilityDetectionFAQs-DoesCommunityBridgeautomaticallyscanmyproject&#x2019;scode?"></a>
 

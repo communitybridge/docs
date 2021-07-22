@@ -1,6 +1,6 @@
 # Date Range
 
-Date Range provides you with the option to refine your results based on the relative date ranges or you can select the time range from the calendar. 
+Date Range provides you with an option to refine your results based on the relative date ranges or you can select the time range from the calendar. 
 
 {% hint style="info" %}
 By default the date range is set to **All Time**.

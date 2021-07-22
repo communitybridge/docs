@@ -1,6 +1,8 @@
 # Add a Project to LFX Security
 
-LFX Security hosts open source projects that show security vulnerability information in the Vulnerability Report. When a project is hosted on LFX Security:
+LFX Security hosts open source projects that show security vulnerability information in the Vulnerability Report. 
+
+When a project is hosted on the LFX Security:
 
 * Only Project maintainers and contributors can access LFX Security scan details.
 

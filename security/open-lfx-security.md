@@ -1,6 +1,6 @@
 # Open LFX Security
 
-LFX Security detects vulnerabilities in LFX projects. Projects that are part of the LFX receive free daily scans through the LFX Security service in order to detect vulnerabilities in code repositories as well as library dependencies. LFX projects include a Vulnerability Report, which gives an overview of vulnerability severities. 
+LFX Security detects vulnerabilities in the LFX projects. Projects that are part of the LFX receive free daily scans through the LFX Security service in order to detect vulnerabilities in code repositories as well as library dependencies. LFX projects include a Vulnerability Report, which gives an overview of vulnerability severities. 
 
 {% hint style="warning" %}
 Only project maintainers can access Vulnerability Detection details to gain visibility into open security issues and paths to remediation.

@@ -2,7 +2,7 @@
 
 LFX Security has collaborated with BluBracket to scan for valuable private information and non-inclusive words in open source code, we call this information “code secrets”. Unearthing code secrets has made the open source projects more secure and the code security is enhanced to a great extent by detecting and monitoring the risks thus improving the code.
 
-In order to scan for code secrets, projects need to be onboarded to the BluBracket platform.
+In order to scan for the code secrets, projects need to be onboarded to the BluBracket platform.
 
 {% hint style="info" %}
 LFX team will share the link with the project maintainer to install the LFX Security GitHub App to onboard the project. The project maintainer should install the LFX Security GitHub App.

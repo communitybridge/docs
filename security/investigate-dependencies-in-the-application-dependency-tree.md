@@ -35,7 +35,7 @@ A snapshot of dependencies in the repository in a tree format of the dependencie
 
 You can also check the vulnerability details only for a particular repository. 
 
-To check the vulnerability details only, perform the following:
+To check the vulnerability details only, perform the following steps:
 
 1.Click **Dependency Tree** and select **Vulnerabilities Only**. 
 

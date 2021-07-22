@@ -4,7 +4,7 @@ LFX Security identifies the licenses that are used by your projects and their de
 
 **Do these steps:**
 
-1.Select **Licenses** from the top menu. All licenses are listed in alphabetical order for the dependencies in a project by their license identifier, for example, `Apache-2.0`. The list also shows the number of dependencies for each license. Dependencies with more than one license are shown individually.  
+1.Select **Licenses** from the top menu. All licenses are listed in alphabetical order for the dependencies in a project by their license identifier. For example, `Apache-2.0`. The list also shows the number of dependencies for each license. Dependencies with more than one license are shown individually.  
 
 
 ![Licenses](../.gitbook/assets/licenses.png)
