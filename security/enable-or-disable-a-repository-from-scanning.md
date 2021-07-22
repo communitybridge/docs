@@ -4,7 +4,7 @@ From Settings tab, you can perform the following tasks:
 
 * Enable or disable vulnerability and code secret scanning for a repository to refine scanning report of the project.
 * Auto enabling repositories for scanning vulnerabilities and code secrets.
-*  Adding non inclusive words to scan from the code.
+* Adding non inclusive words to scan from the code.
 
 **To enable/disable a repository:**
 
