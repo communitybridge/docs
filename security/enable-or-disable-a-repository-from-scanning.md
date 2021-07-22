@@ -8,7 +8,7 @@ From Settings tab, you can perform the following tasks:
 
 ## **Enable/Disable a Repository for Vulnerability Scan**
 
-You can enable or disable a repository for vulnerability scanning in the Settings tab. If you enable a repository for vulnerability scanning, the repository is scanned for the vulnerabilities. If you disable the vulnerability scanning for a repository, the scanning will be skipped for the selected repository and vulnerabilities will not be detected.  
+You can enable or disable a repository for vulnerability scanning in the Settings tab. If you enable a repository for vulnerability scanning, the repository is scanned for the vulnerabilities. If you disable the vulnerability scanning for a repository, the scanning will be skipped for the selected repository and vulnerabilities are not detected.  
 
 To enable or disable a repository for vulnerability scan, perform the following steps:
 
@@ -37,6 +37,37 @@ An error will be displayed when the language used in the repository is not suppo
 
 ![Last Scan Results](../.gitbook/assets/last_scan%20%282%29.png)
 
+## **Enable/Disable a Repository for Code Secret Scan**
+
+You can enable or disable a repository for code secret scanning in the Settings tab. If you enable a repository for code secret scanning, the repository is scanned for the code secrets. If you disable the code secrets scanning for a repository, the scanning will be skipped for the selected repository and code secrets are not detected.  
+
+To enable or disable a repository for code secret scan, perform the following steps:
+
+1.Select **Settings** from the menu and click **Code Secrets**.  
+All repositories of the project are listed in alphabetical order. 
+
+![Code Secret Settings](../.gitbook/assets/settings_code_secret.png)
+
+2.Under **Scan Code Secrets** tab, toggle **scan** button to enable or disable a repository from scanning. 
+
+{% hint style="info" %}
+You can also enable or disable scanning for all repositories by toggle of **Scan Code Secrets**. 
+{% endhint %}
+
+![Scan Repositories](../.gitbook/assets/settings_code_secret2.png)
+
+3. Under **Last** **Scan Results** tab, you can see whether the repository scan has been successful or where there were any errors while scanning the repository.
+
+When the scan of the repository is successful, it is displayed as **Successful** and if there are any errors, it will be displayed as **Error**.
+
+{% hint style="info" %}
+The error details for the repository is displayed when you click the ![](../.gitbook/assets/error.png) icon. 
+
+An error will be displayed when the language used in the repository is not supported by Security scan.
+{% endhint %}
+
+![Last Scan Results](../.gitbook/assets/settings_code_secret3.png)
+
 ## Adding Non Inclusive Words
 
 You can add the words which depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. LFX will scan for these non inclusive words in the code. You refer [Non Inclusive Languag](non-inclusive-language.md)e section for more information. 
@@ -58,6 +89,16 @@ You have an option to auto enable scanning of repositories for vulnerability sca
 You can the **Auto Enable New Repositories** toggle button to set the auto scanning of the new repositories. This button is available in the **Settings tab** and under **** **Vulnerabilities**.
 
 ![Auto Enable ](../.gitbook/assets/enable_vul.png)
+
+## Auto Enable Scanning of Repositories for Code Secrets
+
+You have an option to auto enable scanning of repositories for code secrets scanning when a new repository is added in the GitHub project. When you select the Auto enable option, all the new repositories are scanned for the code secrets. 
+
+You can the **Auto Enable New Repositories** toggle button to set the auto scanning of the new repositories. This button is available in the **Settings tab** and under **** **Code Secrets**.
+
+![Auto Enable ](../.gitbook/assets/enable_cs.png)
+
+
 
 
 
