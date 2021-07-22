@@ -15,7 +15,7 @@ To enable or disable a repository for vulnerability scan, perform the following 
 1.Select **Settings** from the menu and click **Vulnerabilities**.  
 All repositories of the project are listed in alphabetical order. 
 
-![Settings](../.gitbook/assets/vul%20%281%29.png)
+![Vulnerabilities Settings](../.gitbook/assets/vul%20%281%29.png)
 
 2.Under **Scan Vulnerabilities** tab, toggle **scan** button to enable or disable a repository from scanning. 
 
@@ -36,6 +36,22 @@ An error will be displayed when the language used in the repository is not suppo
 {% endhint %}
 
 ![Last Scan Results](../.gitbook/assets/last_scan%20%282%29.png)
+
+## Adding Non Inclusive Words
+
+You can add the words which depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. LFX will scan for these non inclusive words in the code. You refer [Non Inclusive Languag](non-inclusive-language.md)e section for more information. 
+
+To add non inclusive words, perform the following steps:
+
+1.Select **Settings** from the menu and click **Vulnerabilities**.
+
+![Non Inclusive Language Settings ](../.gitbook/assets/setting_nil.png)
+
+2.Enter the non inclusive word in the **Add word** box and click **+Add**. The added non inclusive words are listed under NON-INCLUSIVE LANGUAGE. 
+
+![Adding Non Inclusive Word](../.gitbook/assets/setting_nil_2.png)
+
+
 
 
 
