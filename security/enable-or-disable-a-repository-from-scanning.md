@@ -6,7 +6,11 @@ From Settings tab, you can perform the following tasks:
 * Auto enabling repositories for scanning vulnerabilities and code secrets.
 * Adding non inclusive words to scan from the code.
 
-**To enable/disable a repository:**
+## **Enable/Disable a Repository for Vulnerability Scan**
+
+You can enable or disable a repository for vulnerability scanning in the Settings tab. If you enable a repository for vulnerability scanning, the repository is scanned for the vulnerabilities. If you disable the vulnerability scanning for a repository, the scanning will be skipped for the selected repository and vulnerabilities will not be detected.  
+
+To enable or disable a repository for vulnerability scan, perform the following steps:
 
 1.Select **Settings** from the menu.  
 All repositories of the project are listed in alphabetical order. 
@@ -16,10 +20,10 @@ All repositories of the project are listed in alphabetical order.
 2.Under **Scan Repositories** tab, toggle **scan** button to enable or disable a repository from scanning. 
 
 {% hint style="info" %}
-You can also enable or disable scanning for all repositories by toggle of **Scan Repositories**. 
+You can also enable or disable scanning for all repositories by toggle of **Scan Vulnerabilities**. 
 {% endhint %}
 
-![Scan Repositories](../.gitbook/assets/new_scan.png)
+![Scan Repositories](../.gitbook/assets/settings%20%283%29.png)
 
 3.Under **Scan Dev Dependencies** tab, toggle scan button to enable or disable dev dependency scan.
 
