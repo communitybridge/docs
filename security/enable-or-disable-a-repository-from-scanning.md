@@ -51,6 +51,16 @@ To add non inclusive words, perform the following steps:
 
 ![Adding Non Inclusive Word](../.gitbook/assets/setting_nil_2.png)
 
+## Auto Enable Scanning of Repositories for Vulnerabilities
+
+You have an option to auto enable scanning of repositories for vulnerability scanning when a new repository is added in the GitHub project. When you select the Auto enable option, all the new repositories are scanned for the vulnerabilities. 
+
+You can the **Auto Enable New Repositories** toggle button to set the auto scanning of the new repositories. This button is available in the **Settings tab** and under **** **Vulnerabilities**.
+
+![Auto Enable ](../.gitbook/assets/enable_vul.png)
+
+
+
 
 
 
