@@ -9,18 +9,24 @@ Vulnerabilities can be caused by either direct or deep dependencies.
 
 As an open-source developer, you should understand the direct and indirect dependencies your repositories and projects use, including any security flaws that might exist in the dependency tree. LFX Security determines all the paths through the dependency tree in which a vulnerable dependency can be reached, and identifies the vulnerability.
 
-**Do these steps:**
+## All Dependencies 
 
-1.Select **Dependency Tree** from the top menu.
+To view all dependencies, perform the following:
+
+1.Select **Dependency Tree** from the top menu and click **All Dependencies**.
 
 A snapshot of dependencies in the repository in a tree format of the dependencies appears. The tree repository order is descendant from the greatest number of dependencies in a repository to the least number. Each item \(a branch or a node\) can have a number of subitems. By default, the first three levels appear. Expand nodes of interest to drill down in the tree.
 
-![Dependency Tree](../.gitbook/assets/dependency_tree.png)
+![Dependency Tree](../.gitbook/assets/dependency%20%281%29.png)
 
-2.Select a **repository** from the Repository drop-down list. Only dependencies for that repository and project appear.  
+2. You can select a **repository** from the Repository drop-down list. Only dependencies for the selected repository and project appear.  
 
 
-![Search Repository](../.gitbook/assets/search.png)
+![Select Repository](../.gitbook/assets/dependency_select.png)
+
+{% hint style="info" %}
+Click the download ![](../.gitbook/assets/download_icon%20%281%29.png) icon to download the dependency CSV file. 
+{% endhint %}
 
 3.Navigate the tree to identify vulnerable dependencies in the repository. A yellow warning icon indicates that an item has a child with a vulnerability—track a dependency by following the yellow warning icons down the tree. On vulnerable dependencies, colored labels indicate severity levels. You can click a label to go to the Details dashboard to see the issue details inside the project.  
 
@@ -39,7 +45,11 @@ To check the vulnerability details only, perform the following steps:
 
 1.Click **Dependency Tree** and select **Vulnerabilities Only**. 
 
-![Vulnerabilities Only](../.gitbook/assets/vul_only.png)
+![Vulnerabilities Only](../.gitbook/assets/vul%20%282%29.png)
+
+{% hint style="info" %}
+Click the download ![](../.gitbook/assets/download_icon%20%281%29.png) icon to download the vulnerabilities CSV file. 
+{% endhint %}
 
 2. List of vulnerabilities related for a particular repositories are listed. You  can click on the links for a particular issue such as High, Medium and Low. By clicking the link, you will redirected to the issues page. 
 
