@@ -50,8 +50,6 @@ You can use the ![](../.gitbook/assets/eye_icon.png) icon to dismiss the vulnera
 
 ![GitHub Links ](../.gitbook/assets/github.png)
 
-
-
 ### Download Issues
 
 You have an option to download the CSV file that contains issues related to your repository. The downloaded CSV file contains information such as:
