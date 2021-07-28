@@ -14,7 +14,7 @@ People looking for professional advancement in open source as well as students a
 
 ## Do mentees get compensated? <a id="MentorshipFAQs-Domenteesgetcompensated?"></a>
 
-Mentees are not employees of the Linux Foundation or of the project providing the mentorship, so they are not directly paid wages for their participation in the mentorship. However, many projects choose to offer stipends and other incentives to support and encourage mentees to participate. Funding for stipends and other perks is determined solely by each project. The Linux Kernel, for example, will offer a total stipend of $5,500 USD per mentee for the mentorship period, and mentees also receive travel funding to industry conferences to present the work they’ve done during the program.
+Mentees are not employees of the Linux Foundation or of the project providing the mentorship, so they are not directly paid wages for their participation in the mentorship. However, many projects choose to offer stipends and other incentives to support and encourage mentees to participate. Funding for stipends and other perks is determined solely by each project.
 
 ## What are some of the projects and employers participating in the Mentorship program? <a id="MentorshipFAQs-WhataresomeoftheprojectsandemployersparticipatinginCommunityBridgeMentorship?"></a>
 
