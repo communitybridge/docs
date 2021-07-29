@@ -17,6 +17,7 @@ Insights supports the following data sources based on their categories:
 * [Chat Room](supported-data-sources.md#chat-room)
 * [Documentation](supported-data-sources.md#documentation)
 * [Social Media](supported-data-sources.md#social-media-1)
+* [Earned Media](supported-data-sources.md#earned-media)
 * [Registry](supported-data-sources.md#registry)
 
 #### Source Control Systems
@@ -50,6 +51,10 @@ Insights supports Confluence for tracking and visualizing project's documentatio
 #### Social Media
 
 Insights supports [Twitter](view-project-dashboard/social-media-metrics.md#overview) as social media platform to visualize project's ****high-level insights from the project's twitter account.
+
+####  Earned Media
+
+Insights supports _Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](view-project-dashboard/ecosystem-metrics/earned-media/).
 
 #### Registry
 
