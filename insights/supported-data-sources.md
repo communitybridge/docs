@@ -10,19 +10,18 @@ Data sources are the collaboration tools or the remote servers that are used to 
 
 Insights supports the following data sources based on their categories:
 
+* [Source Control Systems](supported-data-sources.md#source-control-systems)
+* [Issue Tracking Systems](supported-data-sources.md#issue-tracking-systems)
+* [Build Systems](supported-data-sources.md#build-systems)
+* [Email Systems](supported-data-sources.md#email-systems)
+* [Chat Room](supported-data-sources.md#chat-room)
+* [Documentation](supported-data-sources.md#documentation)
+* [Social Media](supported-data-sources.md#social-media-1)
+* [Registry](supported-data-sources.md#registry)
+
 #### Source Control Systems
 
-* Git
-* GitHub
-* Gerrit
-
-#### Documentation
-
-Insights supports Confluence for tracking and visualizing project's documentation. For details, see [Confluence](view-project-dashboard/ecosystem-metrics/documentation/confluence.md).
-
-#### Chat Room
-
-Insights supports chat room platforms, such as [Slack](view-project-dashboard/ecosystem-metrics/chat-room/slack.md) and [Rocket Chat](view-project-dashboard/ecosystem-metrics/chat-room/rocket-chat.md) to analyze the project related communication activities.
+Insights supports Git, GitHub, and Gerrit for tracking and visualizing project's source code analytics. For details, see [Source Control](view-project-dashboard/technical-metrics/source-control/).
 
 #### Issue Tracking Systems
 
@@ -40,11 +39,23 @@ Insights supports [Jenkins](view-project-dashboard/technical-metrics/ci-cd/jenki
 
 Insights supports [Pipermail](view-project-dashboard/ecosystem-metrics/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-metrics/mailing-list/groupsio.md), and [Google Groups](view-project-dashboard/ecosystem-metrics/mailing-list/google-groups.md) as email systems to visualize project related communication activities.
 
+#### Chat Room
+
+Insights supports chat room platforms, such as [Slack](view-project-dashboard/ecosystem-metrics/chat-room/slack.md) and [Rocket Chat](view-project-dashboard/ecosystem-metrics/chat-room/rocket-chat.md) to analyze the project related communication activities.
+
+#### Documentation
+
+Insights supports Confluence for tracking and visualizing project's documentation. For details, see [Confluence](view-project-dashboard/ecosystem-metrics/documentation/confluence.md).
+
 #### Social Media
 
 Insights supports [Twitter](view-project-dashboard/social-media-metrics.md#overview) as social media platform to visualize project's ****high-level insights from the project's twitter account.
 
-## In Progress 
+#### Registry
+
+Insights supports [DockerHub](view-project-dashboard/technical-metrics/registry/dockerhub.md) to track container images. 
+
+## In Progress
 
 The Linux Foundation is developing Insights tool to support the following data sources in the next release:
 
@@ -58,9 +69,9 @@ The Linux Foundation is working towards supporting the following data sources ve
 
 #### Build Systems
 
-The Linux Foundation is releasing soon the support for some more popular build system data sources, such as **Travis CI**, **Gitlab CI**, **GitHub Actions**, to name a few.
+The Linux Foundation is releasing soon the support for some more popular build system data sources, such as **Travis CI \(**Continuous Integration**\)**, **Gitlab CI**, **GitHub Actions**, to name a few.
 
-#### Email Systems
+#### Chat Room
 
 The Linux Foundation is developing Insights tool to support **GitHub Team Discussions**.
 
