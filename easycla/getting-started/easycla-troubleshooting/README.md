@@ -56,7 +56,8 @@ It may take a few moments for the status of the EasyCLA checks to update. Please
 
 #### Solution for Gerrit:
 
-If the status on Git command line still shows "No contributor agreement" when you push the code change, then you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.![](../../../.gitbook/assets/signout-gerrit.png) 
+If the status on Git command line still shows "No contributor agreement" when you push the code change, then you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.  
+![](../../../.gitbook/assets/signout-gerrit.png) 
 
 ### Problem \(Corporate Contributors\):
 
