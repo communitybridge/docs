@@ -6,8 +6,8 @@ After mentees submit expensify report, as described in [Submit Expensify Report 
 
 You can decline a report if:
 
-* mentee accidentally files wrong amount. For example, if the total stipend to be paid to a mentee is $3000 which is paid in two halves, i.e. $1500 each, but the mentee files directly for $3000 in the first half.
-*  mentee does not complete the tasks assigned to them.
+* Mentee accidentally files wrong amount. For example, if the total stipend to be paid to a mentee is $3000 which is paid in two halves, i.e. $1500 each, but the mentee files directly for $3000 in the first half.
+*  Mentee does not complete the tasks assigned to them.
 
 
 
