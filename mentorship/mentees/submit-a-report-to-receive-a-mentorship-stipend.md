@@ -25,12 +25,12 @@ And select **Add Expenses** to create and add  a new expense.
 6. Create a new expense by completing the fields as follows:  
      **Merchant:** Your name   
      **Date:** Date of the stipend payment \(today's date\)  
-     **Total:** 50% of the total amount of your stipend payment for midterm and final evaluation                      periods.   
+     **Total:** 50% of the total amount of your stipend payment for midterm and final evaluation periods.   
      **Category:** Select **Mentorship** from the dropdown list  
      **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
 
 {% hint style="info" %}
-
+**Note:**
 
 1. **United States residents:** please add the US bank deposit account to Expensify when first setting up the Expensify account 
 
@@ -43,7 +43,11 @@ And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-After you're redirected to the Reports page, click **Submit** from the top left corner.
+7. After you're redirected to the Reports page, click **Submit** from the top left corner.
+
+8. \(Optional\) Provide email address of an individual in **CC** field if you want to share the report with the individual.
+
+9. Click **Send**.
 
 {% hint style="info" %}
 If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Bank Accounts** as shown below.

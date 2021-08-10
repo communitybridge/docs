@@ -161,6 +161,7 @@
     * [View Mentee Profile](mentorship/administrators/view-mentee-profile.md)
     * [Manage Mentees Applications](mentorship/administrators/manage-mentees-applications.md)
     * [Manage Mentees Tasks](mentorship/administrators/manage-mentee-tasks.md)
+    * [Approve Mentee Stipends](mentorship/administrators/approve-mentee-stipends.md)
     * [Contact a Mentee](mentorship/administrators/contact-a-mentee.md)
   * [Mentees](mentorship/mentees/README.md)
     * [Create Mentee Profile](mentorship/mentees/create-a-mentee-profile.md)
