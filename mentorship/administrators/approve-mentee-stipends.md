@@ -1,6 +1,10 @@
 # Approve Mentee Stipends
 
-After mentees submit expensify report, as described in [Submit Expensify Report to Receive Mentorship Stipend](../mentees/submit-a-report-to-receive-a-mentorship-stipend.md), you \(administrators\) receive an email from Expensify. Open the email, and click **Approve** in the email to navigate to the Expensify page to approve or decline the report.
+After mentees submit their Expensify reports, as described in [Submit Expensify Report to Receive Mentorship Stipend](../mentees/submit-a-report-to-receive-a-mentorship-stipend.md), you \(administrators\) receive an email from Expensify. Open the email, and click **Approve** in the email to navigate to the Expensify page to approve or decline the report.
+
+{% hint style="info" %}
+**Note:** Ensure not to overpay or underpay stipends based on a mentee's geographical location. To know more about stipend amounts allocated to mentees based on their geographical locations, see [Total Stipend Amount](../mentee-stipends/total-stipend-amount.md).
+{% endhint %}
 
 ### Conditions applicable to Decline a Report:
 
