@@ -1,29 +1,5 @@
 # Getting Started
 
-## What is LFX EasyCLA? <a id="what-is-easycla"></a>
-
-_LFX EasyCLA_ helps streamline the contribution process for open source projects that use Contributor License Agreements \(CLAs\), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project. EasyCLA coordinates the process of getting CLAs signed and, for companies and other organizations, the process of authorizing employees to contribute under a signed CLA. By automating many of the manual processes, this open source solution hosted by The Linux Foundation reduces delays for developers to get authorized under a CLA.
-
-## What is a CLA? <a id="what-is-a-cla"></a>
-
-Some projects use a _Contributor License Agreement_ \(CLA\) to define the terms under which content \(such as source code or documentation\) is contributed to the project.
-
-Not all projects use CLAs; many use alternative contribution mechanisms, such as the [Developer Certificate of Origin](https://developercertificate.org/) sign-off process. For those that do use CLAs, LFX EasyCLA helps to ensure that contributions are not merged into a project unless the contributors are covered under a signed CLA.
-
-There are two types of CLAs:
-
-* **Corporate Contributor License Agreement \(CCLA\)**
-
-  If a contribution is made on behalf of a company \(typically the contributor's employer\), then the contribution should be made under a CCLA. The CCLA must be signed by a person with authority to enter into legal contracts on behalf of the company, which often may not be the contributor themselves.
-
-  After a company signs a CCLA, the company's [CLA Manager](./#cla-manager) will use the EasyCLA Corporate Console to manage the list of that company's authorized contributors to the project.
-
-* **Individual Contributor License Agreement \(ICLA\)**
-
-  If a contributor owns the contribution themselves \(typically a contribution they create on their own time\), then the contribution should be made under an ICLA. The individual contributor would sign the ICLA before their contribution can be merged into the project repository.
-
-For either a CCLA or an ICLA, after the contributor is authorized under a signed CLA, thereafter they will be able to contribute to that project without being blocked by the EasyCLA checks.
-
 ## What Role are You? <a id="what-role-are-you"></a>
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
