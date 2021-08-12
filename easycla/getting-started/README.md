@@ -24,12 +24,6 @@ There are two types of CLAs:
 
 For either a CCLA or an ICLA, after the contributor is authorized under a signed CLA, thereafter they will be able to contribute to that project without being blocked by the EasyCLA checks.
 
-## How Does it Work? <a id="how-does-it-work"></a>
-
-This high-level diagram shows the different flows and roles that EasyCLA supports:
-
-![EasyCLA Flow Diagram](../../.gitbook/assets/cla-flow-diagram.png)
-
 ## What Role are You? <a id="what-role-are-you"></a>
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
