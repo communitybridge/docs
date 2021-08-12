@@ -1,10 +1,10 @@
 # EasyCLA
 
-EasyCLA streamlines the management and execution of [Contributor License Agreements \(CLAs\)](getting-started/#what-is-a-cla), to help projects ensure that contributions are made in accordance with project policies. It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
-
 ## What is LFX EasyCLA? <a id="what-is-easycla"></a>
 
-_LFX EasyCLA_ helps streamline the contribution process for open source projects that use Contributor License Agreements \(CLAs\), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project. EasyCLA coordinates the process of getting CLAs signed and, for companies and other organizations, the process of authorizing employees to contribute under a signed CLA. By automating many of the manual processes, this open source solution hosted by The Linux Foundation reduces delays for developers to get authorized under a CLA.
+_LFX EasyCLA_ streamlines the contribution process for open source projects that use [Contributor License Agreements \(CLAs\)](./#what-is-a-cla), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project. EasyCLA coordinates the process of getting CLAs signed and, for companies and other organizations, the process of authorizing employees to contribute under a signed CLA. By automating many of the manual processes, this open source solution hosted by The Linux Foundation reduces delays for developers to get authorized under a CLA.
+
+ It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
 
 ## What is a CLA? <a id="what-is-a-cla"></a>
 
@@ -43,8 +43,4 @@ Following is a high-level diagram, showing the different flows and roles that Ea
 For information about how to get started with contributing to a project that uses EasyCLA, please see [Getting Started](getting-started/) and our [FAQs page](https://github.com/communitybridge/docs/tree/f3a4dfdd6f9845ac96d41cd1b8878b1e12f70c92/easycla/getting-started/easycla-faqs/README.md).
 
 For support questions, please see our [Troubleshooting page](getting-started/easycla-troubleshooting/) or [file a support ticket](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
-
-
-
-
 
