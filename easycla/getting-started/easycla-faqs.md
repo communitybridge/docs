@@ -41,6 +41,10 @@ Yes, provided that the project has a CLA.
 
 If you have already signed CLA for a project, then you don't need to sign every time to contribute to the project. Signing a CLA for a project covers all code contributions to that project. You may, however, need to sign additional CLAs if you choose to contribute to other projects that require CLAs.
 
+#### Why my EasyCLA status is not updated even after I complete the process.
+
+See the Troubleshooting page for details about [EasyCLA status is not updated](easycla-troubleshooting/#contributors-easycla-status-is-not-updated).
+
 **What is the acceptable email format?**
 
 A valid email address with an email prefix and an email domain, for example _abc@mail.com_ 

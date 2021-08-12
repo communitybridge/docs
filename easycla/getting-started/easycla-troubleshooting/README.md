@@ -11,6 +11,7 @@ Following sections help you troubleshoot common problems that you might encounte
 * [GitHub pull request is not passing](./#github-pull-request-is-not-passing)
 * [Unable to contribute to EasyCLA-enforced repositories](./#unable-to-contribute-to-easycla-enforced-repositories)
 * [Contributor's EasyCLA status is not updated](./#contributors-easycla-status-is-not-updated)
+* [Corporate contributor's EasyCLA status is not updated even after added to the approved list](./#problem-corporate-contributors)
 * ​[EasyCLA is Disabled for a GitHub repository](easycla-is-disabled.md)​
 
 ## GitHub pull request is not passing
