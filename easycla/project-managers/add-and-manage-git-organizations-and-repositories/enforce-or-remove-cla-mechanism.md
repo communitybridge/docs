@@ -1,6 +1,6 @@
-# Enforce or Remove CLA Monitoring
+# Enforce or Remove CLA Mechanism
 
-Before you enable GitHub repositories for CLA monitoring or remove them from CLA monitoring, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
+Before you enable GitHub repositories for CLA check or remove them from CLA mechanism, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
 
 1. [Sign in](../sign-in-to-project-control-center.md) to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
 2. Click a **project** of interest.
@@ -12,10 +12,10 @@ Before you enable GitHub repositories for CLA monitoring or remove them from CLA
 
 5. Click **Manage** next to the project for which you want to manage repositories.
 
-* [Enforce CLA Monitoring for GitHub Repositories](enforce-or-remove-cla-monitoring.md#enforce-or-remove-cla-monitoring-from-github-repositories)
-* [Enforce CLA Monitoring for Gerrit Repositories](enforce-or-remove-cla-monitoring.md#enforce-cla-monitoring-for-gerrit-repositories)
+* [Enforce CLA Mechanism for GitHub Repositories](enforce-or-remove-cla-mechanism.md#enforce-or-remove-cla-mechanism-from-github-repositories)
+* [Enforce CLA Mechanism for Gerrit Repositories](enforce-or-remove-cla-mechanism.md#enforce-cla-mechanism-for-gerrit-repositories)
 
-## Enforce or Remove CLA Monitoring from GitHub Repositories
+## Enforce or Remove CLA Mechanism from GitHub Repositories
 
 1. Under GitHub, select the added organization for which you want to manage repositories.
 2. Turn on or turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time.
@@ -23,7 +23,7 @@ Before you enable GitHub repositories for CLA monitoring or remove them from CLA
 
 ![Add or Remove Git Repositories](../../../.gitbook/assets/add-or-remove-git-repositories.png)
 
-## Enforce CLA Monitoring for Gerrit Repositories
+## Enforce CLA Mechanism for Gerrit Repositories
 
 After you[ add a Gerrit organization](./#add-gerrit-organization), by default all of its repositories are CLA enabled. You cannot disable CLA for an individual Gerrit repository. However, you can [disassociate the Gerrit organization](./#disassociate-gerrit-organization) to disable CLA for the organization and all of its repositories.
 
