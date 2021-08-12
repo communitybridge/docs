@@ -22,9 +22,9 @@ As a CLA manager for a project, you can:
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria.png)
 
-4. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
+4. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it. ![](../../.gitbook/assets/add-approval-criteria%20%281%29.png) 
 
-![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
+![](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
 
 {% hint style="info" %}
 **Note:**
@@ -32,9 +32,9 @@ As a CLA manager for a project, you can:
 * _Email Address Domain_ allows contribution from anyone with an email address with that domain name.
 * _Contributor's Gerrit/GitHub Email address_ allows contribution from the person with that email address.
 * _GitHub Organization_ allows contribution from anyone in that GitHub organization.
-* _GitHub Username_ allows contribution from the person with that GitHub username.
-
-GitHub Organization and GitHub Username are not applicable while adding contributors to Gerrit projects.
+* _GitHub Username_ allows contribution from the contributor with that GitHub username.
+* _GitLab Project_ allows contribution from anyone associated with the GitLab Project.
+* _GitLab Username_ allows contribution from the contributor with that GitLab username.
 {% endhint %}
 
 5. Click **+Add More** to add other details for more contributors.
