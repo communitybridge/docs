@@ -18,25 +18,30 @@ Following sections help you troubleshoot common problems that you might encounte
 
 #### Problem:
 
-I have an agreement on file, but my GitHub pull request is still not passing.
+I have an agreement on file, but EasyCLA does not authorize me and displays "Missing ID on Commit".
 
 #### Solution:
 
-Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any user, GitHub will display the grey Octocat logo beside them.
+* Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any GitHub user, GitHub will display the _grey Octocat logo_ ![](../../../.gitbook/assets/grey-colored-octobat.png) beside the commits. 
+* If your commits are linked to your GitHub account, and yet the GitHub pull request is not passing the EasyCLA check, then open the pull request, type`/easycla` in the comment box, click **Comment**, and run the EasyCLA bot again. Following is the image for clarity:
+
+![Pull Request Commenting](../../../.gitbook/assets/pull-request-commenting.png)
+
+
 
 ## Unable to contribute to EasyCLA-enforced repositories
 
 #### Problem:
 
-Contributor's commits are linked to GitHub or Gerrit account, however, they are still having trouble contributing to EasyCLA-enforced repositories?
+Contributor's commits are linked to GitHub account, however, they are still having trouble contributing to EasyCLA-enforced repositories.
 
-#### Solution for GitHub:
+#### Solution:
 
-1. Ensure that your company email is [verified in your GitHub account settings](https://docs.github.com/en/github/getting-started-with-github/verifying-your-email-address).
-2. Ensure that your [commits are linked to the correct user](https://help.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user).
-3. Ask your CLA Manager to add your GitHub Username to the Approved List, instead of your GitHub email address.
-4. If you are a member of an Approved GitHub Organization, [ensure that you have made that membership public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
-5. Make your GitHub email address public.
+* If your CLA Manager has approved your company email address or email domain, ensure that your company email is[ verified in your GitHub account settings](https://docs.github.com/en/github/getting-started-with-github/verifying-your-email-address) and make sure your GitHub email address is public.
+
+Or
+
+* If your CLA Manager has approved your GitHub Organization,[ ensure that you have made that membership public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
 
 #### Solution for Gerrit:
 
