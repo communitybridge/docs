@@ -111,7 +111,9 @@ In the “Checks” section of the pull request, EasyCLA status is showing as �
 
 #### **Solution:**
 
-Open the pull request, and comment `/easycla` in the comment section. This comment runs the bot again. If the status still does not change, open a support ticket.
+Open the pull request, and comment `/easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
+
+![Comment /easycla in the Pull Request](../../../.gitbook/assets/pull-request-commenting.png)
 
 ## \(ICLA/CCLA\) For multiple open GitHub pull requests, after signing or verifying CLA, the EasyCLA status does not change to "Authorized" for all of the pull requests.
 
@@ -121,6 +123,10 @@ A contributor has multiple open pull requests and after signing an ICLA or verif
 
 #### **Solution:**
 
-Open the pull request, and comment `/easycla` in the comment section. This comment runs the bot again. If the status still does not change, open a support ticket.  
+Open the pull request, and comment `/easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
+
+![Comment /easycla in the Pull Request](../../../.gitbook/assets/pull-request-commenting.png)
+
+  
 
 
