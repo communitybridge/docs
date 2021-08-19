@@ -9,7 +9,8 @@ description: Troubleshooting helps you to resolve problems in your EasyCLA imple
 Following sections help you troubleshoot common problems that you might encounter when using EasyCLA tool.
 
 * [GitHub pull request is not passing](./#github-pull-request-is-not-passing)
-* [Unable to contribute to EasyCLA-enforced repositories](./#unable-to-contribute-to-easycla-enforced-repositories)
+* [\(GitHub\) Unable to contribute to EasyCLA-enforced repositories](./#github-unable-to-contribute-to-easycla-enforced-repositories)
+* [\(Gerrit\) Unable to contribute to EasyCLA-enforced repositories](./#gerrit-unable-to-contribute-to-easycla-enforced-repositories)
 * [Contributor's EasyCLA status is not updated](./#contributors-easycla-status-is-not-updated)
 * [Corporate contributor's EasyCLA status is not updated even after added to the approved list](./#problem-corporate-contributors)
 * ​[EasyCLA is Disabled for a GitHub repository](easycla-is-disabled.md)​
@@ -27,11 +28,9 @@ I have an agreement on file, but EasyCLA does not authorize me and displays "Mis
 
 ![Pull Request Commenting](../../../.gitbook/assets/pull-request-commenting.png)
 
+## \(GitHub\) Unable to contribute to EasyCLA-enforced repositories
 
-
-## Unable to contribute to EasyCLA-enforced repositories
-
-#### Problem:
+### Problem:
 
 Contributor's commits are linked to GitHub account, however, they are still having trouble contributing to EasyCLA-enforced repositories.
 
@@ -43,29 +42,40 @@ Or
 
 * If your CLA Manager has approved your GitHub Organization,[ ensure that you have made that membership public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership).
 
-#### Solution for Gerrit:
+## \(Gerrit\) Unable to contribute to EasyCLA-enforced repositories
+
+### Problem:
+
+Contributor's commits are linked to Gerrit account, however, they are still having trouble contributing to EasyCLA-enforced repositories.
+
+#### Solution:
 
 Ensure that your Gerrit email address is added to the approved list, and you must log in to Gerrit instance of your project using the same email address that is added to the approved list.
 
-## Contributor's EasyCLA status is not updated
+## \(GitHub\) Individual Contributor's EasyCLA status is not updated
 
-* [Individual Contributors](./#problem-individual-contributors)
-* [Corporate Contributors](./#problem-corporate-contributors)
-
-### Problem \(Individual Contributors\):
+### Problem:
 
 After a Contributor has signed an ICLA, EasyCLA status is not updated on contributor console.
 
-#### Solution for GitHub:
+### Solution:
 
 It may take a few moments for the status of the EasyCLA checks to update. Please wait a few moments and then refresh the page.
 
-#### Solution for Gerrit:
+## \(Gerrit\) Individual Contributor's EasyCLA status is not updated
 
-If the status on Git command line still shows "No contributor agreement" when you push the code change, then you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.  
+### Problem:
+
+After a Contributor has signed an ICLA, EasyCLA status is not updated on contributor console.
+
+### Solution:
+
+If the status on Git command line still shows "_No contributor agreement_" when you push the code change, then you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.  
 ![](../../../.gitbook/assets/signout-gerrit.png) 
 
-### Problem \(Corporate Contributors\):
+## \(GitHub\) Corporate Contributor's EasyCLA status is not updated
+
+### Problem:
 
 For a CCLA, after a Contributor has been added to the approved list for the first time, the CLA status still displays **Not Covered** for GitHub and **No Contributor Agreement** for Gerrit.
 
@@ -75,9 +85,26 @@ After being added to the approved list under their company's signed CCLA, the Co
 
 Although it is uncommon, some projects may require a Contributor under a CCLA to additionally [sign an ICLA](../../contributors/corporate-contributor.md#if-you-are-asked-to-sign-icla). If this is required, then after completing the company acknowledgement, the Contributor will be guided to sign the project's ICLA.
 
-{% hint style="warning" %}
+## \(Gerrit\) Corporate Contributor's EasyCLA status is not updated
+
 **Important \(Only for Gerrit Contributors\) :** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
 
 ![](../../../.gitbook/assets/signout-gerrit.png)
-{% endhint %}
+
+**Problem:**
+
+In the “Checks” section of the pull request, EasyCLA status is showing as “Expected”. 
+
+**Solution:**
+
+Open the pull request, and comment `/easycla` in the comment section. This comment runs the bot again. If the status still does not change, open a support ticket.
+
+**Problem:**
+
+A contributor has multiple open pull requests and after signing an ICLA or verifying under a CCLA, the status does not change to “Authorized” on all of them.
+
+**Solution:**
+
+Open the pull request, and comment `/easycla` in the comment section. This comment runs the bot again. If the status still does not change, open a support ticket.  
+
 
