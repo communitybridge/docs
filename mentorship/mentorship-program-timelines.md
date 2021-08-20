@@ -1,10 +1,10 @@
 # Program Schedule & Timelines
 
-The Linux Foundation Mentorship Program follows the following term names, however the program administrators can use any _Term_ name during program creation. For details, see **program terms** of [Program Setup](administrators/enroll-your-program/mentorship-project-enrollment-form.md#MentorshipProjectApplication-ProgramSetup).
+The Linux Foundation Mentorship Program will follow the following term schedule in 2021. 
 
 **Full-Time Terms:**
 
-**Spring Term: March 1st - May 31st**
+**Spring Term: March 1st - May 31st** 
 
 * mentorships available on LFX Mentorship: Jan 15th, 2021
 * mentee applications open: Jan 15th - Feb 12th \(4 weeks\)
