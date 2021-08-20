@@ -109,7 +109,6 @@
   * [Investigate and Remediate Vulnerabilities](security/investigate-and-remediate-vulnerabilities.md)
   * [Investigate Dependencies in the Application Dependency Tree](security/investigate-dependencies-in-the-application-dependency-tree.md)
   * [Get License Information](security/get-license-information.md)
-  * [Code Secrets](security/code-secrets.md)
   * [Enable or Disable Scanning for a Repository](security/enable-or-disable-a-repository-from-scanning.md)
 * [EasyCLA](easycla/README.md)
   * [Getting Started](easycla/getting-started/README.md)
