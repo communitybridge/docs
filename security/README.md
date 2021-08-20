@@ -12,7 +12,7 @@ The LFX Security tool provides automated vulnerability scanning and provides vis
 * [Investigate Dependencies in the Application Dependency Tree](investigate-dependencies-in-the-application-dependency-tree.md)
 * [Get License Information](get-license-information.md)
 * [Code Secrets](code-secrets.md)
-* [Non Inclusive Language](non-inclusive-language.md)
+* [Non Inclusive Language]()
 * [Enable or Disable a Repository from Scanning](enable-or-disable-a-repository-from-scanning.md)
 
 

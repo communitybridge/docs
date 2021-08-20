@@ -70,7 +70,7 @@ An error will be displayed when the language used in the repository is not suppo
 
 ## Adding Non Inclusive Words
 
-You can add the words which depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. LFX will scan for these non inclusive words in the code. You refer [Non Inclusive Languag](non-inclusive-language.md)e section for more information. 
+You can add the words which depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. LFX will scan for these non inclusive words in the code. You refer [Non Inclusive Languag]()e section for more information. 
 
 To add non inclusive words, perform the following steps:
 
