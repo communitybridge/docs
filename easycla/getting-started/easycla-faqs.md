@@ -1,7 +1,3 @@
----
-description: slack
----
-
 # EasyCLA FAQs
 
 **Who do I contact to enable my Linux Foundation-hosted project to use EasyCLA?**
