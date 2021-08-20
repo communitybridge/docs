@@ -59,7 +59,25 @@ No, affiliation data is linked to profiles, and profiles are visible across all 
 
 Insight calculates contribution data based on commit hash. So, if a pull request or changeset is submitted to two different branches with the same commit hash identification number, Insight counts it as a single contribution, eliminating duplication of data.
 
-How are the Social Media metrics data calculated?
+### How do I identify ****Individual Contributors to my project?
+
+Navigate to _Technical Metrics &gt; Source Control &gt; Commits &gt; Overview_ dashboard for your project, and[ filter the dashboard with the name of the organization](filter-data/) as **Individual - No Account**. Scroll down to the _Submitters_ metric to know the names and contribution details of the individual contributors.
+
+### Do I require permission to see Trends dashboard?
+
+No, you do not require permission to see the Trends dashboard.  ****Anyone who navigates to these dashboards can view them without requiring an LF SSO \(LFID\) login or permission.
+
+### How is Trends data aggregated?
+
+Trends metric data is aggregated based on time frames with different breakpoints, also called _buckets_. For example, for 1 year, the metrics are aggregated _monthly_ with twelve breakpoints, for 2 years, they are aggregated _quarterly_ with twelve break points, and so on. For details, see [Time-Based Data Aggregation Methods](trends-1.md#time-based-data-aggregation-methods).
+
+###  Why do I see only subsets of a data source for my project compared to Global Trends?
+
+Trends metrics are displayed depending upon the data sources that are configured for your project. If a project is not configured for a certain data source, the related metrics are not displayed on [Project Trends](trends-1.md#project-trends).
+
+
+
+
 
 
 

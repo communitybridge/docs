@@ -9,7 +9,7 @@ After you add a filter, you can manage it by applying quick actions on the filte
 
 ### Add a Filter <a id="AddandManageDataFilters-AddaFilter"></a>
 
-1. On a data source dashboard, click + **Add filter**.
+1. On a data source dashboard, for example Technical Metrics &gt; Source Control &gt; Commits &gt; Overview, click + **Add filter**.
 2. Click in the **Filter** field and:
    * Select a filter from the **Field** drop-down list.  ![](../../.gitbook/assets/add-filter.png) 
    * Select an operator from the **Operato**r drop-down list

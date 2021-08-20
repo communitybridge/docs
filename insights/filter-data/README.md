@@ -2,7 +2,7 @@
 
 LFX Insights aggregates data and creates comprehensive dashboards from specific data sources. Dashboards include relevant visualizations that display analytic metrics and important data points. You can select and open a dashboard from drop-down lists corresponding to each data source.
 
-A drop-down list is only available when a related data source is available.
+A drop-down list is only available when a related data source is configured for the project.
 
 **To Filter Data:**
 
@@ -21,7 +21,8 @@ The selected dashboard appears and shows relevant visualizations.
 
 ## Refine Your View <a id="ViewDashboardAnalytics-RefineYourView"></a>
 
-* [Select Time Range](select-time-range.md)
+* [Filter Data by Time Range](filter-data-by-time-range.md)
+* [Filter Metrics Visualizations](filter-metrics-visualizations.md)
 * [Add and Manage Data Filters](add-and-manage-data-filters.md)
 * [Use Visualization Options](use-visualization-options.md)
 * [Change the Data Marker Color](change-the-data-marker-color.md)

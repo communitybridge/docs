@@ -22,43 +22,43 @@ Insights supports the following data sources based on their categories:
 
 #### Source Control Systems
 
-Insights supports Git, GitHub, and Gerrit for tracking and visualizing project's source code analytics. For details, see [Source Control](view-project-dashboard/technical-metrics/source-control/).
+Insights supports Git, GitHub, and Gerrit for tracking and visualizing project's source code analytics. For details, see [Source Control](technical-metrics/source-control/).
 
 #### Issue Tracking Systems
 
 Following are the various issue tracking system data sources currently supported by Insights:
 
-* [GitHub](view-project-dashboard/technical-metrics/project-management/github-issues.md)
-* [Bugzilla](view-project-dashboard/technical-metrics/project-management/bugzilla.md)
-* [Jira](view-project-dashboard/technical-metrics/project-management/jira.md)
+* [GitHub](technical-metrics/project-management/github-issues.md)
+* [Bugzilla](technical-metrics/project-management/bugzilla.md)
+* [Jira](technical-metrics/project-management/jira.md)
 
 #### Build Systems
 
-Insights supports [Jenkins](view-project-dashboard/technical-metrics/ci-cd/jenkins.md) and [CircleCI](view-project-dashboard/technical-metrics/ci-cd/circle-ci.md) as two of the popular build system data sources.
+Insights supports [Jenkins](technical-metrics/ci-cd/jenkins.md) and [CircleCI](technical-metrics/ci-cd/circle-ci.md) as two of the popular build system data sources.
 
 #### Email Systems
 
-Insights supports [Pipermail](view-project-dashboard/ecosystem-metrics/mailing-list/pipermail.md), [Groups.io](view-project-dashboard/ecosystem-metrics/mailing-list/groupsio.md), and [Google Groups](view-project-dashboard/ecosystem-metrics/mailing-list/google-groups.md) as email systems to visualize project related communication activities.
+Insights supports [Pipermail](collaboration-metrics/mailing-list/pipermail.md), [Groups.io](collaboration-metrics/mailing-list/groupsio.md), and [Google Groups](collaboration-metrics/mailing-list/google-groups.md) as email systems to visualize project related communication activities.
 
 #### Chat Room
 
-Insights supports chat room platforms, such as [Slack](view-project-dashboard/ecosystem-metrics/chat-room/slack.md) and [Rocket Chat](view-project-dashboard/ecosystem-metrics/chat-room/rocket-chat.md) to analyze the project related communication activities.
+Insights supports chat room platforms, such as [Slack](collaboration-metrics/chat-room/slack.md) and [Rocket Chat](collaboration-metrics/chat-room/rocket-chat.md) to analyze the project related communication activities.
 
 #### Documentation
 
-Insights supports Confluence for tracking and visualizing project's documentation. For details, see [Confluence](view-project-dashboard/ecosystem-metrics/documentation/confluence.md).
+Insights supports Confluence for tracking and visualizing project's documentation. For details, see [Confluence](collaboration-metrics/documentation/confluence.md).
 
 #### Social Media
 
-Insights supports [Twitter](view-project-dashboard/social-media-metrics.md#overview) as social media platform to visualize project's ****high-level insights from the project's twitter account.
+Insights supports [Twitter](social-media-metrics.md#overview) as social media platform to visualize project's ****high-level insights from the project's twitter account.
 
 ####  Earned Media
 
-Insights supports _Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](view-project-dashboard/ecosystem-metrics/earned-media/).
+Insights supports _Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](earned-media/).
 
 #### Registry
 
-Insights supports [DockerHub](view-project-dashboard/technical-metrics/registry/dockerhub.md) to track container images. 
+Insights supports [DockerHub](technical-metrics/registry/dockerhub.md) to track container images. 
 
 ## In Progress
 
