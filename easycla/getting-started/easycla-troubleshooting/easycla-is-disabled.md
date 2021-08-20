@@ -1,12 +1,10 @@
 # EasyCLA is Disabled
 
-#### Problem:
-
 EasyCLA was previously enabled for a GitHub repository, but someone other than the project manager has subsequently disabled it.
 
-#### **Solution:**
+**Solution:**
 
-### **Enable Branch Protection**
+## **Enable Branch Protection**
 
 GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the **Enable Branch Protection** check box](../../project-managers/add-and-manage-git-organizations-and-repositories/#enable-branch-protection-and-auto-enable-new-repositories) after the GitHub organization is added to a project.
 

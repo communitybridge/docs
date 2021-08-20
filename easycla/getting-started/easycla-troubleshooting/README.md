@@ -15,9 +15,11 @@ Following sections help you troubleshoot common problems that you might encounte
 * [\(Gerrit\) Individual Contributor's EasyCLA status is not updated](./#github-individual-contributors-easycla-status-is-not-updated)
 * [\(GitHub\) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](./#github-corporate-contributors-easycla-status-is-not-updated)
 * [\(Gerrit\) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](./#gerrit-corporate-contributors-easycla-status-is-not-updated)
+* [EasyCLA status displays "Expected"​ in the "Checks" section of the Pull Request](./#easycla-status-displays-expected-in-the-checks-section-of-the-pull-request)
+* [EasyCLA status does not change to "Authorized" for multiple open pull requests after signing ICLA and/or CCLA](./#easycla-status-does-not-change-to-authorized-for-multiple-open-pull-requests-after-signing-icla-and-or-ccla)
 * ​[EasyCLA is Disabled for a GitHub repository](easycla-is-disabled.md)
-* In the "Checks" section of the Pull Request, EasyCLA status displays "Expected"​
-* For multiple open pull requests, after signing individual CLA or verifying corporate CLA, the EasyCLA status does not change to "Authorized" for all of the pull requests.
+* [Can not use EasyCLA for my Linux Foundation-hosted project](./#can-not-use-easycla-for-my-linux-foundation-hosted-project)
+* [Company is not displayed in the list when I am trying to contribute code under a corporate CLA \(CCLA\)](./#company-is-not-displayed-in-the-list-when-i-am-trying-to-contribute-code-under-a-corporate-cla-ccla)
 
 ## GitHub pull request is not passing
 
@@ -83,7 +85,7 @@ Navigate to the Gerrit window, **sign out**, **sign in** again, and then push th
 
 #### Problem:
 
-For a CCLA, after a Contributor has been added to the approved list for the first time, the CLA status still displays **Not Covered** for GitHub and **No Contributor Agreement** for Gerrit.
+For a CCLA, after a Contributor has been added to the approved list for the first time, the CLA status still displays **Not Covered**.
 
 #### Solution:
 
@@ -95,7 +97,7 @@ Although it is uncommon, some projects may require a Contributor under a CCLA to
 
 #### Problem:
 
-For a CCLA, after a contributor has been added to the approved list for the first time, the CLA status on Git command line still displays "_No contributor agreement_" when you push the code change.
+For a CCLA, after a contributor has been added to the approved list for the first time, the CLA status on Git command line still displays **No contributor agreement** when you push the code change.
 
 #### Solution:
 
@@ -103,7 +105,7 @@ Navigate to the Gerrit window, **sign out**, **sign in** again, and then push th
 
 ![](../../../.gitbook/assets/signout-gerrit.png)
 
-## In the "Checks" section of the Pull Request, EasyCLA status displays "Expected"​
+## EasyCLA status displays "Expected"​ in the "Checks" section of the Pull Request 
 
 #### **Problem:**
 
@@ -115,17 +117,39 @@ Open the pull request, and comment `/easycla` in the comment section as shown in
 
 ![Comment /easycla in the Pull Request](../../../.gitbook/assets/pull-request-commenting.png)
 
-## \(ICLA/CCLA\) For multiple open GitHub pull requests, after signing or verifying CLA, the EasyCLA status does not change to "Authorized" for all of the pull requests.
+## EasyCLA status does not change to "Authorized" for multiple open pull requests after signing ICLA and/or CCLA
 
 #### **Problem:**
 
-A contributor has multiple open pull requests and after signing an ICLA or verifying under a CCLA, the status does not change to “Authorized” on all of them.
+After signing an ICLA or verifying under a CCLA, the status does not change to “Authorized” for multiple open pull requests.
 
 #### **Solution:**
 
-Open the pull request, and comment `/easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
+Open one pull request, and comment `/easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
 ![Comment /easycla in the Pull Request](../../../.gitbook/assets/pull-request-commenting.png)
+
+## **Can not use EasyCLA for my Linux Foundation-hosted project**
+
+#### **Problem:**
+
+After hosting my project on The Linux Foundation, I can not use EasyCLA for my project.
+
+#### **Solution:**
+
+Open [https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143), submit the form describing your requirements, and import your existing CLAs.
+
+## Company is not displayed in the list when I am trying to contribute code under a corporate CLA \(CCLA\)
+
+#### Problem:
+
+When I am trying to contribute code under a CCLA, my company is not displayed in the list.
+
+#### Solution:
+
+You must create a record for your company as described [here](../../contributors/corporate-contributor.md#if-your-company-is-not-in-the-list).
+
+
 
   
 
