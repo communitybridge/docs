@@ -1,6 +1,6 @@
 # Program Schedule & Timelines
 
-The Linux Foundation Mentorship Program will follow the following term schedule in 2021. 
+The Linux Foundation Mentorship Program follows the following term names, however the program administrators can use any _Term_ name during program creation. For details, see **program terms** of [Program Setup](administrators/enroll-your-program/mentorship-project-enrollment-form.md#MentorshipProjectApplication-ProgramSetup).
 
 **Full-Time Terms:**
 

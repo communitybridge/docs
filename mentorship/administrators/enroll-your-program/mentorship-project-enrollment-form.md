@@ -43,11 +43,10 @@ Below are Mentorship enrollment form fields and their descriptions:
       <td style="text-align:left">
         <p>Terms for your mentorship program. A program can have maximum two terms
           at the same time.</p>
-        <p><b>Note: </b>Program administrators can use any <em>Term</em> name during
-          program creation. For example, Spring 2021, Summer 2021, Fall 2021, and
-          so on.</p>
-        <p>For Full Time (FT) and Part Time (PT) distinction, please add FT or PT
-          to the name, i.e. Spring 2021- FT</p>
+        <p><b>Note: For the 2021 mentorships schedule a program can have the following terms: Spring 2021, Summer 2021, or Fall 2021. </b>
+        </p>
+        <p><b>For Full Time and Part Time distinction, please add FT or PT to the name, i.e. Spring 2021- FT</b>
+        </p>
         <p></p>
       </td>
     </tr>
