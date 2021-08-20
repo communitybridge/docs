@@ -1,6 +1,6 @@
 # EasyCLA FAQs
 
-**Who do I contact to enable my Linux Foundation-hosted project in order to use EasyCLA?**
+**Who do I contact to enable my Linux Foundation-hosted project to use EasyCLA?**
 
 Open [https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143), submit the form describing your requirements, and import your existing CLAs.
 
@@ -40,6 +40,10 @@ Yes, provided that the project has a CLA.
 **Do I have to sign a CLA every time I contribute code to a project?**
 
 If you have already signed CLA for a project, then you don't need to sign every time to contribute to the project. Signing a CLA for a project covers all code contributions to that project. You may, however, need to sign additional CLAs if you choose to contribute to other projects that require CLAs.
+
+#### **Where do I view my individual CLA \(ICLA\) after I sign the ICLA?**
+
+Your ICLA will be sent to you to the email, you have provided while signing ICLA, immediately after signing it. If you did not receive the email, you can open a support ticket to have it resent.
 
 #### Why my EasyCLA status is not updated even after I complete the process.
 
