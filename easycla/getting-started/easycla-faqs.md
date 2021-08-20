@@ -1,6 +1,6 @@
 # EasyCLA FAQs
 
-**Who do I contact to enable my Linux Foundation-hosted project to use EasyCLA?**
+**Who do I contact to enable my Linux Foundation-hosted project in order to use EasyCLA?**
 
 Open [https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143), submit the form describing your requirements, and import your existing CLAs.
 

@@ -17,9 +17,10 @@ Following sections help you troubleshoot common problems that you might encounte
 * [\(Gerrit\) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](./#gerrit-corporate-contributors-easycla-status-is-not-updated)
 * [EasyCLA status displays "Expected"​ in the "Checks" section of the Pull Request](./#easycla-status-displays-expected-in-the-checks-section-of-the-pull-request)
 * [EasyCLA status does not change to "Authorized" for multiple open pull requests after signing ICLA and/or CCLA](./#easycla-status-does-not-change-to-authorized-for-multiple-open-pull-requests-after-signing-icla-and-or-ccla)
-* ​[EasyCLA is Disabled for a GitHub repository](easycla-is-disabled.md)
-* [Can not use EasyCLA for my Linux Foundation-hosted project](./#can-not-use-easycla-for-my-linux-foundation-hosted-project)
-* [Company is not displayed in the list when I am trying to contribute code under a corporate CLA \(CCLA\)](./#company-is-not-displayed-in-the-list-when-i-am-trying-to-contribute-code-under-a-corporate-cla-ccla)
+* [I cannot use EasyCLA for my Linux Foundation-hosted project](./#i-cannot-use-easycla-for-my-linux-foundation-hosted-project)
+* [My company is not displayed in the list when I am trying to contribute code under a corporate CLA \(CCLA\)](./#my-company-is-not-displayed-in-the-list-when-i-am-trying-to-contribute-code-under-a-corporate-cla-ccla)
+* [I cannot view my individual CLA \(ICLA\) after I sign it](./#i-cannot-view-my-individual-cla-icla-after-i-sign-it)
+* [EasyCLA is Disabled for a GitHub repository](easycla-is-disabled.md)
 
 ## GitHub pull request is not passing
 
@@ -129,7 +130,7 @@ Open one pull request, and comment `/easycla` in the comment section as shown in
 
 ![Comment /easycla in the Pull Request](../../../.gitbook/assets/pull-request-commenting.png)
 
-## **Can not use EasyCLA for my Linux Foundation-hosted project**
+## **I cannot use EasyCLA for my Linux Foundation-hosted project**
 
 #### **Problem:**
 
@@ -139,7 +140,7 @@ After hosting my project on The Linux Foundation, I can not use EasyCLA for my p
 
 Open [https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143), submit the form describing your requirements, and import your existing CLAs.
 
-## Company is not displayed in the list when I am trying to contribute code under a corporate CLA \(CCLA\)
+## My company is not displayed in the list when I am trying to contribute code under a corporate CLA \(CCLA\)
 
 #### Problem:
 
@@ -148,6 +149,16 @@ When I am trying to contribute code under a CCLA, my company is not displayed in
 #### Solution:
 
 You must create a record for your company as described [here](../../contributors/corporate-contributor.md#if-your-company-is-not-in-the-list).
+
+## I cannot view my individual CLA \(ICLA\) after I sign it
+
+#### Problem:
+
+I have signed an ICLA, however I cannot view the signed ICLA.
+
+#### Solution:
+
+Open your email, that you have provided while signing the ICLA, to check the signed ICLA that is sent from The Linux Foundation. If you have not received the email, you can open a support ticket to have it resent.
 
 
 
