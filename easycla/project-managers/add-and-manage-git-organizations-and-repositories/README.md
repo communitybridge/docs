@@ -11,7 +11,7 @@ Before you can add or manage Git repositories, you must connect/add Git organiza
 After you successfully add Git organizations, you can:
 
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
-* [Enforce or Remove CLA Monitoring for Repositories](enforce-or-remove-cla-mechanism.md)
+* [Enforce or Remove CLA Monitoring for Repositories](enforce-or-remove-cla.md)
 
 ## Add GitHub Organization
 
@@ -66,7 +66,7 @@ If you select **Only select repositories**, then a newly added repository to the
 ![Installation Completed](../../../.gitbook/assets/installation-completed.png)
 
 {% hint style="warning" %}
-**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla-mechanism.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the EasyCLA check for any CLA groups.
+**Important:** To enable a CLA check on a repository, you must [enforce CLA monitoring](enforce-or-remove-cla.md#enforce-or-remove-cla-monitoring-from-github-repositories) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the EasyCLA check for any CLA groups.
 {% endhint %}
 
 ## Enable Branch Protection and Auto Enable New Repositories

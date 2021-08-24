@@ -17,7 +17,7 @@ The Overview page displays CLA groups that have been added to the project, [deta
 1. **Name** of the CLA group, and whether the CLA Group includes a CCLA and/or an ICLA with a tick mark beside each CLA type.
 
 1. **Projects Covered** shows the number of projects that are covered under the CLA group.
-2. **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must [enforce EasyCLA](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-mechanism.md) for one or more Git repositories for them to be counted.
+2. **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must [enforce EasyCLA](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla.md) for one or more Git repositories for them to be counted.
 3. **Signatures** shows the number of individuals who have signed CLA within that CLA group, and whose signature status is in active state. This includes both ICLA and/or CCLA based on the CLA group configuration. To know more about 
 4. Click![](../../.gitbook/assets/edit-cta.png)to edit the title and description of the CLA group.
 5. Click![](../../.gitbook/assets/delete-icon.png)to create a support ticket requesting to delete the CLA group.

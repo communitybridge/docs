@@ -18,7 +18,7 @@
     * [Add or Remove a Project from CLA Group](easycla/project-managers/add-or-remove-a-project-from-cla-group.md)
     * [View and Manage CLA Group Details](easycla/project-managers/view-and-manage-cla-group-details.md)
     * [Add and Manage Git Organizations and Repositories](easycla/project-managers/add-and-manage-git-organizations-and-repositories/README.md)
-      * [Enforce or Remove CLA Mechanism](easycla/project-managers/add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-mechanism.md)
+      * [Enforce or Remove CLA](easycla/project-managers/add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla.md)
       * [View Connection Status of Git Organizations and Repositories](easycla/project-managers/add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
     * [Invalidate a Contributor's Signature](easycla/project-managers/invalidate-a-contributors-signature.md)
     * [Uninstall the EasyCLA Application](easycla/project-managers/uninstall-the-easycla-application.md)
