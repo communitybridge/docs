@@ -13,7 +13,7 @@ When a CCLA is first being signed, the Contributor, CLA Manager, and CLA Signato
 
 ### Project Manager <a id="project-manager"></a>
 
-A _Project Manager_ is responsible for setting up the project's CLA templates and configuring the corresponding repositories in the [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org/) ****\(also called Project Control Center\). For more details, see [Project Managers](../project-managers/).
+A _Project Manager_ is someone \(typically project administrators\) responsible for setting up the project's CLA templates and configuring the corresponding repositories in the [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org/) ****\(also called Project Control Center\). For more details, see [Project Managers](../project-managers/).
 
 ### Contributor <a id="contributor"></a>
 
