@@ -18,7 +18,7 @@ Before you enable GitHub repositories for CLA check or remove them from CLA mech
 ## Enforce or Remove CLA Mechanism from GitHub Repositories
 
 1. Under GitHub, select the added organization for which you want to manage repositories.
-2. Turn on or turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA monitoring at a time.
+2. Turn on or turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA mechanism at a time.
 3. To enforce CLA for individual repositories, select the check box next to a repository, and click **Save**.
 
 ![Add or Remove Git Repositories](../../../.gitbook/assets/add-or-remove-git-repositories.png)

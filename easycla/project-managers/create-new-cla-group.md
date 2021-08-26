@@ -4,7 +4,7 @@ A CLA Group defines:
 
 * What CLA types your project requires for pull requests or push submissions — corporate CLA \(CCLA\), individual CLA \(ICLA\), or both
 * What CLA templates are used for the CCLA and/or ICLA
-* What GitHub repositories, Gerrit instances, or both are enforced for CLA monitoring
+* What GitHub repositories, Gerrit instances, or both are enforced for CLA check
 
 A single CLA Group includes a pair of CCLA and ICLA templates, if both types are enabled for that CLA Group.
 
