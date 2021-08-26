@@ -11,15 +11,7 @@ If your project is not hosted on LFX Security, you can submit a project applicat
 **To submit a project:**
 
 1. [Log in](../../sso/sign-in/) to [LFX Security](https://security.lfx.linuxfoundation.org/). 
-2. Click **Secure My Project** and then click **Sign up**.
-
-![Signup ](../../.gitbook/assets/secure_my_project%20%281%29.png)
-
-3.Complete and submit the application. For more information, refer [Adding a Project](add-a-github-project-to-security.md). 
-
-{% hint style="info" %}
-The Linux Foundation administrator approves or rejects the application. 
-{% endhint %}
+2. Click **Secure My Project**, you will be redirected to PCC. You have to onboard the project from PCC. Refer [PCC Onboard](https://docs.linuxfoundation.org/lfx/v/v2/security-service) for more information. 
 
 
 
