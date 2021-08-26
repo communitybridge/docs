@@ -1,4 +1,4 @@
-# Pre-Requisites
+# Prerequisites
 
 For a project to use EasyCLA, it must meet the following requirements:
 

@@ -1,4 +1,4 @@
-# Enforce or Remove CLA
+# Enforce or Remove CLA Process
 
 Before you enable GitHub repositories for CLA check or remove them from CLA mechanism, you must add the Git organizations— [add GitHub organization](./#add-github-organization) or [add Gerrit organization](./#add-gerrit-organization). You can perform the following activities with EasyCLA:
 
@@ -12,8 +12,8 @@ Before you enable GitHub repositories for CLA check or remove them from CLA mech
 
 5. Click **Manage** next to the project for which you want to manage repositories.
 
-* [Enforce CLA for GitHub Repositories](enforce-or-remove-cla.md#enforce-or-remove-cla-mechanism-from-github-repositories)
-* [Enforce CLA for Gerrit Repositories](enforce-or-remove-cla.md#enforce-cla-mechanism-for-gerrit-repositories)
+* [Enforce CLA for GitHub Repositories](enforce-or-remove-cla-process.md#enforce-or-remove-cla-mechanism-from-github-repositories)
+* [Enforce CLA for Gerrit Repositories](enforce-or-remove-cla-process.md#enforce-cla-mechanism-for-gerrit-repositories)
 
 ## Enforce or Remove CLA Mechanism from GitHub Repositories
 

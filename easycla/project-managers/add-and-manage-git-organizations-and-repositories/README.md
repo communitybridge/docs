@@ -11,12 +11,12 @@ Before you can add or manage Git repositories, you must connect/add Git organiza
 After you successfully add Git organizations, you can:
 
 * [View Connection Status of Git Organization and Repositories](view-connection-status-of-git-organizations-and-repositories.md)
-* [Enforce or Remove CLA Mechanism for Repositories](enforce-or-remove-cla.md)
+* [Enforce or Remove CLA Mechanism for Repositories](enforce-or-remove-cla-process.md)
 
 ## Add GitHub Organization
 
 {% hint style="info" %}
-**Note:** You must be the owner of the GitHub organization which you want to connect for CLA check.
+**Note:** You must be the owner of the GitHub organization which you want to connect for CLA mechanism.
 {% endhint %}
 
 1. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
@@ -24,7 +24,7 @@ After you successfully add Git organizations, you can:
 2. Click a **project** of interest.
 
 3. Scroll down to the **Tools** **Status** section, and click **EasyCLA**.  
-**Note:** You can also connect the GitHub organization during IT set up in the **IT Services Status** section, and then install EasyCLA application in **Tools Status** section to add it for CLA check.
+**Note:** You can also connect the GitHub organization during IT set up in the **IT Services Status** section, and then install EasyCLA application in **Tools Status** section to add it for CLA process.
 
 4. Under CLA Groups, select a CLA group to which you have added the project.
 
@@ -48,7 +48,7 @@ After you successfully add Git organizations, you can:
 
 ![](../../../.gitbook/assets/configure-cla-for-github-organization.png)
 
-10. Select the organization that you want to enroll for CLA check.  
+10. Select the organization that you want to enroll for CLA mechanism.  
 ![](../../../.gitbook/assets/select-github-organization.png)
 
 11. Select repositories, and click **Install**.
@@ -66,7 +66,7 @@ If you select **Only select repositories**, then a newly added repository to the
 ![Installation Completed](../../../.gitbook/assets/installation-completed.png)
 
 {% hint style="warning" %}
-**Important:** To enable a CLA check on a repository, you must [enforce CLA mechanism](enforce-or-remove-cla.md) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the EasyCLA check for any CLA groups.
+**Important:** To enable a CLA mechanism on a repository, you must [enforce CLA mechanism](enforce-or-remove-cla-process.md) for GitHub repositories or [add a Gerrit instance](./#add-gerrit-organization) for Gerrit repositories. Simply adding a GitHub organization to the project does not enable the EasyCLA mechanism for any CLA groups.
 {% endhint %}
 
 ## Enable Branch Protection and Auto Enable New Repositories
