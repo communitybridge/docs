@@ -1,5 +1,9 @@
 # Withdraw your Application
 
+{% hint style="info" %}
+**Note:** You cannot withdraw your application if it is already accepted.
+{% endhint %}
+
 To withdraw your mentorship application:
 
 1. [Sign in](../../sso/sign-in/) to [Mentorship](https://mentorship.lfx.linuxfoundation.org).
