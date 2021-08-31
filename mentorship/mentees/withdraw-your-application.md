@@ -13,6 +13,3 @@ To withdraw your mentorship application:
 
 ![Application Withdrawn](../../.gitbook/assets/application-withdrawn.png)
 
-  
-
-
