@@ -1,6 +1,6 @@
 # Project Managers
 
-A Project Manager is the project administrator or  the administrative sets up a project on EasyCLA, and manages configuration details, such as the GitHub organization or Gerrit instance and associated repositories. The Project Manager uses the Project Control Center for these actions.
+Project Managers are the project administrators or maintainers of the project. They set up a project on EasyCLA, and manage configuration details, such as the GitHub organization or Gerrit instance and associated repositories. The Project Manager uses the Project Control Center for these actions.
 
 As a Project Manager, you can perform the following activities:
 
