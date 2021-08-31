@@ -165,6 +165,7 @@
   * [Mentees](mentorship/mentees/README.md)
     * [Create Mentee Profile](mentorship/mentees/create-a-mentee-profile.md)
     * [Apply to Mentorship Program](mentorship/mentees/apply-to-a-project.md)
+    * [Withdraw your Application](mentorship/mentees/withdraw-your-application.md)
     * [View Status of your Application](mentorship/mentees/view-status-of-your-application.md)
     * [Manage Your Tasks](mentorship/mentees/manage-your-task.md)
     * [Manage Your Mentorship Profile](mentorship/mentees/manage-your-mentorship-profile.md)
