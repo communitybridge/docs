@@ -18,7 +18,7 @@
 
 3. You will receive a confirmation message and a confirmation email stating that your application was received. 
 
-NOTE: Your application will be in **Pending** status until you submit all your prerequisite requirements and the project admin changes the status of your application. For details, see [View Status of your Application](view-status-of-your-application.md)
+**NOTE:** Your application will be in **Pending** status until you submit all your prerequisite requirements. After you submit all the required documents and complete the required tasks assigned to you, the project admin changes the status of your application. For details, see [View Status of your Application](view-status-of-your-application.md)
 
 ![](../../.gitbook/assets/mentee-applied.png)
 
