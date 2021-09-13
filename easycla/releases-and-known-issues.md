@@ -9,7 +9,7 @@ The following issues are known to be present in the v2.0.0 release of EasyCLA:
 
 #### Auto-Branch Protection
 
-Auto-Branch Protection only protects a repo's default git branch. Non-default branches are not currently auto-configured for EasyCLA protection. Currently, GitHub organization owners must manually set up branch protection rules for non-default branches.
+Auto-Branch Protection only protects a repo's default git branch. Non-default branches are not currently auto-configured for EasyCLA protection. Currently, GitHub/GitLab organization owners must manually set up branch protection rules for non-default branches.
 
 #### Organization Association
 

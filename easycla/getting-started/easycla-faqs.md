@@ -26,6 +26,10 @@ However, if you are the first one from your company to contribute to a project, 
 
 Otherwise, if your company has already signed a Corporate CLA, but you are not yet on your company's approved list, then you must be included in the approved list by your company's CCLA manager as part of the EasyCLA process.
 
+**How can I contribute to GitHub/Gerrit/GitLab repositories?**
+
+\*\*\*\*
+
 **When I am trying to contribute code under a CCLA, what should I do if my company is not listed?**
 
 You must create a record for your company as described [here](../contributors/corporate-contributor.md#if-your-company-is-not-in-the-list).

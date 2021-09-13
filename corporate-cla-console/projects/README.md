@@ -49,7 +49,7 @@ This shows recent EasyCLA-related activities of your company for the project. Th
 
 This shows a table that lists details of approved contributors from your organization for the project.
 
-* **Approved List** shows the GitHub user name, email lD, GitHub Organization, or Domain name that is in the approved list.
+* **Approved List** shows the email address domain name, GitHub/Gerrit email address, GitHub Organization, GitHub Username, GitLab Group URL or GitLab Username.
 * **Approval Criteria** shows the type of approval criteria.
 * **Added on** shows the date when the criteria was added to the approved list.
 * **Manage** \(Only for CLA Managers\) lets CLA Managers [edit](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#edit-a-contributors-details) or [delete](../../easycla/corporate-cla-managers/approve-and-manage-contributors.md#delete-a-contributors-details) the criteria on the approved list.
@@ -64,7 +64,7 @@ This shows a table that lists details of approved contributors from your organiz
 This shows a table that lists contributors from your company authorized to contribute to this project who have completed contributor acknowledgments.
 
 * **Name** shows the name of the contributor.
-* **LF Login/GitHub ID** shows the Linux Foundation login name or GitHub ID of the contributor.
+* **LF Login/GitHub ID** shows the Linux Foundation login name or GitHub username of the contributor.
 * **Agreement** shows the version of the CCLA under which the contributor was authorized.
 * **Acknowledged On** shows the date and time when the user acknowledged their association with the company under the CCLA.
 

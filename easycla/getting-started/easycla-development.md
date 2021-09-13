@@ -12,6 +12,9 @@ Besides integration with the LFX platform and its underlying services, EasyCLA u
 * Gerrit for CLA authorization review checking/gating  
 * Auth0 For Single Sign On
 * Salesforce through the LFX Platform APIs
+* [GitLab](https://gitlab.com/) supports two ways of registering your EasyCLA bot with GitLab : 
+  * **Integrations**: Navigate to **Integrations** tab of Project Settings. To have your EasyCLA bot listed under _Add an integration_ section, you must create a MR \(Merge Request\) to GitLab's codebase, and get that accepted. The code must be written in Ruby.
+  * **Webhook :** The other way of integrating your bot with GitLab is to add a webhook which will be called on certain events that happen in GitLab Project, such as opening MR \(Merge Request\). The webhook must respond in certain time frame. GitLab has a [Webhook API](https://docs.gitlab.com/ce/api/projects.html#add-project-hook) where you can interact with programmatically and add/edit/delete your webhook which can make the integration smoother from user point of view.
 
 ### EasyCLA Backend <a id="cla-backend"></a>
 

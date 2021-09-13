@@ -1,23 +1,24 @@
 # Project Managers
 
-Project Managers are the project administrators or maintainers of the project. They set up a project on EasyCLA, and manage configuration details, such as the GitHub organization or Gerrit instance and associated repositories. The Project Manager uses the Project Control Center for these actions.
+Project Managers are the project administrators or maintainers of the project. They set up a project on EasyCLA, and manage configuration details, such as the GitHub organization or Gerrit instance or GitLab groups, and associated repositories. The Project Manager uses the Project Control Center for these actions.
 
 As a Project Manager, you can perform the following activities:
 
 1. [Sign in to Project Control Center](sign-in-to-project-control-center.md)
 2. [Create New CLA Group](create-new-cla-group.md)
-3. [Add GitHub organization](add-and-manage-git-organizations-and-repositories/#add-github-organization) or [Gerrit organization](add-and-manage-git-organizations-and-repositories/#add-gerrit-organization)
-4. [Enforce CLA monitoring for GitHub repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-process.md#enforce-or-remove-cla-monitoring-from-github-repositories) or [Gerrit repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-process.md#enforce-cla-monitoring-for-gerrit-repositories)
+3. Add and manage [GitHub organization](add-and-manage-github-organizations.md) or [Gerrit organization](add-and-manage-gerrit-organizations.md) or [GitLab Groups](add-and-manage-gitlab-groups.md)
+4. [Enforce CLA mechanism for GitHub/Gerrit/GitLab repositories](enforce-or-remove-cla-mechanism.md)
 
-Additionally, you can view and manage CLA details, GitHub and Gerrit organizations and repositories:
+Additionally, you can view and manage CLA details, GitHub, Gerrit, and GitLab organizations and repositories:
 
 1. [View and Manage CLA Group Details](view-and-manage-cla-group-details.md)
 2. [Add or Remove Project from CLA Group](add-or-remove-a-project-from-cla-group.md)
-3. [View connection status of Git organizations and repositories](add-and-manage-git-organizations-and-repositories/view-connection-status-of-git-organizations-and-repositories.md)
-4. [Disassociate GitHub organization](add-and-manage-git-organizations-and-repositories/#disassociate-github-organization)
-5. [Disassociate Gerrit organization](add-and-manage-git-organizations-and-repositories/#disassociate-gerrit-organization)
-6. [Remove CLA Monitoring from GitHub repositories](add-and-manage-git-organizations-and-repositories/enforce-or-remove-cla-process.md#enforce-or-remove-cla-monitoring-from-github-repositories)
-7. [Uninstall the EasyCLA Application from git organization](uninstall-the-easycla-application.md)
+3. [View connection status of Git organizations and repositories](view-connection-status-of-git-organizations-and-repositories.md)
+4. [Disassociate GitHub organization](add-and-manage-github-organizations.md#disassociate-github-organization)
+5. [Disassociate Gerrit organization](add-and-manage-gerrit-organizations.md#disassociate-gerrit-organization)
+6. [Disassociate GitLab group](add-and-manage-gitlab-groups.md#disassociate-gitlab-groups)
+7. [Enforce or Remove CLA Mechanism from GitHub/Gerrit/GitLab repositories](enforce-or-remove-cla-mechanism.md)
+8. [Uninstall the EasyCLA Application from git organization](uninstall-the-easycla-application.md)
 
 For EasyCLA integrated GitHub organizations and repositories, EasyCLA sends email notification to project managers regarding any changes to the repositories. EasyCLA takes the following actions for different events:
 
