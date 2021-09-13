@@ -51,6 +51,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 * [If your company is not in the company list](corporate-contributor.md#if-the-select-company-dialog-appears)
 * [If your company has not yet signed a CCLA](corporate-contributor.md#if-company-has-not-signed)
 * [If you have not yet been added to your company's approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
+* [Acknowledge company contribution after you are added to the approved list](corporate-contributor.md#acknowledge-company-contribution)
 * [If you are additionally asked to sign an ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 
 ## Gerrit
@@ -92,6 +93,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 * [If your company is not in the company list](corporate-contributor.md#if-your-company-is-not-in-the-list)
 * [If your company has not yet signed a CCLA](corporate-contributor.md#if-company-has-not-signed)
 * [If you have not yet been added to your company's approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
+* [Acknowledge company contribution after you are added to the approved list](corporate-contributor.md#acknowledge-company-contribution)
 * [If you are additionally asked to sign an ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 
 ## GitLab
@@ -134,6 +136,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 * [If your company is not in the company list](corporate-contributor.md#if-your-company-is-not-in-the-list)
 * [If your company has not yet signed a CCLA](corporate-contributor.md#if-company-has-not-signed)
 * [If you have not yet been added to your company's approved list](corporate-contributor.md#if-you-are-not-added-to-the-approved-list)
+* [Acknowledge company contribution after you are added to the approved list](corporate-contributor.md#acknowledge-company-contribution)
 * [If you are additionally asked to sign an ICLA](corporate-contributor.md#if-you-are-asked-to-sign-icla)
 
 ## If your Company is not in the list

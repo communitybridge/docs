@@ -14,7 +14,15 @@ A Corporate CLA needs to be in place if you are contributing code on behalf of y
 
 An Individual CLA is signed by an individual for contributions that they contribute on their own behalf, as opposed to contributions on behalf of their employer or another entity.
 
-**Which CCLA approval criteria option has the lowest maintenance overhead?**
+**How can I contribute to GitHub/Gerrit/GitLab repositories?**
+
+If you are an individual contributor, see [Individual Contributor](../contributors/individual-contributor.md). If you are a corporate contributor, see [Corporate Contributor](../contributors/corporate-contributor.md) for details.
+
+#### **How can I view my ICLA document after I sign it?**
+
+Open your email, that you have provided while signing the ICLA, to check the signed ICLA that is sent from The Linux Foundation. If you have not received the email, you can open a support ticket to have it resent.
+
+#### **Which CCLA approval criteria option has the lowest maintenance overhead?**
 
 Using the Domain **Approval Criteria** requires less overhead because CCLA signatories and CCLA managers do not need to add and manage numerous employee email addresses.
 
@@ -25,10 +33,6 @@ Probably not. If your company's CCLA signatory has signed a Corporate CLA, and i
 However, if you are the first one from your company to contribute to a project, then your company's CCLA signatory will need to sign a Corporate CLA as part of the EasyCLA setup process. Depending on the company, you might be an authorized CCLA signatory \(please check with legal counsel of your company to be sure\).
 
 Otherwise, if your company has already signed a Corporate CLA, but you are not yet on your company's approved list, then you must be included in the approved list by your company's CCLA manager as part of the EasyCLA process.
-
-**How can I contribute to GitHub/Gerrit/GitLab repositories?**
-
-If you are an individual contributor, see [Individual Contributor](../contributors/individual-contributor.md). If you are a corporate contributor, see [Corporate Contributor](../contributors/corporate-contributor.md) for details.
 
 **When I am trying to contribute code under a CCLA, what should I do if my company is not listed?**
 
@@ -51,7 +55,9 @@ Your ICLA will be sent to you to the email, you have provided while signing ICLA
 
 #### Why my EasyCLA status is not updated even after I complete the process.
 
-See the Troubleshooting page for details about [EasyCLA status is not updated](easycla-troubleshooting/#contributors-easycla-status-is-not-updated).
+\(Individual Contributors\) Wait for few seconds or refresh the page to get your EasyCLA status updated.
+
+\(Corporate Contributors\) After you complete the process, you must complete [acknowledging company contribution](../contributors/corporate-contributor.md#acknowledge-company-contribution). If you have already acknowledged company contribution, wait for few seconds or refresh the page to get your EasyCLA status updated.
 
 **What is the acceptable email format?**
 
