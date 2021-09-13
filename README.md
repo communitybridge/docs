@@ -1,6 +1,6 @@
 # LFX Toolkit
 
-Linux Foundation is a technology association of several companies that helps to scale open source projects. Linux Foundation provides platforms to support the sustainability of the open source ecosystem by providing various services, events, and training..
+Linux Foundation is a technology association of several companies that helps to scale open source projects. Linux Foundation provides platforms to support the sustainability of the open source ecosystem by providing various services, events, and training.
 
 ## What is LFX? <a id="CommunityBridgeFAQs-WhatisCommunityBridge?"></a>
 
