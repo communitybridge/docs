@@ -28,7 +28,7 @@ Otherwise, if your company has already signed a Corporate CLA, but you are not y
 
 **How can I contribute to GitHub/Gerrit/GitLab repositories?**
 
-\*\*\*\*
+If you are an individual contributor, see [Individual Contributor](../contributors/individual-contributor.md). If you are a corporate contributor, see [Corporate Contributor](../contributors/corporate-contributor.md) for details.
 
 **When I am trying to contribute code under a CCLA, what should I do if my company is not listed?**
 
