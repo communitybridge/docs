@@ -2,31 +2,34 @@
 
 After receiving a successful performance evaluation, all mentees are required to submit an Expensify report to receive mentorship stipend payments. There are two stipend payments, first one halfway through the mentorship, and second one upon successful completion of the program. 
 
-1. To create and submit an **Expensify Report,** login to [Expensify](%20https://www.expensify.com). Ensure that you use the same email address that you used to set up your account in Expensify.
+To create and submit an **Expensify Report:**
 
-2. Select **Reports** from the sidebar menu.
+1. Sign in to [Expensify](%20https://www.expensify.com).   
+**Note:** Ensure that you use the same email address that you used to set up your account in Expensify.
+
+2. Under your account, select **Reports** tab.
 
 ![](../../.gitbook/assets/reports.png)
 
-3. On **Reports** screen, select **New Report** located in the top-right corner of the screen.
+3. On **Reports** window, click **New Report** located on the top-right corner of the screen.
 
 ![](../../.gitbook/assets/new-report.png)
 
 4. Update auto-generated report name to: "your name - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;" for example "Jane Smith - mentee stipend payment 1 of 2"
 
-And select **Add Expenses** to create and add  a new expense.
+5. Click **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/add-expenses.png)
 
-5. Select **New Expenses** to create a new expense.
+6. Click **New Expenses** to create a new expense.
 
 ![](../../.gitbook/assets/new-expense.png)
 
-6. Create a new expense by completing the fields as follows:  
+7. Create a new expense by completing the fields as follows:  
      **Merchant:** Your name   
      **Date:** Date of the stipend payment \(today's date\)  
      **Total:** 50% of the total amount of your stipend payment for midterm and final evaluation periods.   
-     **Category:** Select **Mentorship** from the dropdown list  
+     **Category:** Select **Mentorship** from the dropdown list.  
      **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
 
 {% hint style="info" %}
@@ -43,11 +46,11 @@ And select **Add Expenses** to create and add  a new expense.
 
 ![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
 
-7. After you're redirected to the Reports page, click **Submit** from the top left corner.
+8. After you're redirected to the Reports page, click **Submit** from the top left corner.
 
-8. \(Optional\) Provide email address of an individual in **CC** field if you want to share the report with the individual.
+9. \(Optional\) Provide email address of an individual in **CC** field if you want to share the report with the individual.
 
-9. Click **Send**.
+10. Click **Send**.
 
 {% hint style="info" %}
 If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Bank Accounts** as shown below.
