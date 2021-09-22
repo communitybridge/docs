@@ -15,7 +15,6 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 ![](../.gitbook/assets/new-report.png)
 
-  
 4. Write a Report Name that must include your name, and the name and year of the event, for example:`Jane Brown - Open Source Summit + Embedded Linux Conference North America 2020`
 
 5. Click **Add Expenses** to add expenses to the report.
