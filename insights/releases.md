@@ -8,7 +8,7 @@ Following are the release details:
 
 ## Latest Release-August 2021
 
-In this release, The LFX Insights delivers support for the new [Trends](trends-1.md) dashboards providing a comprehensive analytics of project performance, in the form of metrics, for all projects and project-groups. These data visualizations help project teams better understand project performance and monitor the health of the project.****
+In this release, The LFX Insights delivers support for the new [Trends](trends.md) dashboards providing a comprehensive analytics of project performance, in the form of metrics, for all projects and project-groups. These data visualizations help project teams better understand project performance and monitor the health of the project.****
 
 * **Global Trends:** Shows aggregated performance data of all projects onboarded to Insights.
 * **Project Group Trends:** Shows aggregated performance data of all sub projects under the project group or foundation.

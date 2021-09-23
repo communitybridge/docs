@@ -1,6 +1,6 @@
 # Filter Data by Time Range
 
-On **Trends** dashboard, you can select a time range form the time range bar to filter data. By default, the time range value is set to last 3 years on the time range bar. For more details, see [Time-Based Data Aggregation Methods](../trends-1.md#time-based-data-aggregation-methods).
+On **Trends** dashboard, you can select a time range form the time range bar to filter data. By default, the time range value is set to last 3 years on the time range bar. For more details, see [Time-Based Data Aggregation Methods](../trends.md#time-based-data-aggregation-methods).
 
 ![Time Range Bar](../../.gitbook/assets/time-range-bar.png)
 

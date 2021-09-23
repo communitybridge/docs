@@ -3,7 +3,7 @@
 Insights platform shows Trends dashboard, and project and project group cards, in alphabetical order, that show relevant data associated with the project or project group. Navigate to a project or project-group to see the overall project activities.
 
 1. Go to [https://insights.lfx.linuxfoundation.org/](https://insights.lfx.linuxfoundation.org/).
-2. [**Global Trends**](trends-1.md#global-trends): Shows overall project performance for all project-groups and projects.
+2. [**Global Trends**](trends.md#global-trends): Shows overall project performance for all project-groups and projects.
 3. **View All Projects**: Lists [projects](overview.md#project) and[ project group](overview.md#project-group) cards. Project group card displays stack of individual projects, and an individual project card displays a single card. 
 4. [**Compare Projects**](compare-and-view-project-health.md): Lets you compare key code related metrics for a project or between projects.
 5. **Search projects** field: Lets you search a project or project group.

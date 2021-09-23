@@ -69,11 +69,11 @@ No, you do not require permission to see the Trends dashboard.  ****Anyone who n
 
 ### How is Trends data aggregated?
 
-Trends metric data is aggregated based on time frames with different breakpoints, also called _buckets_. For example, for 1 year, the metrics are aggregated _monthly_ with twelve breakpoints, for 2 years, they are aggregated _quarterly_ with twelve break points, and so on. For details, see [Time-Based Data Aggregation Methods](trends-1.md#time-based-data-aggregation-methods).
+Trends metric data is aggregated based on time frames with different breakpoints, also called _buckets_. For example, for 1 year, the metrics are aggregated _monthly_ with twelve breakpoints, for 2 years, they are aggregated _quarterly_ with twelve break points, and so on. For details, see [Time-Based Data Aggregation Methods](trends.md#time-based-data-aggregation-methods).
 
 ###  Why do I see only subsets of a data source for my project compared to Global Trends?
 
-Trends metrics are displayed depending upon the data sources that are configured for your project. If a project is not configured for a certain data source, the related metrics are not displayed on [Project Trends](trends-1.md#project-trends).
+Trends metrics are displayed depending upon the data sources that are configured for your project. If a project is not configured for a certain data source, the related metrics are not displayed on [Project Trends](trends.md#project-trends).
 
 
 

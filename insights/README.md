@@ -5,7 +5,7 @@ Insights gives you complete visibility into project performance and ecosystem tr
 ## Get Started <a id="DevAnalyticsGettingStarted-GetStarted"></a>
 
 * [Overview](overview.md)
-* [Trends](trends-1.md)
+* [Trends](trends.md)
 * [Filter Data](filter-data/)
 * [Analyzing the Data](analyzing-the-data/)
 * [Identity and Affiliation Management](identities-and-affiliations/)

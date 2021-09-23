@@ -33,7 +33,7 @@
   * [Insights FAQs](insights/insights-faqs.md)
   * [Supported Data Sources](insights/supported-data-sources.md)
   * [Overview](insights/overview.md)
-  * [Trends](insights/trends-1.md)
+  * [Trends](insights/trends.md)
   * [Technical Metrics](insights/technical-metrics/README.md)
     * [Summary](insights/technical-metrics/summary.md)
     * [Source Control](insights/technical-metrics/source-control/README.md)

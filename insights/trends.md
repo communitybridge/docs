@@ -1,11 +1,11 @@
 # Trends
 
-Trends dashboards provide analytics of project performance, such as how many total contributors are contributing to your project, number of commits, total number of code backlogs, issues, and many more for a project. These performance-related data are grouped into different blocks of [_metrics_](trends-1.md#metrics-details).
+Trends dashboards provide analytics of project performance, such as how many total contributors are contributing to your project, number of commits, total number of code backlogs, issues, and many more for a project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-* [Global Trends](trends-1.md#global-trends)
-* [Project Trends](trends-1.md#project-trends)
-* [Time-Based Data Aggregation Methods](trends-1.md#time-based-data-aggregation-methods)
-* [Downloading a Metric Card](trends-1.md#downloading-a-metric-card)
+* [Global Trends](trends.md#global-trends)
+* [Project Trends](trends.md#project-trends)
+* [Time-Based Data Aggregation Methods](trends.md#time-based-data-aggregation-methods)
+* [Downloading a Metric Card](trends.md#downloading-a-metric-card)
 
 You can [filter data by time range](filter-data/filter-data-by-time-range.md). For details about filtering data, see [Filter Data](filter-data/).
 
@@ -15,7 +15,7 @@ You can [filter data by time range](filter-data/filter-data-by-time-range.md). F
 
 ## Global Trends
 
-Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights. ****The performance-related data are grouped into different blocks of [_metrics_](trends-1.md#metrics-details).
+Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights. ****The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
 ![Global Trends](../.gitbook/assets/global-trends-card.png)
 
@@ -39,7 +39,7 @@ Following are the twelve most important _Key Performance Indicators \(KPIs\)_ of
 
 ## Project Trends
 
-Project Trends dashboards provide analytics of project performance data, such as how many contributors are contributing to your project, total number of code backlogs, issues, and many more for the project. These performance-related data are grouped into different blocks of [_metrics_](trends-1.md#metrics-details).
+Project Trends dashboards provide analytics of project performance data, such as how many contributors are contributing to your project, total number of code backlogs, issues, and many more for the project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
 ![Project Trends](../.gitbook/assets/project-dashboard.png)
 
@@ -201,7 +201,7 @@ This shows aggregated data for the last 3 months from the current date. The data
 
 #### 6M:
 
-This shows aggregated data for last the 6 months from the current date. The data are aggregated based on a specific interval in days of a month, like it is for [3 months](trends-1.md#3m), and are displayed with 12 breakpoints.
+This shows aggregated data for last the 6 months from the current date. The data are aggregated based on a specific interval in days of a month, like it is for [3 months](trends.md#3m), and are displayed with 12 breakpoints.
 
 #### 1Y:
 
