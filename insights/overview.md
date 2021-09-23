@@ -4,7 +4,7 @@ Insights platform shows Trends dashboard, and project and project group cards, i
 
 1. Go to [https://insights.lfx.linuxfoundation.org/](https://insights.lfx.linuxfoundation.org/).
 2. [**Global Trends**](trends.md#global-trends): Shows overall project performance for all project-groups and projects.
-3. **View All Projects**: Lists [projects](overview.md#project) and[ project group](overview.md#project-group) cards. Project group card displays stack of individual projects, and an individual project card displays a single card. 
+3. **View All Projects**: Lists all the [projects](overview.md#project) onboarded to LFX Insights. [Project group](overview.md#project-group) card displays stack of individual projects.. 
 4. [**Compare Projects**](compare-and-view-project-health.md): Lets you compare key code related metrics for a project or between projects.
 5. **Search projects** field: Lets you search a project or project group.
 6. **Enroll Project**: Lets you enroll a project into LFX Insights by creating a support ticket on [LFX Help Center](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/341).
@@ -32,7 +32,9 @@ Each project card shows the following information:
 
 ### Project Group
 
-A project group is a group of individual projects. Click the name or click **Go to Projects** to see the trends dashboard and sub-projects under the project group. For details, see Project Group.
+A project group is a group of individual projects. Click the name or click **Go to Projects** to see the trends dashboard and sub-projects under the project group. For details, see Project Group. To view the sub projects of a project group, and navigate to a sub project, click **View Sub Projects** from the top right corner to view the list of sub projects.
+
+![Sub projects of a project group](../.gitbook/assets/view-sub-projects-of-a-project-group.png)
 
 ![Project Group Overview Card](../.gitbook/assets/project-group-overview-card%20%281%29.png)
 

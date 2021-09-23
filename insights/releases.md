@@ -2,15 +2,15 @@
 
 Following are the release details:
 
-* [Latest Release- August 2021](releases.md#latest-release-august-2021)
+* [Latest Release- September 2021](releases.md#latest-release-september-2021)
 * [June 2021](releases.md)
 * [May 2021](releases.md#may-2021)
 
-## Latest Release-August 2021
+## Latest Release-September 2021
 
-In this release, The LFX Insights delivers support for the new [Trends](trends.md) dashboards providing a comprehensive analytics of project performance, in the form of metrics, for all projects and project-groups. These data visualizations help project teams better understand project performance and monitor the health of the project.****
+In this release, The LFX Insights delivers support for the new [Trends](trends.md) dashboards providing a comprehensive analytics of project performance, in the form of metrics, for all projects and project-groups. The metrics computed for the trends dashboard are more focused towards the code development areas such as, contributors, commits, lines of code, change requests, and issue management. A global trends dashboard, the default landing page for LFX Insights, shows data aggregated across all the onboarded projects on LFX Insights. These data visualizations help project teams understand project performance and monitor the health of the project.****
 
-* **Global Trends:** Shows aggregated performance data of all projects onboarded to Insights.
+* \*\*\*\*[**Global Trends**](trends.md#global-trends)**:** Shows aggregated performance data of all projects onboarded to Insights.
 * **Project Group Trends:** Shows aggregated performance data of all sub projects under the project group or foundation.
 * **Individual Project Trends:** Shows aggregated performance data of the individual project.
 

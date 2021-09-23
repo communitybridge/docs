@@ -1,6 +1,6 @@
 # Trends
 
-Trends dashboards provide analytics of project performance, such as how many total contributors are contributing to your project, number of commits, total number of code backlogs, issues, and many more for a project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
+Trends dashboards provide analytics of project performance, ecosystem and [data source](supported-data-sources.md) related metrics, such as how many total contributors are contributing to your project, number of commits, total number of code backlogs, issues, and many more for a project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
 * [Global Trends](trends.md#global-trends)
 * [Project Trends](trends.md#project-trends)
