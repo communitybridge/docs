@@ -31,7 +31,7 @@
 * [Insights](insights/README.md)
   * [Releases](insights/releases/README.md)
     * [September 2021](insights/releases/september-2021.md)
-    * [Jun 2021](insights/releases/jun-2021.md)
+    * [June 2021](insights/releases/june-2021.md)
     * [May 2021](insights/releases/may-2021.md)
   * [Insights FAQs](insights/insights-faqs.md)
   * [Supported Data Sources](insights/supported-data-sources.md)
