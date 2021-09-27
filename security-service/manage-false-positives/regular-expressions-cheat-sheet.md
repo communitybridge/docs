@@ -4,7 +4,7 @@ A regular expression \(regex or regexp\) is a sequence of characters that specif
 
 The below tables assists you on how to use different regular expressions:
 
-## Regular Expressions Basics 
+## Regular Expression Basics 
 
 | **Character** | Explanation  |
 | :--- | :--- |
@@ -26,7 +26,7 @@ The below tables assists you on how to use different regular expressions:
 | {2, 5} | Between 2 and 5 |
 | {2,} | 2 or more |
 
-## Regular Expressions Groups 
+## Regular Expression Groups 
 
 | **Character** | **Explanation** |
 | :--- | :--- |
@@ -44,7 +44,7 @@ The below tables assists you on how to use different regular expressions:
 | \g&lt;Y&gt; | Recurse into named or numbered group Y |
 | \(?\#...\) | Comment |
 
-## Regular Expressions Character Classes
+## Regular Expression Character Classes
 
 | **Character** | **Explanation** |
 | :--- | :--- |
@@ -58,7 +58,7 @@ The below tables assists you on how to use different regular expressions:
 | \w | One word character |
 | \W | One non-word character |
 
-## Regular Expressions Assertions
+## Regular Expression Assertions
 
 | **Character** | **Explanation** |
 | :--- | :--- |
@@ -75,7 +75,7 @@ The below tables assists you on how to use different regular expressions:
 | \(?&lt;!...\) | Negative lookbehind |
 | \(?\(\)\|\) | Conditional |
 
-## Regular Expressions Flags
+## Regular Expression Flags
 
 | **Character** | **Explanation** |
 | :--- | :--- |
