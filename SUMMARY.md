@@ -43,5 +43,10 @@
     * [Add and Manage a Contributor](corporate-cla-console/projects/add-and-manage-a-contributor.md)
   * [Manage Organization](corporate-cla-console/manage-organization.md)
   * [Manage your Profile](corporate-cla-console/manage-your-profile.md)
-* [Security Service](security-service.md)
+* [Security Service](security-service/README.md)
+  * [GitHub Onboarding](security-service/github-onboarding.md)
+  * [Manage Vulnerabilities](security-service/manage-vulnerabilities.md)
+  * [Manage False Positives](security-service/manage-false-positives/README.md)
+    * [Regular Expressions Cheat Sheet](security-service/manage-false-positives/regular-expressions-cheat-sheet.md)
+  * [Manage Non Inclusive Naming](security-service/manage-non-inclusive-naming.md)
 

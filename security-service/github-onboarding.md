@@ -1,8 +1,4 @@
-# Security Service
-
-The LFX Security tool provides automated vulnerability scanning and provides visibility into potential vulnerabilities to help projects address top security concerns.
-
-For more information on Security Services, visit [Security Documentation](https://docs.linuxfoundation.org/lfx/security). 
+# GitHub Onboarding
 
 ## Security Bot Installation  <a id="security-bot-installation"></a>
 
@@ -20,7 +16,11 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 ![Security](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Md_ivAMZ2h7xOPMQ1bm%2F-Md_mIFlNU7OimypntPn%2FDash.png?alt=media&token=9330c513-4ef2-44ef-bb59-a4bd0970f8d3)
 
-3.The Security page appears. Enter the GitHub organization name in the **Organization Name** and click **Connect**.
+3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](../.gitbook/assets/icon%20%281%29.png) icon available next to **Connect**.
+
+![GitHub Onboarding ](../.gitbook/assets/github%20%281%29.png)
+
+ 4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
 
 {% hint style="info" %}
 Make sure that you logged into the GitHub.
@@ -28,15 +28,15 @@ Make sure that you logged into the GitHub.
 
 ![GitHub Organization](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Md_mOyIwS7BfDv1FdCc%2F-Md_yXHWG4O7-HtqIzz5%2FConn.png?alt=media&token=78832048-9ba6-45d4-979c-aa1d453aac7a)
 
-4.The Install Security Bot on GitHub.org instructions page appears. You can read the instructions on how to install the Security Bot from this page. Click **Install Security Bot** button.
+5.The Install Security Bot on GitHub.org instructions page appears. You can read the instructions on how to install the Security Bot from this page. Click **Install Security Bot** button.
 
 ![Installing Security Bot](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Md_mOyIwS7BfDv1FdCc%2F-Md_zFZbK923mmbZQJB0%2FInstructions%20.png?alt=media&token=60735f71-3f39-4d22-8583-1a64f7835d80)
 
-5. A list of GitHub organization associated with the login account are listed and displayed. Select the required organization for which you want to install the Security bot.
+6. A list of GitHub organization associated with the login account are listed and displayed. Select the required organization for which you want to install the Security bot.
 
 ![GitHub Organizations](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Md_mOyIwS7BfDv1FdCc%2F-Mda-O7Icw1gTvpJ6KPN%2FList.png?alt=media&token=607604ff-a16b-43d2-a849-6600b42a55df)
 
-6.The Install & Authorize LFx Security GitHub App page appears. This page provides the following information:
+7.The Install & Authorize LFx Security GitHub App page appears. This page provides the following information:
 
 * Information on the permission requested for the selected repositories. The LFX Security requests the following permissions from the GitHub:
   * **Read** access to administer, code, check commit status, lookup members, and other metadata.
@@ -49,7 +49,7 @@ Click **Install & Authorize** to install the LFX Security GitHub App.
 
 ![Installation Permissions](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Mda-VDpqAUlhN8R8l0O%2F-Mda0Y05c0Cd9uERFvr_%2FInstall.png?alt=media&token=f96cedc0-9617-4673-8b23-edf297039fc5)
 
-7.The LFX Security Service GitHub app is installed successfully. You can see the installation success message.
+8.The LFX Security Service GitHub app is installed successfully. You can see the installation success message.
 
 ![Installation Complete](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Mb54_KofyumI-UB7Wl7%2F-Mb57cBro_UemLOIw-T9%2FSuccess.png?alt=media&token=852f8d1c-1abf-40c3-9a87-cfd27b4772ee)
 
@@ -57,11 +57,11 @@ Click **Install & Authorize** to install the LFX Security GitHub App.
 You will also receive an email after successful installation of the LFX Security GitHub App.
 {% endhint %}
 
-8.In the PCC page, you need to click **I'm Done Installing the Security Bot** after completing the installation process.
+9.In the PCC page, you need to click **I'm Done Installing the Security Bot** after completing the installation process.
 
 ![Security Bot Installation Complete](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6_RcGyUVKsLIx%2F-Mda1J-8wCyl01h8FL5W%2F-Mda1pvwhmetx23dDFqg%2FDone.png?alt=media&token=0ed8c719-b2b7-4ddb-929a-21ff7b7f30aa)
 
-9.You can see the list of GitHub organizations along with the repositories for which the Security bot has been successfully configured.
+10.You can see the list of GitHub organizations along with the repositories for which the Security bot has been successfully configured.
 
 {% hint style="info" %}
 A green dot present with the GitHub organization name indicates that the Security bot is successfully installed.
