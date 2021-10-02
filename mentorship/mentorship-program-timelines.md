@@ -6,9 +6,9 @@ The Linux Foundation Mentorship Program follows the following term names, howeve
 
 **Spring Term: March 1st - May 31st**
 
-* mentorships available on LFX Mentorship: Jan 15th, 2021
-* mentee applications open: Jan 15th - Feb 12th \(4 weeks\)
-* application review/admission decisions/HR paperwork: Feb 15th - Feb 26th
+* Mentorships available on LFX Mentorship: mid-January
+* Mentee applications open on LFX: approximately 4 weeks
+* Mentee application review and acceptance: approximately during the 2 weeks before the term begins.
 
 {% hint style="info" %}
 **Note:** Dates may vary based on project guidelines.
@@ -16,9 +16,9 @@ The Linux Foundation Mentorship Program follows the following term names, howeve
 
 **Summer Term: June 1st - August  31st**
 
-* mentorships available on LFX Mentorship: April 15th, 2021
-* mentee applications open: April 15th - May 14th \(4 weeks\)
-* application review/admission decisions/HR paperwork: May 17th - May 31st
+* Mentorships available on LFX Mentorship: mid-April
+* Mentee applications open on LFX: approximately 4 weeks
+* Mentee application review and acceptance: approximately during the 2 weeks before the term begins.
 
 {% hint style="info" %}
 **Note:** Dates may vary based on project guidelines.
@@ -26,9 +26,9 @@ The Linux Foundation Mentorship Program follows the following term names, howeve
 
 **Fall Term: September 1st - Nov 30th**
 
-* mentorships available on LFX Mentorship: July 15th, 2021
-* mentee applications open: July 15th - August 12th \(4 weeks\)
-* application review/admission decisions/HR paperwork: August 12th - August 31st
+* Mentorships available on LFX Mentorship: mid-July
+* Mentee applications open on LFX: approximately 4 weeks
+* Mentee application review and acceptance: approximately during the 2 weeks before the term begins.
 
 {% hint style="info" %}
 **Note:** 
