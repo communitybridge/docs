@@ -82,6 +82,12 @@ After adding the GitLab group, you should enable branch protection and auto enab
 
 ## Disassociate GitLab Groups
 
+{% hint style="info" %}
+**Note**: To disassociate a GitLab group, you must disable CLA from all projects of the GitLab group.
+{% endhint %}
+
+![Disassociate GitLab Group disabled for CLA enforced projects ](../../.gitbook/assets/disassociate-gitlab-group-disabled.png)
+
 1. Click the settings icon ![](../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitLab group.
 2. Click **Disassociate GitLab Group**, and click **Disassociate** on the confirmation window.
 
