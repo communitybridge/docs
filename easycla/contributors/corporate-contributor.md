@@ -111,11 +111,9 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 
 4. Click ![](../../.gitbook/assets/lfx-easycla.png) or **Not Covered**.
 
-5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
+5. Click **Authorize** \(Subsequent contributions will not require authorization.\).
 
-**Result:** The CLA Contributor Console appears in a new tab.
-
-​ ![](../../.gitbook/assets/authorize-linux-foundation-easycla.png) ​
+**Result:** The CLA Contributor Console appears in a new tab. ​
 
 ![CLA CCLA Flow](../../.gitbook/assets/cla-ccla-flow.png)
 
