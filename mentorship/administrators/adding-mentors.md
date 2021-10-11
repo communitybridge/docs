@@ -4,7 +4,6 @@ You can add mentors to the project by adding their name during project enrollmen
 
 ![](../../.gitbook/assets/7418771.jpg)
 
-## Accepting Mentor Requests <a id="InviteandAcceptMentors-AcceptingMentors:"></a>
+## Accepting Mentor Requests <a href="inviteandacceptmentors-acceptingmentors" id="inviteandacceptmentors-acceptingmentors"></a>
 
-You may receive an email informing you that a mentor is interested in volunteering for your mentorship program. Review mentor's profile and if the mentor is a good match, click on **Add to Project** CTA in the email to navigate to Edit Project form where you can add the mentor to **Project Mentors** section. 
-
+You may receive an email informing you that a mentor is interested in volunteering for your mentorship program. Review mentor's profile and if the mentor is a good match, click on **Add to Project **CTA in the email to navigate to Edit Project form where you can add the mentor to **Project Mentors** section. 

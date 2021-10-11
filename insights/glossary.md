@@ -24,7 +24,7 @@ A _backlog_ is a list of all things that need to be done within a project.
 
 ### Backlog Management Index
 
-_Backlog Management Index_ \(BMI\) is the number of closed issues divided by the number of open ones in a given period of time. 
+_Backlog Management Index_ (BMI) is the number of closed issues divided by the number of open ones in a given period of time. 
 
 ### Branch
 
@@ -48,7 +48,7 @@ Atlassian _Confluence_ is a content tool that teams use to collaborate and share
 
 ### Contributor
 
-A _Contributor_ is someone \(typically a developer\) who contributes code to a GitHub/Gerrit/GitLab project.
+A _Contributor_ is someone (typically a developer) who contributes code to a GitHub/Gerrit/GitLab project.
 
 ### Contribution
 
@@ -56,7 +56,7 @@ A _contribution_ is a review, comment, commit, issue, or pull request. A _contri
 
 ### Churn rate
 
-Churn rate is defined as the total number of inactive contributors. It is calculated as:   
+Churn rate is defined as the total number of inactive contributors. It is calculated as: \
 _`Total Inactive Contributors recorded at the end of the time period/  (Total Active Contributors recorded at the start + Total New Contributors who joined during the selected time period)`_
 
 ### Dashboard
@@ -71,9 +71,9 @@ _Data affiliation_ connects or associates identities. Affiliation is a close ass
 
 Data sources are the collaboration tools or the remote servers that are used by projects to drive the development of a project. For example, in a database management system, the primary data source is the database, which can be located in a disk or a remote server. The data source for a computer program can be a file, a data sheet, a spreadsheet, an XML file or even hard-coded data within the program.
 
-### Free and Open Source Software \(FOSS\)
+### Free and Open Source Software (FOSS)
 
-_Free and Open Source Software \(FOSS\)_ development is software developed by informal collaborative networks of programmers. 
+_Free and Open Source Software (FOSS)_ development is software developed by informal collaborative networks of programmers. 
 
 ### Gerrit
 
@@ -83,13 +83,13 @@ _Gerrit_ is a free web-based team code collaboration tool. Software developers i
 
 _Git_ is an open source program for tracking changes in source code during software development.
 
-### GitHub ![](../.gitbook/assets/18088191%20%284%29%20%283%29%20%283%29.png)
+### GitHub ![](<../.gitbook/assets/18088191 (4) (3) (2).png>)
 
 _GitHub_ is a web-based hosting service for version control using Git.
 
 ### Identity
 
-In Identity Management, an _identity_ is a record \(tuple\) composed of a name, email, username, and the name of the source from where it was extracted.
+In Identity Management, an _identity_ is a record (tuple) composed of a name, email, username, and the name of the source from where it was extracted.
 
 ### Inactive contributors
 
@@ -101,13 +101,13 @@ Individual [contributors](glossary.md#contributor) are those who are contributin
 
 ### Issue
 
-In GitHub, an _issue_ is a suggested improvement, task, or question that is related to the repository. Anyone can create an issue \(for public repositories\). Issues are moderated by repository collaborators.
+In GitHub, an _issue_ is a suggested improvement, task, or question that is related to the repository. Anyone can create an issue (for public repositories). Issues are moderated by repository collaborators.
 
 ### Jenkins
 
 _Jenkins_ is an open source continuous integration software tool for testing and reporting on changes in a code base in real time.
 
-### Jira ![](../.gitbook/assets/18088260%20%283%29%20%283%29%20%283%29%20%283%29%20%282%29.png)
+### Jira ![](<../.gitbook/assets/18088260 (3) (3) (3) (3).png>)
 
 _Jira_ is an issue tracking product that allows bug tracking and agile project management. 
 
@@ -125,7 +125,7 @@ A new contributor is someone who has never contributed to the project before, an
 
 ### Onion model analysis
 
-In GitHub, _onion model analysis_ defines the number and identity of core, regular, and casual contributors. These contributors are individuals who have done 80 percent \(core\), 15 percent \(regular\), and 5 percent \(casual\) of the contributions to a project. 
+In GitHub, _onion model analysis_ defines the number and identity of core, regular, and casual contributors. These contributors are individuals who have done 80 percent (core), 15 percent (regular), and 5 percent (casual) of the contributions to a project. 
 
 ### Open source community
 
@@ -141,16 +141,16 @@ A _patch_ is a set of changes to a computer program to update, fix, or improve i
 
 ### Project
 
-A _project_ defines any open source collaborative effort, which can be a specific repository \(for example, [FOSS](glossary.md#free-and-open-source-software-foss)\), a coalition of like projects \(for example, LF Energy\), or a formal organization, for example, Cloud Native Computing Foundation\). Other project definitions follow:
+A _project_ defines any open source collaborative effort, which can be a specific repository (for example, [FOSS](glossary.md#free-and-open-source-software-foss)), a coalition of like projects (for example, LF Energy), or a formal organization, for example, Cloud Native Computing Foundation). Other project definitions follow:
 
-* Public domain project—A non-Linux Foundation project that is managed independently of the Linux Foundation, but that is participating in one or more Linux Foundation services \(for example, Express Gateway, Vue.js\).
-* Member project—A Linux Foundation project that maintains its own governance and membership \(for example, Cloud Native Computing Foundation or LF Networking\).
+* Public domain project—A non-Linux Foundation project that is managed independently of the Linux Foundation, but that is participating in one or more Linux Foundation services (for example, Express Gateway, Vue.js).
+* Member project—A Linux Foundation project that maintains its own governance and membership (for example, Cloud Native Computing Foundation or LF Networking).
 * Nonmember project—A Linux Foundation project that does not maintain its own formal governance and membership, but is instead directly managed by the Linux Foundation, for example [FOSS](glossary.md#free-and-open-source-software-foss).
-* Member subproject—A Linux Foundation project whose governance and membership is managed using a parent member project, but may also provide its own limited, more focused, governance \(for example, Kubernetes\).
+* Member subproject—A Linux Foundation project whose governance and membership is managed using a parent member project, but may also provide its own limited, more focused, governance (for example, Kubernetes).
 
 ### Pull request
 
-A _pull request_ \(PR\) is a proposed change to a repository that is submitted by a user and accepted or rejected by repository collaborators.
+A _pull request_ (PR) is a proposed change to a repository that is submitted by a user and accepted or rejected by repository collaborators.
 
 ### Push
 
@@ -158,13 +158,13 @@ A _push_ refers to sending your committed changes to a remote repository. A _pus
 
 ### Repository
 
-A _repository_ is an element in GitHub that contains all the project files \(including documentation\) and stores each file's revision history.
+A _repository_ is an element in GitHub that contains all the project files (including documentation) and stores each file's revision history.
 
 ### Review Efficiency Index
 
-_Review Efficiency Index_ \(REI\) is the number of closed pull requests divided by the number of open ones in a given period of time. 
+_Review Efficiency Index_ (REI) is the number of closed pull requests divided by the number of open ones in a given period of time. 
 
-### Slack ![](../.gitbook/assets/18088264%20%282%29%20%282%29%20%282%29%20%282%29.png)
+### Slack ![](<../.gitbook/assets/18088264 (2) (2) (2) (2).png>)
 
 _Slack_ is a cloud-based set of team collaboration tools and services.
 
@@ -174,19 +174,19 @@ A _submit_ is an action that lets you comment on a pull request, approve propose
 
 ### Unaffiliated contributors
 
-Unaffiliated contributors are those contributors who are contributing \(or have contributed\) to the project but their organization association is still '_Unknown_'.
+Unaffiliated contributors are those contributors who are contributing (or have contributed) to the project but their organization association is still '_Unknown_'.
 
 ### Unique commits
 
-Unique commits are identified based on the _SHA_ \(_Secure Hash Algorithm\)_ associated with a commit. For multiple entries for a single commit, the number of unique commits are considered as _one_  because unique commits are filtered based on the unique SHA of the commit.
+Unique commits are identified based on the _SHA _(_Secure Hash Algorithm) _associated with a commit. For multiple entries for a single commit, the number of unique commits are considered as _one_  because unique commits are filtered based on the unique SHA of the commit.
 
 ### Unique contributors
 
-Contribution by contributors/developers based on their [UUID](glossary.md#uuid)s. For example, if _ten_ contributors have pushed 20 commits each, the number of _unique contributors_ will be considered as _10_, not 200 as it is the total number of commits.
+Contribution by contributors/developers based on their [UUID](glossary.md#uuid)s. For example, if_ ten_ contributors have pushed 20 commits each, the number of _unique contributors_ will be considered as _10_, not 200 as it is the total number of commits.
 
 ### Unique repository
 
-The repositories based on their unique names. It refers to the complete path \(also called _origin_\) of the repository URL.
+The repositories based on their unique names. It refers to the complete path (also called _origin_) of the repository URL.
 
 ### UUID
 
@@ -195,4 +195,3 @@ Universally Unique Identifier. The author UUID is given by LFX Insights based on
 ### Visualization
 
 A _visualization_ is data that is represented in a visual context such as a graph or chart. Patterns, trends, and correlations can be exposed in a data visualization.
-

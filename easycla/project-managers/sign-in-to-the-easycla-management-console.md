@@ -2,19 +2,19 @@
 
 Project managers sign in to the EasyCLA Management Console to perform the CLA set-up and management tasks.
 
-1. Go to [https://easycla.lfx.linuxfoundation.org/](https://easycla.lfx.linuxfoundation.org/)
+1\. Go to [https://easycla.lfx.linuxfoundation.org/](https://easycla.lfx.linuxfoundation.org)
 
-2. On **Projects** card, click **Proceed**.
+2\. On **Projects** card, click **Proceed**.
 
-![Sign in to Management Console](../../.gitbook/assets/sign-in-to-management-console.png)
+![Sign in to Management Console](<../../.gitbook/assets/sign in to management console.png>)
 
-3. Enter your credentials as the project manager, and click **SIGN IN**.
+3\. Enter your credentials as the project manager, and click **SIGN IN**.
 
-**Result:** The CLA Management Console appears and lists your assigned projects from the Linux Foundation, for example:
+**Result: **The CLA Management Console appears and lists your assigned projects from the Linux Foundation, for example:
 
 ![CLA Management All Projects](../../.gitbook/assets/cla-management-all-projects.png)
 
-4. Click a **project name** of interest.
+4\. Click a **project name** of interest.
 
 For each project, the CLA Management Console provides the following information:
 
@@ -22,4 +22,3 @@ For each project, the CLA Management Console provides the following information:
 * **CLA Groups** shows the CLA groups that you have added to the project. A CLA group defines one or more CLA types that contributors must sign.
   * **GitHub Repositories** shows the repositories that you have configured to require CLA monitoring for pull requests.
   * **Gerrit Instances** shows the Gerrit instances that you have added to require CLA monitoring for pushes.
-

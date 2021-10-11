@@ -10,38 +10,38 @@ Trends dashboards provide analytics of project performance, ecosystem and [data 
 You can [filter data by time range](filter-data/filter-data-by-time-range.md). For details about filtering data, see [Filter Data](filter-data/).
 
 {% hint style="info" %}
-**Note:** If you filter data by time range on Trends dashboard for a _sub project_ of a project group, then the selected Trends time range will also reflect on the _other sub projects_ of the project group.
+**Note: **If you filter data by time range on Trends dashboard for a _sub project_ of a project group, then the selected Trends time range will also reflect on the _other sub projects _of the project group.
 {% endhint %}
 
 ## Global Trends
 
-Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights. ****The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
+Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights.** **The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-![Global Trends](../.gitbook/assets/global-trends-card.png)
+![Global Trends](<../.gitbook/assets/global trends card.png>)
 
-Following are the twelve most important _Key Performance Indicators \(KPIs\)_ of all projects, displayed at the top:  
+Following are the twelve most important _Key Performance Indicators (KPIs)_ of all projects, displayed at the top:\
 
 
-| Metrics | Definition |
-| :--- | :--- |
-| **Total lines of Code** | Combined count of lines of code across each repository for all the projects. |
-| **Commits** | Total number of [unique commits](glossary.md#unique-commits). |
-| **Average lines of code added weekly** | Average number of lines of code added weekly across unique commits for all the projects during the selected time range. |
-| **Average Lines of code deleted weekly** | Average number of lines of code deleted weekly across unique commits for all the projects during the selected time range. |
-| **Code Contributors** | Total number of [unique developers](glossary.md#unique-contributors) across commits, PRs, changesets and issues aggregated for all projects. |
-| **Contributing Companies** | Total number of affiliated companies \(only unique numbers\) contributing towards commits, PRs, changesets and issues aggregated for all projects. |
-| **Repositories** | Total number of unique repositories actively monitored across all projects. |
-| **Pull Requests** | Total number of PRs / Changesets \( includes both open and merged/closed/rejected\) across all projects of Insights. |
-| **Logged Issues** | Total number of issues that are submitted and closed \(includes rejected\) across all projects. |
-| **Project Builds** | Total number of project builds across all projects. |
-| **Container downloads** | Total number of docker image downloads aggregated for each docker image across all projects. |
-| **Email messages sent** | Total number of email messages monitored across all projects. |
+| Metrics                                  | Definition                                                                                                                                       |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Total lines of Code**                  | Combined count of lines of code across each repository for all the projects.                                                                     |
+| **Commits**                              | Total number of [unique commits](glossary.md#unique-commits).                                                                                    |
+| **Average lines of code added weekly**   | Average number of lines of code added weekly across unique commits for all the projects during the selected time range.                          |
+| **Average Lines of code deleted weekly** | Average number of lines of code deleted weekly across unique commits for all the projects during the selected time range.                        |
+| **Code Contributors**                    | Total number of [unique developers](glossary.md#unique-contributors) across commits, PRs, changesets and issues aggregated for all projects.     |
+| **Contributing Companies**               | Total number of affiliated companies (only unique numbers) contributing towards commits, PRs, changesets and issues aggregated for all projects. |
+| **Repositories**                         | Total number of unique repositories actively monitored across all projects.                                                                      |
+| **Pull Requests**                        | Total number of PRs / Changesets ( includes both open and merged/closed/rejected) across all projects of Insights.                               |
+| **Logged Issues**                        | Total number of issues that are submitted and closed (includes rejected) across all projects.                                                    |
+| **Project Builds**                       | Total number of project builds across all projects.                                                                                              |
+| **Container downloads**                  | Total number of docker image downloads aggregated for each docker image across all projects.                                                     |
+| **Email messages sent**                  | Total number of email messages monitored across all projects.                                                                                    |
 
 ## Project Trends
 
 Project Trends dashboards provide analytics of project performance data, such as how many contributors are contributing to your project, total number of code backlogs, issues, and many more for the project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-![Project Trends](../.gitbook/assets/project-dashboard.png)
+![Project Trends](<../.gitbook/assets/project dashboard.png>)
 
 Based on the project's configured data sources, following key project performance indicators are displayed at the top:
 
@@ -90,8 +90,8 @@ The grey colored rectangular card shows the following data in each slide:
 
 **Commits Growth:** Shows graphs that display the total number of unique commits on a periodic basis during the selected time range, growth percentage of commits, and monthly average number of code commits by active contributors for the selected time range.
 
-**New Contributor Growth:** Shows periodic bar graphs that display the total number of new contributors joining the projects during the selected time range, and represents a periodic growth/decline in the count of new contributors during the selected time range.   
-**Note:** New contributor is considered as someone who performed their first code activity during the selected time period.
+**New Contributor Growth:** Shows periodic bar graphs that display the total number of new contributors joining the projects during the selected time range, and represents a periodic growth/decline in the count of new contributors during the selected time range. \
+**Note: **New contributor is considered as someone who performed their first code activity during the selected time period.
 
 The grey colored rectangular card shows the following data in each slide:
 
@@ -99,7 +99,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Average monthly count of new contributors, and
 * Time periods that record highest and lowest number of new contributors joining the project during the selected time range.
 
-**Commits By New Contributors:** Shows periodic graphs that display the count of ****total number of commits by new contributors during the selected time range. Hover over the points for a quarter to see the number of commits by new contributors for the quarter.   
+**Commits By New Contributors:** Shows periodic graphs that display the count of** **total number of commits by new contributors during the selected time range. Hover over the points for a quarter to see the number of commits by new contributors for the quarter. \
 **Note:** New contributor is considered as someone who performed their first code activity during the selected time period.
 
 The grey colored rectangular card shows the following data in each slide:
@@ -122,7 +122,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Monthly average ratio between reviewers and submitters of pull requests and changesets, and
 * percentage of pull requests submitted and reviewed by core maintainers during the selected time range
 
-**Code Pipeline:** Shows total count of unique commits \(pull requests or changesets\) submitted, reviewed, approved and merged across all projects during the selected time range.
+**Code Pipeline: **Shows total count of unique commits (pull requests or changesets) submitted, reviewed, approved and merged across all projects during the selected time range.
 
 The grey colored rectangular card shows the following data in each slide:
 
@@ -141,15 +141,15 @@ The grey colored rectangular card shows the following data in each slide:
 * Median time taken to first review a pull request, and 
 * Median time taken to first approve a pull request during the selected time range
 
-**PR Merge Efficiency:** Shows graph that displays total time taken to merge a pull request. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
+**PR Merge Efficiency: **Shows graph that displays total time taken to merge a pull request. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
 
 The grey colored rectangular card shows the following data in each slide: 
 
 * Number of the pull requests merged during each time slot
 * The average merge efficiency time and percentage of pull requests that are merged within a week
 
-**Issues Backlog:** Shows a graph that represents the total number of issues in the backlog that are in Open and Resolved \(includes both closed and done\) states during the selected time range.   
-**Note:** GitHub issues in open state are also considered as backlog.
+**Issues Backlog:** Shows a graph that represents the total number of issues in the backlog that are in Open and Resolved (includes both closed and done) states during the selected time range. \
+**Note: **GitHub issues in open state are also considered as backlog.
 
 The grey colored rectangular card shows the following data in each slide:
 
@@ -158,7 +158,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Average number of resolved issues, and 
 * Average number of activities recorded in the issue management system during the selected time range
 
-**Issues Resolution Efficiency:** Shows graph that represents the median time taken to resolve \(close or reject\) an open issue. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
+**Issues Resolution Efficiency:** Shows graph that represents the median time taken to resolve (close or reject) an open issue. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
 
 The grey colored rectangular card shows the following data in each slide:
 
@@ -197,7 +197,7 @@ For different time periods, different strategies are used to collect, aggregate,
 
 #### 3M:
 
-This shows aggregated data for the last 3 months from the current date. The data are aggregated based on a specific interval in days of a month, and are displayed with 12 breakpoints \(also called buckets\).
+This shows aggregated data for the last 3 months from the current date. The data are aggregated based on a specific interval in days of a month, and are displayed with 12 breakpoints (also called buckets).
 
 #### 6M:
 
@@ -217,7 +217,7 @@ This shows aggregated data for the last three years from the current date. The d
 
 #### 5Y:
 
-This shows aggregated data for the last five years from the current date. The data are aggregated half-yearly \(every 6th month\), and are displayed with 10 breakpoints.
+This shows aggregated data for the last five years from the current date. The data are aggregated half-yearly (every 6th month), and are displayed with 10 breakpoints.
 
 #### 10Y:
 
@@ -229,7 +229,6 @@ This shows aggregated data from the year 2000 till the current year and date. Th
 
 ## Downloading a Metric Card
 
-You can download a metric card in image \(.png\) format by clicking the download button from the top right corner of the card. It is applicable to all the metrics cards displayed  in Insights. Following is an example:
+You can download a metric card in image (.png) format by clicking the download button from the top right corner of the card. It is applicable to all the metrics cards displayed  in Insights. Following is an example:
 
-![Downloading a Metrics Card](../.gitbook/assets/downloading-metrics.png)
-
+![Downloading a Metrics Card](<../.gitbook/assets/downloading metrics.png>)

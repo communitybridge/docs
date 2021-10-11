@@ -1,6 +1,6 @@
 # Identities and Affiliations
 
-Only **Project Administrators** can view, after signing in to insights, Identities & Affiliations for their project if they have access. If you do not have access, click **Request To Edit Affiliations** from navigation bar to request for access.
+Only **Project Administrators** can view, after signing in to insights, Identities & Affiliations for their project if they have access. If you do not have access, click **Request To Edit Affiliations **from navigation bar to request for access.
 
 {% hint style="info" %}
 * Only **Project Administrators** can manage affiliations of contributors for their projects.
@@ -15,7 +15,7 @@ As a project manager, you can manage different identities, such as email address
 
 ## Your Activities
 
-* \*\*\*\*[Data Affiliation](data-affiliation.md)
+* ****[Data Affiliation](data-affiliation.md)
 * [Request Access to Affiliation Management](request-access-to-affiliation-management.md)
 * [View and Address the Top Unaffiliated Contributors](view-and-address-the-top-unaffiliated-contributors.md)
 * [Find a Profile](find-a-profile.md)
@@ -23,4 +23,3 @@ As a project manager, you can manage different identities, such as email address
 * [Add an Identity to a Profile](merge-or-unmerge-an-identity-profile.md)
 * [Add or Delete a Profile Organization Affiliation](add-or-delete-an-organization-affiliation.md)
 * [Blacklist an Email Address](blacklist-an-email-address.md)
-

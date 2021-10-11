@@ -4,61 +4,62 @@ After receiving a successful performance evaluation, all mentees are required to
 
 To create and submit an **Expensify Report:**
 
-1. Sign in to [Expensify](%20https://www.expensify.com).   
-**Note:** Ensure that you use the same email address that you used to set up your account in Expensify.
+1\. Sign in to [Expensify](https://www.expensify.com). \
+**Note: **Ensure that you use the same email address that you used to set up your account in Expensify.
 
-2. Under your account, select **Reports** tab.
+2\. Under your account, select **Reports** tab.
 
-![](../../.gitbook/assets/reports.png)
+![](../../.gitbook/assets/Reports.png)
 
-3. On **Reports** window, click **New Report** located on the top-right corner of the screen.
+3\. On **Reports** window, click **New Report** located on the top-right corner of the screen.
 
-![](../../.gitbook/assets/new-report.png)
+![](<../../.gitbook/assets/New Report.png>)
 
-4. Update auto-generated report name to: "your name - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;" for example "Jane Smith - mentee stipend payment 1 of 2"
+4\. Update auto-generated report name to: "your name - mentee stipend payment <#> of <#>" for example "Jane Smith - mentee stipend payment 1 of 2"
 
-5. Click **Add Expenses** to create and add  a new expense.
+5\. Click **Add Expenses **to create and add  a new expense.
 
-![](../../.gitbook/assets/add-expenses.png)
+![](<../../.gitbook/assets/Add Expenses.png>)
 
-6. Click **New Expenses** to create a new expense.
+6\. Click **New Expenses** to create a new expense.
 
-![](../../.gitbook/assets/new-expense.png)
+![](<../../.gitbook/assets/New Expense.png>)
 
-7. Create a new expense by completing the fields as follows:  
-     **Merchant:** Your name   
-     **Date:** Date of the stipend payment \(today's date\)  
-     **Total:** 50% of the total amount of your stipend payment for midterm and final evaluation periods.   
-     **Category:** Select **Mentorship** from the dropdown list.  
-     **Description:** Name of your mentorship - mentee stipend payment &lt;\#&gt; of &lt;\#&gt;  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
+7\. Create a new expense by completing the fields as follows:\
+     **Merchant:** Your name \
+     **Date:** Date of the stipend payment (today's date)\
+     **Total:** 50% of the total amount of your stipend payment for midterm and final evaluation periods. \
+     **Category:** Select **Mentorship** from the dropdown list.\
+     **Description:** Name of your mentorship - mentee stipend payment <#> of <#>  for example: "Linux Kernel - mentee stipend payment 1 of 2" 
 
 {% hint style="info" %}
 **Note:**
 
-1. **United States residents:** please add the US bank deposit account to Expensify when first setting up the Expensify account 
+1.** United States residents: **please add the US bank deposit account to Expensify when first setting up the Expensify account 
 
-2. **International mentees not residing in the US:** please add “ - International Bank”   after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
+2\. **International mentees not residing in the US: **please add “ - International Bank”   after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
 
-3. If you need to **update your bank information,** please download and use the wire transfer form below, add "updated" to the title, and attach it as a receipt with your report. 
+3\. If you need to **update your bank information,** please download and use the wire transfer form below, add "updated" to the title, and attach it as a receipt with your report. 
 {% endhint %}
 
-{% file src="../../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" caption="The Linux Foundation Wire Transfer Form" %}
+{% file src="../../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
+The Linux Foundation Wire Transfer Form
+{% endfile %}
 
-![](../../.gitbook/assets/create-new-expense-screenshot-second-step.png)
+![](<../../.gitbook/assets/Create New Expense Screenshot Second Step.png>)
 
-8. After you're redirected to the Reports page, click **Submit** from the top left corner.
+8\. After you're redirected to the Reports page, click **Submit **from the top left corner.
 
-9. \(Optional\) Provide email address of an individual in **CC** field if you want to share the report with the individual.
+9\. (Optional) Provide email address of an individual in **CC** field if you want to share the report with the individual.
 
-10. Click **Send**.
+10\. Click **Send**.
 
 {% hint style="info" %}
-If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** &gt; **Account** &gt; **Payments** &gt; **Bank Accounts** as shown below.
+If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** >** Account** > **Payments **>** Bank Accounts **as shown below.
 {% endhint %}
 
-![](../../.gitbook/assets/add-us-bank-account.png)
+![](<../../.gitbook/assets/Add US Bank Account.png>)
 
 {% hint style="warning" %}
-**NOTE:** It may take up to 30 business days for the funds to be processed via wire-transfer and released by a bank outside the United States. 
+**NOTE: **It may take up to 30 business days for the funds to be processed via wire-transfer and released by a bank outside the United States. 
 {% endhint %}
-

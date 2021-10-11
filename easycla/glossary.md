@@ -6,11 +6,11 @@ Approved Lists are lists of domain names, email addresses of individuals, GitHub
 
 #### **CLA**
 
-A Contributor License Agreement \(CLA\) defines the terms under which intellectual property is contributed to a company or project. Typically, the intellectual property is software under an open source license. It is a legal contract signed by contributors before they can contribute code to a project.
+A Contributor License Agreement (CLA) defines the terms under which intellectual property is contributed to a company or project. Typically, the intellectual property is software under an open source license. It is a legal contract signed by contributors before they can contribute code to a project.
 
 #### **CCLA**
 
-Corporate Contributor License Agreement \(CCLA\) defines terms and conditions under which employees contribute code on behalf of the company.
+Corporate Contributor License Agreement (CCLA) defines terms and conditions under which employees contribute code on behalf of the company.
 
 #### **CLA Template**
 
@@ -18,11 +18,11 @@ A CLA template is a document that contains terms and conditions under which cont
 
 #### **CLA Group**
 
-A CLA group defines CLA details, such as CLA types \(ICLA and/or CCLA\) a project requires for pull requests or push submissions, GitHub repositories and/or Gerrit instances that are CLA enforced, and projects under a foundation that are CLA enabled. One CLA group is used under a unique [CLA template](glossary.md#cla-template).
+A CLA group defines CLA details, such as CLA types (ICLA and/or CCLA) a project requires for pull requests or push submissions, GitHub repositories and/or Gerrit instances that are CLA enforced, and projects under a foundation that are CLA enabled. One CLA group is used under a unique [CLA template](glossary.md#cla-template).
 
 #### **ICLA**
 
-Individual Contributor License Agreement \(ICLA\) defines terms and conditions under which individuals contribute code on behalf of their own.
+Individual Contributor License Agreement (ICLA) defines terms and conditions under which individuals contribute code on behalf of their own.
 
 #### **CLA Manager**
 
@@ -46,7 +46,7 @@ While creating a PR, corporate and individual contributors are navigated to the 
 
 #### **Individual Contributor**
 
-Individual contributors contribute code on their own behalf \(not on behalf of an employer\). CLA is verified while creating a PR, and they must sign CLA before they can contribute to GitHub or Gerrit. They are navigated to the LFX Contributor Console from GitHub or Gerrit to sign the CLA.
+Individual contributors contribute code on their own behalf (not on behalf of an employer). CLA is verified while creating a PR, and they must sign CLA before they can contribute to GitHub or Gerrit. They are navigated to the LFX Contributor Console from GitHub or Gerrit to sign the CLA.
 
 #### Project Manager
 
@@ -54,6 +54,4 @@ Individual contributors contribute code on their own behalf \(not on behalf of a
 
 #### **Legal Entity**
 
-Legal entity is a team of The Linux Foundation that has legal rights and responsibilities to manage projects and provide access to project managers to maintain projects.  
-
-
+Legal entity is a team of The Linux Foundation that has legal rights and responsibilities to manage projects and provide access to project managers to maintain projects.\

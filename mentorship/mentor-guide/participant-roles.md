@@ -12,6 +12,4 @@ Program maintainers are the individuals who enroll the mentorship programs. They
 
 ### **Mentee**
 
-Mentee is a college or university student, or an active developer who wants to learn open source software development. Mentees must be at least 18 years of age to enroll into this mentorship program. Mentees come from diverse academic, geographical, and social backgrounds.So, keeping in mind that mentees come from diverse backgrounds, set a universal tone while communicating with mentees throughout the learning process.  
-
-
+Mentee is a college or university student, or an active developer who wants to learn open source software development. Mentees must be at least 18 years of age to enroll into this mentorship program. Mentees come from diverse academic, geographical, and social backgrounds.So, keeping in mind that mentees come from diverse backgrounds, set a universal tone while communicating with mentees throughout the learning process.\

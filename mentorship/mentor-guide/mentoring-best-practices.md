@@ -34,6 +34,4 @@ As a mentor, you are not just teaching mentees, but also you are preparing futur
 
 Evaluate your mentee from the view point of current project at hand, as well as long term prospects to become successful open source developer. Ask yourself if a mentee candidate can become a productive member of the community. “If mentee continues with the rest of the program, do you believe mentee will become a productive member of the kernel community?”
 
-Be prepared to make tough decisions when a mentee isn’t meeting project/program requirements in collaboration with the Project Maintainer\(s\). The primary goal is training the next generation of open source developers.  
-
-
+Be prepared to make tough decisions when a mentee isn’t meeting project/program requirements in collaboration with the Project Maintainer(s). The primary goal is training the next generation of open source developers.\

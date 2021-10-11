@@ -14,7 +14,7 @@ This is a remote opportunity and there is no need to relocate or move to partici
 
 – Jason You, mentee for Hyperledger Caliper visualization
 
-"Initially open source development was new territory for me, and it was a bit intimidating at first \(technical skills aside\). But then I got to present my project work on the next Hyperledger event. That was my first close-up experience with the Hyperledger community, and it opened up a world of possibilities. I met the maintainers of many projects, we exchanged ideas, and they answered many of my questions. And suddenly the open source Hyperledger ecosystem wasn’t intimidating anymore." 
+"Initially open source development was new territory for me, and it was a bit intimidating at first (technical skills aside). But then I got to present my project work on the next Hyperledger event. That was my first close-up experience with the Hyperledger community, and it opened up a world of possibilities. I met the maintainers of many projects, we exchanged ideas, and they answered many of my questions. And suddenly the open source Hyperledger ecosystem wasn’t intimidating anymore." 
 
 – Attila Klenik, Hyperledger Summer Intern Program alum and current mentor.
 
@@ -26,7 +26,7 @@ Mentees are eligible to receive a [stipend](../mentee-stipends/total-stipend-amo
 
 After you successfully complete the mentorship program, get connected to potential employers who are focused on your project and are offering interview opportunities. Your mentor may also refer you to a company.
 
-**Note:** Any interactions you have with a company are strictly between you and the company, and are not part of or connected to the Mentorship program, nor do such interactions involve the Linux Foundation.
+**Note: **Any interactions you have with a company are strictly between you and the company, and are not part of or connected to the Mentorship program, nor do such interactions involve the Linux Foundation.
 
 ### **Hone your developer skills**
 
@@ -38,7 +38,7 @@ As a mentee, you get introduced to open source development infrastructure, tooli
 
 ### **Take Pride**
 
-Think of the moment when your first PR \(pull request\) gets committed upstream in some application that will be used by the other developers across the globe. What a pride-taking moment! Isn’t it?
+Think of the moment when your first PR (pull request) gets committed upstream in some application that will be used by the other developers across the globe. What a pride-taking moment! Isn’t it?
 
 “The Linux Kernel Mentorship program was a life changing experience. Working on open source projects was a very liberating experience for me. There are no barriers in open source space. Anyone can work on open source code irrespective of their nationality, creed or company affiliations, which I find very beautiful and liberating. I believe it is a very intellectually stimulating experience for anyone.”
 
@@ -50,9 +50,7 @@ Think of the moment when your first PR \(pull request\) gets committed upstream 
 
 “Open source development was new territory for me, and it was a bit intimidating at first. But then I got to present my project work on the next Hyperledger event. That was my first close-up experience with the Hyperledger community, and it opened up a world of possibilities. I met the maintainers of many projects, we exchanged ideas, and they answered many of my questions.It is safe to say that this whole experience put me on the track to get more involved with specific projects, and later becoming a maintainer of Hyperledger Caliper. And, as the next step on the road, I had the pleasure to mentor a Caliper-related internship project this year.”
 
-– Attila Klenik, Hyperledger Summer Intern Program alum and current mentor  
+– Attila Klenik, Hyperledger Summer Intern Program alum and current mentor\
 
 
-  
-
-
+\

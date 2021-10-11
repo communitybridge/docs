@@ -8,7 +8,7 @@ Collaboration Metrics dashboard is displayed based on LF SSO account, and is acc
 
 Following screen is displayed when you are not signed in or you don't have access to Ecosystem Trends dashboard. Click **Go to My Profile** to navigate to the Individual Dashboard to update your organization, as described in [Edit My Information](../../my-profile/managing-your-profile.md).
 
-![Ecosystem Trends](../../.gitbook/assets/ecosystem-trends-access-window.png)
+![Ecosystem Trends](<../../.gitbook/assets/ecosystem trends access window.png>)
 
 Following are the data sources configured under Collaboration Metrics:
 
@@ -16,4 +16,3 @@ Following are the data sources configured under Collaboration Metrics:
 * [Mailing List](../technical-metrics/summary.md#mailing-list)
 * [Documentation](../technical-metrics/summary.md#documentation)
 * [Earned Media](../technical-metrics/summary.md#earned-media)
-

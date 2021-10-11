@@ -37,20 +37,18 @@ The Linux Foundation Mentorship Program follows the following term names, howeve
 2. Part-time terms will continue for three to six months based on project guidelines.
 {% endhint %}
 
-**Activity Timelines** 
+**Activity Timelines **
 
-1. Mentorship duration - three months \(12 weeks - **full-time schedule**\)
+1. Mentorship duration - three months (12 weeks - **full-time schedule**)
    * **Week 1**: Mentorship program begins with the initial work assignments
-   * **End of Week 3**: First mentee evaluations due \(optional per mentor/program admin\)
-   * **End of Week 6**: Midterm mentee evaluations due and first stipend payment \(50% of the total amount\) approvals
-   * **End of Week 9**: Third mentee evaluations due \(optional per mentor/program admin\)
-   * **End of Week 12**: Final mentee evaluations and mentee feedback/blog submission due, second and second stipend payment \(50% of the total amount\) approvals  
-2. Mentorship duration - six months \(24 weeks - **part-time schedule**\)
+   * **End of Week 3**: First mentee evaluations due (optional per mentor/program admin)
+   * **End of Week 6**: Midterm mentee evaluations due and first stipend payment (50% of the total amount) approvals
+   * **End of Week 9**: Third mentee evaluations due (optional per mentor/program admin)
+   * **End of Week 12**: Final mentee evaluations and mentee feedback/blog submission due, second and second stipend payment (50% of the total amount) approvals  
+2. Mentorship duration - six months (24 weeks - **part-time schedule**)
    * **Week 1**: Mentorship program begins with the initial work assignments
-   * **End of Week 6**: First mentee evaluations due \(optional per mentor/program admin\)
-   * **End of Week 12**: Midterm mentee evaluations due and first stipend payment \(50% of the total amount\) approvals
-   * **End of Week 18**: Third mentee evaluations due \(optional per mentor/program admin\)
-   * **End of Week 24**: Final mentee evaluations and mentee feedback/blog submission due, second and second stipend payment \(50% of the total amount\) approvals  
-
-
+   * **End of Week 6**: First mentee evaluations due (optional per mentor/program admin)
+   * **End of Week 12**: Midterm mentee evaluations due and first stipend payment (50% of the total amount) approvals
+   * **End of Week 18**: Third mentee evaluations due (optional per mentor/program admin)
+   * **End of Week 24**: Final mentee evaluations and mentee feedback/blog submission due, second and second stipend payment (50% of the total amount) approvals  
 

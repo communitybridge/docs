@@ -4,15 +4,15 @@
 By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of confluence dashboard.
+Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of confluence dashboard.
 
 The Confluence dashboard is available from the **Documentation** drop-down list, and represents a set of metrics that shows information about confluence pages.
 
-## Overview <a id="Confluence-Confluence&gt;Overview"></a>
+## Overview <a href="confluence-confluence-greater-than-overview" id="confluence-confluence-greater-than-overview"></a>
 
 Overview shows information about Confluence documentation reviews, including editions, revisions, editors, organizations, and projects.
 
-**Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter **lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Pages, Comments, and Editors.
 
@@ -27,4 +27,3 @@ Overview shows information about Confluence documentation reviews, including edi
 **Last Actions** shows a table that lets you sort values by Summary, URL, Action Type, and Action Date. Click **+ Info** to open the corresponding page.
 
 **Last Created Pages** shows a table that lets you sort values by Last Created Page, URL, Creation Date, and Editions. Click **+ Info** to open the corresponding page.
-

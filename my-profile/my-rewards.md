@@ -9,7 +9,7 @@ My Rewards consists of the following sections in it:
 * My Coupons
 * My Transactions 
 
-![My Rewards  ](../.gitbook/assets/r1%20%281%29%20%281%29%20%281%29.png)
+![My Rewards  ](<../.gitbook/assets/r1 (1).png>)
 
 ## My Coupons 
 
@@ -21,40 +21,40 @@ Earned coupons will allow you to claim a discount for the training and certifica
 
 For example, if you have registered for an event say Cloud Native conference, you will receive a earned coupon for that. 
 
-When you hover over the mouse on the ![](../.gitbook/assets/ei.png)  icon, you can see the details related to the earned coupon.
+When you hover over the mouse on the ![](../.gitbook/assets/EI.png)  icon, you can see the details related to the earned coupon.
 
-![Earned Coupon](../.gitbook/assets/r1%20%281%29%20%281%29.png)
+![Earned Coupon](<../.gitbook/assets/r1 (1) (1).png>)
 
 To claim the earned coupon, perform the following steps:
 
-1.Login to [MyProfile](http://myprofile.linuxfoundation.org/) using your LFID and click the **My Rewards** CTA link. 
+1.Login to [MyProfile](http://myprofile.linuxfoundation.org) using your LFID and click the **My Rewards** CTA link. 
 
 2.Click **My Coupons**. Earned Coupons section appears with the list of trainings and certifications that you are eligible to claim the coupon code. Click **Claim Coupon**.
 
-![Claim Coupon](../.gitbook/assets/r1-copy.png)
+![Claim Coupon](<../.gitbook/assets/R1 - Copy.png>)
 
 3.A Pop message appears. Click **Claim Code**. 
 
-![Claim Code](../.gitbook/assets/cc.png)
+![Claim Code](../.gitbook/assets/CC.png)
 
-4.Copy the discount code and paste this code at checkout on the [Training Portal](https://trainingportal.linuxfoundation.org/).
+4.Copy the discount code and paste this code at checkout on the [Training Portal](https://trainingportal.linuxfoundation.org).
 
-![Coupon Code](../.gitbook/assets/cc2.png)
+![Coupon Code](../.gitbook/assets/CC2.png)
 
 5.The same coupon code can be viewed by click of the **View Coupon Code**. 
 
-![View Coupon Code](../.gitbook/assets/cc3.png)
+![View Coupon Code](<../.gitbook/assets/CC3 (1).png>)
 
 ## My Transactions
 
-To view your transactions for all the purchases you made through Linux Foundation, login to [My Profile ](https://myprofile.lfx.linuxfoundation.org/)and scroll down to My Transactions section. In this section you can view the following transaction details: 
+To view your transactions for all the purchases you made through Linux Foundation, login to [My Profile ](https://myprofile.lfx.linuxfoundation.org)and scroll down to My Transactions section. In this section you can view the following transaction details: 
 
 * All Transactions 
 * Event Tickets 
 * Training + Certifications 
 * Individual Support and Linux.com Purchase 
 
-![My Transactions](../.gitbook/assets/my-transactions%20%281%29.png)
+![My Transactions](<../.gitbook/assets/My Transactions (1).png>)
 
 In this section you can view the following transaction details:  
 
@@ -68,27 +68,26 @@ In this section you can view the following transaction details:
 
 All Transactions provides the transaction details related to all the transactions.
 
-![All Transactions ](../.gitbook/assets/all-transactions%20%281%29.png)
+![All Transactions ](<../.gitbook/assets/All Transactions.png>)
 
-### **Event Tickets** 
+### **Event Tickets **
 
 Event Tickets provides the transaction details related to the event. 
 
-![Event Tickets ](../.gitbook/assets/transactions-event-tickets.png)
+![Event Tickets ](<../.gitbook/assets/Transactions - Event Tickets.png>)
 
-### **Training and Certifications** 
+### **Training and Certifications **
 
 Training and Certifications provides the transaction details related to training and certifications.  
 
-![Training and Certifications ](../.gitbook/assets/transactions-training-+-certification.png)
+![Training and Certifications ](<../.gitbook/assets/Transactions - Training + Certification.png>)
 
 ### **Individual Supporter Program and Linux.com Purchase**
 
 Individual Supporter Program and Linux.com Purchase provides transaction  details related to the individual support program and Linux.com purchases.
 
-![Individual Supporter Program and Linux.com Purchase](../.gitbook/assets/transactions-individual-supporter.png)
+![Individual Supporter Program and Linux.com Purchase](<../.gitbook/assets/Transactions Individual Supporter.png>)
 
 
 
  
-

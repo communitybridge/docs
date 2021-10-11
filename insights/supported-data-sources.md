@@ -50,11 +50,11 @@ Insights supports Confluence for tracking and visualizing project's documentatio
 
 #### Social Media
 
-Insights supports [Twitter](social-media-metrics.md#overview) as social media platform to visualize project's ****high-level insights from the project's twitter account.
+Insights supports [Twitter](social-media-metrics.md#overview) as social media platform to visualize project's** **high-level insights from the project's twitter account.
 
 ####  Earned Media
 
-Insights supports _Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](earned-media/).
+Insights supports_ Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](earned-media/).
 
 #### Registry
 
@@ -74,9 +74,8 @@ The Linux Foundation is working towards supporting the following data sources ve
 
 #### Build Systems
 
-The Linux Foundation is releasing soon the support for some more popular build system data sources, such as **Travis CI \(**Continuous Integration**\)**, **Gitlab CI**, **GitHub Actions**, to name a few.
+The Linux Foundation is releasing soon the support for some more popular build system data sources, such as **Travis CI (**Continuous Integration**)**, **Gitlab CI**, **GitHub Actions**, to name a few.
 
 #### Chat Room
 
 The Linux Foundation is developing Insights tool to support **GitHub Team Discussions**.
-

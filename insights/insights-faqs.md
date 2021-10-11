@@ -18,7 +18,7 @@ No, Insights does not monitor forked repositories. A repository that is forked f
 
 ### **What if a repository gets deleted on the Version Control System? How will the data be collected?**
 
-In case if a repository that was being monitored**,** and later is deleted, then we will keep the data from the old repository as historical endpoints, and the data will be reflected on the dashboards when queried for the time period during which there were activities on that repository.
+In case if a repository that was being monitored**, **and later is deleted, then we will keep the data from the old repository as historical endpoints, and the data will be reflected on the dashboards when queried for the time period during which there were activities on that repository.
 
 ### Who can see LFX Insights reports?
 
@@ -30,7 +30,7 @@ It helps open source project maintainers monitor their project activity, total a
 
 ### Does LFX Insights automatically create visualization reports?
 
-Yes, if your project is set up on Linux Foundation's SFDC \(Sales Force Dot Com\) database, then LFX Insights automatically collects and visualizes data on graphs, charts, tables, and other customized dashboards.
+Yes, if your project is set up on Linux Foundation's SFDC (Sales Force Dot Com) database, then LFX Insights automatically collects and visualizes data on graphs, charts, tables, and other customized dashboards.
 
 ### **What are the changes added to Insights Github?**
 
@@ -40,12 +40,12 @@ With our latest upgrade to the github service, we are collecting more data than 
 
 The Insights agents for google groups are designed to monitor the mailing lists by becoming a subscriber of those mailing lists, and reporting back to our servers all the emails that have been communicated. Once we have the raw emails, we enrich the data, and present them on the Insights dashboard for google groups. It involves two processes: Getting the archived data from project administrators, and syncing the email on a daily basis.
 
-* **Getting the archived data for all the google groups mailing list:** In this step, project administrators must provide a zipped archive \(attached to a support help desk ticket\) of the most recent emails for the mailing lists that we monitor in LFX Insights as our Insights agents cannot collect data from the past where our agent was not a part of the mailing list. If a new google group mailing list is created, the project administrator must inform the Insights team so that we can add our agent to the mailing list to monitor the activity.
+* **Getting the archived data for all the google groups mailing list:** In this step, project administrators must provide a zipped archive (attached to a support help desk ticket) of the most recent emails for the mailing lists that we monitor in LFX Insights as our Insights agents cannot collect data from the past where our agent was not a part of the mailing list. If a new google group mailing list is created, the project administrator must inform the Insights team so that we can add our agent to the mailing list to monitor the activity.
 * **Syncing emails everyday:** Once we receive the archives, we import all the emails, and from that time onwards, we regularly sync all the emails as by then our google group agent will be a part of the mailing lists.
 
 ### How does Insights collect Social Media Metrics Data?
 
-While onboarding a project for social media, the project administrators or community managers must provide the project's search terms that they want to track, social media handles, hashtags, and so on. Once we het the search terms, we use the respective social media \(Twitter in this release\) APIs to collect tweets or posts of last two years which are relevant to the project based on the provided search-terms. After onboarding is completed, our social media tool regularly syncs all the tweets and posts for the project.
+While onboarding a project for social media, the project administrators or community managers must provide the project's search terms that they want to track, social media handles, hashtags, and so on. Once we het the search terms, we use the respective social media (Twitter in this release) APIs to collect tweets or posts of last two years which are relevant to the project based on the provided search-terms. After onboarding is completed, our social media tool regularly syncs all the tweets and posts for the project.
 
 ### How are unaffiliated contributions calculated?
 
@@ -59,13 +59,13 @@ No, affiliation data is linked to profiles, and profiles are visible across all 
 
 Insight calculates contribution data based on commit hash. So, if a pull request or changeset is submitted to two different branches with the same commit hash identification number, Insight counts it as a single contribution, eliminating duplication of data.
 
-### How do I identify ****Individual Contributors to my project?
+### How do I identify** **Individual Contributors to my project?
 
-Navigate to _Technical Metrics &gt; Source Control &gt; Commits &gt; Overview_ dashboard for your project, and[ filter the dashboard with the name of the organization](filter-data/) as **Individual - No Account**. Scroll down to the _Submitters_ metric to know the names and contribution details of the individual contributors.
+Navigate to _Technical Metrics > Source Control > Commits > Overview_ dashboard for your project, and[ filter the dashboard with the name of the organization](filter-data/) as **Individual - No Account**. Scroll down to the_ Submitters_ metric to know the names and contribution details of the individual contributors.
 
 ### Do I require permission to see Trends dashboard?
 
-No, you do not require permission to see the Trends dashboard.  ****Anyone who navigates to these dashboards can view them without requiring an LF SSO \(LFID\) login or permission.
+No, you do not require permission to see the Trends dashboard. ** **Anyone who navigates to these dashboards can view them without requiring an LF SSO (LFID) login or permission.
 
 ### How is Trends data aggregated?
 
@@ -74,8 +74,6 @@ Trends metric data is aggregated based on time frames with different breakpoints
 ###  Why do I see only subsets of a data source for my project compared to Global Trends?
 
 Trends metrics are displayed depending upon the data sources that are configured for your project. If a project is not configured for a certain data source, the related metrics are not displayed on [Project Trends](trends.md#project-trends).
-
-
 
 
 

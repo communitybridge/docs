@@ -11,23 +11,23 @@ As a project manager, you use the CLA Management Console to manage your CLA grou
    * [View CLA User Signatures](manage-cla-group-details.md#view-cla-user-signatures)
    * [View the Corporate CLA Companies](manage-cla-group-details.md#view-the-corporate-cla-companies)
 
-## Change Your Current CLA Type Selections <a id="change-your-current-cla-type-selections"></a>
+## Change Your Current CLA Type Selections <a href="change-your-current-cla-type-selections" id="change-your-current-cla-type-selections"></a>
 
 You can change your CLA type selections if needed.
 
-1. Click the **gear icon** ![CLA Gear Settings icon](../../.gitbook/assets/cla-gear-settings-icon.png) next to the CLA group name.
+1\. Click the **gear icon** ![CLA Gear Settings icon](../../.gitbook/assets/cla-gear-settings-icon.png) next to the CLA group name.
 
 The CLA Group dialog appears and shows your current CLA type selections.
 
 ![CLA CLA Group Edit](../../.gitbook/assets/cla-cla-group-edit.png)
 
-2. Change the CLA Group Name, selections, or all, and click **SAVE**.
+2\. Change the CLA Group Name, selections, or all, and click **SAVE**.
 
-## View CLA User Signatures <a id="view-cla-user-signatures"></a>
+## View CLA User Signatures <a href="view-cla-user-signatures" id="view-cla-user-signatures"></a>
 
 You can view the full set of signatures and list of approved contributors who are interacting with a project. A signature list shows details about who signed a CLA for your project.
 
-1. Click **VIEW SIGNATURES**.
+1\. Click **VIEW SIGNATURES**.
 
 Details for all user signatures appear:
 
@@ -41,19 +41,18 @@ Details for all user signatures appear:
 
 ![CLA View Signatures](../../.gitbook/assets/cla-view-signatures.png)
 
-2. \(Optional\) Click a column header to sort the column values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
+2\. (Optional) Click a column header to sort the column values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
 
-3. Click **CLOSE**.
+3\. Click **CLOSE**.
 
-## View the Corporate CLA Companies <a id="view-the-corporate-cla-companies"></a>
+## View the Corporate CLA Companies <a href="view-the-corporate-cla-companies" id="view-the-corporate-cla-companies"></a>
 
 The Corporate CLA list lets you see what companies in your project have a signed Corporate CLA.
 
-1. Click **VIEW COMPANIES** on a Corporate CLA.
+1\. Click **VIEW COMPANIES** on a Corporate CLA.
 
 All companies that have signed the Corporate CLA are listed.
 
 ![CLA Corporate CLA](../../.gitbook/assets/cla-corporate-cla.png)
 
-2. Click **CLOSE**.
-
+2\. Click **CLOSE**.

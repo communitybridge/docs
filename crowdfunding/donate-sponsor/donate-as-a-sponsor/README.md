@@ -9,15 +9,15 @@ Have these items handy before you begin:
 * If you are making a payment using an invoice, invoice number. 
 {% endhint %}
 
- 1. [Sign in](../../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org/).
+ 1\. [Sign in](../../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org).
 
-2. Click **Donate** on a project of interest. 
+2\. Click **Donate** on a project of interest. 
 
-3. Select an **organization.** [You can add, edit, or delete an organization.](add-edit-or-delete-an-organization.md)
+3\. Select an **organization.** [You can add, edit, or delete an organization.](add-edit-or-delete-an-organization.md)
 
-4. Select a **preset amount** or click in the **I want to give** field and enter a dollar amount.
+4\. Select a **preset amount** or click in the **I want to give** field and enter a dollar amount.
 
-5. Select a donation frequency option: One-time or Monthly.
+5\. Select a donation frequency option: One-time or Monthly.
 
 {% hint style="info" %}
 **Note:**
@@ -26,19 +26,18 @@ Have these items handy before you begin:
 * You can cancel your recurring donation by logging into your account and changing your donation settings.
 {% endhint %}
 
-6. From **Donation allocation** drop-down list, designate a project goal for your donation to support.
+6\. From **Donation allocation** drop-down list, designate a project goal for your donation to support.
 
 1. For Payment Method, select an option:
    * **Credit or debit card**- add a default card or edit a default card to use for your donation. Click **Add Card** or **Edit Card** to add or edit a card, respectively. Enter your card details and click **Submit**.
    * **Invoice** - this option initiates the donation via invoice. You will receive an email from the Linux Foundation with a form that you will need to complete to complete the donation.
 
-7. Review your donation amounts in the **Review Donation** section.
+7\. Review your donation amounts in the **Review Donation** section.
 
-8. Agree to the terms and select the checkbox.
+8\. Agree to the terms and select the checkbox.
 
-9. Click **Submit Donation** or **Submit Subscription,** depending on your donation selection. 
+9\. Click **Submit Donation** or **Submit Subscription,** depending on your donation selection. 
 
 {% hint style="info" %}
 At any time, you can select **My Transactions** tab to edit your monthly donation amount by selecting **Edit monthly donation** for the project of interest.
 {% endhint %}
-

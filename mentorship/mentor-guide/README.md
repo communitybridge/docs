@@ -4,5 +4,4 @@ Before you participate in the Mentorship program, and start mentoring mentees, w
 
 So, let's get started. 
 
-**Note:** To know about user interface related usages of Mentorship website, navigate to [mentors](../mentors/) section of this document.
-
+**Note: **To know about user interface related usages of Mentorship website, navigate to [mentors](../mentors/) section of this document.

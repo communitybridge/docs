@@ -2,7 +2,7 @@
 
 Mentorship makes it easier than ever to pair promising open source talent with experienced mentors. Invest in building a stronger and more diverse community of qualified developers and engineers.
 
-## How to Participate <a id="CommunityBridgeMentorship-HowtoParticipate"></a>
+## How to Participate <a href="communitybridgementorship-howtoparticipate" id="communitybridgementorship-howtoparticipate"></a>
 
 You can participate in the Linux Foundation Mentorship program as a program administrator, a mentor or a mentee. 
 
@@ -12,9 +12,8 @@ You can participate in the Linux Foundation Mentorship program as a program admi
 
 [**Mentee**](mentees/): Mentees [need to create a mentee ](mentees/create-a-mentee-profile.md)profile in order to apply to The Linux Foundation mentorship programs. As a mentee you will have an opportunity to contribute to an open source project while working under the guidance of an experienced mentor who's an active contributor to the project and open-source community.
 
-## How does the program work? <a id="CommunityBridgeMentorship-HowDoesitWork?"></a>
+## How does the program work? <a href="communitybridgementorship-howdoesitwork" id="communitybridgementorship-howdoesitwork"></a>
 
 First, a project administrator enrolls a project. Then, mentors and mentees participate as shown in the following high-level diagram:
 
-![](../.gitbook/assets/how-mentorship-works.png)
-
+![](<../.gitbook/assets/how mentorship works.png>)
