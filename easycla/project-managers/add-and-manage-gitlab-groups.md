@@ -5,7 +5,7 @@ Before you can add or manage GitLab groups and projects, you must connect or add
 {% hint style="info" %}
 **Note**: 
 
-* In GitLab, _organizations_ are mentioned as _groups_, and _repositories_ are mentioned as _projects_.
+* In GitLab, _organizations_ are mentioned as _groups_, and_ repositories _are mentioned as_ projects_.
 * You must be the owner of the GitLab group which you want to connect for CLA mechanism.
 {% endhint %}
 
@@ -20,39 +20,39 @@ After you successfully add Git organizations, you can:
 
 ## Add GitLab Groups
 
-1. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
+1\. Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org).
 
-2. Click a **project** of interest.
+2\. Click a **project** of interest.
 
-3. Scroll down to the **Tools** **Status** section, and click **EasyCLA**.  
-**Note:** You can also connect the GitLab groups during IT setup in the IT Services Status section, and then install the EasyCLA application in the **Tools Status** section to add it for the CLA process.
+3\. Scroll down to the **Tools** **Status** section, and click **EasyCLA**.\
+**Note: **You can also connect the GitLab groups during IT setup in the IT Services Status section, and then install the EasyCLA application in the **Tools Status** section to add it for the CLA process.
 
-4. Under CLA Groups, select a CLA group to which you have added the project.
+4\. Under CLA Groups, select a CLA group to which you have added the project.
 
-5. Click **Manage** next to the project for which you want to manage repositories.
+5\. Click **Manage** next to the project for which you want to manage repositories.
 
 ![Add and manage repositories](../../.gitbook/assets/add-and-manage-repositories.png)
 
-6. Under the GITLAB tab, click the **+** sign at the top right of ADD GITLAB GROUP.
+6\. Under the GITLAB tab, click the **+** sign at the top right of ADD GITLAB GROUP.
 
 ![Add GitLab Group](../../.gitbook/assets/add-gitlab-group.png)
 
-7. Provide the complete URL of the GitLab group, as shown in the image, in the **Enter GitLab Group URL** field, and click **Connect**.
+7\. Provide the complete URL of the GitLab group, as shown in the image, in the **Enter GitLab Group URL** field, and click **Connect**.
 
 ![Connect GitLab Group](../../.gitbook/assets/connect-gitlab-group.png)
 
-8. Click **Install GitLab EasyCLA App**.
+8\. Click **Install GitLab EasyCLA App**.
 
 ![Install GitLab EasyCLA Application](../../.gitbook/assets/install-gitlab-easycla-app.png)
 
-9. Click **Authorize**. 
+9\. Click **Authorize**. 
 
-10. Installation Successful window appears. Close the window, navigate to the Project Control Center, and click **I'm Done Installing**.
+10\. Installation Successful window appears. Close the window, navigate to the Project Control Center, and click **I'm Done Installing**.
 
 ![](../../.gitbook/assets/gitlab-installation-successful.png)
 
 {% hint style="info" %}
-**Note**: If you do not click **I'm Done Installing**, you will have to reinstall EasyCLA application.
+**Note**: If you do not click** I'm Done Installing**, you will have to reinstall EasyCLA application.
 {% endhint %}
 
 ![GitLab I am Done Installing](../../.gitbook/assets/gitlab-i-am-done-installing.png)
@@ -74,9 +74,9 @@ After adding the GitLab group, you should enable branch protection and auto enab
 
 **To enable branch protection and auto enable new repositories:**
 
-1. Click the settings icon ![](../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitLab group.
+1\. Click the settings icon ![](<../../.gitbook/assets/settings (1).png>) next to **Additional Settings** for a GitLab group.
 
-2. Click both the check boxes, and click **Save Changes**.
+2\. Click both the check boxes, and click **Save Changes**.
 
 ![Additional Settings GitLab](../../.gitbook/assets/additional-setttings-gitlab.png)
 
@@ -88,8 +88,7 @@ After adding the GitLab group, you should enable branch protection and auto enab
 
 ![Disassociate GitLab Group disabled for CLA enforced projects ](../../.gitbook/assets/disassociate-gitlab-group-disabled.png)
 
-1. Click the settings icon ![](../../.gitbook/assets/settings%20%281%29.png) next to **Additional Settings** for a GitLab group.
+1. Click the settings icon ![](<../../.gitbook/assets/settings (1).png>) next to **Additional Settings** for a GitLab group.
 2. Click **Disassociate GitLab Group**, and click **Disassociate** on the confirmation window.
 
 ![Disassociate GitLab Group](../../.gitbook/assets/disassociate-gitlab-group.png)
-

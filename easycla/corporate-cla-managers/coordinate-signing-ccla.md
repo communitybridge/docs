@@ -8,7 +8,7 @@ description: >-
 
 Before a CCLA is signed, there is not yet an official "CLA Manager". Someone from the contributing company will be responsible for coordinating the CCLA signing process. That person will become the initial CLA Manager after it is signed.
 
-This person \(referred to internally in EasyCLA as the "CLA Manager Designee"\) can get designated as the initial CLA Manager either by starting the CCLA signing process themselves, or by being designated by another prospective contributor from their company who has started the EasyCLA CCLA process.
+This person (referred to internally in EasyCLA as the "CLA Manager Designee") can get designated as the initial CLA Manager either by starting the CCLA signing process themselves, or by being designated by another prospective contributor from their company who has started the EasyCLA CCLA process.
 
 As the person who will become the initial CLA Manager, before starting the CCLA signing process, you will need to know the following before you proceed:
 
@@ -19,44 +19,44 @@ You may need to consult with your management or legal department for guidance on
 
 ## CCLA signing workflow
 
-1. [Sign in](sign-in-to-the-easycla-corporate-console.md) to the [EasyCLA corporate console](https://organization.lfx.linuxfoundation.org/company/dashboard).
+1\. [Sign in](sign-in-to-the-easycla-corporate-console.md) to the [EasyCLA corporate console](https://organization.lfx.linuxfoundation.org/company/dashboard).
 
-2. Select the project from the **Search** field, and click **EasyCLA** under the project name.  
+2\. Select the project from the **Search** field, and click **EasyCLA** under the project name.\
 **Note:** If a CCLA signature workflow is already in process for this project, you may be taken to the screen shown in step 5.
 
-3. Click **Start the CLA process**.
+3\. Click **Start the CLA process**.
 
 ![Start the CLA Process](../../.gitbook/assets/start-cla-process.png)
 
-4. Click an answer: **Are you authorized to be a CLA Manager for your organization?**  
+4\. Click an answer: **Are you authorized to be a CLA Manager for your organization?**  
 
-![](../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png) 
+![](<../../.gitbook/assets/company-has-not-signed-cla (1).png>) 
 
-* **Yes:** You _are_ going to be your company's initial CLA Manager. Continue to next step.
-* **No:** [Designate someone else as the initial CLA Manager](coordinate-signing-ccla.md#designating-another-initial-CLA-manager). ****
+* **Yes: **You _are_ going to be your company's initial CLA Manager. Continue to next step.
+* **No: **[Designate someone else as the initial CLA Manager](coordinate-signing-ccla.md#designating-another-initial-CLA-manager).** **
 
-5. Following screen appears. Under the **Action** column, click **Proceed with Signing**.  
+5\. Following screen appears. Under the **Action** column, click **Proceed with Signing**.  
 
 ![Proceed with Signing CLA](../../.gitbook/assets/proceed-with-signing.png)
 
-6. Select an answer: **Are you authorized to sign CLAs on your company's behalf?**  
+6\. Select an answer: **Are you authorized to sign CLAs on your company's behalf?**  
 
 ![](../../.gitbook/assets/identify-cla-signatory.png) 
 
-* **Yes:** Continue to next step.
+* **Yes: **Continue to next step.
 * **No:** [Choose someone else to sign the CCLA](coordinate-signing-ccla.md#choosing-another-cla-signatory).
 
-7. The **Review CCLA** window appears. Click **Review & Sign CCLA**.
+7\. The **Review CCLA** window appears. Click **Review & Sign CCLA**.
 
 ![](../../.gitbook/assets/review-ccla.png)
 
-8. The **Preparing CCLA** window appears. After CCLA preparation is completed, click **Sign CCLA**.
+8\. The **Preparing CCLA** window appears. After CCLA preparation is completed, click **Sign CCLA**.
 
 ![CCLA Ready for Signature](../../.gitbook/assets/ccla-ready-for-signature.png)
 
 **Result:** You will be redirected to DocuSign to sign the CCLA.
 
-9. Select the check box to agree to use electronic signatures, and click **Continue**. Follow the instructions in the DocuSign document to fill in the required fields, sign the CCLA, and click **Finish**.
+9\. Select the check box to agree to use electronic signatures, and click **Continue**. Follow the instructions in the DocuSign document to fill in the required fields, sign the CCLA, and click **Finish**.
 
 ![](../../.gitbook/assets/docusign-icla-flow.png)
 
@@ -72,7 +72,7 @@ You will now be able to [approve contributors](approve-and-manage-contributors.m
 * You can also download the signed CCLA at any time from within the EasyCLA Corporate Console.
 {% endhint %}
 
-## Designating someone else as initial CLA Manager <a id="designating-another-initial-CLA-manager"></a>
+## Designating someone else as initial CLA Manager <a href="designating-another-initial-cla-manager" id="designating-another-initial-cla-manager"></a>
 
 If you clicked **No** in step 4 above, the **Identify CLA Manager** form appears:
 
@@ -86,7 +86,7 @@ If you are not sure who is the initial CLA Manager, then click **Contact Company
 You should follow up with the specified person to confirm that they complete the CCLA signing process. They must have an [LF SSO](https://docs.linuxfoundation.org/lfx/sso) account to use the EasyCLA Corporate Console. If they don't have LF SSO account, they must [create one](https://docs.linuxfoundation.org/lfx/sso/create-an-account) before proceeding.
 {% endhint %}
 
-## Choosing someone else to sign the CCLA <a id="choosing-another-cla-signatory"></a>
+## Choosing someone else to sign the CCLA <a href="choosing-another-cla-signatory" id="choosing-another-cla-signatory"></a>
 
 If you clicked **No** in step 6 above, the **Identify Authorized Signatory** form appears:
 
@@ -95,4 +95,3 @@ If you clicked **No** in step 6 above, the **Identify Authorized Signatory** for
 Enter the name and email address of the person who should sign the CCLA, and click **Send Signature Request Email**.
 
 After the CCLA is signed, you will be designated as the CCLA manager, and you will be able to [approve contributors](approve-and-manage-contributors.md).
-

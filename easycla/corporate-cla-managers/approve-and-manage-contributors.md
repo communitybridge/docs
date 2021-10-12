@@ -14,7 +14,7 @@ As a CLA manager for a project, you can:
 
 **Note**: Before doing any of the following actions, you must first be a CLA Manager under a signed CCLA. If your company has not yet signed a CCLA, you will need to first [coordinate the CCLA signing process](coordinate-signing-ccla.md).
 
-## **Add Contributor\(s\)**
+## **Add Contributor(s)**
 
 1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the[ EasyCLA Corporate Console](https://organization.lfx.linuxfoundation.org/company/dashboard).
 2. Click a project of interest.
@@ -22,9 +22,9 @@ As a CLA manager for a project, you can:
 
 ![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria.png)
 
-4. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
+4\. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-![Add Approval Criteria](../../.gitbook/assets/add-approval-criteria%20%281%29.png)
+![Add Approval Criteria](<../../.gitbook/assets/add-approval-criteria (1).png>)
 
 {% hint style="info" %}
 **Note:**
@@ -33,13 +33,13 @@ As a CLA manager for a project, you can:
 * _Contributor's Gerrit/GitHub Email address_ allows contribution from the person with that email address.
 * _GitHub Organization_ allows contribution from anyone in that GitHub organization.
 * _GitHub Username_ allows contribution from the contributor with that GitHub username.
-* _GitLab Group URL_ allows contribution from anyone associated with the GitLab Group.
-* _GitLab Username_ allows contribution from the contributor with that GitLab username.
+* _GitLab Group URL _allows contribution from anyone associated with the GitLab Group.
+* _GitLab Username _allows contribution from the contributor with that GitLab username.
 {% endhint %}
 
-5. Click **+Add More** to add other details for more contributors.
+5\. Click **+Add More** to add other details for more contributors.
 
-6. Click **Save** to save the approval criteria settings.
+6\. Click **Save** to save the approval criteria settings.
 
 {% hint style="info" %}
 If you add a contributor to the approved list after you receive an email requesting authorization, inform them to [acknowledge company contribution](../contributors/corporate-contributor.md#acknowledge-company-contribution) before they contribute to the project.
@@ -54,8 +54,7 @@ Click ![](../../.gitbook/assets/edit-icon.png) in the row for one of the Approva
 Click ![](../../.gitbook/assets/delete-icon.png) in the row for one of the Approval List criteria, to delete the contributor or the group criteria. 
 
 {% hint style="info" %}
-**Note:** If you delete a contributor's details or an approval criteria, then the status of signature for the contributor, who signed a CLA under a CLA group with that criteria, will be displayed as "Disabled" under Signatory tab of the CLA group on project console. For details about the statuses see, [Signatures](../project-managers/view-and-manage-cla-group-details.md#signatures). Only Project Managers and Community Program managers can access project console \(also called Project Control Center\).
+**Note: **If you delete a contributor's details or an approval criteria, then the status of signature for the contributor, who signed a CLA under a CLA group with that criteria, will be displayed as "Disabled" under Signatory tab of the CLA group on project console. For details about the statuses see, [Signatures](../project-managers/view-and-manage-cla-group-details.md#signatures). Only Project Managers and Community Program managers can access project console (also called Project Control Center).
 {% endhint %}
 
 ![Delete Contributors](../../.gitbook/assets/delete-contributors.png)
-

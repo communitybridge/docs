@@ -2,15 +2,15 @@
 
 Before you enable Git repositories for CLA check or remove them from CLA mechanism, you must add the Git organizations— add [GitHub](add-and-manage-github-organizations.md) or [Gerrit](add-and-manage-gerrit-organizations.md) or [GitLab](add-and-manage-gitlab-groups.md) organizations. You can perform the following activities with EasyCLA:
 
-1. [Sign in](sign-in-to-project-control-center.md) to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org/).
+1. [Sign in](sign-in-to-project-control-center.md) to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org).
 2. Click a **project** of interest.
 3. Scroll down to **Tools Status** section, and click **EasyCLA**.
 
 ![Tools Status](../../.gitbook/assets/tools-status-tab.png)
 
-4. Select the CLA group to which you have added the project.
+4\. Select the CLA group to which you have added the project.
 
-5. Click **Manage** next to the project for which you want to manage repositories.
+5\. Click **Manage** next to the project for which you want to manage repositories.
 
 * [Enforce CLA for GitHub Repositories](enforce-or-remove-cla-mechanism.md#enforce-or-remove-cla-mechanism-from-github-repositories)
 * [Enforce CLA for Gerrit Repositories](enforce-or-remove-cla-mechanism.md#enforce-cla-mechanism-for-gerrit-repositories)
@@ -37,4 +37,3 @@ After you add a [Gerrit organization](add-and-manage-gerrit-organizations.md), b
 3. To enforce or remove CLA from individual projects, turn on the toggle key next to a project, and click **Yes**.
 
 ![Enforce or Remove CLA from GitLab Projects](../../.gitbook/assets/enforce-or-remove-cla-for-gitlab.png)
-

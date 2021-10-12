@@ -4,7 +4,7 @@ Only organization administrators can edit and update organization information. Y
 
 * Added by another administrator
 * Primary contact for the organization
-* The first CLA Manager assigned when the company was created \(if no other organization administrator exists\)
+* The first CLA Manager assigned when the company was created (if no other organization administrator exists)
 
 Organization Profile displays the following sections:
 
@@ -21,11 +21,11 @@ This section shows organization name, logo, and last updated time and date.
 **Note:** Only organization administrators can edit organization information.
 {% endhint %}
 
-1. Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA6GWiKNR8NbAdZLdDp%2F-MA6JwfLBLbIeqxWexWs%2Fedit%20CTA%20button.png?alt=media&token=9bd600af-26bb-448f-9123-a08056015c16) on the profile header.
+1. Click ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MA6GWiKNR8NbAdZLdDp%2F-MA6JwfLBLbIeqxWexWs%2Fedit%20CTA%20button.png?alt=media\&token=9bd600af-26bb-448f-9123-a08056015c16) on the profile header.
 
 ![Organization Profile Header](../.gitbook/assets/organization-profile-header.png)
 
-2. Update or edit logo, name, and website of an organization, and click **Save**.
+2\. Update or edit logo, name, and website of an organization, and click **Save**.
 
 {% hint style="info" %}
 **Note:** Only SVG files are accepted for company logo.
@@ -40,4 +40,3 @@ This section shows a table that lists your team members— their profile photos,
 Only company administrators can submit a ticket requesting for a change in team member role. Clicking **Submit a Support Ticket** under Request a change to submit a ticket requesting to change the CLA role.
 
 ![Team Member Roles - Services](../.gitbook/assets/team-member-roles-services.png)
-

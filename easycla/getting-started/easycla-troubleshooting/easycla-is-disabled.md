@@ -8,7 +8,7 @@ EasyCLA was previously enabled for a GitHub repository, but someone other than t
 
 ### **Enable Branch Protection**
 
-GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the **Enable Branch Protection** check box]() after the GitHub organization is added to a project.
+GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the **Enable Branch Protection** check box](broken-reference) after the GitHub organization is added to a project.
 
 You can also add the branch protection rule manually, as described below:
 
@@ -17,21 +17,20 @@ You can also add the branch protection rule manually, as described below:
 
 ![CLA GitHub Repository Settings](../../../.gitbook/assets/cla-github-repository-settings.png)
 
-3. Settings appear with Options in the left pane.
+3\. Settings appear with Options in the left pane.
 
-4. Click **Branches** under Options.
+4\. Click **Branches** under Options.
 
 ![CLA GitHub Options](../../../.gitbook/assets/cla-github-options.png)
 
-5. Select **master** for the Default branch. Click **Edit** or **Add rule** for Branch protection rules of your organization.
+5\. Select **master** for the Default branch. Click **Edit** or **Add rule** for Branch protection rules of your organization.
 
 ![CLA GitHub branch Add Rule](../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
-6. Select the following check boxes under **Rule settings**, and click **Create**.
+6\. Select the following check boxes under **Rule settings**, and click **Create**.
 
 * Require status checks to pass before merging
 * Require branches to be up to date before merging
 * Include administrators
 
 ![CLA GitHub Branch Protection Rule](../../../.gitbook/assets/cla-github-branch-protection-rule.png)
-

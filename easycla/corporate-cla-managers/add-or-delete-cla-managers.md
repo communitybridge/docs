@@ -15,7 +15,7 @@ As a CLA Manager for a project, you can:
 
 ![Add CLA Manager](../../.gitbook/assets/add-cla-manager.png)
 
-4. On the **Adding CLA Manager** window, type first name, last name, email address, and click **Add**.
+4\. On the **Adding CLA Manager** window, type first name, last name, email address, and click **Add**.
 
 ![Adding CLA Manager](../../.gitbook/assets/adding-cla-manager-window.png)
 
@@ -26,4 +26,3 @@ As a CLA Manager for a project, you can:
 {% endhint %}
 
 Click ![](../../.gitbook/assets/delete-icon.png) under **Manage** column on a CLA manager's row to delete the user.
-

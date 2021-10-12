@@ -6,11 +6,10 @@ To uninstall, you must be an owner of the GitHub organization. If you uninstall 
 2. Under **Settings** tab, select **Installed GitHub** Apps from the left side navigation pane.
 3. Click **Configure** for the Linux Foundation: EasyCLA app.
 
-![Uninstall EasyCLA Application](../../.gitbook/assets/uninstall-easycla-application%20%281%29.png)
+![Uninstall EasyCLA Application](<../../.gitbook/assets/uninstall-easycla-application (1).png>)
 
-4. Navigate to **Danger zone &gt; Uninstall Linux Foundation: EasyCLA** section, and click **Uninstall**.
+4\. Navigate to **Danger zone > Uninstall Linux Foundation: EasyCLA** section, and click **Uninstall**.
 
 ![Uninstall EasyCLA App](../../.gitbook/assets/uninstall-easycla-application.png)
 
-5. Refresh the Project Control Centre.
-
+5\. Refresh the Project Control Centre.

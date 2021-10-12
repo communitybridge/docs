@@ -22,10 +22,9 @@ Additionally, you can view and manage CLA details, GitHub, Gerrit, and GitLab or
 
 For EasyCLA integrated GitHub organizations and repositories, EasyCLA sends email notification to project managers regarding any changes to the repositories. EasyCLA takes the following actions for different events:
 
-* **Repository Renamed:** EasyCLA updates GitHub repository table entry to match the new GitHub repository name, and notifies the project manager.
-* **Repository Archived:** EasyCLA takes no action, however notifies the project manager that the repository is archived.
-* **Repository Deleted:** EasyCLA ****disables the repository, and notifies the project manager.
-* **Repository Moved to a Different Organization:** 
-  * If ****an EasyCLA enabled repository is moved from one organization to another within the same CLA Group, EasyCLA simply notifies the project manager about the action.
-  * If ****a repository is moved from one organization to another where EasyCLA is not configured or the CLA Group is different, EasyCLA disables the repository, and notifies the project manager.
-
+* **Repository Renamed: **EasyCLA updates GitHub repository table entry to match the new GitHub repository name, and notifies the project manager.
+* **Repository Archived: **EasyCLA takes no action, however notifies the project manager that the repository is archived.
+* **Repository Deleted: **EasyCLA** **disables the repository, and notifies the project manager.
+* **Repository Moved to a Different Organization: **
+  * If** **an EasyCLA enabled repository is moved from one organization to another within the same CLA Group, EasyCLA simply notifies the project manager about the action.
+  * If** **a repository is moved from one organization to another where EasyCLA is not configured or the CLA Group is different, EasyCLA disables the repository, and notifies the project manager.
