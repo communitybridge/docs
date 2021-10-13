@@ -258,4 +258,4 @@
   * [Enroll in the Linux Foundation Individual Supporter Program](linux-individual-supporter-program/purchasing-linux-individual-supporter-program.md)
   * [Purchase Lifetime Linux.com Email Alias](linux-individual-supporter-program/purchasing-linux-email-alias-for-lifetime.md)
 * [Organization  Dashboard (Pre-Release)](organization-dashboard-pre-release/README.md)
-  * [Page 2](organization-dashboard-pre-release/page-2.md)
+  * [Overview](organization-dashboard-pre-release/overview.md)
