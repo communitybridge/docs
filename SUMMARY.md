@@ -266,3 +266,7 @@
       * [Training and Certifications](organization-dashboard-pre-release/my-organization/dashboard/training-and-certifications.md)
       * [Active Membership](organization-dashboard-pre-release/my-organization/dashboard/active-membership.md)
       * [Contribution to Non Membership Projects](organization-dashboard-pre-release/my-organization/dashboard/contribution-to-non-membership-projects.md)
+    * [Membership Summary](organization-dashboard-pre-release/my-organization/membership-summary/README.md)
+      * [Active Memberships in your Organization](organization-dashboard-pre-release/my-organization/membership-summary/active-memberships-in-your-organization.md)
+      * [Expired Membership in your Organization](organization-dashboard-pre-release/my-organization/membership-summary/expired-membership-in-your-organization.md)
+      * [Discover New Open Source Project](organization-dashboard-pre-release/my-organization/membership-summary/discover-new-open-source-project.md)
