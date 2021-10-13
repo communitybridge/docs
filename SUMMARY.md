@@ -259,3 +259,5 @@
   * [Purchase Lifetime Linux.com Email Alias](linux-individual-supporter-program/purchasing-linux-email-alias-for-lifetime.md)
 * [Organization  Dashboard (Pre-Release)](organization-dashboard-pre-release/README.md)
   * [Overview](organization-dashboard-pre-release/overview.md)
+  * [My Organization](organization-dashboard-pre-release/my-organization/README.md)
+    * [Dashboard](organization-dashboard-pre-release/my-organization/dashboard.md)
