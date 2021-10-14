@@ -115,6 +115,8 @@
   * [Enable or Disable Scanning for a Repository](security/enable-or-disable-a-repository-from-scanning.md)
 * [EasyCLA](easycla/README.md)
   * [V2 (Current)](easycla/v2-current.md)
+  * [Releases and Known Issues](easycla/releases-and-known-issues.md)
+  * [Page 2](easycla/page-2.md)
   * [V1 (Deprecated)](easycla/v1-deprecated/README.md)
     * [Getting Started](easycla/v1-deprecated/getting-started/README.md)
       * [EasyCLA Requirements](easycla/v1-deprecated/getting-started/easycla-requirements.md)
