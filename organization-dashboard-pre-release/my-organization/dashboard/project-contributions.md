@@ -75,8 +75,6 @@ This bar graph provides you with information on contributions for all open sourc
 You can also view the above details related to a specific project by selecting a specific project from **View **select box.
 {% endhint %}
 
-
-
 Project Contribution tab in Dashboard provides you with all the information related to the contributions of your organization in developing the open source projects. Project contributions allows you to showcase your organization skills in different domains which in turn will allow you to sell the services from your organization. 
 
 This tab provides you the following information :
@@ -84,7 +82,13 @@ This tab provides you the following information :
 * Project contribution widget.
 * Top 10 projects contributed from your organization for open source projects. 
 * Top 10 code contributors(employees) for open source projects from your organization.
-* Total code contributions for all the open source projects from your organization.
+*   Total code contributions for all the open source projects from your organization.
+
+
+
+
+
+![Widget](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mgf\_0lOSgJexver0xjZ%2F-Mgfhlk0cFVko5-8fjAm%2FWidget.png?alt=media\&token=0d6b9e77-a15f-474c-81d1-94033ce4509e)
 
 ## Project Contribution Widget 
 
@@ -117,6 +121,8 @@ This table provides you the following details:
 When you click **Member** button, the Project detail page appears that provide you the details related to the different membership available with them. For more information, refer [Membership Details](https://docs.linuxfoundation.org/corporate-cla-console/projects/membership-details-of-a-project).
 {% endhint %}
 
+![Top 10 Project](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgfjiS6XRRXx8iundYg%2F-MgfkjzcF14\_ZxJmsPey%2FTop10.png?alt=media\&token=376cc4f8-3e7c-4a85-a3c4-1661f6f25a81)
+
 ## Top 10 Contributors from your Organization
 
 This table provides information on the top 10 contributors(employees) from your organization contributing to the open source projects. This table also showcases the subject matter expertise for various projects. This table picks the top 10 employees who are contributing highest number of commits to the open source projects. This table provides you the following details: 
@@ -125,9 +131,13 @@ This table provides information on the top 10 contributors(employees) from your 
 * Total number of commits provided by top contributor
 * Links to view projects for which the contributor has submitted the commits
 
+![Top Contributors](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgfkshG6M_raQnBlRd9%2F-MgfmpAOQLpv-NDPOCFM%2FTop_Contributors.png?alt=media\&token=50c98118-84c0-4c7f-bf2d-4d7d14dbb42c)
+
 {% hint style="info" %}
 When you click **View Projects** button, you can see a popup box that provides you details such as contributor name, project name and total commits provided for that project.
 {% endhint %}
+
+![Projects Details](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgfkshG6M_raQnBlRd9%2F-MgfnlT8viLxbzKrtyNs%2FProject_Contributor_Details.png?alt=media\&token=4c79471f-f912-47dc-aa9d-9202c5161c2b)
 
 ## Total Contributions from your Organization across all Open Source Projects 
 
