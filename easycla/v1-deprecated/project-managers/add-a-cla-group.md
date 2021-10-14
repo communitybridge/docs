@@ -19,7 +19,7 @@ The project page appears. A message informs you that your project needs a CLA gr
 
 4\. Complete the dialog options:
 
-![CLA CLA Group](../../.gitbook/assets/cla-cla-group.png)
+![CLA CLA Group](../../../.gitbook/assets/cla-cla-group.png)
 
 5\. Enter a **CLA Group Name**.\
 The CLA Group Name indicates that a project has one or more CLAs (Individual CLA, Corporate CLA, or both). Consider matching the CLA group name to the project name for easy identification.

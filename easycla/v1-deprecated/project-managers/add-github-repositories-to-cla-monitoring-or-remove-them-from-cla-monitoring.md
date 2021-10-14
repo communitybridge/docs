@@ -12,7 +12,7 @@ As a project manager, you can add GitHub repositories to CLA monitoring or remov
 
 The Configure GitHub Repositories dialog appears and lists the GitHub repositories that are available for your organization.
 
-![CLA Configure GitHub Repositories](../../.gitbook/assets/cla-configure-github-repositories.png)
+![CLA Configure GitHub Repositories](../../../.gitbook/assets/cla-configure-github-repositories.png)
 
 4\. For the repository that you want to configure, click an option:
 
@@ -26,4 +26,4 @@ The Configure GitHub Repositories dialog appears and lists the GitHub repositori
 
 The CLA Management Console appears. Repositories shows a checkmark next to each repository that EasyCLA will monitor for the organization and the CLA group.
 
-![CLA GitHub Repositories](../../.gitbook/assets/cla-github-repositories.png)
+![CLA GitHub Repositories](../../../.gitbook/assets/cla-github-repositories.png)

@@ -8,8 +8,8 @@
 
 1. ​[Sign in](sign-in-to-the-easycla-corporate-console.md) to the [CLA corporate console](https://easycla.lfx.linuxfoundation.org/#/).
 2. Click **GET STARTED**.\
-    ![](../../.gitbook/assets/add-company-get-started.png) 
+    ![](../../../.gitbook/assets/add-company-get-started.png) 
 3. Type a company's name in the dialog fields and click **ADD COMPANY.**\
-   ****![](../../.gitbook/assets/add-company.png) ​​ ![](broken-reference)
+   ****![](../../../.gitbook/assets/add-company.png) ​​ ![](broken-reference)
 4. Sign out or continue to [Sign a Corporate CLA for Company](sign-a-corporate-cla-for-company.md).
 

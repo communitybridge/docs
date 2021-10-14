@@ -23,7 +23,7 @@ If you already added a Gerrit instance during the CLA onboarding process, skip t
 **ICLA Group ID** - An existing LDAP Group ID for Individual CLAs\
 **CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
 
-![CLA Add Gerrit Instance](../../.gitbook/assets/cla-add-gerrit-instance.png)
+![CLA Add Gerrit Instance](../../../.gitbook/assets/cla-add-gerrit-instance.png)
 
 **Notes:**
 
@@ -42,7 +42,7 @@ The CLA Management Console presents a CLA block of code:\
 `agreementUrl = {URL }`\
 `accepted = group {Group-Name}`
 
-![CLA Gerrit Instances](../../.gitbook/assets/cla-gerrit-instances.png)
+![CLA Gerrit Instances](../../../.gitbook/assets/cla-gerrit-instances.png)
 
 5\. Copy the block. As the Gerrit instance administrator, you will modify CLA configurations for the following files under the Gerrit instance’s All-Projects repository. If you are not the administrator, contact the Gerrit instance administrator to include the following files under the Gerrit instance’s All-Projects repository. Projects are organized hierarchically as a tree with the All-Projects project as root from which all projects inherit.
 

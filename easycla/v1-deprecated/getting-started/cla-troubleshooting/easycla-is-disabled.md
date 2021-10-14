@@ -14,19 +14,19 @@ GitHub is set up to permit administrators and organization owners to have maximu
 
 2\. Click **Settings** from the top menu.
 
-![CLA GitHub Repository Settings](../../../.gitbook/assets/cla-github-repository-settings.png)
+![CLA GitHub Repository Settings](../../../../.gitbook/assets/cla-github-repository-settings.png)
 
 3\. Settings appear with Options in the left pane.
 
 4\. Click **Branches** under Options.
 
-![CLA GitHub Options](../../../.gitbook/assets/cla-github-options.png)
+![CLA GitHub Options](../../../../.gitbook/assets/cla-github-options.png)
 
 **Result:** Branch settings appears.
 
 5\. Select **master** for the Default branch. Click **Edit** or **Add rule** for Branch protection rules of your organization.
 
-![CLA GitHub branch Add Rule](../../../.gitbook/assets/cla-github-branch-add-rule.png)
+![CLA GitHub branch Add Rule](../../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
 **Result: **Branch protection rule settings appears
 
@@ -36,4 +36,4 @@ GitHub is set up to permit administrators and organization owners to have maximu
 * Require branches to be up to date before merging
 * Include administrators
 
-![CLA GitHub Branch Protection Rule](../../../.gitbook/assets/cla-github-branch-protection-rule.png)
+![CLA GitHub Branch Protection Rule](../../../../.gitbook/assets/cla-github-branch-protection-rule.png)

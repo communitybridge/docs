@@ -8,14 +8,14 @@ You must be authorized by your company to sign a Corporate CLA. If you are a CLA
 
 3\. Click **SIGN NEW CLA**.
 
-![](<../../.gitbook/assets/sign new cla.png>)
+![](<../../../.gitbook/assets/sign new cla.png>)
 
 4\. The **Select a Project to Sign a CCLA** dialog appears and lists CLA groups.
 
 5\. Select the CLA group of interest.\
 A CLA Signing Requirement dialog appears:
 
-![CLA Signing Requirement](../../.gitbook/assets/cla-signing-requirement.png)
+![CLA Signing Requirement](../../../.gitbook/assets/cla-signing-requirement.png)
 
 6\. Click **YES** or **NO** according to your permissions:
 
@@ -26,7 +26,7 @@ A CLA Signing Requirement dialog appears:
 
 The Corporate CLA dialog opens.
 
-![Corporate CLA](../../.gitbook/assets/cla-corporate-cla-open-cla.png)
+![Corporate CLA](../../../.gitbook/assets/cla-corporate-cla-open-cla.png)
 
 1. Click **OPEN CLA**.
 2. Follow the instructions that DocuSign presents, sign it, and click **FINISH**. Some fields are pre-populated such as the company name and email.
@@ -34,14 +34,14 @@ The Corporate CLA dialog opens.
 {% hint style="info" %}
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
 * You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.\
-   ![](<../../.gitbook/assets/proceed to download ccla.png>) 
+   ![](<../../../.gitbook/assets/proceed to download ccla.png>) 
 {% endhint %}
 
 ## NO <a href="no" id="no"></a>
 
 The Send E-Mail To CLA Signatory form opens. The Signatory Name and Signatory E-Mail fields may be pre-populated; if not complete the fields. Click **SEND**.
 
-![Send E-Mail To CCLA Signatory](../../.gitbook/assets/cla-send-e-mail-to-cla-signatory.png)
+![Send E-Mail To CCLA Signatory](../../../.gitbook/assets/cla-send-e-mail-to-cla-signatory.png)
 
 ​[The CLA signatory receives a CLA Sign Request](../cla-signatories/review-and-sign-a-corporate-cla-by-request.md) email, reviews and signs the document.
 

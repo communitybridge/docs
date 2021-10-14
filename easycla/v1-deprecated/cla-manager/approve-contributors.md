@@ -21,19 +21,19 @@ Each approved list applies to the project for which the company has signed a Cor
 
 3\. Click a **company** of interest.
 
-![cla manager associated companies](<../../.gitbook/assets/cla manager associated companies.png>)
+![cla manager associated companies](<../../../.gitbook/assets/cla manager associated companies.png>)
 
 4\. The CLA Corporate Console appears and shows projects with signed CLAs.
 
 5\. Click **MANAGE APPROVED LIST** for a** **CLA** **under which you want to add a contributor.\
 You can identify a recent request for a CLA by seeing the value as 1 under Pending Contributor Requests column. Following is an example:
 
-![projects with signed clas](<../../.gitbook/assets/projects with signed clas.png>)
+![projects with signed clas](<../../../.gitbook/assets/projects with signed clas.png>)
 
 6\. Under** Pending Contributor Requests**, click **ACCEPT**, and then click **APPROVE REQUEST **on the confirmation window to add the contributor to the approved list or click **DECLINE** to decline the contributor's request to be added.\
 The contributor receives an e-mail notification about the status.
 
-![accept or decline a contributor](<../../.gitbook/assets/accept or decline a contributor.png>)
+![accept or decline a contributor](<../../../.gitbook/assets/accept or decline a contributor.png>)
 
 **Result:** If you click **ACCEPT**, the contributor will be added to the list, and is removed from the Pending Contributor Requests section.
 
@@ -51,7 +51,7 @@ The corresponding Edit _domain/email/github_ approved list dialog lets you add, 
 1. Click the edit icon( **pencil** ) next to the approved list that you want to edit:
 2. Click **ADD DOMAIN/EMAIL/GITHUB**, enter a **domain name**, **email address**, or **GitHub username** for the employees for who you want to authorize, and click **SAVE APPROVED LIST**. For example:
 
-![](<../../.gitbook/assets/email approved list.png>)
+![](<../../../.gitbook/assets/email approved list.png>)
 
 Your entries appear in their corresponding approved lists.
 
@@ -71,12 +71,12 @@ Each member of your organization must ensure that these items are Public in thei
 1\. Click the edit icon (**pencil) **next to Github Org Approved List.\
     The Edit Github Organization Approved List dialog appears.
 
-![GitHub Org Approved List](../../.gitbook/assets/github-org-approved-list.png)
+![GitHub Org Approved List](../../../.gitbook/assets/github-org-approved-list.png)
 
 **Note:** Click **CONNECT GITHUB** if the organization you want to authorize is not listed in the dialog. The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
 
 2\. To Add, type a GitHub organization name in the field, select from drop-down, and click **SAVE APPROVED LIST**. 
 
-3\. To remove, click ![](<../../.gitbook/assets/close icon.png>) next to the organization that you want to add/remove, respectively.
+3\. To remove, click ![](<../../../.gitbook/assets/close icon.png>) next to the organization that you want to add/remove, respectively.
 
 Your organizations appear in their organization approved list.

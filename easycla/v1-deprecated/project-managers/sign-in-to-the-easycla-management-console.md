@@ -6,13 +6,13 @@ Project managers sign in to the EasyCLA Management Console to perform the CLA se
 
 2\. On **Projects** card, click **Proceed**.
 
-![Sign in to Management Console](<../../.gitbook/assets/sign in to management console.png>)
+![Sign in to Management Console](<../../../.gitbook/assets/sign in to management console.png>)
 
 3\. Enter your credentials as the project manager, and click **SIGN IN**.
 
 **Result: **The CLA Management Console appears and lists your assigned projects from the Linux Foundation, for example:
 
-![CLA Management All Projects](../../.gitbook/assets/cla-management-all-projects.png)
+![CLA Management All Projects](../../../.gitbook/assets/cla-management-all-projects.png)
 
 4\. Click a **project name** of interest.
 
