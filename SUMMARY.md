@@ -131,6 +131,8 @@
     * [CCLA Signatories](easycla/v2-current/ccla-signatories/README.md)
       * [Review and sign a Corporate CLA by Request](easycla/v2-current/ccla-signatories/review-and-sign-a-corporate-cla-by-request.md)
     * [Glossary](easycla/v2-current/glossary.md)
+    * [Corporate CLA Console](easycla/v2-current/corporate-cla-console/README.md)
+      * [Page 2](easycla/v2-current/corporate-cla-console/page-2.md)
   * [V1 (Deprecated)](easycla/v1-deprecated/README.md)
     * [Getting Started](easycla/v1-deprecated/getting-started/README.md)
       * [EasyCLA Requirements](easycla/v1-deprecated/getting-started/easycla-requirements.md)
