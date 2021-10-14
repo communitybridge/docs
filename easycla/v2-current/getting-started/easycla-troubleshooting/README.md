@@ -28,10 +28,10 @@ I have an agreement on file, but EasyCLA does not authorize me and displays "Mis
 
 #### Solution:
 
-* Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any GitHub user, GitHub will display the _grey Octocat logo _![](<../../../.gitbook/assets/grey colored octobat.png>)beside the commits. 
+* Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any GitHub user, GitHub will display the _grey Octocat logo _![](<../../../../.gitbook/assets/grey colored octobat.png>)beside the commits. 
 * If your commits are linked to your GitHub account, and yet the GitHub pull request is not passing the EasyCLA check, then open the pull request, type`/easycla` in the comment box, click **Comment **as shown below. This runs the EasyCLA bot again, and the GitHub pull request is passed.
 
-![Pull Request Commenting](<../../../.gitbook/assets/pull request commenting.png>)
+![Pull Request Commenting](<../../../../.gitbook/assets/pull request commenting.png>)
 
 ## (GitHub) Unable to contribute to EasyCLA-enforced repositories
 
@@ -67,7 +67,7 @@ After a Contributor has signed an ICLA, EasyCLA status is not updated on contrib
 
 It may take a few moments for the status of the EasyCLA checks to update. Please wait a few moments and then refresh the page.** **If the EasyCLA status is still not updated, open the pull request, and comment `/easycla` in the comment section as shown below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
-![Comment /easycla in the Pull Request](<../../../.gitbook/assets/pull request commenting.png>)
+![Comment /easycla in the Pull Request](<../../../../.gitbook/assets/pull request commenting.png>)
 
 ## (Gerrit) Individual Contributor's EasyCLA status is not updated
 
@@ -78,7 +78,7 @@ After a Contributor has signed an ICLA, EasyCLA status on Git command line still
 #### Solution:
 
 Navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.\
-![](<../../../.gitbook/assets/signout gerrit.png>) 
+![](<../../../../.gitbook/assets/signout gerrit.png>) 
 
 ## (GitHub) Corporate Contributor's EasyCLA status is not updated
 
@@ -102,7 +102,7 @@ For a CCLA, after a contributor has been added to the approved list for the firs
 
 Navigate to the Gerrit window, **sign out**, **sign in **again, and then push the code.
 
-![](<../../../.gitbook/assets/signout gerrit.png>)
+![](<../../../../.gitbook/assets/signout gerrit.png>)
 
 ## EasyCLA status displays "Expected"‚Äã in the "Checks" section of the Pull Request 
 
@@ -114,7 +114,7 @@ In the ‚ÄúChecks‚Äù section of the pull request, EasyCLA status is showing as ‚Ä
 
 Open the pull request, and comment` /easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
-![Comment /easycla in the Pull Request](<../../../.gitbook/assets/pull request commenting.png>)
+![Comment /easycla in the Pull Request](<../../../../.gitbook/assets/pull request commenting.png>)
 
 ## EasyCLA status does not change to "Authorized" for multiple open pull requests after signing ICLA and/or CCLA
 
@@ -126,7 +126,7 @@ After signing an ICLA or verifying under a CCLA, the status does not change to ‚
 
 Open one pull request, and comment` /easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
-![Comment /easycla in the Pull Request](<../../../.gitbook/assets/pull request commenting.png>)
+![Comment /easycla in the Pull Request](<../../../../.gitbook/assets/pull request commenting.png>)
 
 ## **I cannot use EasyCLA for my Linux Foundation-hosted project**
 

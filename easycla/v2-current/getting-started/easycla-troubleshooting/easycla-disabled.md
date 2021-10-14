@@ -16,13 +16,13 @@ You can also add the branch protection rule manually, as described below:
 
 2\. Click Settings from the top menu.
 
-![CLA GitHub Repository Settings](../.gitbook/assets/cla-github-repository-settings.png)
+![CLA GitHub Repository Settings](../../../../.gitbook/assets/cla-github-repository-settings.png)
 
 3\. Settings appear with Options in the left pane.
 
 4\. Click Branches under Options.
 
-![](../.gitbook/assets/cla-github-options.png)
+![](../../../../.gitbook/assets/cla-github-options.png)
 
 5\. Select master for the Default branch. Click Edit or Add rule for Branch protection rules of your organization.
 
