@@ -4,9 +4,9 @@
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
 
-* [Project Manager](v1-deprecated/getting-started/#project-manager)
-* [Contributor](v1-deprecated/getting-started/#contributor)
-* [CLA Manager](v1-deprecated/getting-started/#cla-manager)
+* [Project Manager](getting-started.md#project-manager)
+* [Contributor](getting-started.md#contributor)
+* [CLA Manager](getting-started.md#cla-manager)
 * [CLA Signatory](getting-started.md#cla-signatory)
 
 When a CCLA is first being signed, the Contributor, CLA Manager, and CLA Signatory all might be the same person--or they might be different people. Each contributing company will determine for themselves which employees have these roles. Read below to understand these roles so that you can discuss with your company's management and legal counsel about who should be designated for each.
