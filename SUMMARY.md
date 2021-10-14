@@ -270,3 +270,4 @@
       * [Active Memberships in your Organization](organization-dashboard-pre-release/my-organization/membership-summary/active-memberships-in-your-organization.md)
       * [Expired Membership in your Organization](organization-dashboard-pre-release/my-organization/membership-summary/expired-membership-in-your-organization.md)
       * [Discover New Open Source Project](organization-dashboard-pre-release/my-organization/membership-summary/discover-new-open-source-project.md)
+    * [Events Insights](organization-dashboard-pre-release/my-organization/events-insights.md)
