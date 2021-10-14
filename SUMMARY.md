@@ -298,3 +298,4 @@
       * [Speaker Insights](organization-dashboard-pre-release/my-organization/events-insights/speaker-insights.md)
 * [Training and Certifications](training-and-certifications/README.md)
   * [Training and Certifications Widget](training-and-certifications/training-and-certifications-widget.md)
+* [Training Insights](training-insights.md)
