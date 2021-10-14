@@ -4,16 +4,16 @@
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
 
-* [Project Manager](getting-started.md#project-manager)
-* [Contributor](getting-started.md#contributor)
-* [CLA Manager](getting-started.md#cla-manager)
-* [CLA Signatory](getting-started.md#cla-signatory)
+* [Project Manager](./#project-manager)
+* [Contributor](./#contributor)
+* [CLA Manager](./#cla-manager)
+* [CLA Signatory](./#cla-signatory)
 
 When a CCLA is first being signed, the Contributor, CLA Manager, and CLA Signatory all might be the same person--or they might be different people. Each contributing company will determine for themselves which employees have these roles. Read below to understand these roles so that you can discuss with your company's management and legal counsel about who should be designated for each.
 
 ### Project Manager <a href="project-manager" id="project-manager"></a>
 
-A _Project Manager_ is someone (typically project administrator or maintainer of the project) who is responsible for setting up the project's CLA templates and configuring the corresponding repositories in the [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org)** **(also called Project Control Center). For more details, see [Project Managers](v1-deprecated/project-managers/).
+A _Project Manager_ is someone (typically project administrator or maintainer of the project) who is responsible for setting up the project's CLA templates and configuring the corresponding repositories in the [EasyCLA Project Console](https://projectadmin.lfx.linuxfoundation.org)** **(also called Project Control Center). For more details, see [Project Managers](../../v1-deprecated/project-managers/).
 
 ### Contributor <a href="contributor" id="contributor"></a>
 
@@ -35,10 +35,10 @@ A _CLA Manager_ is someone who is authorized by a company to manage the list of 
 
 A CLA Manager uses the [EasyCLA Corporate Console](https://organization.lfx.linuxfoundation.org/company/dashboard) to:
 
-* [Add Contributors to Approved List](v1-deprecated/cla-manager/approve-contributors.md)
+* [Add Contributors to Approved List](../../v1-deprecated/cla-manager/approve-contributors.md)
 * [Add or Delete CLA Managers](broken-reference)
 
-When a CCLA is first being set up for signature, it will specify an "Initial CLA Manager". This person uses the EasyCLA Corporate Console to coordinate the signing of the CLA (see [CLA Signatory](v1-deprecated/getting-started/#cla-signatory) below).
+When a CCLA is first being set up for signature, it will specify an "Initial CLA Manager". This person uses the EasyCLA Corporate Console to coordinate the signing of the CLA (see [CLA Signatory](../../v1-deprecated/getting-started/#cla-signatory) below).
 
 After the CCLA is fully signed, then the specified Initial CLA Manager will be able to use the EasyCLA Corporate Console to manage the list of authorized Contributors. They can also designate additional CLA Managers.
 
