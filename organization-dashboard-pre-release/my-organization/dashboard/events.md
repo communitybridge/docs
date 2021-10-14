@@ -19,7 +19,7 @@ The events tab provides you the information on the following:
   * Top 5 events which had highest number of speakers 
   * Top 5 speakers of the events
 
-![Events ](broken-reference)
+![Events](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mghn-5Tzp6Is2tQOnY2%2F-MghqaCZ-\_NjZ6EYG4YZ%2FEvents.png?alt=media\&token=a68e250f-de96-4eb6-93ff-aa184201f67f)
 
 ## Events Widget
 
@@ -33,7 +33,7 @@ A widget is available in the Events tab which provides you with an overview of e
 The data provided in this widget is based on last 12 months or last year.
 {% endhint %}
 
-![Events ](broken-reference)
+![Events Widget](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mghn-5Tzp6Is2tQOnY2%2F-Mghs4gZchfGJ4w9wsNq%2FEvents_Widget.png?alt=media\&token=87027f8a-c745-4361-8536-ef49e974b597)
 
 ## Events Management 
 
@@ -52,19 +52,19 @@ This table provides information on top 5 events attended by  your organization. 
 * Total number of attendees from your organization participated in the open source events.
 * A link to view details of attendees.
 
-![Top 5 Events ](broken-reference)
+![Top 5 Events](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mghs8fmMFaQR7997o66%2F-Mghut-WdXvVgm4keS_g%2FTop%205%20Events.png?alt=media\&token=5f9c2529-72a6-406d-a7be-74bb5191dfbe)
 
 {% hint style="info" %}
 When you click **View Details **button, you can see a popup box that provides you details such as event name, attendee name and job title of the attendee.
 {% endhint %}
 
-![Attendees Details ](broken-reference)
+![Attendees Details](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mghs8fmMFaQR7997o66%2F-MghvmmTvV0sOiVNc0lu%2FAttendees_Details.png?alt=media\&token=0dd61a81-06af-4c85-bb53-1293bc38abb9)
 
 ### Total Attendees from your Organization 
 
 This bar graph provides you with information on total attendees from your organization who had attended the open source events from your organization for the last one year. This graph provides you information on month wise total number attendees who have attended open source events.
 
-![Total Attendees](broken-reference)
+![Total Attendees](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mj4DLMwF7i5FrN\_0aC1%2F-Mj4EyaKWe6lmZMLdiff%2FTotal_Attendees.png?alt=media\&token=80cedd61-7aaa-4307-8402-dc2137f1dc37)
 
 {% hint style="info" %}
 When you click **View Attendees Insights** button, the Events Insights page appears that provides you complete insights on the attendees insights for the events.  For more information refer [Events Insights](https://docs.linuxfoundation.org/corporate-cla-console/events). 
@@ -78,13 +78,13 @@ This table provides information on top 5 events which has most number of speaker
 * Total number of speakers from your organization participated in the open source events
 * A link to view details of speakers 
 
-![Top 5 Event Speakers ](broken-reference)
+![Top 5 Event Speakers](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgikSknqGAV_w5xuUx3%2F-MgilkRvlhdpydjHMkFj%2FTop_Speakers.png?alt=media\&token=1efde757-fed5-444d-8643-3bb0e315bb5f)
 
 {% hint style="info" %}
 When you click **View Details **button, you can see a popup box that provides you details such as event name,  speaker name and job title of the speaker.
 {% endhint %}
 
-![Event Details ](broken-reference)
+![Event Details](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgikSknqGAV_w5xuUx3%2F-Mgim7onalWbquxnQJED%2FEvent_Details.png?alt=media\&token=ea373cdb-71b8-4070-89fb-141783abcb31)
 
 ### Top 5 Speakers 
 
@@ -94,16 +94,14 @@ This table provides information on top 5 speakers who have attended highest numb
 * Total number of events participated from the speaker in the open source events
 * A link to view event details 
 
-![Top Speakers ](broken-reference)
+![Top Speakers](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgikSknqGAV_w5xuUx3%2F-MginDD_IWGOHUxSI-X-%2FTop%20Speakers.png?alt=media\&token=a03bdbff-d376-447d-b40b-a1fe9af06acf)
 
 {% hint style="info" %}
 * When you click **View Speaker Insights** button, the Events Insights page appears that provides you complete insights on the speaker insights for the events. For more information, refer [Speaker Insights](https://docs.linuxfoundation.org/corporate-cla-console/events/speaker-insights). 
 * When you click **View Events **button, you can see a popup box that provides you details such as speaker name,  speaker email and event names participated by the speaker. 
 {% endhint %}
 
-![Speaker Summary ](broken-reference)
-
-
+![Speaker Summary](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgikSknqGAV_w5xuUx3%2F-MginjubiBcWcEifyyXg%2FSpeaker_Summary.png?alt=media\&token=253475ef-236c-482f-b430-051205f15bec)
 
 
 
