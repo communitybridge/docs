@@ -134,6 +134,7 @@
     * [Corporate CLA Console](easycla/v2-current/corporate-cla-console/README.md)
       * [Dashboard](easycla/v2-current/corporate-cla-console/dashboard.md)
       * [Projects](easycla/v2-current/corporate-cla-console/projects.md)
+      * [Manage Organization](easycla/v2-current/corporate-cla-console/manage-organization.md)
   * [V1 (Deprecated)](easycla/v1-deprecated/README.md)
     * [Getting Started](easycla/v1-deprecated/getting-started/README.md)
       * [EasyCLA Requirements](easycla/v1-deprecated/getting-started/easycla-requirements.md)
