@@ -315,4 +315,4 @@
 * [Global Attendee Insights](global-attendee-insights.md)
 * [Global Speaker Insights](global-speaker-insights.md)
 * [Global Training Insights](global-training-insights.md)
-* [Page 4](page-4.md)
+* [Global Certification Insights](global-certification-insights.md)
