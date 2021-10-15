@@ -29,9 +29,7 @@ To access your Membership Summary, perform the following steps:
 
 2.On the vertical sidebar navigation menu, in the **Search **box enter your company or organization name. By default, the dashboard page appears. Click the **Membership Summary **menu available on the Vertical Sidebar navigation menu. 
 
-![Membership Summary](broken-reference)
-
-
+![Membership Summary](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mgt5MudqKERg4vZwN8j%2F-Mgt6iSa2f8h_KxGolNg%2FMembership_Summary.png?alt=media\&token=50e58a8c-bc6a-4569-8903-989b29526a16)
 
 
 

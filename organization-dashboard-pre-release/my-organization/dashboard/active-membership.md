@@ -14,11 +14,10 @@ The active membership table in the dashboard provides you the following details:
 * When you click **View All Active Membership**, the Membership Summary page appears that provides you details related to all active membership associated with your organization. For more information, refer [Active Membership in your Organization](https://docs.linuxfoundation.org/corporate-cla-console/membership-summary/active-memberships-in-your-organization).  
 {% endhint %}
 
-![Active Membership ](broken-reference)
+![Active Membership](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgegznFD-Zq2RnHxhPL%2F-MgeqDaHmqm5E5IyJOjO%2FActive_membership.png?alt=media\&token=d45111ba-4c59-40de-bfa9-abc20e57bf78)
 
 {% hint style="info" %}
 Total active membership is also displayed on top of the dashboard below your company name. 
 {% endhint %}
 
-![Active Membership](broken-reference)
-
+![Active Membership](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgeehhMfE0GpXz9abFJ%2F-MgegsnaK7UFzsepu_ah%2FTop.png?alt=media\&token=6cd6ee17-26eb-433a-88b3-7a6795a6d832)
