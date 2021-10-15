@@ -17,7 +17,7 @@ To access events, perform the following steps:
 
 2.On the vertical sidebar navigation menu, in the **Search **box enter your company or organization name. By default, the dashboard page appears. Click the **Events **menu available on the Vertical Sidebar navigation menu. 
 
-![Events](broken-reference)
+![Events](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgvS33TuQqsZGEexBph%2F-MgvShJFQeX-iueC6voF%2FEvents_Main.png?alt=media\&token=f73b0234-e369-48f3-949f-5c2ba841518c)
 
 ## Yearly Filters 
 
@@ -27,5 +27,4 @@ The Events page has yearly filter tool bar that allows you to view the Events in
 Year to date (YTD) is a period of time beginning the first day of the current calendar year or fiscal year up to the current date.
 {% endhint %}
 
-![Yearly Filter](broken-reference)
-
+![Yearly Filter](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgvS33TuQqsZGEexBph%2F-MgvTVfRFjRVSbTRnDHZ%2FEvents_Yearly.gif?alt=media\&token=a2fd443a-b03f-4a6c-9968-2ac0d22f5f7a)
