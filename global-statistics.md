@@ -10,7 +10,5 @@ To access Global Statistics, perform the following steps:
 
 2.On the vertical sidebar navigation menu, click **Global Statistics**. You can select between **Events **and **Training & Certification**. 
 
-![Global Statistics](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mi7NB69PuSAdrxSlKmE%2F-Mi7OZ-fAf5G7RvYk1Jo%2FGlobal_Statitics.png?alt=media\&token=710f0ad4-6b12-440b-8da0-8f03356851c3)
-
 
 
