@@ -309,3 +309,6 @@
     * [Committees](organization-dashboard-pre-release/projects/committees.md)
     * [Meetings](organization-dashboard-pre-release/projects/meetings.md)
     * [Resources](organization-dashboard-pre-release/projects/resources.md)
+* [Global Events](global-events.md)
+* [Global Training and Certifications](global-training-and-certifications.md)
+* [Global Statistics](global-statistics.md)
