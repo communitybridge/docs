@@ -45,14 +45,6 @@ You can add and assign a member from a project with specific roles. In order to 
 * Community roles 
 * Application roles 
 
-### Assigning an User for Membership Role 
-
-### Assigning an User for Community Role 
-
-### Assigning an User for Application Role 
-
-
-
 
 
 
