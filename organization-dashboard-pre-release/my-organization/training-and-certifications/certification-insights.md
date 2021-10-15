@@ -16,27 +16,27 @@ This horizontal bar graph provides you the list of top 10 certification complete
 
 You can also customize the graph based on Organization with similar number of employees, organization with similar industry segment.  
 
-![Top 10 Certifications ](broken-reference)
+![Top 10 Certifications](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MjTuHIzU4oEzpixvWQA%2F-MjTwNYw7dIs5\_E67s98%2FTop%2010%20Certifications.gif?alt=media\&token=a65cda17-9486-45b6-aa00-6a0b2db1961e)
 
 ## Popular Certifications of your Organization 
 
 This table provides you the information on the certifications that are popular in your organization. The popularity of the certification is determined based on the number of employees who have enrolled and qualified in the certification exams.
 
-This table provides you information on Certification exams, number of attempts and exam passed.  
+This table provides you information on Certification exams, number of attempts and exam passed. 
 
-![Popular Certifications](broken-reference)
+![Popular Certifications](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MglCVWrBVZn1ijVk0wa%2F-MglE1MdmvjV-oyO5SHt%2FPopular%20Certifications%20.png?alt=media\&token=99106836-0e24-4ffb-b7c3-199d83a48c36)
 
 ## Certified Employees of your Organization
 
-This table provides you the information on the certified employee. The list provides details such as employee name, total number of exams passed and the certification exam details.  
+This table provides you the information on the certified employee. The list provides details such as employee name, total number of exams passed and the certification exam details.
 
-![Certified Employees](broken-reference)
+![Certified Employees](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MglE_SI5WwvpJDLuTvP%2F-MglFIXfrAE4eMwrq7bt%2FCertfied_Employees.png?alt=media\&token=fbee3882-fe10-4d9c-8fc6-908b3644f44e)
 
 {% hint style="info" %}
 When you click **View Details **button, you can see a popup box that provides you details such as certification name, employee name and exam passed date .
 {% endhint %}
 
-![Exams Passed](broken-reference)
+![Exams Passed](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MglHQScDs5oufj3Z4tW%2F-MglHXbgCrv0muM-afQT%2FExams%20Passed.png?alt=media\&token=b76ef184-8c9b-47bf-b4f0-2729a8173565)
 
 ## Certified Employees of your Organization across the Globe 
 
@@ -44,7 +44,7 @@ The globe graphical representation provides you a pictorial view of certified em
 
 You can view the number of certified employees when you hover over the mouse on the different locations as well the different color code provides you with the information on the certified employees. 
 
-![Certified employees by geography](broken-reference)
+![Certified employees by geography](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MglHcL3LqReEbXrpcg2%2F-MglIpkom66qXMbFsbjY%2FCertfied%20employees%20geography.gif?alt=media\&token=53d78ec8-34b7-474d-b591-6579dab62b7c)
 
 ## Certified Employees based on their area of interest 
 
@@ -52,7 +52,7 @@ This donut chart provides you the percentage of certified employees based on the
 
 When you hover over your mouse on the chart, you can see the percentage of certified employees for that particular domain. 
 
-![Areas of Interest](broken-reference)
+![Areas of Interest](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MglKcbYutsvyju2cBp3%2F-MglKuZysaqHFXvlyE_I%2FArea%20of%20interest.gif?alt=media\&token=8a24dde2-2190-4831-98b9-2fc9ed5de2c3)
 
 
 
