@@ -301,3 +301,4 @@
       * [Training Insights](organization-dashboard-pre-release/my-organization/training-and-certifications/training-insights.md)
       * [Certification Insights](organization-dashboard-pre-release/my-organization/training-and-certifications/certification-insights.md)
       * [Member Promotions](organization-dashboard-pre-release/my-organization/training-and-certifications/member-promotions.md)
+  * [Projects](organization-dashboard-pre-release/projects.md)
