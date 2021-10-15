@@ -306,6 +306,6 @@
 * [Benefits](benefits.md)
 * [Project Contributions](project-contributions.md)
 * [Project Contributors](project-contributors.md)
-* [Page 5](page-5.md)
+* [Committees](committees.md)
 * [Meetings](meetings.md)
 * [Resources](resources.md)

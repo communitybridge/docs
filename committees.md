@@ -1,4 +1,4 @@
-# Page 5
+# Committees
 
 Committees tab provides you information on your organization association with various committees formed in the project. Normally, projects constitute various committees which allows participation from various organization. Committees helps the project and organization to take part in discussion and take the decisions that will help the project and organizations. 
 
@@ -18,3 +18,4 @@ The Committees tab provides the following information related to your organizati
 * **All Organizations** tab provides you the details of all the organization and their association with the project committees. 
 {% endhint %}
 
+![Committees](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mi6rmMIddcXCyJvM9iB%2F-Mi6xsslmP-92dc1AqC3%2FCommittees.png?alt=media\&token=8fec9efe-7704-4ef7-b982-a88b39dfd2e1)
