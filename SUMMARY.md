@@ -122,6 +122,8 @@
         * [EasyCLA Disabled](easycla/v2-current/getting-started/easycla-troubleshooting/easycla-disabled.md)
     * [Project Managers](easycla/v2-current/project-managers/README.md)
       * [Set up Project on EasyCLA](easycla/v2-current/project-managers/set-up-project-on-easycla.md)
+      * [Create New CLA Group](easycla/v2-current/project-managers/create-new-cla-group.md)
+      * [Sign in to Project Control Center](easycla/v2-current/project-managers/sign-in-to-project-control-center.md)
     * [Contributors](easycla/v2-current/contributors/README.md)
       * [Individual Contributor](easycla/v2-current/contributors/individual-contributor.md)
       * [Corporate Contributor](easycla/v2-current/contributors/corporate-contributor.md)
