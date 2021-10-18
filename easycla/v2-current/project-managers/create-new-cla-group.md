@@ -58,5 +58,7 @@ Note:
 11\. If the Project for which you are creating the CLA Group does have subprojects, then click **Next**. Under the **Select Projects** tab, select the projects that you want to enroll under the CLA group, and click **Finish**.
 
 {% hint style="info" %}
-**Note**: As mentioned above, for the initial v2 release, a single project can only have one CLA Group. If you have already created a CLA Group for that project, or for a parent of that project, the +Add New CLA Group button will be disabled and you will not be able to create another CLA group for that project.![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLAq_x4OegnUUpOhAQ%2Fcreating%20CLA%20group%20at%20project-group%20level.png?alt=media\&token=88f0f38f-527f-4cbb-a019-d84aabc16c97)Creating CLA Group at Project Group Level
+**Note**: As mentioned above, for the initial v2 release, a single project can only have one CLA Group. If you have already created a CLA Group for that project, or for a parent of that project, the **+Add New CLA Group** button will be disabled and you will not be able to create another CLA group for that project.
 {% endhint %}
+
+![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLAq_x4OegnUUpOhAQ%2Fcreating%20CLA%20group%20at%20project-group%20level.png?alt=media\&token=88f0f38f-527f-4cbb-a019-d84aabc16c97)
