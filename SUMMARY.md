@@ -124,6 +124,7 @@
       * [Sign in to Project Control Center](easycla/v2-current/project-managers/sign-in-to-project-control-center.md)
       * [Set up Project on EasyCLA](easycla/v2-current/project-managers/set-up-project-on-easycla.md)
       * [Create New CLA Group](easycla/v2-current/project-managers/create-new-cla-group.md)
+      * [Add or Remove a Project from CLA Group](easycla/v2-current/project-managers/add-or-remove-a-project-from-cla-group.md)
       * [Update Template](easycla/v2-current/project-managers/update-template.md)
     * [Contributors](easycla/v2-current/contributors/README.md)
       * [Individual Contributor](easycla/v2-current/contributors/individual-contributor.md)
