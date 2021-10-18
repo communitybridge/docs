@@ -16,7 +16,7 @@ A single CLA Group includes a pair of CCLA and ICLA templates, if both types are
 
 3\. From left-side navigation, Navigate to **Tools >** **EasyCLA**.
 
-![Tools Status](broken-reference)
+![](<../../../.gitbook/assets/tools status tab.png>)
 
 4\. Click **+Add New CLA Group**.
 
