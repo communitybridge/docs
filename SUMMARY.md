@@ -321,3 +321,6 @@
 * [Project Control Center](project-control-center.md)
 * [Overview](overview.md)
 * [PCC Dashboard](pcc-dashboard.md)
+* [Adding a Main Project](adding-a-main-project.md)
+* [Setup Services for a Project](setup-services-for-a-project.md)
+* [Basic Setup for a Project](basic-setup-for-a-project.md)
