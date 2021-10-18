@@ -316,5 +316,6 @@
     * [Global Training and Certifications](global-training-and-certifications.md)
       * [Global Training Insights](global-training-insights.md)
       * [Global Certification Insights](global-certification-insights.md)
-* [Managing Teams](managing-teams.md)
-* [Organization Profile](organization-profile.md)
+  * [Managing Teams](organization-dashboard-pre-release/managing-teams.md)
+  * [Organization Profile](organization-dashboard-pre-release/organization-profile.md)
+* [Project Control Center](project-control-center.md)
