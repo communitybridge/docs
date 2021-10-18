@@ -329,3 +329,4 @@
   * [Committees Setup for a Project](setup-services-for-a-project/committees-setup-for-a-project.md)
 * [IT Services for a Project](it-services-for-a-project.md)
 * [Setting up a Domain for a Project](setting-up-a-domain-for-a-project.md)
+* [Enabling Email Forwarding](enabling-email-forwarding.md)
