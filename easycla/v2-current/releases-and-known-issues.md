@@ -30,4 +30,4 @@ EasyCLA V2.0 supports projects with a parent-child model of any number of hierar
 
           * Great-Great Grand Child Project
 
-                  ….
+          &#x20;       ….

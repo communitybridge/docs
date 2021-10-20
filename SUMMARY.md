@@ -15,6 +15,7 @@
 * [Individual Dashboard (MyProfile)](my-profile/README.md)
   * [Edit My Information](my-profile/managing-your-profile.md)
   * [Change Password](my-profile/changing-account-password.md)
+  * [Manage Social Accounts](my-profile/manage-social-accounts.md)
   * [​View Community Badges](my-profile/viewing-community-badges.md)
   * [Individual Enrollments](my-profile/individual-enrollments.md)
   * [Add Skill Sets](my-profile/add-skill-sets.md)

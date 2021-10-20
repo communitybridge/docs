@@ -1,11 +1,17 @@
 # Change Password
 
-To change your Linux Foundation password, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org) and click the **Change Password** CTA button.
+To change your Linux Foundation password:
 
-![](<../.gitbook/assets/Header 2 (1).png>)
+1\. Log in to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org).
 
-2\. On the **Change Password** subpage, enter your **Current Password**, **New Password, **then **Re-Enter New Password. **Click on **Save CTA **button and **Back to Profile** CTA to return to the dashboard.
+2\. From left side navigation, navigate to **Settings > Password**.
 
-![](<../.gitbook/assets/Change Password (2).png>)
+![Change Password](<../.gitbook/assets/chnage password.png>)
 
-3\. If you forgot your password, click on **Forgot Password? **text link. The link to reset your password will be emailed to the primary email associated with your account.
+3\. Provide details in the respective fields, and click **Save**.
+
+`OR`
+
+1. Click **Send Password Reset Link** from the right side of the window to receive the reset link in your registered email address that you have provided while creating your account.
+2. Go to your email address, click **Reset Password** CTA button from the email that you have received from The Linux Foundation.
+3. Provide details in the respective fields, and click **Submit**.
