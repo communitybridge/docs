@@ -123,6 +123,7 @@
       * [Supported Languages](security/security-v2/lfx-security-requirements/supported-languages.md)
     * [Add a Project to LFX Security](security/security-v2/add-a-project-to-lfx-security.md)
     * [Open LFX Security](security/security-v2/open-lfx-security.md)
+    * [Authorization Page](security/security-v2/authorization-page.md)
 * [EasyCLA](easycla/README.md)
   * [V2 (Current)](easycla/v2-current/README.md)
     * [Releases and Known Issues](easycla/v2-current/releases-and-known-issues.md)
