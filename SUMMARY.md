@@ -116,6 +116,8 @@
   * [Enable or Disable Scanning for a Repository](security/enable-or-disable-a-repository-from-scanning.md)
   * [Security (V2)](security/security-v2/README.md)
     * [Overview](security/security-v2/overview.md)
+    * [LFX Security FAQs](security/security-v2/lfx-security-faqs.md)
+    * [Onboarding your Project](security/security-v2/onboarding-your-project.md)
 * [EasyCLA](easycla/README.md)
   * [V2 (Current)](easycla/v2-current/README.md)
     * [Releases and Known Issues](easycla/v2-current/releases-and-known-issues.md)
