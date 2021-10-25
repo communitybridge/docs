@@ -10,28 +10,15 @@ lick **Sign in**.
 
 GitHub Login
 
-3.List of GitHub organization associated with the login account are listed and displayed. Select the required organization.
-
-![](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mb53GByRd6PrIF\_FSoA%2F-Mb54Utn5zoc-1SLci6l%2FList.png?alt=media\&token=c7c9dde6-34d3-4b34-928b-200b0bf9e24c)
-
 GitHub Organizations
 
-4.The Install & Authorize LFx Security GitHub App page appears. This page provides the following information:
-
-* Information on the permission requested for the selected repositories. The LFX Security requests the following permissions:
-  * **Read** access to administer, code, check commit status, lookup members, and other metadata.
-  * **Read** and **write** access to organization hooks, pull requests, and repository hooks.
-  * &#x20;Installing and authorizing LFX Security GitHub App immediately grants these permissions on your account:
-  * **Read** access to emails
-* Access to the repositories. You can either provide access to all the repositories or the for the selected repositories in the GitHub organization.
-
-Click **Install & Authorize** to install the LFX Security GitHub App.
+4\.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mb54\_KofyumI-UB7Wl7%2F-Mb56smIJpdGbNLb5xJ4%2FPer1.png?alt=media\&token=dd6bda9b-2dc3-4697-b992-7b4c814e8e0f)
 
 Install Permissions
 
-5.The LFX Security Service GitHub app is installed successfully. You can see the installation success message.
+5.The LFX Security Service GitHub app is installed successfully. You canthe installation success message.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mb54\_KofyumI-UB7Wl7%2F-Mb57cBro\_UemLOIw-T9%2FSuccess.png?alt=media\&token=852f8d1c-1abf-40c3-9a87-cfd27b4772ee)
 

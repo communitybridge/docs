@@ -128,6 +128,7 @@
     * [Investigate Dependencies in the Application Dependency Tree](security/security-v2/investigate-dependencies-in-the-application-dependency-tree.md)
     * [Get License Information](security/security-v2/get-license-information.md)
 * [Code Secrets](code-secrets.md)
+* [Non Inclusive Language](non-inclusive-language.md)
 * [EasyCLA](easycla/README.md)
   * [V2 (Current)](easycla/v2-current/README.md)
     * [Releases and Known Issues](easycla/v2-current/releases-and-known-issues.md)
