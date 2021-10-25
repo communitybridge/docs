@@ -121,7 +121,7 @@
     * [LFX Security Requirements](security/security-v2/lfx-security-requirements/README.md)
       * [Supported Languages](security/security-v2/lfx-security-requirements/supported-languages.md)
     * [Add a Project to LFX Security](security/security-v2/add-a-project-to-lfx-security.md)
-* [Open LFX Security](open-lfx-security.md)
+    * [Open LFX Security](security/security-v2/open-lfx-security.md)
 * [EasyCLA](easycla/README.md)
   * [V2 (Current)](easycla/v2-current/README.md)
     * [Releases and Known Issues](easycla/v2-current/releases-and-known-issues.md)
