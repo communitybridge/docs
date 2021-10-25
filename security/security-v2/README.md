@@ -7,3 +7,5 @@ The LFX Security tool provides security to the open source code. The LFX Securit
 * **Non Inclusive Language** - Detects non inclusive words used in your code which might hurt and treat people unfairly.&#x20;
 
 You can refer [LFX Security](https://lfx.linuxfoundation.org/tools/security) page for more information.&#x20;
+
+![LFX Security](<../../.gitbook/assets/LFX Security (1).png>)
