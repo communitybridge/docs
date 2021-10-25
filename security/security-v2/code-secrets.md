@@ -2,30 +2,6 @@
 
 LFX Security has collaborated with BluBracket to scan for valuable private information and non-inclusive words in open source code, we call this information “code secrets”. Unearthing code secrets has made the open source projects more secure and the code security is enhanced to a great extent by detecting and monitoring the risks thus improving the code.
 
-## &#x20;<a href="installing-lfx-security-github-app" id="installing-lfx-security-github-app"></a>
-
-lick **Sign in**.
-
-![](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mb4y1jbC3ddQdur3uGL%2F-Mb51hW0ZQ6XFT9VJdVZ%2FLOgin.png?alt=media\&token=0565eb98-f0d2-41f7-82c9-071eb74a0a03)
-
-GitHub Login
-
-GitHub Organizations
-
-4\.
-
-![](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mb54\_KofyumI-UB7Wl7%2F-Mb56smIJpdGbNLb5xJ4%2FPer1.png?alt=media\&token=dd6bda9b-2dc3-4697-b992-7b4c814e8e0f)
-
-Install Permissions
-
-5.The LFX Security Service GitHub app is installed successfully. You canthe installation success message.
-
-![](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mb54\_KofyumI-UB7Wl7%2F-Mb57cBro\_UemLOIw-T9%2FSuccess.png?alt=media\&token=852f8d1c-1abf-40c3-9a87-cfd27b4772ee)
-
-Installation Complete
-
-You will also receive an email after successful installation of the LFX Security GitHub App.
-
 ## Scanning of Projects for Code Secrets  <a href="scanning-of-projects-for-code-secrets" id="scanning-of-projects-for-code-secrets"></a>
 
 After onboarding the projects, scanning of projects for code secrets is carried out by LFX Security platform. The LFX Security platform will scan the repositories and detect the code secrets and notifications for the selected organization or repository.
