@@ -118,6 +118,8 @@
     * [Overview](security/security-v2/overview.md)
     * [LFX Security FAQs](security/security-v2/lfx-security-faqs.md)
     * [Onboarding your Project](security/security-v2/onboarding-your-project.md)
+    * [LFX Security Requirements](security/security-v2/lfx-security-requirements/README.md)
+      * [Supported Languages](security/security-v2/lfx-security-requirements/supported-languages.md)
 * [EasyCLA](easycla/README.md)
   * [V2 (Current)](easycla/v2-current/README.md)
     * [Releases and Known Issues](easycla/v2-current/releases-and-known-issues.md)
