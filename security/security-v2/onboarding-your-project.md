@@ -4,8 +4,6 @@ You have to onboard your project from GitHub to use LFX Security services. First
 
 Onboarding projects into LFX Security is done from the PCC (Project Control Center). As part of this onboarding a Security Bot is installed on GitHub Organizations of the project.
 
-[Refer](onboarding-your-project.md#security-bot-installation)
-
 {% hint style="info" %}
 You need to raise a ticket if you do not have access to PCC. Use this [link ](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/358)to raise a support ticket to access PCC.&#x20;
 

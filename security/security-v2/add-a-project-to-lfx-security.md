@@ -15,3 +15,4 @@ If your project is not hosted on LFX Security, you can submit a project applicat
 
 ![Secure My Project](<../../.gitbook/assets/Secure\_My\_Project (1).png>)
 
+[refer](onboarding-your-project.md#security-bot-installation)
