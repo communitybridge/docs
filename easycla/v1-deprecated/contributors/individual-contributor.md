@@ -16,19 +16,19 @@ As an individual contributor, you are contributing code on your own behalf (not 
 * A cross next to your contributor name means the CLA check failed.
 {% endhint %}
 
-![CLA GitHub Individual Check Fail](../../../.gitbook/assets/cla-github-individual-check-fail.png)
+![CLA GitHub Individual Check Fail](<../../../.gitbook/assets/cla github individual check fail.png>)
 
-3\. Click ![](../../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
+3\. Click ![](<../../../.gitbook/assets/lfx easycla.png>) or **Please click here to be authorized**.
 
 4\. Click **Authorize LF-Engineering**. (Subsequent contributions will not require authorization.)
 
-​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png)&#x20;
+​ ![](<../../../.gitbook/assets/Authorize Linux Foundation EasyCLA.png>)&#x20;
 
 The CLA Contributor Console appears and shows the CLA group for your project. The CLA types display:
 
 5\. Click **Individual** and then click **OPEN CLA**.
 
-![](<../../../.gitbook/assets/individual-cla (1).png>)
+![](<../../../.gitbook/assets/individual cla (1).png>)
 
 DocuSign presents the agreement that you must sign. The ICLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 
@@ -39,7 +39,7 @@ DocuSign presents the agreement that you must sign. The ICLA is not tied to any 
 {% hint style="info" %}
 * You receive an email from The Linux Foundation, informing you that you have signed the CLA.&#x20;
 * You can download the PDF document by clicking the link form the email. You will be redirected to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.\
-  ![](../../../.gitbook/assets/proceed-to-download-icla.png)&#x20;
+  ![](<../../../.gitbook/assets/proceed to download icla.png>)&#x20;
 {% endhint %}
 
 You are redirected to GitHub. Wait a few seconds for the CLA status to update. A tick appears next to your branch.
@@ -72,7 +72,7 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update. A
 
 8\. Select **Individual CLA (ICLA)**, and click **Please review the agreement**.
 
-![ICLA User Flow](../../../.gitbook/assets/icla-flow.png)
+![ICLA User Flow](<../../../.gitbook/assets/icla flow.png>)
 
 9\. Sign in to EasyCLA if you are prompted.
 

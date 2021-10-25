@@ -2,7 +2,7 @@
 
 1\. To create a mentee profile, [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org) and select **Become a Mentee** navigation menu item.
 
-![](<../../.gitbook/assets/become-a-mentee (1).png>)
+![](<../../.gitbook/assets/Become a Mentee (1).png>)
 
 {% hint style="info" %}
 Keep these items ready before you begin:
@@ -43,7 +43,7 @@ Your name and email fields are auto-populated from your Linux Foundation account
 
 Introduce yourself by answering the questions required to complete this section.&#x20;
 
-![Introduction](../../.gitbook/assets/mentee-introduction.png)
+![Introduction](<../../.gitbook/assets/mentee introduction.png>)
 
 ## Mailing Address <a href="createamenteeprofile-mailingaddress" id="createamenteeprofile-mailingaddress"></a>
 

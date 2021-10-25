@@ -6,15 +6,15 @@ You can use your Facebook login credentials to sign in to the protected Linux Fo
 
 1\. On the **SSO page**, click on the Facebook icon to continue to sign in with your Facebook account.
 
-![Sign in with Facebook](../../.gitbook/assets/sign-in-with-facebook.png)
+![Sign in with Facebook](<../../.gitbook/assets/sign in with facebook.png>)
 
 2\.  Enter your Facebook login credentials, and click **Log In**.
 
-![Sign in with Facebook](../../.gitbook/assets/sign-in-with-facebook-2-.png)
+![Sign in with Facebook](<../../.gitbook/assets/sign in with facebook (2).png>)
 
 3\. If you have an existing LF account, the Linux Foundation will map it to your Facebook login. If you don't have an LF Account associated with the email address you're using, you will be navigated to **Create your LF Account **page.                                                                                                                                             &#x20;
 
-![](../../.gitbook/assets/create-lf-account-if-authenticating-via-other.png)
+![](<../../.gitbook/assets/Create LF Account if authenticating via Other.png>)
 
 4\.  Enter username, and click **Create Account**. You will be redirected to the Linux Foundation tool page that you are trying to access.
 

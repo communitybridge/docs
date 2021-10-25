@@ -19,7 +19,7 @@ Keep these items ready before you begin:
 
 1\. To enroll the project [Sign in ](../../../sso/sign-in/)to the [Mentorship](https://mentorship.lfx.linuxfoundation.org) and select **Enroll Your Project **from the main navigation.&#x20;
 
-![](../../../.gitbook/assets/enroll-your-program.png)
+![](<../../../.gitbook/assets/Enroll Your Program.png>)
 
 2\. Complete the [Mentorship Project Enrollment ](mentorship-project-enrollment-form.md)form. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 

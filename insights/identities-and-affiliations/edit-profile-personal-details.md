@@ -17,6 +17,6 @@ Edit a profile to add or update contributor information. You can mark a profile 
 5\. From User Profile Details section, click **Edit**.\
 ****The Name, E-mail, and Bot fields become editable.
 
-![User Profile Details](../../.gitbook/assets/user-profile-details.png)
+![User Profile Details](<../../.gitbook/assets/user profile details.png>)
 
 6\. Update any of the Personal Details and click **Save Changes**.

@@ -8,18 +8,18 @@ To view your transactions for all the purchases you made through Linux Foundatio
 * Transaction Status, i.e. Completed&#x20;
 * Transaction Value, i.e. the purchase amount
 
-![](<../.gitbook/assets/all-transactions (1).png>)
+![](<../.gitbook/assets/All Transactions.png>)
 
 Transactions can be filtered by the following three categories:
 
 **Event Tickets **
 
-![](../.gitbook/assets/transactions-event-tickets.png)
+![](<../.gitbook/assets/Transactions - Event Tickets.png>)
 
 **Training and Certifications **
 
-![](../.gitbook/assets/transactions-training-+-certification.png)
+![](<../.gitbook/assets/Transactions - Training + Certification.png>)
 
 **Linux Individual Supporter program and Linux.com **
 
-![](../.gitbook/assets/transactions-individual-supporter.png)
+![](<../.gitbook/assets/Transactions Individual Supporter.png>)

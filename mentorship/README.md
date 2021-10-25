@@ -16,4 +16,4 @@ You can participate in the Linux Foundation Mentorship program as a program admi
 
 First, a project administrator enrolls a project. Then, mentors and mentees participate as shown in the following high-level diagram:
 
-![](../.gitbook/assets/how-mentorship-works.png)
+![](<../.gitbook/assets/how mentorship works.png>)

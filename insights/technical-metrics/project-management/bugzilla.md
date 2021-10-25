@@ -4,7 +4,7 @@
 By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
+Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
 
 The Bugzilla dashboard is available from the **Issue Management** drop-down list, and represents the following dashboards:
 

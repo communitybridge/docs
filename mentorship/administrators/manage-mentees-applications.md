@@ -8,7 +8,7 @@
 
 2\. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants.&#x20;
 
-![](../../.gitbook/assets/tasks-submitted.png)
+![](<../../.gitbook/assets/Tasks Submitted.png>)
 
 Please note the following application statuses:&#x20;
 

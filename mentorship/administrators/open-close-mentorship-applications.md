@@ -8,4 +8,4 @@ Select **My Mentorships **tab
 
 **NOTE: **Closing the applications doesn't prevent mentees who started the application process from completing their prerequisite tasks.&#x20;
 
-![](../../.gitbook/assets/edit-program.png)
+![](<../../.gitbook/assets/Edit Program.png>)

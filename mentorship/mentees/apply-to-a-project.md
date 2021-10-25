@@ -2,7 +2,7 @@
 
 1\. To apply to a mentorship program [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org). If you haven't created a profile yet, click on **Become a Mentee** navigation menu item.
 
-![](<../../.gitbook/assets/become-a-mentee (1).png>)
+![](<../../.gitbook/assets/Become a Mentee (1).png>)
 
 {% hint style="info" %}
 * Create a profile as described in [Create a Mentee Profile](create-a-mentee-profile.md) section.
@@ -20,4 +20,4 @@
 
 **NOTE:** Your application will be in **Pending** status until you submit all your prerequisite requirements. After you submit all the required documents and complete the required tasks assigned to you, the project admin changes the status of your application. For details, see [View Status of your Application](view-status-of-your-application.md)
 
-![](../../.gitbook/assets/mentee-applied.png)
+![](<../../.gitbook/assets/mentee applied.png>)

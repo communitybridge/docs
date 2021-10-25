@@ -11,4 +11,4 @@ Community badges are generated from the following sources:
 
 Clicking on the badge will take you to the Certification Verification page.
 
-![Certification Verification](../.gitbook/assets/certverify.png)
+![Certification Verification](<../.gitbook/assets/ CertVerify.png>)

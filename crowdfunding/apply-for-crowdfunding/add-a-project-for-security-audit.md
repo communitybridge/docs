@@ -5,7 +5,7 @@ You can submit an application to [Open Source Technology Improvement Fund](https
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
 2. Click **Apply **and select **ADD SECURITY AUDIT**.\
    \
-   &#x20;![](../../.gitbook/assets/add-security-audits.png)&#x20;
+   &#x20;![](<../../.gitbook/assets/add security audits.png>)&#x20;
 3. Complete the [security audit application form](../security-audit-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application.**
 5. (Optional) Click **My Projects** tab to view your pending project.

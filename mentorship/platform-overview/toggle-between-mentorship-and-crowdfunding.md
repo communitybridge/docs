@@ -12,4 +12,4 @@ Each mentorship card is visible on both Mentorship and Funding for the following
 1. Select a project you would like to view.
 2. From mentorship program details page, click on **View Crowdfunding** CTA and vice versa, from **Crowdfunding** project details page, click on **View Mentorship** CTA.
 
-![Toggle to Crowdfunding](../../.gitbook/assets/toggle-to-crowdfunding.png)
+![Toggle to Crowdfunding](<../../.gitbook/assets/toggle to crowdfunding.png>)

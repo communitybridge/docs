@@ -96,5 +96,5 @@ Each section displays the following metrics:
 4\. Click **+Project** to add a new field to select and compare projects. \
 **Note: **Default time range is “All”. Select a time range from the available options to change the metrics for the time period.
 
-![Compare Project Health](../.gitbook/assets/compare-project-health.png)
+![Compare Project Health](<../.gitbook/assets/compare project health.png>)
 

@@ -7,6 +7,6 @@ To view the training and certifications you are enrolled in or have completed, l
 * The status of each training and certification course.
 * The Enroll CTA button to navigates user to the Linux Foundation Training and Certification course catalogues respectively.&#x20;
 
-![](<../.gitbook/assets/training (1).png>)
+![](../.gitbook/assets/Training.png)
 
-![](../.gitbook/assets/certifications.png)
+![](../.gitbook/assets/Certifications.png)

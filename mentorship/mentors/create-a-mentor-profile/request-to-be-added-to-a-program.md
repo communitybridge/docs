@@ -8,4 +8,4 @@
 
 4\. You can remove yourself from the program by selecting **Remove From Program** CTA.
 
-![](../../../.gitbook/assets/remove-from-program.png)
+![](<../../../.gitbook/assets/Remove from Program.png>)

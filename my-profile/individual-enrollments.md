@@ -6,7 +6,7 @@ The individual enrollments page is a page from the individual dashboard, where y
 
 From the left menu select "My Individual Enrollments"&#x20;
 
-![Menu Access (My Individual Enrollments)](<../.gitbook/assets/image (21).png>)
+![Menu Access (My Individual Enrollments)](<../.gitbook/assets/image (20).png>)
 
 2- Indvidual Enrollments Status&#x20;
 
@@ -30,9 +30,9 @@ If your enrollment is active and the auto renew is enabled.&#x20;
 
 In this case you will have your membership to be renewed automatically. &#x20;
 
-![Not Enrolled Status ](<../.gitbook/assets/image (14).png>)
+![Not Enrolled Status ](<../.gitbook/assets/image (12).png>)
 
-![Enrolled and Expiring Soon Status ](<../.gitbook/assets/image (18).png>)
+![Enrolled and Expiring Soon Status ](<../.gitbook/assets/image (14).png>)
 
 ![Enrolled and Expired Status ](<../.gitbook/assets/image (15).png>)
 
@@ -46,23 +46,23 @@ Disabling the auto renew, allow you to **renew manually**.&#x20;
 
 &#x20;&#x20;
 
-![Auto Renew Toggle - Enabled ](<../.gitbook/assets/image (19).png>)
+![Auto Renew Toggle - Enabled ](<../.gitbook/assets/image (16).png>)
 
 4- Purchase History of Individual Enrollments &#x20;
 
 To** **view the purchase history of your enrollments; you have to look at the **purchase history section** from "My Profile" page&#x20;
 
-![Menu Access to "My Profile" ](<../.gitbook/assets/image (12).png>)
+![Menu Access to "My Profile" ](<../.gitbook/assets/image (17).png>)
 
 &#x20;&#x20;
 
-![My Transaction Section (My Profile) ](<../.gitbook/assets/image (20).png>)
+![My Transaction Section (My Profile) ](<../.gitbook/assets/image (18).png>)
 
 5- To view all individual projects that you have enrolled in from my profile.&#x20;
 
 You can view the projects that you have enrolled in from my profile (My Individual Enrollments Section), with the status of your enrollments. &#x20;
 
-![Individual Enrollment Section (My Profile)](<../.gitbook/assets/image (17).png>)
+![Individual Enrollment Section (My Profile)](<../.gitbook/assets/image (19).png>)
 
 &#x20;
 

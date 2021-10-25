@@ -4,7 +4,7 @@
 By default, Bot Commits are filtered, however, you can include the filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
+Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
 
 Following are the various dashboards of GitHub Issues:
 

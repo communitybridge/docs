@@ -9,7 +9,7 @@ You can participate in an event to understand more about the project related inf
 
 The event page opens. Click **REGISTER NOW **on the event page, and follow the procedure to register.
 
-![Register for an Event](../.gitbook/assets/register-for-an-event.png)
+![Register for an Event](<../.gitbook/assets/register for an event.png>)
 
 \
 &#x20;![](broken-reference)&#x20;

@@ -9,8 +9,8 @@ The **Community **roles are populated from the community mailing lists like grou
 * Committee Name&#x20;
 * Your Voting Status associated with the role
 
-![](../.gitbook/assets/roles.png)
+![](../.gitbook/assets/Roles.png)
 
 If you are a contact on behalf of your company, which is a partner of the Linux Foundation and its projects, then your role in context of your employer's participation in the project is also displayed. These roles are assigned by your company administrator during the membership enrollment process.
 
-![](../.gitbook/assets/roles2.png)
+![](../.gitbook/assets/Roles2.png)

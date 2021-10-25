@@ -9,15 +9,15 @@ Insights platform shows Trends dashboard, and project and project group cards, i
 5. **Search projects** field: Lets you search a project or project group.
 6. **Enroll Project**: Lets you enroll a project into LFX Insights by creating a support ticket on [LFX Help Center](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/341).
 7. **Get Help**: Click **Doc **to navigate to the Insights user documentation page, and **Support** to create a support ticket on LFX if you face any issues with LFX Insights.
-8. While navigating from top to bottom on dashboards, click ![](../.gitbook/assets/summary-dashboard-up-arrow.png) from the down right corner to reach to the top of the page.
+8. While navigating from top to bottom on dashboards, click ![](<../.gitbook/assets/summary dashboard up arrow.png>) from the down right corner to reach to the top of the page.
 
-![Insights Dashboard](../.gitbook/assets/landing-page-dashboard.png)
+![Insights Dashboard](<../.gitbook/assets/landing page dashboard.png>)
 
 ### Project
 
 A project is a standalone project maintained by The Linux Foundation. Under **View All Projects**, click the project name or **Go to Overview** to navigate to the project dashboard.
 
-![Project Overview](../.gitbook/assets/project-overview.png)
+![Project Overview](<../.gitbook/assets/project overview.png>)
 
 Each project card shows the following information:
 
@@ -28,7 +28,7 @@ Each project card shows the following information:
 * **Commits **shows the total number of commits to the project.
 * **Repositories **shows the total number of repositories created for the project.
 * **Lines of Code** shows total number of lines of code added and modified for the project repository.
-* **Data Sources** shows the logos of different data sources, such as ![](<../.gitbook/assets/18088191 (4) (3).png>) for GitHub and/or Gerrit, ![](<../.gitbook/assets/18088260 (3) (3) (3) (3) (1).png>) for Jira, or ![](<../.gitbook/assets/18088264 (2) (2) (2) (2) (1).png>) for Slack, and so on.
+* **Data Sources** shows the logos of different data sources, such as ![](<../.gitbook/assets/18088191 (4) (3) (3).png>) for GitHub and/or Gerrit, ![](<../.gitbook/assets/18088260 (3) (3) (3) (3) (1).png>) for Jira, or ![](<../.gitbook/assets/18088264 (2) (2) (2) (2) (1).png>) for Slack, and so on.
 
 ### Project Group
 
@@ -36,7 +36,7 @@ A project group is a group of individual projects. Click the name or click **Go 
 
 ![Sub projects of a project group](<../.gitbook/assets/view sub projects of a project group.png>)
 
-![Project Group Overview Card](<../.gitbook/assets/project-group-overview-card (1).png>)
+![Project Group Overview Card](../.gitbook/assets/project-group-overview-card.png)
 
 Each card shows the following information:
 
@@ -48,7 +48,7 @@ Each card shows the following information:
 * **Projects** ![](../.gitbook/assets/18088267.png)shows the logos of sub-projects under the project group.
 
 On a project dashboard, click **Get Short URL**, and click the icon next to the URL to copy the link of a respective dashboard for a project.\
-![](<../.gitbook/assets/get-short-url (1).png>)
+![](<../.gitbook/assets/get short url (1).png>)
 
 ## ** Insights Features**
 

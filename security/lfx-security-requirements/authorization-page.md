@@ -19,7 +19,7 @@ If you are a contributor or mentor of the project, perform the following steps t
 
 2.The Authorization page appears. Click **Connect to GitHub**.&#x20;
 
-![](../../.gitbook/assets/Github.png)
+![](<../../.gitbook/assets/Github (1).png>)
 
 3\. The Authorization window between GitHub and Linux Foundation appears. Click** Authorize linuxfoundation**.&#x20;
 

@@ -4,7 +4,7 @@
 
 2\. Select the project card to navigate to the project detail page and click on the **Current Mentees** tab to view the list of all the mentee applicants.&#x20;
 
-![](../../.gitbook/assets/view-mentee-task.png)
+![](<../../.gitbook/assets/view mentee task.png>)
 
 3\. Click on **Filter By Application Status** dropdown to view accepted mentees.
 
@@ -16,7 +16,7 @@
 
 After a mentee submits a file for a task, you can view or download the file by clicking the respective icon beside a task, as shown below.
 
-![](../../.gitbook/assets/view-mentee-tasks-for-admin.png)
+![](<../../.gitbook/assets/view mentee tasks for admin.png>)
 
 ### **Change Status**
 
@@ -41,7 +41,7 @@ Below is a description of each status:
 Click** + Add Task **to add a new task for a selected mentee or for all the accepted mentees.\
 The Create Task page appears. Complete the form fields and click **Add Task**. When you create a task, the mentee applicant receives an email informing them that a new task is assigned.
 
-![](../../.gitbook/assets/create-a-task.png)
+![](<../../.gitbook/assets/create a task.png>)
 
 ### **Edit Task**
 
@@ -49,9 +49,9 @@ The Create Task page appears. Complete the form fields and click **Add Task**. W
 **Important:** You can not edit prerequisite tasks.
 {% endhint %}
 
-![](../../.gitbook/assets/edit-mentee-task.png)
+![](<../../.gitbook/assets/edit mentee task.png>)
 
 Click **Edit Task **for a mentee task.\
 &#x20;The Edit Task dialog appears. Modify the task and click **Submit**.
 
-![](../../.gitbook/assets/edit-task.png)
+![](<../../.gitbook/assets/edit task.png>)

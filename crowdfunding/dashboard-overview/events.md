@@ -26,7 +26,7 @@ The overview shows some or all of the following items depending on the data that
 \
 View an example of an event overview section:
 
-![event overview](../../.gitbook/assets/event-overview.png)
+![event overview](<../../.gitbook/assets/event overview.png>)
 
 ## Dashboard <a href="events-dashboard" id="events-dashboard"></a>
 
@@ -50,4 +50,4 @@ View an example of an event dashboard section:
 
 The Financial tab lists all transactions with details in chronological order. Click the icon beside Fees to see the see distribution of applicable fees.
 
-![](../../.gitbook/assets/fees-icon-events.png)
+![](<../../.gitbook/assets/fees icon events.png>)

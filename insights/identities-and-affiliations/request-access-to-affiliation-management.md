@@ -8,7 +8,7 @@ Affiliation Management becomes enable for you after you request and, are granted
 
 2\. From the navigation bar, click **Request To Edit Affiliations**.
 
-![Request to Edit Affiliations](../../.gitbook/assets/request-to-edit-affiliations.png)
+![Request to Edit Affiliations](<../../.gitbook/assets/request to edit affiliations.png>)
 
 3\. Provide details in the form that appears.
 

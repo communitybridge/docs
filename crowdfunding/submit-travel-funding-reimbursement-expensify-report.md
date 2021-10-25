@@ -25,7 +25,7 @@ You will receive an invitation email from the Expensify Concierge stating that y
 The Linux Foundation requires that international (non-U.S.) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
 {% endhint %}
 
-{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
+{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 
@@ -36,7 +36,7 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 1\. Sign in to [https://www.expensify.com/signin](https://www.expensify.com/signin)\
 &#x20;    Ensure that you use the same email address linked to your travel funding approval.&#x20;
 
-![](<../.gitbook/assets/7419228 (2) (2) (2) (2) (2).png>)
+![](<../.gitbook/assets/7419228 (2) (2) (2).png>)
 
 2\. Depending on your location:
 
@@ -44,7 +44,7 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 
 **International:** Upload a completed _The Linux Foundation Wire Transfer Form_ in addition to your receipt(s).
 
-{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
+{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 

@@ -24,7 +24,7 @@ Following dashboards are displayed under Technical Metrics:
 
 * Clicking **Go To Overview** and **View All** takes you to the respective dashboard of [Commits > Overview](source-control/git.md) page.
 
-![Source Control](<../../.gitbook/assets/source-control (1).png>)
+![Source Control](<../../.gitbook/assets/source control (1).png>)
 
 **Commits **shows the following information:
 
@@ -39,7 +39,7 @@ Following dashboards are displayed under Technical Metrics:
 **Top 10 Companies By Commits **shows a doughnut chart that represents** **top ten companies that contribute most to the project.
 
 Mouse over a color in the chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:\
-&#x20;![](../../.gitbook/assets/show-and-exclude-company-data.png)&#x20;
+&#x20;![](<../../.gitbook/assets/show and exclude company data.png>)&#x20;
 
 {% hint style="info" %}
 * **Unknown **as a company name shows number/percentage of codes submitted by those contributors who are not affiliated with any organization.
@@ -58,13 +58,13 @@ Data is not available for a Git data source that is not configured for  Insights
 
 * Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/graph/chart of [Gerrit Changesets > Overview](pull-request-management/gerrit-changeset.md#overview) section.
 
-![Gerrit Dashboard](../../.gitbook/assets/gerrit-dashboard.png)
+![Gerrit Dashboard](<../../.gitbook/assets/gerrit dashboard.png>)
 
 **GitHub** shows total number of pull requests (both open and closed), number of open pull requests, average time in hours to merge pull requests, and average time in hours pull requests were open for a selected time range.
 
 * Clicking **Go To Overview** and **View All** under **Gerrit** takes you to the respective table/chart/graph of [GitHub PR > Overview](project-management/github-issues.md#overview) section.
 
-![Pull Requests GitHub](../../.gitbook/assets/pull-requests-github.png)
+![Pull Requests GitHub](<../../.gitbook/assets/pull requests github.png>)
 
 **Top 10 Contributors By PRs **(for GitHub)** **or** Top 10 Contributors By Changesets **(for Gerrit)** **lists the top ten individuals—that contribute most to the project— by name, total number of pull requests or changestes, and percentage of commits out of the total number of commits by the community.
 
@@ -72,7 +72,7 @@ Data is not available for a Git data source that is not configured for  Insights
 
 * Mouse over a color in the doughnut chart to view company name and number of commits made by the company.&#x20;
 * Click a company name to exclude company data. Click again to add the company data. Following is an example:\
-  &#x20;![](../../.gitbook/assets/top-10-companies.png)
+  &#x20;![](<../../.gitbook/assets/top 10 companies.png>)
 
 {% hint style="info" %}
 * **Unknown **as a company name shows number/percentage of codes submitted by those contributors who are not affiliated with any organization.
@@ -100,7 +100,7 @@ Data is not available for a Git data source that is not configured for  Insights
 **Top 10 Companies By Issues Submitted shows a doughnut chart that represents **top ten companies that contribute most to the project.
 
 Mouse over a color in the doughnut chart to view company name and number of commits made by the company. Click a company name to exclude company data. Click again to add the company data. Following is an example:\
-&#x20;![](../../.gitbook/assets/top-10-companies-github-issues.png)&#x20;
+&#x20;![](<../../.gitbook/assets/top 10 companies github issues.png>)&#x20;
 
 {% hint style="info" %}
 * **Unknown **as a company name shows number/percentage of issues submitted by those contributors who are not affiliated with any organization.
@@ -109,7 +109,7 @@ Mouse over a color in the doughnut chart to view company name and number of comm
 
 Following an example of Issue Management overview section for a project that uses Jira, GitHub Issues, and Bugzilla to manage issues:
 
-![Issue Management](<../../.gitbook/assets/issue-management (1).png>)
+![Issue Management](<../../.gitbook/assets/issue management (1).png>)
 
 ### **CI/CD**
 

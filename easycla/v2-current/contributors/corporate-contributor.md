@@ -22,17 +22,17 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 2. A cross next to a contributor's name means the EasyCLA check has failed, because the contributor is not authorized under a signed CLA.
 {% endhint %}
 
-![CLA Check Fail](../../../.gitbook/assets/cla-github-individual-check-fail.png)
+![CLA Check Fail](<../../../.gitbook/assets/cla github individual check fail.png>)
 
-4\. Click ![](../../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
+4\. Click ![](<../../../.gitbook/assets/lfx easycla.png>) or **Please click here to be authorized**.
 
 5\. Click **Authorize LF-Engineering**. (Subsequent contributions will not require authorization.)
 
 **Result:** The CLA Contributor Console appears in a new tab.
 
-​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png) ​
+​ ![](<../../../.gitbook/assets/Authorize Linux Foundation EasyCLA.png>) ​
 
-![CLA CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
+![CLA CCLA Flow](<../../../.gitbook/assets/cla ccla flow.png>)
 
 6\. Click **Proceed as a Corporate Contributor**.
 
@@ -44,7 +44,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 * If your company is not in the list, you can add the company as described in [If your company is not in the list](broken-reference).
 {% endhint %}
 
-![Select Organization](../../../.gitbook/assets/select-organization.png)
+![Select Organization](<../../../.gitbook/assets/select organization.png>)
 
 8\. You will need to complete one of the following workflows:
 
@@ -76,17 +76,17 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 
 8\. Click **Corporate CLA**, and then click the **Please review the agreement** link.
 
-![](../../../.gitbook/assets/ccla-flow.png)
+![](<../../../.gitbook/assets/ccla flow.png>)
 
 9\. Click **Proceed To Corporate Authorization**.
 
-![](../../../.gitbook/assets/proceed-to-corporate-authorization.png)
+![](<../../../.gitbook/assets/proceed to corporate authorization.png>)
 
 **Result:** You are redirected to the EasyCLA Corporate Console. Sign in with your LF SSO account if prompted.
 
 10\. On **Select Organization** window, type your company's name in the field, select it from the drop-down list, and click **Proceed**.
 
-![](../../../.gitbook/assets/select-organization.png)
+![](<../../../.gitbook/assets/select organization.png>)
 
 11\. You will need to complete one of the following workflows:
 
@@ -109,13 +109,13 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 
 ![CLA Not Covered](<../../../.gitbook/assets/cla not covered.png>)
 
-4\. Click ![](../../../.gitbook/assets/lfx-easycla.png) or **Not Covered**.
+4\. Click ![](<../../../.gitbook/assets/lfx easycla.png>) or **Not Covered**.
 
 5\. Click **Authorize** (Subsequent contributions will not require authorization.).
 
 **Result:** The CLA Contributor Console appears in a new tab. ​
 
-![CLA CCLA Flow](../../../.gitbook/assets/cla-ccla-flow.png)
+![CLA CCLA Flow](<../../../.gitbook/assets/cla ccla flow.png>)
 
 6\. Click **Proceed as a Corporate Contributor**.
 
@@ -127,7 +127,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 * If your company is not in the list, you can add the company as described in [If your company is not in the list](broken-reference).
 {% endhint %}
 
-![Select Organization](../../../.gitbook/assets/select-organization.png)
+![Select Organization](<../../../.gitbook/assets/select organization.png>)
 
 8\. You will need to complete one of the following workflows:
 
@@ -141,14 +141,14 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 
 1. Click **+Click Here** next to the **Organization not listed?**
 
-![company not listed](../../../.gitbook/assets/company-not-listed.png)
+![company not listed](<../../../.gitbook/assets/company not listed.png>)
 
 2\. Provide organization website URL, and organization name in the respective fields.\
 **Note:** If the website URL is already associated with an organization, the organization name appears in the **Organization Name** field, and you cannot edit the name.
 
 3\. Click **Next**.
 
-![Create New Organization](../../../.gitbook/assets/create-new-organization.png)
+![Create New Organization](<../../../.gitbook/assets/create new organization.png>)
 
 4\. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
@@ -161,7 +161,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 
 If your company has not yet signed a CLA, the **No Signed CLA Found** window appears after selecting your company.
 
-![company has not signed cla](<../../../.gitbook/assets/company-has-not-signed-cla (1).png>)
+![company has not signed cla](<../../../.gitbook/assets/company has not signed cla (1).png>)
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
@@ -172,7 +172,7 @@ If your company has not yet signed a CLA, the **No Signed CLA Found** window app
 
 1. Click **Proceed** on the window that appears.
 
-![Proceed to Sign with SSO Account](../../../.gitbook/assets/proceed-to-sign-with-sso-account.png)
+![Proceed to Sign with SSO Account](<../../../.gitbook/assets/proceed to sign with SSO account.png>)
 
 {% hint style="info" %}
 **Note:** If you don't have a username (LF SSO Account) associated with The Linux Foundation, you will be redirected to the LF SSO Account creation page.
@@ -180,7 +180,7 @@ If your company has not yet signed a CLA, the **No Signed CLA Found** window app
 
 2\. Click **Proceed** again.
 
-![Redirecting to CLA Manager Console](../../../.gitbook/assets/redirecting-to-cla-manager-console.png)
+![Redirecting to CLA Manager Console](<../../../.gitbook/assets/redirecting to cla manager console.png>)
 
 3\. You will be redirected to the corporate console to [coordinate the CCLA signing process](broken-reference).
 
@@ -191,7 +191,7 @@ If your company has not yet signed a CLA, the **No Signed CLA Found** window app
 ### **No (If someone else will become the initial CLA Manager)**
 
 1. An **Identify CLA Manager** window appears.\
-   ![](<../../../.gitbook/assets/identify-cla-manager (1).png>)
+   ![](<../../../.gitbook/assets/identify cla manager (1).png>)
 2. Complete the form, and click **Submit Request**. If you don't know the email address of the person who should become the CLA Manager of your company, then (unless you just created the company record) you can click the **Contact Company Admin** link, which may let you reach out to your company's LFX administrative contact if your company has set someone up with this role.
 3. Click **Exit EasyCLA**.\
    You can contribute after your company signs the project's CCLA, and the CLA Manager adds you to the approved list.
@@ -206,10 +206,10 @@ If your company has signed a CCLA, but you have not yet been added to the approv
 
 1. Select one or more CLA Managers from the drop-down list whom you want to request to add you to the authorized list.
 
-![Request Authorization](../../../.gitbook/assets/request-authorization.png)
+![Request Authorization](<../../../.gitbook/assets/request authorization.png>)
 
 2\. Click **Request Authorization**.\
-![](../../../.gitbook/assets/request-submitted.png)
+![](<../../../.gitbook/assets/request submitted.png>)
 
 3\. Click **Exit EasyCLA**.
 
@@ -228,7 +228,7 @@ After the CCLA is signed and the CLA Manager adds you to the approved list, you 
 3. On the **Select Organization** window, select your company, and click **Proceed**.
 
 A window appears confirming your association with the company. Click** Exit EasyCLA**, and you will be redirected back to the GitHub or GitLab page where the CLA status will be updated. If it does not immediately update, please wait a moment and then refresh the page.\
-![](../../../.gitbook/assets/company-acknowledgement.png)
+![](<../../../.gitbook/assets/company acknowledgement.png>)
 
 ### For Gerrit:
 
@@ -239,7 +239,7 @@ A window appears confirming your association with the company. Click Exit EasyCL
 {% hint style="warning" %}
 **Important: **If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in **again, and then push the code.
 
-![](../../../.gitbook/assets/signout-gerrit.png) \
+![](<../../../.gitbook/assets/signout gerrit.png>) \
 
 {% endhint %}
 
@@ -248,15 +248,15 @@ A window appears confirming your association with the company. Click Exit EasyCL
 For certain projects, in addition to being authorized under your company's signed CCLA, you may also be required to individually sign an ICLA on your own behalf.
 
 1. If this is the case for your project, then after your CLA Manager adds you to the approved list, and after you [complete your company acknowledgement](broken-reference), then the following screen appears:\
-   ![](../../../.gitbook/assets/sign-icla-required.png)
+   ![](<../../../.gitbook/assets/sign icla required.png>)
 2. Click **Proceed**.
 3. On **CLA Ready For Signature** window, click **SIGN CLA**.\
-   ![](../../../.gitbook/assets/cla-ready-for-signature.png)
+   ![](<../../../.gitbook/assets/cla ready for signature.png>)
 4. Follow the instructions in DocuSign, sign the ICLA, and click **FINISH**.
 
 {% hint style="info" %}
 * **GitHub/GitLab Contributors:** Navigate to the GitHub/GitLab page. Wait a few seconds for the CLA status to be updated or refresh the page.
 *   **Gerrit Contributors: **If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in **again, and then push the code.
 
-    ![](../../../.gitbook/assets/signout-gerrit.png)
+    ![](<../../../.gitbook/assets/signout gerrit.png>)
 {% endhint %}

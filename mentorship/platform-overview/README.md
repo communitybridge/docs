@@ -26,7 +26,7 @@ To participate:
 
 ## Mentorships Tab <a href="dashboardoverview-projects" id="dashboardoverview-projects"></a>
 
-![](<../../.gitbook/assets/mentorships (1).png>)
+![](<../../.gitbook/assets/Mentorships (1).png>)
 
 Each Mentorship Program card contains the following information:
 
@@ -43,7 +43,7 @@ Each Mentorship Program card contains the following information:
 
 ## Mentees Tab <a href="dashboardoverview-mentors" id="dashboardoverview-mentors"></a>
 
-![](../../.gitbook/assets/mentees.png)
+![](../../.gitbook/assets/Mentees.png)
 
 **Mentees** tab shows mentee profile cards with the following information:&#x20;
 
@@ -56,7 +56,7 @@ Each Mentorship Program card contains the following information:
 
 ## Mentors Tab <a href="dashboardoverview-mentors" id="dashboardoverview-mentors"></a>
 
-![](../../.gitbook/assets/mentors.png)
+![](../../.gitbook/assets/Mentors.png)
 
 **Mentors** tab shows mentor profile cards with the following information :
 

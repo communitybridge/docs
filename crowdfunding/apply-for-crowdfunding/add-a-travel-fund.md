@@ -10,7 +10,7 @@ Have these items handy before you begin:
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
 2. Click **Apply** and select **ADD TRAVEL FUND**.\
    \
-   &#x20;![](../../.gitbook/assets/add-travel-fund.png)&#x20;
+   &#x20;![](<../../.gitbook/assets/add travel fund.png>)&#x20;
 3. Complete the [travel fund application form](../travel-fund-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application**.
 5. (Optional) Click **My Projects** tab to view your pending project.\

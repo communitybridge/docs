@@ -16,14 +16,14 @@ As a corporate (employee) contributor, you are contributing code on company's be
 * A cross next to your contributor name means the CLA check failed.
 {% endhint %}
 
-![](../../../.gitbook/assets/cla-github-individual-check-fail.png)
+![](<../../../.gitbook/assets/cla github individual check fail.png>)
 
-3\. Click ![](../../../.gitbook/assets/lfx-easycla.png)  or **Please click here to be authorized**.\
+3\. Click ![](<../../../.gitbook/assets/lfx easycla.png>)  or **Please click here to be authorized**.\
 **Note: **The Authorize Linux Foundation: EasyCLA dialog appears.
 
 4\. Click **Authorize LF-Engineering**. (Subsequent contributions will not require authorization.)
 
-​​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png)&#x20;
+​​ ![](<../../../.gitbook/assets/Authorize Linux Foundation EasyCLA.png>)&#x20;
 
 5\. The CLA Contributor Console appears and shows the CLA group for your project.
 
@@ -84,13 +84,13 @@ This message appears if you are added to the approved list, and your CLA doesn't
 
 1\. Read the Confirmation of Association statement and select the checkbox.
 
-![](<../../../.gitbook/assets/cla-github-confirmation-of-association (1).png>)
+![](../../../.gitbook/assets/cla-github-confirmation-of-association.png)
 
 2\. Click **CONTINUE**.
 
 A dialog appears and informs you: You are done!
 
-![](<../../../.gitbook/assets/cla-github-you-are-done (1) (1).png>)
+![](<../../../.gitbook/assets/cla-github-you-are-done (1).png>)
 
 3\. Click **RETURN TO REPO**.
 
@@ -106,14 +106,14 @@ You must be added to the approved list under a signed CCLA before you can contri
 
 1\. Click **CONTACT **under Contact the CLA Manager to be approved under their signed Corporate CLA.
 
-![Contact CLA Manager](../../../.gitbook/assets/contact-cla-manager.png)
+![Contact CLA Manager](<../../../.gitbook/assets/contact cla manager.png>)
 
 2\. Select an option, and complete the form.
 
 3\. Click **SEND**.\
 A message appears informing you that the e-mail is sent successfully.
 
-![](../../../.gitbook/assets/contact-cla-manager-form.png)
+![](<../../../.gitbook/assets/contact cla manager form.png>)
 
 {% hint style="info" %}
 You will receive an email notification if the CLA manager approves or rejects your request to be approved as a corporate contributor for the company.
@@ -128,7 +128,7 @@ If your company has not signed CLA, Verify Your Permission window appears. To pr
     **YES**— You will be redirected to the [CLA Corporate Console](https://corporate.v1.easycla.lfx.linuxfoundation.org) to [sign a CLA](../cla-manager/sign-a-corporate-cla-for-company.md).
 
     **NO**— A **Request Access** form appears. Continue to next step.\
-    &#x20;![](../../../.gitbook/assets/request-access.png)&#x20;
+    &#x20;![](<../../../.gitbook/assets/request access (1).png>)&#x20;
 2.  Complete the form and click **SEND**.
 
     The CCLA manager signs a Corporate CLA and adds you to the approved list.
@@ -145,7 +145,7 @@ If you don't find your company's name in the list:
     **YES**— You will be redirected to the [CLA Corporate Console](https://corporate.v1.easycla.lfx.linuxfoundation.org) to [add your company](../cla-manager/add-a-company-to-a-project.md) to a project.
 
     **NO**— A **Request Access** form appears. Continue to next step.\
-    &#x20;![](../../../.gitbook/assets/request-access.png)&#x20;
+    &#x20;![](<../../../.gitbook/assets/request access (1).png>)&#x20;
 3.  Complete the form and click **SEND**.
 
     The CCLA manager signs a Corporate CLA and adds you to the approved list.

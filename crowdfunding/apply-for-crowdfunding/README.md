@@ -31,7 +31,7 @@ Consider the following submission guidelines before you apply:
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
 2. Click **Apply **from the navigation bar, and then select an **option.**
 
-![Apply to enroll for Crowdfunding](../../.gitbook/assets/apply-project-for-crowdfunding.png)
+![Apply to enroll for Crowdfunding](<../../.gitbook/assets/apply project for crowdfunding.png>)
 
 * [Add GitHub Project](add-a-github-project.md)
 * [Add Git Project](add-a-git-project.md)

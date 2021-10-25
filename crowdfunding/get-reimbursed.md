@@ -27,7 +27,7 @@ You set up an Expensify account and link it to a bank or financial service accou
 The Linux Foundation requires that international (non-U.S.) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
 {% endhint %}
 
-{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
+{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 
@@ -35,7 +35,7 @@ As a beneficiary, you receive an invitation email from the Expensify Concierge i
 
 1\. Sign in to [https://www.expensify.com/signin](https://www.expensify.com/signin)\
 Ensure to use the same email address that the Expensify Concierge used to send you the invitation.\
-![](<../.gitbook/assets/7419228 (2) (2) (2) (2) (1).png>)
+![](<../.gitbook/assets/7419228 (2) (2) (2) (2).png>)
 
 3\. Record expenses in a report to submit them to the project administrator and the Linux Foundation for reimbursement.
 
@@ -45,7 +45,7 @@ Depending on your location:
 
 **International:** Upload a completed _The Linux Foundation Wire Transfer Form_ in place of a receipt.
 
-{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
+{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 

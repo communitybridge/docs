@@ -12,7 +12,7 @@ This example demonstrates how you can view GitHub issues and then analyze how ef
 
 **Follow these steps:**
 
-1. Click a **project name** of interest that shows the GitHub logo![](<../../.gitbook/assets/18088191 (4) (3) (2).png>)under data sources.
+1. Click a **project name** of interest that shows the GitHub logo![](<../../.gitbook/assets/18088191 (4) (3).png>)under data sources.
 2. From the **Issue Management** drop-down list, select **GitHub >** **PR Efficiency**.\
    A dashboard shows GitHub efficiency data. For details see, [Issue Management > GitHub > PR Efficiency](../technical-metrics/pull-request-management/github-pr.md#pr-efficiency).
 3. On **Efficiency Closing GitHub Issues** window, select an organization and project from drop-down lists, and click **Apply changes**.\

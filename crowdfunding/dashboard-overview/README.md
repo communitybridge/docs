@@ -57,7 +57,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Funds** **Distributed** - total expenses so far for the event
 * **Donate** - Click to [donate](../donate-sponsor/) to travel funds they want to support
 
-![Travel Funds](../../.gitbook/assets/travel-funds.png)
+![Travel Funds](<../../.gitbook/assets/travel funds.png>)
 
 ## Security Audits (OSTIF)
 
@@ -71,7 +71,7 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Funds Distributed** - total expenses so far
 * **Donate **- Click to [donate](../donate-sponsor/) funds to the project they want to support
 
-![Security Audits](../../.gitbook/assets/security-audits.png)
+![Security Audits](<../../.gitbook/assets/security audits.png>)
 
 ## General Funds
 
@@ -89,6 +89,6 @@ Each General Fund card shows the following information:
 
 
 
-![General Funds](../../.gitbook/assets/general-funds.png)
+![General Funds](<../../.gitbook/assets/general funds.png>)
 
 ****

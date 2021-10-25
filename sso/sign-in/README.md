@@ -4,7 +4,7 @@ To access protected Linux Foundation tools, you must sign in using your LF SSO a
 
 1\. On the **Sign In** window, enter your SSO account credentials and click **SIGN IN**.
 
-![](<../../.gitbook/assets/new-sso (1).png>)
+![](<../../.gitbook/assets/New SSO (1).png>)
 
 2\. The Single Sign-On service allows users to authenticate with social and 3rd party authentication providers instead of a username and password.
 

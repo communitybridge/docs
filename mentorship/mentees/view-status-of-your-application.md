@@ -8,7 +8,7 @@
 
 2\. The status of your application is listed on the mentorship program card.
 
-![](../../.gitbook/assets/mentorship-profile.png)
+![](<../../.gitbook/assets/Mentorship Profile.png>)
 
 Below is a description of each application status:
 

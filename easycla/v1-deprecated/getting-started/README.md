@@ -23,7 +23,7 @@ There are two types of CLAs:
 
 The following high-level diagram shows the different flows and roles that EasyCLA supports.
 
-![LFX EasyCLA Flow Diagram](../../../.gitbook/assets/cla-flow-diagram.png)
+![LFX EasyCLA Flow Diagram](<../../../.gitbook/assets/cla flow diagram.png>)
 
 ## What Role are You? <a href="what-role-are-you" id="what-role-are-you"></a>
 

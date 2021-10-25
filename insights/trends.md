@@ -17,7 +17,7 @@ You can [filter data by time range](filter-data/filter-data-by-time-range.md). F
 
 Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights.** **The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-![Global Trends](../.gitbook/assets/global-trends-card.png)
+![Global Trends](<../.gitbook/assets/global trends card.png>)
 
 Following are the twelve most important _Key Performance Indicators (KPIs)_ of all projects, displayed at the top:\
 
@@ -41,7 +41,7 @@ Following are the twelve most important _Key Performance Indicators (KPIs)_ of a
 
 Project Trends dashboards provide analytics of project performance data, such as how many contributors are contributing to your project, total number of code backlogs, issues, and many more for the project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-![Project Trends](../.gitbook/assets/project-dashboard.png)
+![Project Trends](<../.gitbook/assets/project dashboard.png>)
 
 Based on the project's configured data sources, following key project performance indicators are displayed at the top:
 
@@ -231,4 +231,4 @@ This shows aggregated data from the year 2000 till the current year and date. Th
 
 You can download a metric card in image (.png) format by clicking the download button from the top right corner of the card. It is applicable to all the metrics cards displayed  in Insights. Following is an example:
 
-![Downloading a Metrics Card](../.gitbook/assets/downloading-metrics.png)
+![Downloading a Metrics Card](<../.gitbook/assets/downloading metrics.png>)
