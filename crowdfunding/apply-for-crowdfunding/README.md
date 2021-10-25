@@ -1,10 +1,10 @@
 # Apply for Crowdfunding
 
-You can [submit an application](./#ApplyforFunding-SubmitanApplication) to receive financial support from organizations and individuals to grow your community. Submitted applications are reviewed by The Linux Foundation before they're published and visible on the Crowdfunding platform. Projects are reviewed based on the following factors: 
+You can [submit an application](./#ApplyforFunding-SubmitanApplication) to receive financial support from organizations and individuals to grow your community. Submitted applications are reviewed by The Linux Foundation before they're published and visible on the Crowdfunding platform. Projects are reviewed based on the following factors:&#x20;
 
-* Open source status - projects must be 100% open source 
+* Open source status - projects must be 100% open source&#x20;
 * Community-wide adoption
-* Alignment with The Linux Foundation’s support of open source initiative 
+* Alignment with The Linux Foundation’s support of open source initiative&#x20;
 
 ### Submission Guidelines
 
@@ -31,7 +31,7 @@ Consider the following submission guidelines before you apply:
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
 2. Click **Apply **from the navigation bar, and then select an **option.**
 
-![Apply to enroll for Crowdfunding](<../../.gitbook/assets/apply project for crowdfunding.png>)
+![Apply to enroll for Crowdfunding](../../.gitbook/assets/apply-project-for-crowdfunding.png)
 
 * [Add GitHub Project](add-a-github-project.md)
 * [Add Git Project](add-a-git-project.md)

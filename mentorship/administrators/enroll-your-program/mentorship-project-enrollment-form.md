@@ -1,6 +1,6 @@
 # Mentorship Project Enrollment Form
 
-Below are Mentorship enrollment form fields and their descriptions: 
+Below are Mentorship enrollment form fields and their descriptions:&#x20;
 
 | Name                     | Description                                                                                                                                                                                                                                                                                                                       |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,15 +22,15 @@ Below are Mentorship enrollment form fields and their descriptions:
 | **Project Mentors**                   | Added mentors will receive an email inviting them to create a profile and join your mentorship program.                                                                                                                                                                                                                                                                                            |
 | **Program Terms**                     | <p>Terms for your mentorship program. A program can have maximum two terms at the same time. </p><p><strong>Note: </strong>Program administrators can use any <em>Term</em> name during program creation. For example, Spring 2021, Summer 2021, Fall 2021, and so on.</p><p>For Full Time (FT) and Part Time (PT) distinction, please add FT or PT to the name, i.e. Spring 2021- FT</p><p>  </p> |
 
-![](<../../../.gitbook/assets/program setup page.png>)
+![](../../../.gitbook/assets/program-setup-page.png)
 
 ### Prerequisites Section <a href="mentorshipprojectapplication-prerequisites" id="mentorshipprojectapplication-prerequisites"></a>
 
-Program admins can select which prerequisite requirements mentees need to complete in order for their application to be considered for the program. Alternatively, they can create custom prerequisites by specifying names, due dates and whether they requires a file upload. 
+Program admins can select which prerequisite requirements mentees need to complete in order for their application to be considered for the program. Alternatively, they can create custom prerequisites by specifying names, due dates and whether they requires a file upload.&#x20;
 
 ![](../../../.gitbook/assets/prerequisites.png)
 
-![](<../../../.gitbook/assets/custom prerequisite.png>)
+![](../../../.gitbook/assets/custom-prerequisite.png)
 
 ### Terms and Conditions <a href="mentorshipprojectapplication-termsandconditions" id="mentorshipprojectapplication-termsandconditions"></a>
 

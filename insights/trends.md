@@ -17,7 +17,7 @@ You can [filter data by time range](filter-data/filter-data-by-time-range.md). F
 
 Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights.** **The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-![Global Trends](<../.gitbook/assets/global trends card.png>)
+![Global Trends](../.gitbook/assets/global-trends-card.png)
 
 Following are the twelve most important _Key Performance Indicators (KPIs)_ of all projects, displayed at the top:\
 
@@ -41,7 +41,7 @@ Following are the twelve most important _Key Performance Indicators (KPIs)_ of a
 
 Project Trends dashboards provide analytics of project performance data, such as how many contributors are contributing to your project, total number of code backlogs, issues, and many more for the project. These performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
-![Project Trends](<../.gitbook/assets/project dashboard.png>)
+![Project Trends](../.gitbook/assets/project-dashboard.png)
 
 Based on the project's configured data sources, following key project performance indicators are displayed at the top:
 
@@ -50,7 +50,7 @@ Based on the project's configured data sources, following key project performanc
 * Total number of lines of code added and modified
 * Total number of Pull Requests / Changesets submitted
 * Total number of builds being monitored
-* Total number of emails sent 
+* Total number of emails sent&#x20;
 * Total number of relevant mentions on social media channels
 * Total number of issues submitted
 * Total number of messages sent in different chat platforms of the project
@@ -63,9 +63,9 @@ Navigate to another project of the project group by selecting a project from **V
 
 #### **Metrics Details:**
 
-**Contributor Strength**: Shows graphs that display total number of contributors on a periodic basis during the selected time range, and represents a periodic growth in the aggregated count of [unique contributors](glossary.md#unique-contributors) analyzed during the selected time range. 
+**Contributor Strength**: Shows graphs that display total number of contributors on a periodic basis during the selected time range, and represents a periodic growth in the aggregated count of [unique contributors](glossary.md#unique-contributors) analyzed during the selected time range.&#x20;
 
-The grey colored rectangular card shows the following data in each slide: 
+The grey colored rectangular card shows the following data in each slide:&#x20;
 
 * The increment number in percentage
 * Monthly average contributor strength, and
@@ -74,13 +74,13 @@ The grey colored rectangular card shows the following data in each slide:
 **Contributor Growth And Retention:** Shows total count of contributors, active contributors, inactive contributors, and percentage of churn rate on a periodic basis during the selected time range. It also shows graphs representing the increment/decrement in active and inactive contributor numbers.
 
 {% hint style="info" %}
-1. **Active contributors** are those who have performed any code related activity, such as creating a PR or submitting a changeset or an issue, during the last 6 months. 
+1. **Active contributors** are those who have performed any code related activity, such as creating a PR or submitting a changeset or an issue, during the last 6 months.&#x20;
 2. If a contributor has not done any contribution to the project in the last 6 months, they are considered _**inactive**_.
 {% endhint %}
 
- Churn rate is calculated as:_`Total Inactive Contributors recorded at the end of the time period/  (Total Active Contributors recorded at the start + Total New Contributors who joined during the selected time period)`_
+&#x20;Churn rate is calculated as:_`Total Inactive Contributors recorded at the end of the time period/  (Total Active Contributors recorded at the start + Total New Contributors who joined during the selected time period)`_
 
-The grey colored rectangular card shows the following data in each slide: 
+The grey colored rectangular card shows the following data in each slide:&#x20;
 
 * Monthly average count of active contributors during the selected time range
 * Time period during which number of active contributors increased the most
@@ -130,7 +130,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Percentage of changes merged out of the total number of reviewed changes, percentage of changes merged without approval, and
 * Percentage of risky changes found during review that are not merged
 
-**PR Cycle Time:** Shows the sum of the average time taken in each step of the pull request or changeset cycle.  
+**PR Cycle Time:** Shows the sum of the average time taken in each step of the pull request or changeset cycle. &#x20;
 
 * Work in Progress: time taken for first review
 * Review: time in reviewing the changes
@@ -138,12 +138,12 @@ The grey colored rectangular card shows the following data in each slide:
 
 The grey colored rectangular card shows the following data in each slide:
 
-* Median time taken to first review a pull request, and 
+* Median time taken to first review a pull request, and&#x20;
 * Median time taken to first approve a pull request during the selected time range
 
 **PR Merge Efficiency: **Shows graph that displays total time taken to merge a pull request. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
 
-The grey colored rectangular card shows the following data in each slide: 
+The grey colored rectangular card shows the following data in each slide:&#x20;
 
 * Number of the pull requests merged during each time slot
 * The average merge efficiency time and percentage of pull requests that are merged within a week
@@ -155,7 +155,7 @@ The grey colored rectangular card shows the following data in each slide:
 
 * Monthly average number of backlog issues
 * Percentage of increment/decrement in new issues submitted
-* Average number of resolved issues, and 
+* Average number of resolved issues, and&#x20;
 * Average number of activities recorded in the issue management system during the selected time range
 
 **Issues Resolution Efficiency:** Shows graph that represents the median time taken to resolve (close or reject) an open issue. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
@@ -171,7 +171,7 @@ The grey colored rectangular card shows the following data in each slide:
 
 * The increment/decrement percentage in the success rate of all builds during the selected time range
 * Percentage rate in the increment/decrement of builds per day
-* Average number of builds executed per day, and 
+* Average number of builds executed per day, and&#x20;
 * Percentage rate in the increment/decrement of average build duration time taken during the selected time range
 
 **Active Communication Channel:** Shows different communication platforms the community is using the most. It displays the number of messages shared on a communication platform on a periodic basis.
@@ -179,7 +179,7 @@ The grey colored rectangular card shows the following data in each slide:
 The grey colored rectangular card shows the following data in each slide:
 
 * Average number of chats and emails sent per month
-* Average number of community members who participated in the conversations per month, and 
+* Average number of community members who participated in the conversations per month, and&#x20;
 * The communication platform that is used the most by community members during the selected time range
 
 **Organizational Engagement:** Shows colored circular dots that represent the percentage of commits made by affiliated contributors, unaffiliated contributors and independent contributors during the selected time range.
@@ -231,4 +231,4 @@ This shows aggregated data from the year 2000 till the current year and date. Th
 
 You can download a metric card in image (.png) format by clicking the download button from the top right corner of the card. It is applicable to all the metrics cards displayed  in Insights. Following is an example:
 
-![Downloading a Metrics Card](<../.gitbook/assets/downloading metrics.png>)
+![Downloading a Metrics Card](../.gitbook/assets/downloading-metrics.png)

@@ -8,11 +8,11 @@ Where: GitHub issue dashboards are available from the **Issue Management** drop-
 
 Users who cannot submit a pull request, but encounter problems with code can submit their bugs and feature requests as issues. The number of issues, and how they are addressed, can indicate your projects’ levels of user adoption as well as how responsive maintainers are to user needs. This number depends on how issues are tracked. Consider that issues may remain open longer for a project that uses GitHub issues only for bugs rather than one that uses issues for bugs and feature requests.
 
-This example demonstrates how you can view GitHub issues and then analyze how efficiently a project and its organizations handle the issues. How quickly a project closes issues can determine if you want to participate in the project. INSIGHTS lets you see how efficiently organizations and projects close issues. 
+This example demonstrates how you can view GitHub issues and then analyze how efficiently a project and its organizations handle the issues. How quickly a project closes issues can determine if you want to participate in the project. INSIGHTS lets you see how efficiently organizations and projects close issues.&#x20;
 
 **Follow these steps:**
 
-1. Click a **project name** of interest that shows the GitHub logo![](<../../.gitbook/assets/18088191 (4) (3).png>)under data sources.
+1. Click a **project name** of interest that shows the GitHub logo![](<../../.gitbook/assets/18088191 (4) (3) (2).png>)under data sources.
 2. From the **Issue Management** drop-down list, select **GitHub >** **PR Efficiency**.\
    A dashboard shows GitHub efficiency data. For details see, [Issue Management > GitHub > PR Efficiency](../technical-metrics/pull-request-management/github-pr.md#pr-efficiency).
 3. On **Efficiency Closing GitHub Issues** window, select an organization and project from drop-down lists, and click **Apply changes**.\

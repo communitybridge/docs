@@ -20,11 +20,11 @@ Integrated services for a project lets you see additional information about a pr
 
 **Stacks** shows the total number of companies and users with their company logos and profile images as well as company and individual apps the project uses as part of their stack. It gives an overview about the adoption of the project, and its impact across the industry at large.
 
-![](<../../.gitbook/assets/7416590 (1).png>)
+![](../../.gitbook/assets/7416590.png)
 
 ## Security <a href="integratedservicesforaproject-vulnerabilitydetection" id="integratedservicesforaproject-vulnerabilitydetection"></a>
 
 **Security **provides a scanning service to detect vulnerabilities in your project by severity of vulnerabilities discovered in the project repositories. Hover mouse over a severity level to log in to Security and view details.
 
-![](<../../.gitbook/assets/security report.png>)
+![](../../.gitbook/assets/security-report.png)
 

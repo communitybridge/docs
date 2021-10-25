@@ -23,7 +23,7 @@ Summary provides a high-level metrics about each data source for which the proje
 
 **Top 10 Channels **lists the top ten slack channels where most amount of communication is happening. It shows the channel name, number of messages per channel, and percentage of messages per channel. Following is an example of chat room dashboard:
 
-![Chat Room](<../../.gitbook/assets/chat room (1).png>)
+![Chat Room](<../../.gitbook/assets/chat-room (1).png>)
 
 ### **Mailing List**
 
@@ -37,9 +37,9 @@ Summary provides a high-level metrics about each data source for which the proje
 
 **Top 10 Email Senders **lists the top ten individuals—who communicate most in the project— by name, number of emails, and percentage of emails out of the total number of emails shared by the community.
 
-**Top 10 Mailing Lists **lists the top ten email lists where most number of communication is happening. It shows the list name, number of emails per list, and percentage of emails per list. 
+**Top 10 Mailing Lists **lists the top ten email lists where most number of communication is happening. It shows the list name, number of emails per list, and percentage of emails per list.&#x20;
 
-![Mailing List](<../../.gitbook/assets/mailing list.png>)
+![Mailing List](../../.gitbook/assets/mailing-list.png)
 
 ### **Documentation**
 
@@ -61,4 +61,4 @@ Summary provides a high-level metrics about each data source for which the proje
 
 **Key Messages** shows a doughnut chart that displays how many times the project and its competitors' search results are mentioned by consumers (unique users). Mouse over a color in the chart to see the number of mentions for a project out of the total mentions. For example, Linux Foundation is mentioned 4.88k times by consumers on different media platforms out of the total 6.52k times including its competitors' mentions as per the following data.
 
-![Earned Media](<../../.gitbook/assets/earned media.png>)
+![Earned Media](../../.gitbook/assets/earned-media.png)

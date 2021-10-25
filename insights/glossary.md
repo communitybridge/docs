@@ -24,7 +24,7 @@ A _backlog_ is a list of all things that need to be done within a project.
 
 ### Backlog Management Index
 
-_Backlog Management Index_ (BMI) is the number of closed issues divided by the number of open ones in a given period of time. 
+_Backlog Management Index_ (BMI) is the number of closed issues divided by the number of open ones in a given period of time.&#x20;
 
 ### Branch
 
@@ -44,7 +44,7 @@ A _commit_ is an individual change to a file or set of files. A _committer_ is a
 
 ### Confluence
 
-Atlassian _Confluence_ is a content tool that teams use to collaborate and share knowledge. Confluence lets users create pages and blogs, which all team members can comment on and edit. 
+Atlassian _Confluence_ is a content tool that teams use to collaborate and share knowledge. Confluence lets users create pages and blogs, which all team members can comment on and edit.&#x20;
 
 ### Contributor
 
@@ -73,7 +73,7 @@ Data sources are the collaboration tools or the remote servers that are used by 
 
 ### Free and Open Source Software (FOSS)
 
-_Free and Open Source Software (FOSS)_ development is software developed by informal collaborative networks of programmers. 
+_Free and Open Source Software (FOSS)_ development is software developed by informal collaborative networks of programmers.&#x20;
 
 ### Gerrit
 
@@ -83,7 +83,7 @@ _Gerrit_ is a free web-based team code collaboration tool. Software developers i
 
 _Git_ is an open source program for tracking changes in source code during software development.
 
-### GitHub ![](<../.gitbook/assets/18088191 (4) (3) (2).png>)
+### GitHub ![](<../.gitbook/assets/18088191 (4) (3) (3).png>)
 
 _GitHub_ is a web-based hosting service for version control using Git.
 
@@ -107,9 +107,9 @@ In GitHub, an _issue_ is a suggested improvement, task, or question that is rela
 
 _Jenkins_ is an open source continuous integration software tool for testing and reporting on changes in a code base in real time.
 
-### Jira ![](<../.gitbook/assets/18088260 (3) (3) (3) (3).png>)
+### Jira ![](<../.gitbook/assets/18088260 (3) (3) (3) (3) (2).png>)
 
-_Jira_ is an issue tracking product that allows bug tracking and agile project management. 
+_Jira_ is an issue tracking product that allows bug tracking and agile project management.&#x20;
 
 ### Label
 
@@ -125,7 +125,7 @@ A new contributor is someone who has never contributed to the project before, an
 
 ### Onion model analysis
 
-In GitHub, _onion model analysis_ defines the number and identity of core, regular, and casual contributors. These contributors are individuals who have done 80 percent (core), 15 percent (regular), and 5 percent (casual) of the contributions to a project. 
+In GitHub, _onion model analysis_ defines the number and identity of core, regular, and casual contributors. These contributors are individuals who have done 80 percent (core), 15 percent (regular), and 5 percent (casual) of the contributions to a project.&#x20;
 
 ### Open source community
 
@@ -162,7 +162,7 @@ A _repository_ is an element in GitHub that contains all the project files (incl
 
 ### Review Efficiency Index
 
-_Review Efficiency Index_ (REI) is the number of closed pull requests divided by the number of open ones in a given period of time. 
+_Review Efficiency Index_ (REI) is the number of closed pull requests divided by the number of open ones in a given period of time.&#x20;
 
 ### Slack ![](<../.gitbook/assets/18088264 (2) (2) (2) (2).png>)
 

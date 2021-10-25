@@ -12,4 +12,4 @@ You can toggle between Crowdfunding and Mentorship to gain an insight into the p
 1. Select a project you would like to view.
 2. From Crowdfunding project details page, click on **View Mentorship** CTA, and vice versa, from mentorship program details page, click on **View Crowdfunding** CTA.
 
-![Toggle to Mentorship](<../../.gitbook/assets/toggle to mentoship.png>)
+![Toggle to Mentorship](../../.gitbook/assets/toggle-to-mentoship.png)

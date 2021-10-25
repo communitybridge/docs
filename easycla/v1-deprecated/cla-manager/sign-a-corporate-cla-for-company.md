@@ -8,7 +8,7 @@ You must be authorized by your company to sign a Corporate CLA. If you are a CLA
 
 3\. Click **SIGN NEW CLA**.
 
-![](<../../../.gitbook/assets/sign new cla.png>)
+![](../../../.gitbook/assets/sign-new-cla.png)
 
 4\. The **Select a Project to Sign a CCLA** dialog appears and lists CLA groups.
 
@@ -32,9 +32,9 @@ The Corporate CLA dialog opens.
 2. Follow the instructions that DocuSign presents, sign it, and click **FINISH**. Some fields are pre-populated such as the company name and email.
 
 {% hint style="info" %}
-* You receive an email from The Linux Foundation, informing you that you have signed the CLA. 
+* You receive an email from The Linux Foundation, informing you that you have signed the CLA.&#x20;
 * You can download the PDF document by clicking the link form the email. You will be re-directed to Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.\
-   ![](<../../../.gitbook/assets/proceed to download ccla.png>) 
+  &#x20;![](../../../.gitbook/assets/proceed-to-download-ccla.png)&#x20;
 {% endhint %}
 
 ## NO <a href="no" id="no"></a>

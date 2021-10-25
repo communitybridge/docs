@@ -10,4 +10,4 @@ To view mentee profile:
    * **Current Mentees** shows mentees for the current term
    * **Past Mentees** shows mentees for the past terms
 
-![](<../../.gitbook/assets/mentee profile (1).png>)
+![](<../../.gitbook/assets/mentee-profile (2).png>)

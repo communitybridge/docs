@@ -1,6 +1,6 @@
 # Open LFX Security
 
-LFX Security detects vulnerabilities in the LFX projects. Projects that are part of the LFX receive free daily scans through the LFX Security service in order to detect vulnerabilities in code repositories as well as library dependencies. LFX projects include a Vulnerability Report, which gives an overview of vulnerability severities. 
+LFX Security detects vulnerabilities in the LFX projects. Projects that are part of the LFX receive free daily scans through the LFX Security service in order to detect vulnerabilities in code repositories as well as library dependencies. LFX projects include a Vulnerability Report, which gives an overview of vulnerability severities.&#x20;
 
 {% hint style="warning" %}
 Only project maintainers can access Vulnerability Detection details to gain visibility into open security issues and paths to remediation.
@@ -21,7 +21,7 @@ To see vulnerability scan details for projects from LFX Funding:
 
 2.From dashboard, click a **project** of interest or click **My Projects** to see your projects.
 
-![My Projects](<../.gitbook/assets/new_search (1) (1) (1) (1) (1).png>)
+![My Projects](<../.gitbook/assets/new\_search (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 You can also search for the required project, using the Search box.
@@ -32,9 +32,9 @@ You can also search for the required project, using the Search box.
 4.Navigate to the Vulnerability Report card, and click a **severity level**.\
 **Note: **Log in if a Login Now prompt appears.\
 \
- ![](<../.gitbook/assets/funding vulnerability report.png>) \
+&#x20;![](../.gitbook/assets/funding-vulnerability-report.png) \
 \
-LFX Security appears and shows the Overview dashboard. 
+LFX Security appears and shows the Overview dashboard.&#x20;
 
 5.Access other dashboards by selecting a menu name to investigate vulnerabilities by using the data in the dashboards
 
@@ -48,19 +48,17 @@ A dashboard shows various aspects of the project, and a Vulnerability Report.\
 
 2.Click **My Projects** to see your projects.
 
-![My Projects](<../.gitbook/assets/new_search (1) (1) (1) (1).png>)
+![My Projects](<../.gitbook/assets/new\_search (1) (1) (1) (1) (1) (1).png>)
 
 3.On a project card of interest, click **View Issues**.
 
-![View Issues](<../.gitbook/assets/New_card (1).png>)
+![View Issues](<../.gitbook/assets/new\_card (1).png>)
 
-{% hint style="info" %}
-The **View Scan Report** provides  you the scan details of the repositories and link to access those repositories along with scan error details.
-{% endhint %}
+4.An authorization page appears if your logging into view issues for the first time.  Once you have validated your account, the authorization page will not appear when you want to view issues. You can see the Overview page as explained in Step 5. For more information,  please refer Authorization Page. &#x20;
 
-4.The Overview page appears with the details for the selected project. 
+5.The Overview page appears with the details for the selected project.&#x20;
 
-![Overview](<../.gitbook/assets/ovn1 (1).png>)
+![Overview](../.gitbook/assets/ovn1.png)
 
 ### Requesting Access to view Vulnerability Report
 
@@ -68,15 +66,15 @@ If you are not authorized to see vulnerability report for a project, **Not Autho
 
 1.Click **Request Access**.
 
-![Request Access](../.gitbook/assets/Request_New_Access.png)
+![Request Access](../.gitbook/assets/request\_new\_access.png)
 
-2.The Not Authorized dialog box appears. Click **Request Access**. 
+2.The Not Authorized dialog box appears. Click **Request Access**.&#x20;
 
-![](../.gitbook/assets/Request_Access_Dialog.png)
+![](../.gitbook/assets/request\_access\_dialog.png)
 
 3.The LFX Security help center request form opens. Enter the details and click **Create**.
 
-![](../.gitbook/assets/Access.png)
+![](../.gitbook/assets/access.png)
 
 {% hint style="info" %}
 LFX support team reviews your request and informs you about your access permission.
@@ -88,17 +86,17 @@ A Foundation project group is a group of individual projects. Normally Foundatio
 
 A Foundation  project with group of individual projects are displayed as shown in the following image:
 
-![Foundation Projects](../.gitbook/assets/NLF1.png)
+![Foundation Projects](../.gitbook/assets/nlf1.png)
 
 #### View Individual Projects in the Foundation Project
 
-You can view the individual projects that are stacked in the Foundation project and check the issues related to the individual projects.  
+You can view the individual projects that are stacked in the Foundation project and check the issues related to the individual projects. &#x20;
 
 To view the individual projects, perform the following steps:
 
-1.Click **Go to Projects** from the Foundation project. 
+1.Click **Go to Projects** from the Foundation project.&#x20;
 
-![Go to Projects](../.gitbook/assets/NLF2.png)
+![Go to Projects](../.gitbook/assets/nlf2.png)
 
 2.The Security Summary is displayed along with the list of Individual project cards. The following Project Summary details are listed:
 
@@ -106,22 +104,22 @@ To view the individual projects, perform the following steps:
 * Projects Successfully Scanned
 * Projects Partially Scanned
 * Issues Open
-* Fixable Issues 
+* Fixable Issues&#x20;
 * Issues Fixed
-* Languages 
-* Upstream Dependencies 
+* Languages&#x20;
+* Upstream Dependencies&#x20;
 * Types of Licenses Found
 
-![Security Summary](../.gitbook/assets/FP1.png)
+![Security Summary](../.gitbook/assets/fp1.png)
 
 {% hint style="info" %}
-The warning ![](../.gitbook/assets/War.png) icon provides information on why the security scan is failed for the repositories. 
+The warning ![](../.gitbook/assets/war.png) icon provides information on why the security scan is failed for the repositories.&#x20;
 {% endhint %}
 
-3\. You can also check the issues related to the individual project by click of **View Issues**. 
+3\. You can also check the issues related to the individual project by click of **View Issues**.&#x20;
 
 {% hint style="info" %}
-You might see **Request Access**, if you do not have the access to the project. 
+You might see **Request Access**, if you do not have the access to the project.&#x20;
 {% endhint %}
 
 ## Security Leaderboard
@@ -133,7 +131,7 @@ Security Leaderboard is a type of dashboard that provides prominent statistics r
 * Top 10 Projects Most Active in Fixing Vulnerabilities
 * Top 10 Projects by Repositories Scanned
 
-![Security Leaderboard](../.gitbook/assets/SW1.png)
+![Security Leaderboard](../.gitbook/assets/sw1.png)
 
 ### Scanned Repositories, Vulnerabilities and Fixes
 
@@ -141,38 +139,38 @@ The Security Leaderboard dashboard provides overview information on the reposito
 
 * Number of scanned repositories
 * Number of vulnerabilities detected in the repositories
-* Number of recommended fixes provides for the detected vulnerability 
-* Number of fixed vulnerabilities 
+* Number of recommended fixes provides for the detected vulnerability&#x20;
+* Number of fixed vulnerabilities&#x20;
 
-![Statistical Information on Repositories, Vulnerabilities and Fixes](../.gitbook/assets/SW2.png)
+![Statistical Information on Repositories, Vulnerabilities and Fixes](../.gitbook/assets/sw2.png)
 
 ### Top 10 Most Impactful Fixable Vulnerabilities
 
 Top 10 most impactful fixable vulnerabilities list shows you the top 10 fixable vulnerabilities along with the repositories impacted with the vulnerabilities, CVE and CWE. This list auto scrolls when you hover over the mouse on the list.
 
-![Top 10 Most Impactful Fixable Vulnerabilities](../.gitbook/assets/SW3.png)
+![Top 10 Most Impactful Fixable Vulnerabilities](../.gitbook/assets/sw3.png)
 
 ### Top 10 Projects Most Active in fixing vulnerabilities
 
 Top 10 projects most active in fixing vulnerabilities list shows you the top 10 projects  that have actively fixed the detected vulnerabilities. The list provides you the project name and the number of vulnerabilities fixed. This list auto scrolls when you hover over the mouse on the list.
 
-![Top 10 Projects Most Active in Fixing Vulnerabilities](../.gitbook/assets/SW4.png)
+![Top 10 Projects Most Active in Fixing Vulnerabilities](../.gitbook/assets/sw4.png)
 
 ### Top 10 Projects by Repositories Scanned
 
 Top 10 projects by repositories scanned list shows you the top 10 projects with the highest number of repositories scanned in the project. The list provides you the project name and the number of repositories scanned for the project. This list auto scrolls when you hover over the mouse on the list.
 
-![Top 10 Projects by Repositories Scanned](../.gitbook/assets/SW5.png)
+![Top 10 Projects by Repositories Scanned](../.gitbook/assets/sw5.png)
 
 
 
- 
+&#x20;
 
 
 
 
 
- 
+&#x20;
 
 
 

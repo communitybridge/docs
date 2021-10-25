@@ -8,7 +8,7 @@ The Jenkins dashboards under CI/CD drop-down list represents a set of metrics th
 * [Nodes](jenkins.md#nodes)
 * [Build data](jenkins.md#build-data)
 
-Click ![](<../../../.gitbook/assets/get short url.png>) to share the path of respective dashboards.
+Click ![](../../../.gitbook/assets/get-short-url.png) to share the path of respective dashboards.
 
 ## Overview
 
@@ -28,7 +28,7 @@ Overview shows an overview of Jenkins build and job data over time.
 
 **Nodes **shows a table that lists name of node, number of builds, median or 50th percentile of duration in minute,  and total duration in minute per node.
 
-**Builds **shows a table that lets you sort values by build date and time, job name with build number (job_build), URLs for build and job, type of result, node on which the job is built, and time taken in minutes to execute the build.
+**Builds **shows a table that lets you sort values by build date and time, job name with build number (job\_build), URLs for build and job, type of result, node on which the job is built, and time taken in minutes to execute the build.
 
 ## Jobs
 

@@ -6,7 +6,7 @@ Individual Dashboard (also known as MyProfile) is your self-service hub for all 
 Information in your profile is subject to the Linux Foundation's [Privacy Policy](https://linuxfoundation.org/privacy)
 {% endhint %}
 
-Select a topic below to view detailed information about that section. 
+Select a topic below to view detailed information about that section.&#x20;
 
 * [Edit My Information](managing-your-profile.md)
 * [Change Password](changing-account-password.md)
@@ -15,14 +15,14 @@ Select a topic below to view detailed information about that section.
 * [Connect Accounts](linking-social-accounts.md)
 * [Add Registered Emails](adding-alternative-emails.md)
 * [Purchase Linux.com Email Alias](purchasing-linux-email.md)
-* [View Participation in Events](viewing-the-events.md)  
+* [View Participation in Events](viewing-the-events.md) &#x20;
 * [View Roles](view-roles.md)
 * [View Training and Certifications ](viewing-training-and-certifications.md)
 * [View Transactions](viewing-the-transactions.md)
 
-![My Profile - Identities and Affiliations](<../.gitbook/assets/My Profile Identities & Badges (1).png>)
+![My Profile - Identities and Affiliations](<../.gitbook/assets/my-profile-identities-and-badges (3).png>)
 
-![MyProfile - Events and Community Participation](<../.gitbook/assets/MyProfile - Events and Community Participation (1).png>)
+![MyProfile - Events and Community Participation](<../.gitbook/assets/myprofile-events-and-community-participation (3).png>)
 
-![MyProfile - Training & Certifications and Transactions](<../.gitbook/assets/My Profile Training & Certifications and Transactions.png>)
+![MyProfile - Training & Certifications and Transactions](../.gitbook/assets/my-profile-training-and-certifications-and-transactions.png)
 

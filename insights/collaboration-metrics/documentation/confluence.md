@@ -4,7 +4,7 @@
 By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of confluence dashboard.
+Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of confluence dashboard.
 
 The Confluence dashboard is available from the **Documentation** drop-down list, and represents a set of metrics that shows information about confluence pages.
 

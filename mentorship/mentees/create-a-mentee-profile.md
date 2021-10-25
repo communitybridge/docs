@@ -2,7 +2,7 @@
 
 1\. To create a mentee profile, [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org) and select **Become a Mentee** navigation menu item.
 
-![](<../../.gitbook/assets/Become a Mentee (1).png>)
+![](<../../.gitbook/assets/become-a-mentee (1).png>)
 
 {% hint style="info" %}
 Keep these items ready before you begin:
@@ -33,21 +33,21 @@ Keep these items ready before you begin:
 Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 {% endhint %}
 
-4\. Select the **Terms and Conditions **checkbox, and click **Submit**. 
+4\. Select the **Terms and Conditions **checkbox, and click **Submit**.&#x20;
 
 ## User Information <a href="createamenteeprofile-menteeprofile" id="createamenteeprofile-menteeprofile"></a>
 
-Your name and email fields are auto-populated from your Linux Foundation account. Upload an avatar image, which will appears on your mentee card. 
+Your name and email fields are auto-populated from your Linux Foundation account. Upload an avatar image, which will appears on your mentee card.&#x20;
 
 ## Introduction <a href="createamenteeprofile-introduction" id="createamenteeprofile-introduction"></a>
 
-Introduce yourself by answering the questions required to complete this section. 
+Introduce yourself by answering the questions required to complete this section.&#x20;
 
-![Introduction](<../../.gitbook/assets/mentee introduction.png>)
+![Introduction](../../.gitbook/assets/mentee-introduction.png)
 
 ## Mailing Address <a href="createamenteeprofile-mailingaddress" id="createamenteeprofile-mailingaddress"></a>
 
-Provide a mailing address. 
+Provide a mailing address.&#x20;
 
 ![Mentee Mailing Address](<../../.gitbook/assets/7418798 (1).jpg>)
 
@@ -59,7 +59,7 @@ Provide links to your external profiles and upload your resume. Mentee resumes w
 
 ## Skills <a href="createamenteeprofile-skills" id="createamenteeprofile-skills"></a>
 
-Click on **+Add skill** CTA to add your current skills and skills that you want to improve. These are important for the admin and mentors to determine if you're a good fit fo the program. 
+Click on **+Add skill** CTA to add your current skills and skills that you want to improve. These are important for the admin and mentors to determine if you're a good fit fo the program.&#x20;
 
 ## Demographics <a href="createamenteeprofile-demographics" id="createamenteeprofile-demographics"></a>
 

@@ -23,7 +23,7 @@ The overview shows some or all of the following items depending on the data that
 \
 View an example of a travel fund overview section:
 
-![Travel Fund Overview](<../../.gitbook/assets/travel fund overview.png>)
+![Travel Fund Overview](../../.gitbook/assets/travel-fund-overview.png)
 
 ## Dashboard <a href="travelscholarships-dashboard" id="travelscholarships-dashboard"></a>
 
@@ -40,7 +40,7 @@ The Dashboard shows various aspects of the fund depending on the data that is av
 
 View an example of a travel fund dashboard section:
 
-![](<../../.gitbook/assets/7418524 (1) (1) (1) (1).jpg>)
+![](<../../.gitbook/assets/7418524 (1) (1) (1) (1) (1) (1).jpg>)
 
 ## Financial <a href="travelscholarships-financial" id="travelscholarships-financial"></a>
 
@@ -48,4 +48,4 @@ The Financial tab lists all transactions with details in chronological order.
 
 View an example of a travel fund financial tab section:
 
-![](<../../.gitbook/assets/7418651 (2) (2) (2).jpg>)
+![](<../../.gitbook/assets/7418651 (2) (2) (2) (2) (2).jpg>)

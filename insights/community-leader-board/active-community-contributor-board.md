@@ -8,7 +8,7 @@ Active Community Contributor board displays an aggregated data of individual con
 * Click **Export** to download the table data to a `.csv` file.
 * The Active Community Leaderboard Table lets you sort by values except Author Name, Organization name, and Email Id of contributors.
 
-![Active Community Contributor Board](<../../.gitbook/assets/active community contributor board.png>)
+![Active Community Contributor Board](../../.gitbook/assets/active-community-contributor-board.png)
 
 | Name              |                                   | Description                                                                                                                                                           |
 | ----------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

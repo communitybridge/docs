@@ -11,19 +11,19 @@ To sign the CCLA, after someone else has coordinated the CCLA signing process an
 2\. Click **the link** in the email to review and sign CLA.​\
 The "Preparing CCLA" dialog opens.
 
-![Preparing CCLA](<../../../.gitbook/assets/preparing ccla.png>)
+![Preparing CCLA](../../../.gitbook/assets/preparing-ccla.png)
 
-3\. After the CCLA preparation is complete, click **Sign CCLA**.  
+3\. After the CCLA preparation is complete, click **Sign CCLA**. &#x20;
 
-![CCLA ready for Signature](<../../../.gitbook/assets/ccla ready for signature.png>)
+![CCLA ready for Signature](../../../.gitbook/assets/ccla-ready-for-signature.png)
 
 **Result:** You will be redirected to complete the DocuSign process.
 
 4\. Select the check box to agree to use electronic signatures, and click **Continue**. Follow the instructions in the DocuSign document to fill in the required fields, sign the CCLA, and click **Finish**.
 
-![](<../../../.gitbook/assets/docusign icla flow.png>)
+![](../../../.gitbook/assets/docusign-icla-flow.png)
 
 {% hint style="info" %}
 * After signing the CCLA, you will receive an email from The Linux Foundation confirming that it was signed.
-* You can download the signed PDF document by clicking the link from that email, where you will be redirected to The Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](<../../../.gitbook/assets/proceed to download ccla.png>)
+* You can download the signed PDF document by clicking the link from that email, where you will be redirected to The Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.  ![](../../../.gitbook/assets/proceed-to-download-ccla.png)
 {% endhint %}

@@ -37,14 +37,14 @@ An identity relates a profile with a unique identity.
 1\. Click** Add New**.\
 The Add an Identity pane appears:
 
-![Add New Identity](<../../.gitbook/assets/add new identity.png>)
+![Add New Identity](../../.gitbook/assets/add-new-identity.png)
 
 2\. Type a name or email in the **Search** field, and press **Enter**.\
 Matching results appear.
 
 3\. Find the unaffiliated identity (Affiliations is blank) that you want to add, and click **Add** on the row.
 
-![Add an Idenityt](<../../.gitbook/assets/add an identity.png>)
+![Add an Idenityt](../../.gitbook/assets/add-an-identity.png)
 
 4\. Click **X** to close the window.\
 The added identity is listed in Profile Identities.
@@ -55,4 +55,4 @@ After you add a unique identity to a profile, the identity appears under Identit
 
 Click **Unmerge**, and confirm** **to unmerge the unique identity from the user profile.
 
-![Unmerge Identity](<../../.gitbook/assets/unmerge identity.png>)
+![Unmerge Identity](../../.gitbook/assets/unmerge-identity.png)

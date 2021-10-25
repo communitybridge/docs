@@ -6,15 +6,15 @@ You can use your LinkedIn login credentials to sign in to the protected Linux Fo
 
 1\. On the **SSO login page**, click on the LinkedIn icon to sign in with your LinkedIn account.
 
-![Sign in with Linkedin](<../../.gitbook/assets/sign in with linkedin.png>)
+![Sign in with Linkedin](../../.gitbook/assets/sign-in-with-linkedin.png)
 
-2\. Enter your LinkedIn login credentials, and click on **Sign in** CTA icon.        
+2\. Enter your LinkedIn login credentials, and click on **Sign in** CTA icon.       &#x20;
 
-![Create Account](<../../.gitbook/assets/Screen Shot 2020-05-04 at 7.22.48 PM.png>)
+![Create Account](../../.gitbook/assets/screen-shot-2020-05-04-at-7.22.48-pm.png)
 
-4\. If you have an existing LF account, the Linux Foundation will map it to you LinkedIn login. If you don't have an LF Account associated with the email address you're using, you will be navigated to **Create your LF Account **page.                                                                            
+4\. If you have an existing LF account, the Linux Foundation will map it to you LinkedIn login. If you don't have an LF Account associated with the email address you're using, you will be navigated to **Create your LF Account **page.                                                                           &#x20;
 
-![](<../../.gitbook/assets/Create LF Account if authenticating via Other.png>)
+![](../../.gitbook/assets/create-lf-account-if-authenticating-via-other.png)
 
 5\.  Enter username, and click on **Create Account **CTA button. You will be redirected to the Linux Foundation service page that you are trying to access.
 

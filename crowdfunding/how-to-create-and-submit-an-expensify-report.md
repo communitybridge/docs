@@ -9,23 +9,23 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 2\. Under your account, select **Reports **tab.
 
-![](../.gitbook/assets/Reports.png)
+![](../.gitbook/assets/reports.png)
 
 3\. On **Reports** page, click **New Report** located at the top-right corner of your screen.
 
-![](<../.gitbook/assets/New Report.png>)
+![](../.gitbook/assets/new-report.png)
 
 4\. Write a Report Name that must include your name, and the name and year of the event, for example:`Jane Brown - Open Source Summit + Embedded Linux Conference North America 2020`
 
 5\. Click **Add Expenses** to add expenses to the report.
 
-![](<../.gitbook/assets/Add Expenses.png>)
+![](../.gitbook/assets/add-expenses.png)
 
 6\. On **Add Expense To Report** window, click **New Expense**.
 
-![](<../.gitbook/assets/New Expense.png>)
+![](../.gitbook/assets/new-expense.png)
 
-6\. Click ![](<../.gitbook/assets/plus icon.png>) on **New Expense** window to add receipt, and provide the following details:\
+6\. Click ![](../.gitbook/assets/plus-icon.png) on **New Expense** window to add receipt, and provide the following details:\
 **Merchant:** Name of the Merchant.\
 **Date:** Date of Purchase\
 **Total:** Total amount in USD$\
@@ -36,21 +36,21 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 ![New Expense](<../.gitbook/assets/New Expense (1).png>)
 
- 7\. Click **Save **and repeat Step 6 if you want to add more receipts.
+&#x20;7\. Click **Save **and repeat Step 6 if you want to add more receipts.
 
-![](<../.gitbook/assets/Create an Expense.png>)
+![](../.gitbook/assets/create-an-expense.png)
 
 {% hint style="warning" %}
 **Important:** For International (non-U.S.) reimbursements, upload a completed _The Linux Foundation Wire Transfer Form_, attached below, in addition to your receipt(s).
 {% endhint %}
 
-{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
+{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
 Wire Transfer Form
 {% endfile %}
 
 8\. After you add all the expenses click **Submit** located at the top left the **Reports** screen.
 
-![](<../.gitbook/assets/Submit Report.png>)
+![](../.gitbook/assets/submit-report.png)
 
 
 
@@ -58,4 +58,4 @@ Wire Transfer Form
 **Important**:  If you reside in the United States, add a US bank deposit account to Expensify by navigating to  **Settings** >** Account** > **Payments **>** Bank Accounts **as shown below.
 {% endhint %}
 
-![For U.S. Residents](<../.gitbook/assets/Add US Bank Account.png>)
+![For U.S. Residents](../.gitbook/assets/add-us-bank-account.png)

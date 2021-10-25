@@ -4,7 +4,7 @@
 By default, Bot Commits are filtered, however, you can include the filter value by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
+Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
 The Bugzilla dashboard is available from the **Issue Management** drop-down list, and represents the following dashboards:
 
@@ -20,7 +20,7 @@ Overview shows information about issues and submitters in Bugzilla organizations
 
 **Issues** shows the total number of Issues, Submitters, and Products.
 
-**Issues by Status Over Time** shows a stacked bar graph that represents the number of issues by status per day over time such as: RESOLVED, CONFIRMED, IN_PROGRESS, VERIFIED, UNCONFIRMED. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
+**Issues by Status Over Time** shows a stacked bar graph that represents the number of issues by status per day over time such as: RESOLVED, CONFIRMED, IN\_PROGRESS, VERIFIED, UNCONFIRMED. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
 **Submitters by Organization** shows a doughnut chart that represents the total number of submitters in the project by organization. Mouse over a color in the chart to see the total number of submitters for the organization, and their percentage of the project's organization.
 
@@ -52,7 +52,7 @@ Backlog focuses on open issues, their accumulated time, and associated organizat
 
 **Projects **shows a table that lets you sort values by project name, number of open issues, and average time in days the issues are open.
 
-**bugzilla_openissues_per_organization** shows a table that lets you sort values by organization name, number of open issues, and average time in days the issues are open for an organization.
+**bugzilla\_openissues\_per\_organization** shows a table that lets you sort values by organization name, number of open issues, and average time in days the issues are open for an organization.
 
 ## Timing
 

@@ -15,7 +15,7 @@ The Gerrit Changesets dashboards represent a set of metrics that shows detailed 
 
 By default, **Bots** and **Changesets Only** filters are applied. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
 
-Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
+Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
 ## Overview
 
@@ -119,7 +119,7 @@ Approvals shows statistics about changesets that are approved. The dashboard sho
 
 **Filter **lets you filter the dashboard data by repository, author who submitted changesets and author who approved changesets. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary **shows 
+**Summary **shows&#x20;
 
 * Approvals: Sum of all approvals given on all the changesets
 * Changesets Approved: Number of changesets that were given an approval

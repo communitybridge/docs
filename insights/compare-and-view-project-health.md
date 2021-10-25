@@ -85,16 +85,16 @@ Each section displays the following metrics:
 
 ### **To View Project Health Dashboard:**
 
- 1\. Go to[ https://insights.lfx.linuxfoundation.org/](https://insights.lfx.linuxfoundation.org)
+&#x20;1\. Go to[ https://insights.lfx.linuxfoundation.org/](https://insights.lfx.linuxfoundation.org)
 
 2\. From the top left corner, click Compare Project Health.
 
-![Compare Project Health](https://lh5.googleusercontent.com/jkn4-dxyPJSXTkbZKrpvsv56tnE8v0Alhsfc5\_1Ok_P8MHuD-hMPhVx8Q_nw8U42RgIDJrooQ1n6SmODF4VcYIGbfCJXxFHN_i1yc8X4-acn0fgHRxRz3zAXbCMbp33ekFlul0i2)
+![Compare Project Health](https://lh5.googleusercontent.com/jkn4-dxyPJSXTkbZKrpvsv56tnE8v0Alhsfc5\_1Ok\_P8MHuD-hMPhVx8Q\_nw8U42RgIDJrooQ1n6SmODF4VcYIGbfCJXxFHN\_i1yc8X4-acn0fgHRxRz3zAXbCMbp33ekFlul0i2)
 
 3\. Type and select a project in the **Search Projects** field.
 
 4\. Click **+Project** to add a new field to select and compare projects. \
 **Note: **Default time range is “All”. Select a time range from the available options to change the metrics for the time period.
 
-![Compare Project Health](<../.gitbook/assets/compare project health.png>)
+![Compare Project Health](../.gitbook/assets/compare-project-health.png)
 

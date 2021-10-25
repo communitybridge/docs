@@ -18,13 +18,13 @@ Upon creating a pull request in GitHub or GitLab or submitting changed code in G
 2. A cross next to a contributor's name means the EasyCLA check has failed, because the contributor is not authorized under a signed CLA.
 {% endhint %}
 
-![CLA Check Failed](<../../../.gitbook/assets/cla github individual check fail.png>)
+![CLA Check Failed](../../../.gitbook/assets/cla-github-individual-check-fail.png)
 
-3\. Click![](<../../../.gitbook/assets/lfx easycla.png>) or **Please click here to be authorized**.
+3\. Click![](../../../.gitbook/assets/lfx-easycla.png) or **Please click here to be authorized**.
 
 4\. Click **Authorize LF-Engineering**. (Subsequent contributions will not require this authorization.)
 
-​ ![](<../../../.gitbook/assets/Authorize Linux Foundation EasyCLA.png>) ​
+​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png) ​
 
 The CLA Contributor Console appears and shows the CLA group for your project.
 
@@ -32,26 +32,26 @@ The CLA Contributor Console appears and shows the CLA group for your project.
 **Note:** If the project is not configured to use ICLAs, then **Proceed as an Individual Contributor** is inactive. In this case, individuals would not be able to contribute on their own behalf.
 {% endhint %}
 
-![CLA ICLA Flow](<../../../.gitbook/assets/cla icla flow.png>)
+![CLA ICLA Flow](../../../.gitbook/assets/cla-icla-flow.png)
 
 5\. Click **Proceed as an Individual Contributor**.\
-![](<../../../.gitbook/assets/preparing cla.png>)
+![](../../../.gitbook/assets/preparing-cla.png)
 
 6\. After the **CLA Ready For Signature** window appears, click **SIGN CLA**.
 
-![CLA Ready for Signature](<../../../.gitbook/assets/cla ready for signature.png>)
+![CLA Ready for Signature](../../../.gitbook/assets/cla-ready-for-signature.png)
 
 DocuSign presents the ICLA document for your signature.
 
-![DocuSign](<../../../.gitbook/assets/docusign icla flow.png>)
+![DocuSign](../../../.gitbook/assets/docusign-icla-flow.png)
 
 7\. Select the check box and click **CONTINUE**. Follow the instructions in the DocuSign document, fill in the indicated fields, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**
 
-* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA. 
-* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download icla.png>) 
+* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA.&#x20;
+* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png)&#x20;
 {% endhint %}
 
 You are redirected to GitHub. Wait a few seconds or refresh the page for the EasyCLA status to be updated. A check mark appears next to your branch.
@@ -82,21 +82,21 @@ You are redirected to GitHub. Wait a few seconds or refresh the page for the Eas
 
 8\. Select **Individual CLA (ICLA)**, and click **Please review the agreement**.
 
-![ICLA User Flow](<../../../.gitbook/assets/icla flow.png>)
+![ICLA User Flow](../../../.gitbook/assets/icla-flow.png)
 
 9\. Click **Proceed To Individual Authorization**.
 
-![Proceed to Individual Authorization](<../../../.gitbook/assets/proceed to individual authorization.png>)
+![Proceed to Individual Authorization](../../../.gitbook/assets/proceed-to-individual-authorization.png)
 
 10\. Sign in if you are prompted, and you will be redirected to the Contributor Console.
 
 11\. After CLA preparation is completed, click **Sign CLA**.
 
-![CLA Ready for Signature](<../../../.gitbook/assets/cla ready for signature.png>)
+![CLA Ready for Signature](../../../.gitbook/assets/cla-ready-for-signature.png)
 
 DocuSign presents the ICLA document for your signature.
 
-![DocuSign](<../../../.gitbook/assets/docusign icla flow.png>)
+![DocuSign](../../../.gitbook/assets/docusign-icla-flow.png)
 
 12\. Select the check box and click **CONTINUE**. Follow the instructions in the DocuSign document, fill in the indicated fields, sign it, and click **FINISH**.
 
@@ -104,9 +104,9 @@ DocuSign presents the ICLA document for your signature.
 **Result:**
 
 * A message appears informing you that you have signed the ICLA.
-* You will also receive an email from The Linux Foundation, informing you that you have signed the ICLA. 
+* You will also receive an email from The Linux Foundation, informing you that you have signed the ICLA.&#x20;
 * You can download the PDF document by clicking the link from the email. You will be redirected to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.\
-  ![](<../../../.gitbook/assets/proceed to download icla.png>) 
+  ![](../../../.gitbook/assets/proceed-to-download-icla.png)&#x20;
 {% endhint %}
 
 13\. Navigate to the Gerrit project, and start contributing.
@@ -114,7 +114,7 @@ DocuSign presents the ICLA document for your signature.
 {% hint style="warning" %}
 **Important: **If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in **again, and then push the code.
 
-![](<../../../.gitbook/assets/signout gerrit.png>) 
+![](../../../.gitbook/assets/signout-gerrit.png)&#x20;
 {% endhint %}
 
 ## GitLab
@@ -129,11 +129,11 @@ DocuSign presents the ICLA document for your signature.
 
 ![CLA Not Covered](<../../../.gitbook/assets/cla not covered.png>)
 
-3\. Click![](<../../../.gitbook/assets/lfx easycla.png>) or **Not Covered**.
+3\. Click![](../../../.gitbook/assets/lfx-easycla.png) or **Not Covered**.
 
 4\. Click **Authorize LF-Engineering**. (Subsequent contributions will not require this authorization.)
 
-​ ![](<../../../.gitbook/assets/Authorize Linux Foundation EasyCLA.png>) ​
+​ ![](../../../.gitbook/assets/authorize-linux-foundation-easycla.png) ​
 
 The CLA Contributor Console appears and shows the CLA group for your project.
 
@@ -141,26 +141,26 @@ The CLA Contributor Console appears and shows the CLA group for your project.
 **Note:** If the project is not configured to use ICLAs, then **Proceed as an Individual Contributor** is inactive. In this case, individuals would not be able to contribute on their own behalf.
 {% endhint %}
 
-![CLA ICLA Flow](<../../../.gitbook/assets/cla icla flow.png>)
+![CLA ICLA Flow](../../../.gitbook/assets/cla-icla-flow.png)
 
 5\. Click **Proceed as an Individual Contributor**.\
-![](<../../../.gitbook/assets/preparing cla.png>)
+![](../../../.gitbook/assets/preparing-cla.png)
 
 6\. After the **CLA Ready For Signature** window appears, click **SIGN CLA**.
 
-![CLA Ready for Signature](<../../../.gitbook/assets/cla ready for signature.png>)
+![CLA Ready for Signature](../../../.gitbook/assets/cla-ready-for-signature.png)
 
 DocuSign presents the ICLA document for your signature.
 
-![DocuSign](<../../../.gitbook/assets/docusign icla flow.png>)
+![DocuSign](../../../.gitbook/assets/docusign-icla-flow.png)
 
 7\. Select the checkbox and click **CONTINUE**. Follow the instructions in the DocuSign document, fill in the indicated fields, sign it, and click **FINISH**.
 
 {% hint style="info" %}
 **Result:**
 
-* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA. 
-* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download icla.png>) 
+* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA.&#x20;
+* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](../../../.gitbook/assets/proceed-to-download-icla.png)&#x20;
 {% endhint %}
 
 You are redirected to GitLab. Wait a few seconds or refresh the page for the EasyCLA status to be updated. A check mark appears next to your branch.

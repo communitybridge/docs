@@ -23,8 +23,8 @@ Insights lets you look at the pull request contributions to the project and answ
 
     As a developer, you can see how active a project is and the average duration that pull requests remain open. In **Pull Request by Status Over Time**, you note a recurring pattern of pull requests that remain open too long within a certain time frame. The length of time pull requests remain open can indicate how responsive and welcoming your project maintainers are to outside contributors. If a pull request sits for too long without response, potential contributors may go to other projects. In addition, pull request metrics depend on the size of the project. Small projects might keep the number of open pull requests at 10 or fewer. Keeping pull requests at this limit would be challenging for large projects that have lots of community input compared to the number of maintainers. Reviewing pull requests takes time so large projects tend to have longer open duration than small projects. This data helps you decide if this is a project in which you want to spend your time.
 
-![Pull Requests by Status Over Time](<../../.gitbook/assets/pull requests by status over time.png>)
+![Pull Requests by Status Over Time](../../.gitbook/assets/pull-requests-by-status-over-time.png)
 
 As a project maintainer, you can see the number of pull requests by submitters, organizations, and repositories. In **Organizations**, you look for the organization that is doing the bulk of the development effort.
 
-![Organization](<../../.gitbook/assets/github pull requets organization.png>)
+![Organization](../../.gitbook/assets/github-pull-requets-organization.png)

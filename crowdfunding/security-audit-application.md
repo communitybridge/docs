@@ -7,7 +7,7 @@ The following table lists all the fields in the **Project Details** panel of the
 | Field Name                    | Description                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Project Name**              | <p>Name of the project which must be unique.<br><strong>Note: </strong>Funds of a different type can use the same name. For example, a Travel fund and a Project fund can use the same name.</p>                                                                                                                                  |
-| **Project Topic / Category**  | Type of industry that relates to your repository. Click in the field to open a list of names to choose from. Click ![](<../.gitbook/assets/18088098 (3) (2) (1).jpg>) after you select a category from the list.                                                                                                                  |
+| **Project Topic / Category**  | Type of industry that relates to your repository. Click in the field to open a list of names to choose from. Click ![](<../.gitbook/assets/18088098 (3) (2) (1) (2).jpg>) after you select a category from the list.                                                                                                              |
 | **Elevator pitch**            | Brief statement of why your project is important to support.                                                                                                                                                                                                                                                                      |
 | **Repository URL**            | URL of the GitHub repository. If you choose **Add GITHUB Repository **from the options while applying, your GitHub repository is automatically reflected in this field.                                                                                                                                                           |
 | **Website URL**               | A link to the website that you want to associate with the fund.                                                                                                                                                                                                                                                                   |
@@ -44,12 +44,12 @@ The following table lists all the fields in the **Project Branding** panel of th
 
 **For Project Administrators:** You leave this field blank while initially submitting the application. After you submit, OSTF reviews your application, and determines the security audit funding goal for your project. Then, you edit the application page, and complete this field.
 
-![security audit funding goal](<../.gitbook/assets/security audit funding goal.png>)
+![security audit funding goal](../.gitbook/assets/security-audit-funding-goal.png)
 
 ### Terms and Conditions
 
 Read and agree to the Terms and Conditions, and **Submit** the application.
 
 {% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
+After The Linux Foundation reviews the application, you will receive an email notification with a review decision.&#x20;
 {% endhint %}

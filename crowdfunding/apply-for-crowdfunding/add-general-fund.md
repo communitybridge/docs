@@ -11,7 +11,7 @@ Keep these items ready before you begin:
 
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
 2. Click **Apply** and select **ADD GENERAL FUND**.\
-    ![](<../../.gitbook/assets/add general fund.png>) 
+   &#x20;![](../../.gitbook/assets/add-general-fund.png)&#x20;
 3. Complete the [General Fund form](../general-fund-application.md). Red asterisks indicate required fields.
 4. Click **Submit Application.**
 5. (Optional) Click **My Projects** tab to view your pending project.

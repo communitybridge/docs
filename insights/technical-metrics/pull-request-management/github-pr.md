@@ -4,7 +4,7 @@
 By default, Bot commit is filtered. To add/manage filters, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
- The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub PR:
+&#x20;The GitHub PR dashboards represent a set of metrics that shows pull request information of GitHub repositories of the project. Following are the various dashboards of GitHub PR:
 
 * [Overview](github-pr.md#overview)
 * [Efficiency](github-pr.md#efficiency)
@@ -14,7 +14,7 @@ By default, Bot commit is filtered. To add/manage filters, see [Add and Manage D
 
 By default, **Bot** commits are filtered. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
 
-Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
+Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
 ## Overview
 
@@ -62,7 +62,7 @@ Efficiency offers an overall view of understanding and optimizing project effici
 * 7 to 30 days: The number of pull requests merged in more than seven days but less than thirty days.
 * More than 30 days: The number of pull requests merged in more than thirty days.
 
-**Repositories** shows a table that lists repositories, total number of PRs merged along with the time it took for 50% and 95% of the PRs to get merged per repository. Click a repository to navigate to GitHub to view details. 
+**Repositories** shows a table that lists repositories, total number of PRs merged along with the time it took for 50% and 95% of the PRs to get merged per repository. Click a repository to navigate to GitHub to view details.&#x20;
 
 ## Timing
 

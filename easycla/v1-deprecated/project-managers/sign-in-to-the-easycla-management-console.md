@@ -6,7 +6,7 @@ Project managers sign in to the EasyCLA Management Console to perform the CLA se
 
 2\. On **Projects** card, click **Proceed**.
 
-![Sign in to Management Console](<../../../.gitbook/assets/sign in to management console.png>)
+![Sign in to Management Console](../../../.gitbook/assets/sign-in-to-management-console.png)
 
 3\. Enter your credentials as the project manager, and click **SIGN IN**.
 

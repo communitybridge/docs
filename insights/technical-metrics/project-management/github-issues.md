@@ -4,7 +4,7 @@
 By default, Bot Commits are filtered, however, you can include the filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
+Click ![](../../../.gitbook/assets/get-short-url.png) to copy the path of respective dashboards.
 
 Following are the various dashboards of GitHub Issues:
 
@@ -41,13 +41,13 @@ Efficiency offers an overall view of understanding and optimizing project effici
 
 **Filter **lets you filter the project data by organization name, author name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
-**Summary** shows a cluster of 
+**Summary** shows a cluster of&#x20;
 
 * Total number of closed issues
 * Number of submitters whose issues are closed
 * Number organizations that helped in closing the issues
 * Repositories of the project to which the closed issues belong to
-* Number of days it took to close 50 percentage of the issues, and 
+* Number of days it took to close 50 percentage of the issues, and&#x20;
 * Number of days it took to close 95 percentage of the issues over time
 
 **50th percentile of Time To Close By Repo** shows a cluster of top 10 repositories  names for which it took most time to close 50% of the issues.
@@ -99,6 +99,6 @@ Backlog focuses on open issues, their accumulated time, and associated organizat
 
 **Percentage of Issues Opened By Organizations** shows a doughnut chart that represents the total number of issues opened per organization. Mouse over a color in the chart to see the total number and percentage of issues raised by an organization.
 
-**Issues In Open By Submitters **shows a table that lists name of the submitter, total number of issues raised by the submitter, number of repositories the submitter worked upon, and average number of days the issues were in open state per submitter. 
+**Issues In Open By Submitters **shows a table that lists name of the submitter, total number of issues raised by the submitter, number of repositories the submitter worked upon, and average number of days the issues were in open state per submitter.&#x20;
 
 **Issues In Open By Organization **shows a table that lists name of the organization, total number of issues submitted by the organization, number of submitters from the organization, and average number of days the issues were in open state per organization.

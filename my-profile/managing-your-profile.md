@@ -2,7 +2,7 @@
 
 1\. To edit your contact information, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org) and click the **Edit My Information** CTA button.
 
-![](<../.gitbook/assets/Edit My Information (4).png>)
+![](<../.gitbook/assets/edit-my-information (3).png>)
 
 2\. On the **Edit My Information** modal you can update the following details:
 
@@ -18,7 +18,7 @@
 | **Job Title**            | Add or update your current job title      |
 | **Address **             | Add or update your current address        |
 
-![](<../.gitbook/assets/Edit Information Section.png>)
+![](../.gitbook/assets/edit-information-section.png)
 
 3\. After you finish making the changes, click **Save CTA **and click on **Back to Profile **to return to the dashboard.
 

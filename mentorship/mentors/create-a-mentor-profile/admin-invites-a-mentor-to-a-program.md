@@ -6,8 +6,8 @@ If a mentor already has a profile on LFX Mentorship there is no action required,
 
 
 
-![](<../../../.gitbook/assets/Mentor Invite Email.png>)
+![](../../../.gitbook/assets/mentor-invite-email.png)
 
 A mentor can remove herself from a program by navigating to her profile and selecting **Remove From Program** CTA next to the program name she wants to be removed from.
 
-![](<../../../.gitbook/assets/Remove from Program.png>)
+![](../../../.gitbook/assets/remove-from-program.png)

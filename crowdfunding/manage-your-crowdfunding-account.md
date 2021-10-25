@@ -8,13 +8,13 @@ You can manage your Crowdfunding account, for example view a record of all your 
 * [My Projects](manage-your-crowdfunding-account.md#my-projects)
 * [My Account](manage-your-crowdfunding-account.md#my-account)
 
-![Manage Crowdfunding Account](<../.gitbook/assets/manage crowdfunding account.png>)
+![Manage Crowdfunding Account](../.gitbook/assets/manage-crowdfunding-account.png)
 
 ### My Transactions
 
-Under **My Transactions tab **you can view the list of all your transactions and monthly subscription donations. 
+Under **My Transactions tab **you can view the list of all your transactions and monthly subscription donations.&#x20;
 
-* Click **Cancel Monthly Subscription **on a project to cancel your monthly donation subscription. 
+* Click **Cancel Monthly Subscription **on a project to cancel your monthly donation subscription.&#x20;
 
 ![](../.gitbook/assets/7417305.png)
 
@@ -24,10 +24,10 @@ Under **My Projects tab** you can view all your crowdfunding projects, travel fu
 
 ### **My Account**
 
-Under** My Account** tab you can add and/or edit your payment method or organization. 
+Under** My Account** tab you can add and/or edit your payment method or organization.&#x20;
 
-![Add organization to donate or sponsor](../.gitbook/assets/7418586.png)
+![Add organization to donate or sponsor](<../.gitbook/assets/7418586 (4).png>)
 
-![Add new payment method ](<../.gitbook/assets/add card.png>)
+![Add new payment method ](../.gitbook/assets/add-card.png)
 
 ![Edit payment method](../.gitbook/assets/7417299.png)

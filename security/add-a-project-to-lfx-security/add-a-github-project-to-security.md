@@ -14,11 +14,11 @@ Have these items handy before you begin:
 
 2\. "Ready to solve your funding, security and growth challenges?" appears. Click **Sign up**.
 
-![Signup](../../.gitbook/assets/Secure_My_Project.png)
+![Signup](../../.gitbook/assets/secure\_my\_project.png)
 
 3.The Project Details page appears with a project application that lets you provide information about your project.
 
-![Project Details](../../.gitbook/assets/P1.png)
+![Project Details](../../.gitbook/assets/p1.png)
 
 4.Complete the form fields. Red asterisks indicate mandatory required fields.
 

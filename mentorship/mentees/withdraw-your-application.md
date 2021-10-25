@@ -11,8 +11,8 @@ To withdraw your mentorship application:
 3. Under **Programs for which I am a Mentee**, navigate to a project from which you want to withdraw your application.
 4. Click **Withdraw**, and then** **click** Confirm **on the confirmation window.
 
-![Withdraw your Application](<../../.gitbook/assets/withdraw application.png>)
+![Withdraw your Application](../../.gitbook/assets/withdraw-application.png)
 
 5\. Status of your application changes to **Withdrawn**.
 
-![Application Withdrawn](<../../.gitbook/assets/application withdrawn.png>)
+![Application Withdrawn](../../.gitbook/assets/application-withdrawn.png)

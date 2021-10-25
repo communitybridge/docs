@@ -13,8 +13,8 @@ Consider the following financial aspects of reimbursement:
 {% hint style="info" %}
 Have these items handy before you begin:
 
-* Your receipts converted to USD 
-* The amount of your approved Travel Fund 
+* Your receipts converted to USD&#x20;
+* The amount of your approved Travel Fund&#x20;
 {% endhint %}
 
 ## Set Up a Reimbursement Account in Expensify <a href="submittravelfundingreimbursementexpensereport-setupareimbursementaccountinexpensify" id="submittravelfundingreimbursementexpensereport-setupareimbursementaccountinexpensify"></a>
@@ -25,7 +25,7 @@ You will receive an invitation email from the Expensify Concierge stating that y
 The Linux Foundation requires that international (non-U.S.) individuals receive reimbursements via wire transfer. Download the attached Wire Transfer form.
 {% endhint %}
 
-{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
+{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 
@@ -34,9 +34,9 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 {% endhint %}
 
 1\. Sign in to [https://www.expensify.com/signin](https://www.expensify.com/signin)\
-     Ensure that you use the same email address linked to your travel funding approval. 
+&#x20;    Ensure that you use the same email address linked to your travel funding approval.&#x20;
 
-![](<../.gitbook/assets/7419228 (2) (2) (2).png>)
+![](<../.gitbook/assets/7419228 (2) (2) (2) (2) (2).png>)
 
 2\. Depending on your location:
 
@@ -44,7 +44,7 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 
 **International:** Upload a completed _The Linux Foundation Wire Transfer Form_ in addition to your receipt(s).
 
-{% file src="../.gitbook/assets/The Linux Foundation Wire Transfer Form.pdf" %}
+{% file src="../.gitbook/assets/the-linux-foundation-wire-transfer-form.pdf" %}
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 
@@ -55,6 +55,6 @@ The Linux Foundation Wire Transfer Form
 1. Sign In to [Expensify](https://www.expensify.com).
 2. Create and submit an expense report. For details, see [How to Create and Submit an Expensify Report](how-to-create-and-submit-an-expensify-report.md).\
    After you submit your report, the approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
-3.  Upon approval notification, go to your account to access your reimbursement money. It may take up to 45 business days for the funds to be deposited to your bank account.\*
+3. &#x20;Upon approval notification, go to your account to access your reimbursement money. It may take up to 45 business days for the funds to be deposited to your bank account.\*
 
 \*Wire Transfer recipients will get the funds deposited to their account directly from Linux Foundation.

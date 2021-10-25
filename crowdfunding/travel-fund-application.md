@@ -5,7 +5,7 @@
 | Name                     | Description                                                                                                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Travel Fund Name**     | <p>A travel fund name which must be unique</p><p><strong>Note: </strong>Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name.</p> |
-| **Topic** / **Category** | Topic or category that relates to your Travel Fund. Click ![](<../.gitbook/assets/18088098 (3) (2) (1) (1).jpg>) after you select category/ categories.                                           |
+| **Topic** / **Category** | Topic or category that relates to your Travel Fund. Click ![](<../.gitbook/assets/18088098 (3) (2) (1).jpg>) after you select category/ categories.                                               |
 | **Elevator pitch**       | Brief statement of why your Travel Fund is important to support.                                                                                                                                  |
 | **Website URL**          | A link to website that you want to associate with the fund.                                                                                                                                       |
 | **Application URL**      | The specific URL where people can apply for travel fund.                                                                                                                                          |
@@ -44,7 +44,7 @@ Click ![](../.gitbook/assets/7418655.jpg) after you enter name and email address
 
 Enable goals for how you want to distribute funds in your Travel fund, and complete the fields that appear—see the example below. Enter a percentage of your Annual Travel Fund amount to designate towards the goal.
 
-![Funding Distribution](<../.gitbook/assets/travel fund funding distribution.png>)
+![Funding Distribution](../.gitbook/assets/travel-fund-funding-distribution.png)
 
 ### Financial Summary
 
@@ -57,5 +57,5 @@ The Financial Summary shows the annual financial goal and progress towards it by
 Read and agree to the Terms and Conditions, and **Submit** the application.
 
 {% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision. 
+After The Linux Foundation reviews the application, you will receive an email notification with a review decision.&#x20;
 {% endhint %}

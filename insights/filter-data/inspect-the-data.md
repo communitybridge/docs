@@ -4,7 +4,7 @@ You can use the Inspect option to learn more about the data.
 
 1. Mouse over a visualization, and click ![](../../.gitbook/assets/18088179.png)****\
    ****The Options dialog appears.\
-    ![](<../../.gitbook/assets/inspect data.png>) 
+   &#x20;![](../../.gitbook/assets/inspect-data.png)&#x20;
 2. Select **Inspect**.\
    A dialog appears with options.
 3. Select an option: **Data** or **Requests**.\

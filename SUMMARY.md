@@ -105,6 +105,7 @@
   * [LFX Security FAQs](security/lfx-security-faqs.md)
   * [LFX Security Requirements](security/lfx-security-requirements/README.md)
     * [Supported Languages](security/lfx-security-requirements/supported-languages.md)
+    * [Authorization Page](security/lfx-security-requirements/authorization-page.md)
   * [Date Range](security/data-range.md)
   * [Add a Project to LFX Security](security/add-a-project-to-lfx-security/README.md)
     * [Add a GitHub/Git Project to LFX Security](security/add-a-project-to-lfx-security/add-a-github-project-to-security.md)
