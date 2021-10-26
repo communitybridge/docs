@@ -40,9 +40,9 @@ The following icons are available on the dashboard:
 |                                          |                    |
 | **General Icons **                       | ****               |
 |                                          | Progress Bar       |
-|                                          | Running            |
+| ![](<../.gitbook/assets/Running .png>)   | Running            |
 |                                          | Warning            |
-|                                          | Disabled           |
+| ![](../.gitbook/assets/Disabled.png)     | Disabled           |
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
 
