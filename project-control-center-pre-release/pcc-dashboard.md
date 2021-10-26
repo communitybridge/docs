@@ -50,9 +50,13 @@ To access PCC dashboard and its services, you need to login into [PCC](http://pr
 The **Show archived projects** toggle button allows you to show or hide the archived projects from the list.&#x20;
 {% endhint %}
 
+![Dashboard](../.gitbook/assets/All\_Projects.png)
+
 ## My Projects <a href="my-projects" id="my-projects"></a>
 
 MY PROJECTS tab provides you the list of projects which are affiliated with you or your organization.&#x20;
+
+![My Project](<../.gitbook/assets/My Projects.png>)
 
 {% hint style="info" %}
 In case, if you don not see the projects that are managed by you, you can create a ticket for this.
@@ -72,6 +76,9 @@ To create a support ticket, perform the following steps:
 
 All Projects lists all the projects that are created irrespective of who has created them.&#x20;
 
+![](../.gitbook/assets/All\_Projects1.png)
+
 ## Search Functionality&#x20;
 
 You can search for the required project using the search tabs available on right top of the dashboard as well as on the left menu bar.&#x20;
+
