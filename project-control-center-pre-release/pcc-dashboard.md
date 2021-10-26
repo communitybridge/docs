@@ -32,16 +32,16 @@ The following icons are available on the dashboard:
 | ![](../.gitbook/assets/Distribution.png)     | Distribution       |
 |                                              |                    |
 | **Tools Status **                            | ****               |
-|                                              | EasyCLA            |
-|                                              | Security           |
-|                                              | Crowd Funding      |
-|                                              | Insights           |
-|                                              | Mentorship         |
+|  ![](<../.gitbook/assets/image (27).png>)    | EasyCLA            |
+| ![](broken-reference)                        | Security           |
+|  ![](broken-reference)                       | Crowd Funding      |
+|  ![](broken-reference)                       | Insights           |
+|  ![](broken-reference)                       | Mentorship         |
 |                                              |                    |
 | **General Icons **                           | ****               |
-|                                              | Progress Bar       |
+| ![](broken-reference)                        | Progress Bar       |
 | ![](<../.gitbook/assets/Running .png>)       | Running            |
-|                                              | Warning            |
+|  ![](broken-reference)                       | Warning            |
 | ![](../.gitbook/assets/Disabled.png)         | Disabled           |
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
