@@ -14,26 +14,31 @@ To add committee for a project, perform the following steps:
 
 1.Click on the required project and click **Committees**.
 
-2.The Committee page appears. Click **+Add **to add the committee details. 
+![Committee ](../../.gitbook/assets/Committees.png)
 
-3.The Add Committee dialog box appears. Update the following details and click **Create**:
+2.The Committee page appears. Click **+Add Committee **to add the committee details.
 
-| **Field**           | **Action**                                                      |
-| ------------------- | --------------------------------------------------------------- |
-| Name                | Enter the name of the committee                                 |
-| Mailing List        | Enter the mailing list of the committee                         |
-| Visibility          | Toggle the Visibility to enable the voting for the committee    |
-| Enable Voting       | Toggle the Enable Voting to enable the voting for the committee |
-| Committee Website   | Enter the committee website URL of the committee                |
-| Select Type         | Select the type of committee that you want to create            |
-| Posting Permissions | Select the required posting permissions for the committee       |
-| Description         | Provide the description on the committee                        |
+&#x20;
+
+![Add Committee](../../.gitbook/assets/Add\_Committee.png)
+
+3.The Create Committee page appears. Update the following details and click **Next **and click** Save** to create a committee.&#x20;
+
+| **Field**                       | **Action**                                                                                                                         |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Add Committee Name              | Enter the name of the committee                                                                                                    |
+| Description                     |  Provide the description on the committee                                                                                          |
+| Type                            | Select the type of committee that you want to create                                                                               |
+| Enable Voting                   | Toggle the Enable Voting to enable the voting for the committee                                                                    |
+| Committee Documentation/Website | Enter the committee website URL of the committee which can provide the committee details such as  policies, meetings and schedules |
 
 {% hint style="info" %}
-If you want to update the existing committee details, click the  edit ![](broken-reference) icon.  
+If you want to update the existing committee details, click the  edit ![](broken-reference) icon. &#x20;
 
-If you want to delete the existing committee, click the delete ![](broken-reference)icon.  
+If you want to delete the existing committee, click the delete ![](broken-reference)icon. &#x20;
 {% endhint %}
+
+![Creating a Committee](../../.gitbook/assets/Add\_Com.gif)
 
 ### Adding Member in a Committee
 
@@ -43,7 +48,7 @@ To add  a member to a committee, perform the following steps:
 
 1.Click on the required project and click **Committees**.
 
-2.The Committees page appears with the list of committees that are created for the project. Click the required committee where you want to add the members. 
+2.The Committees page appears with the list of committees that are created for the project. Click the required committee where you want to add the members.&#x20;
 
 3.The Members page appears with the list of members for the selected committee. Click **Add **to add a member.
 
@@ -64,9 +69,9 @@ To add  a member to a committee, perform the following steps:
 | Role Start    | Select the role end date                |
 
 {% hint style="info" %}
-f you want to update the existing member details, click the  edit ![](broken-reference) icon.  
+f you want to update the existing member details, click the  edit ![](broken-reference) icon. &#x20;
 
-If you want to delete the member, click the delete ![](broken-reference)icon.  
+If you want to delete the member, click the delete ![](broken-reference)icon. &#x20;
 {% endhint %}
 
 ## Templates
@@ -77,9 +82,9 @@ To use a template, perform the following steps:
 
 1.Click on the required project and click **Committees**.
 
-2.The Committee page appears. Click **Templates **and click **Use Template** listed along the required template. 
+2.The Committee page appears. Click **Templates **and click **Use Template** listed along the required template.&#x20;
 
-3\. Follow Step 3 from Committee section to create a committee. 
+3\. Follow Step 3 from Committee section to create a committee.&#x20;
 
 
 
