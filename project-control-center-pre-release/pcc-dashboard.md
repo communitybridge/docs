@@ -12,37 +12,37 @@ This dashboard provides details such as:
 
 The following icons are available on the dashboard:
 
-| **Icons **                                   | **Description**    |
-| -------------------------------------------- | ------------------ |
-| **Setup Services **                          | ****               |
-| ![](../.gitbook/assets/Basic\_Setup.png)     | Basic Setup        |
-|  ![](../.gitbook/assets/Commitee.png)        | Committees Setup   |
-| ![](../.gitbook/assets/Logeal.png)           | Legal  Setup       |
-| ![](../.gitbook/assets/Membership.png)       | Membership Setup   |
-|                                              |                    |
-| **IT Services**                              | ****               |
-|  ![](<../.gitbook/assets/Domain .png>)       | Domains            |
-|  ![](<../.gitbook/assets/Mailing .png>)      | Mailing List       |
-| ![](../.gitbook/assets/Issue.png)            | Issue Tracking     |
-| ![](../.gitbook/assets/Meetings.png)         | Meeting Management |
-| ![](<../.gitbook/assets/Email (1).png>)      | Email Forwarding   |
-| ![](<../.gitbook/assets/image (21) (1).png>) | Source Control     |
-| ![](<../.gitbook/assets/image (21).png>)     | Wiki               |
-| ![](<../.gitbook/assets/image (22).png>)     | Cloud Providers    |
-| ![](../.gitbook/assets/Distribution.png)     | Distribution       |
-|                                              |                    |
-| **Tools Status **                            | ****               |
-|  ![](<../.gitbook/assets/image (27).png>)    | EasyCLA            |
-| ![](broken-reference)                        | Security           |
-|  ![](broken-reference)                       | Crowd Funding      |
-|  ![](broken-reference)                       | Insights           |
-|  ![](broken-reference)                       | Mentorship         |
-|                                              |                    |
-| **General Icons **                           | ****               |
-| ![](broken-reference)                        | Progress Bar       |
-| ![](<../.gitbook/assets/Running .png>)       | Running            |
-|  ![](broken-reference)                       | Warning            |
-| ![](../.gitbook/assets/Disabled.png)         | Disabled           |
+| **Icons **                                    | **Description**    |
+| --------------------------------------------- | ------------------ |
+| **Setup Services **                           | ****               |
+| ![](../.gitbook/assets/Basic\_Setup.png)      | Basic Setup        |
+|  ![](../.gitbook/assets/Commitee.png)         | Committees Setup   |
+| ![](../.gitbook/assets/Logeal.png)            | Legal  Setup       |
+| ![](../.gitbook/assets/Membership.png)        | Membership Setup   |
+|                                               |                    |
+| **IT Services**                               | ****               |
+|  ![](<../.gitbook/assets/Domain .png>)        | Domains            |
+|  ![](<../.gitbook/assets/Mailing .png>)       | Mailing List       |
+| ![](../.gitbook/assets/Issue.png)             | Issue Tracking     |
+| ![](../.gitbook/assets/Meetings.png)          | Meeting Management |
+| ![](<../.gitbook/assets/Email (1).png>)       | Email Forwarding   |
+| ![](<../.gitbook/assets/image (21) (1).png>)  | Source Control     |
+| ![](<../.gitbook/assets/image (21).png>)      | Wiki               |
+| ![](<../.gitbook/assets/image (22).png>)      | Cloud Providers    |
+| ![](../.gitbook/assets/Distribution.png)      | Distribution       |
+|                                               |                    |
+| **Tools Status **                             | ****               |
+|  ![](<../.gitbook/assets/image (27) (1).png>) | EasyCLA            |
+| ![](broken-reference)                         | Security           |
+|  ![](broken-reference)                        | Crowd Funding      |
+|  ![](broken-reference)                        | Insights           |
+|  ![](broken-reference)                        | Mentorship         |
+|                                               |                    |
+| **General Icons **                            | ****               |
+| ![](<../.gitbook/assets/image (27).png>)      | Progress Bar       |
+| ![](<../.gitbook/assets/Running .png>)        | Running            |
+|                                               | Warning            |
+| ![](../.gitbook/assets/Disabled.png)          | Disabled           |
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
 
