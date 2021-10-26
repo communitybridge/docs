@@ -10,9 +10,17 @@ To update legal details for a project, perform the following steps:
 
 1.Click on the required project and click **Legal**.
 
+![Legal Setup](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MYVqtYtKTJr8O4aayqd%2F-MYVrDc2k9ln\_KRnUSVN%2FLegal.png?alt=media\&token=b9d46987-dafe-40be-a722-3c146f8da9dc)
+
 2.The Legal Edit page appears. Click **Edit** to update the legal details.
 
-3.The Edit Legal  Details page appears. Update the following details and click **Save**:
+![Edit  Legal ](../../.gitbook/assets/Legal\_Eidt.png)
+
+3.The Edit Legal  Details page appears. Update the following details and click **Update**:
+
+{% hint style="warning" %}
+Based on the type of **Entity Type** selected, the fields will vary accordingly.&#x20;
+{% endhint %}
 
 | **Field**                       | **Action**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,5 +41,6 @@ To update legal details for a project, perform the following steps:
 | Manage Services Effectivity     | Enter  the manage services effectivity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Manage Services Expiration Date | Enter the manage services expiration date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
- 
+&#x20;
 
+![Edit Legal ](../../.gitbook/assets/Edit\_Legal.gif)
