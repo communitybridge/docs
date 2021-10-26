@@ -12,37 +12,36 @@ This dashboard provides details such as:
 
 The following icons are available on the dashboard:
 
-| **Icons **             | **Description**   |
-| ---------------------- | ----------------- |
-| **Setup Services **    | ****              |
-| ![](broken-reference)  | Basic Setup       |
-|  ![](broken-reference) | Committees Setup  |
-|                        |                   |
-| ![](broken-reference)  | Legal  Setup      |
-|                        | Membership Setup  |
-|                        |                   |
-| **IT Services**        | ****              |
-|                        | Domains           |
-|                        | Mailing List      |
-|                        | Issue Tracking    |
-|                        | Meetings          |
-|                        | Email Forwarding  |
-|                        | Source Control    |
-|                        | Wiki              |
-|                        | Cloud Providers   |
-|                        |                   |
-| **Tools Status **      | ****              |
-|                        | EasyCLA           |
-|                        | Security          |
-|                        | Crowd Funding     |
-|                        | Insights          |
-|                        | Mentorship        |
-|                        |                   |
-| **General Icons **     | ****              |
-|                        | Progress Bar      |
-|                        | Running           |
-|                        | Warning           |
-|                        | Disabled          |
+| **Icons **                               | **Description**   |
+| ---------------------------------------- | ----------------- |
+| **Setup Services **                      | ****              |
+| ![](../.gitbook/assets/Basic\_Setup.png) | Basic Setup       |
+|  ![](../.gitbook/assets/Commitee.png)    | Committees Setup  |
+| ![](../.gitbook/assets/Logeal.png)       | Legal  Setup      |
+| ![](../.gitbook/assets/Membership.png)   | Membership Setup  |
+|                                          |                   |
+| **IT Services**                          | ****              |
+|                                          | Domains           |
+|                                          | Mailing List      |
+|                                          | Issue Tracking    |
+|                                          | Meetings          |
+|                                          | Email Forwarding  |
+|                                          | Source Control    |
+|                                          | Wiki              |
+|                                          | Cloud Providers   |
+|                                          |                   |
+| **Tools Status **                        | ****              |
+|                                          | EasyCLA           |
+|                                          | Security          |
+|                                          | Crowd Funding     |
+|                                          | Insights          |
+|                                          | Mentorship        |
+|                                          |                   |
+| **General Icons **                       | ****              |
+|                                          | Progress Bar      |
+|                                          | Running           |
+|                                          | Warning           |
+|                                          | Disabled          |
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
 
@@ -76,9 +75,11 @@ To create a support ticket, perform the following steps:
 
 All Projects lists all the projects that are created irrespective of who has created them.&#x20;
 
-![](../.gitbook/assets/All\_Projects1.png)
+![All Projects](../.gitbook/assets/All\_Projects1.png)
 
 ## Search Functionality&#x20;
 
 You can search for the required project using the search tabs available on right top of the dashboard as well as on the left menu bar.&#x20;
+
+![Search](<../.gitbook/assets/Search (1).png>)
 
