@@ -26,9 +26,9 @@ The following icons are available on the dashboard:
 | ![](../.gitbook/assets/Issue.png)        | Issue Tracking     |
 | ![](../.gitbook/assets/Meetings.png)     | Meeting Management |
 | ![](<../.gitbook/assets/Email (1).png>)  | Email Forwarding   |
-|                                          | Source Control     |
-|                                          | Wiki               |
-|                                          | Cloud Providers    |
+| ![](<../.gitbook/assets/image (21).png>) | Source Control     |
+| ![](broken-reference)                    | Wiki               |
+| ![](broken-reference)                    | Cloud Providers    |
 |                                          | Distribution       |
 |                                          |                    |
 | **Tools Status **                        | ****               |
