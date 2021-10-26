@@ -28,20 +28,20 @@ The following icons are available on the dashboard:
 | ![](<../.gitbook/assets/Email (1).png>)           | Email Forwarding   |
 | ![](<../.gitbook/assets/image (21) (1).png>)      | Source Control     |
 | ![](<../.gitbook/assets/image (21).png>)          | Wiki               |
-| ![](<../.gitbook/assets/image (22).png>)          | Cloud Providers    |
+| ![](<../.gitbook/assets/image (22) (1).png>)      | Cloud Providers    |
 | ![](../.gitbook/assets/Distribution.png)          | Distribution       |
 |                                                   |                    |
 | **Tools Status **                                 | ****               |
 |  ![](<../.gitbook/assets/image (27) (1) (1).png>) | EasyCLA            |
 | ![](<../.gitbook/assets/image (29).png>)          | Security           |
-|                                                   | Crowd Funding      |
-|                                                   | Insights           |
-|                                                   | Mentorship         |
+|  ![](<../.gitbook/assets/image (30).png>)         | Crowd Funding      |
+|  ![](<../.gitbook/assets/image (22).png>)         | Insights           |
+|  ![](<../.gitbook/assets/image (26).png>)         | Mentorship         |
 |                                                   |                    |
 | **General Icons **                                | ****               |
 | ![](<../.gitbook/assets/image (27) (1).png>)      | Progress Bar       |
 | ![](<../.gitbook/assets/Running .png>)            | Running            |
-|  ![](<../.gitbook/assets/image (26).png>)         | Warning            |
+|  ![](<../.gitbook/assets/image (26) (1).png>)     | Warning            |
 | ![](../.gitbook/assets/Disabled.png)              | Disabled           |
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
