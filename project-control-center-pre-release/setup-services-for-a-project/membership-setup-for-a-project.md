@@ -5,17 +5,25 @@ Membership setup of project allows you to provide information on:
 * Membership Billing
 * Membership Tier
 
-## Membership Billing <a href="billing-information" id="billing-information"></a>
+## Membership Settings  <a href="billing-information" id="billing-information"></a>
 
-You can add and update membership billing information related to the project such as auto renew, payment frequency, prorated information and invoicing.
+You  have to setup few parameters before you add Membership Tiers. You can add and update membership billing information related to the project such as auto renew, payment frequency, prorated information and invoicing.
 
-To add membership billing information for a project, perform the following steps:
+{% hint style="info" %}
+Without updating the **Membership Settings**, the **+ Add Tier** will not be enabled.&#x20;
+{% endhint %}
+
+To add membership settings for a project, perform the following steps:
 
 1.Click on the required project and click **Membership**.
 
-2\. The Membership page appears. Click **+Add Billing** to add the membership billing details. 
+![Membership](../../.gitbook/assets/Basic.png)
 
-3.The Add Membership Billing dialog box appears. Update the following details and click **Save**:
+2\. The Membership page appears. Click **Edit** to add the membership billing details.&#x20;
+
+![Membership Edit](../../.gitbook/assets/Membership\_Edit.png)
+
+3.The Edit Membership Billing dialog box appears. Update the following details and click **Save**:
 
 | **Field **          | **Action**                                                                                                |
 | ------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -25,8 +33,10 @@ To add membership billing information for a project, perform the following steps
 | Do Not Invoice      | Select the **Do Not Invoice** option, if you do not want the invoice for your membership billing          |
 
 {% hint style="info" %}
-If you want to update the existing membership billing details, click the  edit ![](broken-reference) icon.  
+If you want to update the existing membership billing details, click the  edit ![](broken-reference) icon. &#x20;
 {% endhint %}
+
+![Edit Membership Billing](../../.gitbook/assets/Edit\_Membership\_Billing.png)
 
 ## Membership Tier
 
@@ -36,9 +46,13 @@ To add membership tier information for a project, perform the following steps:
 
 1.Click on the required project and click **Membership**.
 
-2.The Membership page appears. Click **+Add Tier **to add the membership tier details. 
+2.The Membership page appears. Click **+Add Tier **to add the membership tier details.
 
-3.The Add Membership Tier dialog box appears. Update the following details and click **Save**: 
+&#x20;
+
+![Add Tier](<../../.gitbook/assets/image (23).png>)
+
+3.The Add Membership Tier dialog box appears. Update the following details and click **Save**:&#x20;
 
 | **Field**        | **Action**                                     |
 | ---------------- | ---------------------------------------------- |
@@ -48,3 +62,4 @@ To add membership tier information for a project, perform the following steps:
 | Membership term  | Select the required membership term            |
 | Description      | Provide the description on the membership tier |
 
+![](../../.gitbook/assets/Add\_Membership\_Tier.png)
