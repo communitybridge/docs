@@ -33,10 +33,10 @@ The following icons are available on the dashboard:
 |                                                   |                    |
 | **Tools Status **                                 | ****               |
 |  ![](<../.gitbook/assets/image (27) (1) (1).png>) | EasyCLA            |
-|                                                   | Security           |
-|  ![](broken-reference)                            | Crowd Funding      |
-|  ![](broken-reference)                            | Insights           |
-|  ![](broken-reference)                            | Mentorship         |
+| ![](<../.gitbook/assets/image (29).png>)          | Security           |
+|                                                   | Crowd Funding      |
+|                                                   | Insights           |
+|                                                   | Mentorship         |
 |                                                   |                    |
 | **General Icons **                                | ****               |
 | ![](<../.gitbook/assets/image (27) (1).png>)      | Progress Bar       |
