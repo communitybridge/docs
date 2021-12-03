@@ -11,20 +11,20 @@ Keep these items ready before you begin:
 
 **To Sponsor an Event:**
 
-** **1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org).** **
+&#x20;**** 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://funding.communitybridge.org). ****&#x20;
 
 2\. From **Events** tab, select **Sponsor** on an event of interest. \
 The New Donation form appears, for example:         \
-                                                                                                                                                                                              \
+&#x20;                                                                                                                                                                                             \
 ![](../../.gitbook/assets/7418588.png)
 
-3\. Select **Individual **or an **Organization**. If you select **Organization,** you can [add, edit, or delete an organization](donate-as-a-sponsor/add-edit-or-delete-an-organization.md) anytime.
+3\. Select **Individual** or an **Organization**. If you select **Organization,** you can [add, edit, or delete an organization](donate-as-a-sponsor/add-edit-or-delete-an-organization.md) anytime.
 
 4\. Click in the **I want to give** field and type a dollar amount or select a predefined dollar or sponsor option.The **One-time** donation frequency is enabled by default.
 
-5\. For Payment Method, select **Credit or debit card **or **Invoice**.
+5\. For Payment Method, select **Credit or debit card** or **Invoice**.
 
-* The **Invoice **Payment Method is enabled only if you donate as an **Organization** and select **One-time**.
+* The **Invoice** Payment Method is enabled only if you donate as an **Organization** and select **One-time**.
 * **Credit or debit card** lets you add a default card or edit a default card to use for your donation payment. Click **Add Card** or **Edit Card** to add or edit a card, respectively. Enter your card details and click **Submit**.
 * **Invoice** lets you request an invoice from the Linux Foundation for your donation. \
   If you have a purchase order number, enter the number in the PO Number field that appears. If you want to request a purchase order number, contact your Linux Foundation administrator—the Finance team will contact you. The Finance team can work with your organization for other methods of payment such as checks.
@@ -33,4 +33,4 @@ The New Donation form appears, for example:         \
 
 7\. Agree to the terms and select the checkbox.
 
-8\. Click **Submit Sponsorship**. 
+8\. Click **Submit Sponsorship**.&#x20;

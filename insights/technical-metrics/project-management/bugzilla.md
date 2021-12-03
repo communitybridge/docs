@@ -12,11 +12,11 @@ The Bugzilla dashboard is available from the **Issue Management** drop-down list
 * [Backlog](bugzilla.md#backlog)
 * [Timing](bugzilla.md#timing)
 
-## Overview <a href="bugzilla-bugzilla-greater-than-overview" id="bugzilla-bugzilla-greater-than-overview"></a>
+## Overview <a href="#bugzilla-bugzilla-greater-than-overview" id="bugzilla-bugzilla-greater-than-overview"></a>
 
 Overview shows information about issues and submitters in Bugzilla organizations.
 
-**Filter **lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Issues** shows the total number of Issues, Submitters, and Products.
 
@@ -38,11 +38,11 @@ Overview shows information about issues and submitters in Bugzilla organizations
 
 Backlog focuses on open issues, their accumulated time, and associated organizations.
 
-**Open Issues Statistics **shows total number of open issues, accumulated time in days for all open issues, and average time in days an issue is open.
+**Open Issues Statistics** shows total number of open issues, accumulated time in days for all open issues, and average time in days an issue is open.
 
 **Issues waiting to be closed** shows a stacked bar graph that represents number of issues (that are not closed) per day by status: New, Unconfirmed, Assigned, and so on. These statuses are color coded. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
-**Backlog **shows a table that lets you sort values by title, URL, number of comments, updates, days of open, and date of open for an issue backlog.
+**Backlog** shows a table that lets you sort values by title, URL, number of comments, updates, days of open, and date of open for an issue backlog.
 
 **Accumulated Time (days): Issues waiting to be closed** shows a bar graph that represents cumulative number of days for which individual issues were open, on a date. Mouse over a color in the graph to see the data.
 
@@ -50,7 +50,7 @@ Backlog focuses on open issues, their accumulated time, and associated organizat
 
 **Backlog Submitters** shows a table that lets you sort values by submitter name, number of issues, average time in days the issue was open for the submitter, and number of projects the submitter is associated with.
 
-**Projects **shows a table that lets you sort values by project name, number of open issues, and average time in days the issues are open.
+**Projects** shows a table that lets you sort values by project name, number of open issues, and average time in days the issues are open.
 
 **bugzilla\_openissues\_per\_organization** shows a table that lets you sort values by organization name, number of open issues, and average time in days the issues are open for an organization.
 
@@ -62,7 +62,7 @@ Timing shows information about open and closed issues in time and lets you focus
 
 **Median Open Time (days)** shows a stacked bar graph that represents number of days for which the median or 50th percentile of total issues that were created per day over time, are open. Mouse over a color in the graph to see the median number of days issues were open on a date.
 
-**80 percent Open Time (days) **shows a stacked bar graph that represents number of days for which the 80th percentile of total number of issues that were created per day, are open. Mouse over a color in the graph to see the 80th percentile number of days issues were open on a date.
+**80 percent Open Time (days)** shows a stacked bar graph that represents number of days for which the 80th percentile of total number of issues that were created per day, are open. Mouse over a color in the graph to see the 80th percentile number of days issues were open on a date.
 
 **Issues** shows a stacked bar graph that represents the total number of issues over time in the project by status: closed, open, resolved, in progress, and so on. Mouse over a color in the graph to see the status, the total number of issue for the status, and the date.
 

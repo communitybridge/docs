@@ -17,25 +17,35 @@ To view all dependencies, perform the following:
 
 A snapshot of dependencies in the repository in a tree format of the dependencies appears. The tree repository order is descendant from the greatest number of dependencies in a repository to the least number. Each item (a branch or a node) can have a number of subitems. By default, the first three levels appear. Expand nodes of interest to drill down in the tree.
 
-![Dependency Tree](../.gitbook/assets/Dependency.png)
+![All Dependencies](../.gitbook/assets/DT.png)
 
-2\. You can select a **repository** from the Repository drop-down list. Only dependencies for the selected repository and project appear.\
+2\. You can select a **repository** from the Repository drop-down list or select using  a **Manifest** file from the Manifest drop-down list. Only dependencies for the selected repository or manifest file for the selected project appear.
 
-
-![Select Repository](../.gitbook/assets/Dependency\_Select.png)
+![Repository or Manifest File ](<../.gitbook/assets/DT Search.png>)
 
 {% hint style="info" %}
 Click the download ![](../.gitbook/assets/Download\_icon.png) icon to download the dependency CSV file.&#x20;
 {% endhint %}
 
-3.Navigate the tree to identify vulnerable dependencies in the repository. A yellow warning icon indicates that an item has a child with a vulnerability—track a dependency by following the yellow warning icons down the tree. On vulnerable dependencies, colored labels indicate severity levels. You can click a label to go to the Details dashboard to see the issue details inside the project.\
+3.Navigate the tree to identify vulnerable dependencies in the repository. The issues  are categorized for different Manifest files. The Manifest file lists the node level and child level dependences.&#x20;
 
+![Categorization of Issues](../.gitbook/assets/Mani.gif)
 
-![](../.gitbook/assets/Tree.png)
+Each repository shows you the number of issues in the repository along with the criticality of the issue. Each criticality is defined with a different color.&#x20;
+
+![Color Code Categorization of Issues](../.gitbook/assets/Colour.gif)
+
+A View button is available at the deeper level to  go ahead and check the issue details. The color of the button will also indicate the criticality of the issue.&#x20;
+
+![View Button](../.gitbook/assets/Button.gif)
+
+A icon ![](<../.gitbook/assets/Icon (2).png>) is also available which suggests that there are issues still available further in the child level dependencies.&#x20;
+
+![Issues ](../.gitbook/assets/Tree.gif)
 
 4.Click a **license** of interest to go to SPDX and find out more information about a license. The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
 
-![License Details ](../.gitbook/assets/apache-license.png)
+![License Details ](../.gitbook/assets/Licensee\_Details.gif)
 
 ## Vulnerability Details &#x20;
 
@@ -45,15 +55,15 @@ To check the vulnerability details only, perform the following steps:
 
 1.Click **Dependency Tree** and select **Vulnerabilities Only**.&#x20;
 
-![Vulnerabilities Only](<../.gitbook/assets/Vul (2).png>)
+![Vulnerabilities Only](../.gitbook/assets/All\_Vul.png)
 
 {% hint style="info" %}
 Click the download ![](../.gitbook/assets/Download\_icon.png) icon to download the vulnerabilities CSV file.&#x20;
 {% endhint %}
 
-2\. List of vulnerabilities related for a particular repositories are listed. You  can click on the links for a particular issue such as High, Medium and Low. By clicking the link, you will redirected to the issues page.&#x20;
+2\. List of vulnerabilities related for a particular repositories or Manifest file are listed. The rest of the details related to issues is similar to what is explained under All Dependencies Section.&#x20;
 
-![Issues Link ](../.gitbook/assets/Vul\_link\_iss.png)
+![Issues](../.gitbook/assets/AllDep.png)
 
 
 

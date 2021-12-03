@@ -2,10 +2,10 @@
 
 You can have a look at some useful resources:
 
-* **Mentee Guide: **You can read the [Mentee Guide](../mentee-guide/) to know more about what is a mentee expected throughout the program.
-* **List of Organizations: **You can see a list of organisations that participated in previous years, by visiting the project site.
-* **Knowledge Base Articles: **You can find information related to advice to mentees, mentors, project applicants, by visiting the wiki page of the project.
-*   **Blog Post: **You can find information related to the Mentorship program at:
+* **Mentee Guide:** You can read the [Mentee Guide](../mentee-guide/) to know more about what is a mentee expected throughout the program.
+* **List of Organizations:** You can see a list of organisations that participated in previous years, by visiting the project site.
+* **Knowledge Base Articles:** You can find information related to advice to mentees, mentors, project applicants, by visiting the wiki page of the project.
+*   **Blog Post:** You can find information related to the Mentorship program at:
 
     * [https://www.linuxfoundation.org/resources/blog/](https://www.linuxfoundation.org/resources/blog/) and
     * [https://www.hyperledger.org/blog](https://www.hyperledger.org/blog)

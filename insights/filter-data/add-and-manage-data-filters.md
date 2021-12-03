@@ -7,15 +7,15 @@ After you add a filter, you can manage it by applying quick actions on the filte
 * [Add a Filter](add-and-manage-data-filters.md#AddandManageDataFilters-AddaFilter)
 * [Edit and Manage a Filter](add-and-manage-data-filters.md#AddandManageDataFilters-EditandManageaFilter)
 
-### Add a Filter <a href="addandmanagedatafilters-addafilter" id="addandmanagedatafilters-addafilter"></a>
+### Add a Filter <a href="#addandmanagedatafilters-addafilter" id="addandmanagedatafilters-addafilter"></a>
 
 1. On a data source dashboard, for example Technical Metrics > Source Control > Commits > Overview, click + **Add filter**.
-2. Click in the **Filter **field and:
+2. Click in the **Filter** field and:
    * Select a filter from the **Field** drop-down list.\
      &#x20;![](<../../.gitbook/assets/add filter.png>)&#x20;
    * Select an operator from the **Operato**r drop-down list
    * Type or select a filter value in the **Value** field.\
-     **Note: **You can turn on the **Create** **Custom label?** key to open **Custom label **field that lets you enter a label value that identifies your filter subject.
+     **Note:** You can turn on the **Create** **Custom label?** key to open **Custom label** field that lets you enter a label value that identifies your filter subject.
 3. Click **Edit as Query DSL** to build a filter using Elastic search Query DSL. You can create positive and negative operators and filter on whether or not a field is present.\
    &#x20;![](<../../.gitbook/assets/edit as query DSL.png>) \
 
@@ -27,11 +27,11 @@ After you add a filter, you can manage it by applying quick actions on the filte
    * **Disable** **all** disables the filters without removing them. Strike-through indicates that filters are disabled.
    * **Pin all** pins the filters. Pinned filters persist when you switch contexts. For example, you can pin a filter in one dashboard and it remains in place when you switch to another dashboard. A filter is based on a particular index field—if the indices being searched do not contain the field in a pinned filter, it has no effect.
    * **Unpin all** disables all pinned filters.
-   * **Invert inclusion **switches the positive filters to negative filters and vice-versa.
+   * **Invert inclusion** switches the positive filters to negative filters and vice-versa.
    * **Invert enabled/disabled** switches the enabled filters to disabled filters and vice-versa.
    * **Remove all** removes all the filters from the action bar.
 
-### Edit and Manage a Filter <a href="addandmanagedatafilters-editandmanageafilter" id="addandmanagedatafilters-editandmanageafilter"></a>
+### Edit and Manage a Filter <a href="#addandmanagedatafilters-editandmanageafilter" id="addandmanagedatafilters-editandmanageafilter"></a>
 
 The Edit filter option lets you manually update a filter and specify a label for it.
 
@@ -59,10 +59,10 @@ Click the filter that you want to manage,  and select any of the **action button
 {% endhint %}
 
 * **Edit filter** opens the Edit filter dialog.
-* **Include results **includes items that match the specified field value. **Exclude results **option shows when you click Include results.
-* **Exclude results** excludes items that match the specified field value. **Include results **option shows when you click Exclude results.
-* **Temporarily disable** disables the filter without removing it. Strike-through indicates that a filter is disabled. **Re-enable **option shows when you click Temporarily disable.
+* **Include results** includes items that match the specified field value. **Exclude results** option shows when you click Include results.
+* **Exclude results** excludes items that match the specified field value. **Include results** option shows when you click Exclude results.
+* **Temporarily disable** disables the filter without removing it. Strike-through indicates that a filter is disabled. **Re-enable** option shows when you click Temporarily disable.
 * **Delete** removes the filter.\
-  **Note: **You can click **× **next to a filter to delete it.\
+  **Note:** You can click **×** next to a filter to delete it.\
   &#x20;![](<../../.gitbook/assets/delete filter.png>)&#x20;
 

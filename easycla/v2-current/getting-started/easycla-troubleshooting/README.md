@@ -6,19 +6,19 @@
 
 Following sections help you troubleshoot common problems that you might encounter when using EasyCLA tool.
 
-* [GitHub pull request is not passing](broken-reference)
-* [(GitHub) Unable to contribute to EasyCLA-enforced repositories](broken-reference)
-* [(Gerrit) Unable to contribute to EasyCLA-enforced repositories](broken-reference)
-* [(GitHub) Individual Contributor's EasyCLA status is not updated](broken-reference)
-* [(Gerrit) Individual Contributor's EasyCLA status is not updated](broken-reference)
-* [(GitHub) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](broken-reference)
-* [(Gerrit) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](broken-reference)
-* [EasyCLA status displays "Expected"​ in the "Checks" section of the Pull Request](broken-reference)
-* [EasyCLA status does not change to "Authorized" for multiple open pull requests after signing ICLA and/or CCLA](broken-reference)
-* [I cannot use EasyCLA for my Linux Foundation-hosted project](broken-reference)
-* [My company is not displayed in the list when I am trying to contribute code under a corporate CLA (CCLA)](broken-reference)
-* [I cannot view my individual CLA (ICLA) after I sign it](broken-reference)
-* [EasyCLA is Disabled for a GitHub repository](broken-reference)
+* [GitHub pull request is not passing](./#github-pull-request-is-not-passing)
+* [(GitHub) Unable to contribute to EasyCLA-enforced repositories](./#github-unable-to-contribute-to-easycla-enforced-repositories)
+* [(Gerrit) Unable to contribute to EasyCLA-enforced repositories](./#gerrit-unable-to-contribute-to-easycla-enforced-repositories)
+* [(GitHub) Individual Contributor's EasyCLA status is not updated](./#github-individual-contributors-easycla-status-is-not-updated)
+* [(Gerrit) Individual Contributor's EasyCLA status is not updated](./#gerrit-individual-contributors-easycla-status-is-not-updated)
+* [(GitHub) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](./#github-corporate-contributors-easycla-status-is-not-updated)
+* [(Gerrit) Corporate Contributor's EasyCLA status is not updated after being added to the approved list](./#gerrit-corporate-contributors-easycla-status-is-not-updated)
+* [EasyCLA status displays "Expected"​ in the "Checks" section of the Pull Request](./#easycla-status-displays-expected-in-the-checks-section-of-the-pull-request)
+* [EasyCLA status does not change to "Authorized" for multiple open pull requests after signing ICLA and/or CCLA](./#easycla-status-does-not-change-to-authorized-for-multiple-open-pull-requests-after-signing-icla-and)
+* [I cannot use EasyCLA for my Linux Foundation-hosted project](./#i-cannot-use-easycla-for-my-linux-foundation-hosted-project)
+* [My company is not displayed in the list when I am trying to contribute code under a corporate CLA (CCLA)](./#my-company-is-not-displayed-in-the-list-when-i-am-trying-to-contribute-code-under-a-corporate-cla-cc)
+* [I cannot view my individual CLA (ICLA) after I sign it](./#i-cannot-view-my-individual-cla-icla-after-i-sign-it)
+* [EasyCLA is Disabled for a GitHub repository](../../../v1-deprecated/getting-started/cla-troubleshooting/easycla-is-disabled.md)
 
 ## GitHub pull request is not passing
 
@@ -28,8 +28,8 @@ I have an agreement on file, but EasyCLA does not authorize me and displays "Mis
 
 #### Solution:
 
-* Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any GitHub user, GitHub will display the _grey Octocat logo _![](<../../../../.gitbook/assets/grey colored octobat.png>)beside the commits.&#x20;
-* If your commits are linked to your GitHub account, and yet the GitHub pull request is not passing the EasyCLA check, then open the pull request, type`/easycla` in the comment box, click **Comment **as shown below. This runs the EasyCLA bot again, and the GitHub pull request is passed.
+* Ensure that your commits are [linked to your GitHub account](https://docs.github.com/en/github/committing-changes-to-your-project/why-are-my-commits-linked-to-the-wrong-user#commits-are-not-linked-to-any-user). If your commits are not linked to any GitHub user, GitHub will display the _grey Octocat logo_ ![](<../../../../.gitbook/assets/grey colored octobat.png>)beside the commits.&#x20;
+* If your commits are linked to your GitHub account, and yet the GitHub pull request is not passing the EasyCLA check, then open the pull request, type`/easycla` in the comment box, click **Comment** as shown below. This runs the EasyCLA bot again, and the GitHub pull request is passed.
 
 ![Pull Request Commenting](<../../../../.gitbook/assets/pull request commenting.png>)
 
@@ -65,7 +65,7 @@ After a Contributor has signed an ICLA, EasyCLA status is not updated on contrib
 
 #### Solution:
 
-It may take a few moments for the status of the EasyCLA checks to update. Please wait a few moments and then refresh the page.** **If the EasyCLA status is still not updated, open the pull request, and comment `/easycla` in the comment section as shown below. This comment runs the bot again. If the status still does not change, open a support ticket.
+It may take a few moments for the status of the EasyCLA checks to update. Please wait a few moments and then refresh the page. **** If the EasyCLA status is still not updated, open the pull request, and comment `/easycla` in the comment section as shown below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
 ![Comment /easycla in the Pull Request](<../../../../.gitbook/assets/pull request commenting.png>)
 
@@ -100,7 +100,7 @@ For a CCLA, after a contributor has been added to the approved list for the firs
 
 #### Solution:
 
-Navigate to the Gerrit window, **sign out**, **sign in **again, and then push the code.
+Navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
 
 ![](<../../../../.gitbook/assets/signout gerrit.png>)
 
@@ -112,7 +112,7 @@ In the “Checks” section of the pull request, EasyCLA status is showing as �
 
 #### **Solution:**
 
-Open the pull request, and comment` /easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
+Open the pull request, and comment `/easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
 ![Comment /easycla in the Pull Request](<../../../../.gitbook/assets/pull request commenting.png>)
 
@@ -124,7 +124,7 @@ After signing an ICLA or verifying under a CCLA, the status does not change to �
 
 #### **Solution:**
 
-Open one pull request, and comment` /easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
+Open one pull request, and comment `/easycla` in the comment section as shown in the image below. This comment runs the bot again. If the status still does not change, open a support ticket.
 
 ![Comment /easycla in the Pull Request](<../../../../.gitbook/assets/pull request commenting.png>)
 

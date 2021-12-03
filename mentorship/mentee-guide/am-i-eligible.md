@@ -1,8 +1,8 @@
 # Am I Eligible?
 
-**Eligibility Rules **
+**Eligibility Rules**&#x20;
 
-The following eligibility rules apply to all mentee applicants. 
+The following eligibility rules apply to all mentee applicants.&#x20;
 
 * Be at least 18 years old by the time the mentorship program starts.
 * Not be a prior or an active participant in another Linux Foundation mentorship program.

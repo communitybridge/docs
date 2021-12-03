@@ -10,7 +10,7 @@ You can search by a name or keyword to find specific profiles. The search result
 
 ![](../../.gitbook/assets/18088122.png)
 
-3\. In **Search Profiles** field, enter a** name** or **keyword** and click **Search**.
+3\. In **Search Profiles** field, enter a **name** or **keyword** and click **Search**.
 
 * Profile results show Name, Email, Affiliations, Bot, Country, Last Modified, and #. The following column headers require explanation:
   * Affiliations shows the name of the organization that is affiliated with the profile.

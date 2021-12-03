@@ -18,7 +18,7 @@ It’s not just us telling good about our mentorship program, listen to what our
 
 “The first thing I would like to emphasize is that this is not just a summer job for the interns. During the internship, they had a chance to get to know the intricacies of different Hyperledger projects. They also worked closely with mentors who guided them throughout their work. But above all else, they became part of an open source community.”
 
-– **Attila Klenik, mentor for Hyperledger **
+– **Attila Klenik, mentor for Hyperledger**&#x20;
 
 “I have always enjoyed sharing knowledge, and this program gave me the opportunity to do that. My proudest moment easily was when my intern spoke about how the things we taught her during the internship directly applied to her current classes. As I mentioned above, our first goal was to make sure our intern learned enough that she could apply it to the rest of her career.”
 

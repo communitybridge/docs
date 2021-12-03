@@ -2,13 +2,13 @@
 
 Beneficiaries submit their requests for project-related expenses for reimbursement through Expensify.&#x20;
 
-**Note: **All expenses appear in the project's public ledger (transaction list) for full transparency.&#x20;
+**Note:** All expenses appear in the project's public ledger (transaction list) for full transparency.&#x20;
 
 * [Prepare for Reimbursement](get-reimbursed.md#GetReimbursed-PrepareforReimbursement)
 * [Set Up a Reimbursement Account and Create a Report](get-reimbursed.md#GetReimbursed-SetUpaReimbursementAccountandCreateaReport)
 * [Submit an Expense Report:](get-reimbursed.md#GetReimbursed-SubmitanExpenseReport:)
 
-## Prepare for Reimbursement <a href="getreimbursed-prepareforreimbursement" id="getreimbursed-prepareforreimbursement"></a>
+## Prepare for Reimbursement <a href="#getreimbursed-prepareforreimbursement" id="getreimbursed-prepareforreimbursement"></a>
 
 Consider the following financial aspects of reimbursement before you make a request:
 
@@ -19,7 +19,7 @@ Consider the following financial aspects of reimbursement before you make a requ
 * Receipts for the expenses that you want to submit for reimbursement
 * The Expensify policy invitation email that you received from the Linux Foundation.
 
-## Set Up a Reimbursement Account and Create a Report <a href="getreimbursed-setupareimbursementaccountandcreateareport" id="getreimbursed-setupareimbursementaccountandcreateareport"></a>
+## Set Up a Reimbursement Account and Create a Report <a href="#getreimbursed-setupareimbursementaccountandcreateareport" id="getreimbursed-setupareimbursementaccountandcreateareport"></a>
 
 You set up an Expensify account and link it to a bank or financial service account to receive reimbursements.
 
@@ -49,7 +49,7 @@ Depending on your location:
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 
-## Submit an Expense Report: <a href="getreimbursed-submitanexpensereport" id="getreimbursed-submitanexpensereport"></a>
+## Submit an Expense Report: <a href="#getreimbursed-submitanexpensereport" id="getreimbursed-submitanexpensereport"></a>
 
 1. Follow these [steps in Expensify](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/how-to-create-and-submit-an-expensify-report) to create and submit an expense report.\
    After you submit your report, the approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.

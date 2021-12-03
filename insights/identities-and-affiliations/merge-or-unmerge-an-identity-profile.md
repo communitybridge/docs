@@ -5,7 +5,7 @@ An identity is a record (tuple) composed of a name, email, username, and the nam
 Each unique identity has a profile that summarizes the user data. The profile can be linked to more than one identity and you can merge an identity to the profile.
 
 {% hint style="warning" %}
-**Important: **
+**Important:**&#x20;
 
 * LF Insights automatically merges a new identity to an existing profile if the new identity has the same email address and name that of the existing profile in the relational database.
 * LF Insights supports names with special characters while checking for an identity:
@@ -19,7 +19,7 @@ Each unique identity has a profile that summarizes the user data. The profile ca
 
 1. Select a **project name** of interest.
 2. Click **Identities & Affiliations**.
-3. Select a profile from **Top Unaffiliated Contributor **list or [search for a profile](find-a-profile.md).
+3. Select a profile from **Top Unaffiliated Contributor** list or [search for a profile](find-a-profile.md).
 4. Click a **row** that corresponds to a name of interest.
 5. Navigate to **Identity Management**.\
    The profile identities are listed. Each identity shows Name, E-mail, Username, Source, and an Unmerge button.\
@@ -34,7 +34,7 @@ Each unique identity has a profile that summarizes the user data. The profile ca
 
 An identity relates a profile with a unique identity.
 
-1\. Click** Add New**.\
+1\. Click **Add New**.\
 The Add an Identity pane appears:
 
 ![Add New Identity](<../../.gitbook/assets/add new identity.png>)
@@ -53,6 +53,6 @@ The added identity is listed in Profile Identities.
 
 After you add a unique identity to a profile, the identity appears under Identity Management .
 
-Click **Unmerge**, and confirm** **to unmerge the unique identity from the user profile.
+Click **Unmerge**, and confirm **** to unmerge the unique identity from the user profile.
 
 ![Unmerge Identity](<../../.gitbook/assets/unmerge identity.png>)

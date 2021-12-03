@@ -2,7 +2,7 @@
 
 Affiliation Management becomes enable for you after you request and, are granted access to your specific projects.
 
-**Prerequisites:  **You must have a Single Sign-On (SSO) account. [Create an account](../../sso/create-an-account.md) if you do not have an SSO account.
+**Prerequisites:**  You must have a Single Sign-On (SSO) account. [Create an account](../../sso/create-an-account.md) if you do not have an SSO account.
 
 1\. Sign in to [LFX Insights](https://insights.lfx.linuxfoundation.org/projects), and navigate to a project group or individual project dashboard.
 

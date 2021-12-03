@@ -6,7 +6,7 @@ By default, Bot Commits and Issues Only are filtered. Dashboard shows data only 
 
 Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
 
-The Jira dashboards under **Issue Management **represents a set of metrics that shows an analysis of Jira issues . Following are the various dashboards of Jira dashboard:
+The Jira dashboards under **Issue Management** represents a set of metrics that shows an analysis of Jira issues . Following are the various dashboards of Jira dashboard:
 
 * [Overview](jira.md#overview)
 * [Effort](jira.md#effort)
@@ -17,25 +17,25 @@ The Jira dashboards under **Issue Management **represents a set of metrics that 
 
 Overview shows information about issues in repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided.
 
-**Filter **lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows total number of issues, submitters , and projects.
 
-**Backlog **shows a line graph shows the total number of issues in open state over time.
+**Backlog** shows a line graph shows the total number of issues in open state over time.
 
-**Issues by Status **shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
+**Issues by Status** shows a stacked bar graph that represents the number of issues by status per day over time. Issue statuses are color code. Mouse over a color in the graph to see the total number of issues by status that occurred on a date.
 
-**Issues Assigned To Organization **shows a stacked bar graph that represents the number of issues assigned to an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues assigned to the organization on a date.
+**Issues Assigned To Organization** shows a stacked bar graph that represents the number of issues assigned to an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues assigned to the organization on a date.
 
-**Issues Submitted By Organization **shows a stacked bar graph that represents the number of issues submitted by an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues submitted by the organization on a date.
+**Issues Submitted By Organization** shows a stacked bar graph that represents the number of issues submitted by an organization per day over time. Organizations are color code. Mouse over a color in the graph to see the total number of issues submitted by the organization on a date.
 
-**Submitters **hows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters and the date.
+**Submitters** hows a bar graph that represents the number of submitters per day over time. Mouse over a color in the graph to see the total number of submitters and the date.
 
 **Submitters by Organization** shows a doughnut chart that represents the organizations that submitted issues (not unique issues; it includes activities on issues, such as comments, approvals, and so on) in the project. Mouse over a color in the chart to see the total number of submitters for the organization, and their percentage of the project's organization.
 
 **Assignees by Organization** shows a doughnut chart that represents the organizations that are assigned with the issues (not unique issues; it includes activities on issues, such as comments, approvals, and so on) in the project. Mouse over a color in the chart to see the total number of assignees for the organization, and their percentage of the project's organization.
 
-**Assignees **shows:
+**Assignees** shows:
 
 * a stacked bar graph that represents total number of assignees for a calendar period. Mouse over a color in the graph to see total number of assignees for a date.
 * a table that lets you sort values by assignees names, number of issues, projects, reporters, and average time in days the issues were open before they were closed.
@@ -52,11 +52,11 @@ Overview shows information about issues in repositories and who submitted the is
 
 Effort shows data about authors and assignees, and their effort in hours per project and organization.
 
-**Filter **lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Items, Authors, Assignees, Total Hours Estimated, Total Hours Remaining, and Total Hours Logged for the project.
 
-**Assigned Organizations **shows a doughnut chart that represents the total number of assignees per organization. Mouse over a color in the chart to see the total number of assignees per organization, and the percentage of assignees for that organization out of the total assignees.
+**Assigned Organizations** shows a doughnut chart that represents the total number of assignees per organization. Mouse over a color in the chart to see the total number of assignees per organization, and the percentage of assignees for that organization out of the total assignees.
 
 **Estimated by Repository** shows a doughnut chart that represents the total number of estimated hours per repository. Mouse over a color in the chart to see the total number of estimated hours per repository, and the percentage of estimated hours for that repository out of the total hours.
 
@@ -80,7 +80,7 @@ Effort shows data about authors and assignees, and their effort in hours per pro
 
 Timing shows information about open and closed issues in time and lets you focus on how long Issues remain open. Statistical information shows the 50th percentile of median time open in days. The number indicates the median number of days that issues were open. This number indicates that 50 percent of the issues were open longer than that number and 50 percent of the issues were below that number. A 50th percentile is the same as a median.
 
-**Filter **lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Issues, Submitters, Assignees, 50th percentile of Median Open Days, and Avg. Open Days.
 
@@ -100,7 +100,7 @@ Timing shows information about open and closed issues in time and lets you focus
 
 Backlog focuses on open issues, their accumulated time, and associated organization.
 
-**Filter **lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by submitter name, organization name, and project. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of open issues, accumulated time in days while issues were open, and the average time in days per open issue over time.
 

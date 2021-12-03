@@ -28,7 +28,7 @@ GitHub is set up to permit administrators and organization owners to have maximu
 
 ![CLA GitHub branch Add Rule](../../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
-**Result: **Branch protection rule settings appears
+**Result:** Branch protection rule settings appears
 
 6\. Select the following check boxes in Rule settings and click **Create**.
 

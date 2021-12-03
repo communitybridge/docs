@@ -10,23 +10,23 @@ This is a remote opportunity and there is no need to relocate or move to partici
 
 –  Kelsey Skunberg, Linux Kernel Mentorship Program Mentee
 
-“Before this internship I mainly worked on theoretical blockchain and cryptography research at Purdue University, and this internship gave me a perfect balance between development and research.” 
+“Before this internship I mainly worked on theoretical blockchain and cryptography research at Purdue University, and this internship gave me a perfect balance between development and research.”&#x20;
 
 – Jason You, mentee for Hyperledger Caliper visualization
 
-"Initially open source development was new territory for me, and it was a bit intimidating at first (technical skills aside). But then I got to present my project work on the next Hyperledger event. That was my first close-up experience with the Hyperledger community, and it opened up a world of possibilities. I met the maintainers of many projects, we exchanged ideas, and they answered many of my questions. And suddenly the open source Hyperledger ecosystem wasn’t intimidating anymore." 
+"Initially open source development was new territory for me, and it was a bit intimidating at first (technical skills aside). But then I got to present my project work on the next Hyperledger event. That was my first close-up experience with the Hyperledger community, and it opened up a world of possibilities. I met the maintainers of many projects, we exchanged ideas, and they answered many of my questions. And suddenly the open source Hyperledger ecosystem wasn’t intimidating anymore."&#x20;
 
 – Attila Klenik, Hyperledger Summer Intern Program alum and current mentor.
 
 ### **Get paid while learning**
 
-Mentees are eligible to receive a [stipend](../mentee-stipends/total-stipend-amount.md), which is paid in two installments, provided that regular interval evaluations show you're making satisfactory progress. The final installment will be paid upon successful mentorship completion. 
+Mentees are eligible to receive a [stipend](../mentee-stipends/total-stipend-amount.md), which is paid in two installments, provided that regular interval evaluations show you're making satisfactory progress. The final installment will be paid upon successful mentorship completion.&#x20;
 
 ### **Get Hired**
 
 After you successfully complete the mentorship program, get connected to potential employers who are focused on your project and are offering interview opportunities. Your mentor may also refer you to a company.
 
-**Note: **Any interactions you have with a company are strictly between you and the company, and are not part of or connected to the Mentorship program, nor do such interactions involve the Linux Foundation.
+**Note:** Any interactions you have with a company are strictly between you and the company, and are not part of or connected to the Mentorship program, nor do such interactions involve the Linux Foundation.
 
 ### **Hone your developer skills**
 

@@ -178,11 +178,11 @@ Unaffiliated contributors are those contributors who are contributing (or have c
 
 ### Unique commits
 
-Unique commits are identified based on the _SHA _(_Secure Hash Algorithm) _associated with a commit. For multiple entries for a single commit, the number of unique commits are considered as _one_  because unique commits are filtered based on the unique SHA of the commit.
+Unique commits are identified based on the _SHA_ (_Secure Hash Algorithm)_ associated with a commit. For multiple entries for a single commit, the number of unique commits are considered as _one_  because unique commits are filtered based on the unique SHA of the commit.
 
 ### Unique contributors
 
-Contribution by contributors/developers based on their [UUID](glossary.md#uuid)s. For example, if_ ten_ contributors have pushed 20 commits each, the number of _unique contributors_ will be considered as _10_, not 200 as it is the total number of commits.
+Contribution by contributors/developers based on their [UUID](glossary.md#uuid)s. For example, if _ten_ contributors have pushed 20 commits each, the number of _unique contributors_ will be considered as _10_, not 200 as it is the total number of commits.
 
 ### Unique repository
 

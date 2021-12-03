@@ -16,38 +16,38 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
    * [Donate/Sponsor to projects](../donate-sponsor/)
    * [Register to participate in an event](../register-for-an-event.md)
 
-## Projects <a href="dashboard-projectsandmentorships" id="dashboard-projectsandmentorships"></a>
+## Projects <a href="#dashboard-projectsandmentorships" id="dashboard-projectsandmentorships"></a>
 
 **Projects** tab includes Git-based projects. Each project card shows the following information:
 
 * **Project name and logo** - click on the project title/logo to navigate to[ project ](projects.md)details page
-* **Tags **- technologies the project is associated with
+* **Tags** - technologies the project is associated with
 * **Funds Raised** - total funds raised so far
 * **Goal** - total funding goal for the project
-* **Funds Distributed **- total expenses so far
-* **Sponsors **- images of sponsors (Individuals and Organizations) for the project
+* **Funds Distributed** - total expenses so far
+* **Sponsors** - images of sponsors (Individuals and Organizations) for the project
 * **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
 ![Projects](../../.gitbook/assets/projects.png)
 
-## Events <a href="dashboard-events" id="dashboard-events"></a>
+## Events <a href="#dashboard-events" id="dashboard-events"></a>
 
-**Events **tab shows events, such as forums or conferences.  Each event card shows the following information:
+**Events** tab shows events, such as forums or conferences.  Each event card shows the following information:
 
-* **Event name and logo **- click on the event title/logo to navigate to [event ](events.md)details page
+* **Event name and logo** - click on the event title/logo to navigate to [event ](events.md)details page
 * **Tags** - technologies the event is associated with
-* **Dates **- beginning and end dates of the event
+* **Dates** - beginning and end dates of the event
 * **Funds Raised** - total amount of funds raised for the event
-* **Location **-** **the place where the event takes place
+* **Location** - **** the place where the event takes place
 * **Sponsors** - images of sponsors (Individuals and Organizations) for the event
 * **Sponsor** - Click to [sponsor events](../donate-sponsor/sponsor-events.md) they want to support
 * **Register** - Click to [register for an event](../register-for-an-event.md) they want to attend
 
 ![Events](../../.gitbook/assets/events.png)
 
-## Travel Funds <a href="dashboard-travelscholarships" id="dashboard-travelscholarships"></a>
+## Travel Funds <a href="#dashboard-travelscholarships" id="dashboard-travelscholarships"></a>
 
-**Travel Funds **includes diversity and need-based travel funding. Each travel fund card shows the following information:
+**Travel Funds** includes diversity and need-based travel funding. Each travel fund card shows the following information:
 
 * **Travel Fund name and logo** - click on the travel fund title/logo to navigate to [travel fund](travel-funds.md) details page
 * **Tags** - technologies the travel related event or meet-up is associated with.
@@ -66,10 +66,10 @@ Dashboard gives an overview of projects, events, travel funds, security audits, 
 * **Project name and logo** - click on the project title/logo to navigate to[ security audit](security-audit.md) details page
 * **Tags** - technologies the project is associated with
 * **Funds Raised** - total funds raised so far
-* **Goal **-** **total funding goal for the project
+* **Goal** - **** total funding goal for the project
 * **Sponsors** - images of sponsors (Individuals and Organizations) for the project
 * **Funds Distributed** - total expenses so far
-* **Donate **- Click to [donate](../donate-sponsor/) funds to the project they want to support
+* **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
 ![Security Audits](<../../.gitbook/assets/security audits.png>)
 
@@ -82,10 +82,10 @@ Each General Fund card shows the following information:
 * **Fund name and logo** - click on the title/logo to navigate to[ ](projects.md)[general funds](general-funds.md) details page
 * **Tags** - technologies the project is associated with
 * **Funds Raised** - total funds raised so far
-* **Goal **-** **total funding goal for the project
+* **Goal** - **** total funding goal for the project
 * **Sponsors** - images of sponsors (Individuals and Organizations) for the project
 * **Funds Distributed** - total expenses so far
-* **Donate **- Click to [donate](../donate-sponsor/) funds to the project they want to support
+* **Donate** - Click to [donate](../donate-sponsor/) funds to the project they want to support
 
 
 

@@ -6,10 +6,10 @@ The following table lists all the fields in the **Project Details** panel of the
 
 | Field Name              | Description                                                                                                                                                                                                                                                                                                                       |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project Name**        | <p>A funding project name which must be unique.<br><strong>Note: </strong>Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name.</p>                                                                                                                               |
+| **Project Name**        | <p>A funding project name which must be unique.<br><strong>Note:</strong> Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name.</p>                                                                                                                               |
 | **Topic / Category**    | Type of industry that relates to your repository. Click in the field to open a list of names to choose from. Click ![](<../.gitbook/assets/18088098 (3) (2) (1).jpg>) after you select a category from the list.                                                                                                                  |
 | **Elevator pitch**      | Brief statement of why your project is important to support.                                                                                                                                                                                                                                                                      |
-| **Repository URL**      | <p>URL of the Git repository. <br><strong>Note:</strong> If you choose <strong>Add GITHUB/GIT Repository </strong>from the options while applying, your Git repository is automatically reflected in this field.</p>                                                                                                              |
+| **Repository URL**      | <p>URL of the Git repository. <br><strong>Note:</strong> If you choose <strong>Add GITHUB/GIT Repository</strong> from the options while applying, your Git repository is automatically reflected in this field.</p>                                                                                                              |
 | **Website URL**         | A link to the website that you want to associate with the fund.                                                                                                                                                                                                                                                                   |
 | **CII Project ID**      | The [Core Infrastructure Initiative (CII) Badge Program](https://www.coreinfrastructure.org/programs/badge-program/) is an open source secure development maturity model. Project admins need to apply to get a badge and CII Project ID number if their project doesn't have one.                                                |
 | **Code of Conduct URL** | URL for the open source project code of conduct. If a project doesn't have a code of conduct, a program admin can create one by using a provided template. If not code of conduct is provided, the URL will default to [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) code of conduct.  |
@@ -38,10 +38,10 @@ The following table lists all the fields in the **Project Beneficiaries** panel 
 | **Name**   | The name of the person who you want to designate as a beneficiary of funds. |
 | **Email**  | The email of the project beneficiary.                                       |
 
-After you enter the name and email address of a person, click **+Add beneficiary **to add the person to the list. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
+After you enter the name and email address of a person, click **+Add beneficiary** to add the person to the list. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
 
 {% hint style="info" %}
-**Note: **Only the project administrator can add or remove beneficiaries. The finance team is notified and adjusts the Expensify accounts accordingly.
+**Note:** Only the project administrator can add or remove beneficiaries. The finance team is notified and adjusts the Expensify accounts accordingly.
 {% endhint %}
 
 ### Annual Project Funding
@@ -54,12 +54,12 @@ After you enter the name and email address of a person, click **+Add beneficiary
 
 **Fund Distribution** enables goals for how you want to distribute funds in your project. Enter a percentage of your Annual Funding Goal amount to designate towards the selected goal. Following are various goals towards which you can distribute your fund:
 
-* **Development Goal: **You can use funds allocated for this category to pay top developers for contributing codes, adding features, fixing bugs, and training and bringing in new talents to the community.
-* **Marketing Goal: **You can use funds allocated for this category to promote and grow your project through the development of collateral, website design, t-shirts to wear at events, and so on.
-* **Meetups Goal: **You can use funds allocated for this category to socially connect with your community through local meetups, annual summits, or big industry events.** **
-* **Bug Bounty Goal: **You can use funds allocated for this category to run bug bounty programs (for example, through HackerOne or other program), and pay community to help you identify bugs.
-* **Travel Goal: **You can use funds allocated for this category to sponsor travel for project members to attend conferences, meetups, or customer meetings.
-* **Documentation Goal: **You can use funds allocated for this category to drive specific documentation activities, such as paying technical writers, purchasing subscription premiums, and so on.
+* **Development Goal:** You can use funds allocated for this category to pay top developers for contributing codes, adding features, fixing bugs, and training and bringing in new talents to the community.
+* **Marketing Goal:** You can use funds allocated for this category to promote and grow your project through the development of collateral, website design, t-shirts to wear at events, and so on.
+* **Meetups Goal:** You can use funds allocated for this category to socially connect with your community through local meetups, annual summits, or big industry events. ****&#x20;
+* **Bug Bounty Goal:** You can use funds allocated for this category to run bug bounty programs (for example, through HackerOne or other program), and pay community to help you identify bugs.
+* **Travel Goal:** You can use funds allocated for this category to sponsor travel for project members to attend conferences, meetups, or customer meetings.
+* **Documentation Goal:** You can use funds allocated for this category to drive specific documentation activities, such as paying technical writers, purchasing subscription premiums, and so on.
 
 ![](../.gitbook/assets/7418622.png)
 

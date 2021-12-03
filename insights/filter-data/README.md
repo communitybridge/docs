@@ -15,11 +15,11 @@ The selected dashboard appears and shows relevant visualizations.
 
 * **Apply changes:** Filters the dashboard as per selected values
 * **Cancel changes**: If there are filter values selected before, it shows the previously selected filter values in the respective drop-down fields. If there are no filter values selected before, it cancels the present values.
-* **Clear from: **It clears all the filter values, and lets you add new values in the respective drop-down fields.
+* **Clear from:** It clears all the filter values, and lets you add new values in the respective drop-down fields.
 
 ![](<../../.gitbook/assets/filter data.png>)
 
-## Refine Your View <a href="viewdashboardanalytics-refineyourview" id="viewdashboardanalytics-refineyourview"></a>
+## Refine Your View <a href="#viewdashboardanalytics-refineyourview" id="viewdashboardanalytics-refineyourview"></a>
 
 * [Filter Data by Time Range](filter-data-by-time-range.md)
 * [Filter Metrics Visualizations](filter-metrics-visualizations.md)

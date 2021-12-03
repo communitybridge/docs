@@ -4,7 +4,7 @@
 * [Set Up a Reimbursement Account in Expensify](submit-travel-funding-reimbursement-expensify-report.md#SubmitTravelFundingReimbursementExpenseReport-SetUpaReimbursementAccountinExpensify)
 * [Create and Submit an Expense Report](submit-travel-funding-reimbursement-expensify-report.md#SubmitTravelFundingReimbursementExpenseReport-CreateandSubmitanExpenseReport)
 
-## Prepare for Reimbursement <a href="submittravelfundingreimbursementexpensereport-prepareforreimbursement" id="submittravelfundingreimbursementexpensereport-prepareforreimbursement"></a>
+## Prepare for Reimbursement <a href="#submittravelfundingreimbursementexpensereport-prepareforreimbursement" id="submittravelfundingreimbursementexpensereport-prepareforreimbursement"></a>
 
 Consider the following financial aspects of reimbursement:
 
@@ -17,7 +17,7 @@ Have these items handy before you begin:
 * The amount of your approved Travel Fund&#x20;
 {% endhint %}
 
-## Set Up a Reimbursement Account in Expensify <a href="submittravelfundingreimbursementexpensereport-setupareimbursementaccountinexpensify" id="submittravelfundingreimbursementexpensereport-setupareimbursementaccountinexpensify"></a>
+## Set Up a Reimbursement Account in Expensify <a href="#submittravelfundingreimbursementexpensereport-setupareimbursementaccountinexpensify" id="submittravelfundingreimbursementexpensereport-setupareimbursementaccountinexpensify"></a>
 
 You will receive an invitation email from the Expensify Concierge stating that you are added to a Linux Foundation Travel Funds Policy. Use the same email address linked to your travel funding approval to sign into an existing [Expensify](https://www.expensify.com) account or set up a new one. If you are using a United States bank, link Expensify to your bank or financial service account.
 
@@ -48,9 +48,9 @@ Event attendance is required for reimbursement. Expense reports will not be revi
 The Linux Foundation Wire Transfer Form
 {% endfile %}
 
-## Create and Submit an Expense Report <a href="submittravelfundingreimbursementexpensereport-createandsubmitanexpensereport" id="submittravelfundingreimbursementexpensereport-createandsubmitanexpensereport"></a>
+## Create and Submit an Expense Report <a href="#submittravelfundingreimbursementexpensereport-createandsubmitanexpensereport" id="submittravelfundingreimbursementexpensereport-createandsubmitanexpensereport"></a>
 
-**To Create or Submit an Expense Report: **
+**To Create or Submit an Expense Report:**&#x20;
 
 1. Sign In to [Expensify](https://www.expensify.com).
 2. Create and submit an expense report. For details, see [How to Create and Submit an Expensify Report](how-to-create-and-submit-an-expensify-report.md).\

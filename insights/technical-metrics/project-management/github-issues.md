@@ -17,7 +17,7 @@ Following are the various dashboards of GitHub Issues:
 
 Overview shows information about issues in project repositories and who submitted the issues and when. For each commit, information about the corresponding organization is also provided.
 
-**Filter **lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of issues, submitters, and repositories for the project.
 
@@ -25,7 +25,7 @@ Overview shows information about issues in project repositories and who submitte
 
 **Issues by Status Over Time** shows a stacked bar graph that represents the number of open and closed issues over time.
 
-**Issues Percentage by Organization **shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color (organization) in the chart to see the organization name, total number and percentage of issues.
+**Issues Percentage by Organization** shows a doughnut chart that represents the total number of issues created by each organization over time. Mouse over a color (organization) in the chart to see the organization name, total number and percentage of issues.
 
 **Issue Submitters Over Time** shows a bar graph that shows the number of submitters of issues per day over time.
 
@@ -39,7 +39,7 @@ Overview shows information about issues in project repositories and who submitte
 
 Efficiency offers an overall view of understanding and optimizing project efficiency in closing GitHub issues.
 
-**Filter **lets you filter the project data by organization name, author name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the project data by organization name, author name, repository name, and repository URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows a cluster of&#x20;
 
@@ -65,7 +65,7 @@ Efficiency offers an overall view of understanding and optimizing project effici
 
 Timing shows information about open and closed issues in time. The dashboard focuses on how long Issues remain open. Statistical information provides closing times and also tables with the latest and the oldest Issues.
 
-**Filter **lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name, organization name, and repository. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of issues, submitters, assignees, average number of days issues in open state have been in open, and  average number of days it takes to close issues.
 
@@ -87,7 +87,7 @@ Timing shows information about open and closed issues in time. The dashboard foc
 
 Backlog focuses on open issues, their accumulated time, and associated organization.
 
-**Filter **lets you filter the dashboard data by author name, organization name, repository name and URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name, organization name, repository name and URL. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows total number of issues in open state, total number of repositories with issues in open state, and average number of days issues have been in open state.
 
@@ -99,6 +99,6 @@ Backlog focuses on open issues, their accumulated time, and associated organizat
 
 **Percentage of Issues Opened By Organizations** shows a doughnut chart that represents the total number of issues opened per organization. Mouse over a color in the chart to see the total number and percentage of issues raised by an organization.
 
-**Issues In Open By Submitters **shows a table that lists name of the submitter, total number of issues raised by the submitter, number of repositories the submitter worked upon, and average number of days the issues were in open state per submitter.&#x20;
+**Issues In Open By Submitters** shows a table that lists name of the submitter, total number of issues raised by the submitter, number of repositories the submitter worked upon, and average number of days the issues were in open state per submitter.&#x20;
 
-**Issues In Open By Organization **shows a table that lists name of the organization, total number of issues submitted by the organization, number of submitters from the organization, and average number of days the issues were in open state per organization.
+**Issues In Open By Organization** shows a table that lists name of the organization, total number of issues submitted by the organization, number of submitters from the organization, and average number of days the issues were in open state per organization.

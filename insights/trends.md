@@ -10,12 +10,12 @@ Trends dashboards provide analytics of project performance, ecosystem and [data 
 You can [filter data by time range](filter-data/filter-data-by-time-range.md). For details about filtering data, see [Filter Data](filter-data/).
 
 {% hint style="info" %}
-**Note: **If you filter data by time range on Trends dashboard for a _sub project_ of a project group, then the selected Trends time range will also reflect on the _other sub projects _of the project group.
+**Note:** If you filter data by time range on Trends dashboard for a _sub project_ of a project group, then the selected Trends time range will also reflect on the _other sub projects_ of the project group.
 {% endhint %}
 
 ## Global Trends
 
-Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights.** **The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
+Global Trends dashboards provide high level analytics of project performance for all the projects onboarded to Insights. **** The performance-related data are grouped into different blocks of [_metrics_](trends.md#metrics-details).
 
 ![Global Trends](<../.gitbook/assets/global trends card.png>)
 
@@ -91,7 +91,7 @@ The grey colored rectangular card shows the following data in each slide:&#x20;
 **Commits Growth:** Shows graphs that display the total number of unique commits on a periodic basis during the selected time range, growth percentage of commits, and monthly average number of code commits by active contributors for the selected time range.
 
 **New Contributor Growth:** Shows periodic bar graphs that display the total number of new contributors joining the projects during the selected time range, and represents a periodic growth/decline in the count of new contributors during the selected time range. \
-**Note: **New contributor is considered as someone who performed their first code activity during the selected time period.
+**Note:** New contributor is considered as someone who performed their first code activity during the selected time period.
 
 The grey colored rectangular card shows the following data in each slide:
 
@@ -99,7 +99,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Average monthly count of new contributors, and
 * Time periods that record highest and lowest number of new contributors joining the project during the selected time range.
 
-**Commits By New Contributors:** Shows periodic graphs that display the count of** **total number of commits by new contributors during the selected time range. Hover over the points for a quarter to see the number of commits by new contributors for the quarter. \
+**Commits By New Contributors:** Shows periodic graphs that display the count of **** total number of commits by new contributors during the selected time range. Hover over the points for a quarter to see the number of commits by new contributors for the quarter. \
 **Note:** New contributor is considered as someone who performed their first code activity during the selected time period.
 
 The grey colored rectangular card shows the following data in each slide:
@@ -122,7 +122,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Monthly average ratio between reviewers and submitters of pull requests and changesets, and
 * percentage of pull requests submitted and reviewed by core maintainers during the selected time range
 
-**Code Pipeline: **Shows total count of unique commits (pull requests or changesets) submitted, reviewed, approved and merged across all projects during the selected time range.
+**Code Pipeline:** Shows total count of unique commits (pull requests or changesets) submitted, reviewed, approved and merged across all projects during the selected time range.
 
 The grey colored rectangular card shows the following data in each slide:
 
@@ -141,7 +141,7 @@ The grey colored rectangular card shows the following data in each slide:
 * Median time taken to first review a pull request, and&#x20;
 * Median time taken to first approve a pull request during the selected time range
 
-**PR Merge Efficiency: **Shows graph that displays total time taken to merge a pull request. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
+**PR Merge Efficiency:** Shows graph that displays total time taken to merge a pull request. The time periods are divided into four slots: less than 1 day, between 1-7 days, between 7-30 days and greater than 30 days.
 
 The grey colored rectangular card shows the following data in each slide:&#x20;
 
@@ -149,7 +149,7 @@ The grey colored rectangular card shows the following data in each slide:&#x20;
 * The average merge efficiency time and percentage of pull requests that are merged within a week
 
 **Issues Backlog:** Shows a graph that represents the total number of issues in the backlog that are in Open and Resolved (includes both closed and done) states during the selected time range. \
-**Note: **GitHub issues in open state are also considered as backlog.
+**Note:** GitHub issues in open state are also considered as backlog.
 
 The grey colored rectangular card shows the following data in each slide:
 

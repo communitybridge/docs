@@ -9,7 +9,7 @@ Events page displays the project related events that are organized for specific 
    * [Dashboard](events.md#Events-Dashboard)
    * [Financial](events.md#Events-Financial)
 
-## Overview <a href="events-overview" id="events-overview"></a>
+## Overview <a href="#events-overview" id="events-overview"></a>
 
 The overview shows some or all of the following items depending on the data that is available:
 
@@ -18,7 +18,7 @@ The overview shows some or all of the following items depending on the data that
 | **View Website**          | Opens the associated website.                                                |
 | **Location**              | The location of the event..                                                  |
 | **Dates**                 | The start date and end date of the event.                                    |
-| **Register**              | Click **Register **to [register](../register-for-an-event.md) for the event. |
+| **Register**              | Click **Register** to [register](../register-for-an-event.md) for the event. |
 | **Sponsor**               | Click Sponsor to [donate](../donate-sponsor/) to the event.                  |
 | **Current Balance**       | The total amount of funds available in the account.                          |
 | **Sponsor Organizations** | The logos of companies that sponsor the project.                             |
@@ -28,7 +28,7 @@ View an example of an event overview section:
 
 ![event overview](<../../.gitbook/assets/event overview.png>)
 
-## Dashboard <a href="events-dashboard" id="events-dashboard"></a>
+## Dashboard <a href="#events-dashboard" id="events-dashboard"></a>
 
 Dashboard shows various aspects of the event.
 
@@ -46,7 +46,7 @@ View an example of an event dashboard section:
 
 ![](<../../.gitbook/assets/7418517 (1).jpg>)
 
-## Financial <a href="events-financial" id="events-financial"></a>
+## Financial <a href="#events-financial" id="events-financial"></a>
 
 The Financial tab lists all transactions with details in chronological order. Click the icon beside Fees to see the see distribution of applicable fees.
 

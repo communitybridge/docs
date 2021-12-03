@@ -15,7 +15,7 @@ The overview shows some or all of the following items depending on the data that
 
 | Name                                                                         | Description                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Donate**                                                                   | Click **Donate **to [donate](../donate-sponsor/) to the project.                                                                                                                                                               |
+| **Donate**                                                                   | Click **Donate** to [donate](../donate-sponsor/) to the project.                                                                                                                                                               |
 | **Current Balance**                                                          | The total amount of funds available in the account.                                                                                                                                                                            |
 | **Sponsor Organizations**                                                    | The logos of companies that sponsor the project.                                                                                                                                                                               |
 | **View Repository**                                                          | Opens the project repository in GitHub.                                                                                                                                                                                        |
@@ -34,7 +34,7 @@ Dashboard shows various aspects of the project.
 | **Expenses**            | The amount of money spent or costs incurred for the project, which indicate the cost of doing business.                                             |
 | **Recent Transactions** | <p>Lists recorded financial transactions in chronological order. <br>Click <strong>View all transactions</strong> to see a log of transactions.</p> |
 
-## Financial <a href="projectsandmentorships-financial" id="projectsandmentorships-financial"></a>
+## Financial <a href="#projectsandmentorships-financial" id="projectsandmentorships-financial"></a>
 
 The Financial tab lists all transactions with details in chronological order. Click the icon next to Fees to see the see distribution of applicable fees.
 

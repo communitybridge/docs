@@ -3,14 +3,14 @@
 {% hint style="info" %}
 A CLA Group defines:
 
-* What CLA types your project requires for pull requests or push submissions — corporate CLA (CCLA), individual CLA (ICLA), or bothWhat CLA templates are used for the CCLA and/or ICLA, What GitHub repositories, Gerrit instances, or both are enforced for CLA mechanism
+* What CLA types your project requires for pull requests or push submissions — corporate CLA (CCLA), individual CLA (ICLA), or both, What CLA templates are used for the CCLA and/or ICLA, What GitHub repositories, Gerrit instances, or GitLab groups are enforced for CLA mechanism
 {% endhint %}
 
 A single CLA Group includes a pair of CCLA and ICLA templates, if both types are enabled for that CLA Group.
 
-## To Create a project's CLA Group: <a href="to-create-a-projects-cla-group" id="to-create-a-projects-cla-group"></a>
+## To Create a project's CLA Group: <a href="#to-create-a-projects-cla-group" id="to-create-a-projects-cla-group"></a>
 
-1\. ​[Sign in](https://app.gitbook.com/o/-Ltf-EWwm-9Kwz69fKd8/s/-M2DCN9UgoRgMEkgnLyP-3789850253/easycla/project-managers/sign-in-to-project-control-center) to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org).
+1\. ​Sign in to the [Project Control Center](https://projectadmin.lfx.linuxfoundation.org).
 
 2\. Under My Projects, click a project or search the project from the search bar for which you want to create a CLA group.
 
@@ -38,7 +38,7 @@ A single CLA Group includes a pair of CCLA and ICLA templates, if both types are
 * If you only select Individual CLA, then only individuals can sign and contribute to your project.
 {% endhint %}
 
-7\.  Under** Edit/Review Template** tab, review the project name, project full entity name. If these are not correct, stop and do not proceed. Check the Project object database settings and contact the LF legal team at legal@linuxfoundation.org if you have questions.
+7\.  Under **Edit/Review Template** tab, review the project name, project full entity name. If these are not correct, stop and do not proceed. Check the Project object database settings and contact the LF legal team at legal@linuxfoundation.org if you have questions.
 
 8\. Then, select a template from **Template** drop-down. and provide appropriate point of contact in the **Email Address of Person Managing Project** field. This will be filled into the CLA templates as the email address for contributors to submit signed CLAs if they want to sign them manually, rather than via DocuSign.
 

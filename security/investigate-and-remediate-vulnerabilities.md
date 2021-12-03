@@ -6,7 +6,7 @@ For each repository, LFX Security maps the dependencies and correlates them with
 
 If possible, address a vulnerability by upgrading to a vulnerability-free version of the package you are using. If you cannot upgrade, because no sufficient direct upgrade is available or because the upgrade includes breaking changes, another option is to apply a patch. A patch changes the locally installed package file to fix the vulnerability. If an upgrade or patch is unavailable, assess the issue and weigh risk against effort. If the risk is high, consider removing the dependency.
 
-## **View Issues **
+## **View Issues**&#x20;
 
 Issues tab provides a list with all the issues related to the project. The issue list provides information such as repository name, open issues, type of issues such as critical, high, medium and  low. You can also see the complete details related to a issue.&#x20;
 
@@ -15,15 +15,15 @@ To view issues, perform the following:
 1.Select **Issues** from the top menu.\
 The dashboard shows all vulnerabilities with their details, and total number of open and fixed issues. By default, only Open status issues appear—use the filter to show Fixed issues.
 
-![Issues Dashboard](<../.gitbook/assets/Issues (1).png>)
+![Issues](../.gitbook/assets/Iss1.png)
 
 2\. You can search for a particular repository using the Repositories drop-down list. You can select the required repositories and check the issues and their details.&#x20;
 
-![Repositories ](../.gitbook/assets/Issues\_Repo.png)
+![Search Issues](../.gitbook/assets/Search\_Issues.png)
 
 3.You can view the total number of open and fixed issues for a repository by clicking the **View Details**.&#x20;
 
-![View Details](../.gitbook/assets/Issues\_view.png)
+![View Details](../.gitbook/assets/View\_Issues\_Details.png)
 
 4\. You can see the Open issues related to the repository. You can also refine the issues based on the priority such as Critical, High, Medium and Low. &#x20;
 
@@ -36,8 +36,10 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 ![Vulnerability Details ](../.gitbook/assets/More.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 You can use the ![](../.gitbook/assets/Eye\_icon.png) icon to dismiss the vulnerability. You can dismiss the vulnerability incase if you feel the issue cannot be fixed, if the issue is minor or you do not want to fix the issue.&#x20;
+
+You should have the necessary permission to dismiss the issue. With out necessary permissions, the eye icon will not be available to  dismiss issue.&#x20;
 {% endhint %}
 
 6.You can also click a CWE-# link or CVE-# link to read a description, references, and so on, about the vulnerability. The [Common Weakness Enumeration website](https://cwe.mitre.org) or [Common Vulnerabilities and Exposures website](https://cve.mitre.org) shows an identifier and details for the vulnerability by an identifier.
@@ -71,7 +73,7 @@ To download the issues CSV file,  perform the following:
 
 2.From the Issues banner, click the ![](../.gitbook/assets/Download\_Icon.png) icon. The exports.csv file will be downloaded. You can check all the information related to the repository issues in the downloaded file.
 
-![Download Issues](<../.gitbook/assets/Download (1).png>)
+![Download Issues ](<../.gitbook/assets/Issues (3).png>)
 
 
 

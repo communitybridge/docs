@@ -2,9 +2,9 @@
 
 To change your Linux Foundation password:
 
-1\. Log in to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org).
+1\. Log in to [https://openprofile.dev](https://openprofile.dev).
 
-2\. From left side navigation, navigate to **Settings > Password**.
+2\. From left side navigation pane click the arrow ![](../.gitbook/assets/arrow.png) to expand, and navigate to **Settings > Password**.
 
 ![Change Password](<../.gitbook/assets/chnage password.png>)
 

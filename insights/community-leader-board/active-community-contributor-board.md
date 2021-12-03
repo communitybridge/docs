@@ -4,7 +4,7 @@ Active Community Contributor board displays an aggregated data of individual con
 
 * By default, data is displayed for **Code** data source. Select other data sources to view related data.
 * **Search within Contributor Board** lets you quickly search for contributor's details with author name and organization name. As an administrator for a project, you can also search details with email addresses of contributors of the project.
-* You can also quickly search a page by entering the age number in the **Page **number filed at the bottom right corner.
+* You can also quickly search a page by entering the age number in the **Page** number filed at the bottom right corner.
 * Click **Export** to download the table data to a `.csv` file.
 * The Active Community Leaderboard Table lets you sort by values except Author Name, Organization name, and Email Id of contributors.
 
@@ -34,7 +34,7 @@ Active Community Contributor board displays an aggregated data of individual con
 |                   | **Active Changesets**             | Total number of Gerrit changesets, submitted by the contributor, that are in active state.                                                                            |
 |                   | **Merged Changesets**             | Number of changesets, out of all submitted changesets by the contributor, that are merged over time.                                                                  |
 |                   | **Review Comments**               | Total number of review comments given by the contributor for all changesets.                                                                                          |
-| **Jira **         |                                   | Following metrics are shown under Jira issue management data source.                                                                                                  |
+| **Jira**          |                                   | Following metrics are shown under Jira issue management data source.                                                                                                  |
 |                   | **Comments**                      | Total number of comments given by the contributor for Jira issues.                                                                                                    |
 |                   | **Issues Assigned**               | Total number of Jira issues assigned to the contributor over time.                                                                                                    |
 |                   | **Issues Created**                | Total number of Jira issues created by the contributor.                                                                                                               |

@@ -6,12 +6,12 @@ To setup the EasyCLA service using PCC:
 
 1.Login into PCC.
 
-2\. Search for the required project. On Project dashboard , click **CLA **under the **TOOLS STATUS **tab.
+2\. Search for the required project. On Project dashboard , click **CLA** under the **TOOLS STATUS** tab.
 
 {% hint style="info" %}
-You can also navigate to CLA from the Vertical Sidebar navigation menu. Click **Tools** and then select **CLA**. 
+You can also navigate to CLA from the Vertical Sidebar navigation menu. Click **Tools** and then select **CLA**.&#x20;
 {% endhint %}
 
-3.For detailed information on how to setup the CLA, see [CLA Setup](https://docs.linuxfoundation.org/docs/v/v2/communitybridge/easycla/project-managers/add-new-cla-group).
+3.For detailed information on how to setup the CLA, see [CLA Setup](https://docs.linuxfoundation.org/lfx/easycla/v2-current/project-managers/create-new-cla-group).
 
 ​

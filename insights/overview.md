@@ -8,7 +8,7 @@ Insights platform shows Trends dashboard, and project and project group cards, i
 4. [**Compare Projects**](compare-and-view-project-health.md): Lets you compare key code related metrics for a project or between projects.
 5. **Search projects** field: Lets you search a project or project group.
 6. **Enroll Project**: Lets you enroll a project into LFX Insights by creating a support ticket on [LFX Help Center](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/341).
-7. **Get Help**: Click **Doc **to navigate to the Insights user documentation page, and **Support** to create a support ticket on LFX if you face any issues with LFX Insights.
+7. **Get Help**: Click **Doc** to navigate to the Insights user documentation page, and **Support** to create a support ticket on LFX if you face any issues with LFX Insights.
 8. While navigating from top to bottom on dashboards, click ![](<../.gitbook/assets/summary dashboard up arrow.png>) from the down right corner to reach to the top of the page.
 
 ![Insights Dashboard](<../.gitbook/assets/landing page dashboard.png>)
@@ -25,8 +25,8 @@ Each project card shows the following information:
 * Description briefly describes the project. Click the **excerpt** to see the entire description.
 * **Contributors** shows the total number of contributors to the project.
 * **Contributions** shows the total number of lines of codes that are changed in the project. It includes lines of code added, modified, and deleted.
-* **Commits **shows the total number of commits to the project.
-* **Repositories **shows the total number of repositories created for the project.
+* **Commits** shows the total number of commits to the project.
+* **Repositories** shows the total number of repositories created for the project.
 * **Lines of Code** shows total number of lines of code added and modified for the project repository.
 * **Data Sources** shows the logos of different data sources, such as ![](<../.gitbook/assets/18088191 (4) (3) (3).png>) for GitHub and/or Gerrit, ![](<../.gitbook/assets/18088260 (3) (3) (3) (3) (1).png>) for Jira, or ![](<../.gitbook/assets/18088264 (2) (2) (2) (2) (1).png>) for Slack, and so on.
 
@@ -50,7 +50,7 @@ Each card shows the following information:
 On a project dashboard, click **Get Short URL**, and click the icon next to the URL to copy the link of a respective dashboard for a project.\
 ![](<../.gitbook/assets/get short url (1).png>)
 
-## ** Insights Features**
+## &#x20;**Insights Features**
 
 * [View Community Leader board](community-leader-board/)
 * [View Identities and Affiliations](identities-and-affiliations/): Displayed to only Administrators after they sign in to Insights.&#x20;

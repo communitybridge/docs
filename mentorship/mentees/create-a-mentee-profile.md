@@ -13,7 +13,7 @@ Keep these items ready before you begin:
 * Your resume in a PDF, DOC, or DOCX format
 {% endhint %}
 
-2\. Complete the **Eligibility Requirements **section
+2\. Complete the **Eligibility Requirements** section
 
 * Are you at least 18 years of age, or will you be by the time the mentorship program starts
 * Are you eligible to work in the country you reside in for the duration of the mentorship?
@@ -33,38 +33,38 @@ Keep these items ready before you begin:
 Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 {% endhint %}
 
-4\. Select the **Terms and Conditions **checkbox, and click **Submit**.&#x20;
+4\. Select the **Terms and Conditions** checkbox, and click **Submit**.&#x20;
 
-## User Information <a href="createamenteeprofile-menteeprofile" id="createamenteeprofile-menteeprofile"></a>
+## User Information <a href="#createamenteeprofile-menteeprofile" id="createamenteeprofile-menteeprofile"></a>
 
 Your name and email fields are auto-populated from your Linux Foundation account. Upload an avatar image, which will appears on your mentee card.&#x20;
 
-## Introduction <a href="createamenteeprofile-introduction" id="createamenteeprofile-introduction"></a>
+## Introduction <a href="#createamenteeprofile-introduction" id="createamenteeprofile-introduction"></a>
 
 Introduce yourself by answering the questions required to complete this section.&#x20;
 
 ![Introduction](<../../.gitbook/assets/mentee introduction.png>)
 
-## Mailing Address <a href="createamenteeprofile-mailingaddress" id="createamenteeprofile-mailingaddress"></a>
+## Mailing Address <a href="#createamenteeprofile-mailingaddress" id="createamenteeprofile-mailingaddress"></a>
 
 Provide a mailing address.&#x20;
 
 ![Mentee Mailing Address](<../../.gitbook/assets/7418798 (1).jpg>)
 
-## External Profile Links <a href="createamenteeprofile-externalprofilelinks" id="createamenteeprofile-externalprofilelinks"></a>
+## External Profile Links <a href="#createamenteeprofile-externalprofilelinks" id="createamenteeprofile-externalprofilelinks"></a>
 
 Provide links to your external profiles and upload your resume. Mentee resumes will be shared with mentors during the application process. After graduation, the resumes may be shared with prospective employers.
 
 ![External Profile Links](<../../.gitbook/assets/7418797 (1).png>)
 
-## Skills <a href="createamenteeprofile-skills" id="createamenteeprofile-skills"></a>
+## Skills <a href="#createamenteeprofile-skills" id="createamenteeprofile-skills"></a>
 
 Click on **+Add skill** CTA to add your current skills and skills that you want to improve. These are important for the admin and mentors to determine if you're a good fit fo the program.&#x20;
 
-## Demographics <a href="createamenteeprofile-demographics" id="createamenteeprofile-demographics"></a>
+## Demographics <a href="#createamenteeprofile-demographics" id="createamenteeprofile-demographics"></a>
 
 Providing your demographics is optional. This information is collected for the purpose of compiling, analyzing and disclosing aggregate statistics regarding diversity of participation in open source projects and communities (including in The Linux Foundation Mentorship Program opportunities), to help track progress towards meeting our commitment to diversity initiatives.
 
-## Terms and Conditions <a href="createamenteeprofile-termsandconditions" id="createamenteeprofile-termsandconditions"></a>
+## Terms and Conditions <a href="#createamenteeprofile-termsandconditions" id="createamenteeprofile-termsandconditions"></a>
 
 You must select the checkbox to submit the application.

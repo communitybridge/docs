@@ -5,7 +5,7 @@ After receiving a successful performance evaluation, all mentees are required to
 To create and submit an **Expensify Report:**
 
 1\. Sign in to [Expensify](https://www.expensify.com). \
-**Note: **Ensure that you use the same email address that you used to set up your account in Expensify.
+**Note:** Ensure that you use the same email address that you used to set up your account in Expensify.
 
 2\. Under your account, select **Reports** tab.
 
@@ -17,7 +17,7 @@ To create and submit an **Expensify Report:**
 
 4\. Update auto-generated report name to: "your name - mentee stipend payment <#> of <#>" for example "Jane Smith - mentee stipend payment 1 of 2"
 
-5\. Click **Add Expenses **to create and add  a new expense.
+5\. Click **Add Expenses** to create and add  a new expense.
 
 ![](<../../.gitbook/assets/Add Expenses.png>)
 
@@ -35,9 +35,9 @@ To create and submit an **Expensify Report:**
 {% hint style="info" %}
 **Note:**
 
-1.** United States residents: **please add the US bank deposit account to Expensify when first setting up the Expensify account&#x20;
+1\. **United States residents:** please add the US bank deposit account to Expensify when first setting up the Expensify account&#x20;
 
-2\. **International mentees not residing in the US: **please add “ - International Bank”   after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
+2\. **International mentees not residing in the US:** please add “ - International Bank”   after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
 
 3\. If you need to **update your bank information,** please download and use the wire transfer form below, add "updated" to the title, and attach it as a receipt with your report.&#x20;
 {% endhint %}
@@ -48,18 +48,18 @@ The Linux Foundation Wire Transfer Form
 
 ![](<../../.gitbook/assets/Create New Expense Screenshot Second Step.png>)
 
-8\. After you're redirected to the Reports page, click **Submit **from the top left corner.
+8\. After you're redirected to the Reports page, click **Submit** from the top left corner.
 
 9\. (Optional) Provide email address of an individual in **CC** field if you want to share the report with the individual.
 
 10\. Click **Send**.
 
 {% hint style="info" %}
-If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** >** Account** > **Payments **>** Bank Accounts **as shown below.
+If you reside in the United States, add a U.S. bank deposit account to Expensify by navigating to  **Settings** > **Account** > **Payments** > **Bank Accounts** as shown below.
 {% endhint %}
 
 ![](<../../.gitbook/assets/Add US Bank Account.png>)
 
 {% hint style="warning" %}
-**NOTE: **It may take up to 30 business days for the funds to be processed via wire-transfer and released by a bank outside the United States.&#x20;
+**NOTE:** It may take up to 30 business days for the funds to be processed via wire-transfer and released by a bank outside the United States.&#x20;
 {% endhint %}

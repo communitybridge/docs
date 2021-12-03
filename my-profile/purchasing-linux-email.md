@@ -1,28 +1,30 @@
 # Purchase a Lifetime Linux.com Email Alias
 
-You can purchase a lifetime Linux.com email alias if you are an active Individual Supporter. For more information on Individual Supporter, please see [Individual Supporter](https://www.linuxfoundation.org/about/individual-supporters/) and [Individual Supporter FAQs](https://www.linuxfoundation.org/about/individual-supporters/#toggle-id-1) web pages.
+You can purchase a lifetime Linux.com email alias if you are an active Individual Supporter. For more information on Individual Supporter, see [Individual Supporter](https://www.linuxfoundation.org/about-individual-supporters/) web page.
 
-1\. To purchase the Linux.com email alias, login to [myprofile.lfx.linuxfoundation.org](https://myprofile.lfx.linuxfoundation.org) and click on the **Purchase Email** CTA button on the **Linux.com Email **section.
+#### To purchase the Linux.com email alias:
 
-![](../.gitbook/assets/Email.png)
+1\. Log in to [m](https://myprofile.lfx.linuxfoundation.org)[https://openprofile.dev](https://openprofile.dev).
 
-2\. If you are enrolled in the Individual Supporter program, you will be navigated to the Lifetime Linux.com Email Alias Add-On form, **Contact Details** page. If you're not an individual supporter, you need to enroll in program before you can purchase Linux.com email alias.
+2\. From left side navigation pane, navigate to **Settings > Linux.com Email**.&#x20;
 
-![](../.gitbook/assets/linuxemailpurchaseflow.png)
+3\. Click **Purchase Email**.
 
-3\. Once you have complete the transaction, go back to your account on My Profile Dashboard and click on the settings icon![](<../.gitbook/assets/settings (1).png>)to request the linux.com alias and add the forwarding email address.&#x20;
+![Purchase Email](<../.gitbook/assets/purchase email.png>)
 
-![](<../.gitbook/assets/Email Not Configured (2).png>)
+4\. If you are enrolled in the Individual Supporter program, you will be navigated to the **Lifetime Linux.com Email Alias Add-On** form of Member Enrollment. If you're not an individual supporter, you need to enroll in program before you can purchase Linux.com email alias.
+
+![Lifetime Email Form](<../.gitbook/assets/lifetime email form.png>)
+
+3\. After you have complete the transaction, go back to your account on My Profile Dashboard, and from navigate to **Settings** > **Linux.com Email** page to request the linux.com alias and add the forwarding email address.
+
+![Linux Email Forwarding](<../.gitbook/assets/linux forwarding email.png>)
 
 {% hint style="info" %}
-You can request any Linux.com email address, but issuance is subject to availability.
+**Note**:
 
-Emails sent to the Linux.com email alias will be sent to the forwarding email address you specify. They will not be sent to the linux.com email alias.&#x20;
-
-NOTE: Edit Linux.com subpage will be accessible in the sidebar navigation after  you purchase the linux.com alias email.
+1. You can request any _Linux.com_ email address, but issuance is subject to availability.
+2. Emails sent to the _Linux.com_ email alias will be sent to the forwarding email address you specify. They will not be sent to the linux.com email alias.
+3. You cannot edit the linux.com email alias after  you purchase the linux.com alias email, however, you can anytime edit the forwarding email.
 {% endhint %}
-
-On the **Edit @linux.com Email Service** subpage, enter the Linux.com email that you would like to request in the **Email Alias **field. In the **Forward To** field enter the email where you would to receive the emails that will be sent to your Linux.com email. Click on **Save** CTA after entering all the details and **Back to Profile** CTA to return to the dashboard.
-
-![](../.gitbook/assets/Linux.com.png)
 

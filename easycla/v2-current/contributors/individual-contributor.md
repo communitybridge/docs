@@ -1,12 +1,12 @@
 # Individual Contributor
 
-An individual contributor is one who contributes code on their own behalf (and not on behalf of an employer). If you are contributing code on behalf of your employer, see the [Corporate Contributor](broken-reference) workflow.
+An individual contributor is one who contributes code on their own behalf (and not on behalf of an employer). If you are contributing code on behalf of your employer, see the [Corporate Contributor](corporate-contributor.md) workflow.
 
 Upon creating a pull request in GitHub or GitLab or submitting changed code in Gerrit, EasyCLA will check whether the contributor is authorized under a signed CLA for that project. If they are not, and if they are contributing on their own behalf, then they must sign an ICLA.
 
-* [GitHub](broken-reference)
-* [Gerrit](broken-reference)
-* [GitLab](broken-reference)
+* [GitHub](individual-contributor.md#github)
+* [Gerrit](individual-contributor.md#gerrit)
+* [GitLab](individual-contributor.md#gitlab)
 
 ## GitHub
 
@@ -112,7 +112,7 @@ DocuSign presents the ICLA document for your signature.
 13\. Navigate to the Gerrit project, and start contributing.
 
 {% hint style="warning" %}
-**Important: **If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in **again, and then push the code.
+**Important:** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
 
 ![](<../../../.gitbook/assets/signout gerrit.png>)&#x20;
 {% endhint %}

@@ -24,7 +24,7 @@ If you do not have access to PPC, you need to raise the service ticket to get ac
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Common Name**     | Enter the name of the project that you identify the project name with.                                                                                                          |
 | **Slug**            | Slug will be auto added when you provide the common name. You can also edit it if you need.                                                                                     |
-| **Parent Project ** | <p>Select the parent project if you want to associate or add your project as a child project. </p><p></p><p>Select No Parent, if you do not want to add any parent project.</p> |
+| **Parent Project**  | <p>Select the parent project if you want to associate or add your project as a child project. </p><p></p><p>Select No Parent, if you do not want to add any parent project.</p> |
 | **Category**        | Category will be enabled only when you select a Parent Project. You can select the project to categorize for better grouping and navigation.                                    |
 
 ![Project Details](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MgVtsu9bpnuYM\_zc5Ae%2F-MgVwsaPhk9iBcna0TK6%2FAdd\_project.png?alt=media\&token=567af209-ebc6-497e-ab8f-f839b3b44538)

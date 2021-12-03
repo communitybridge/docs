@@ -1,12 +1,12 @@
 # September 2021
 
-The LFX Insights, September 2021 release delivers support for the new [Trends](../trends.md) dashboards that provides a comprehensive analytics of project performance, in the form of metrics, for all projects and project-groups. The metrics computed for the trends dashboard are more focused towards the code development areas such as, contributors, commits, lines of code, change requests, and issue management. 
+The LFX Insights, September 2021 release delivers support for the new [Trends](../trends.md) dashboards that provides a comprehensive analytics of project performance, in the form of metrics, for all projects and project-groups. The metrics computed for the trends dashboard are more focused towards the code development areas such as, contributors, commits, lines of code, change requests, and issue management.&#x20;
 
-A global trends dashboard, the default landing page, for LFX Insights shows data aggregated across all the onboarded projects on LFX Insights. These data visualizations help project teams understand project performance and monitor the health of the project.****
+A global trends dashboard, the default landing page, for LFX Insights shows data aggregated across all the onboarded projects on LFX Insights. These data visualizations help project teams understand project performance and monitor the health of the project.****
 
-* ****[**Global Trends**](../trends.md#global-trends)**: **Shows aggregated performance data of all projects onboarded to Insights.
-* **Project Group Trends: **Shows aggregated performance data of all sub projects under the project group or foundation.
-* **Individual Project Trends: **Shows aggregated performance data of the individual project.
+* ****[**Global Trends**](../trends.md#global-trends)**:** Shows aggregated performance data of all projects onboarded to Insights.
+* **Project Group Trends:** Shows aggregated performance data of all sub projects under the project group or foundation.
+* **Individual Project Trends:** Shows aggregated performance data of the individual project.
 
 ![](<../../.gitbook/assets/landing page global trends.png>)
 
@@ -16,7 +16,7 @@ A global trends dashboard, the default landing page, for LFX Insights shows data
 
 **Enhancement of project and project group landing page**: The project and project group landing page shows the Trends dashboard when you click on a project card. This makes it easier to view aggregated  metrics data for a project group, and to view sub groups under the project group.
 
-![](https://lh6.googleusercontent.com/35GOJ8M3Lz8350MOD6hZCegw5ruxeHWar9S5YfAiBz5zb8rMIY_t-hYvIUOgtHPSneYNJMS7OVHa2pGLWrCc95OzwaO_LNZs2updt2Z0LMItFk98HOf4JQEvtS8OkcfBetMhoD6I=s0)
+![](https://lh6.googleusercontent.com/35GOJ8M3Lz8350MOD6hZCegw5ruxeHWar9S5YfAiBz5zb8rMIY\_t-hYvIUOgtHPSneYNJMS7OVHa2pGLWrCc95OzwaO\_LNZs2updt2Z0LMItFk98HOf4JQEvtS8OkcfBetMhoD6I=s0)
 
 #### **Sub projects under a project group:**
 

@@ -1,17 +1,11 @@
 # Security
 
-The LFX Security tool provides automated vulnerability scanning and provides visibility into potential vulnerabilities to help projects address top security concerns.
+The LFX Security tool provides security to the open source code. The LFX Security tool provides the following functionalities with respect to the open source project code:
 
-* [LFX Security FAQs](https://docs.linuxfoundation.org/lfx/security/lfx-security-faqs)
-* [LFX Security Requirements](lfx-security-requirements/)
-* [Date Range](data-range.md)
-* [Add a Project to LFX Security](https://docs.linuxfoundation.org/lfx/security/add-a-project-to-lfx-security)
-* [Open LFX Security](https://docs.linuxfoundation.org/lfx/security/open-lfx-security)
-* [Get a Vulnerability Status Overview](get-a-vulnerability-status-overview.md)
-* [Investigate and Remediate Vulnerabilities](investigate-and-remediate-vulnerabilities.md)
-* [Investigate Dependencies in the Application Dependency Tree](investigate-dependencies-in-the-application-dependency-tree.md)
-* [Get License Information](get-license-information.md)
-* [Enable or Disable a Repository from Scanning](enable-or-disable-a-repository-from-scanning.md)
+* **Vulnerabilities Detection** - To detect vulnerabilities in your code and provide fixes and recommendations to those vulnerabilities. &#x20;
+* **Code Secrets** - Detect secrets such as passwords, credentials, keys, access tokens which might help hackers to hack your code.&#x20;
+* **Non Inclusive Language** - Detects non inclusive words used in your code which might hurt and treat people unfairly.&#x20;
 
+You can refer [LFX Security](https://lfx.linuxfoundation.org/tools/security) page for more information.&#x20;
 
-
+![LFX Security](<../.gitbook/assets/LFX Security (1).png>)

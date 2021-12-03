@@ -11,6 +11,6 @@ As a project manager, your team uses Bugzilla for bug tracking and for project m
 **Do these steps:**
 
 1. Click a **project name** of interest.
-2. From the **Project Management **drop-down list, select **Bugzilla** > **Overview**.\
+2. From the **Project Management** drop-down list, select **Bugzilla** > **Overview**.\
    A dashboard shows information about issues and submitters in Bugzilla organizations. For details, see [Bugzilla > Overview](../technical-metrics/project-management/bugzilla.md#Bugzilla-Bugzilla>Overview).
 3. Use the visualizations to understand aspects of Bugzilla tracking and project management. You go to **Submitters** to see who submits the most issues and the average open days for the issues.

@@ -8,11 +8,11 @@ Click ![](<../../../.gitbook/assets/get short url.png>) to copy the path of conf
 
 The Confluence dashboard is available from the **Documentation** drop-down list, and represents a set of metrics that shows information about confluence pages.
 
-## Overview <a href="confluence-confluence-greater-than-overview" id="confluence-confluence-greater-than-overview"></a>
+## Overview <a href="#confluence-confluence-greater-than-overview" id="confluence-confluence-greater-than-overview"></a>
 
 Overview shows information about Confluence documentation reviews, including editions, revisions, editors, organizations, and projects.
 
-**Filter **lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
+**Filter** lets you filter the dashboard data by author name and organization name. Select values from the respective drop-down lists, and click **Apply changes** to filter the dashboard as per selection.
 
 **Summary** shows the total number of Pages, Comments, and Editors.
 

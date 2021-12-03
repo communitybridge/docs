@@ -12,7 +12,7 @@ To enroll in the Linux Foundation Individual Supporter program, follow these ste
 
 ![](<../.gitbook/assets/Individual Supporter.png>)
 
-4\. When you land on the Individual Supporter Enrollment form **Contact Details** page, enter your your **Contact Information**, provide your **Social Accounts **(optional), enter your **Mailing Address** and click **Next**.&#x20;
+4\. When you land on the Individual Supporter Enrollment form **Contact Details** page, enter your your **Contact Information**, provide your **Social Accounts** (optional), enter your **Mailing Address** and click **Next**.&#x20;
 
 ![Contact Details](<../.gitbook/assets/Indidual\_Program (1).png>)
 

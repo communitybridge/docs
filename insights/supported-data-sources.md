@@ -50,15 +50,15 @@ Insights supports Confluence for tracking and visualizing project's documentatio
 
 #### Social Media
 
-Insights supports [Twitter](social-media-metrics.md#overview) as social media platform to visualize project's** **high-level insights from the project's twitter account.
+Insights supports [Twitter](social-media-metrics.md#overview) as social media platform to visualize project's **** high-level insights from the project's twitter account.
 
-####  Earned Media
+#### &#x20;Earned Media
 
-Insights supports_ Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](earned-media/).
+Insights supports _Cision_ to track and analyze the health of project's audience engagement, such as how frequently project is talked about in social media channels, how many times the project and the project relevant content is searched, and so on. For details, see [Earned Media](earned-media/).
 
 #### Registry
 
-Insights supports [DockerHub](technical-metrics/registry/dockerhub.md) to track container images. 
+Insights supports [DockerHub](technical-metrics/registry/dockerhub.md) to track container images.&#x20;
 
 ## In Progress
 

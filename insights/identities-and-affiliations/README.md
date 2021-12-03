@@ -1,6 +1,6 @@
 # Identities and Affiliations
 
-Only **Project Administrators** can view, after signing in to insights, Identities & Affiliations for their project if they have access. If you do not have access, click **Request To Edit Affiliations **from navigation bar to request for access.
+Only **Project Administrators** can view, after signing in to insights, Identities & Affiliations for their project if they have access. If you do not have access, click **Request To Edit Affiliations** from navigation bar to request for access.
 
 {% hint style="info" %}
 * Only **Project Administrators** can manage affiliations of contributors for their projects.

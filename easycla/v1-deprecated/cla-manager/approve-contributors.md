@@ -25,12 +25,12 @@ Each approved list applies to the project for which the company has signed a Cor
 
 4\. The CLA Corporate Console appears and shows projects with signed CLAs.
 
-5\. Click **MANAGE APPROVED LIST** for a** **CLA** **under which you want to add a contributor.\
+5\. Click **MANAGE APPROVED LIST** for a **** CLA **** under which you want to add a contributor.\
 You can identify a recent request for a CLA by seeing the value as 1 under Pending Contributor Requests column. Following is an example:
 
 ![projects with signed clas](<../../../.gitbook/assets/projects with signed clas.png>)
 
-6\. Under** Pending Contributor Requests**, click **ACCEPT**, and then click **APPROVE REQUEST **on the confirmation window to add the contributor to the approved list or click **DECLINE** to decline the contributor's request to be added.\
+6\. Under **Pending Contributor Requests**, click **ACCEPT**, and then click **APPROVE REQUEST** on the confirmation window to add the contributor to the approved list or click **DECLINE** to decline the contributor's request to be added.\
 The contributor receives an e-mail notification about the status.
 
 ![accept or decline a contributor](<../../../.gitbook/assets/accept or decline a contributor.png>)
@@ -42,7 +42,7 @@ The contributor receives an e-mail notification about the status.
 * [Domain Approved List , Email Approved List, or GitHub Approved List](approve-contributors.md#domain-whitelist-email-whitelist-or-github-whitelist)
 * [GitHub Organization Approved List](approve-contributors.md#github-organization-whitelist)
 
-## Domain Approved List , Email Approved List, or GitHub Approved List <a href="domain-whitelist-email-whitelist-or-github-whitelist" id="domain-whitelist-email-whitelist-or-github-whitelist"></a>
+## Domain Approved List , Email Approved List, or GitHub Approved List <a href="#domain-whitelist-email-whitelist-or-github-whitelist" id="domain-whitelist-email-whitelist-or-github-whitelist"></a>
 
 The corresponding Edit _domain/email/github_ approved list dialog lets you add, edit, and delete values to the approved list so that employees (developers) can be associated to the company. An example domain name value is joesbikes.com. A wildcard approves/authorizes the domain and all subdomains, for example: \*.joesbikes.com or \*joesbikes.com would authorize joes.bikes.com, shop.joesbikes.com, and blog.joesbikes.com.
 
@@ -55,7 +55,7 @@ The corresponding Edit _domain/email/github_ approved list dialog lets you add, 
 
 Your entries appear in their corresponding approved lists.
 
-## GitHub Organization Approved List <a href="github-organization-whitelist" id="github-organization-whitelist"></a>
+## GitHub Organization Approved List <a href="#github-organization-whitelist" id="github-organization-whitelist"></a>
 
 The GitHub Organization Approved List lets you add or remove organizations from an approved list so that company employees can contribute to project—the CLA service checks the GitHub organizations that the user belongs to.
 
@@ -68,7 +68,7 @@ Each member of your organization must ensure that these items are Public in thei
 
 **To Add or Remove an Organization from Approved List:**
 
-1\. Click the edit icon (**pencil) **next to Github Org Approved List.\
+1\. Click the edit icon (**pencil)** next to Github Org Approved List.\
 &#x20;   The Edit Github Organization Approved List dialog appears.
 
 ![GitHub Org Approved List](../../../.gitbook/assets/github-org-approved-list.png)

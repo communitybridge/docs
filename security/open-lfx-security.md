@@ -6,79 +6,31 @@ LFX Security detects vulnerabilities in the LFX projects. Projects that are part
 Only project maintainers can access Vulnerability Detection details to gain visibility into open security issues and paths to remediation.
 {% endhint %}
 
-As a project maintainer, you can access vulnerability scan details for projects based on the LFX service you opted while enrolling your project:
-
-* [Projects applied to LFX Funding](open-lfx-security.md#projects-applied-to-lfx-funding)
-* [Projects applied to LFX Security](open-lfx-security.md#projects-applied-to-lfx-security)
-
-**Note: **If you are not a project maintainer and/or not authorized to see vulnerability report for a project, you can [request access](open-lfx-security.md#requesting-access-to-view-vulnerability-report) to see vulnerability scan details.
-
-### Projects applied to LFX Funding
-
-To see vulnerability scan details for projects from LFX Funding:
-
-1.[Sign In](../sso/sign-in/) to [LFX Funding](https://funding.lfx.linuxfoundation.org) website.
-
-2.From dashboard, click a **project** of interest or click **My Projects** to see your projects.
-
-![My Projects](<../.gitbook/assets/new\_search (1) (1) (1) (1) (1).png>)
+As a project maintainer, you can access vulnerability scan details for projects based on the LFX service you opted while enrolling your project
 
 {% hint style="info" %}
-You can also search for the required project, using the Search box.
+If you are not a project maintainer and/or not authorized to see vulnerability report for a project, you can [request access](broken-reference) to see vulnerability scan details.
 {% endhint %}
-
-3.A dashboard shows various aspects of the project including a Vulnerability Report.
-
-4.Navigate to the Vulnerability Report card, and click a **severity level**.\
-**Note: **Log in if a Login Now prompt appears.\
-\
-&#x20;![](<../.gitbook/assets/funding vulnerability report.png>) \
-\
-LFX Security appears and shows the Overview dashboard.&#x20;
-
-5.Access other dashboards by selecting a menu name to investigate vulnerabilities by using the data in the dashboards
 
 ### Projects applied to LFX Security
 
 To see vulnerability scan details for projects applied to LFX Security:
 
-1.[Sign in](../sso/sign-in/) to  [LFX Security](https://security.lfx.linuxfoundation.org) website.\
-A dashboard shows various aspects of the project, and a Vulnerability Report.\
-![](../.gitbook/assets/7419012.png)
+1.Login into [LFX Security](https://security.lfx.linuxfoundation.org).
 
-2.Click **My Projects** to see your projects.
+2.On the Landing Page, you can see Security Leaderboard and Project Cards.
 
-![My Projects](<../.gitbook/assets/new\_search (1) (1) (1) (1).png>)
+![Security Landing Page](../.gitbook/assets/LB1.png)
 
-3.On a project card of interest, click **View Issues**.
+3.On a project card of interest, click **View Dashboard**.
 
-![View Issues](<../.gitbook/assets/New\_card (1).png>)
+![View Dashboard](../.gitbook/assets/Dashboard.png)
 
-4.An authorization page appears if your logging into view issues for the first time.  Once you have validated your account, the authorization page will not appear when you want to view issues. You can see the Overview page as explained in Step 5. For more information,  please refer Authorization Page. &#x20;
+4.The page navigates to the Authorization Page. You need to authorize as Member or Contributor/Maintainer to view issues. For more information, refer [Authorization Page](https://docs.linuxfoundation.org/lfx/security/security-v2/authorization-page).&#x20;
 
-5.The Overview page appears with the details for the selected project.&#x20;
+### Access to view Vulnerability Report
 
-![Overview](<../.gitbook/assets/ovn1 (1).png>)
-
-### Requesting Access to view Vulnerability Report
-
-If you are not authorized to see vulnerability report for a project, **Not Authorized **pane appears when you click **Contributor Login **on a project of interest. To request access:
-
-1.Click **Request Access**.
-
-![Request Access](../.gitbook/assets/Request\_New\_Access.png)
-
-2.The Not Authorized dialog box appears. Click **Request Access**.&#x20;
-
-![](../.gitbook/assets/Request\_Access\_Dialog.png)
-
-3.The LFX Security help center request form opens. Enter the details and click **Create**.
-
-![](../.gitbook/assets/Access.png)
-
-{% hint style="info" %}
-LFX support team reviews your request and informs you about your access permission.
-{% endhint %}
+If you are not authorized to see vulnerability report for a project or cannot view the dashboard, a toast message appears informing that you are not authorized to view issues.&#x20;
 
 ### Foundation Project Groups
 
@@ -86,7 +38,7 @@ A Foundation project group is a group of individual projects. Normally Foundatio
 
 A Foundation  project with group of individual projects are displayed as shown in the following image:
 
-![Foundation Projects](../.gitbook/assets/NLF1.png)
+![Foundation Projects](<../.gitbook/assets/Foundation (2).png>)
 
 #### View Individual Projects in the Foundation Project
 
@@ -96,7 +48,7 @@ To view the individual projects, perform the following steps:
 
 1.Click **Go to Projects** from the Foundation project.&#x20;
 
-![Go to Projects](../.gitbook/assets/NLF2.png)
+![Got to Projects ](<../.gitbook/assets/Go to projects.png>)
 
 2.The Security Summary is displayed along with the list of Individual project cards. The following Project Summary details are listed:
 
@@ -110,17 +62,13 @@ To view the individual projects, perform the following steps:
 * Upstream Dependencies&#x20;
 * Types of Licenses Found
 
-![Security Summary](../.gitbook/assets/FP1.png)
+![Security Summary](../.gitbook/assets/Project\_Foundation.gif)
 
 {% hint style="info" %}
 The warning ![](../.gitbook/assets/War.png) icon provides information on why the security scan is failed for the repositories.&#x20;
 {% endhint %}
 
-3\. You can also check the issues related to the individual project by click of **View Issues**.&#x20;
-
-{% hint style="info" %}
-You might see **Request Access**, if you do not have the access to the project.&#x20;
-{% endhint %}
+3\. You can also check the issues related to the individual project by click of **View Dashboard**.&#x20;
 
 ## Security Leaderboard
 
@@ -161,19 +109,3 @@ Top 10 projects most active in fixing vulnerabilities list shows you the top 10 
 Top 10 projects by repositories scanned list shows you the top 10 projects with the highest number of repositories scanned in the project. The list provides you the project name and the number of repositories scanned for the project. This list auto scrolls when you hover over the mouse on the list.
 
 ![Top 10 Projects by Repositories Scanned](../.gitbook/assets/SW5.png)
-
-
-
-&#x20;
-
-
-
-
-
-&#x20;
-
-
-
-\
-
-

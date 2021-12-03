@@ -56,7 +56,7 @@ You can get and set the configuration variables by using the git config command 
 `accepted = group {Group-Name}`
 
 * _**CLA-Name**_ can be a name of your choosing. The name must include the double quotes.
-* _**URL**_** **refers to the URL to the CLA Contributor Console.
+* _**URL**_** ** refers to the URL to the CLA Contributor Console.
 * _**Group-Name**_ should be an existing Group Name, under the Group section of the Gerrit instance. This name refers to the LDAP Group that the user will be added to.
 * **groups** - If the Group-Name value that you specified in the project.config file does not exist in this file, add it to this file, and then save the file.
 * Provide these files and Gerrit configuration to the Linux Foundation Release Engineering team to finish configuration. \

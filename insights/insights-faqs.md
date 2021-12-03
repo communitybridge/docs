@@ -18,7 +18,7 @@ No, Insights does not monitor forked repositories. A repository that is forked f
 
 ### **What if a repository gets deleted on the Version Control System? How will the data be collected?**
 
-In case if a repository that was being monitored**, **and later is deleted, then we will keep the data from the old repository as historical endpoints, and the data will be reflected on the dashboards when queried for the time period during which there were activities on that repository.
+In case if a repository that was being monitored**,** and later is deleted, then we will keep the data from the old repository as historical endpoints, and the data will be reflected on the dashboards when queried for the time period during which there were activities on that repository.
 
 ### Who can see LFX Insights reports?
 
@@ -59,19 +59,19 @@ No, affiliation data is linked to profiles, and profiles are visible across all 
 
 Insight calculates contribution data based on commit hash. So, if a pull request or changeset is submitted to two different branches with the same commit hash identification number, Insight counts it as a single contribution, eliminating duplication of data.
 
-### How do I identify** **Individual Contributors to my project?
+### How do I identify **** Individual Contributors to my project?
 
-Navigate to _Technical Metrics > Source Control > Commits > Overview_ dashboard for your project, and[ filter the dashboard with the name of the organization](filter-data/) as **Individual - No Account**. Scroll down to the_ Submitters_ metric to know the names and contribution details of the individual contributors.
+Navigate to _Technical Metrics > Source Control > Commits > Overview_ dashboard for your project, and[ filter the dashboard with the name of the organization](filter-data/) as **Individual - No Account**. Scroll down to the _Submitters_ metric to know the names and contribution details of the individual contributors.
 
 ### Do I require permission to see Trends dashboard?
 
-No, you do not require permission to see the Trends dashboard. ** **Anyone who navigates to these dashboards can view them without requiring an LF SSO (LFID) login or permission.
+No, you do not require permission to see the Trends dashboard. **** Anyone who navigates to these dashboards can view them without requiring an LF SSO (LFID) login or permission.
 
 ### How is Trends data aggregated?
 
 Trends metric data is aggregated based on time frames with different breakpoints, also called _buckets_. For example, for 1 year, the metrics are aggregated _monthly_ with twelve breakpoints, for 2 years, they are aggregated _quarterly_ with twelve break points, and so on. For details, see [Time-Based Data Aggregation Methods](trends.md#time-based-data-aggregation-methods).
 
-###  Why do I see only subsets of a data source for my project compared to Global Trends?
+### &#x20;Why do I see only subsets of a data source for my project compared to Global Trends?
 
 Trends metrics are displayed depending upon the data sources that are configured for your project. If a project is not configured for a certain data source, the related metrics are not displayed on [Project Trends](trends.md#project-trends).
 

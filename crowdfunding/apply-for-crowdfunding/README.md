@@ -22,14 +22,14 @@ Consider the following submission guidelines before you apply:
   * You will be responsible for managing payments from the funds
   * You can determine fundraising goals
 
-## Submit an Application <a href="applyforfunding-submitanapplication" id="applyforfunding-submitanapplication"></a>
+## Submit an Application <a href="#applyforfunding-submitanapplication" id="applyforfunding-submitanapplication"></a>
 
 {% hint style="warning" %}
-**Important: **The application includes information about you and your project; provide this information if you are authorized to provide on behalf of your project.
+**Important:** The application includes information about you and your project; provide this information if you are authorized to provide on behalf of your project.
 {% endhint %}
 
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
-2. Click **Apply **from the navigation bar, and then select an **option.**
+2. Click **Apply** from the navigation bar, and then select an **option.**
 
 ![Apply to enroll for Crowdfunding](<../../.gitbook/assets/apply project for crowdfunding.png>)
 

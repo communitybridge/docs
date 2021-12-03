@@ -4,7 +4,7 @@
 
 | Name                     | Description                                                                                                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Travel Fund Name**     | <p>A travel fund name which must be unique</p><p><strong>Note: </strong>Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name.</p> |
+| **Travel Fund Name**     | <p>A travel fund name which must be unique</p><p><strong>Note:</strong> Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name.</p> |
 | **Topic** / **Category** | Topic or category that relates to your Travel Fund. Click ![](<../.gitbook/assets/18088098 (3) (2) (1) (1).jpg>) after you select category/ categories.                                           |
 | **Elevator pitch**       | Brief statement of why your Travel Fund is important to support.                                                                                                                                  |
 | **Website URL**          | A link to website that you want to associate with the fund.                                                                                                                                       |
@@ -33,7 +33,7 @@ Travel fund beneficiaries are individuals who receive invitation from Expensify 
 Click ![](../.gitbook/assets/7418655.jpg) after you enter name and email address of the person you want to add as a beneficiary.
 
 {% hint style="info" %}
-**Note: **Only the person who submitted this application can add or remove beneficiaries. The finance team is notified and adjusts the Expensify accounts accordingly.
+**Note:** Only the person who submitted this application can add or remove beneficiaries. The finance team is notified and adjusts the Expensify accounts accordingly.
 {% endhint %}
 
 ### Travel Fund Budget

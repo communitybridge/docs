@@ -1,6 +1,6 @@
 # Set up Project on EasyCLA
 
-**Important:** Before you get started, make sure your project meets the [EasyCLA Requirements](https://github.com/communitybridge/docs/tree/f3a4dfdd6f9845ac96d41cd1b8878b1e12f70c92/easycla/easycla-requirements.md).
+**Important:** Before you get started, make sure your project meets the [EasyCLA Requirements](../getting-started/prerequisites.md).
 
 **As a project manager, do these steps to get access to EasyCLA:**
 
@@ -8,6 +8,6 @@
 2. Share your username with the EasyCLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
 3. Provide sample ICLA and CCLA template documents to the CLA administration team at [docucla@linuxfoundation.org](mailto:docucla@linuxfoundation.org).
 
-After the CLA administration team confirms your setup, you can [Sign In to the CLA Management Console](../../v1-deprecated/project-managers/sign-in-to-the-easycla-management-console.md) to do the EasyCLA activities as [project managers](../../v1-deprecated/project-managers/).
+After the CLA administration team confirms your setup, you can Sign In to the [EasyCLA Corporate Console](../corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md) to do the EasyCLA activities as [project managers](./).
 
-**Note:** CCLA managers can immediately start using the EasyCLA Corporate Console because it does not require activation from the EasyCLA administration team. [Sign In to the EasyCLA Corporate Console](../../v1-deprecated/cla-manager/sign-in-to-the-easycla-corporate-console.md) to do the EasyCLA activities.
+**Note:** CCLA managers can immediately start using the EasyCLA Corporate Console because it does not require activation from the EasyCLA administration team. [Sign In to the EasyCLA Corporate Console](../corporate-cla-managers/sign-in-to-the-easycla-corporate-console.md) to do the EasyCLA activities.

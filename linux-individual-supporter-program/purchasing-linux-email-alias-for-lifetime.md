@@ -14,7 +14,7 @@ You can purchase Linux.com Email Alias using the following options:
 
 To purchase Linux.com email alias from My Profile Dashboard, follow these steps:
 
-1\. Login to [My Profile](https://myprofile.linuxfoundation.org) and select Purchase Email CTA button on the **Linux.com Email **section.
+1\. Login to [My Profile](https://myprofile.linuxfoundation.org) and select Purchase Email CTA button on the **Linux.com Email** section.
 
 ![Purchase Email](../.gitbook/assets/Linux\_Email.png)
 
@@ -34,7 +34,7 @@ To purchase Linux.com email alias from My Profile Dashboard, follow these steps:
 
 To purchase Linux.com email alias from the order confirmation screen after you complete the Individual Supporter purchase, follow these steps:
 
-1\. After purchasing the Individual Supporter program, on the Order Confirmation page, click on the **Purchase Linux.com Email Alias **CTA button to purchase Linux.com email alias.&#x20;
+1\. After purchasing the Individual Supporter program, on the Order Confirmation page, click on the **Purchase Linux.com Email Alias** CTA button to purchase Linux.com email alias.&#x20;
 
 ![](<../.gitbook/assets/Individual Supporter Confirmation - NEW.png>)
 

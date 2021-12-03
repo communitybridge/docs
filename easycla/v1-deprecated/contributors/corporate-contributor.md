@@ -19,7 +19,7 @@ As a corporate (employee) contributor, you are contributing code on company's be
 ![](<../../../.gitbook/assets/cla github individual check fail.png>)
 
 3\. Click ![](<../../../.gitbook/assets/lfx easycla.png>)  or **Please click here to be authorized**.\
-**Note: **The Authorize Linux Foundation: EasyCLA dialog appears.
+**Note:** The Authorize Linux Foundation: EasyCLA dialog appears.
 
 4\. Click **Authorize LF-Engineering**. (Subsequent contributions will not require authorization.)
 
@@ -30,7 +30,7 @@ As a corporate (employee) contributor, you are contributing code on company's be
 ![CLA GitHub Select Company or Individual](../../../.gitbook/assets/cla-github-select-company-or-individual.png)
 
 6\. Select **Company**.\
-**Note: **To contribute to this project, you must be added to an approved list by the CLA manager under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
+**Note:** To contribute to this project, you must be added to an approved list by the CLA manager under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
 
 7\. Continue:
 
@@ -104,7 +104,7 @@ You must be added to the approved list under a signed CCLA before you can contri
 
 **To contact your CLA manager to add you to the approved list:**
 
-1\. Click **CONTACT **under Contact the CLA Manager to be approved under their signed Corporate CLA.
+1\. Click **CONTACT** under Contact the CLA Manager to be approved under their signed Corporate CLA.
 
 ![Contact CLA Manager](<../../../.gitbook/assets/contact cla manager.png>)
 

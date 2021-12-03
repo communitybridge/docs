@@ -8,7 +8,7 @@
 * Create a profile as described in [Create a Mentee Profile](create-a-mentee-profile.md) section.
 {% endhint %}
 
-2\. If you have a mentee profile you will be presented with projects that match your skills. Click **Apply **CTA on a mentorship card to apply.  \
+2\. If you have a mentee profile you will be presented with projects that match your skills. Click **Apply** CTA on a mentorship card to apply.  \
 
 
 {% hint style="warning" %}

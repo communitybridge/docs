@@ -1,10 +1,10 @@
 # Getting Started
 
-## What is LFX EasyCLA? <a href="what-is-easycla" id="what-is-easycla"></a>
+## What is LFX EasyCLA? <a href="#what-is-easycla" id="what-is-easycla"></a>
 
 _LFX EasyCLA_ helps streamline the contribution process for open source projects that use Contributor License Agreements (CLAs), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project. EasyCLA coordinates the process of getting CLAs signed and, for companies and other organizations, the process of authorizing employees to contribute under a signed CLA. By automating many of the manual processes, this open source solution hosted by The Linux Foundation reduces delays for developers to get authorized under a CLA.
 
-## What is a CLA? <a href="what-is-a-cla" id="what-is-a-cla"></a>
+## What is a CLA? <a href="#what-is-a-cla" id="what-is-a-cla"></a>
 
 Some projects use a _Contributor License Agreement_ (CLA) to define the terms under which content (such as source code or documentation) is contributed to the project.
 
@@ -19,13 +19,13 @@ There are two types of CLAs:
 
     If as an individual you own the contribution, you sign the Individual CLA. A signed Individual CLA may be required before an individual's contribution can be merged into the project repository.
 
-## How Does it Work? <a href="how-does-it-work" id="how-does-it-work"></a>
+## How Does it Work? <a href="#how-does-it-work" id="how-does-it-work"></a>
 
 The following high-level diagram shows the different flows and roles that EasyCLA supports.
 
 ![LFX EasyCLA Flow Diagram](<../../../.gitbook/assets/cla flow diagram.png>)
 
-## What Role are You? <a href="what-role-are-you" id="what-role-are-you"></a>
+## What Role are You? <a href="#what-role-are-you" id="what-role-are-you"></a>
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
 
@@ -34,7 +34,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 * [Corporate CLA Manager](./#corporate-cla-manager)
 * [Corporate CLA Signatory](./#corporate-cla-signatory)
 
-### Project Manager <a href="project-manager" id="project-manager"></a>
+### Project Manager <a href="#project-manager" id="project-manager"></a>
 
 You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console, also referred as Project Control Center.
 
@@ -50,16 +50,16 @@ At any time, you can change the settings to manage your project CLA monitoring, 
 * [View Current and Previous CLA PDFs](../project-managers/view-current-and-previous-cla-pdfs.md)
 * [Manage CLA Group Details](../project-managers/manage-cla-group-details.md)
 
-### Contributor <a href="contributor" id="contributor"></a>
+### Contributor <a href="#contributor" id="contributor"></a>
 
 You are a _contributor_ (developer) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **Individual Contributor (GitHub): **[Sign a CLA as an Individual Contributor and contribute to GitHub project](../contributors/individual-contributor.md#github).
-* **Individual Contributor (Gerrit): **[Contribute  to Gerrit project](../contributors/individual-contributor.md#gerrit)
+* **Individual Contributor (GitHub):** [Sign a CLA as an Individual Contributor and contribute to GitHub project](../contributors/individual-contributor.md#github).
+* **Individual Contributor (Gerrit):** [Contribute  to Gerrit project](../contributors/individual-contributor.md#gerrit)
 * **Corporate** **Contributor (GitHub):** [Contribute to GitHub project](../contributors/corporate-contributor.md#github)
-* **Corporate** **Contributor (Gerrit): **[Contribute to Gerrit Project](../contributors/corporate-contributor.md#gerrit)
+* **Corporate** **Contributor (Gerrit):** [Contribute to Gerrit Project](../contributors/corporate-contributor.md#gerrit)
 
-### Corporate CLA Manager <a href="corporate-cla-manager" id="corporate-cla-manager"></a>
+### Corporate CLA Manager <a href="#corporate-cla-manager" id="corporate-cla-manager"></a>
 
 You are a _Corporate CLA manager_ (CCLA manager) if you are the person authorized to manage the list of approved contributors under your company’s Corporate CLA. There can be one or more CLA managers for a company. With this responsibility, you use EasyCLA to:
 
@@ -67,7 +67,7 @@ You are a _Corporate CLA manager_ (CCLA manager) if you are the person authorize
 * [Approve Contributors](../cla-manager/approve-contributors.md)
 * [Add or Delete CLA Managers](../cla-manager/add-or-delete-cla-managers.md)
 
-### Corporate CLA Signatory <a href="corporate-cla-signatory" id="corporate-cla-signatory"></a>
+### Corporate CLA Signatory <a href="#corporate-cla-signatory" id="corporate-cla-signatory"></a>
 
 You are a _Corporate CLA signatory_ (CCLA signatory) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
 

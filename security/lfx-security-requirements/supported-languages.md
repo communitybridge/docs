@@ -5,9 +5,9 @@ LFX Security provides dependency and license support for the following programmi
 * Golang
 * Java
 * JavaScript
-* Node.js \(npm\)
+* Node.js (npm)
 * PHP
 * Python
 * Ruby
 * Scala
-
+* .NET

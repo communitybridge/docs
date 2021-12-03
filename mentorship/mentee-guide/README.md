@@ -4,4 +4,4 @@ Before you apply to The Linux Foundation Mentorship program we strongly recommen
 
 So, let's get started.
 
-**Note: **To learn about the Mentorship platform navigate to [mentees](../mentees/) section of this document.
+**Note:** To learn about the Mentorship platform navigate to [mentees](../mentees/) section of this document.

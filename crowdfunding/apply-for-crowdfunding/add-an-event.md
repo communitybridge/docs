@@ -15,4 +15,4 @@ Have these items handy before you begin:
 4. Click **Submit Application**.
 5. (Optional) Click **My Projects** tab to view your event pending for approval.\
    \
-   **Note: **You can edit your event at any time. Select the event that you want to update, and click **Edit Event**.
+   **Note:** You can edit your event at any time. Select the event that you want to update, and click **Edit Event**.

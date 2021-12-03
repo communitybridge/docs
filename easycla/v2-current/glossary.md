@@ -2,7 +2,7 @@
 
 ## Approved List
 
-Approved Lists are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed CCLA. [CLA Managers](broken-reference) create and manage the approved list.
+Approved Lists are lists of domain names, email addresses of individuals, GitHub usernames, or GitHub organization names who are authorized to contribute under a signed CCLA. [CLA Managers](glossary.md#cla-manager) create and manage the approved list.
 
 ## Approval Criteria
 
@@ -32,13 +32,13 @@ An Individual Contributor License Agreement (ICLA) defines terms and conditions 
 
 ## **CLA Manager**
 
-[CLA Managers](broken-reference) are authorized by their company to manage the list of approved contributors under the company’s CCLA for a project. They use the EasyCLA Corporate Console to add and manage contributors and other CLA Managers.
+CLA Managers are authorized by their company to manage the list of approved contributors under the company’s CCLA for a project. They use the EasyCLA Corporate Console to add and manage contributors and other CLA Managers.
 
-Before a CCLA is signed, there is not an official CLA Manager. The person who will become the initial CLA Manager is responsible for [coordinating the CCLA signing process](broken-reference). This may involve them signing the CCLA themselves if they are authorized by their company to do so, or designating someone else as the CLA Signatory if they are not authorized. After the CCLA is signed, they become the initial CLA Manager under that CCLA.
+Before a CCLA is signed, there is not an official CLA Manager. The person who will become the initial CLA Manager is responsible for [coordinating the CCLA signing process](corporate-cla-managers/coordinate-signing-cla-and-become-initial-cla-manager.md). This may involve them signing the CCLA themselves if they are authorized by their company to do so, or designating someone else as the CLA Signatory if they are not authorized. After the CCLA is signed, they become the initial CLA Manager under that CCLA.
 
 ## **CLA Signatory**
 
-A [CLA Signatory](broken-reference) signs a CCLA on behalf of the company. CLA Signatories can be any person who is authorized by their company to sign the CCLA on its behalf.
+A CLA Signatory signs a CCLA on behalf of the company. CLA Signatories can be any person who is authorized by their company to sign the CCLA on its behalf.
 
 ## **EasyCLA Corporate Console**
 
@@ -58,4 +58,4 @@ Also known as Project Control Center. Project managers use the [project console]
 
 ## Project Manager
 
-[Project managers](../v1-deprecated/project-managers/) are authorized by The Linux Foundation to configure the EasyCLA settings for a project. They use the [LFX Project Control Center (PCC)](https://projectadmin.lfx.linuxfoundation.org), also known as Project Console, where they have access to specific projects as per the permission provided by The Linux Foundation. They add and manage projects and repositories on PCC.
+Project managers are authorized by The Linux Foundation to configure the EasyCLA settings for a project. They use the [LFX Project Control Center (PCC)](https://projectadmin.lfx.linuxfoundation.org), also known as Project Console, where they have access to specific projects as per the permission provided by The Linux Foundation. They add and manage projects and repositories on PCC.

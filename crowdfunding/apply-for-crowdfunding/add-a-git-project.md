@@ -12,9 +12,9 @@ Keep these items ready before you begin, although they are not required:
 {% endhint %}
 
 1. [Sign in](../../sso/sign-in/) to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
-2. Click **Apply** from top right of the page,** **and** **Select **ADD GIT PROJECT.**\
+2. Click **Apply** from top right of the page, **** and **** Select **ADD GIT PROJECT.**\
    ****\
-   ** **![](<../../.gitbook/assets/add git project.png>)&#x20;
+   &#x20;**** ![](<../../.gitbook/assets/add git project.png>)&#x20;
 3. Complete a [project application form](../project-application.md); red asterisks indicate required fields.&#x20;
 4. Click **Submit Application.**
 5. (Optional) Click **My Projects** tab to view your pending project.

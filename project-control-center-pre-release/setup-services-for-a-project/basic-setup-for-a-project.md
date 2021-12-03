@@ -6,7 +6,7 @@ Basic setup of project allows you to view information related:
 * Branding
 * Personnel
 
-## Basic Information  <a href="basic-information" id="basic-information"></a>
+## Basic Information  <a href="#basic-information" id="basic-information"></a>
 
 You can update basic information related to the project such as common name of the project, stage of the project, slug name.
 
@@ -14,7 +14,7 @@ To update basic information for a project, perform the following steps:
 
 1.Login into PCC.
 
-2\. Search for the required project. The Project dashboard appears. Click **Basic **from the **SETUP STATUS **tab.
+2\. Search for the required project. The Project dashboard appears. Click **Basic** from the **SETUP STATUS** tab.
 
 {% hint style="info" %}
 You can also navigate to Basic from the Vertical Sidebar navigation menu. Click **Setup** and then select **Basic**.&#x20;
@@ -22,7 +22,7 @@ You can also navigate to Basic from the Vertical Sidebar navigation menu. Click 
 
 ![Basic Setup](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MYVqEiK8ITkWCIS1MX-%2F-MYVqe\_\_FDB2g32OQ5Rc%2FBasic.png?alt=media\&token=ee821b5f-26d5-440a-9e0b-91aee5cb690e)
 
-3.The Basic page appears. Click **Edit **available in the Basic tab.&#x20;
+3.The Basic page appears. Click **Edit** available in the Basic tab.&#x20;
 
 ![Edit](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MgdZ3FEhytAoLgAUcth%2F-Mgd\_pSJ\_nnTofuo9eFN%2FEdit.png?alt=media\&token=0887c72b-e8a7-491d-917b-b7e4ed1df2b0)
 
@@ -32,16 +32,16 @@ You can also navigate to Basic from the Vertical Sidebar navigation menu. Click 
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Common Name**        | You can update the common name that you have provided at the time of creating the project.                                                                                                                                        |
 | **Category**           | Category can be updated only when you have selected a parent project at the time of creating the project.                                                                                                                         |
-| **Slug  **             |                                                                                                                                                                                                                                   |
+| **Slug**               |                                                                                                                                                                                                                                   |
 | **Stage**              | Select the appropriate  stage of the project. By default, the stage is selected to Prospect when you create a new project.                                                                                                        |
 | **Announcement Date**  | Select the date when the project will be released.                                                                                                                                                                                |
 | **Technology Sector**  | <p>Select an appropriate technology sector for your project. You can also select more then one sector.</p><p></p><p>If you feel that your project falls across all sectors, check the <strong>Cross Technology</strong> box. </p> |
 | **Industry Sector**    | <p>Select an appropriate industry sector for your project. You can also select more then one sector.  </p><p></p><p>If you feel that your project falls across all sectors, check the <strong>Cross-Industry</strong> box.</p>    |
 | **Technical Activity** | Select an appropriate technical activity for your project. You can also select more then one sector.                                                                                                                              |
-| **Funding **           | Select funding type for your project. If you select the funding type as **Funded**, then the **Model **field becomes mandatory.                                                                                                   |
+| **Funding**            | Select funding type for your project. If you select the funding type as **Funded**, then the **Model** field becomes mandatory.                                                                                                   |
 | **Model**              | Select an appropriate model for your project. This filed becomes mandatory when the funding type of your project is **Funded**.                                                                                                   |
 | **CII Project ID**     | Enter the CII Project ID.                                                                                                                                                                                                         |
-| **Description **       | Provide a short description for your project.                                                                                                                                                                                     |
+| **Description**        | Provide a short description for your project.                                                                                                                                                                                     |
 
 ![Edit Basic](../../.gitbook/assets/Edit-Basic.gif)
 
@@ -63,7 +63,7 @@ To update branding information for a project, perform the following steps:
 
 ![Branding Details](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-MEHCY-wqnF4e-rkQmSt%2F-MEIRfjJQ1bkaWL-G6PN%2FBrand\_Details.png?alt=media\&token=71b68a16-261d-4bcf-99f4-cd03b54bf2ed)
 
-## Personnel Information  <a href="personnel-information" id="personnel-information"></a>
+## Personnel Information  <a href="#personnel-information" id="personnel-information"></a>
 
 Basic setup also allows you to update personnel information like executive name, owner details, and program manager details.
 

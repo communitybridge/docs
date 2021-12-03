@@ -1,6 +1,6 @@
 # Crowdfunding - Get Help
 
-Navigate to **Get Help **and select an **option** from the drop-down list.
+Navigate to **Get Help** and select an **option** from the drop-down list.
 
 ![](<../.gitbook/assets/get help (2).png>)
 
