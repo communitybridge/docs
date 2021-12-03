@@ -2,8 +2,6 @@
 
 Issue Tracking service allows you to setup the Jira board to track issues and backlog activities related to your project. You can setup the Jira board, add, update and delete service administrators.
 
-This is for testing!
-
 ## Deploying a New Jira Board <a href="#deploying-a-new-jira-board" id="deploying-a-new-jira-board"></a>
 
 You can deploy a new Jira board to your project.
