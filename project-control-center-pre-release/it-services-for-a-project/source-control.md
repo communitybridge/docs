@@ -32,7 +32,7 @@ You can also navigate to Source Control from the Vertical Sidebar navigation men
 4.The Connect GitHub Organization dialog box appears. Enter the **Organization Name** and click **Connect**.
 
 {% hint style="info" %}
-Make sure to enter a valid GitHub organization name.&#x20;
+Make sure to enter a valid GitHub organization name.
 {% endhint %}
 
 ![GitHub Organization Name](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjDq0dhMrtHe11\_Bun%2FConnect.png?alt=media\&token=999ec864-7477-4679-acd3-f06059c897ff)
@@ -47,10 +47,10 @@ Make sure to enter a valid GitHub organization name.&#x20;
 ![GitHub Status](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMBvrEsjsliBZECYf7t%2F-MMBzrTuxMl6EmxWkMKU%2FStatus.png?alt=media\&token=0e6568b7-142b-4b7b-b899-50119dd69a8f)
 
 {% hint style="danger" %}
-If the Organization name is changed in the GitHub, you need to connect the renamed organization again. The renamed organization wont be automatically connected even though the organization with the old name was connected.&#x20;
+If the Organization name is changed in the GitHub, you need to connect the renamed organization again. The renamed organization wont be automatically connected even though the organization with the old name was connected.
 {% endhint %}
 
-## Invite users to your Organization  <a href="#invite-users-to-organization" id="invite-users-to-organization"></a>
+## Invite The Linux Foundation user to your Organization <a href="#invite-users-to-organization" id="invite-users-to-organization"></a>
 
 Your project should have its own GitHub organization, separate from your company's GitHub organization, and which is not shared with other, non-Linux-Foundation projects. If you need to, create a new GitHub organization for this project, and have a user who is an owner in both organizations transfer each project repository to this organization.
 
@@ -61,27 +61,27 @@ Then, invite the user “thelinuxfoundation” as an owner at the organization l
 * For more information on how to transfer a repository, refer [Transfer a Repository](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository).
 {% endhint %}
 
-## Deleting a GitHub Organization  <a href="#deleting-github-organization" id="deleting-github-organization"></a>
+## Deleting a GitHub Organization <a href="#deleting-github-organization" id="deleting-github-organization"></a>
 
-You can delete the added GitHub organization from the PCC.&#x20;
+You can delete the added GitHub organization from the PCC.
 
 To delete the GitHub organization that is added in the PCC, perform the following:
 
-1.Login into PCC.&#x20;
+1.Login into PCC.
 
-2.Click the **Source Control**.&#x20;
+2.Click the **Source Control**.
 
-3.Under **GitHub**, click on the required GitHub organization that you want to delete.&#x20;
+3.Under **GitHub**, click on the required GitHub organization that you want to delete.
 
 ![GitHub Organization](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwCcGG1dBv-of9Ain%2FG1.png?alt=media\&token=3650f3de-977b-4541-a4d9-5cf6b3ef5dc2)
 
-4.Click the ![](<../../.gitbook/assets/Setting .png>) icon  and click **Disassociate**.&#x20;
+4.Click the ![](<../../.gitbook/assets/Setting .png>) icon and click **Disassociate**.
 
 .
 
 ![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwaLjn4A4gyhFMSNm%2FG2.png?alt=media\&token=d324770c-e5df-4ecf-9707-809e592496af)
 
-5.The Confirm Disassociation dialog box appears, click **Delete** to delete the GitHub Organization.&#x20;
+5.The Confirm Disassociation dialog box appears, click **Delete** to delete the GitHub Organization.
 
 ![Delete](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwtzItvRTln\_kth57%2FG3.png?alt=media\&token=985b3280-d2d4-418e-8e5d-dd77638baeaa)
 
