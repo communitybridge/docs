@@ -1,10 +1,10 @@
 # Enroll Your Program
 
-Enrolled mentorship programs are reviewed by The Linux Foundation before they're published and visible on the Mentorship platform.&#x20;
+Enrolled mentorship programs are reviewed by The Linux Foundation before they're published and visible on the Mentorship platform.
 
-Submitted mentorship programs are reviewed based on the following factors:&#x20;
+Submitted mentorship programs are reviewed based on the following factors:
 
-* Open source status - projects must be 100% open source&#x20;
+* Open source status - projects must be 100% open source
 * Community-wide adoption
 * Alignment with The Linux Foundation’s support of open source initiatives
 
@@ -17,15 +17,15 @@ Keep these items ready before you begin:
 * A list of names and email addresses for the individuals who you want to invite as mentors.
 {% endhint %}
 
-1\. To enroll the project [Sign in ](../../../sso/sign-in/)to the [Mentorship](https://mentorship.lfx.linuxfoundation.org) and select **Enroll Your Project** from the main navigation.&#x20;
+1\. To enroll the project [Sign in ](../../../sso/sign-in/)to the [Mentorship](https://mentorship.lfx.linuxfoundation.org) and select **Enroll Your Project** from the main navigation.
 
 ![](<../../../.gitbook/assets/Enroll Your Program.png>)
 
 2\. Complete the [Mentorship Project Enrollment ](mentorship-project-enrollment-form.md)form. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 
 3\. Read and agree to the Terms and Conditions and **Submit** the application.\
-&#x20; &#x20;
+
 
 {% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision.&#x20;
+After The Linux Foundation reviews the application, you will receive an email notification with a review decision.
 {% endhint %}
