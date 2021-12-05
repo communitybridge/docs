@@ -61,6 +61,14 @@ Then, invite the user “thelinuxfoundation” as an owner at the organization l
 * For more information on how to transfer a repository, refer [Transfer a Repository](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository).
 {% endhint %}
 
+{% hint style="info" %}
+We cannot accept invites unless the organization is associated with a project. Please make sure to add the project to the PCC before sending an invite to 'thelinuxfoundation" user, or the invite will not be accepted and will expire after 7 days.
+{% endhint %}
+
+{% hint style="warning" %}
+
+{% endhint %}
+
 ## Deleting a GitHub Organization <a href="#deleting-github-organization" id="deleting-github-organization"></a>
 
 You can delete the added GitHub organization from the PCC.
