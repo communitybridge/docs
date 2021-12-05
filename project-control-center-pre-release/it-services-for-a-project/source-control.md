@@ -57,16 +57,13 @@ Your project should have its own GitHub organization, separate from your company
 Then, invite the user “thelinuxfoundation” as an owner at the organization level (not per repository) to the GitHub organization, and connect them in Project Control Center.
 
 {% hint style="info" %}
+* We cannot accept invites unless the organization is associated with a project. Please make sure to add the project to the PCC before sending an invite to 'thelinuxfoundation" user, or the invite will not be accepted and will expire after 7 days.
 * For more information on how to invite users to join organization, refer [Invite Users to an Organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/inviting-users-to-join-your-organization).
 * For more information on how to transfer a repository, refer [Transfer a Repository](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository).
 {% endhint %}
 
-{% hint style="info" %}
-We cannot accept invites unless the organization is associated with a project. Please make sure to add the project to the PCC before sending an invite to 'thelinuxfoundation" user, or the invite will not be accepted and will expire after 7 days.
-{% endhint %}
-
 {% hint style="warning" %}
-
+If your invite has expired, you must delete it and send a new invite.
 {% endhint %}
 
 ## Deleting a GitHub Organization <a href="#deleting-github-organization" id="deleting-github-organization"></a>
