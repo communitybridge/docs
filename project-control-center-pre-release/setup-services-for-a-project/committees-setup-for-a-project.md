@@ -4,7 +4,6 @@ Committee setup of project allows you to provide information on:
 
 * Committee
 * Members
-* Templates
 
 ## Committee <a href="#billing-information" id="billing-information"></a>
 
