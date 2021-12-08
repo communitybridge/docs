@@ -1,12 +1,12 @@
 # Get Reimbursed
 
-Beneficiaries submit their requests for project-related expenses for reimbursement through Expensify.&#x20;
+Beneficiaries submit their requests for project-related expenses for reimbursement through Expensify.
 
-**Note:** All expenses appear in the project's public ledger (transaction list) for full transparency.&#x20;
+**Note:** All expenses appear in the project's public ledger (transaction list) for full transparency.
 
-* [Prepare for Reimbursement](get-reimbursed.md#GetReimbursed-PrepareforReimbursement)
-* [Set Up a Reimbursement Account and Create a Report](get-reimbursed.md#GetReimbursed-SetUpaReimbursementAccountandCreateaReport)
-* [Submit an Expense Report:](get-reimbursed.md#GetReimbursed-SubmitanExpenseReport:)
+* [Prepare for Reimbursement](get-reimbursed.md#getreimbursed-prepareforreimbursement)
+* [Set Up a Reimbursement Account and Create a Report](get-reimbursed.md#getreimbursed-setupareimbursementaccountandcreateareport)
+* [Submit an Expense Report](get-reimbursed.md#getreimbursed-submitanexpensereport)
 
 ## Prepare for Reimbursement <a href="#getreimbursed-prepareforreimbursement" id="getreimbursed-prepareforreimbursement"></a>
 
@@ -53,6 +53,6 @@ The Linux Foundation Wire Transfer Form
 
 1. Follow these [steps in Expensify](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/how-to-create-and-submit-an-expensify-report) to create and submit an expense report.\
    After you submit your report, the approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
-2. &#x20;Upon approval notification, go to your account to access your reimbursement money. It may take up to 30 business days for the funds to be deposited to your bank account.\*
+2. Upon approval notification, go to your account to access your reimbursement money. It may take up to 30 business days for the funds to be deposited to your bank account.\*
 
 \*Wire Transfer recipients will get the funds deposited to their account directly from Linux Foundation.
