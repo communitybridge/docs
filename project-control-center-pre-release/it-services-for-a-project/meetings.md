@@ -12,3 +12,43 @@ The Meeting Management widget provides you the following details:
 * Participants invited to the recurring meetings
 
 ![Meeting Management Wizard](../../.gitbook/assets/MMWizarrd.png)
+
+## Meetings&#x20;
+
+You can view the meetings either in List View or in Calendar View. List view provides list of meetings that are scheduled and the Calendar view shows the scheduled meetings in a calendar.&#x20;
+
+![Meeting View](<../../.gitbook/assets/Meeting View.gif>)
+
+### Scheduling a Meeting&#x20;
+
+Meeting Management allows you to schedule a recurring or a non recurring meetings. You can schedule a meeting and add participants belonging to various committees. You can also invite a private induvial who does not belong to any community. &#x20;
+
+To schedule a meeting, perform the following:
+
+1.Login into PCC.
+
+2.Search for the required project. The Project dashboard appears. Click **Meeting Management** from the **IT SERVICES STATUS** tab.
+
+{% hint style="info" %}
+You can also navigate to Meeting Management from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Meeting Management**.
+{% endhint %}
+
+![Meeting Management ](../../.gitbook/assets/MM.png)
+
+3.Click **+Add Recurring Meeting** if you want to add recurring meeting or **+ Add Non-Recurring Meeting** if you want to schedule non recurring meeting. &#x20;
+
+![Add Meeting ](../../.gitbook/assets/Rec\&NonRec.png)
+
+4.The Schedule Meeting page appears. Update the following details and click **Next: Add Participants**.
+
+| Field                        | Action                                                                                                                                                                                                                                    |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Enter Meeting Title          | Enter the name of meting                                                                                                                                                                                                                  |
+| Meeting Details              | Select the date and time for the meeting to be scheduled                                                                                                                                                                                  |
+| Frequency of the meeting     | <p>Select the required frequency of the meeting. <br><br><em><strong>Note</strong></em>: If you are scheduling a non recurring meeting, you need to select <strong>Does Not Repeat</strong>. </p>                                         |
+| Meeting Visibility           | By default, all meeting will be private.  If you want to make the meeting public, you need to select the **Make Meeting Public**.                                                                                                         |
+| Meeting Description          | Provide the description on the meeting                                                                                                                                                                                                    |
+| Invite Committee Members     | Select the required committee for which the meeting is scheduled                                                                                                                                                                          |
+| Recording and Transcription  | <p>Select the recording visibility. You can either set the visibility of the meeting as Private or Public.  <br><br>Select the transcript visibility.  You can either set the visibility of the transcription as Private or Public.  </p> |
+
+![Scheduling a Meeting ](<../../.gitbook/assets/Schduling Meeting.gif>)
