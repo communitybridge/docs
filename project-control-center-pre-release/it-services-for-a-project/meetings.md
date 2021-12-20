@@ -52,3 +52,25 @@ You can also navigate to Meeting Management from the Vertical Sidebar navigation
 | Recording and Transcription  | <p>Select the recording visibility. You can either set the visibility of the meeting as Private or Public.  <br><br>Select the transcript visibility.  You can either set the visibility of the transcription as Private or Public.  </p> |
 
 ![Scheduling a Meeting ](<../../.gitbook/assets/Schduling Meeting.gif>)
+
+5.The Manage Participant page appears with list of committee members. The list provides details such as name of the member, job title of the member, organization to which the member belongs, role of the member, voting status. You can make the Host of the meeting by selecting the required member.&#x20;
+
+Click **Schedule Meeting** to complete the meeting schedule.&#x20;
+
+{% hint style="info" %}
+You can also invite a member who does not belong to the committee. Click **+ Add New Invite**. Enter the details such as name, company , email ID and job title  of the participant and click **Add Meeting Participant**. \
+\
+You can also add yourself to the meeting by clicking the **+ Add yourself to the meeting**. You can remove the participant by click of delete ![](../../.gitbook/assets/Delete\_Icon.png) icon&#x20;
+{% endhint %}
+
+![Adding Participants ](../../.gitbook/assets/SM.gif)
+
+## Past Meetings&#x20;
+
+Past Meetings tab provides the list of meetings that were scheduled in the past. The list provides details such as meeting title, meeting date, number of attendees, recording and transcript of the meeting.&#x20;
+
+{% hint style="info" %}
+You can share the recording and transcript of the meeting with the required members. This feature will be available in the upcoming releases.&#x20;
+{% endhint %}
+
+![Past Meetings ](<../../.gitbook/assets/Past Meetings.png>)
