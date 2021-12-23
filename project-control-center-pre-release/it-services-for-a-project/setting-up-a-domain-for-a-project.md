@@ -1,6 +1,6 @@
 # Setting up a Domain for a Project
 
-A domain name provides a unique identity for your project. You can set up a unique domain name that will allow you to have a administrative autonomy as well as control within the internet world.&#x20;
+A domain name provides a unique identity for your project. You can set up a unique domain name that will allow you to have a administrative autonomy as well as control within the internet world.
 
 To setup a domain for the project, perform the following steps:
 
@@ -9,7 +9,7 @@ To setup a domain for the project, perform the following steps:
 2\. Search for the required project. The Project dashboard appears. Click **Domains** from the **IT SERVICES STATUS** tab.
 
 {% hint style="info" %}
-You can also navigate to Domains from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Domains**.&#x20;
+You can also navigate to Domains from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Domains**.
 {% endhint %}
 
 ![Domains](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MT\_rmVZSziEvGzFp9Kv%2F-MT\_u0bLDwGRoXIxgdIK%2FDomain.png?alt=media\&token=64a65e29-115b-4362-aae2-77fc3c918653)
@@ -17,11 +17,11 @@ You can also navigate to Domains from the Vertical Sidebar navigation menu. Clic
 3.The Domains page appears. Click **+ Add Domain** to add a domain for your project.
 
 {% hint style="warning" %}
-You cannot change the primary domain for the project, if you want to change the primary domain,  you need to raise a support ticket.&#x20;
+You cannot change the primary domain for the project, if you want to change the primary domain, you need to raise a support ticket.
 {% endhint %}
 
 {% hint style="info" %}
-You can update the domains details by click of the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.&#x20;
+You can update the domains details by click of the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
 {% endhint %}
 
 ![Add Domains](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTin-ZAqZqONnTCyC3a%2F-MTing7k6on25NDZh28K%2FAdd\_Domains.png?alt=media\&token=30943d97-7cc3-4bc2-aa35-69d238302653)
@@ -43,42 +43,42 @@ You can update the domains details by click of the edit ![](<../../.gitbook/asse
 7.If the domain is already taken by an another project, you have the option to bid for that domain. Refer Bid Domain for more details.
 
 {% hint style="danger" %}
-You should have the domain setup for a project in order to setup other IT Services such as Mailing List, Wiki, Issue Tracking, and Email Forwarding services.&#x20;
+You should have the domain setup for a project in order to setup other IT Services such as Mailing List, Wiki, Issue Tracking, and Email Forwarding services.
 {% endhint %}
 
-## Setting up Primary Domain&#x20;
+## Setting up Primary Domain
 
-You can setup a primary domain for a project within the available and registered domains for a project.&#x20;
+You can setup a primary domain for a project within the available and registered domains for a project.
 
-To setup a primary domain for a project,  perform the following:
+To setup a primary domain for a project, perform the following:
 
-1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project. &#x20;
+1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
 2.Place the cursor in the **Search Domain** box, select the required domain and click the **Set As Primary Domain** button.
 
 ![Primary Domain](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWwUssFfB-IYmgmrp\_F%2F-MWxauBMGJENhEbD\_xRo%2FPD.png?alt=media\&token=ffe9591f-6233-4607-9ccd-425c9af91461)
 
-3.The domain will be selected and listed as Primary Domain.&#x20;
+3.The domain will be selected and listed as Primary Domain.
 
 ![Primary Domain](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxb5zIJ2W0qiicBlTj%2F-MWxdWFxDY7yV9CAJZ3M%2FPD1.png?alt=media\&token=1c747322-20c9-46db-a0c7-fd1276c36ee0)
 
-## Redirecting a Domain&#x20;
+## Redirecting a Domain
 
-You can redirect a domain from one domain to another. Redirects are a way to forward visitors and search engines to a different URL than the one they requested. You can use redirects when you’re moving content around and you want the content to retain its value.&#x20;
+You can redirect a domain from one domain to another. Redirects are a way to forward visitors and search engines to a different URL than the one they requested. You can use redirects when you’re moving content around and you want the content to retain its value.
 
 To redirect a domain from one domain to another domain, perform the following:
 
-1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project. &#x20;
+1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.&#x20;
+2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.
 
 ![Domain Edit](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxfVJJ8Aw7DVZuty6g%2F-MWxgJiGY3AwTtFjyqvO%2FPD2.png?alt=media\&token=c9ed8ae6-3f35-4263-b2f5-84f6668d34b2)
 
-3.The Edit Domain dialog box appears. Click **Redirects**, enter the redirect domain under **To** box and click **Add**.&#x20;
+3.The Edit Domain dialog box appears. Click **Redirects**, enter the redirect domain under **To** box and click **Add**.
 
 ![Redirect Domain](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxfVJJ8Aw7DVZuty6g%2F-MWxh1mxMS7e10isWSZM%2FRedirect.png?alt=media\&token=9f8e04ae-1b83-4f80-bda8-b1c30630a558)
 
-4.The redirected domain is listed under **Existing Redirects** list.&#x20;
+4.The redirected domain is listed under **Existing Redirects** list.
 
 ![Existing Redirects](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxfVJJ8Aw7DVZuty6g%2F-MWxhggsSf5xHvfVJBxp%2FRedirect%20list.png?alt=media\&token=8ff52979-ef42-4f30-a672-c5199c027f7a)
 
@@ -88,15 +88,15 @@ If you want to update the redirect domain, click the edit ![](https://firebasest
 If you want to delete the redirect domain, click the delete ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MM68gfssQOeiPjEn5N-%2F-MM6BgQGPg8oZgOkzO6V%2FDelete\_Icon.png?alt=media\&token=3979bb20-b3a3-48f9-9401-de50ca82a6a3)icon.
 {% endhint %}
 
-## Adding a Service Record&#x20;
+## Adding a Service Record
 
-You can add service record such as Pantheon, Netlify and GitHub pages for your domain.&#x20;
+You can add service record such as Pantheon, Netlify and GitHub pages for your domain.
 
 To setup service record, perform the following steps:
 
-1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project. &#x20;
+1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.&#x20;
+2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.
 
 ![Domain Edit](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxfVJJ8Aw7DVZuty6g%2F-MWxgJiGY3AwTtFjyqvO%2FPD2.png?alt=media\&token=c9ed8ae6-3f35-4263-b2f5-84f6668d34b2)
 
@@ -104,4 +104,30 @@ To setup service record, perform the following steps:
 
 ![Service Record](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxiMnaD6guNOw-2tVT%2F-MWxmK2NbWQZPCpPwovf%2FService.png?alt=media\&token=fcb9f51b-aa84-450e-8cd3-1ebb6303c6c9)
 
-4.The service records are listed under **Existing Service Records** list.&#x20;
+4.The service records are listed under **Existing Service Records** list.
+
+## Delegate DNS
+
+Domain Name System (DNS) is the hierarchical and decentralized naming system used to identify computers, services, and other resources reachable through the internet or other internet protocol networks. DNS converts human readable domain names to machine readable IP addresses.&#x20;
+
+DNS Delegation is nothing but providing rights from one resource to another resource. Delegations allows the servers in one zone to refer clients to servers in other zones.
+
+Administrator can delegate the DNS for the managed DNS.&#x20;
+
+To delegate the DNS through PCC, perform the following:
+
+1.Go to the Domains list and click the ![](../../.gitbook/assets/Dot\_Icon.png) icon and click **Delegate DNS (no managed DNS)**.&#x20;
+
+![Delegate DNS](../../.gitbook/assets/DNS.png)
+
+2.The Delegate DNS server pop box appears. Provide the required **Name Servers** and select the **I Understand** statement and click **Delegate**.&#x20;
+
+{% hint style="info" %}
+You can provide the details of the six name servers.&#x20;
+{% endhint %}
+
+![Name Servers ](../../.gitbook/assets/Name\_Servers.png)
+
+3.A flyer message appears informing that the DNS delegation is success and under DNS Hosting, the managed status changes to **Delegated**.&#x20;
+
+![Delegated](../../.gitbook/assets/Delegated.png)
