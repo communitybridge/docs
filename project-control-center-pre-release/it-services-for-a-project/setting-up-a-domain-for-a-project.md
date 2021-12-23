@@ -106,6 +106,24 @@ To setup service record, perform the following steps:
 
 4.The service records are listed under **Existing Service Records** list.
 
+## Disable Auto Renew&#x20;
+
+By default, when a domain is added to your project; the domain is set to auto renew. Administrator can disable the auto renew.&#x20;
+
+To disable the auto renew of the domain, perform the following:
+
+1.Click the ![](../../.gitbook/assets/Dot\_Icon.png) icon and select **Disable auto-renew**.&#x20;
+
+![Auto Renew](<../../.gitbook/assets/Auto renew.png>)
+
+2.The Disable auto renew dialog box appears.  Click Yes to cancel the auto renewal of the domain.&#x20;
+
+![Cancel Auto Renewal](../../.gitbook/assets/Disabled.png)
+
+3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](../../.gitbook/assets/Cross.png) icon under Auto Renew column.&#x20;
+
+![Disabled Status ](../../.gitbook/assets/Disabled\_Success.png)
+
 ## Transfer Domain
 
 As a administrator, you can transfer the domains which are owned outside your project. You can transfer such domains to your projects.&#x20;
@@ -120,7 +138,7 @@ To transfer a domain, perform the following:
 
 ![Check Availability](<../../.gitbook/assets/Add\_d (1).png>)
 
-3.You can see the Domain Taken message.  Click Yes; Transfer Domain. &#x20;
+3.You can see the Domain Taken message.  Click **Yes; Transfer Domain**. &#x20;
 
 ![Transfer Domain ](<../../.gitbook/assets/Domain\_Taken (1).png>)
 
@@ -137,7 +155,7 @@ To transfer a domain, perform the following:
 ![Transfer Code Needed](<../../.gitbook/assets/Domain\_Not (1).png>)
 
 {% hint style="info" %}
-You have to provide the transfer code in order to complete the domain transfer. To provide the transfer code, click icon and select **Continue Transfer** and enter the transfer code that you will receive from the registrar of your domain. Select My Domain is unlocked and My DNS Service is not hosted and click **Begin Transfer**.&#x20;
+You have to provide the transfer code in order to complete the domain transfer. To provide the transfer code, click ![](../../.gitbook/assets/Dot\_Icon.png) icon and select **Continue Transfer** and enter the transfer code that you will receive from the registrar of your domain. Select My Domain is unlocked and My DNS Service is not hosted and click **Begin Transfer**.&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/Transfer.gif)
