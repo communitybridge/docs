@@ -106,6 +106,42 @@ To setup service record, perform the following steps:
 
 4.The service records are listed under **Existing Service Records** list.
 
+## Transfer Domain
+
+As a administrator, you can transfer the domains which are owned outside your project. You can transfer such domains to your projects.&#x20;
+
+To transfer a domain, perform the following:
+
+1.Click **+ Add Domain**.&#x20;
+
+![Add Domain](<../../.gitbook/assets/Add\_Domain (1).png>)
+
+2.The Add Domain dialog box appears. Enter the name of the domain that you want to transfer to your project and click **Check Availability**.&#x20;
+
+![Check Availability](<../../.gitbook/assets/Add\_d (1).png>)
+
+3.You can see the Domain Taken message.  Click Yes; Transfer Domain. &#x20;
+
+![Transfer Domain ](<../../.gitbook/assets/Domain\_Taken (1).png>)
+
+4.One more message appears that informs you whether Linux Foundation should manage your DNS. Select Yes or No.&#x20;
+
+![Manage DNS](../../.gitbook/assets/Manage.png)
+
+5.You can import the DNS Zone file or skip it, if you do not have it. Click **Save and Continue**.&#x20;
+
+![Import DNS](<../../.gitbook/assets/DNS Skip.png>)
+
+6.The Domain will be listed in your project with status **Transfer Code Needed**.
+
+![Transfer Code Needed](<../../.gitbook/assets/Domain\_Not (1).png>)
+
+{% hint style="info" %}
+You have to provide the transfer code in order to complete the domain transfer. To provide the transfer code, click icon and select **Continue Transfer** and enter the transfer code that you will receive from the registrar of your domain. Select My Domain is unlocked and My DNS Service is not hosted and click **Begin Transfer**.&#x20;
+{% endhint %}
+
+![](../../.gitbook/assets/Transfer.gif)
+
 ## Delegate DNS
 
 Domain Name System (DNS) is the hierarchical and decentralized naming system used to identify computers, services, and other resources reachable through the internet or other internet protocol networks. DNS converts human readable domain names to machine readable IP addresses.&#x20;
@@ -131,3 +167,10 @@ You can provide the details of the six name servers.&#x20;
 3.A flyer message appears informing that the DNS delegation is success and under DNS Hosting, the managed status changes to **Delegated**.&#x20;
 
 ![Delegated](../../.gitbook/assets/Delegated.png)
+
+{% hint style="info" %}
+Administrator can stop the delegation of the DNS, click ![](../../.gitbook/assets/Dot\_Icon.png)icon and select **Stop Delegating DNS ( use Managed DNS)**. A confirmation message appears, click **Yes**.&#x20;
+{% endhint %}
+
+![Stop Delegation](../../.gitbook/assets/Stop.gif)
+
