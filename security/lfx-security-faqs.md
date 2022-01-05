@@ -37,3 +37,11 @@ The license information is displayed as "Unknown" when **License** field is **Un
 ## When is the license information displayed as empty without any license information? <a href="#vulnerabilitydetectionfaqs-howdoescommunitybridgehelpaprojectmanageitsintellectualpropertyobligation" id="vulnerabilitydetectionfaqs-howdoescommunitybridgehelpaprojectmanageitsintellectualpropertyobligation"></a>
 
 The license information is displayed as empty when **License** field is blank with out having any license information. The Snyk API will be unable to find any information related to the license and the license information is displayed as empty.
+
+## What are Code Secrets?
+
+Code secrets are private valuable information. LFX Security searches for different secrets in code, which include tokens, keys, IDs, credentials and passwords.
+
+What is Non Inclusive Language?
+
+Non inclusive language that depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. Usage of these words or language is not expected use in the open source code. LFX Security scans for non inclusive language in the code.&#x20;
