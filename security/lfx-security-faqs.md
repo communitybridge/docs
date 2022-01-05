@@ -42,6 +42,6 @@ The license information is displayed as empty when **License** field is blank wi
 
 Code secrets are private valuable information. LFX Security searches for different secrets in code, which include tokens, keys, IDs, credentials and passwords.
 
-What is Non Inclusive Language?
+## What is Non Inclusive Language?
 
 Non inclusive language that depict people unfairly in an insulting manner and exclude people based on their ethnicity, gender or color. Usage of these words or language is not expected use in the open source code. LFX Security scans for non inclusive language in the code.&#x20;
