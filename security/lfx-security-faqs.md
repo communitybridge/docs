@@ -12,7 +12,7 @@ Yes, if your project is set up on Linux Foundation database, then LFX Security a
 
 Maintainers and contributors of a project as well as member company employees can see details of a vulnerability scan as well as code secrets and non-inclusive language information. However, because these projects are on public repositories, anyone can see the vulnerability summary that shows the total number of issues.
 
-For more information on Maintainers and Contributors, refer [Maintainers ](lfx-security-faqs.md#vulnerabilitydetectionfaqs-whatiscommunitybridgevulnerabilitydetection)and Contributors.&#x20;
+For more information on Maintainers and Contributors, refer [Maintainers ](lfx-security-faqs.md#vulnerabilitydetectionfaqs-whatiscommunitybridgevulnerabilitydetection)and [Contributors](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors).&#x20;
 
 ## What languages and programming ecosystems are supported for vulnerability scanning? <a href="#vulnerabilitydetectionfaqs-whatlanguagesandprogrammingecosystemsaresupportedforscanning" id="vulnerabilitydetectionfaqs-whatlanguagesandprogrammingecosystemsaresupportedforscanning"></a>
 
