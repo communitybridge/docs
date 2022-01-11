@@ -8,11 +8,15 @@ LFX Security is a service that helps the open source developers identify and rem
 
 Yes, if your project is set up on Linux Foundation database, then LFX Security automatically scans your code on a weekly basis, and adds any detected vulnerabilities to your project dashboards. Issues are classified as critical, high, medium, or low risk based on information in databases including  Common _Weakness_ Enumeration (CVE) and Common _Vulnerabilities_ and Exposures (CWE). An inventory of your project’s detected dependencies and licenses is mapped along with the dependency details. LFX Security also scans for code secrets and non inclusive language.&#x20;
 
+## What do Critical/High/Medium/Low Vulnerabilities mean?
+
+To understand more on this, please refer this link NVD.&#x20;
+
 ## Who can see LFX Security  reports?
 
 Maintainers and contributors of a project as well as member company employees can see details of a vulnerability scan as well as code secrets and non-inclusive language information. However, because these projects are on public repositories, anyone can see the vulnerability summary that shows the total number of issues.
 
-For more information on Maintainers and Contributors, refer [Maintainers ](lfx-security-faqs.md#vulnerabilitydetectionfaqs-whatiscommunitybridgevulnerabilitydetection)and [Contributors](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors).&#x20;
+For more information on Maintainers and Contributors, refer [Maintainers ](https://docs.linuxfoundation.org/lfx/easycla/v2-current/project-managers)and [Contributors](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors).&#x20;
 
 ## What languages and programming ecosystems are supported for vulnerability scanning? <a href="#vulnerabilitydetectionfaqs-whatlanguagesandprogrammingecosystemsaresupportedforscanning" id="vulnerabilitydetectionfaqs-whatlanguagesandprogrammingecosystemsaresupportedforscanning"></a>
 
