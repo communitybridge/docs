@@ -10,7 +10,7 @@ Yes, if your project is set up on Linux Foundation database, then LFX Security a
 
 ## What do Critical/High/Medium/Low Vulnerabilities mean?
 
-To understand more on this, please refer this link NVD.&#x20;
+To understand more on this, please refer this link [NVD](https://nvd.nist.gov/vuln-metrics/cvss).&#x20;
 
 ## Who can see LFX Security  reports?
 
