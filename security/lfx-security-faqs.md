@@ -16,7 +16,7 @@ To understand more on this, please refer this link [NVD](https://nvd.nist.gov/vu
 
 Maintainers and contributors of a project as well as member company employees can see details of a vulnerability scan as well as code secrets and non-inclusive language information. However, because these projects are on public repositories, anyone can see the vulnerability summary that shows the total number of issues.
 
-For more information on Maintainers and Contributors, refer [Maintainers ](https://docs.linuxfoundation.org/lfx/easycla/v2-current/project-managers)and [Contributors](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors).&#x20;
+Maintainer/Contributor security finds GitHub users who have merged a PR/changeset and thus users who have write access to a repo are chosen as maintainer/contributors.
 
 ## What languages and programming ecosystems are supported for vulnerability scanning? <a href="#vulnerabilitydetectionfaqs-whatlanguagesandprogrammingecosystemsaresupportedforscanning" id="vulnerabilitydetectionfaqs-whatlanguagesandprogrammingecosystemsaresupportedforscanning"></a>
 
