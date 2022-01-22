@@ -6,6 +6,8 @@ By default, Severe Activity and Bot Commits are filtered, however, you can inclu
 
 The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
 
+### Issues for which LFX Insights cannot fetch Slack data:
+
 {% hint style="warning" %}
 **Important:**
 
