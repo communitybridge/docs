@@ -6,7 +6,20 @@ By default, Severe Activity and Bot Commits are filtered, however, you can inclu
 
 The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
 
-## Overview&#x20;
+{% hint style="warning" %}
+**Important:**
+
+Following are the issues when LFX Insights cannot fetch Slack data and the resolutions for them:
+
+* **Issue:** If the slack application named `insights-bot-service` is uninstalled from the workspace.\
+  **Resolution:** Install `insights-bot-service bot` on the workspace. If the tokens are changed, provide tokens to the LFX Insights team.
+* **Issue:** If the events for the `insights-bot-service` slack application are turned off.\
+  **Resolution:** Turn on the events, notify the LFX Insights team to ensure that the events are received and processed for the project.
+* **Issue:** If the `insights-bot-service` bot is removed from the channel.\
+  **Resolution:** Add the bot back to the channel.
+{% endhint %}
+
+## Overview
 
 Overview shows high-level information about how developers use Slack. For example, you can see the channels in which people send the most messages. You can sort channels by the number of messages, participants, replies, and other values.
 
@@ -26,7 +39,7 @@ Overview shows high-level information about how developers use Slack. For exampl
 
 **Top Participating Organizations** shows a table that lets you sort values by organization name, number of channels, messages, and participants of an organization.
 
-**Top Participants** shows a table that lets you sort values by Participants, Avatar, Messages, Channels,  date and time for first and last comments.
+**Top Participants** shows a table that lets you sort values by Participants, Avatar, Messages, Channels, date and time for first and last comments.
 
 **Active Participants** shows a bar graph that represents the number of participants per day over time. Mouse over a color in the graph to see the total number of participants for a date.
 
