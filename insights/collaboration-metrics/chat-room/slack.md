@@ -4,9 +4,7 @@
 By default, Severe Activity and Bot Commits are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
-
-### Issues for which LFX Insights cannot fetch Slack data:
+### Issues when LFX Insights cannot fetch Slack data:
 
 {% hint style="warning" %}
 **Important:**
@@ -20,6 +18,8 @@ Following are the issues when LFX Insights cannot fetch Slack data and the resol
 * **Issue:** If the `insights-bot-service` bot is removed from the channel.\
   **Resolution:** Add the bot back to the channel.
 {% endhint %}
+
+The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
 
 ## Overview
 
