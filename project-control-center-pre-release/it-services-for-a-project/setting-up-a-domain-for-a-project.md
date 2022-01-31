@@ -48,7 +48,7 @@ You should have the domain setup for a project in order to setup other IT Servic
 
 ## Setting up Primary Domain
 
-You can setup a primary domain for a project within the available and registered domains for a project.
+You can setup a primary domain for a project within the available and registered domains for a project. A primary domain is usually a main domain which is selected to represent the address for your company or project. Primary domain is the main domain which is also associated with the web hosting for your company or project.&#x20;
 
 To setup a primary domain for a project, perform the following:
 
