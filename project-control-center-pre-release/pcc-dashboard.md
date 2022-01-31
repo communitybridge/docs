@@ -1,6 +1,6 @@
 # PCC Dashboard
 
-PCC has a dashboard that provides you with the list of projects that are available in Linux Foundation. You can see the affiliated projects under **MY PROJECTS** tab. You can all also view all the project details in **All PROJECTS** tab.
+PCC has a dashboard that provides you with the list of projects that are available in The Linux Foundation. You can see your affiliated projects under **MY PROJECTS** tab. You can also view all the project details in **All PROJECTS** tab.
 
 This dashboard provides details such as:
 

@@ -6,7 +6,7 @@ You can access PCC using the following URL:\
 [https://projectadmin.lfx.linuxfoundation.org/](https://projectadmin.lfx.linuxfoundation.org)
 
 {% hint style="info" %}
-You will get the **access\_denied** message, if your are accessing the link for the first time. You need to click [Request Access](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/358) link to provide your contact details to the support team.
+You will get the **access\_denied** message, if your are accessing the link for the first time. You need to click the [Request Access](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/358) link to provide your contact details to the support team.
 
 The support team will verify the account, and will authorize the associated SSO account.
 {% endhint %}
