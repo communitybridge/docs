@@ -59,7 +59,7 @@ MY PROJECTS tab provides you the list of projects which are affiliated with you 
 ![My Project](<../.gitbook/assets/My Projects.png>)
 
 {% hint style="info" %}
-In case, if you don not see the projects that are managed by you, you can create a ticket for this.
+If you do not see the projects that you manage, you can create a support ticket.
 {% endhint %}
 
 To create a support ticket, perform the following steps:
