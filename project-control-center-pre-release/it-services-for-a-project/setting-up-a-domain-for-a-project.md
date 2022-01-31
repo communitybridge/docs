@@ -21,7 +21,7 @@ You cannot change the primary domain for the project, if you want to change the 
 {% endhint %}
 
 {% hint style="info" %}
-You can update the domains details by click of the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
+You can update the details of the domain by click of the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
 {% endhint %}
 
 ![Add Domains](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTin-ZAqZqONnTCyC3a%2F-MTing7k6on25NDZh28K%2FAdd\_Domains.png?alt=media\&token=30943d97-7cc3-4bc2-aa35-69d238302653)
@@ -43,7 +43,7 @@ You can update the domains details by click of the edit ![](<../../.gitbook/asse
 7.If the domain is already taken by an another project, you have the option to bid for that domain. Refer Bid Domain for more details.
 
 {% hint style="danger" %}
-You should have the domain setup for a project in order to setup other IT Services such as Mailing List, Wiki, Issue Tracking, and Email Forwarding services.
+You should have the primary domain setup for a project in order to setup other IT Services such as Mailing List, Wiki, Issue Tracking, and Email Forwarding services.
 {% endhint %}
 
 ## Setting up Primary Domain
