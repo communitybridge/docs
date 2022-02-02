@@ -7,8 +7,6 @@
 
 The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
 
-If you notice that the slack data for your project is not getting updated or reporting stale data, it might be due to the following reasons:
-
 ## Overview
 
 Overview shows high-level information about how developers use Slack. For example, you can see the channels in which people send the most messages. You can sort channels by the number of messages, participants, replies, and other values.
