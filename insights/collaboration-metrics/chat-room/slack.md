@@ -1,25 +1,13 @@
 # Slack
 
 {% hint style="info" %}
-By default, Severe Activity and Bot Commits are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
-{% endhint %}
-
-### Issues when LFX Insights cannot fetch Slack data:
-
-{% hint style="warning" %}
-**Important:**
-
-Following are the issues when LFX Insights cannot fetch Slack data and the resolutions for them:
-
-* **Issue:** If the slack application named `insights-bot-service` is uninstalled from the workspace.\
-  **Resolution:** Install `insights-bot-service bot` on the workspace. If the tokens are changed, provide tokens to the LFX Insights team.
-* **Issue:** If the events for the `insights-bot-service` slack application are turned off.\
-  **Resolution:** Turn on the events, notify the LFX Insights team to ensure that the events are received and processed for the project.
-* **Issue:** If the `insights-bot-service` bot is removed from the channel.\
-  **Resolution:** Add the bot back to the channel.
+1. By default, Severe Activity and Bot Commits are filtered, however, you can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
+2. If you notice that the slack data for your project is not getting updated or reporting stale data, refer to the resolutions as mentioned in the [troubleshooting page](../../troubleshooting.md#slack-data-fetch-issue).
 {% endhint %}
 
 The slack dashboard is available from the **Chat Room** drop-down list, and represents a set of metrics that shows information about the slack communication channel.
+
+If you notice that the slack data for your project is not getting updated or reporting stale data, it might be due to the following reasons:
 
 ## Overview
 
