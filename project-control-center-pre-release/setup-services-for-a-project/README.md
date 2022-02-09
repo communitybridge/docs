@@ -1,11 +1,11 @@
 # Setup Services for a Project
 
-When you add a new project, you need to setup the project with some basic and generic services to administer the project in an effective way. The following are the Setup services  for your project that are offered by Linux Foundation:
+When you add a new project, you need to setup the project with some basic and generic services to administer the project in an effective way. The following are the Setup services for your project that are offered by Linux Foundation:
 
-* Basic
-* Legal
-* Membership&#x20;
-* Committees
+* [Basic](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/basic-setup-for-a-project)
+* [Legal](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/legal-setup-for-a-project)
+* [Membership](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/membership-setup-for-a-project)
+* [Committees](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/committees-setup-for-a-project)
 
 ![Setup Services](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MYVnmHPXqlzGuPsavaO%2F-MYVq1teYLkaPuJZzPJC%2FSetup.png?alt=media\&token=bbbc685c-c031-46f0-9078-9d81683c1b53)
 
