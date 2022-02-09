@@ -29,7 +29,7 @@ If you are a contributor or mentor of the project in GitHub, perform the followi
 4.Provide the username and password of your GitHub account. Your GitHub account is now connected.
 
 {% hint style="info" %}
-You can also connect the GitHub account using My Profile, see [My Profile](https://docs.linuxfoundation.org/lfx/my-profile/linking-social-accounts) for more details.
+You can also connect the GitHub account using My Profile, see [My Profile](https://docs.linuxfoundation.org/lfx/my-profile/connect-accounts) for more details.
 {% endhint %}
 
 5.If your a contributor or maintainer of the GitHub account, a green tick mark appears and **Continue as Contributor/Mentor** button is enabled. Click the **Continue as Contributor/Mentor** to view issues relate to the project.

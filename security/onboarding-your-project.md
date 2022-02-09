@@ -1,16 +1,16 @@
 # Onboarding your Project
 
-You have to onboard your project from GitHub to use LFX Security services. First you need to onboard your project to start scanning for vulnerabilities detection, code secrets and non inclusive language.&#x20;
+You have to onboard your project from GitHub to use LFX Security services. First you need to onboard your project to start scanning for vulnerabilities detection, code secrets and non inclusive language.
 
 Onboarding projects into LFX Security is done from the PCC (Project Control Center). As part of this onboarding a Security Bot is installed on GitHub Organizations of the project.
 
 {% hint style="info" %}
-You need to raise a ticket if you do not have access to PCC. Use this [link ](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/358)to raise a support ticket to access PCC.&#x20;
+You need to raise a ticket if you do not have access to PCC. Use this [link ](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/358)to raise a support ticket to access PCC.
 
-If you want to know more about PCC, please visit [PCC link](onboarding-your-project.md#security-bot-installation). You can refer [PCC documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release) for more information.&#x20;
+If you want to know more about PCC, please visit [PCC ](https://lfx.linuxfoundation.org/tools/project-control-center)website. You can refer [PCC documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release) for more information.
 {% endhint %}
 
-## Security Bot Installation  <a href="security-bot-installation" id="security-bot-installation"></a>
+## Security Bot Installation <a href="#security-bot-installation" id="security-bot-installation"></a>
 
 Onboarding projects into LFX Security is done from the PCC (Project Control Center). As part of this onboarding a Security Bot is installed on GitHub Organizations of the project.
 
@@ -26,11 +26,11 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 ![Security](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Md\_ivAMZ2h7xOPMQ1bm%2F-Md\_mIFlNU7OimypntPn%2FDash.png?alt=media\&token=9330c513-4ef2-44ef-bb59-a4bd0970f8d3)
 
-3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../../.gitbook/assets/Icon (1).png>) icon available next to **Connect**.
+3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../.gitbook/assets/Icon (1).png>) icon available next to **Connect**.
 
-![GitHub Onboarding ](../../.gitbook/assets/GitHub.png)
+![GitHub Onboarding](../.gitbook/assets/GitHub.png)
 
-&#x20;4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
+4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
 
 {% hint style="info" %}
 Make sure that you logged into the GitHub.
@@ -51,7 +51,7 @@ Make sure that you logged into the GitHub.
 * Information on the permission requested for the selected repositories. The LFX Security requests the following permissions from the GitHub:
   * **Read** access to administer, code, check commit status, lookup members, and other metadata.
   * **Read** and **write** access to organization hooks, pull requests, and repository hooks.
-  * &#x20;Installing and authorizing LFX Security GitHub App grants these permissions on your account:
+  * Installing and authorizing LFX Security GitHub App grants these permissions on your account:
   * **Read** access to emails
 * Access to the repositories. You can either provide access to all the repositories or selected repositories within the GitHub Organization.
 
@@ -79,7 +79,7 @@ A green dot present with the GitHub organization name indicates that the Securit
 
 ![GitHub Organization](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda1J-8wCyl01h8FL5W%2F-Mda314iwtsBVKz0r-dW%2FGithub%20-%20Copy.png?alt=media\&token=fa8bd9e0-71b0-4c9a-aea9-5584ac639dbd)
 
-## Security Bot Uninstallation  <a href="security-bot-uninstallation" id="security-bot-uninstallation"></a>
+## Security Bot Uninstallation <a href="#security-bot-uninstallation" id="security-bot-uninstallation"></a>
 
 You can uninstall the security bot at any point of time from the PCC. When you uninstall the security bot, the security scanning for the GitHub organization is discontinued. You cannot see the vulnerabilities associated with your GitHub organizations.
 
@@ -127,7 +127,7 @@ A red dot present with the GitHub organization name indicates that the Security 
 
 ![Dialog Box](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-MdaFPJcXjqEQwnynKZe%2F-MdaHyRNc2eJqvR49-5m%2FDiss%20Dial.png?alt=media\&token=0a3eba88-dd48-4f75-b55a-7b5bdc9d468b)
 
-## Suspending Security Service  <a href="suspending-security-service" id="suspending-security-service"></a>
+## Suspending Security Service <a href="#suspending-security-service" id="suspending-security-service"></a>
 
 You have an option to suspend the Security service scanning without uninstalling the Security bot. When you suspend the Security service, the bot will not be uninstalled. You can revoke the suspension at any point of time by Unsuspending.
 
@@ -160,4 +160,3 @@ To revoke the suspended Security service, click settings ![](https://firebasesto
 {% endhint %}
 
 ![Unsuspend](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-MdwC24qZowncgFnTF9D%2F-MdwDBXMoede-dDXiOX0%2FUnsuspend.png?alt=media\&token=f41d5533-57c8-4c00-818d-7d0a8f81f643)
-
