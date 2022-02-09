@@ -10,10 +10,10 @@ To enable the Mailing List, perform the following steps:
 
 1.Login into PCC.
 
-2\. Search for the required project. The Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
+2\. Search for the required project, the Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
 
 {% hint style="info" %}
-You can also navigate to Mailing List from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Mailing List**.&#x20;
+You can also navigate to Mailing List from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Mailing List**.
 {% endhint %}
 
 ![Mailing List](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTix\_Zn0CCOgRf21u56%2F-MTiyupYHPuXLiykyfKL%2FMain%20-%20Copy.png?alt=media\&token=9d1bfe98-3f88-4a1f-b91b-41eaf2a9f2f8)
@@ -24,13 +24,13 @@ You can also navigate to Mailing List from the Vertical Sidebar navigation menu.
 
 4.If the email is valid, the Mailing List will be successfully setup.
 
-## Adding a Service Administrator  <a href="#adding-a-service-administrator" id="adding-a-service-administrator"></a>
+## Adding a Service Administrator <a href="#adding-a-service-administrator" id="adding-a-service-administrator"></a>
 
 After setting up the Mailing List, you can add a Service Administrator to the Mailing List.
 
 To add a Service Administrator to the Mailing List for a project, perform the following steps:
 
-1.Search for the required project. The Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
+1.Search for the required project, the Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
 
 2.In the Group & Service Admin tab, click **+Add Service Administrator**.
 
@@ -48,7 +48,7 @@ If you want to delete the existing Service Administrator, click the delete ![](h
 
 ## Managing Committee <a href="#managing-committee" id="managing-committee"></a>
 
-You can manage the committee for the mailing list, for more details, please refer [Managing Committee](broken-reference).
+You can manage the committee for the mailing list, for more details, please refer [Managing Committee](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/committees-setup-for-a-project).
 
 ## Adding Mailing List <a href="#adding-mailing-list" id="adding-mailing-list"></a>
 

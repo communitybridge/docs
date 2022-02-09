@@ -6,8 +6,8 @@ For compliance reasons, the Linux Foundation platform needs to have access to ea
 
 You can setup the following Source Controls tools to your projects:
 
-* GitHub
-* GitLab
+* [GitHub](source-control.md#setting-up-github)
+* [GitLab](source-control.md#setting-up-gitlab)
 
 ## Setting up GitHub <a href="#setting-up-github" id="setting-up-github"></a>
 
