@@ -9,7 +9,7 @@ Managing Team allows you to manage your team with respect to your project as wel
 
 To access the manage teams, perform the following steps:
 
-1.Login into [Organization Dashboard](https://organization.v2.lfx.linuxfoundation.org).
+1.Login to [Organization Dashboard](https://myorg.lfx.dev).
 
 2.On the vertical sidebar navigation menu, click **Manage Teams** and select **Teams**.
 
@@ -21,7 +21,7 @@ You can add users who can be assigned with the administrator role. Any member fr
 
 To add a user as an administrator, perform the following steps:
 
-1.Login into [Organization Dashboard](https://organization.v2.lfx.linuxfoundation.org).
+1.Login to [Organization Dashboard](https://myorg.lfx.dev).
 
 2.On the vertical sidebar navigation menu, click **Manage Teams** and select **Teams**.
 
