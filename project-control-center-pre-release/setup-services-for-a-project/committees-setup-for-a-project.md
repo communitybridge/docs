@@ -2,8 +2,13 @@
 
 Committee setup of project allows you to provide information on:
 
-* Committee
-* Members
+* [Committee](committees-setup-for-a-project.md#billing-information)
+* [Adding Members](committees-setup-for-a-project.md#adding-member-to-a-committee)
+* [Deleting a Committee](committees-setup-for-a-project.md#deleting-a-committee)
+* [Deleting a Member from a Committee](committees-setup-for-a-project.md#deleting-a-member-from-a-committee)
+* [Manage Meetings](committees-setup-for-a-project.md#managing-meetings)
+* [Manage Mailing List](committees-setup-for-a-project.md#managing-mailing-list)
+* [Committee Overview](committees-setup-for-a-project.md#committee-overview)&#x20;
 
 ## Committee <a href="#billing-information" id="billing-information"></a>
 
@@ -30,9 +35,9 @@ To add committee for a project, perform the following steps:
 | Committee Documentation/Website | Enter the committee website URL of the committee which can provide the committee details such as policies, meetings and schedules |
 
 {% hint style="info" %}
-If you want to update the existing committee details, click the edit ![](broken-reference) icon.
+If you want to update the existing committee details, click the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
 
-If you want to delete the existing committee, click the delete ![](broken-reference)icon.
+If you want to delete the existing committee, click the delete ![](../../.gitbook/assets/Delete\_Icon.png)icon.
 {% endhint %}
 
 ![Creating a Committee](../../.gitbook/assets/Add\_Com.gif)
