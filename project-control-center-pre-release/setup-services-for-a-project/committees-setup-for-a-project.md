@@ -14,7 +14,7 @@ Committee setup of project allows you to provide information on:
 
 You can add and update committee information related to the project such as name, mailing list, committee website, permissions and description.
 
-To add committee for a project, perform the following steps:
+To add a committee for a project, perform the following steps:
 
 1.Click on the required project and click **Committees**.
 
@@ -42,7 +42,7 @@ If you want to delete the existing committee, click the delete ![](../../.gitboo
 
 ![Creating a Committee](../../.gitbook/assets/Add\_Com.gif)
 
-### Adding Member to a Committee
+### Adding Members to a Committee
 
 After you setup the committee, you can add members to that committee who can exercise various responsibilities that are assigned to the members.
 
@@ -96,7 +96,7 @@ To delete a committee, perform the following steps:
 
 ![Delete Committee](../../.gitbook/assets/Del\_com.png)
 
-3.The Delete Committee confirmation dialog box appears. Click **Delete** to delete the committee. A confirmation toast message appears informing that the committee has been deleted.
+3.The Delete Committee confirmation dialog box appears. Click **Delete** to delete the committee. A confirmation message appears informing that the committee has been deleted.
 
 ![Confirm Delete](../../.gitbook/assets/Conf\_Del.png)
 
@@ -104,7 +104,7 @@ To delete a committee, perform the following steps:
 
 You can delete a member from a committee as and when required.
 
-To delete a committee, perform the following steps:
+To delete a member, perform the following steps:
 
 1.Click on the required project and click **Committees**.
 
@@ -139,6 +139,6 @@ The Committee overview section provides the overview information on:
 * Total number of committees formed for the project
 * Total number of members added in the committees
 * Percentage average meeting attendance of the committee members
-* A donut chart that provides information number of committee members registered for the recurring meetings
+* A donut chart that provides the number of committee members registered for the recurring meetings
 
 ![Committee Overview](../../.gitbook/assets/Comm\_Wizard.png)
