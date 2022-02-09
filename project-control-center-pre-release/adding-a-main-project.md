@@ -11,7 +11,7 @@ To add a main project on the PCC, perform the following steps:
 1.Login into PCC.
 
 {% hint style="info" %}
-If you do not have access to PPC, you need to raise the service ticket to get access to PCC. Refer [PCC Overview](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/overview).
+If you do not have access to PCC, you need to raise the service ticket to get access to PCC. Refer [PCC Overview](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/overview).
 {% endhint %}
 
 2.The PCC dashboard appears. Click **+Add Project**.
