@@ -2,7 +2,7 @@
 
 Basic setup of project allows you to view information related:
 
-* [Basic](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/basic-setup-for-a-project#basic-information)
+* [Basic](basic-setup-for-a-project.md#basic-information)
 * [Branding](basic-setup-for-a-project.md#branding-information)
 * [Personnel](basic-setup-for-a-project.md#personnel-information)
 
