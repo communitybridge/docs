@@ -16,8 +16,25 @@ Diversity and inclusion initiative has been taken from the Linux Foundation when
 
 The following table provides various roles and their respective permissions for LFX Security:
 
-| Role | Security Full Access  | Security Settings Access  | Dismiss Vulnerability  | Actions for Code Secrets | Actions for Non Inclusive Language  |
-| ---- | --------------------- | ------------------------- | ---------------------- | ------------------------ | ----------------------------------- |
-|      |                       |                           |                        |                          |                                     |
-|      |                       |                           |                        |                          |                                     |
+| Role                         | Full Access  | View Access  | Settings Access  | Dismiss Vulnerability  | Actions for Code Secrets | Notification for Non Inclusive Language  |
+| ---------------------------- | ------------ | ------------ | ---------------- | ---------------------- | ------------------------ | ---------------------------------------- |
+| Community  Program Manager   | Yes          | Yes          | Yes              | No                     | No                       | No                                       |
+| Project Manager              | Yes          | Yes          | Yes              | No                     | No                       | No                                       |
+| Project Maintainer           | Yes          | Yes          | Yes              | Yes                    | Yes                      | Yes                                      |
+| Project (GitHub) Contributor | Yes          | Yes          | Yes              | Yes                    | Yes                      | Yes                                      |
+| Company Employee (Member)    | No           | Yes          | No               | No                     | No                       | No                                       |
 
+The  following points explains in details about various permissions that are mentioned in the above table:
+
+* **Full Access** - Full Access permission allows to
+  * View all tabs&#x20;
+  * Take action on Code Secrets
+  * Notify developer on Non Inclusive language&#x20;
+  * Access to PCC (Project Control Center) to manage Vulnerabilities, Code Secrets and Non Inclusive language&#x20;
+* **View Access** - View Access permissions allows to
+  * View access to all tabs without access to PCC
+* **Settings Access** - Settings Access permission allows to
+  * Access on PCC to manage Vulnerabilities, Code Secrets and Non Inclusive language
+* **Dismiss Vulnerability** - Dismiss Vulnerability allows to dismiss vulnerabilities detected in the project code if you feel that the detected vulnerability issue cannot be fixed.&#x20;
+* **Action Taken on Code Secrets** - Action Taken on Code Secret allows to take action on the code secrets detected in the project code. You can take actions such as Resolve, Ignore and False Positive on Code Secrets.&#x20;
+* **Notification on Non Inclusive language** - Notification on Non Inclusive language allows to notify the concerned developer on the Non Inclusive language detected in the project code. &#x20;
