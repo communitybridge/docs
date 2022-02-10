@@ -1,6 +1,6 @@
 # Membership Setup for a Project
 
-Membership setup of a project allows you to provide information on:
+Membership setup of project allows you to provide information on:
 
 * [Membership Billing](membership-setup-for-a-project.md#billing-information)&#x20;
 * [Membership Tier](membership-setup-for-a-project.md#membership-tier)&#x20;

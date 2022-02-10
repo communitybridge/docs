@@ -8,7 +8,7 @@ Committee setup of project allows you to provide information on:
 * [Deleting a Member from a Committee](committees-setup-for-a-project.md#deleting-a-member-from-a-committee)
 * [Manage Meetings](committees-setup-for-a-project.md#managing-meetings)
 * [Manage Mailing List](committees-setup-for-a-project.md#managing-mailing-list)
-* [Committee Overview](committees-setup-for-a-project.md#committee-overview)&#x20;
+* [Committee Overview](committees-setup-for-a-project.md#committee-overview)
 
 ## Committee <a href="#billing-information" id="billing-information"></a>
 
@@ -96,7 +96,7 @@ To delete a committee, perform the following steps:
 
 ![Delete Committee](../../.gitbook/assets/Del\_com.png)
 
-3.The Delete Committee confirmation dialog box appears. Click **Delete** to delete the committee. A confirmation message appears informing that the committee has been deleted.
+3.The Delete Committee confirmation dialog box appears. Click **Delete** to delete the committee. A confirmation toast message appears informing that the committee has been deleted.
 
 ![Confirm Delete](../../.gitbook/assets/Conf\_Del.png)
 
