@@ -15,4 +15,6 @@ The IT services dashboard provides you with the progress bar that indicates the 
 
 The following graphic provides a brief information on various IT services and its uses:
 
+![IT Services ](<../../.gitbook/assets/IT Services (1).png>)
+
 ​

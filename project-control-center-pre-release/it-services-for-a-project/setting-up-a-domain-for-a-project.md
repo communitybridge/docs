@@ -40,7 +40,7 @@ You can update the details of the domain by click of the edit ![](<../../.gitboo
 
 ![Register Domain](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MKV83M2RA5cwHGboqCZ%2F-MKV9Lcayqjh66ZZqTZF%2FRegister\_Domain.png?alt=media\&token=90354b3d-75a2-4e5c-a06f-e85c9334b549)
 
-7.If the domain is already taken by an another project, you have the option to bid for that domain. Refer Bid Domain for more details.
+7.If the domain is already taken by an another project, you have the option to bid for that domain.
 
 {% hint style="danger" %}
 You should have the primary domain setup for a project in order to setup other IT Services such as Mailing List, Wiki, Issue Tracking, and Email Forwarding services.

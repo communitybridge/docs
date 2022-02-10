@@ -1,6 +1,6 @@
 # PCC Dashboard
 
-PCC has a dashboard that provides you with the list of projects that are available in Linux Foundation. You can see the affiliated projects under **MY PROJECTS** tab. You can all also view all the project details in **All PROJECTS** tab.
+PCC has a dashboard that provides you with the list of projects that are available in The Linux Foundation. You can see your affiliated projects under **MY PROJECTS** tab. You can also view all the project details in **All PROJECTS** tab.
 
 This dashboard provides details such as:
 
@@ -59,7 +59,7 @@ MY PROJECTS tab provides you the list of projects which are affiliated with you 
 ![My Project](<../.gitbook/assets/My Projects.png>)
 
 {% hint style="info" %}
-In case, if you don not see the projects that are managed by you, you can create a ticket for this.
+If you do not see the projects that you manage, you can create a support ticket.
 {% endhint %}
 
 To create a support ticket, perform the following steps:
