@@ -1,6 +1,6 @@
 # Source Control
 
-Source Control allows you to track and manage updates to your code. It gives you the control to manage the right version of the code. PCC allows your to setup Source Control to your projects.
+Source Control allows you to track and manage updates to your code. It gives you the control to manage the right version of the code. PCC allows you to setup Source Control for your projects.
 
 For compliance reasons, the Linux Foundation platform needs to have access to each GitHub organization you use to host your code. Your governance body and authorized community members will still be responsible and accountable for day-to-day administration of repositories, teams, and users, unless covered by a specific managed-services-agreement with the Linux Foundation.
 
@@ -47,7 +47,7 @@ Make sure to enter a valid GitHub organization name.
 ![GitHub Status](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMBvrEsjsliBZECYf7t%2F-MMBzrTuxMl6EmxWkMKU%2FStatus.png?alt=media\&token=0e6568b7-142b-4b7b-b899-50119dd69a8f)
 
 {% hint style="danger" %}
-If the Organization name is changed in the GitHub, you need to connect the renamed organization again. The renamed organization wont be automatically connected even though the organization with the old name was connected.
+If the Organization name is changed in the GitHub, you need to connect the renamed organization again. The renamed organization won't be automatically connected even though the organization with the old name was connected.
 {% endhint %}
 
 ## Invite The Linux Foundation user to your Organization <a href="#invite-users-to-organization" id="invite-users-to-organization"></a>
