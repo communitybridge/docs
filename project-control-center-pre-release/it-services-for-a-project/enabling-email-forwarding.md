@@ -1,9 +1,9 @@
 # Enabling Email Forwarding
 
-After setting up the domain for a project, you can setup the email services for the project. The email forwarding services will allows you to enable email service and add recipients emails.
+After setting up the domain for a project, you can setup the email services for the project. The email forwarding services allows you to enable email service and add recipient emails.
 
 {% hint style="warning" %}
-You need to have a Primary Domains setup for the project in order to enable Email Forwarding service.
+You need to have a Primary Domain setup for the project in order to enable Email Forwarding service.
 {% endhint %}
 
 To enable email forwarding, perform the following:
