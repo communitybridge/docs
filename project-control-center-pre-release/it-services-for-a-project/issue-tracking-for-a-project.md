@@ -24,7 +24,7 @@ You can also navigate to Issue Tracking from the Vertical Sidebar navigation men
 
 ## Connecting to the Existing Jira Board <a href="#connecting-to-the-existing-jira-board" id="connecting-to-the-existing-jira-board"></a>
 
-You have an option to connect to the existing Jira board to your project.
+You have an option to connect to the existing Jira board for your project.
 
 To connect to the existing Jira board for a project, perform the following steps:
 
