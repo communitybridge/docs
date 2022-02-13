@@ -1,6 +1,6 @@
 # Mailing List
 
-Mailing List is a collection of names and addresses used by an individual or an organization to send material to multiple recipients. PCC allows you to setup different mailing list which will allow you to send the mails to the concerned mailing lists.
+Mailing List is a collection of names and addresses used by an individual or an organization to send material to multiple recipients. PCC allows you to setup different mailing lists which will allow you to send the emails to different mailing lists.
 
 ## Enabling Mailing List <a href="#enabling-mailing-list" id="enabling-mailing-list"></a>
 
@@ -10,7 +10,7 @@ To enable the Mailing List, perform the following steps:
 
 1.Login into PCC.
 
-2\. Search for the required project, the Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
+2\. Search for the required project. The Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
 
 {% hint style="info" %}
 You can also navigate to Mailing List from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Mailing List**.
@@ -18,7 +18,7 @@ You can also navigate to Mailing List from the Vertical Sidebar navigation menu.
 
 ![Mailing List](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTix\_Zn0CCOgRf21u56%2F-MTiyupYHPuXLiykyfKL%2FMain%20-%20Copy.png?alt=media\&token=9d1bfe98-3f88-4a1f-b91b-41eaf2a9f2f8)
 
-3.The Mailing List page appears. You need to enable the Mailing List first, enter the **Service Administrator Email** ID and click **Enable**.
+3.The Mailing List page appears. You need to enable the Mailing List first. Enter the **Service Administrator Email** ID and click **Enable**.
 
 ![Enabling Mailing List](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMCAFL3YcOzX4jGrvJ1%2F-MMCBEkCdAwz41\_fUJGM%2FEnable.png?alt=media\&token=6a7ccf71-5a00-48cf-8a72-eb4ea3a9922c)
 
@@ -30,7 +30,7 @@ After setting up the Mailing List, you can add a Service Administrator to the Ma
 
 To add a Service Administrator to the Mailing List for a project, perform the following steps:
 
-1.Search for the required project, the Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
+1.Search for the required project. The Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
 
 2.In the Group & Service Admin tab, click **+Add Service Administrator**.
 
