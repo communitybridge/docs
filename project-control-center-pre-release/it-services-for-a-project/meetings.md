@@ -1,12 +1,12 @@
 # Meeting Management
 
-PCC allows you setup and manage meetings. You can schedule recurring and non recurring meetings among the teams. Meeting Management also  allows you to view  past meetings recordings, transcript copy of the meetings and also provides the option to share the recording with other team members.  PCC also provides a wizard that provides you a high level details related to the meetings.&#x20;
+PCC allows you setup and manage meetings. You can schedule recurring and non recurring meetings among the teams. Meeting Management also  allows you to view past meeting recordings, transcript copies of the meetings and also provides the option to share the recording with other team members.  PCC also provides a wizard that provides you high level details related to the meetings.&#x20;
 
 ## Meeting Management Wizard&#x20;
 
 The Meeting Management widget provides you the following details:
 
-* Total number of past meetings till date
+* Total number of past meetings to date
 * Total number of participants in the meeting
 * Average attendance of the meeting
 * Participants invited to the recurring meetings
@@ -43,10 +43,10 @@ You can also navigate to Meeting Management from the Vertical Sidebar navigation
 
 | Field                        | Action                                                                                                                                                                                                                                    |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Enter Meeting Title          | Enter the name of meting                                                                                                                                                                                                                  |
+| Enter Meeting Title          | Enter the name of meeting                                                                                                                                                                                                                  |
 | Meeting Details              | Select the date and time for the meeting to be scheduled                                                                                                                                                                                  |
 | Frequency of the meeting     | <p>Select the required frequency of the meeting. <br><br><em><strong>Note</strong></em>: If you are scheduling a non recurring meeting, you need to select <strong>Does Not Repeat</strong>. </p>                                         |
-| Meeting Visibility           | By default, all meeting will be private.  If you want to make the meeting public, you need to select the **Make Meeting Public**.                                                                                                         |
+| Meeting Visibility           | By default, all meetings will be private.  If you want to make the meeting public, you need to select the **Make Meeting Public**.                                                                                                         |
 | Meeting Description          | Provide the description on the meeting                                                                                                                                                                                                    |
 | Invite Committee Members     | Select the required committee for which the meeting is scheduled                                                                                                                                                                          |
 | Recording and Transcription  | <p>Select the recording visibility. You can either set the visibility of the meeting as Private or Public.  <br><br>Select the transcript visibility.  You can either set the visibility of the transcription as Private or Public.  </p> |
