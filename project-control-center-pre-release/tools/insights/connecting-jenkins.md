@@ -1,30 +1,30 @@
 # Connecting Jenkins
 
-The Jenkins dashboards under CI/CD drop-down list represents a set of metrics that show overview analysis of Jenkins data.&#x20;
+The Jenkins dashboards under CI/CD drop-down list represents a set of metrics that show overview analysis of Jenkins data.
 
 To connect Jenkins, perform the following:
 
-1.Login to PCC.&#x20;
+1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.&#x20;
+2.Click **Insights** available under Tools Status.
 
-3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Jenkins.&#x20;
+3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Jenkins.
 
 ![Jenkins](../../../.gitbook/assets/Jenkins.png)
 
-4.The Connector dialog box appears. Click **Connect**.&#x20;
+4.The Connector dialog box appears. Click **Connect**.
 
-![Jenkins Connector ](../../../.gitbook/assets/Jen\_Conc.png)
+![Jenkins Connector](../../../.gitbook/assets/Jen\_Conc.png)
 
-5.The Connect Jenkins Public URL page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Jenkins, update the following details and click **Connect**.
+5.The Connect Jenkins Public URL page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Jenkins, update the following details and click **Connect**.
 
-| Field       | Action                    |
-| ----------- | ------------------------- |
-| Jenkins URL | Enter valid Jenkins URL.  |
+| Field       | Action                   |
+| ----------- | ------------------------ |
+| Jenkins URL | Enter valid Jenkins URL. |
 
 ![Jenkins URL](../../../.gitbook/assets/Jenkins\_URL.png)
 
-6.The connected Jenkins account is listed under Configure Account, click **Save** to complete the Jenkins configuration.&#x20;
+6.The connected Jenkins account is listed under Configure Account, click **Save** to complete the Jenkins configuration.
 
 ![Save Configuration](../../../.gitbook/assets/Jenkins\_Save.png)
 
@@ -38,23 +38,22 @@ You can disable the connected Jenkins as per your requirement. You can enable an
 
 To disable Jenkins, perform the following:
 
-1.Use Toggle button available under Instrument.&#x20;
+1.Use Toggle button available under Instrument.
 
-2.The Disable Instrumentation dialog box appears. Click **Keep Data** to disable Jenkins  account.&#x20;
+2.The Disable Instrumentation dialog box appears. Click **Keep Data** to disable Jenkins account.
 
 ![Keep Data](../../../.gitbook/assets/Jenkins\_Keep.gif)
 
-## Deleting Jenkins Account&#x20;
+## Deleting Jenkins Account
 
-You can delete the connected Jenkins account permanently. Deleting a Groups.io account will remove all the configured data.&#x20;
+You can delete the connected Jenkins account permanently. Deleting a Groups.io account will remove all the configured data.
 
 To delete the Jenkins account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Jenkins URL appears, click **Disconnect**.&#x20;
+1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Jenkins URL appears, click **Disconnect**.
 
-&#x20;                            OR
+OR
 
-2.User Toggle button. The Disable Instrumentation dialog box appears. Click **Remove Data** to delete Jenkins account.&#x20;
+2.User Toggle button. The Disable Instrumentation dialog box appears. Click **Remove Data** to delete Jenkins account.
 
 ![Jenkins Delete](../../../.gitbook/assets/Jenkins\_Delete.gif)
-
