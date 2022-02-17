@@ -2,7 +2,7 @@
 
 ### Benefits  <a href="#mentees-benefits" id="mentees-benefits"></a>
 
-Mentees can grow their career by diving right into the open source community to learn  from top project contributors. They can build expertise with hands-on experience and free access to premium Linux Foundation training.
+Mentees can grow their career by diving right into the open source community to learn from top project contributors. They can build expertise with hands-on experience and free access to premium Linux Foundation training.
 
 {% hint style="info" %}
 **Eligibility Rules**&#x20;
