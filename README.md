@@ -1,15 +1,15 @@
-# LFX Toolkit
+# LFX Platform
 
 Linux Foundation is a technology association of several companies that helps to scale open source projects. Linux Foundation provides platforms to support the sustainability of the open source ecosystem by providing various services, events, and training.
 
 ## What is LFX? <a href="#communitybridgefaqs-whatiscommunitybridge" id="communitybridgefaqs-whatiscommunitybridge"></a>
 
 LFX is a suite of tools built by the Linux Foundation to facilitate every aspect of open source development. The toolkit operationalizes the organization’s proven methodology for transforming projects into category leaders, providing direct support to projects and empowering open source developers to write better, more secure code and grow sustainable ecosystems.\
-With 11 tools currently available and more on the roadmap for early next year, the LFX toolkit is one of the most comprehensive platforms built specifically for the open technology ecosystem.
+With 11 tools currently available and more on the roadmap for early next year, the LFX Platform is one of the most comprehensive platforms built specifically for the open technology ecosystem.
 
 ## Why was LFX created? <a href="#communitybridgefaqs-whywascommunitybridgecreated" id="communitybridgefaqs-whywascommunitybridgecreated"></a>
 
-The world runs on open source, and projects need more than a version or source control system to scale. The Linux Foundation has evolved a proven methodology to transform projects into category leaders. LFX operationalizes this approach, providing a suite of tools built to facilitate every aspect of open source development.\
+The world runs on open source, and projects need more than a version or source control system to scale. The Linux Foundation has evolved a proven methodology to transform projects into category leaders. LFX operationalizes this approach, providing a suite of tools built to facilitate every aspect of open source development.\\
 
 [Learn More](http://lfx.linuxfoundation.org/about/why-lfx/)
 
@@ -27,7 +27,7 @@ The world runs on open source, and projects need more than a version or source c
 * [Training Portal](http://lfx.linuxfoundation.org/tools/training-portal) provides individuals and corporate learners centralized access to The Linux Foundation’s extensive list of courses and certifications, developed and taught by expert instructors.
 * [Project Control Center](http://lfx.linuxfoundation.org/tools/product-control-center) (Limited Access Beta Early 2021) provides seamless operations support across governance, IT, and product management needs so you can focus on getting the work done.
 
-## Who can access LFX Toolkit? <a href="#communitybridgefaqs-whocanaccesscommunitybridge" id="communitybridgefaqs-whocanaccesscommunitybridge"></a>
+## Who can access LFX Platform? <a href="#communitybridgefaqs-whocanaccesscommunitybridge" id="communitybridgefaqs-whocanaccesscommunitybridge"></a>
 
 Developers and sponsors of open source projects hosted by The Linux Foundation can benefit from these tools today. Simply log in with your Linux Foundation account and get started. Other tools, including Crowdfunding and Mentorship, provide valuable resources to community projects and the extended open source community.
 

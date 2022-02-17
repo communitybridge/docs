@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LFX Toolkit](README.md)
+* [LFX Platform](README.md)
 * [Single Sign-On (SSO)](sso/README.md)
   * [Create an Account](sso/create-an-account.md)
   * [Sign in to Your Account](sso/sign-in/README.md)
