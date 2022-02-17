@@ -1,6 +1,6 @@
 # Setting up Wiki
 
-You can setup a knowledge base and documentation for your project using Confluence. The team can use this documentation repositories to create articles and documentation knowledge base related to the project.
+You can setup a knowledge base and documentation for your project using Confluence. The team can use this documentation repository to create articles and documentation knowledge bases related to the project.
 
 PCC supports the following documentation tool:
 
@@ -8,7 +8,7 @@ PCC supports the following documentation tool:
 
 ## Confluence Setup for a Project <a href="#confluence-setup-for-a-project" id="confluence-setup-for-a-project"></a>
 
-PCC allows you to setup Confluence repository for your project to create documentation related to your project.
+PCC allows you to setup a Confluence repository for your project to create documentation related to your project.
 
 To setup Confluence for your project, perform the following:
 
