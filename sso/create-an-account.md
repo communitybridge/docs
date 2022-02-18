@@ -24,6 +24,6 @@ When you log in for the first time to any Linux Foundation managed service that 
 
 6\. Once you click on the link, you will be redirected to the **Sign In** page of the Linux Foundation service you are trying to access. Your email and password will be auto-populated from the account creation step.
 
-![](<../.gitbook/assets/Login After Email Verification.png>)
+![Sign In ](../.gitbook/assets/CM5.png)
 
 7\. Verify your information and click on **Sign In** CTA button. You will be navigated to the Linux Foundation service you are trying to access
