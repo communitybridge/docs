@@ -6,7 +6,7 @@ To connect Google Groups, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Google Groups.
 
@@ -32,7 +32,7 @@ The green dot under Instrumentation Status indicates that the Google Groups is e
 
 ## Disabling Google Groups Account
 
-You can disable the connected Google Groups as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected Google Groups account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Google Groups, perform the following:
 
