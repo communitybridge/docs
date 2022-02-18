@@ -37,7 +37,7 @@ To access Insights from PCC, perform the following:
 
 1.Login into PCC.&#x20;
 
-2.Click **Insights** available under Tools Status.&#x20;
+2.Click **Insights** available under Tools dropdown menu.&#x20;
 
 ![Insights](<../../../.gitbook/assets/Insights (1).png>)
 
