@@ -6,7 +6,7 @@ To connect CircleCI, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to CircleCI.
 
@@ -16,7 +16,7 @@ To connect CircleCI, perform the following:
 
 ![CircleCI](../../../.gitbook/assets/Circ\_Connect.png)
 
-5.The Connect Bugzilla Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure CircleCI account and update the following details and click **Connect**.
+5.The Connect CircleCI Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure CircleCI account and update the following details and click **Connect**.
 
 | Field        | Action                                            |
 | ------------ | ------------------------------------------------- |
@@ -30,7 +30,7 @@ The green dot under Instrumentation Status indicates that the CircleCI account i
 
 ## Disabling CircleCI Account
 
-You can disable the connected CircleCI account as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected CircleCI account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable CircleCI account, perform the following:
 
