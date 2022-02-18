@@ -6,7 +6,7 @@ To connect Twitter, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Twitter.
 
