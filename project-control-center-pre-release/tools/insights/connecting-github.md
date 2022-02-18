@@ -6,7 +6,7 @@ To connect GitHub, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to GitHub.
 
@@ -20,7 +20,7 @@ To connect GitHub, perform the following:
 
 | Field             | Action                                                         |
 | ----------------- | -------------------------------------------------------------- |
-| Organization Name | Enter the organization name that you want to configure GitHub. |
+| Organization Name | Enter the organization name that you want to configure for GitHub. |
 
 ![GitHub Connect](../../../.gitbook/assets/Add\_Github.png)
 
@@ -32,7 +32,7 @@ The green dot under Instrumentation Status indicates that the GitHub account is 
 
 ## Disabling GitHub Account
 
-You can disable the connected GitHub account as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected GitHub account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable GitHub account, perform the following:
 
