@@ -6,13 +6,13 @@ To connect Gerrit, perform the following:
 
 1.Login to PCC.&#x20;
 
-2.Click **Insights** available under Tools Status.&#x20;
+2.Click **Insights** available under Tools dropdown menu.&#x20;
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Gerrit.&#x20;
 
 4.The Connector dialog box appears. Click **Connect**.&#x20;
 
-5.The Auto Detected Servers page appears with list of auto detected Gerrit servers are listed. Click Connect from the required Gerrit servers.&#x20;
+5.The Auto Detected Servers page appears with a list of auto detected Gerrit servers. Click Connect from the required Gerrit servers.&#x20;
 
 ![Gerrit Servers](../../../.gitbook/assets/Gerit.png)
 
@@ -24,13 +24,13 @@ The green dot under Instrumentation Status indicates that the Gerrit account is 
 
 ## Disabling Gerrit Account
 
-You can disable the connected Gerrit account as per your requirement. You can enable and disabled the account as per you needs.  Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected Gerrit account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Gerrit account, perform the following:
 
 1.Use Toggle button available under Instrument.&#x20;
 
-2.The Disable Instrumentation dialog box appears. Click **Keep Data** to disable v account.&#x20;
+2.The Disable Instrumentation dialog box appears. Click **Keep Data** to disable the account.&#x20;
 
 ## Deleting Gerrit Account&#x20;
 
