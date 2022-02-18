@@ -6,7 +6,7 @@ To connect Jira, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Jira.
 
@@ -28,7 +28,7 @@ For more information on how to setup Mailing List, refer [Mailing List](https://
 
 | Field              | Action                                                        |
 | ------------------ | ------------------------------------------------------------- |
-| Google Group Email | Enter valid google group URL or valid email ID of the group . |
+| Jira               | Enter a valid Jira URL. |
 
 6.The connected Jira is listed under Configure Account, click **Save** to complete the Jira.
 
@@ -38,7 +38,7 @@ The green dot under Instrumentation Status indicates that the Jira is enabled.
 
 ## Disabling Jira Account
 
-You can disable the connected Jira as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected Jira account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Jira, perform the following:
 
