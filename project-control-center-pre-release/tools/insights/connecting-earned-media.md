@@ -1,12 +1,12 @@
 # Connecting Earned Media
 
-Earned Media shows analytical overview of how many times consumers (unique users based on [UUID](../../../insights/glossary.md#uuid)) searched, mentioned, and shared project related articles or blogs on different media platforms, starting from Facebook, Linked to blog sites and news publishing websites.
+Earned Media shows analytical overview of how many times consumers (unique users based on [UUID](../../../insights/glossary.md#uuid)) searched, mentioned, and shared project related articles or blogs on different media platforms, starting from Facebook, LinkedIn to blog sites and news publishing websites.
 
 To connect Earned Media, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Earned Media.
 
