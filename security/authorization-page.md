@@ -9,7 +9,7 @@ You have to authorize your account only once when your logging into Security to 
 You can validate your account by logging through:
 
 * GitHub
-* Git/Gerrit
+* Gerrit
 * Member Organization
 
 ## Authorizing your Account GitHub
@@ -20,7 +20,7 @@ If you are a contributor or mentor of the project in GitHub, perform the followi
 
 2.The Authorization page appears. Click **Connect to GitHub**.
 
-![GitHub](../.gitbook/assets/Auth\_Page\_Github.png)
+![GitHub](<../.gitbook/assets/Sec1 - Copy (1).png>)
 
 3\. The Authorization window between GitHub and Linux Foundation appears. Click **Authorize linuxfoundation**.
 
@@ -84,18 +84,18 @@ You cannot edit the email ID. You can change the organization if needed by click
 
 ![](<../.gitbook/assets/1 (1).png>)
 
-## Authorizing your Account from Git/Gerrit
+## Authorizing your Account from Gerrit
 
-To authorize your account using Git/Gerrit, perform the following:
+To authorize your account using Gerrit, perform the following:
 
 1.On a project card of interest, click **View Dashboard**.
 
-2.The Authorization page appears. Click **Connect to Git/Gerrit**.
+2.The Authorization page appears. Click **Connect to Gerrit**.
 
-![Git/Gerrit](../.gitbook/assets/Auth\_Page\_Git.png)
+![Gerrit](../.gitbook/assets/Sec1.png)
 
 {% hint style="warning" %}
-You should have a valid Git account setup in Individual Dashboard.
+You should have a valid Gerrit account setup in Individual Dashboard.
 {% endhint %}
 
-3.If a valid Git account is found, you can see the Dashboard page.
+3.If a valid Gerrit account is found, you can see the Dashboard page.
