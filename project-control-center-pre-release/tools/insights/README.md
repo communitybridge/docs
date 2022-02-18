@@ -1,8 +1,8 @@
 # Insights
 
-Insights gives you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with our analytics and reporting tools.
+Insights gives you complete visibility into project performance and ecosystem trends. It helps to understand your contributor community and make informed decisions with our analytics and reporting tools.
 
-For more information on Insights, refer [Insights ](https://lfx.linuxfoundation.org/tools/insights)and for more information on Insights documentation, refer [Insights Documentation](https://docs.linuxfoundation.org/lfx/insights).&#x20;
+For more information on Insights, refer to [Insights ](https://lfx.linuxfoundation.org/tools/insights).  Ror more information on Insights documentation, refer to [Insights Documentation](https://docs.linuxfoundation.org/lfx/insights).&#x20;
 
 PCC allows you to onboard Insights data connectors. PCC allows you to onboard the following data connectors:
 
