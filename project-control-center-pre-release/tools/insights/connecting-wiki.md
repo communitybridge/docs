@@ -1,12 +1,12 @@
 # Connecting Wiki
 
-Atlassian _Confluence_ is a content tool that teams use to collaborate and share knowledge. Confluence lets users create pages and blogs, which all team members can comment on and edit.
+Atlassian _Confluence_ is a content tool that teams use to collaborate and share knowledge. Confluence lets users create pages and blogs which all team members can comment on and edit.
 
 To connect Confluence Wiki, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Wiki.
 
@@ -26,9 +26,9 @@ For more information on how to setup Mailing List, refer [Setting up Wiki](https
 
 5.The Wiki page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Wiki and update the following details and click **Connect**.
 
-| Field  | Action                                                        |
-| ------ | ------------------------------------------------------------- |
-| Conflu | Enter valid google group URL or valid email ID of the group . |
+| Field      | Action                                                        |
+| ---------- | ------------------------------------------------------------- |
+| Wiki       | Enter valid Wiki URL. |
 
 6.The connected Jira is listed under Configure Account, click **Save** to complete the Jira.
 
@@ -36,9 +36,8 @@ For more information on how to setup Mailing List, refer [Setting up Wiki](https
 The green dot under Instrumentation Status indicates that the Jira is enabled.
 {% endhint %}
 
-## Disabling Jira Account
-
-You can disable the connected Jira as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+## Disabling Wiki Account
+You can disable the connected Wiki account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Jira, perform the following:
 
@@ -46,9 +45,9 @@ To disable Jira, perform the following:
 
 2.The Disable Instrumentation dialog box appears. Click **Keep Data** to disable Jira account.
 
-## Deleting Jira Account
+## Deleting Wiki Account
 
-You can delete the connected Jira account permanently. Deleting a Jira account will remove all the configured data.
+You can delete the connected Wiki account permanently. Deleting a Jira account will remove all the configured data.
 
 To delete the Jira account, perform the following:
 
@@ -56,4 +55,4 @@ To delete the Jira account, perform the following:
 
 OR
 
-2.User Toggle button. The Disable Instrumentation dialog box appears. Click **Remove Data** to delete Jira account.
+2.User Toggle button. The Disable Instrumentation dialog box appears. Click **Remove Data** to delete Wiki account.
