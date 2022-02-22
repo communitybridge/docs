@@ -1,12 +1,12 @@
 # Connecting Jenkins
 
-The Jenkins dashboards under CI/CD drop-down list represents a set of metrics that show overview analysis of Jenkins data.
+The Jenkins dashboards under CI/CD drop-down list represents a set of metrics that show an overview analysis of Jenkins data.
 
 To connect Jenkins, perform the following:
 
 1.Login to PCC.
 
-2.Click **Insights** available under Tools Status.
+2.Click **Insights** available under Tools dropdown menu.
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Jenkins.
 
@@ -33,8 +33,7 @@ The green dot under Instrumentation Status indicates that the Jenkins is enabled
 {% endhint %}
 
 ## Disabling Jenkins Account
-
-You can disable the connected Jenkins as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected Jenkins account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Jenkins, perform the following:
 
