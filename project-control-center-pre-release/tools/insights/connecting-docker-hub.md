@@ -20,7 +20,7 @@ To connect Docker Hub, perform the following:
 
 | Field             | Action                                                               |
 | ----------------- | -------------------------------------------------------------------- |
-| Organization Name | Enter the organization name that you want to configure docker image. |
+| Organization Name | Enter the organization name that you want to configure for the docker image. |
 
 6.The connected Docker Hub account is listed under Configure Account, click **Save** to complete the Docker Hub connection.
 
@@ -30,7 +30,7 @@ The green dot under Instrumentation Status indicates that the Docker Hub account
 
 ## Disabling Docker Hub Account
 
-You can disable the connected Docker Hub account as per your requirement. You can enable and disabled the account as per you needs. Disable of account does not remove the complete account information, it is only in disabled mode.
+You can disable the connected Docker Hub account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Docker Hub account, perform the following:
 
