@@ -8,6 +8,8 @@ Onboarding projects into LFX Security is done from the PCC (Project Control Cent
 You need to raise a ticket if you do not have access to PCC. Use this [link ](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/358)to raise a support ticket to access PCC.
 
 If you want to know more about PCC, please visit [PCC ](https://lfx.linuxfoundation.org/tools/project-control-center)website. You can refer [PCC documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release) for more information.
+
+For more information on Security related activities that can be configured using PCC, refer [Security PCC Documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/tools/security).&#x20;
 {% endhint %}
 
 ## Security Bot Installation <a href="#security-bot-installation" id="security-bot-installation"></a>

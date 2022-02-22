@@ -120,7 +120,7 @@ To disable the auto renew of the domain, perform the following:
 
 ![Cancel Auto Renewal](../../.gitbook/assets/Disabled.png)
 
-3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](../../.gitbook/assets/Cross.png) icon under Auto Renew column.&#x20;
+3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1).png>) icon under Auto Renew column.&#x20;
 
 ![Disabled Status ](../../.gitbook/assets/Disabled\_Success.png)
 

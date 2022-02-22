@@ -18,11 +18,23 @@ To change your basic information, such as name, email address, postal address, a
 * **First Name:** Update your first name.
 * **Last Name:** Update your last name.
 * **Pronoun:** Select the pronoun from the list.
-* **Current Organization:** Add or update your organization.
+*   **Current Organization:** Add or update your organization.
+
+    The organization name is pre-populated from the Salesforce if it is already available.&#x20;
+
+    To add a new organization.&#x20;
+
+    1. &#x20;click the ![](../.gitbook/assets/Cross.png) icon from the **Current Organization** field.&#x20;
+    2. Enter the required organization name, if the name is already available in the date base, it will be listed in the drop-down list. You can select the required name of the organization.&#x20;
+    3. If it is a new organization, you have to click the **+Add** button.&#x20;
+    4. The Add Organization dialog box appears. Enter the **Organization URL** of your organization and enter the **Organization Name** and click **Add**.&#x20;
+
+![Add Organization ](<../.gitbook/assets/Add Organization (1).gif>)
+
 * **Email Address**: ![](<../.gitbook/assets/primary email start mark.png>) next to the filed shows your the primary email address that you have provided while creating your Linux Foundation account. To add an alternate email address:
   1. Click **Add More**.
   2. Provide the email address, and click the save button ![](<../.gitbook/assets/save email address.png>) next to the field.
-  3. ![](<../.gitbook/assets/pending verification.png>) shows pending verification.&#x20;
+  3. ![](<../.gitbook/assets/pending verification.png>) shows pending verification.
   4. Navigate to the email address you have provided. Open the email that you received from **The Linux Foundation: Email Verification**, and click **Verify Email**.
   5. Navigate back to _My Profile_ window, and refresh the page.
   6. You can click the star mark next to the alternate email address to make it primary.
