@@ -370,5 +370,6 @@
       * [Manage Vulnerabilities](project-control-center-pre-release/tools/security/manage-vulnerabilities.md)
       * [Manage False Positives](project-control-center-pre-release/tools/security/manage-false-positives/README.md)
         * [Regular Expressions Cheat Sheet](project-control-center-pre-release/tools/security/manage-false-positives/regular-expressions-cheat-sheet.md)
+        * [Ignore.yml File](project-control-center-pre-release/tools/security/manage-false-positives/ignore.yml-file.md)
       * [Manage Non Inclusive Naming](project-control-center-pre-release/tools/security/manage-non-inclusive-naming.md)
     * [EasyCLA](project-control-center-pre-release/tools/easycla.md)
