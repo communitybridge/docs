@@ -2,13 +2,13 @@
 
 ## Security Bot Installation <a href="#security-bot-installation" id="security-bot-installation"></a>
 
-Onboarding projects into LFX Security is done from the PCC (Project Control Center). As part of this onboarding a Security Bot is installed on GitHub Organizations of the project.
+Onboarding projects into LFX Security is done from the PCC (Project Control Center). As part of this onboarding, a Security Bot is installed on GitHub Organizations of the project.
 
 To setup the Security service using PCC, perform the following steps:
 
 1.Login into [PCC](https://projectadmin.lfx.linuxfoundation.org).
 
-2\. Search for the required project. The Project dashboard appears. Click **Security** from the **TOOLS STATUS** tab.
+2\. Search for the required project. The Project dashboard appears. Click **Security** from the **TOOLS** dropdown menu.
 
 {% hint style="info" %}
 You can also navigate to Security from the Vertical Sidebar navigation menu. Click **Tools** and then select **Security**.
@@ -32,11 +32,11 @@ Make sure that you logged into the GitHub.
 
 ![Installing Security Bot](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Md\_mOyIwS7BfDv1FdCc%2F-Md\_zFZbK923mmbZQJB0%2FInstructions%20.png?alt=media\&token=60735f71-3f39-4d22-8583-1a64f7835d80)
 
-6\. A list of GitHub organization associated with the login account are listed and displayed. Select the required organization for which you want to install the Security bot.
+6\. A list of GitHub organizations associated with the login account are listed and displayed. Select the required organization for which you want to install the Security bot.
 
 ![GitHub Organizations](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Md\_mOyIwS7BfDv1FdCc%2F-Mda-O7Icw1gTvpJ6KPN%2FList.png?alt=media\&token=607604ff-a16b-43d2-a849-6600b42a55df)
 
-7.The Install & Authorize LFx Security GitHub App page appears. This page provides the following information:
+7.The Install & Authorize LFX Security GitHub App page appears. This page provides the following information:
 
 * Information on the permission requested for the selected repositories. The LFX Security requests the following permissions from the GitHub:
   * **Read** access to administer, code, check commit status, lookup members, and other metadata.
@@ -77,7 +77,7 @@ To uninstall Security service from PCC, perform the following steps:
 
 1.Login into [PCC](https://projectadmin.lfx.linuxfoundation.org).
 
-2\. Search for the required project. The Project dashboard appears. Click **Security** from the **TOOLS STATUS** tab. The GitHub organizations are listed, select the settings ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda365nvB-pYuIRy-C-%2F-Mda6J3cFJ46Jm-7DZGL%2FSetting%20.png?alt=media\&token=31867e54-5c98-4262-94fa-b1938c2972fd) icon and click **Disassociate GitHub Org**.
+2\. Search for the required project. The Project dashboard appears. Click **Security** from the **TOOLS** dropdown menu. The GitHub organizations are listed. Select the settings ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda365nvB-pYuIRy-C-%2F-Mda6J3cFJ46Jm-7DZGL%2FSetting%20.png?alt=media\&token=31867e54-5c98-4262-94fa-b1938c2972fd) icon and click **Disassociate GitHub Org**.
 
 ![Disassociate GitHub Org](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda365nvB-pYuIRy-C-%2F-Mda6YqKDezwn0S201M0%2FUninstall.png?alt=media\&token=63d471ca-dd3b-4a5c-9627-117a08e7cec0)
 
@@ -85,7 +85,7 @@ To uninstall Security service from PCC, perform the following steps:
 
 ![Uninstalling Security Bot](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda365nvB-pYuIRy-C-%2F-Mda7C8dm1PC7eQpYypM%2FUninstall%20Instructions%20.png?alt=media\&token=8ffdef7f-443c-4729-a72d-b8d63469bd17)
 
-4.The LFx Security GitHub App opens in a new tab. Click **Uninstall** from the Danger Zone.
+4.The LFX Security GitHub App opens in a new tab. Click **Uninstall** from the Danger Zone.
 
 {% hint style="info" %}
 You can uninstall the Security bot from all the repositories associated with your GitHub organization by selecting **All Repositories** or select specific repositories for which you want to uninstall the Security bot by selecting **Only Select Repositories**.
@@ -113,7 +113,7 @@ A red dot present with the GitHub organization name indicates that the Security 
 
 ![Disassociation Organization](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-MdaFPJcXjqEQwnynKZe%2F-MdaHjpokpWvFrsnCRn6%2FDisaa1.png?alt=media\&token=092d6bf3-5281-498a-a734-7684abe0a148)
 
-9.A pop message appears informing that the GitHub organization will be disassociated. Click **Disassociate** to continue with the disassociation process.
+9.A popup message appears informing that the GitHub organization will be disassociated. Click **Disassociate** to continue with the disassociation process.
 
 ![Dialog Box](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-MdaFPJcXjqEQwnynKZe%2F-MdaHyRNc2eJqvR49-5m%2FDiss%20Dial.png?alt=media\&token=0a3eba88-dd48-4f75-b55a-7b5bdc9d468b)
 
@@ -125,15 +125,15 @@ To suspend the Security service, perform the following steps:
 
 1.Login into [PCC](https://projectadmin.lfx.linuxfoundation.org).
 
-2\. Search for the required project. The Project dashboard appears. Click **Security** from the **TOOLS STATUS** tab. The GitHub organizations are listed, select the settings ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda365nvB-pYuIRy-C-%2F-Mda6J3cFJ46Jm-7DZGL%2FSetting%20.png?alt=media\&token=31867e54-5c98-4262-94fa-b1938c2972fd) icon and click **Configure Security Bot**.
+2\. Search for the required project. The Project dashboard appears. Click **Security** from the **TOOLS** dropdown menu. The GitHub organizations are listed, select the settings ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda365nvB-pYuIRy-C-%2F-Mda6J3cFJ46Jm-7DZGL%2FSetting%20.png?alt=media\&token=31867e54-5c98-4262-94fa-b1938c2972fd) icon and click **Configure Security Bot**.
 
 ![Configure Security Bot](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mdw7VO3TEQTCP-g3IBS%2F-MdwAAWR5sehaVt4iyyb%2FCng.png?alt=media\&token=fe706d44-44ec-4b46-bd22-98b69abccd88)
 
-3.The LFx Security GitHub App opens in a new tab. Click **Suspend** from the Danger Zone.
+3.The LFX Security GitHub App opens in a new tab. Click **Suspend** from the Danger Zone.
 
 ![Suspend](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mdw7VO3TEQTCP-g3IBS%2F-MdwA\_xq6S3gHfNE0GZ6%2FSuspend.png?alt=media\&token=8c47c8d3-8d92-426b-b522-b655efa24b52)
 
-4.A pop message appears informing that the Security bot will be suspended. Click **OK** to continue with the suspension process.
+4.A popup message appears informing that the Security bot will be suspended. Click **OK** to continue with the suspension process.
 
 ![Dialog Box](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mdw7VO3TEQTCP-g3IBS%2F-MdwB0m5fT4bW017P0Mb%2FSus\_dailog.png?alt=media\&token=ecc1c0b7-caee-40e6-b883-fa691373fd67)
 
@@ -153,13 +153,13 @@ To revoke the suspended Security service, click settings ![](https://firebasesto
 
 ## Associating Individual Repositories to the Project&#x20;
 
-You can associate an individual repositories to a project. PCC allows you to select a individual repository and allows you to assign to a project.
+You can associate an individual repository to a project. PCC allows you to select an individual repository and allows you to assign it to a project.
 
 To associate an individual repository, perform the following:
 
 1.Login into PCC.&#x20;
 
-2.Select the required project and click **Security** from the Tools Status.&#x20;
+2.Select the required project and click **Security** from the Tools dropdown menu.&#x20;
 
 ![Security](../../../.gitbook/assets/Sec.png)
 
