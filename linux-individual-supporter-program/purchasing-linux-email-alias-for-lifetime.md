@@ -32,7 +32,7 @@ To purchase Linux.com email alias from My Profile Dashboard, follow these steps:
 
 ### Purchase Linux.com email from Individual Supporter Order Confirmation
 
-To purchase Linux.com email alias from the order confirmation screen after you complete the Individual Supporter purchase, follow these steps:
+To purchase a Linux.com email alias from the order confirmation screen, after you complete the Individual Supporter purchase, follow these steps:
 
 1\. After purchasing the Individual Supporter program, on the Order Confirmation page, click on the **Purchase Linux.com Email Alias** CTA button to purchase Linux.com email alias.&#x20;
 
