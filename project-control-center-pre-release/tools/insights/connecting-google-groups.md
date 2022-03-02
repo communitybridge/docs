@@ -16,7 +16,7 @@ To connect Google Groups, perform the following:
 
 ![Google Groups Connect](../../../.gitbook/assets/Google\_Connect.png)
 
-5.The Connect Google Groups Mail page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Google Groups and update the following details and click **Connect**.
+5.The Connect Google Groups Mail page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Google Groups and update the following details and click **Connect**.
 
 | Field              | Action                                                        |
 | ------------------ | ------------------------------------------------------------- |
@@ -48,7 +48,7 @@ You can delete the connected Google Groups account permanently. Deleting a Googl
 
 To delete the Google Groups account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Google Groups URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Google Groups URL appears, click **Disconnect**.
 
 OR
 

@@ -18,20 +18,20 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 3.The Security page appears. From the **Manage Inclusive Naming** tab, click **Proceed**.
 
-![Manage Non Inclusive Names](<../../../.gitbook/assets/Non\_Inclusive\_Language (1).png>)
+![Manage Non Inclusive Names](../../../.gitbook/assets/non\_inclusive\_language.png)
 
 4.Enter the non inclusive word in the **Add word** box and click **+Add**. The added non inclusive words are listed under NON-INCLUSIVE LANGUAGE.
 
-![Adding Non Inclusive Word](<../../../.gitbook/assets/Non\_Inclusive\_Language 2.png>)
+![Adding Non Inclusive Word](../../../.gitbook/assets/non\_inclusive\_language-2.png)
 
 ## Deleting Non Inclusive Words
 
 To delete a non inclusive word, perform the following steps:
 
-1.From the **Manage Inclusive Naming** tab, click ![](../../../.gitbook/assets/Del\_Icon.png) icon that you want to delete from the list.&#x20;
+1.From the **Manage Inclusive Naming** tab, click ![](../../../.gitbook/assets/del\_icon.png) icon that you want to delete from the list.
 
-![Delete Non Inclusive Word](<../../../.gitbook/assets/Del (1).png>)
+![Delete Non Inclusive Word](../../../.gitbook/assets/Del.png)
 
-2\. The Delete Keyword dialog box appears. Click **Delete** to confirm the deletion of the word.&#x20;
+2\. The Delete Keyword dialog box appears. Click **Delete** to confirm the deletion of the word.
 
-![Delete Confirmation](../../../.gitbook/assets/Del2.png)
+![Delete Confirmation](../../../.gitbook/assets/del2.png)

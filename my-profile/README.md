@@ -60,12 +60,12 @@ If you are a contact on behalf of your company, which is a partner of the Linux 
 You can view the training courses that you have enrolled in, and the certifications you have completed.
 
 1. Log in to [https://openprofile.dev](https://openprofile.dev)
-2. To view completed certifications, scroll down to the **Linux Foundation and Project Issued Certifications** section.&#x20;
+2. To view completed certifications, scroll down to the **Linux Foundation and Project Issued Certifications** section.
 3. To view enrolled training courses, scroll down to the **Training Enrollment** section.
 
 ![View Training and Certifications](<../.gitbook/assets/training and certification sections.png>)
 
-The section will display the following details:&#x20;
+The section will display the following details:
 
 * The names of the training courses and certifications you are enrolled in or have completed.
 * The dates for each of training and certification courses enrolled and completed.
@@ -87,7 +87,7 @@ To add or remove your skill sets:
 
 5\. Close the window after you have completed adding or removing a skill.
 
-![Manage Skills](<../.gitbook/assets/manage skills.png>)
+![Manage Skills](<../.gitbook/assets/manage skills (1).png>)
 
 ### View Projects You Support as an Individual Supporter
 
@@ -96,7 +96,7 @@ You can view the projects that you support by enrolling as an individual support
 1. Log in to [https://openprofile.dev](https://openprofile.dev)
 2. Scroll down to _Supported Projects_ section.
 
-It displays the project name, and the date when you enrolled as an individual supporter. Click the edit icon ![](../.gitbook/assets/Edit\_Icon.png) to navigate to the [Individual Enrollment](individual-enrollments.md) page to see details.
+It displays the project name, and the date when you enrolled as an individual supporter. Click the edit icon ![](<../.gitbook/assets/Edit\_Icon (1).png>) to navigate to the [Individual Enrollment](individual-enrollments.md) page to see details.
 
 ![Supported Projects](<../.gitbook/assets/supported projects.png>)
 
@@ -111,7 +111,7 @@ From the right side pane of the window, you can view and manage profile visibili
 *   **Badges** shows the community badges that you have acquired. Community badges are generated from the following sources:
 
     1. For the Linux Foundation **Certifications** you have successfully passed.
-    2. For **** speaking engagements at various Linux Foundation **Events** or participation in  program committees for these events.
+    2. For \*\*\*\* speaking engagements at various Linux Foundation **Events** or participation in program committees for these events.
 
     Clicking on the badge will take you to the Certification Verification page.
 
@@ -126,4 +126,3 @@ You can add or remove an email form the Basic Information window. For details, s
 ### View Coupons and Transactions
 
 You can view coupons you are rewarded with, and also transaction details. To know more, see [View Rewards](view-rewards.md).
-

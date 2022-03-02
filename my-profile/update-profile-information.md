@@ -14,7 +14,7 @@ To change your basic information, such as name, email address, postal address, a
 
 2\. Under **Basic Information** section, you can update the following details:
 
-* **Profile Photo:** Click the edit icon ![](<../.gitbook/assets/Edit\_Icon (1).png>) next to your profile photo to upload your profile photo.
+* **Profile Photo:** Click the edit icon ![](../.gitbook/assets/Edit\_Icon.png) next to your profile photo to upload your profile photo.
 * **First Name:** Update your first name.
 * **Last Name:** Update your last name.
 * **Pronoun:** Select the pronoun from the list.
@@ -29,7 +29,7 @@ To change your basic information, such as name, email address, postal address, a
     3. If it is a new organization, you have to click the **+Add** button.&#x20;
     4. The Add Organization dialog box appears. Enter the **Organization URL** of your organization and enter the **Organization Name** and click **Add**.&#x20;
 
-![Add Organization ](<../.gitbook/assets/Add Organization (1).gif>)
+![Add Organization ](<../.gitbook/assets/Add Organization.gif>)
 
 * **Email Address**: ![](<../.gitbook/assets/primary email start mark.png>) next to the filed shows your the primary email address that you have provided while creating your Linux Foundation account. To add an alternate email address:
   1. Click **Add More**.

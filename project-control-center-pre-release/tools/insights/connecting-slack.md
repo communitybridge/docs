@@ -16,7 +16,7 @@ To connect Slack, perform the following:
 
 ![Slack Connector](../../../.gitbook/assets/Slack\_Cont.png)
 
-5.The Connect Slack Workspace page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Slack, update the following details and click **Connect**.
+5.The Connect Slack Workspace page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Slack, update the following details and click **Connect**.
 
 | Field                        | Action                           |
 | ---------------------------- | -------------------------------- |
@@ -52,7 +52,7 @@ You can delete the connected Slack account permanently. Deleting a Slack account
 
 To delete the Slack account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Slack URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Slack URL appears, click **Disconnect**.
 
 OR
 

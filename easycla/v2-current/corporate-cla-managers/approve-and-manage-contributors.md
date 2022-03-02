@@ -26,7 +26,7 @@ As a CLA manager for a project, you can:
 
 4\. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (2).png>)
+![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (1) (1).png>)
 
 {% hint style="info" %}
 **Note:**
@@ -49,11 +49,11 @@ As a CLA manager for a project, you can:
 
 ## Edit a Contributor's Details <a href="#edit-a-contributors-details" id="edit-a-contributors-details"></a>
 
-Click ![](<../../../.gitbook/assets/Edit\_Icon (1).png>) in the row for one of the Approval List criteria, make edits, and click **Save**.
+Click ![](../../../.gitbook/assets/Edit\_Icon.png) in the row for one of the Approval List criteria, make edits, and click **Save**.
 
 ## Delete a Contributor's Details <a href="#delete-a-contributors-details" id="delete-a-contributors-details"></a>
 
-Click ![](../../../.gitbook/assets/Delete\_Icon.png) in the row for one of the Approval List criteria, to delete the contributor or the group criteria.
+Click ![](../../../.gitbook/assets/delete\_icon.png) in the row for one of the Approval List criteria, to delete the contributor or the group criteria.
 
 {% hint style="info" %}
 **Note:** If you delete a contributor's details or an approval criteria, then the status of signature for the contributor, who signed a CLA under a CLA group with that criteria, will be displayed as "Disabled" under Signatory tab of the CLA group on project console. For details about the statuses see, [Signatures](../project-managers/view-and-manage-cla-group-details.md#signatures). Only Project Managers and Community Program managers can access project console (also called Project Control Center).

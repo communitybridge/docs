@@ -41,7 +41,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 {% hint style="info" %}
 **Note:**
 
-* If your company is not in the list, you can add the company as described in [If your company is not in the list](broken-reference).
+* If your company is not in the list, you can add the company as described in [If your company is not in the list](broken-reference/).
 {% endhint %}
 
 ![Select Organization](<../../../.gitbook/assets/select organization.png>)
@@ -107,7 +107,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 2. A cross next to a contributor's name means the EasyCLA check has failed, because the contributor is not authorized under a signed CLA.
 {% endhint %}
 
-![CLA Not Covered](<../../../.gitbook/assets/cla not covered.png>)
+![CLA Not Covered](../../../.gitbook/assets/cla-not-covered.png)
 
 4\. Click ![](<../../../.gitbook/assets/lfx easycla.png>) or **Not Covered**.
 
@@ -239,8 +239,7 @@ A window appears confirming your association with the company. Click Exit EasyCL
 {% hint style="warning" %}
 **Important:** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
 
-![](<../../../.gitbook/assets/signout gerrit.png>) \
-
+![](<../../../.gitbook/assets/signout gerrit.png>) \\
 {% endhint %}
 
 ## If you are additionally asked to sign an ICLA <a href="#if-you-are-asked-to-sign-icla" id="if-you-are-asked-to-sign-icla"></a>

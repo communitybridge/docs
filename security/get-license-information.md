@@ -2,7 +2,7 @@
 
 LFX Security identifies the licenses that are used by your projects and their dependencies.
 
-## License Information &#x20;
+## License Information
 
 To get the license information, perform the following:
 
@@ -10,11 +10,10 @@ To get the license information, perform the following:
 
 ![Licenses](../.gitbook/assets/Lice.png)
 
-2.Click a license **identifier** ![](../.gitbook/assets/Ident.png)  ****  icon  to go to the SPDX License and find out more information about a license.&#x20;
+2.Click a license **identifier** ![](../.gitbook/assets/Ident.png) \*\*\*\* icon to go to the SPDX License and find out more information about a license.
 
-![License Identifier ](../.gitbook/assets/Lice\_1.png)
+![License Identifier](../.gitbook/assets/Lice\_1.png)
 
 3.The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
 
-![License](<../.gitbook/assets/Apache License.png>)
-
+![License](../.gitbook/assets/apache-license.png)

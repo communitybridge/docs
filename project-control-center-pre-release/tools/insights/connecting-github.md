@@ -16,10 +16,10 @@ To connect GitHub, perform the following:
 
 ![GitHub Connector](../../../.gitbook/assets/Github\_Connect.png)
 
-5.The Connect GitHub Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure GitHub account and update the following details and click **Connect**.
+5.The Connect GitHub Account page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure GitHub account and update the following details and click **Connect**.
 
-| Field             | Action                                                         |
-| ----------------- | -------------------------------------------------------------- |
+| Field             | Action                                                             |
+| ----------------- | ------------------------------------------------------------------ |
 | Organization Name | Enter the organization name that you want to configure for GitHub. |
 
 ![GitHub Connect](../../../.gitbook/assets/Add\_Github.png)
@@ -46,7 +46,7 @@ You can delete the connected GitHub account permanently. Deleting a GitHub accou
 
 To delete the GitHub account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect GitHub URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect GitHub URL appears, click **Disconnect**.
 
 OR
 

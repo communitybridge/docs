@@ -4,12 +4,11 @@ The LFX Security tool provides automated vulnerability scanning and provides vis
 
 The Security service tool allows you to perform the following:
 
-* GitHub Onboarding&#x20;
+* GitHub Onboarding
 * Manage Vulnerabilities
-* Manage False Positives&#x20;
-* Manage Inclusive Naming &#x20;
+* Manage False Positives
+* Manage Inclusive Naming
 
-For more information on Security Services, visit [Security Documentation](https://docs.linuxfoundation.org/lfx/security).&#x20;
+For more information on Security Services, visit [Security Documentation](https://docs.linuxfoundation.org/lfx/security).
 
-![Security ](<../../../.gitbook/assets/Security .png>)
-
+![Security](../../../.gitbook/assets/security-.png)

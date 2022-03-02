@@ -34,7 +34,7 @@ A Foundation project group is a group of individual projects. Normally Foundatio
 
 A Foundation project with group of individual projects are displayed as shown in the following image:
 
-![Foundation Projects](<../.gitbook/assets/Foundation (2).png>)
+![Foundation Projects](<../.gitbook/assets/Foundation (1) (1).png>)
 
 #### View Individual Projects in the Foundation Project
 
@@ -58,7 +58,7 @@ To view the individual projects, perform the following steps:
 * Upstream Dependencies
 * Types of Licenses Found
 
-![Security Summary](../.gitbook/assets/Project\_Foundation.gif)
+![Security Summary](<../.gitbook/assets/Project\_Foundation (1).gif>)
 
 {% hint style="info" %}
 The warning ![](../.gitbook/assets/War.png) icon provides information on why the security scan is failed for the repositories.

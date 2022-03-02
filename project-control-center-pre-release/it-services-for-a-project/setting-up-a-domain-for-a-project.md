@@ -21,7 +21,7 @@ You cannot change the primary domain for the project, if you want to change the 
 {% endhint %}
 
 {% hint style="info" %}
-You can update the details of the domain by click of the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
+You can update the details of the domain by click of the edit ![](../../.gitbook/assets/Edit\_Icon.png) icon.
 {% endhint %}
 
 ![Add Domains](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTin-ZAqZqONnTCyC3a%2F-MTing7k6on25NDZh28K%2FAdd\_Domains.png?alt=media\&token=30943d97-7cc3-4bc2-aa35-69d238302653)
@@ -70,7 +70,7 @@ To redirect a domain from one domain to another domain, perform the following:
 
 1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.
+2.Click ![](../../.gitbook/assets/Edit\_Icon.png) icon available under Manage pane.
 
 ![Domain Edit](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxfVJJ8Aw7DVZuty6g%2F-MWxgJiGY3AwTtFjyqvO%2FPD2.png?alt=media\&token=c9ed8ae6-3f35-4263-b2f5-84f6668d34b2)
 
@@ -96,7 +96,7 @@ To setup service record, perform the following steps:
 
 1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.
+2.Click ![](../../.gitbook/assets/Edit\_Icon.png) icon available under Manage pane.
 
 ![Domain Edit](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWxfVJJ8Aw7DVZuty6g%2F-MWxgJiGY3AwTtFjyqvO%2FPD2.png?alt=media\&token=c9ed8ae6-3f35-4263-b2f5-84f6668d34b2)
 
@@ -120,7 +120,7 @@ To disable the auto renew of the domain, perform the following:
 
 ![Cancel Auto Renewal](../../.gitbook/assets/Disabled.png)
 
-3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1).png>) icon under Auto Renew column.&#x20;
+3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1) (1).png>) icon under Auto Renew column.&#x20;
 
 ![Disabled Status ](../../.gitbook/assets/Disabled\_Success.png)
 
@@ -132,15 +132,15 @@ To transfer a domain, perform the following:
 
 1.Click **+ Add Domain**.&#x20;
 
-![Add Domain](<../../.gitbook/assets/Add\_Domain (1).png>)
+![Add Domain](../../.gitbook/assets/Add\_Domain.png)
 
 2.The Add Domain dialog box appears. Enter the name of the domain that you want to transfer to your project and click **Check Availability**.&#x20;
 
-![Check Availability](<../../.gitbook/assets/Add\_d (1).png>)
+![Check Availability](<../../.gitbook/assets/Add\_d (2).png>)
 
 3.You can see the Domain Taken message.  Click **Yes; Transfer Domain**. &#x20;
 
-![Transfer Domain ](<../../.gitbook/assets/Domain\_Taken (1).png>)
+![Transfer Domain ](../../.gitbook/assets/Domain\_Taken.png)
 
 4.One more message appears that informs you whether Linux Foundation should manage your DNS. Select Yes or No.&#x20;
 
@@ -152,7 +152,7 @@ To transfer a domain, perform the following:
 
 6.The Domain will be listed in your project with status **Transfer Code Needed**.
 
-![Transfer Code Needed](<../../.gitbook/assets/Domain\_Not (1).png>)
+![Transfer Code Needed](../../.gitbook/assets/Domain\_Not.png)
 
 {% hint style="info" %}
 You have to provide the transfer code in order to complete the domain transfer. To provide the transfer code, click ![](../../.gitbook/assets/Dot\_Icon.png) icon and select **Continue Transfer** and enter the transfer code that you will receive from the registrar of your domain. Select My Domain is unlocked and My DNS Service is not hosted and click **Begin Transfer**.&#x20;
@@ -172,7 +172,7 @@ To delegate the DNS through PCC, perform the following:
 
 1.Go to the Domains list and click the ![](../../.gitbook/assets/Dot\_Icon.png) icon and click **Delegate DNS (no managed DNS)**.&#x20;
 
-![Delegate DNS](../../.gitbook/assets/DNS.png)
+![Delegate DNS](<../../.gitbook/assets/DNS (1).png>)
 
 2.The Delegate DNS server pop box appears. Provide the required **Name Servers** and select the **I Understand** statement and click **Delegate**.&#x20;
 
@@ -180,7 +180,7 @@ To delegate the DNS through PCC, perform the following:
 You can provide the details of the six name servers.&#x20;
 {% endhint %}
 
-![Name Servers ](../../.gitbook/assets/Name\_Servers.png)
+![Name Servers ](<../../.gitbook/assets/Name\_Servers (1).png>)
 
 3.A flyer message appears informing that the DNS delegation is success and under DNS Hosting, the managed status changes to **Delegated**.&#x20;
 

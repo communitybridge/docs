@@ -36,15 +36,15 @@ After you successfully add Git organizations, you can:
 
 6\. Under the GITLAB tab, click the **+** sign at the top right of ADD GITLAB GROUP.
 
-![Add GitLab Group](<../../../.gitbook/assets/add gitlab group.png>)
+![Add GitLab Group](../../../.gitbook/assets/add-gitlab-group.png)
 
 7\. Provide the complete URL of the GitLab group, as shown in the image, in the **Enter GitLab Group URL** field, and click **Connect**.
 
-![Connect GitLab Group](<../../../.gitbook/assets/connect gitlab group.png>)
+![Connect GitLab Group](../../../.gitbook/assets/connect-gitlab-group.png)
 
 8\. Click **Install GitLab EasyCLA App**.
 
-![Install GitLab EasyCLA App](<../../../.gitbook/assets/install gitlab easycla app.png>)
+![Install GitLab EasyCLA App](../../../.gitbook/assets/install-gitlab-easycla-app.png)
 
 9\. Click **Authorize**.
 
@@ -52,7 +52,7 @@ After you successfully add Git organizations, you can:
 
 **Note:** If you do not click **I'm Done Installing**, you will have to reinstall EasyCLA application.
 
-![GitLab I am done Installing](<../../../.gitbook/assets/gitlab i am done installing.png>)
+![GitLab I am done Installing](../../../.gitbook/assets/gitlab-i-am-done-installing.png)
 
 {% hint style="info" %}
 **Note:**
@@ -77,15 +77,15 @@ After adding the GitLab group, you should enable branch protection and auto enab
 
 2\. Click both the check boxes, and click **Save Changes**.
 
-![Additional Settings GitLab](<../../../.gitbook/assets/additional setttings GitLab.png>)
+![Additional Settings GitLab](../../../.gitbook/assets/additional-setttings-gitlab.png)
 
 ## Disassociate GitLab Groups <a href="#disassociate-gitlab-groups" id="disassociate-gitlab-groups"></a>
 
 **Note**: To disassociate a GitLab group, you must disable CLA from all projects of the GitLab group.
 
-![Disassociate GitLab Group disabled for CLA enforced Projects](<../../../.gitbook/assets/disassociate gitlab group disabled.png>)
+![Disassociate GitLab Group disabled for CLA enforced Projects](../../../.gitbook/assets/disassociate-gitlab-group-disabled.png)
 
 1. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitLab group.
 2. Click **Disassociate GitLab Group**, and click **Disassociate** on the confirmation window.
 
-![Disassociate GitLab Group](<../../../.gitbook/assets/disassociate gitlab group.png>)
+![Disassociate GitLab Group](../../../.gitbook/assets/disassociate-gitlab-group.png)

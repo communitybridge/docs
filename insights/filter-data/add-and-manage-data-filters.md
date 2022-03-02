@@ -12,17 +12,16 @@ After you add a filter, you can manage it by applying quick actions on the filte
 1. On a data source dashboard, for example Technical Metrics > Source Control > Commits > Overview, click + **Add filter**.
 2. Click in the **Filter** field and:
    * Select a filter from the **Field** drop-down list.\
-     &#x20;![](<../../.gitbook/assets/add filter.png>)&#x20;
+     ![](<../../.gitbook/assets/add filter.png>)
    * Select an operator from the **Operato**r drop-down list
    * Type or select a filter value in the **Value** field.\
      **Note:** You can turn on the **Create** **Custom label?** key to open **Custom label** field that lets you enter a label value that identifies your filter subject.
 3. Click **Edit as Query DSL** to build a filter using Elastic search Query DSL. You can create positive and negative operators and filter on whether or not a field is present.\
-   &#x20;![](<../../.gitbook/assets/edit as query DSL.png>) \
-
+   ![](<../../.gitbook/assets/edit as query DSL.png>) \\
 4. Click **Save**.\
    The filter label appears in the query bar.
 5. (Optional) Click ![](<../../.gitbook/assets/change filter icon.png>) to display and hide the **CHANGE ALL FILTERS** options as shown in the following example:\
-   &#x20;![](<../../.gitbook/assets/change filter options.png>)
+   ![](<../../.gitbook/assets/change filter options.png>)
    * **Enable all** enables all the disabled filters.
    * **Disable** **all** disables the filters without removing them. Strike-through indicates that filters are disabled.
    * **Pin all** pins the filters. Pinned filters persist when you switch contexts. For example, you can pin a filter in one dashboard and it remains in place when you switch to another dashboard. A filter is based on a particular index field—if the indices being searched do not contain the field in a pinned filter, it has no effect.
@@ -38,21 +37,19 @@ The Edit filter option lets you manually update a filter and specify a label for
 **To edit a filter:**
 
 1. Click the filter that you want to edit and click **Edit filter**:\
-   &#x20;![](<../../.gitbook/assets/edit filter.png>) \
+   ![](<../../.gitbook/assets/edit filter.png>)\
    ![](https://docs.linuxfoundation.org/download/attachments/18088146/edit%20filter.PNG?version=1\&modificationDate=1583236994028\&api=v2)\
    The Edit filter dialog appears.\
-   &#x20;![](<../../.gitbook/assets/edit-filter-values (1) (1).png>) \
-
+   ![](<../../.gitbook/assets/edit-filter-values (1).png>) \\
 2. Edit the filter by clicking **Edit as Query DSL** and following the instructions to edit a filter.\
-   &#x20;  ![](<../../.gitbook/assets/edit filter as query DSL.png>) \
-
+   ![](<../../.gitbook/assets/edit filter as query DSL.png>) \\
 3. Click **Save**.
 
 **To manage a filter:**
 
-Click the filter that you want to manage,  and select any of the **action buttons** to manage a filter:
+Click the filter that you want to manage, and select any of the **action buttons** to manage a filter:
 
-* **Pin across all apps**  pins a filter across all applications in one dashboard. It remains in place when you switch to another dashboard.&#x20;
+* **Pin across all apps** pins a filter across all applications in one dashboard. It remains in place when you switch to another dashboard.
 
 {% hint style="warning" %}
 **Important:** A filter is based on a particular index field—if the indices being searched do not contain the field in a pinned filter, it has no effect on the dashboard.
@@ -64,5 +61,4 @@ Click the filter that you want to manage,  and select any of the **action button
 * **Temporarily disable** disables the filter without removing it. Strike-through indicates that a filter is disabled. **Re-enable** option shows when you click Temporarily disable.
 * **Delete** removes the filter.\
   **Note:** You can click **×** next to a filter to delete it.\
-  &#x20;![](<../../.gitbook/assets/delete filter.png>)&#x20;
-
+  ![](<../../.gitbook/assets/delete filter.png>)

@@ -14,7 +14,7 @@ To connect Jira, perform the following:
 
 4.The Connector dialog box appears. Click **Connect**.
 
-![Jira Connect](<../../../.gitbook/assets/Jira\_Connect (1).png>)
+![Jira Connect](../../../.gitbook/assets/Jira\_Connect.png)
 
 {% hint style="info" %}
 You should have setup Issue Tracking in the IT Services. Click **Configure on IT Services**.
@@ -24,11 +24,11 @@ For more information on how to setup Mailing List, refer [Mailing List](https://
 
 ![Configure Issue Tracking](../../../.gitbook/assets/Jira\_Config.png)
 
-5.The Connect Jira page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Jira and update the following details and click **Connect**.
+5.The Connect Jira page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Jira and update the following details and click **Connect**.
 
-| Field              | Action                                                        |
-| ------------------ | ------------------------------------------------------------- |
-| Jira               | Enter a valid Jira URL. |
+| Field | Action                  |
+| ----- | ----------------------- |
+| Jira  | Enter a valid Jira URL. |
 
 6.The connected Jira is listed under Configure Account, click **Save** to complete the Jira.
 
@@ -52,7 +52,7 @@ You can delete the connected Jira account permanently. Deleting a Jira account w
 
 To delete the Jira account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Jira URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Jira URL appears, click **Disconnect**.
 
 OR
 

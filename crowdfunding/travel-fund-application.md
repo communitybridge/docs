@@ -5,7 +5,7 @@
 | Name                     | Description                                                                                                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Travel Fund Name**     | <p>A travel fund name which must be unique</p><p><strong>Note:</strong> Funds of a different type can use the same name. For example, a Travel Fund and a Project fund can use the same name.</p> |
-| **Topic** / **Category** | Topic or category that relates to your Travel Fund. Click ![](<../.gitbook/assets/18088098 (3) (2) (1) (1).jpg>) after you select category/ categories.                                           |
+| **Topic** / **Category** | Topic or category that relates to your Travel Fund. Click ![](<../.gitbook/assets/18088098 (3) (2) (1) (2).jpg>) after you select category/ categories.                                           |
 | **Elevator pitch**       | Brief statement of why your Travel Fund is important to support.                                                                                                                                  |
 | **Website URL**          | A link to website that you want to associate with the fund.                                                                                                                                       |
 | **Application URL**      | The specific URL where people can apply for travel fund.                                                                                                                                          |
@@ -21,7 +21,7 @@
 
 ### Travel Fund Beneficiaries
 
-Travel fund beneficiaries are individuals who receive invitation from Expensify (an expense management application) to submit  [reimbursement](get-reimbursed.md) for their expenses.
+Travel fund beneficiaries are individuals who receive invitation from Expensify (an expense management application) to submit [reimbursement](get-reimbursed.md) for their expenses.
 
 **Note:** You will be automatically added as a beneficiary when you submit a new travel fund application. To add more beneficiaries, click **+ Add beneficiary** and complete the fields that appear.
 
@@ -57,5 +57,5 @@ The Financial Summary shows the annual financial goal and progress towards it by
 Read and agree to the Terms and Conditions, and **Submit** the application.
 
 {% hint style="info" %}
-After The Linux Foundation reviews the application, you will receive an email notification with a review decision.&#x20;
+After The Linux Foundation reviews the application, you will receive an email notification with a review decision.
 {% endhint %}

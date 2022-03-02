@@ -24,7 +24,7 @@ For more information on how to setup Mailing List, refer [Mailing List](https://
 
 ![Configure Mailing List](../../../.gitbook/assets/Mailing\_List.png)
 
-5.The Connect Groups.io page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Groups.io and update the following details and click **Connect**.
+5.The Connect Groups.io page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Groups.io and update the following details and click **Connect**.
 
 | Field              | Action                                                        |
 | ------------------ | ------------------------------------------------------------- |
@@ -52,7 +52,7 @@ You can delete the connected Groups.io account permanently. Deleting a Groups.io
 
 To delete the Groups.io account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Groups.io URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Groups.io URL appears, click **Disconnect**.
 
 OR
 

@@ -25,4 +25,4 @@ As a CLA Manager for a project, you can:
 **Important:** A company that has signed a CCLA will always have at least one CLA Manager for that project, and you cannot delete the CLA manager if there is only one CLA manager.
 {% endhint %}
 
-Click ![](../../../.gitbook/assets/Delete\_Icon.png) under **Manage** column on a CLA manager's row to delete the user.
+Click ![](../../../.gitbook/assets/delete\_icon.png) under **Manage** column on a CLA manager's row to delete the user.

@@ -10,13 +10,13 @@ To connect Pipermail, perform the following:
 
 3.The Native Connectors screen appears with list of available data connectors. Click ![](../../../.gitbook/assets/Connect.png) icon listed next to Pipermail.
 
-![Pipermail](<../../../.gitbook/assets/Pipermail (1).png>)
+![Pipermail](<../../../.gitbook/assets/Pipermail (2).png>)
 
 4.The Connector dialog box appears. Click **Connect**.
 
 ![Pipermail Connect](../../../.gitbook/assets/Pipermail\_Connect.png)
 
-5.The Connect Pipermail URL page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Pipermail, update the following details and click **Connect**.
+5.The Connect Pipermail URL page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Pipermail, update the following details and click **Connect**.
 
 | Field         | Action                     |
 | ------------- | -------------------------- |
@@ -44,7 +44,7 @@ You can delete the connected Pipermail account permanently. Deleting a Pipermail
 
 To delete the Pipermail account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Pipermail URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Pipermail URL appears, click **Disconnect**.
 
 OR
 

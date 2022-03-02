@@ -3,7 +3,7 @@
 Events page displays the project related events that are organized for specific reasons. You can [donate](../donate-sponsor/) to the events that you want to support, and also [register](../register-for-an-event.md) to attend an event.
 
 1. Navigate to [Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org).
-2. From [Events](./#Dashboard-Events) tab, select an event to navigate to the event's dashboard.&#x20;
+2. From [Events](./#Dashboard-Events) tab, select an event to navigate to the event's dashboard.
 3. Select one of the following tabs to view details:
    * [Overview](events.md#Events-Overview)
    * [Dashboard](events.md#Events-Dashboard)
@@ -44,7 +44,7 @@ Dashboard shows various aspects of the event.
 \
 View an example of an event dashboard section:
 
-![](<../../.gitbook/assets/7418517 (1).jpg>)
+![](../../.gitbook/assets/7418517.jpg)
 
 ## Financial <a href="#events-financial" id="events-financial"></a>
 

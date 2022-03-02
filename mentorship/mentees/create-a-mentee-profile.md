@@ -33,33 +33,33 @@ Keep these items ready before you begin:
 Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 {% endhint %}
 
-4\. Select the **Terms and Conditions** checkbox, and click **Submit**.&#x20;
+4\. Select the **Terms and Conditions** checkbox, and click **Submit**.
 
 ## User Information <a href="#createamenteeprofile-menteeprofile" id="createamenteeprofile-menteeprofile"></a>
 
-Your name and email fields are auto-populated from your Linux Foundation account. Upload an avatar image, which will appears on your mentee card.&#x20;
+Your name and email fields are auto-populated from your Linux Foundation account. Upload an avatar image, which will appears on your mentee card.
 
 ## Introduction <a href="#createamenteeprofile-introduction" id="createamenteeprofile-introduction"></a>
 
-Introduce yourself by answering the questions required to complete this section.&#x20;
+Introduce yourself by answering the questions required to complete this section.
 
 ![Introduction](<../../.gitbook/assets/mentee introduction.png>)
 
 ## Mailing Address <a href="#createamenteeprofile-mailingaddress" id="createamenteeprofile-mailingaddress"></a>
 
-Provide a mailing address.&#x20;
+Provide a mailing address.
 
-![Mentee Mailing Address](<../../.gitbook/assets/7418798 (1).jpg>)
+![Mentee Mailing Address](../../.gitbook/assets/7418798.jpg)
 
 ## External Profile Links <a href="#createamenteeprofile-externalprofilelinks" id="createamenteeprofile-externalprofilelinks"></a>
 
 Provide links to your external profiles and upload your resume. Mentee resumes will be shared with mentors during the application process. After graduation, the resumes may be shared with prospective employers.
 
-![External Profile Links](<../../.gitbook/assets/7418797 (1).png>)
+![External Profile Links](../../.gitbook/assets/7418797.png)
 
 ## Skills <a href="#createamenteeprofile-skills" id="createamenteeprofile-skills"></a>
 
-Click on **+Add skill** CTA to add your current skills and skills that you want to improve. These are important for the admin and mentors to determine if you're a good fit fo the program.&#x20;
+Click on **+Add skill** CTA to add your current skills and skills that you want to improve. These are important for the admin and mentors to determine if you're a good fit fo the program.
 
 ## Demographics <a href="#createamenteeprofile-demographics" id="createamenteeprofile-demographics"></a>
 

@@ -5,7 +5,7 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 1\. Sign in to [https://www.expensify.com/signin](https://www.expensify.com/signin).\
 **Note:** Ensure that you select the travel fund policy that is associated with the event you are approved for.
 
-![Travel Funds](<../.gitbook/assets/Travel Fund Policy.png>)
+![Travel Funds](<../.gitbook/assets/travel-fund-policy (1).png>)
 
 2\. Under your account, select **Reports** tab.
 
@@ -32,11 +32,11 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 **Category:** Choose a category—Accommodation, Airfare, Ground Transportation, Other.‌\
 **Event:** Choose the event that you were approved for.\
 **Description:** A brief description of _category_ + _event name_ as shown in the "New Expense" image.\
-![](<../.gitbook/assets/Choose Event.png>)
+![](../.gitbook/assets/choose-event.png)
 
-![New Expense](<../.gitbook/assets/New Expense (1).png>)
+![New Expense](<../.gitbook/assets/new-expense (1).png>)
 
-&#x20;7\. Click **Save** and repeat Step 6 if you want to add more receipts.
+7\. Click **Save** and repeat Step 6 if you want to add more receipts.
 
 ![](<../.gitbook/assets/Create an Expense.png>)
 
@@ -52,10 +52,8 @@ Wire Transfer Form
 
 ![](<../.gitbook/assets/Submit Report.png>)
 
-
-
 {% hint style="warning" %}
-**Important**:  If you reside in the United States, add a US bank deposit account to Expensify by navigating to  **Settings** > **Account** > **Payments** > **Bank Accounts** as shown below.
+**Important**: If you reside in the United States, add a US bank deposit account to Expensify by navigating to **Settings** > **Account** > **Payments** > **Bank Accounts** as shown below.
 {% endhint %}
 
 ![For U.S. Residents](<../.gitbook/assets/Add US Bank Account.png>)

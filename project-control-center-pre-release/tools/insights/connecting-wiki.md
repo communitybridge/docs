@@ -24,11 +24,11 @@ For more information on how to setup Mailing List, refer [Setting up Wiki](https
 
 ![Configure Wiki](../../../.gitbook/assets/Wiki\_Confg.png)
 
-5.The Wiki page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Wiki and update the following details and click **Connect**.
+5.The Wiki page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Wiki and update the following details and click **Connect**.
 
-| Field      | Action                                                        |
-| ---------- | ------------------------------------------------------------- |
-| Wiki       | Enter valid Wiki URL. |
+| Field | Action                |
+| ----- | --------------------- |
+| Wiki  | Enter valid Wiki URL. |
 
 6.The connected Jira is listed under Configure Account, click **Save** to complete the Jira.
 
@@ -37,6 +37,7 @@ The green dot under Instrumentation Status indicates that the Jira is enabled.
 {% endhint %}
 
 ## Disabling Wiki Account
+
 You can disable the connected Wiki account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Jira, perform the following:
@@ -51,7 +52,7 @@ You can delete the connected Wiki account permanently. Deleting a Jira account w
 
 To delete the Jira account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Jira URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Jira URL appears, click **Disconnect**.
 
 OR
 

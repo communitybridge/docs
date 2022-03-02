@@ -34,7 +34,7 @@ To add a user as an administrator, perform the following steps:
 6.An invite will be sent to the user on their registered email ID. Until the user accepts the invitation, the user will be listed with status showing as **Pending**. Once the user accepts the invitation, the status changes to **Active**.
 
 {% hint style="info" %}
-Click the delete ![](../.gitbook/assets/Delete\_Icon.png) icon to delete a user from the administrator list.
+Click the delete ![](../.gitbook/assets/delete\_icon.png) icon to delete a user from the administrator list.
 {% endhint %}
 
 ## Managing Project Specific Teams

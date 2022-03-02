@@ -16,10 +16,10 @@ To connect Docker Hub, perform the following:
 
 ![Connect Docker Hub](../../../.gitbook/assets/Doc\_Connect.png)
 
-5.The Connect Docker Hub Organizations page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Docker Hub account and update the following details and click **Connect**.
+5.The Connect Docker Hub Organizations page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Docker Hub account and update the following details and click **Connect**.
 
-| Field             | Action                                                               |
-| ----------------- | -------------------------------------------------------------------- |
+| Field             | Action                                                                       |
+| ----------------- | ---------------------------------------------------------------------------- |
 | Organization Name | Enter the organization name that you want to configure for the docker image. |
 
 6.The connected Docker Hub account is listed under Configure Account, click **Save** to complete the Docker Hub connection.
@@ -44,7 +44,7 @@ You can delete the connected Docker Hub account permanently. Deleting a Docker H
 
 To delete the Docker Hub account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Docker Hub URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Docker Hub URL appears, click **Disconnect**.
 
 OR
 

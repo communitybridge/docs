@@ -10,11 +10,11 @@ A global trends dashboard, the default landing page, for LFX Insights shows data
 * **Project Group Trends:** Shows aggregated performance data of all sub projects under the project group or foundation.
 * **Individual Project Trends:** Shows aggregated performance data of the individual project.
 
-![](<../../.gitbook/assets/landing page global trends.png>)
+![](../../.gitbook/assets/landing-page-global-trends.png)
 
 **Project Card View**: You can still see the old project card view by clicking _View All Projects_ tab or search for the project using _Search Projects_ filed.
 
-![](<../../.gitbook/assets/view all projects tab.png>)
+![](../../.gitbook/assets/view-all-projects-tab.png)
 
 **Enhancement of project and project group landing page**: The project and project group landing page shows the Trends dashboard when you click on a project card. This makes it easier to view aggregated metrics data for a project group, and to view sub groups under the project group.
 
@@ -24,7 +24,7 @@ A global trends dashboard, the default landing page, for LFX Insights shows data
 
 You can view all the sub projects under a project group, navigate to the sub project page by clicking a sub project, and search for a sub project using the Search project field.
 
-![](<../../.gitbook/assets/view sub projects of a project group (1).png>)
+![](<../../.gitbook/assets/view-sub-projects-of-a-project-group (1).png>)
 
 **High level aggregated all-time stats at the project level**: The aggregated statistics across key code and ecosystem related metrics at each project level are displayed which is an extension to the previous high level statistics that were available only at the project group level.
 

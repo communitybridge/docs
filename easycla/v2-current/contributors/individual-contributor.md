@@ -50,8 +50,8 @@ DocuSign presents the ICLA document for your signature.
 {% hint style="info" %}
 **Result:**
 
-* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA.&#x20;
-* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download icla.png>)&#x20;
+* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA.
+* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download icla.png>)
 {% endhint %}
 
 You are redirected to GitHub. Wait a few seconds or refresh the page for the EasyCLA status to be updated. A check mark appears next to your branch.
@@ -104,9 +104,9 @@ DocuSign presents the ICLA document for your signature.
 **Result:**
 
 * A message appears informing you that you have signed the ICLA.
-* You will also receive an email from The Linux Foundation, informing you that you have signed the ICLA.&#x20;
+* You will also receive an email from The Linux Foundation, informing you that you have signed the ICLA.
 * You can download the PDF document by clicking the link from the email. You will be redirected to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**.\
-  ![](<../../../.gitbook/assets/proceed to download icla.png>)&#x20;
+  ![](<../../../.gitbook/assets/proceed to download icla.png>)
 {% endhint %}
 
 13\. Navigate to the Gerrit project, and start contributing.
@@ -114,7 +114,7 @@ DocuSign presents the ICLA document for your signature.
 {% hint style="warning" %}
 **Important:** If the status on Git command line still shows "No contributor agreement" when you push the code change, you need to navigate to the Gerrit window, **sign out**, **sign in** again, and then push the code.
 
-![](<../../../.gitbook/assets/signout gerrit.png>)&#x20;
+![](<../../../.gitbook/assets/signout gerrit.png>)
 {% endhint %}
 
 ## GitLab
@@ -127,7 +127,7 @@ DocuSign presents the ICLA document for your signature.
 2. A cross next to a contributor's name means the EasyCLA check has failed, because the contributor is not authorized under a signed CLA.
 {% endhint %}
 
-![CLA Not Covered](<../../../.gitbook/assets/cla not covered.png>)
+![CLA Not Covered](../../../.gitbook/assets/cla-not-covered.png)
 
 3\. Click![](<../../../.gitbook/assets/lfx easycla.png>) or **Not Covered**.
 
@@ -159,12 +159,12 @@ DocuSign presents the ICLA document for your signature.
 {% hint style="info" %}
 **Result:**
 
-* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA.&#x20;
-* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download icla.png>)&#x20;
+* You will receive an email from The Linux Foundation, informing you that you have signed the ICLA.
+* You can download the PDF document by clicking the link from the email. You will be re-directed to the Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download icla.png>)
 {% endhint %}
 
 You are redirected to GitLab. Wait a few seconds or refresh the page for the EasyCLA status to be updated. A check mark appears next to your branch.
 
-![CLA Covered](<../../../.gitbook/assets/cla covered.png>)
+![CLA Covered](../../../.gitbook/assets/cla-covered.png)
 
 8\. Ask someone with write access to the repository to merge your commit request.

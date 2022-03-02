@@ -16,7 +16,7 @@ To connect Jenkins, perform the following:
 
 ![Jenkins Connector](../../../.gitbook/assets/Jen\_Conc.png)
 
-5.The Connect Jenkins Public URL page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Jenkins, update the following details and click **Connect**.
+5.The Connect Jenkins Public URL page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Jenkins, update the following details and click **Connect**.
 
 | Field       | Action                   |
 | ----------- | ------------------------ |
@@ -33,6 +33,7 @@ The green dot under Instrumentation Status indicates that the Jenkins is enabled
 {% endhint %}
 
 ## Disabling Jenkins Account
+
 You can disable the connected Jenkins account as per your requirement. You can enable or disable the account to suit your needs. Disabling an account does not remove the complete account information. It only puts the account in disabled mode.
 
 To disable Jenkins, perform the following:
@@ -49,7 +50,7 @@ You can delete the connected Jenkins account permanently. Deleting a Groups.io a
 
 To delete the Jenkins account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect Jenkins URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect Jenkins URL appears, click **Disconnect**.
 
 OR
 

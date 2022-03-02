@@ -36,4 +36,4 @@ After you add a [Gerrit organization](add-and-manage-gerrit-organizations.md#add
 2. Turn on or turn off the **Enforce CLA** toggle key to enforce or remove all the projects from CLA mechanism at a time.
 3. To enforce or remove CLA from individual projects, turn on the toggle key next to a project, and click **Yes**.
 
-![Enforce or Remove CLA from GitLab](<../../../.gitbook/assets/enforce or remove CLA for GitLab.png>)
+![Enforce or Remove CLA from GitLab](../../../.gitbook/assets/enforce-or-remove-cla-for-gitlab.png)

@@ -16,7 +16,7 @@ To connect CircleCI, perform the following:
 
 ![CircleCI](../../../.gitbook/assets/Circ\_Connect.png)
 
-5.The Connect CircleCI Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure CircleCI account and update the following details and click **Connect**.
+5.The Connect CircleCI Account page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure CircleCI account and update the following details and click **Connect**.
 
 | Field        | Action                                            |
 | ------------ | ------------------------------------------------- |
@@ -44,7 +44,7 @@ You can delete the connected CircleCI account permanently. Deleting a CircleCI a
 
 To delete the CircleCI account, perform the following:
 
-1.Click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon available under Manage tab. The Disconnect CircleCI URL appears, click **Disconnect**.
+1.Click the delete ![](../../../.gitbook/assets/delete\_icon.png) icon available under Manage tab. The Disconnect CircleCI URL appears, click **Disconnect**.
 
 OR
 

@@ -20,7 +20,7 @@ If you are a contributor or mentor of the project in GitHub, perform the followi
 
 2.The Authorization page appears. Click **Connect to GitHub**.
 
-![GitHub](<../.gitbook/assets/Sec1 - Copy (1).png>)
+![GitHub](<../.gitbook/assets/Sec1 - Copy.png>)
 
 3\. The Authorization window between GitHub and Linux Foundation appears. Click **Authorize linuxfoundation**.
 
@@ -68,7 +68,7 @@ For more information on adding organization details in My Profile, see [Organiza
 
 3.The **Send Code** button is enabled, click **Send Code** to get the authorization code. You will receive the authorization code in the registered email ID. Enter the code and click **Continue with Member Access** to view project issues.
 
-![](../.gitbook/assets/4.png)
+![](<../.gitbook/assets/4 (1).png>)
 
 ### Organization Details Available in My Profile
 
