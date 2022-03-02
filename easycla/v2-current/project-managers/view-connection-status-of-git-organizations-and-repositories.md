@@ -2,8 +2,6 @@
 
 After you add a GitHub or Gerrit organization or GitLab group, the organizations or groups are displayed with different colors referring to their connection statuses. The following is an example:
 
-![](<../../../.gitbook/assets/github organization connection status.png>)
-
 ![Git Organization Connection Status](https://docs.linuxfoundation.org/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYOFDf7emdfValpgSIU%2F-MYORveInxrclFsUvUa5%2Fgithub%20organization%20connection%20status.png?alt=media\&token=936ddffc-4f11-4bab-b080-dbb2dab0433c)
 
 * ​![](https://docs.linuxfoundation.org/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MGgGDh5YsW-7vaCluVV%2F-MGh5g18AZefEt1wpYYV%2Fconnected%20green%20color.png?alt=media\&token=3ee52f88-3621-4e59-a8d3-f8d1c1c50005)indicates _full connection_: all the repositories of the organization are connected.
