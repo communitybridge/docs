@@ -49,6 +49,8 @@ After you successfully add GitHub organization, you can:
 
 ​11. Select repositories, and click **Install**.
 
+![Selecting Individual repositories and Install EasyCLA App](<../../../.gitbook/assets/selecting individual repositories.png>)
+
 {% hint style="info" %}
 **Note:**
 
@@ -70,7 +72,7 @@ After adding the GitHub organization, you should enable branch protection and au
 * **Enable Branch Protection** automatically enables the EasyCLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../getting-started/easycla-troubleshooting/easycla-disabled.md#enable-branch-protection).
 * **Auto Enable New Repositories** automatically adds a repository under the GitHub organization on the project console when you add the repository to the GitHub organization.
 
-1\. Click the settings icon next to **Additional Settings** for a GitHub organization.
+1\. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitHub organization.
 
 2\. Click both the check boxes, and click **Save Changes**.
 
@@ -78,8 +80,8 @@ After adding the GitHub organization, you should enable branch protection and au
 
 ## Disassociate GitHub Organization <a href="#disassociate-github-organization" id="disassociate-github-organization"></a>
 
-1\. Click the settings icon next to **Additional Settings** for a GitHub organization.
+1\. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitHub organization.
 
 2\. Click **Disassociate GitHub Org**, and click the link to create a support ticket to disassociate the GitHub org.
 
-![Additional Settings - Disassociate GitHub Organization](https://docs.linuxfoundation.org/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLEadh9tUu-8W00\_mk%2Fadditional%20setttings.png?alt=media\&token=9d67e276-b5cb-464e-9c43-54af26b36944)
+![Disassociate GitHub Org](<../../../.gitbook/assets/disassociate github org.png>)
