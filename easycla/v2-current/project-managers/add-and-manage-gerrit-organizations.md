@@ -21,9 +21,9 @@ After you successfully add Git organizations, you can:
 
 1\. Click the **+** sign at the top right of Add Gerrit Organization.
 
-![Add Gerrit Organization](https://docs.linuxfoundation.org/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MUCVklTQZW8sJpK2HLG%2F-MUDZj7HiVsJRLs2mGs3%2Fadd%20gerrit%20organization.png?alt=media\&token=ace2a9b7-cdf9-49a7-a0ea-dd44783827f6)
+![Add Gerrit Organization ](<../../../.gitbook/assets/add gerrit organization.png>)
 
-2\. Complete the form fields, and click **Connect**.&#x20;
+2\. Complete the form fields, and click **Connect**.
 
 > **Gerrit Instance Name** - Name of the Gerrit Instance
 >
@@ -41,14 +41,14 @@ After you successfully add Git organizations, you can:
 * One or both LDAP groups must exist for you to be able to create a Gerrit instance. If a group does not exist, an error message appears and you are prevented from creating a Gerrit instance.
 {% endhint %}
 
-The EasyCLA project console lists the CLA-enabled instances, as shown below.​​&#x20;
+The EasyCLA project console lists the CLA-enabled instances, as shown below.​​
 
 **Note:** You cannot disable the CLA check for individual Gerrit repositories.
 
-![Gerrit Instances](https://docs.linuxfoundation.org/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MHLgxt0yyY5C8JVm7Sh%2F-MHLi3TkO\_YVgD5b4YJ9%2Fgerrit%20instances.png?alt=media\&token=94d94daa-c824-407f-b604-3ca336b28aa2)
+![Gerrit Instances](<../../../.gitbook/assets/gerrit instances.png>)
 
 ## Disassociate Gerrit Organization <a href="#disassociate-gerrit-organization" id="disassociate-gerrit-organization"></a>
 
 1\. Click **Disassociate Gerrit** next to a Gerrit Instance, and click **Yes, Disconnect** on the confirmation page.
 
-![Disassociate Gerrit](https://docs.linuxfoundation.org/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MGgGDh5YsW-7vaCluVV%2F-MGgzMKnb6nZs2XU0zOh%2Fdisassociate%20gerrit%20organization.png?alt=media\&token=d7abd234-c704-4809-bc98-7a3c40cca775)
+![Disassociate Gerrit](<../../../.gitbook/assets/disassociate gerrit organization.png>)
