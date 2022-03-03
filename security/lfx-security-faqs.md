@@ -26,6 +26,18 @@ These users are given elevated Contributor/Maintainer permission. They can dismi
 
 Dependency and vulnerability scanning is currently supported for JavaScript, Node.js (npm), Java, Scala, Ruby, Python, Golang, and PHP.
 
+## Why is there a mismatch between "Vulnerabilities Fixed" and "Top 10 projects most active in fixing vulnerabilities"? <a href="#vulnerabilitydetectionfaqs-howarelicensesidentified" id="vulnerabilitydetectionfaqs-howarelicensesidentified"></a>
+
+On the Security Leaderboard, you can see "Vulnerabilities Fixed" count and "Top 10 projects most active in fixing vulnerabilities" count. In general, both counts should match.&#x20;
+
+"Vulnerabilities Fixed" value is a count of distinct (or unique) vulnerabilities found in all the projects that were scanned.
+
+"Top 10 projects most active in fixing vulnerabilities" value is the total count of distinct or unique vulnerabilities in that particular project.&#x20;
+
+For example, if the "Vulnerabilities Fixed" count is 100, the "Top 10 projects most active in fixing vulnerabilities" when added should be 100. But on the Security Leaderboard, the "Top 10 projects most active in fixing vulnerabilities" count is always higher then "Vulnerabilities Fixed".&#x20;
+
+The reason behind this mismatch is repetition of vulnerabilities in another project. This repetition of vulnerabilities will add up in the "Top 10 projects most active in fixing vulnerabilities".
+
 ## How are licenses identified? <a href="#vulnerabilitydetectionfaqs-howarelicensesidentified" id="vulnerabilitydetectionfaqs-howarelicensesidentified"></a>
 
 LFX Security uses Snyk to scan a project’s Git-based repository and identifies dependencies’ licenses against the SPDX license list. License identification varies by ecosystem, but generally it is done by reviewing stated license on the package, retrieving metadata from the registry, and license information in manifest files.
