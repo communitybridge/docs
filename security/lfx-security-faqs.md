@@ -36,7 +36,7 @@ On the Security Leaderboard, you can see "Vulnerabilities Fixed" count and "Top 
 
 For example, if the "Vulnerabilities Fixed" count is 100, the "Top 10 projects most active in fixing vulnerabilities" when added should be 100. But on the Security Leaderboard, the "Top 10 projects most active in fixing vulnerabilities" count is always higher then "Vulnerabilities Fixed".&#x20;
 
-The reason behind this mismatch is repetition of vulnerabilities in another project. This repetition of vulnerabilities will add up in the "Top 10 projects most active in fixing vulnerabilities".
+The reason behind this mismatch is repetition of vulnerabilities in other projects. This repetition of vulnerabilities will add up in the "Top 10 projects most active in fixing vulnerabilities".
 
 ## How are licenses identified? <a href="#vulnerabilitydetectionfaqs-howarelicensesidentified" id="vulnerabilitydetectionfaqs-howarelicensesidentified"></a>
 
