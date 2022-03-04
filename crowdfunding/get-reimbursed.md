@@ -51,7 +51,7 @@ The Linux Foundation Wire Transfer Form
 
 ## Submit an Expense Report: <a href="#getreimbursed-submitanexpensereport" id="getreimbursed-submitanexpensereport"></a>
 
-1. Follow these [steps in Expensify](https://docs.linuxfoundation.org/docs/communitybridge/crowd-funding/how-to-create-and-submit-an-expensify-report) to create and submit an expense report.\
+1. Follow these [steps in Expensify](https://docs.linuxfoundation.org/lfx/crowdfunding/how-to-create-and-submit-an-expensify-report) to create and submit an expense report.\
    After you submit your report, the approver reviews your reimbursement request and approves or rejects it. Next, a Linux Foundation administrator validates the expense and approves or rejects the reimbursement. Expensify funds your account.
 2. Upon approval notification, go to your account to access your reimbursement money. It may take up to 30 business days for the funds to be deposited to your bank account.\*
 
