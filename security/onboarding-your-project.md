@@ -59,7 +59,7 @@ Make sure that you logged into the GitHub.
 
 Click **Install & Authorize** to install the LFX Security GitHub App.
 
-For more information on permissions, refer [GitHub App Permissions](onboarding-your-project.md#security-bot-uninstallation).
+For more information on permissions, refer [GitHub App Permissions](onboarding-your-project.md#repository-permissions).
 
 ![Installation Permissions](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda-VDpqAUlhN8R8l0O%2F-Mda0Y05c0Cd9uERFvr\_%2FInstall.png?alt=media\&token=f96cedc0-9617-4673-8b23-edf297039fc5)
 
