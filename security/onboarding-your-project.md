@@ -59,6 +59,8 @@ Make sure that you logged into the GitHub.
 
 Click **Install & Authorize** to install the LFX Security GitHub App.
 
+For more information on permissions, refer [GitHub App Permissions](onboarding-your-project.md#security-bot-uninstallation).
+
 ![Installation Permissions](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda-VDpqAUlhN8R8l0O%2F-Mda0Y05c0Cd9uERFvr\_%2FInstall.png?alt=media\&token=f96cedc0-9617-4673-8b23-edf297039fc5)
 
 8.The LFX Security Service GitHub app is installed successfully. You can see the installation success message.
@@ -80,6 +82,33 @@ A green dot present with the GitHub organization name indicates that the Securit
 {% endhint %}
 
 ![GitHub Organization](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda1J-8wCyl01h8FL5W%2F-Mda314iwtsBVKz0r-dW%2FGithub%20-%20Copy.png?alt=media\&token=fa8bd9e0-71b0-4c9a-aea9-5584ac639dbd)
+
+## GitHub Application Permissions  <a href="#security-bot-uninstallation" id="security-bot-uninstallation"></a>
+
+GitHub  has been authorized with the following permissions:
+
+### Repository Permissions&#x20;
+
+* [Administration](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-administration): read-only (so that we can discover new repositories, identify when repositories are transferred, determine if a repository is archived, deleted, etc.)
+* [Contents](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-contents): read-only (view details about the repositories)
+* [Metadata](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#metadata-permissions): read-only - required
+* [Pull Requests](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-pull-requests): read-write - allows Snyk to create pull requests based on fixable vulnerabilities (e.g. version bumps)&#x20;
+* [Webhooks](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-repository-hooks) - read-write - required to add callbacks when PRs are created, when updates are pushed to the main branch, etc.
+* [Commit Status](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-statuses) - read-only - get commit status details
+
+### Organization Permissions&#x20;
+
+* [Webhooks](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-organization-hooks) - read-write - required to add callbacks when events occur for the organization
+
+### User Permissions&#x20;
+
+* [Email addresses](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-emails) - read-only - ability to public read user emails.
+
+{% hint style="info" %}
+As on 12/02/2021 adjusted permissions to include webhooks. These additional configurations will allow us to monitor changes in user permissions. The plan is to collect the initial list of permissions when the GitHub app is installed and add the details to the datalake. Additionally, we want to register and receive any callbacks which change the permissions model in the future.
+{% endhint %}
+
+![GitHub Permissions](<../.gitbook/assets/LFX Security - GitHub App Permissions.png>)
 
 ## Security Bot Uninstallation <a href="#security-bot-uninstallation" id="security-bot-uninstallation"></a>
 
