@@ -83,7 +83,7 @@ A green dot present with the GitHub organization name indicates that the Securit
 
 ![GitHub Organization](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda1J-8wCyl01h8FL5W%2F-Mda314iwtsBVKz0r-dW%2FGithub%20-%20Copy.png?alt=media\&token=fa8bd9e0-71b0-4c9a-aea9-5584ac639dbd)
 
-## GitHub Application Permissions  <a href="#security-bot-uninstallation" id="security-bot-uninstallation"></a>
+## GitHub Application Permissions&#x20;
 
 GitHub  has been authorized with the following permissions:
 
