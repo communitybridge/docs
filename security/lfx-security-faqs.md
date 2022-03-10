@@ -6,7 +6,7 @@ LFX Security is a service that helps the open source developers identify and rem
 
 ## Does LFX Security automatically scan my project’s code? <a href="#vulnerabilitydetectionfaqs-doescommunitybridgeautomaticallyscanmyprojectscode" id="vulnerabilitydetectionfaqs-doescommunitybridgeautomaticallyscanmyprojectscode"></a>
 
-Yes, if your project is set up on Linux Foundation database, then LFX Security automatically scans your code on a weekly basis, and adds any detected vulnerabilities to your project dashboards. Issues are classified as critical, high, medium, or low risk based on information in databases including  Common _Weakness_ Enumeration (CVE), Common _Vulnerabilities_ and Exposures (CWE) GitHub Advisory Database (GHSA). An inventory of your project’s detected dependencies and licenses is mapped along with the dependency details. LFX Security also scans for code secrets and non inclusive language.&#x20;
+Yes, if your project is set up on Linux Foundation database, then LFX Security automatically scans your code on a weekly basis, and adds any detected vulnerabilities to your project dashboards. Issues are classified as critical, high, medium, or low risk based on information in databases including  Common _Weakness_ Enumeration (CVE), Common _Vulnerabilities_ and Exposures (CWE), GitHub Advisory Database (GHSA). An inventory of your project’s detected dependencies and licenses is mapped along with the dependency details. LFX Security also scans for code secrets and non inclusive language.&#x20;
 
 ## What do Critical/High/Medium/Low Vulnerabilities mean?
 
