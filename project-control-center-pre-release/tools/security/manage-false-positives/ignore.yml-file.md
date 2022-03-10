@@ -28,4 +28,4 @@ Ignore by file path
 - secret_types: password_assignment
 ```
 
-Content Credit from [Blubracket Article](https://support.blubracket.com/hc/en-us/articles/4408108989076-Repository-ignore-yaml-file).&#x20;
+Content Credit from Blubracket Article.&#x20;
