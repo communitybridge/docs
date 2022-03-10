@@ -4,7 +4,7 @@ In certain scenarios, if the administrator wants to ignore specific secret types
 
 When a match of the ignore file is made, an alert will not be created (but an event will still be generated).
 
-Example below is a repository called Test1, which has a .blubracket folder and within the folder is the ignore.yaml file.
+For example, below is a repository called Test1, which has a .blubracket folder and within the folder is the ignore.yaml file.
 
 ![Ignore.yml File ](../../../../.gitbook/assets/Ignore.png)
 
@@ -28,4 +28,4 @@ Ignore by file path
 - secret_types: password_assignment
 ```
 
-Content Credit from Blubracket Article.&#x20;
+Content Credit from [Blubracket Article](https://docs.blubracket.com/how-to/ignore-rules/per-repo/).&#x20;
