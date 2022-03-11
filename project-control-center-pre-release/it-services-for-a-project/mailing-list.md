@@ -45,13 +45,6 @@ You can configure mailing list in three different ways:
 
 
 
-| **Field**                  | **Action**                                 |
-| -------------------------- | ------------------------------------------ |
-| List Name                  | Enter the name of the mailing list         |
-| Posting Permissions        | Select the required posting permissions    |
-| Select Associate Committee | Select the required committee              |
-| Description                | Provide a description for the mailing list |
-
 ## Adding Members to the Mailing List&#x20;
 
 You can added the required members in the mailing list.&#x20;
