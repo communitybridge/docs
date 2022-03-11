@@ -102,7 +102,7 @@ GitHub  has been authorized with the following permissions:
 
 ### User Permissions&#x20;
 
-* [Email addresses](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-emails) - read-only - ability to public read user emails.
+* [Email addresses](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-emails) - read-only - ability to read public email ID's.
 
 {% hint style="info" %}
 As on 12/02/2021 adjusted permissions to include webhooks. These additional configurations will allow us to monitor changes in user permissions. The plan is to collect the initial list of permissions when the GitHub app is installed and add the details to the datalake. Additionally, we want to register and receive any callbacks which change the permissions model in the future.
