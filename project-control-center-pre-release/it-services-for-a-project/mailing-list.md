@@ -22,7 +22,16 @@ You can also navigate to Mailing List from the Vertical Sidebar navigation menu.
 
 ![Add Mailing List ](<../../.gitbook/assets/Mailing List.png>)
 
-4.The Add Mailing List page appears. Click **Next** to configure mailing list.&#x20;
+4.The Add Mailing List page appears. Click **Next** and enter the following details **** to configure mailing list.&#x20;
+
+
+
+| **Field**                  | **Action**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| List Name                  | Enter the name of the mailing list                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Posting Permissions        | <p>Select the required posting permissions. There are three type of permissions:<br>- <strong>Moderated Discussions</strong>:  New members cannot post to the list without their emails being approved by a moderator. For new lists, this uses a Groups.io setting that will only moderate users for their first 3 posts.<br>- <strong>Open Discussion</strong>: New members can immediately post to the list.<br>- <strong>Announcement</strong>: Only moderators can post to the list.</p> |
+| Select Associate Committee | Select the required committee                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Description                | Provide a description for the mailing list                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 The Mailing list page also provides you with a list of different ways to configure mailing list.&#x20;
 
@@ -33,6 +42,15 @@ You can configure mailing list in three different ways:
 * You can configure existing Groups.io domain which is not connected to PCC.
 
 ![Add Mailing List ](<../../.gitbook/assets/Add Mail List.gif>)
+
+
+
+| **Field**                  | **Action**                                 |
+| -------------------------- | ------------------------------------------ |
+| List Name                  | Enter the name of the mailing list         |
+| Posting Permissions        | Select the required posting permissions    |
+| Select Associate Committee | Select the required committee              |
+| Description                | Provide a description for the mailing list |
 
 ## Adding Members to the Mailing List&#x20;
 
@@ -67,25 +85,3 @@ To delete a member from the list, go to the Manage List Members page and click d
 
 You can manage the committee for the mailing list, for more details, please refer [Managing Committee](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/setup-services-for-a-project/committees-setup-for-a-project).
 
-## Adding Mailing List <a href="#adding-mailing-list" id="adding-mailing-list"></a>
-
-After setting up the Mailing List, you can add different mailing list.
-
-To add a Mailing List for a project, perform the following steps:
-
-1.Search for the required project. The Project dashboard appears. Click **Mailing Lists** from the **IT SERVICES STATUS** tab.
-
-2.In the Additional Mailing List tab, click **Add Mailing List**.
-
-![Add Mailing List](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMCEKzU4cepH8fPW0QZ%2F-MMCG3ys-Y\_7YhrSTMjF%2FAdd\_ML.png?alt=media\&token=0e742d86-b2cf-46d0-b31f-58f8c940fe09)
-
-3.The Add Mailing List dialog box appears. Update the following details and click **Add Mailing List**:
-
-| **Field**                  | **Action**                                 |
-| -------------------------- | ------------------------------------------ |
-| List Name                  | Enter the name of the mailing list         |
-| Posting Permissions        | Select the required posting permissions    |
-| Select Associate Committee | Select the required committee              |
-| Description                | Provide a description for the mailing list |
-
-![Mailing List Details ](<../../.gitbook/assets/Add Mail.png>)
