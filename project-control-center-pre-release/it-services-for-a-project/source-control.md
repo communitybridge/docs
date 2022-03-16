@@ -112,6 +112,10 @@ You can also navigate to Source Control from the Vertical Sidebar navigation men
 
 4.The Connect GitLab Group dialog box appears. Enter the **Group Name** and click **Connect**.
 
+{% hint style="info" %}
+The name of the group should be added and not the url or the ID.&#x20;
+{% endhint %}
+
 ![GitLab Group Name](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjEYXWtQ06emjLntt6%2FConnect\_Gitlab.png?alt=media\&token=5b16d66f-392d-40c9-a158-4e8d8b361c64)
 
 5.Once the connection is setup, you can see the status of GitLab project and its repositories.
