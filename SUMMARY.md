@@ -333,7 +333,7 @@
   * [Organization Profile](organization-dashboard-pre-release/organization-profile.md)
 * [Project Control Center (Pre-Release)](project-control-center-pre-release/README.md)
   * [Release Notes](project-control-center-pre-release/release-notes/README.md)
-    * [Security - March 15/2022 Release](project-control-center-pre-release/release-notes/security-march-15-2022-release.md)
+    * [PCC - March 15/2022 Release](project-control-center-pre-release/release-notes/pcc-march-15-2022-release.md)
   * [Overview](project-control-center-pre-release/overview.md)
   * [PCC Dashboard](project-control-center-pre-release/pcc-dashboard.md)
   * [Adding a Main Project](project-control-center-pre-release/adding-a-main-project.md)
