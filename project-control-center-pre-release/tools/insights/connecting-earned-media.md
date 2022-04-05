@@ -14,9 +14,9 @@ To connect Earned Media, perform the following:
 
 4.The Connector dialog box appears. Click **Connect**.
 
-![](<../../../.gitbook/assets/Conn\_Earned (1).png>)
+![](../../../.gitbook/assets/Conn\_Earned.png)
 
-5.The Connect Earned Media Account page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Earned Media account and update the following details and click **Save**.
+5.The Connect Earned Media Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Earned Media account and update the following details and click **Save**.
 
 | Field                   | Action                                                        |
 | ----------------------- | ------------------------------------------------------------- |

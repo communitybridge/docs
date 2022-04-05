@@ -14,7 +14,7 @@ To connect Jira, perform the following:
 
 4.The Connector dialog box appears. Click **Connect**.
 
-![Jira Connect](../../../.gitbook/assets/Jira\_Connect.png)
+![Jira Connect](<../../../.gitbook/assets/Jira\_Connect (1).png>)
 
 {% hint style="info" %}
 You should have setup Issue Tracking in the IT Services. Click **Configure on IT Services**.
@@ -24,7 +24,7 @@ For more information on how to setup Mailing List, refer [Mailing List](https://
 
 ![Configure Issue Tracking](../../../.gitbook/assets/Jira\_Config.png)
 
-5.The Connect Jira page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Jira and update the following details and click **Connect**.
+5.The Connect Jira page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Jira and update the following details and click **Connect**.
 
 | Field | Action                  |
 | ----- | ----------------------- |

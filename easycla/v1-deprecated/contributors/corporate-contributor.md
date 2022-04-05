@@ -82,13 +82,13 @@ This message appears if you are added to the approved list, and your CLA doesn't
 
 1\. Read the Confirmation of Association statement and select the checkbox.
 
-![](<../../../.gitbook/assets/cla-github-confirmation-of-association (1).png>)
+![](../../../.gitbook/assets/cla-github-confirmation-of-association.png)
 
 2\. Click **CONTINUE**.
 
 A dialog appears and informs you: You are done!
 
-![](<../../../.gitbook/assets/cla-github-you-are-done (1) (1).png>)
+![](<../../../.gitbook/assets/cla-github-you-are-done (1).png>)
 
 3\. Click **RETURN TO REPO**.
 

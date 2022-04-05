@@ -16,7 +16,7 @@ To connect GitHub, perform the following:
 
 ![GitHub Connector](../../../.gitbook/assets/Github\_Connect.png)
 
-5.The Connect GitHub Account page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure GitHub account and update the following details and click **Connect**.
+5.The Connect GitHub Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure GitHub account and update the following details and click **Connect**.
 
 | Field             | Action                                                             |
 | ----------------- | ------------------------------------------------------------------ |

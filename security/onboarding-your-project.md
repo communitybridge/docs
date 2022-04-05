@@ -28,9 +28,9 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 ![Security](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Md\_ivAMZ2h7xOPMQ1bm%2F-Md\_mIFlNU7OimypntPn%2FDash.png?alt=media\&token=9330c513-4ef2-44ef-bb59-a4bd0970f8d3)
 
-3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../.gitbook/assets/icon (1).png>) icon available next to **Connect**.
+3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../.gitbook/assets/Icon (1).png>) icon available next to **Connect**.
 
-![GitHub Onboarding](<../.gitbook/assets/github (1).png>)
+![GitHub Onboarding](../.gitbook/assets/GitHub.png)
 
 4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
 

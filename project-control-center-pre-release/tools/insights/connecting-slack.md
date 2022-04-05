@@ -16,7 +16,7 @@ To connect Slack, perform the following:
 
 ![Slack Connector](../../../.gitbook/assets/Slack\_Cont.png)
 
-5.The Connect Slack Workspace page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Slack, update the following details and click **Connect**.
+5.The Connect Slack Workspace page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Slack, update the following details and click **Connect**.
 
 | Field                        | Action                           |
 | ---------------------------- | -------------------------------- |

@@ -16,7 +16,7 @@ To connect Bugzilla, perform the following:
 
 ![Bugzilla Connect](../../../.gitbook/assets/Bug\_Connect.png)
 
-5.The Connect Bugzilla Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Bugzilla account and update the following details and click **Connect**.
+5.The Connect Bugzilla Account page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Bugzilla account and update the following details and click **Connect**.
 
 | Field        | Action                                             |
 | ------------ | -------------------------------------------------- |
@@ -44,7 +44,7 @@ To disable Bugzilla account, perform the following:
 
 2.The Disable Instrumentation dialog box appears. Click **Keep Data** to disable Bugzilla account.
 
-![Disable Bugzilla](../../../.gitbook/assets/Disable\_Bugzilla.gif)
+![Disable Bugzilla](<../../../.gitbook/assets/Disable\_Bugzilla (1).gif>)
 
 ## Deleting Bugzilla Account
 

@@ -26,7 +26,7 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 {% hint style="info" %}
 * You can delete the existing false positive parameter by click of delete ![](../../../../.gitbook/assets/delete\_icon.png) icon.
-* You can update the existing false positive parameter by click of edit ![](<../../../../.gitbook/assets/Edit\_Icon (1).png>) icon.
+* You can update the existing false positive parameter by click of edit ![](../../../../.gitbook/assets/Edit\_Icon.png) icon.
 {% endhint %}
 
 ![Add False Positive](../../../../.gitbook/assets/mp2.png)

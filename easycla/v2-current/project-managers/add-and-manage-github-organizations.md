@@ -63,7 +63,7 @@ If you select **Only select repositorie**s, then a newly added repository to the
 **Important:** To enable a CLA mechanism on a repository, you must [enforce CLA mechanism for GitHub repositories](enforce-or-remove-cla-mechanism.md#enforce-or-remove-cla-mechanism-from-github-repositories). Simply adding a GitHub organization to the project does not enable the EasyCLA mechanism for any CLA groups.
 {% endhint %}
 
-![GitHub Installation Completed](<../../../.gitbook/assets/installation completed.png>)
+![GitHub Installation Completed](<../../../.gitbook/assets/github installation completed.png>)
 
 ## Enable Branch Protection and Auto Enable New Repositories <a href="#enable-branch-protection-and-auto-enable-new-repositories" id="enable-branch-protection-and-auto-enable-new-repositories"></a>
 

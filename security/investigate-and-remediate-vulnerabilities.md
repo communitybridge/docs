@@ -73,4 +73,4 @@ To download the issues CSV file, perform the following:
 
 2.From the Issues banner, click the ![](../.gitbook/assets/Download\_Icon.png) icon. The exports.csv file will be downloaded. You can check all the information related to the repository issues in the downloaded file.
 
-![Download Issues](<../.gitbook/assets/Issues (2).png>)
+![Download Issues](<../.gitbook/assets/Issues (3).png>)

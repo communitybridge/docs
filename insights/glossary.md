@@ -83,7 +83,7 @@ _Gerrit_ is a free web-based team code collaboration tool. Software developers i
 
 _Git_ is an open source program for tracking changes in source code during software development.
 
-### GitHub ![](<../.gitbook/assets/18088191 (4) (3) (1) (1).png>)
+### GitHub ![](<../.gitbook/assets/18088191 (4) (3) (1) (2).png>)
 
 _GitHub_ is a web-based hosting service for version control using Git.
 
@@ -107,7 +107,7 @@ In GitHub, an _issue_ is a suggested improvement, task, or question that is rela
 
 _Jenkins_ is an open source continuous integration software tool for testing and reporting on changes in a code base in real time.
 
-### Jira ![](<../.gitbook/assets/18088260 (3) (3) (3) (3) (1) (1).png>)
+### Jira ![](<../.gitbook/assets/18088260 (3) (3) (3) (3) (1) (2).png>)
 
 _Jira_ is an issue tracking product that allows bug tracking and agile project management.
 
@@ -164,7 +164,7 @@ A _repository_ is an element in GitHub that contains all the project files (incl
 
 _Review Efficiency Index_ (REI) is the number of closed pull requests divided by the number of open ones in a given period of time.
 
-### Slack ![](<../.gitbook/assets/18088264 (2) (2) (2) (2) (1).png>)
+### Slack ![](<../.gitbook/assets/18088264 (2) (2) (2) (2) (1) (1).png>)
 
 _Slack_ is a cloud-based set of team collaboration tools and services.
 

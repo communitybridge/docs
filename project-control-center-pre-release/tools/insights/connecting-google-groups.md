@@ -16,7 +16,7 @@ To connect Google Groups, perform the following:
 
 ![Google Groups Connect](../../../.gitbook/assets/Google\_Connect.png)
 
-5.The Connect Google Groups Mail page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Google Groups and update the following details and click **Connect**.
+5.The Connect Google Groups Mail page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Google Groups and update the following details and click **Connect**.
 
 | Field              | Action                                                        |
 | ------------------ | ------------------------------------------------------------- |

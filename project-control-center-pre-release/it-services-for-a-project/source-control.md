@@ -80,7 +80,7 @@ To delete the GitHub organization that is added in the PCC, perform the followin
 
 ![GitHub Organization](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwCcGG1dBv-of9Ain%2FG1.png?alt=media\&token=3650f3de-977b-4541-a4d9-5cf6b3ef5dc2)
 
-4.Click the ![](<../../.gitbook/assets/Setting  (1).png>) icon and click **Disassociate**.
+4.Click the ![](<../../.gitbook/assets/Setting .png>) icon and click **Disassociate**.
 
 .
 

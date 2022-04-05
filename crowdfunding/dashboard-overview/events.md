@@ -44,7 +44,7 @@ Dashboard shows various aspects of the event.
 \
 View an example of an event dashboard section:
 
-![](../../.gitbook/assets/7418517.jpg)
+![](<../../.gitbook/assets/7418517 (1).jpg>)
 
 ## Financial <a href="#events-financial" id="events-financial"></a>
 

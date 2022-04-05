@@ -35,7 +35,7 @@ To add a committee for a project, perform the following steps:
 | Committee Documentation/Website | Enter the committee website URL of the committee which can provide the committee details such as policies, meetings and schedules |
 
 {% hint style="info" %}
-If you want to update the existing committee details, click the edit ![](../../.gitbook/assets/Edit\_Icon.png) icon.
+If you want to update the existing committee details, click the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
 
 If you want to delete the existing committee, click the delete ![](../../.gitbook/assets/delete\_icon.png)icon.
 {% endhint %}
@@ -52,7 +52,7 @@ To add a member to a committee, perform the following steps:
 
 2.The Committees page appears with the list of committees that are created for the project. Click **Add** from the required committee where you want to add the members.
 
-![Add Member](<../../.gitbook/assets/Add (1).png>)
+![Add Member](../../.gitbook/assets/Add.png)
 
 4.The Add Committee Member dialog box appears. Update the following details and click **Save**:
 
@@ -71,7 +71,7 @@ To add a member to a committee, perform the following steps:
 | Role End Date     | Select the role end date                |
 
 {% hint style="info" %}
-If you want to update the existing member details, click the edit ![](../../.gitbook/assets/Edit\_Icon.png) icon.
+If you want to update the existing member details, click the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
 
 If you want to send an email to a member, click the mail ![](../../.gitbook/assets/Mail.png) icon.
 {% endhint %}
@@ -112,13 +112,13 @@ To delete a member, perform the following steps:
 
 ![Committee](../../.gitbook/assets/Del\_Mem\_Com.png)
 
-3.The Committee page appears with list of members in it. Click the edit ![](../../.gitbook/assets/Edit\_Icon.png) icon
+3.The Committee page appears with list of members in it. Click the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon
 
 ![Member List](../../.gitbook/assets/Mem\_List.png)
 
 4.The Manage Committee Member dialog box appears. Click **Delete** to remove a member from the committee.
 
-![Delete Confirmation](<../../.gitbook/assets/Con\_Mem\_Del (1).png>)
+![Delete Confirmation](../../.gitbook/assets/Con\_Mem\_Del.png)
 
 ## Managing Meetings
 

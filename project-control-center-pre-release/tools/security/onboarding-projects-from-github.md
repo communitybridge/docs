@@ -16,9 +16,9 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 ![Security](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Md\_ivAMZ2h7xOPMQ1bm%2F-Md\_mIFlNU7OimypntPn%2FDash.png?alt=media\&token=9330c513-4ef2-44ef-bb59-a4bd0970f8d3)
 
-3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../../../.gitbook/assets/Icon (1).png>) icon available next to **Connect**.
+3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../../../.gitbook/assets/icon (1).png>) icon available next to **Connect**.
 
-![GitHub Onboarding](../../../.gitbook/assets/GitHub.png)
+![GitHub Onboarding](<../../../.gitbook/assets/github (1).png>)
 
 4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
 
@@ -151,25 +151,24 @@ To revoke the suspended Security service, click settings ![](https://firebasesto
 
 ![Unsuspend](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-MdwC24qZowncgFnTF9D%2F-MdwDBXMoede-dDXiOX0%2FUnsuspend.png?alt=media\&token=f41d5533-57c8-4c00-818d-7d0a8f81f643)
 
-## Associating Individual Repositories to the Project&#x20;
+## Associating Individual Repositories to the Project
 
 You can associate an individual repository to a project. PCC allows you to select an individual repository and allows you to assign it to a project.
 
 To associate an individual repository, perform the following:
 
-1.Login into PCC.&#x20;
+1.Login into PCC.
 
-2.Select the required project and click **Security** from the Tools dropdown menu.&#x20;
+2.Select the required project and click **Security** from the Tools dropdown menu.
 
 ![Security](../../../.gitbook/assets/Sec.png)
 
 {% hint style="info" %}
-Make sure you see **Security bot configured** status under **Configuration Status** column. You can only select the required repository if the security bot is configured. \
+Make sure you see **Security bot configured** status under **Configuration Status** column. You can only select the required repository if the security bot is configured. \\
 
-
-If the status shows as **Security bot not configured**, you cannot select the repository.&#x20;
+If the status shows as **Security bot not configured**, you cannot select the repository.
 {% endhint %}
 
-3\. Select the required individual repository from the **Assigned to Project** column  that you want to assign to the project.&#x20;
+3\. Select the required individual repository from the **Assigned to Project** column that you want to assign to the project.
 
-![Repository Selection ](<../../../.gitbook/assets/Select Sec (1).png>)
+![Repository Selection](<../../../.gitbook/assets/Select Sec.png>)

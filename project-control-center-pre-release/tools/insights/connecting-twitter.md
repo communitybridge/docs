@@ -16,7 +16,7 @@ To connect Twitter, perform the following:
 
 ![Twitter Connect](../../../.gitbook/assets/Twitter.png)
 
-5.The Connect Twitter URL page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Twitter, update the following details and click **Connect**.
+5.The Connect Twitter URL page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Twitter, update the following details and click **Connect**.
 
 | Field                  | Action                          |
 | ---------------------- | ------------------------------- |
@@ -40,7 +40,7 @@ To delete the Twitter, perform the following:
 
 1.Click **Disconnect**.
 
-![Twitter Disconnect](../../../.gitbook/assets/Twitter\_Disc.png)
+![Twitter Disconnect](<../../../.gitbook/assets/Twitter\_Disc (1).png>)
 
 2.The Disconnect Twitter Handle dialog box appears. Click **Disconnect** Twitter.
 

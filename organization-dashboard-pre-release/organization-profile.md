@@ -35,7 +35,7 @@ To update the organization details, perform the following steps:
 
 1.Click **Organization Profile** menu from the vertical sidebar menu.
 
-2.The Organization Profile page appears. Click the edit ![](../.gitbook/assets/Edit\_Icon.png) icon available in the organization banner or ribbon.
+2.The Organization Profile page appears. Click the edit ![](<../.gitbook/assets/Edit\_Icon (1).png>) icon available in the organization banner or ribbon.
 
 ![Organization Banner](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mhvusp89jU1qi9fCyiD%2F-MhvwIiIdG\_QgIBjnzYF%2FOrganization\_Banner.png?alt=media\&token=ff60dd42-3854-4776-8163-40faef58a07c)
 
@@ -65,7 +65,7 @@ You can only update the primary address. You cannot add a new primary address fr
 
 To update the primary address, perform the following:
 
-1.Click the edit ![](../.gitbook/assets/Edit\_Icon.png) icon on the primary address.
+1.Click the edit ![](<../.gitbook/assets/Edit\_Icon (1).png>) icon on the primary address.
 
 ![Primary Address](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mhw0gvzlxmAQxZoVYv4%2F-Mhw3KU4dEq2myvXO-yj%2FAdd\_Primary\_Address.png?alt=media\&token=3ff82865-c153-442e-bd8c-a6c3f5cbe991)
 
@@ -101,7 +101,7 @@ To update the billing address, perform the following:
 | **Country**         | Enter the country of your organization         |
 
 {% hint style="info" %}
-To update the existing billing address, click the edit ![](../.gitbook/assets/Edit\_Icon.png) icon.
+To update the existing billing address, click the edit ![](<../.gitbook/assets/Edit\_Icon (1).png>) icon.
 {% endhint %}
 
 ![Billing Address](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mhw0gvzlxmAQxZoVYv4%2F-Mhw5E9WzgRxPEYzDn8K%2FAdd\_Address\_Details.png?alt=media\&token=3ce0ef15-33cf-45f7-a752-24026b0b6adb)

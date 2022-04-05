@@ -26,7 +26,7 @@ As a CLA manager for a project, you can:
 
 4\. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (1) (1).png>)
+![Add Approval Criteria](<../../../.gitbook/assets/add-approval-criteria (1).png>)
 
 {% hint style="info" %}
 **Note:**
@@ -49,7 +49,7 @@ As a CLA manager for a project, you can:
 
 ## Edit a Contributor's Details <a href="#edit-a-contributors-details" id="edit-a-contributors-details"></a>
 
-Click ![](../../../.gitbook/assets/Edit\_Icon.png) in the row for one of the Approval List criteria, make edits, and click **Save**.
+Click ![](<../../../.gitbook/assets/Edit\_Icon (1).png>) in the row for one of the Approval List criteria, make edits, and click **Save**.
 
 ## Delete a Contributor's Details <a href="#delete-a-contributors-details" id="delete-a-contributors-details"></a>
 
