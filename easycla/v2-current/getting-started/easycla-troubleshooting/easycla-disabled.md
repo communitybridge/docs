@@ -26,7 +26,7 @@ You can also add the branch protection rule manually, as described below:
 
 5\. Select master for the Default branch. Click Edit or Add rule for Branch protection rules of your organization.
 
-![CLA GitHub branch Add Rule](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6c\_lpbFL3c2MHPwbCU%2F-M6cff1lRt1vuzydf87X%2Fcla-github-branch-add-rule.png?alt=media\&token=fa4437b4-3541-4d6e-914c-9bf05eb0615d)
+![CLA GitHub branch Add Rule](../../../../.gitbook/assets/cla-github-branch-add-rule.png)
 
 6\. Select the following check boxes under **Rule settings**, and click **Create**:
 
