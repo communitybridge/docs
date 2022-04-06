@@ -33,6 +33,8 @@ I have an agreement on file, but EasyCLA does not authorize me and displays "Mis
 
 ![Pull Request Commenting](<../../../../.gitbook/assets/pull request commenting.png>)
 
+<img src="pull request commenting.png" width="640" height=360 />
+
 ## (GitHub) Unable to contribute to EasyCLA-enforced repositories
 
 #### Problem:
