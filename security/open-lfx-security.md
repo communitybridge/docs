@@ -34,7 +34,7 @@ A Foundation project group is a group of individual projects. Normally Foundatio
 
 A Foundation project with group of individual projects are displayed as shown in the following image:
 
-![Foundation Projects](<../.gitbook/assets/Foundation (1).png>)
+![Foundation Projects](<../.gitbook/assets/Foundation (1) (1) (2).png>)
 
 #### View Individual Projects in the Foundation Project
 

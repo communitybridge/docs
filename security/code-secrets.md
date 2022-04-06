@@ -6,7 +6,7 @@ LFX Security has collaborated with BluBracket to scan for valuable private infor
 
 Code Secrets Detected donut chart provides you the number of code secrets detected in the project. It shows you various code secrets detected in the project. On click of the detected code secret, the page navigates to the Code Secret details page.
 
-![Code Secrets Detected](<../.gitbook/assets/Code Secret (1) (1).gif>)
+![Code Secrets Detected](<../.gitbook/assets/Code Secret (1) (1) (2).gif>)
 
 ## Scanning of Projects for Code Secrets <a href="#scanning-of-projects-for-code-secrets" id="scanning-of-projects-for-code-secrets"></a>
 

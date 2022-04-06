@@ -28,7 +28,7 @@ You can update the details of the domain by click of the edit ![](<../../.gitboo
 
 4.The Add Domain dialog box appears. Enter the **Domain Name** and click the **Check Availability** button.
 
-![Domain Name](../../.gitbook/assets/Add\_d.png)
+![Domain Name](<../../.gitbook/assets/Add\_d (1) (1).png>)
 
 5.The domain will be searched and checked against the following points:
 
@@ -120,7 +120,7 @@ To disable the auto renew of the domain, perform the following:
 
 ![Cancel Auto Renewal](../../.gitbook/assets/Disabled.png)
 
-3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1) (1) (1).png>) icon under Auto Renew column.&#x20;
+3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1) (1) (1) (2).png>) icon under Auto Renew column.&#x20;
 
 ![Disabled Status ](../../.gitbook/assets/Disabled\_Success.png)
 
@@ -136,7 +136,7 @@ To transfer a domain, perform the following:
 
 2.The Add Domain dialog box appears. Enter the name of the domain that you want to transfer to your project and click **Check Availability**.&#x20;
 
-![Check Availability](<../../.gitbook/assets/Add\_d (1) (1) (1).png>)
+![Check Availability](<../../.gitbook/assets/Add\_d (1) (1) (1) (1).png>)
 
 3.You can see the Domain Taken message.  Click **Yes; Transfer Domain**. &#x20;
 

@@ -4,7 +4,7 @@
 
 _LFX EasyCLA_ streamlines the contribution process for open source projects that use [Contributor License Agreements (CLAs)](./#what-is-a-cla), by streamlining workflows for project maintainers, contributors, and organizations whose employees are contributing to the project. EasyCLA coordinates the process of getting CLAs signed and, for companies and other organizations, the process of authorizing employees to contribute under a signed CLA. By automating many of the manual processes, this open source solution hosted by The Linux Foundation reduces delays for developers to get authorized under a CLA.
 
-&#x20;It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
+It is the only CLA management tool to correctly support both individual and corporate CLA workflows in an automated environment.
 
 ## What is a CLA? <a href="#what-is-a-cla" id="what-is-a-cla"></a>
 
@@ -29,7 +29,7 @@ For either a CCLA or an ICLA, after the contributor is authorized under a signed
 
 Following is a high-level diagram, showing the different flows and roles that EasyCLA supports:
 
-![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MObJ9DOddapQNA8RbwE%2F-MObKQQDBwKU4CF3QhNd%2Fcla%20flow%20diagram.png?alt=media\&token=cc042063-32df-4ef9-9141-bd862a378567)
+![CLA Flow Diagram](<../.gitbook/assets/cla flow diagram.png>)
 
 ## Different Consoles of EasyCLA:
 

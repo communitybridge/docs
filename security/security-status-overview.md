@@ -71,7 +71,7 @@ A project's criticality score defines the influence and importance of a project.
 
 Code Secrets Detected donut chart provides you the number of code secrets detected in the project. It shows you various code secrets detected in the project. On click of the detected code secret, the page navigates to the Code Secret details page.
 
-![Code Secrets  Detected](<../.gitbook/assets/Code Secret (1) (1) (2).gif>)
+![Code Secrets  Detected](<../.gitbook/assets/Code Secret (1) (1) (2) (2).gif>)
 
 ## Recent Alerts
 
