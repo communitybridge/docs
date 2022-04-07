@@ -1,4 +1,6 @@
-# LFX Security V2.0.32 March 29/2022
+# LFX Security V2.0.30
+
+Release Date:
 
 ## LFX Security Overview&#x20;
 
@@ -25,22 +27,17 @@ This sections provides you with list of new features and bug fixes for this rele
 
 The following list provides you an overview of new features implemented in this release:
 
-* Added Initial Redis Cache Support
-  * Added Redis configuration
-  * Added Redis Caching for BluBracket Code Secrets, BluBracket  Non Inclusive Language, and Vulnerabilities queries
-* Added Applicable flag for Datalake Repository Vulnerability API
+* Added Missing Snyk Project ID for Datalake Vulnerability response.
 
 ### Bug Fixes
 
 The following list provides you the bug fixes that are applied in this release:
 
-* Fixed CVE/CWE datalake query
-* Fixed Issue LFXSEC-2060: Repository - Manifest file display does not display for Licenses Tab of EasyCLA
-* Resolved Issue for Datalake Licenses for the project which has more than 1 Snyk org
-* Resolved \[LFXSEC-2056] Project Search Filter
-* Updated to Serverless 3.10.0
-* Updated Minimist Library
-  * Resolves CWE-1321, [CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h), [GHSA-xvch-5gv4-984h](https://github.com/advisories/GHSA-xvch-5gv4-984h) issue with the minimist library - updated to version ^1.2.6
+* Resolved issue in the Onboarding Status response when removing a GitHub Organization (removing BOT) from the PCC
+* Modified Repository statistics scheduler task functionality
+* Updated Linter Version work with Golang v1.18
+* Updated Serverless and Libs
+* Resolved \[#LFXSEC-1829] OSSF security score (Datalake) (added Datalake queries for OSSF security scores)
 
 ## Known Issues
 
@@ -58,11 +55,3 @@ You can visit the following links for more information on LFX Security:
 * [Content & Articles](https://community.lfx.dev/c/content-articles/58)
 * [Suggestions & Requests](https://community.lfx.dev/c/suggestion-box/70)
 
-
-
-\
-
-
-
-
-\
