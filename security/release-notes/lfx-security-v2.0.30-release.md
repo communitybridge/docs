@@ -1,6 +1,6 @@
-# LFX Security V2.0.30
+# LFX Security V2.0.30 Release
 
-Release Date:
+Release Date:22/March/2022
 
 ## LFX Security Overview&#x20;
 
