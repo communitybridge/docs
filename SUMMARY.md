@@ -101,6 +101,7 @@
     * [LFX Security V2.0.31 Release](security/release-notes/lfx-security-v2.0.31-release.md)
     * [LFX Security V2.0.30 Release](security/release-notes/lfx-security-v2.0.30-release.md)
     * [LFX Security V2.0.29 Release](security/release-notes/lfx-security-v2.0.29-release.md)
+    * [LFX Security V2.0.28 Release](security/release-notes/lfx-security-v2.0.28-release.md)
   * [LFX Security](security/lfx-security.md)
   * [Overview](security/overview.md)
   * [LFX Security FAQs](security/lfx-security-faqs.md)
