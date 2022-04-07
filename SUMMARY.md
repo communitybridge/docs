@@ -96,6 +96,8 @@
   * [Troubleshooting](insights/troubleshooting.md)
   * [Glossary](insights/glossary.md)
 * [Security](security/README.md)
+  * [Release Notes](security/release-notes/README.md)
+    * [LFX Security V2.0.32 March 29/2022](security/release-notes/lfx-security-v2.0.32-march-29-2022.md)
   * [Overview](security/overview.md)
   * [LFX Security FAQs](security/lfx-security-faqs.md)
   * [Onboarding your Project](security/onboarding-your-project.md)
