@@ -32,6 +32,6 @@ Yes, Linux Foundation offers mentees the opportunity to network with the open so
 
 There is no fixed number of hours set for mentors as long as they manage to help mentees smoothly progress throughout the mentorship program, starting from the application process to the end of the program. They should create a timetable to meet the set project plan.
 
-#### Are mentees from Ukraine, Russia, or Belarus allowed to participate in LF Mentorship Program 2022? <a href="#are_participants_from_ukraine_russia_or_belarus_allowed_to_participate_in_gsoc_2022" id="are_participants_from_ukraine_russia_or_belarus_allowed_to_participate_in_gsoc_2022"></a>
+#### Are mentees from Ukraine, Russia, or Belarus allowed to participate in the LFX Mentorship Program 2022? <a href="#are_participants_from_ukraine_russia_or_belarus_allowed_to_participate_in_gsoc_2022" id="are_participants_from_ukraine_russia_or_belarus_allowed_to_participate_in_gsoc_2022"></a>
 
-Due to certain circumstances, mentorship programs for 2022, organized by the Linux Foundation, are not accepting mentee applications from Russia, Belarus, Donetsk People's Republic (DNR), and Luhansk People's Republic (LNR). However, mentees located within Ukraine but outside of the DNR and LNR can apply to the LF mentorship programs.
+Due to certain circumstances, mentorship programs for 2022, organized by the Linux Foundation, are not accepting mentee applications from Russia, Belarus, or the so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR). However, mentees located within Ukraine but outside of the DNR and LNR can apply to the LF mentorship programs.
