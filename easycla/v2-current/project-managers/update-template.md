@@ -16,8 +16,6 @@ Project managers can edit and update CLA templates to display the correct email 
 
 6\. Click **Update Template**.
 
-Update Template
+![Edit Template](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-McSyoQ63waT5Zy3vINd%2F-McTtKnCTvHN1a4pnI7u%2Fedit%20template.png?alt=media\&token=2c78708b-9fb1-4905-b9ce-94c2a2ad761c)
 
-![Edit Template](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-McSyoQ63waT5Zy3vINd%2F-McTtKnCTvHN1a4pnI7u%2Fedit%20template.png?alt=media\&token=2c78708b-9fb1-4905-b9ce-94c2a2ad761c)
-
-![Update Template](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-McSyoQ63waT5Zy3vINd%2F-McTvAsAlBvlphnS7cUo%2Fupdate%20template.png?alt=media\&token=5fb11512-f1ea-4300-b6f8-0e9397d263ee)
+![Update Template](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-McSyoQ63waT5Zy3vINd%2F-McTvAsAlBvlphnS7cUo%2Fupdate%20template.png?alt=media\&token=5fb11512-f1ea-4300-b6f8-0e9397d263ee)
