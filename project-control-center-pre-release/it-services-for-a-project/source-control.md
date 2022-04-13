@@ -23,7 +23,7 @@ To setup the GitHub account to your project, perform the following steps:
 You can also navigate to Source Control from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Source Control**.
 {% endhint %}
 
-![Source Control](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjCtYF8M68gce65AoX%2FSource\_Control.png?alt=media\&token=0be4cdd8-f820-4079-8bf2-44681e2b756d)
+![Source Control](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjCtYF8M68gce65AoX%2FSource\_Control.png?alt=media\&token=0be4cdd8-f820-4079-8bf2-44681e2b756d)
 
 3.The Source Control page appears. Click **GitHub** and click the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MM6s2eHhjQ\_tQZBLg-r%2F-MM6sWbUBHCbO-u3210L%2FIcon.png?alt=media\&token=5797d8be-df9f-4f97-bb25-6c699e9d6253) icon available in front of **Connect**.
 
@@ -35,7 +35,7 @@ You can also navigate to Source Control from the Vertical Sidebar navigation men
 Make sure to enter a valid GitHub organization name.
 {% endhint %}
 
-![GitHub Organization Name](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjDq0dhMrtHe11\_Bun%2FConnect.png?alt=media\&token=999ec864-7477-4679-acd3-f06059c897ff)
+![GitHub Organization Name](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjDq0dhMrtHe11\_Bun%2FConnect.png?alt=media\&token=999ec864-7477-4679-acd3-f06059c897ff)
 
 {% hint style="info" %}
 * For more information on how to create an organization, refer [Create an Organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
@@ -78,17 +78,15 @@ To delete the GitHub organization that is added in the PCC, perform the followin
 
 3.Under **GitHub**, click on the required GitHub organization that you want to delete.
 
-![GitHub Organization](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwCcGG1dBv-of9Ain%2FG1.png?alt=media\&token=3650f3de-977b-4541-a4d9-5cf6b3ef5dc2)
+![GitHub Organization](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwCcGG1dBv-of9Ain%2FG1.png?alt=media\&token=3650f3de-977b-4541-a4d9-5cf6b3ef5dc2)
 
 4.Click the ![](<../../.gitbook/assets/Setting .png>) icon and click **Disassociate**.
 
-.
-
-![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwaLjn4A4gyhFMSNm%2FG2.png?alt=media\&token=d324770c-e5df-4ecf-9707-809e592496af)
+![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwaLjn4A4gyhFMSNm%2FG2.png?alt=media\&token=d324770c-e5df-4ecf-9707-809e592496af)
 
 5.The Confirm Disassociation dialog box appears, click **Delete** to delete the GitHub Organization.
 
-![Delete](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwtzItvRTln\_kth57%2FG3.png?alt=media\&token=985b3280-d2d4-418e-8e5d-dd77638baeaa)
+![Delete](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwtzItvRTln\_kth57%2FG3.png?alt=media\&token=985b3280-d2d4-418e-8e5d-dd77638baeaa)
 
 ## Setting up GitLab
 
@@ -104,9 +102,9 @@ To setup the GitLab account to your project, perform the following steps:
 You can also navigate to Source Control from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Source Control**.
 {% endhint %}
 
-![Source Control](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjCtYF8M68gce65AoX%2FSource\_Control.png?alt=media\&token=0be4cdd8-f820-4079-8bf2-44681e2b756d)
+![Source Control](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjCtYF8M68gce65AoX%2FSource\_Control.png?alt=media\&token=0be4cdd8-f820-4079-8bf2-44681e2b756d)
 
-3.The Source Control page appears. Click **GitLab** and click the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MM6s2eHhjQ\_tQZBLg-r%2F-MM6sWbUBHCbO-u3210L%2FIcon.png?alt=media\&token=5797d8be-df9f-4f97-bb25-6c699e9d6253) icon available in front of **Connect**.
+3.The Source Control page appears. Click **GitLab** and click the![](https://firebasestorage.googleapis.com/v0/b/gitbook-legacy-files/o/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MM6s2eHhjQ\_tQZBLg-r%2F-MM6sWbUBHCbO-u3210L%2FIcon.png?alt=media\&token=5797d8be-df9f-4f97-bb25-6c699e9d6253) icon available in front of **Connect**.
 
 ![GitLab](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMBzyPEWoumUhMMbi3v%2F-MMC0CxSwdrHEJorgf-y%2FGitlab.png?alt=media\&token=4cec0390-4573-4d2e-9c84-4aa8e5e4b99a)
 
@@ -116,7 +114,7 @@ You can also navigate to Source Control from the Vertical Sidebar navigation men
 The name of the group should be added and not the url or the ID.&#x20;
 {% endhint %}
 
-![GitLab Group Name](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjEYXWtQ06emjLntt6%2FConnect\_Gitlab.png?alt=media\&token=5b16d66f-392d-40c9-a158-4e8d8b361c64)
+![GitLab Group Name](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MTj0TQnzz-FlSQFT1oZ%2F-MTjEYXWtQ06emjLntt6%2FConnect\_Gitlab.png?alt=media\&token=5b16d66f-392d-40c9-a158-4e8d8b361c64)
 
 5.Once the connection is setup, you can see the status of GitLab project and its repositories.
 
