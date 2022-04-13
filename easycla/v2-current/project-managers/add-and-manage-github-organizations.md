@@ -63,7 +63,7 @@ If you select **Only select repositorie**s, then a newly added repository to the
 **Important:** To enable a CLA mechanism on a repository, you must [enforce CLA mechanism for GitHub repositories](enforce-or-remove-cla-mechanism.md#enforce-or-remove-cla-mechanism-from-github-repositories). Simply adding a GitHub organization to the project does not enable the EasyCLA mechanism for any CLA groups.
 {% endhint %}
 
-![GitHub Installation Completed](<../../../.gitbook/assets/github installation completed.png>)
+![GitHub Installation Completed](<../../../.gitbook/assets/installation completed.png>)
 
 ## Enable Branch Protection and Auto Enable New Repositories <a href="#enable-branch-protection-and-auto-enable-new-repositories" id="enable-branch-protection-and-auto-enable-new-repositories"></a>
 
@@ -72,7 +72,7 @@ After adding the GitHub organization, you should enable branch protection and au
 * **Enable Branch Protection** automatically enables the EasyCLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../getting-started/easycla-troubleshooting/easycla-disabled.md#enable-branch-protection).
 * **Auto Enable New Repositories** automatically adds a repository under the GitHub organization on the project console when you add the repository to the GitHub organization.
 
-1\. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitHub organization.
+1\. Click the settings icon <img src="../../../.gitbook/assets/settings (1).png" alt="" data-size="line">next to **Additional Settings** for a GitHub organization.
 
 2\. Click both the check boxes, and click **Save Changes**.
 
@@ -80,7 +80,7 @@ After adding the GitHub organization, you should enable branch protection and au
 
 ## Disassociate GitHub Organization <a href="#disassociate-github-organization" id="disassociate-github-organization"></a>
 
-1\. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitHub organization.
+1\. Click the settings icon <img src="../../../.gitbook/assets/settings (1).png" alt="" data-size="line">next to **Additional Settings** for a GitHub organization.
 
 2\. Click **Disassociate GitHub Org**, and click the link to create a support ticket to disassociate the GitHub org.
 

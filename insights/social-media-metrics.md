@@ -20,7 +20,7 @@ Following are the five Social Media Metrics dashboards for Twitter:
 If **Access is available to members of the project** appears:
 
 * Ensure that you have **signed in** to the portal.
-* If you have already signed in, then click **Go to My Profile** to update your company information on your profile settings page. Navigate back to the project's social media metrics dashboard and refresh the page. &#x20;
+* If you have already signed in, then click **Go to My Profile** to update your company information on your profile settings page. Navigate back to the project's social media metrics dashboard and refresh the page.
 
 ![Update Company Information](<../.gitbook/assets/update company profile.png>)
 
@@ -31,14 +31,14 @@ It provides a high-level overview of the project’s channel-level performance, 
 {% hint style="info" %}
 **Section Summaries:** Each section includes a summary of key metrics. These are visualized as metric blocks, which include the following details:
 
-![](<../.gitbook/assets/# of tweets.png>)&#x20;
+<img src="../.gitbook/assets/# of tweets.png" alt="" data-size="original">
 
 * Name of the metric
 * Metric value
 * % change over time (based on time range selected)
 * Metric results-over-time graph (set in daily increments for the time range selected). Click the mini graph to view detailed results over time.
 
-![](<../.gitbook/assets/# of tweets mini graph.png>)&#x20;
+<img src="../.gitbook/assets/# of tweets mini graph.png" alt="" data-size="original">
 {% endhint %}
 
 ### **Twitter Insights**
@@ -70,7 +70,7 @@ It provides an overview of the total and average number of tweets posted over a 
 **Top Tweets** displays a table that lists top 10 tweets ordered by potential impressions, and provides details of the tweets.
 
 * **Tweets:** Top 10 tweets that have the most number of impressions. It shows the tweet, the user’s name who tweeted along with the date, and a link to the tweet. Click the link to view details on twitter.
-* **Tweet Summary:**  Displays the the following:
+* **Tweet Summary:** Displays the the following:
   * **Retweets:** Number of times the tweet is retweeted in a time range.
   * **Replies:** Number of replies received on the tweet in a time range.
   * **Potential Impressions:** Displays the total number of views possible (both direct and amplified) for posts with hashtags based on how many timelines your post showed up in. Click **View Breakdown** that displays the following data:
@@ -81,13 +81,13 @@ It provides an overview of the total and average number of tweets posted over a 
 ![Top Tweets](<../.gitbook/assets/top tweets.png>)
 
 **Likes over time** displays a bar graph that represents the number of likes received on the tweets in a time range. It displays the data on a periodic basis for a selected time range. Hover over the graph to view the number of likes received in that period.\
-&#x20;![](<../.gitbook/assets/likes over time.png>)&#x20;
+![](<../.gitbook/assets/likes over time.png>)
 
 **Retweets over time** displays a simple line graph that represents the increase or decrease in number of retweets over time. It displays the data on a periodic basis for a selected time range. Hover over a point in the graph to view the number of retweets in that period.\
-&#x20;![](<../.gitbook/assets/retweets over time.png>)&#x20;
+![](<../.gitbook/assets/retweets over time.png>)
 
 **Tweet Frequency** displays a shaded line graph that represents the total number of tweets posted over a time period. It displays the data on a periodic basis for a selected time range. Hover over a point in the graph to view the number of tweets in that period.\
-&#x20;![](<../.gitbook/assets/tweet frequency.png>)
+![](<../.gitbook/assets/tweet frequency.png>)
 
 ## Hashtags Summary
 
@@ -103,7 +103,7 @@ The dashboard provides an overview of hashtag usage and performance across the p
 ![Hashtags Summary](<../.gitbook/assets/hashtags summary.png>)
 
 **Top Hashtags** displays a cloud of top trending hashtags used in the project’s Twitter posts and related conversations. Hover over a hashtag to view the number of times it has been mentioned in tweets and retweets within the selected time range.\
-&#x20;![](<../.gitbook/assets/top hashtags.png>)
+![](<../.gitbook/assets/top hashtags.png>)
 
 **Top Hashtags Breakdown** displays a pie chart that represents the breakdown of top trending hashtags ordered by percentage and number of times the hashtag is mentioned in tweets and retweets. Hover over a color in the chart to view the hashtag name, and number of times it has been mentioned in tweets and retweets within the selected time range. ![](<../.gitbook/assets/top hashtags breakdown.png>)
 
@@ -150,7 +150,7 @@ This dashboard provides an overview of the languages used across the project’s
 
 This dashboard provides an overview of social media users (contributors or influencers) who are engaged with the project’s Twitter posts or have mentioned their account. An engagement can be _a like, comment, or retweet_. The various sections and metrics displayed on this dashboard are detailed below.
 
-* **# OF CONTRIBUTORS:** Displays the total number of users (in a time range) who tweeted and retweeted contents related to the project, and replied to the tweets and retweets relevant to  the project. This is calculated by measuring unique engagements, such as likes, comments, or retweets.
+* **# OF CONTRIBUTORS:** Displays the total number of users (in a time range) who tweeted and retweeted contents related to the project, and replied to the tweets and retweets relevant to the project. This is calculated by measuring unique engagements, such as likes, comments, or retweets.
 * **# OF RETWEETS:** Displays the total number of times the project’s Twitter posts have been retweeted in the time range.
 * **AVERAGE # OF TWEETS:** Displays average number of tweets posted in a time range. It is calculated by dividing the total number of tweets with the total number contributors for the time range.
 * **# OF POTENTIAL IMPRESSIONS:** Displays the total number of direct and amplified impressions for the tweets and retweets by all the contributors in a time range.
@@ -162,11 +162,8 @@ This dashboard provides an overview of social media users (contributors or influ
 **Top Contributors** displays a table that lists the top 10 Twitter handles ordered by highest number of potential impressions (include both direct and amplified impressions) for the tweets and retweets by that user.
 
 * **Contributors:** Lists the profile names along with the links. Click a profile to navigate to the profile’s twitter page.
-* **Contributions:** Displays number of followers of the profile, total number of tweets by the user mentioning the project’s relevant terms, and sum of potential direct impressions of  all the tweets posted in a time range.
+* **Contributions:** Displays number of followers of the profile, total number of tweets by the user mentioning the project’s relevant terms, and sum of potential direct impressions of all the tweets posted in a time range.
 * **Engagement:** Displays total number of retweets gained for all the tweets by the user. It also displays the retweet rate by the user. Retweet Rate is the average number of times the user’s posted tweets are retweeted by other users. It is calculated by dividing the total number of retweets with the total number of tweets for a time range.
 * **Amplification:** Displays the number of potential amplified impressions, and multiplier values for the tweets and retweets by the user. Multiplier value is calculated by dividing potential amplified impressions with direct impressions for a time range. It is used to interpret by what factor a contributor's tweets are getting amplified.
 
 ![Top Contributors](<../.gitbook/assets/top contributors.png>)
-
-
-

@@ -8,4 +8,4 @@ The LFX Security tool provides security to the open source code. The LFX Securit
 
 You can refer [LFX Security](https://lfx.linuxfoundation.org/tools/security) page for more information.
 
-![LFX Security](<../.gitbook/assets/LFX Security (1).png>)
+![LFX Security](<../.gitbook/assets/LFX Security (1) (1).png>)

@@ -87,7 +87,7 @@ To add or remove your skill sets:
 
 5\. Close the window after you have completed adding or removing a skill.
 
-![Manage Skills](<../.gitbook/assets/manage skills.png>)
+![Manage Skills](<../.gitbook/assets/manage skills (1).png>)
 
 ### View Projects You Support as an Individual Supporter
 
@@ -96,7 +96,7 @@ You can view the projects that you support by enrolling as an individual support
 1. Log in to [https://openprofile.dev](https://openprofile.dev)
 2. Scroll down to _Supported Projects_ section.
 
-It displays the project name, and the date when you enrolled as an individual supporter. Click the edit icon ![](../.gitbook/assets/Edit\_Icon.png) to navigate to the [Individual Enrollment](individual-enrollments.md) page to see details.
+It displays the project name, and the date when you enrolled as an individual supporter. Click the edit icon ![](<../.gitbook/assets/Edit\_Icon (1).png>) to navigate to the [Individual Enrollment](individual-enrollments.md) page to see details.
 
 ![Supported Projects](<../.gitbook/assets/supported projects.png>)
 

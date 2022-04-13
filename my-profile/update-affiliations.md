@@ -34,7 +34,7 @@ You can manage all of your project affiliations through the Individual Dashboard
 
 ![Add Affiliation](<../.gitbook/assets/add affiliation.png>)
 
-5\. To add work history, click ![](<../.gitbook/assets/populate work history (1).png>)to link your LinkedIn account to populate your employment history with the open source community.
+5\. To add work history, click ![](<../.gitbook/assets/populate work history.png>)to link your LinkedIn account to populate your employment history with the open source community.
 
 ![Affiliations](../.gitbook/assets/affiliations.png)
 
@@ -66,14 +66,14 @@ You can switch contributions to/from individual contributions to affiliated with
 
 2\. On the Add Organization window, provide organization URL, organization name in the respective fields, and click **Add**.
 
-![](<../.gitbook/assets/add organization (1).png>)
+![](<../.gitbook/assets/add organization.png>)
 
 ### Connect or Disconnect LinkedIn:
 
-1. To connect LinkedIn, click ![](<../.gitbook/assets/populate work history.png>), and log in to LinkedIn window. By connecting your LinkedIn account, you are populating your employment history with the open source community.
+1. To connect LinkedIn, click ![](<../.gitbook/assets/populate work history (1).png>), and log in to LinkedIn window. By connecting your LinkedIn account, you are populating your employment history with the open source community.
 2. To disconnect LinkedIn, click **Disconnect LinkedIn**.
 
 ### Connect or Disconnect GitHub
 
-1. To connect GitHub, click![](<../.gitbook/assets/connect github (1).png>) , log in, and authorize your GitHub account.
+1. To connect GitHub, click![](<../.gitbook/assets/connect github.png>) , log in, and authorize your GitHub account.
 2. To disconnect GitHub, scroll down to the page, from bottom right corner, click **Disconnect GitHub**.

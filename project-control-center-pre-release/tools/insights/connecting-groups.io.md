@@ -24,7 +24,7 @@ For more information on how to setup Mailing List, refer [Mailing List](https://
 
 ![Configure Mailing List](../../../.gitbook/assets/Mailing\_List.png)
 
-5.The Connect Groups.io page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Groups.io and update the following details and click **Connect**.
+5.The Connect Groups.io page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Groups.io and update the following details and click **Connect**.
 
 | Field              | Action                                                        |
 | ------------------ | ------------------------------------------------------------- |

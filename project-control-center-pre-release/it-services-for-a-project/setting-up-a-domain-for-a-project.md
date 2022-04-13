@@ -12,7 +12,7 @@ To setup a domain for the project, perform the following steps:
 You can also navigate to Domains from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Domains**.
 {% endhint %}
 
-![Domain ](../../.gitbook/assets/Domain.png)
+![Domain ](<../../.gitbook/assets/Domain (1).png>)
 
 3.The Domains page appears. Click **+ Add Domain** to add a domain for your project.
 
@@ -21,14 +21,14 @@ You cannot change the primary domain for the project, if you want to change the 
 {% endhint %}
 
 {% hint style="info" %}
-You can update the details of the domain by click of the edit ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon.
+You can update the details of the domain by click of the edit ![](../../.gitbook/assets/Edit\_Icon.png) icon.
 {% endhint %}
 
-![Add Domain ](<../../.gitbook/assets/Add\_Domains (1).png>)
+![Add Domain ](../../.gitbook/assets/Add\_Domains.png)
 
 4.The Add Domain dialog box appears. Enter the **Domain Name** and click the **Check Availability** button.
 
-![Domain Name](<../../.gitbook/assets/Add\_d (1) (1).png>)
+![Domain Name](<../../.gitbook/assets/Add\_d (1) (1) (1) (1).png>)
 
 5.The domain will be searched and checked against the following points:
 
@@ -60,7 +60,7 @@ To setup a primary domain for a project, perform the following:
 
 3.The domain will be selected and listed as Primary Domain.
 
-![Primary Domain ](<../../.gitbook/assets/PD1 (1).png>)
+![Primary Domain ](../../.gitbook/assets/PD1.png)
 
 ## Redirecting a Domain
 
@@ -70,9 +70,9 @@ To redirect a domain from one domain to another domain, perform the following:
 
 1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.
+2.Click ![](../../.gitbook/assets/Edit\_Icon.png) icon available under Manage pane.
 
-![Manage ](<../../.gitbook/assets/PD2 (1).png>)
+![Manage ](../../.gitbook/assets/PD2.png)
 
 3.The Edit Domain dialog box appears. Click **Redirects**, enter the redirect domain under **To** box and click **Add**.
 
@@ -80,10 +80,10 @@ To redirect a domain from one domain to another domain, perform the following:
 
 4.The redirected domain is listed under **Existing Redirects** list.
 
-![Existing Redirect](<../../.gitbook/assets/Redirect list (1).png>)
+![Existing Redirect](<../../.gitbook/assets/Redirect list.png>)
 
 {% hint style="info" %}
-If you want to update the redirect domain, click the edit ![](../../.gitbook/assets/Edit.png) icon.
+If you want to update the redirect domain, click the edit ![](<../../.gitbook/assets/Edit (1).png>) icon.
 
 If you want to delete the redirect domain, click the delete ![](../../.gitbook/assets/delete\_icon.png) icon.
 {% endhint %}
@@ -96,9 +96,9 @@ To setup service record, perform the following steps:
 
 1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](<../../.gitbook/assets/Edit\_Icon (1).png>) icon available under Manage pane.
+2.Click ![](../../.gitbook/assets/Edit\_Icon.png) icon available under Manage pane.
 
-![Domain Edit](<../../.gitbook/assets/PD2 (1).png>)
+![Domain Edit](../../.gitbook/assets/PD2.png)
 
 3.The Edit Domain dialog box appears. Click **Services**, select the required Service from the list and click **Add**.
 
@@ -120,7 +120,7 @@ To disable the auto renew of the domain, perform the following:
 
 ![Cancel Auto Renewal](../../.gitbook/assets/Disabled.png)
 
-3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1) (1) (1) (2).png>) icon under Auto Renew column.&#x20;
+3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1) (1) (1) (1).png>) icon under Auto Renew column.&#x20;
 
 ![Disabled Status ](../../.gitbook/assets/Disabled\_Success.png)
 
@@ -132,15 +132,15 @@ To transfer a domain, perform the following:
 
 1.Click **+ Add Domain**.&#x20;
 
-![Add Domain](<../../.gitbook/assets/Add\_Domain (1).png>)
+![Add Domain](<../../.gitbook/assets/Add\_Domain (2) (1).png>)
 
 2.The Add Domain dialog box appears. Enter the name of the domain that you want to transfer to your project and click **Check Availability**.&#x20;
 
-![Check Availability](<../../.gitbook/assets/Add\_d (1) (1) (1) (1).png>)
+![Check Availability](<../../.gitbook/assets/Add\_d (1) (1) (1).png>)
 
 3.You can see the Domain Taken message.  Click **Yes; Transfer Domain**. &#x20;
 
-![Transfer Domain ](<../../.gitbook/assets/Domain\_Taken (1).png>)
+![Transfer Domain ](../../.gitbook/assets/Domain\_Taken.png)
 
 4.One more message appears that informs you whether Linux Foundation should manage your DNS. Select Yes or No.&#x20;
 
@@ -152,7 +152,7 @@ To transfer a domain, perform the following:
 
 6.The Domain will be listed in your project with status **Transfer Code Needed**.
 
-![Transfer Code Needed](<../../.gitbook/assets/Domain\_Not (1).png>)
+![Transfer Code Needed](../../.gitbook/assets/Domain\_Not.png)
 
 {% hint style="info" %}
 You have to provide the transfer code in order to complete the domain transfer. To provide the transfer code, click ![](../../.gitbook/assets/Dot\_Icon.png) icon and select **Continue Transfer** and enter the transfer code that you will receive from the registrar of your domain. Select My Domain is unlocked and My DNS Service is not hosted and click **Begin Transfer**.&#x20;
@@ -172,7 +172,7 @@ To delegate the DNS through PCC, perform the following:
 
 1.Go to the Domains list and click the ![](../../.gitbook/assets/Dot\_Icon.png) icon and click **Delegate DNS (no managed DNS)**.&#x20;
 
-![Delegate DNS](../../.gitbook/assets/DNS.png)
+![Delegate DNS](<../../.gitbook/assets/DNS (1).png>)
 
 2.The Delegate DNS server pop box appears. Provide the required **Name Servers** and select the **I Understand** statement and click **Delegate**.&#x20;
 
@@ -180,7 +180,7 @@ To delegate the DNS through PCC, perform the following:
 You can provide the details of the six name servers.&#x20;
 {% endhint %}
 
-![Name Servers ](../../.gitbook/assets/Name\_Servers.png)
+![Name Servers ](<../../.gitbook/assets/Name\_Servers (1).png>)
 
 3.A flyer message appears informing that the DNS delegation is success and under DNS Hosting, the managed status changes to **Delegated**.&#x20;
 

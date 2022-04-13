@@ -24,7 +24,7 @@ For more information on how to setup Mailing List, refer [Setting up Wiki](https
 
 ![Configure Wiki](../../../.gitbook/assets/Wiki\_Confg.png)
 
-5.The Wiki page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Wiki and update the following details and click **Connect**.
+5.The Wiki page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Wiki and update the following details and click **Connect**.
 
 | Field | Action                |
 | ----- | --------------------- |

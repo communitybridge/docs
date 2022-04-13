@@ -26,7 +26,7 @@ Under **My Projects tab** you can view all your crowdfunding projects, travel fu
 
 Under **My Account** tab you can add and/or edit your payment method or organization.
 
-![Add organization to donate or sponsor](<../.gitbook/assets/7418586 (1) (1) (2).png>)
+![Add organization to donate or sponsor](<../.gitbook/assets/7418586 (1) (1) (1).png>)
 
 ![Add new payment method](<../.gitbook/assets/add card.png>)
 

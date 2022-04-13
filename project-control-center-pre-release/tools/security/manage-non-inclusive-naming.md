@@ -30,7 +30,7 @@ To delete a non inclusive word, perform the following steps:
 
 1.From the **Manage Inclusive Naming** tab, click ![](../../../.gitbook/assets/del\_icon.png) icon that you want to delete from the list.
 
-![Delete Non Inclusive Word](<../../../.gitbook/assets/Del (1).png>)
+![Delete Non Inclusive Word](../../../.gitbook/assets/Del.png)
 
 2\. The Delete Keyword dialog box appears. Click **Delete** to confirm the deletion of the word.
 

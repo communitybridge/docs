@@ -16,4 +16,4 @@ To get the license information, perform the following:
 
 3.The SPDX License includes a full name, standardized short identifier, vetted license text, and other information about the license.
 
-![License](<../.gitbook/assets/Apache License.png>)
+![License](../.gitbook/assets/apache-license.png)

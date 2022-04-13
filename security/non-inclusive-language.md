@@ -52,7 +52,7 @@ You cannot send a reminder to developer, if the developers email is marked as pr
 
 3.A confirmation dialog box appears informing that a notification will be sent to developer. Click **Send Notification** to confirm.
 
-![Confirmation Message](<../.gitbook/assets/Non\_Conf (1).png>)
+![Confirmation Message](../.gitbook/assets/Non\_Conf.png)
 
 3.You can also send a reminder notification to the developer if the developer has not replaced the non inclusive language even after a notification. Click **Remind Developer** to send a reminder notification.
 

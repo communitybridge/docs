@@ -16,7 +16,7 @@ To connect Docker Hub, perform the following:
 
 ![Connect Docker Hub](../../../.gitbook/assets/Doc\_Connect.png)
 
-5.The Connect Docker Hub Organizations page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Docker Hub account and update the following details and click **Connect**.
+5.The Connect Docker Hub Organizations page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Docker Hub account and update the following details and click **Connect**.
 
 | Field             | Action                                                                       |
 | ----------------- | ---------------------------------------------------------------------------- |

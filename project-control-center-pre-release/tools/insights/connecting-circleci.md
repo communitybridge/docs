@@ -16,7 +16,7 @@ To connect CircleCI, perform the following:
 
 ![CircleCI](../../../.gitbook/assets/Circ\_Connect.png)
 
-5.The Connect CircleCI Account page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure CircleCI account and update the following details and click **Connect**.
+5.The Connect CircleCI Account page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure CircleCI account and update the following details and click **Connect**.
 
 | Field        | Action                                            |
 | ------------ | ------------------------------------------------- |

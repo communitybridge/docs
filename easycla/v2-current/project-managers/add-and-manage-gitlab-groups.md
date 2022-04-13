@@ -73,7 +73,7 @@ After adding the GitLab group, you should enable branch protection and auto enab
 
 **To enable branch protection and auto enable new repositories:**
 
-1\. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitLab group.
+1\. Click the settings icon <img src="../../../.gitbook/assets/settings (1).png" alt="" data-size="line">next to **Additional Settings** for a GitLab group.
 
 2\. Click both the check boxes, and click **Save Changes**.
 
@@ -85,7 +85,7 @@ After adding the GitLab group, you should enable branch protection and auto enab
 
 ![Disassociate GitLab Group disabled for CLA enforced Projects](../../../.gitbook/assets/disassociate-gitlab-group-disabled.png)
 
-1. Click the settings icon ![](<../../../.gitbook/assets/settings (1).png>)next to **Additional Settings** for a GitLab group.
+1. Click the settings icon <img src="../../../.gitbook/assets/settings (1).png" alt="" data-size="line">next to **Additional Settings** for a GitLab group.
 2. Click **Disassociate GitLab Group**, and click **Disassociate** on the confirmation window.
 
 ![Disassociate GitLab Group](../../../.gitbook/assets/disassociate-gitlab-group.png)

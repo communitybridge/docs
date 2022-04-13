@@ -40,7 +40,7 @@ The Edit filter option lets you manually update a filter and specify a label for
    ![](<../../.gitbook/assets/edit filter.png>)\
    ![](https://docs.linuxfoundation.org/download/attachments/18088146/edit%20filter.PNG?version=1\&modificationDate=1583236994028\&api=v2)\
    The Edit filter dialog appears.\
-   ![](<../../.gitbook/assets/edit-filter-values (1) (1).png>) \\
+   ![](<../../.gitbook/assets/edit-filter-values (1).png>) \\
 2. Edit the filter by clicking **Edit as Query DSL** and following the instructions to edit a filter.\
    ![](<../../.gitbook/assets/edit filter as query DSL.png>) \\
 3. Click **Save**.

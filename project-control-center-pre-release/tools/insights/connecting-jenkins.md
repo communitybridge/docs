@@ -16,7 +16,7 @@ To connect Jenkins, perform the following:
 
 ![Jenkins Connector](../../../.gitbook/assets/Jen\_Conc.png)
 
-5.The Connect Jenkins Public URL page appears. Click ![](<../../../.gitbook/assets/Con\_Icon (1).png>) icon to configure Jenkins, update the following details and click **Connect**.
+5.The Connect Jenkins Public URL page appears. Click ![](../../../.gitbook/assets/Con\_Icon.png) icon to configure Jenkins, update the following details and click **Connect**.
 
 | Field       | Action                   |
 | ----------- | ------------------------ |
