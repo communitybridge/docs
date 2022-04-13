@@ -11,4 +11,4 @@ The Project Manager can add new projects to a CLA group or remove projects from 
 
 **Note**: A project's check box is selected and unavailable under a CLA group if the project has already been added to another CLA group.
 
-![Add and manage projects under a cla group](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLBxHhieLDcf8xTntY%2Fadd%20and%20manage%20projects%20under%20a%20cla%20group.png?alt=media\&token=847a3698-e1d3-4c39-99fc-eac1237159ba)
+![Add and manage projects under a cla group](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLBxHhieLDcf8xTntY%2Fadd%20and%20manage%20projects%20under%20a%20cla%20group.png?alt=media\&token=847a3698-e1d3-4c39-99fc-eac1237159ba)
