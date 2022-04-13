@@ -39,10 +39,10 @@ This project’s source code is licensed under the MIT License. A copy of the li
 
 The following diagram illustrates EasyCLA architecture:
 
-![EasyCLA Architecture Overview](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MOb5j37wjwk61u\_ukKN%2F-MObHlodbcm0W1MV1whk%2Feasycla-architecture-overview.png?alt=media\&token=b6733d43-464d-4e42-b896-3ceccde87f42)
+![EasyCLA Architecture Overview](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MOb5j37wjwk61u\_ukKN%2F-MObHlodbcm0W1MV1whk%2Feasycla-architecture-overview.png?alt=media\&token=b6733d43-464d-4e42-b896-3ceccde87f42)
 
 ## EasyCLA Release Process <a href="#easycla-release-process" id="easycla-release-process"></a>
 
 The following diagram illustrates the EasyCLA release process:
 
-![EasyCLA Release Process](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6cYV0z4DSsvgtt1MtI%2F-M6c\_728flGfhAMw3L5V%2Feasycla-software-development-and-release\_process.png?alt=media\&token=460da65a-6214-4139-aebe-aa85db69a26f)
+![EasyCLA Release Process](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6cYV0z4DSsvgtt1MtI%2F-M6c\_728flGfhAMw3L5V%2Feasycla-software-development-and-release\_process.png?alt=media\&token=460da65a-6214-4139-aebe-aa85db69a26f)
