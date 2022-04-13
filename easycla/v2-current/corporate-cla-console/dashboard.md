@@ -1,6 +1,6 @@
 # Dashboard
 
-![Corporate CLA Dashboard](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MR5-DtCjqGK6cece4le%2F-MR55AXT2rWPYPJ4m5Yd%2Fcorporate%20cla%20dashboard.png?alt=media\&token=912c1272-c913-4574-bbf7-8dc2be9a821f)
+![Corporate CLA Dashboard](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MR5-DtCjqGK6cece4le%2F-MR55AXT2rWPYPJ4m5Yd%2Fcorporate%20cla%20dashboard.png?alt=media\&token=912c1272-c913-4574-bbf7-8dc2be9a821f)
 
 The EasyCLA Corporate Console dashboard shows the aggregate data of all the projects that use LFX EasyCLA.
 
