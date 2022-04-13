@@ -19,7 +19,7 @@ The Overview page displays CLA groups that have been added to the project, [deta
 1. **Projects Covered** shows the number of projects that are covered under the CLA group.
 2. **Repositories** shows the total number of repositories of the added projects that are enrolled for CLA monitoring. You must [enforce EasyCLA](enforce-or-remove-cla-mechanism.md) for one or more Git repositories for them to be counted.
 3. **Signatures** shows the number of individuals who have signed CLA within that CLA group, and whose signature status is in active state. This includes both ICLA and/or CCLA based on the CLA group configuration.
-4. Click![](https://files.gitbook.com/v0/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MMtuFseEUFUva2iGsvQ%2F-MMu0RrZNxmtvISo9j1B%2Fedit%20CTA.png?alt=media\&token=272b442e-ea97-42c8-be45-93d6c068fd99)to edit the title and description of the CLA group.
+4. Click the pencil icon to edit the title and description of the CLA group.
 5. Click![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M9WNn7lqBje4DX2Irn-%2F-M9Y5z1DnSglCZbaXzg0%2Fdelete%20icon.png?alt=media\&token=2333c400-d6bf-4c6e-93e9-52d4c00113d9)to create a support ticket requesting to delete the CLA group.
 
 2\. Under the **PROJECTS** tab, expand the project group to view projects that are enrolled for the CLA group. Inactive selected check boxes indicate that the project has already been added to another CLA group. Click **Manage** to add and manage [GitHub](add-and-manage-github-organizations.md) or [Gerrit](add-and-manage-gerrit-organizations.md) or [GitLab](add-and-manage-gitlab-groups.md) groups and repositories.
