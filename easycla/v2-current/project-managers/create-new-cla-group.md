@@ -22,13 +22,13 @@ A single CLA Group includes a pair of CCLA and ICLA templates, if both types are
 
 **Note**: For the current v2 release, a single project can have only one CLA Group. If you have already created a CLA Group for that project, or for a parent of that project, the +Add New CLA Group button will be disabled and you will not be able to create another CLA group for that project.
 
-![Add New CLA Group](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYL9ZY5RyYNN3Ob-lmt%2Fadd%20new%20cla%20group.png?alt=media\&token=9176f3b2-6688-42e9-aed5-6217e3fad393)
+![Add New CLA Group](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYL9ZY5RyYNN3Ob-lmt%2Fadd%20new%20cla%20group.png?alt=media\&token=9176f3b2-6688-42e9-aed5-6217e3fad393)
 
 5\. Under CLA Group Name tab, provide a CLA group name and a brief description in the respective fields.
 
 **Note:** Click the help icons (?) to know more about a field or check box.
 
-![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MFF3NJccWCBBW7digJF%2F-MFFWZikCY6DvtHwYHMf%2Fcla%20group%20name.png?alt=media\&token=1c51f264-a246-4a30-ad26-ee05a172e9ca)
+![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MFF3NJccWCBBW7digJF%2F-MFFWZikCY6DvtHwYHMf%2Fcla%20group%20name.png?alt=media\&token=1c51f264-a246-4a30-ad26-ee05a172e9ca)
 
 6\. Select the check boxes as applicable to the contributors of a project, and click **Next**.
 
@@ -51,7 +51,7 @@ Note:
 
 9\. Review the generated CCLA and ICLA templates. If the filled-in values or other contents of the template do not look correct, stop and do not proceed. Contact the EasyCLA support team by [filing a support ticket](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143) if you need assistance.
 
-![Edit and Review Template](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-McSaJy\_3W3NgkLpAr5s%2F-McSjta9Z-88O5b0XWD6%2Fedit-review-template.png?alt=media\&token=35c03702-876a-4b80-a6a8-2bc8a9869987)
+![Edit and Review Template](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-McSaJy\_3W3NgkLpAr5s%2F-McSjta9Z-88O5b0XWD6%2Fedit-review-template.png?alt=media\&token=35c03702-876a-4b80-a6a8-2bc8a9869987)
 
 10\. If the Project for which you are creating the CLA Group has no subprojects, then click **Finish** and skip the next step.
 
@@ -61,4 +61,4 @@ Note:
 **Note**: As mentioned above, for the initial v2 release, a single project can only have one CLA Group. If you have already created a CLA Group for that project, or for a parent of that project, the **+Add New CLA Group** button will be disabled and you will not be able to create another CLA group for that project.
 {% endhint %}
 
-![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLAq\_x4OegnUUpOhAQ%2Fcreating%20CLA%20group%20at%20project-group%20level.png?alt=media\&token=88f0f38f-527f-4cbb-a019-d84aabc16c97)
+![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-MYL76gRXl7OC0uMczgL%2F-MYLAq\_x4OegnUUpOhAQ%2Fcreating%20CLA%20group%20at%20project-group%20level.png?alt=media\&token=88f0f38f-527f-4cbb-a019-d84aabc16c97)
