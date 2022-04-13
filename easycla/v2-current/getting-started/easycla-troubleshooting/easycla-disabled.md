@@ -34,4 +34,4 @@ You can also add the branch protection rule manually, as described below:
 * Require branches to be up to date before merging
 * Include administrators
 
-![CLA GitHub Branch Protection Rule](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6c\_lpbFL3c2MHPwbCU%2F-M6cg5mNvgw-UP7bSFBI%2Fcla-github-branch-protection-rule.png?alt=media\&token=e317954c-42af-4bad-8be5-6db07e256e6e)
+![CLA GitHub Branch Protection Rule](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-M2DCN9UgoRgMEkgnLyP%2F-M6c\_lpbFL3c2MHPwbCU%2F-M6cg5mNvgw-UP7bSFBI%2Fcla-github-branch-protection-rule.png?alt=media\&token=e317954c-42af-4bad-8be5-6db07e256e6e)
