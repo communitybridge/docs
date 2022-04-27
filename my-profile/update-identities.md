@@ -8,11 +8,11 @@ Identities window shows your project identities connected with Linux Foundation 
 
 #### Add Identity:
 
-1\. Log into [https://openprofile.dev](https://openprofile.dev).&#x20;
+1\. Log into [https://openprofile.dev](https://openprofile.dev).
 
 2\. From left side navigation pane click the arrow ![](../.gitbook/assets/arrow.png) to expand, and navigate to **Profile > Identities**.
 
-3\. Click **Add Account**.
+3\. Click **Connect GitHub** to connect your GitHub account.
 
 4\. From the card, select a data source, provide your email address that you have configured with the data source, and click **Verify**.
 
@@ -20,10 +20,10 @@ Identities window shows your project identities connected with Linux Foundation 
 
 6\. Refresh the My Profile page to see the connected account.
 
-![identities](../.gitbook/assets/identities.png)
+![Identities](../.gitbook/assets/identities.png)
 
 #### Delete Identity:
 
-To delete an identity, click the cross mark on a card.
+To delete an identity, click the delete icon on a card.
 
-![](<../.gitbook/assets/delete an identity.png>)
+![Delete an Identity](<../.gitbook/assets/delete an identity.png>)

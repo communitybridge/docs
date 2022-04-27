@@ -14,7 +14,7 @@
   * [Sign Out](sso/sign-out.md)
 * [Individual Dashboard (MyProfile)](my-profile/README.md)
   * [Update Profile Information](my-profile/update-profile-information.md)
-  * [Update Affiliations](my-profile/update-affiliations.md)
+  * [Add or Update Affiliations](my-profile/add-or-update-affiliations.md)
   * [Update Identities](my-profile/update-identities.md)
   * [Change Password](my-profile/changing-account-password.md)
   * [Connect Accounts](my-profile/connect-accounts.md)

@@ -10,7 +10,7 @@ To change your basic information, such as name, email address, postal address, a
 
 2\. From left side navigation pane click the arrow ![](../.gitbook/assets/arrow.png) to expand, and navigate to **Profile > Basic Information**.
 
-![](<../.gitbook/assets/edit basic information.png>)
+![Profile Information](<../.gitbook/assets/profile information (1).png>)
 
 2\. Under **Basic Information** section, you can update the following details:
 
@@ -20,14 +20,14 @@ To change your basic information, such as name, email address, postal address, a
 * **Pronoun:** Select the pronoun from the list.
 *   **Current Organization:** Add or update your organization.
 
-    The organization name is pre-populated from the Salesforce if it is already available.&#x20;
+    The organization name is pre-populated based on your profile information.&#x20;
 
     To add a new organization.&#x20;
 
     1. &#x20;click the <img src="../.gitbook/assets/Cross.png" alt="" data-size="line"> icon from the **Current Organization** field.&#x20;
     2. Enter the required organization name, if the name is already available in the date base, it will be listed in the drop-down list. You can select the required name of the organization.&#x20;
     3. If it is a new organization, you have to click the **+Add** button.&#x20;
-    4. The Add Organization dialog box appears. Enter the **Organization URL** of your organization and enter the **Organization Name** and click **Add**.&#x20;
+    4. The Add Organization dialog box appears. Enter the **Organization URL** of your organization, enter the **Organization Name**, and click **Add**.&#x20;
 
 ![Add Organization ](<../.gitbook/assets/Add Organization.gif>)
 

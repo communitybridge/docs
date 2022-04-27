@@ -1,4 +1,4 @@
-# Update Affiliations
+# Add or Update Affiliations
 
 Your project affiliations show your technical code contributions to a project by identifying your work history while you were actively contributing code or documentation. Populating your affiliations is a great way to tell your open source contribution story to your current and future employers, and your project communities. It also ensures that your organization gets credit for open source project work that you do on their behalf, or that you can highlight your individual contributions to a project. The following information is displayed:
 
@@ -12,11 +12,11 @@ You should connect your GitHub and LinkedIn profiles to populate your affiliatio
 
 You can manage all of your project affiliations through the Individual Dashboard.
 
-* [Add or Edit Affiliations](update-affiliations.md#add-affiliations-or-work-history)
-* [Delete Affiliations](update-affiliations.md#delete-affiliation)
-* [Switch Contributions to/from Individual contribution to Affiliation](update-affiliations.md#switch-contributions-to-from-individual-contribution-to-affiliation)
-* [Connect or Disconnect LinkedIn](update-affiliations.md#connect-or-disconnect-linkedin)
-* [Connect or Disconnect GitHub](update-affiliations.md#connect-or-disconnect-github)
+* [Add or Edit Affiliations](add-or-update-affiliations.md#add-affiliations-or-work-history)
+* [Delete Affiliations](add-or-update-affiliations.md#delete-affiliation)
+* [Switch Contributions to/from Individual contribution to Affiliation](add-or-update-affiliations.md#switch-contributions-to-from-individual-contribution-to-affiliation)
+* [Connect or Disconnect LinkedIn](add-or-update-affiliations.md#connect-or-disconnect-linkedin)
+* [Connect or Disconnect GitHub](add-or-update-affiliations.md#connect-or-disconnect-github)
 
 ### Add affiliations or work history:
 
@@ -29,7 +29,7 @@ You can manage all of your project affiliations through the Individual Dashboard
 4\. Provide details such as organization name, start date and end date, and click the _tick_ mark next to the filed to save details.
 
 {% hint style="info" %}
-**Note:** If the organization name is not available in the predictive search list, click **+Add** CTA to [add the organization](update-affiliations.md#add-organization).
+**Note:** If the organization name is not available in the predictive search list, click **+Add** CTA to [add the organization](add-or-update-affiliations.md#add-organization).
 {% endhint %}
 
 ![Add Affiliation](<../.gitbook/assets/add affiliation.png>)
@@ -54,7 +54,7 @@ You can switch contributions to/from individual contributions to affiliated with
 
 4\. To switch from independent contributor to company affiliation, uncheck the checkbox before **Independent Contributor**, provide organization name in the **Enter Organization Name** field, select the organization from the predictive search results, and click the _tick_ mark next to the filed to save details.
 
-**Note:** If the organization name is not available in the predictive search list, click **+Add** CTA to [add the organization](update-affiliations.md#add-organization).
+**Note:** If the organization name is not available in the predictive search list, click **+Add** CTA to [add the organization](add-or-update-affiliations.md#add-organization).
 
 ![Switching between Contributions](<../.gitbook/assets/switching between contributions.png>)
 
