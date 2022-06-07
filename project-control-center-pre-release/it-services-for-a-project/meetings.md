@@ -53,7 +53,7 @@ You can also navigate to Meeting Management from the Vertical Sidebar navigation
 
 ![Scheduling a Meeting](<../../.gitbook/assets/Schduling Meeting.gif>)
 
-5.The Manage Participant page appears with list of committee members. The list provides details such as name of the member, job title of the member, organization to which the member belongs, role of the member, voting status. You can make the Host of the meeting by selecting the required member.
+5.The Manage Participant page appears with list of committee members. The list provides details such as name of the member, job title of the member, organization to which the member belongs, role of the member, voting status.
 
 Click **Schedule Meeting** to complete the meeting schedule.
 
@@ -63,7 +63,6 @@ You can also invite a member who does not belong to the committee. Click **+ Add
 You can also add yourself to the meeting by clicking the **+ Add yourself to the meeting**. You can remove the participant by click of delete ![](../../.gitbook/assets/delete\_icon.png) icon
 {% endhint %}
 
-![Adding Participants](../../.gitbook/assets/SM.gif)
 
 ## Past Meetings
 
