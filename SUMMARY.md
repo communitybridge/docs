@@ -20,6 +20,7 @@
   * [Connect Accounts](my-profile/connect-accounts.md)
   * [Purchase a Lifetime Linux.com Email Alias](my-profile/purchasing-linux-email.md)
   * [Manage Profile Visibility](my-profile/manage-profile-visibility.md)
+  * [My Calendar](my-profile/my-calendar.md)
   * [View Rewards](my-profile/view-rewards.md)
   * [View Events](my-profile/view-events.md)
   * [Individual Enrollments](my-profile/individual-enrollments.md)

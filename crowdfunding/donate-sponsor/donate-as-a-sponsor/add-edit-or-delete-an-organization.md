@@ -25,5 +25,5 @@ Only the person who added the organization can edit or delete it.
    \*\*\*\*\
    \*\*\*\*![](../../../.gitbook/assets/7418577.png)\
    \
-   ![](<../../../.gitbook/assets/7418587 (2) (1) (1) (1) (1).png>)\\
+   ![](<../../../.gitbook/assets/7418587 (2) (1) (1) (1) (1) (2).png>)\\
 2. Edit the dialog fields to update the organization and click **Submit**, or click **Delete** to delete the organization.

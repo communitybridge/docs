@@ -48,4 +48,4 @@ The Financial tab lists all transactions with details in chronological order.
 
 View an example of a travel fund financial tab section:
 
-![](<../../.gitbook/assets/7418651 (2) (2) (2) (2) (1) (1) (1) (1).jpg>)
+![](<../../.gitbook/assets/7418651 (2) (2) (2) (2) (1) (1) (1) (1) (1).jpg>)
