@@ -45,3 +45,7 @@ You can categorize the meetings based on:
 * Recurring meetings
 * Non recurring meetings
 * Past meetings
+
+To view meetings in List View, perform the following steps:
+
+1.Log into [My Profile](https://openprofile.dev) using your LF account, and from left side navigation pane, click **My Calendar** and select **Calendar View.**

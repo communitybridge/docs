@@ -1,6 +1,6 @@
 # Meeting Management
 
-PCC allows you setup and manage meetings. You can schedule recurring and non recurring meetings among the teams. Meeting Management also allows you to view past meeting recordings, transcript copies of the meetings and also provides the option to share the recording with other team members. PCC also provides a wizard that provides you high level details related to the meetings.
+PCC allows you to setup and manage meetings. You can schedule recurring and non recurring meetings among the teams. Meeting Management also allows you to view past meeting recordings, transcript copies of the meetings and also provides the option to share the recording with other team members. PCC also provides a wizard that provides you high level details related to the meetings.
 
 ## Meeting Management Wizard
 
@@ -62,7 +62,6 @@ You can also invite a member who does not belong to the committee. Click **+ Add
 \
 You can also add yourself to the meeting by clicking the **+ Add yourself to the meeting**. You can remove the participant by click of delete ![](../../.gitbook/assets/delete\_icon.png) icon
 {% endhint %}
-
 
 ## Past Meetings
 
