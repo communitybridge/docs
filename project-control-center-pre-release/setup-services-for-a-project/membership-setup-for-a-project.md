@@ -2,8 +2,8 @@
 
 Membership setup of project allows you to provide information on:
 
-* [Membership Billing](membership-setup-for-a-project.md#billing-information)&#x20;
-* [Membership Tier](membership-setup-for-a-project.md#membership-tier)&#x20;
+* [Membership Billing](membership-setup-for-a-project.md#billing-information)
+* [Membership Tier](membership-setup-for-a-project.md#membership-tier)
 
 ## Membership Settings <a href="#billing-information" id="billing-information"></a>
 
@@ -44,7 +44,7 @@ To add membership tier information for a project, perform the following steps:
 
 2.The Membership page appears. Click **+Add Tier** to add the membership tier details.
 
-![Add Tier](<../../.gitbook/assets/image (25).png>)
+![Add Tier](<../../.gitbook/assets/image (25) (1).png>)
 
 3.The Add Membership Tier dialog box appears. Update the following details and click **Save**:
 

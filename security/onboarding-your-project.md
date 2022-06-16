@@ -9,7 +9,7 @@ You need to raise a ticket if you do not have access to PCC. Use this [link ](ht
 
 If you want to know more about PCC, please visit [PCC ](https://lfx.linuxfoundation.org/tools/project-control-center)website. You can refer [PCC documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release) for more information.
 
-For more information on Security related activities that can be configured using PCC, refer [Security PCC Documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/tools/security).&#x20;
+For more information on Security related activities that can be configured using PCC, refer [Security PCC Documentation](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/tools/security).
 {% endhint %}
 
 ## Security Bot Installation <a href="#security-bot-installation" id="security-bot-installation"></a>
@@ -28,9 +28,9 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 ![Security](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Md\_ivAMZ2h7xOPMQ1bm%2F-Md\_mIFlNU7OimypntPn%2FDash.png?alt=media\&token=9330c513-4ef2-44ef-bb59-a4bd0970f8d3)
 
-3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../.gitbook/assets/icon (1).png>) icon available next to **Connect**.
+3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../.gitbook/assets/Icon (1) (1).png>) icon available next to **Connect**.
 
-![GitHub Onboarding](<../.gitbook/assets/github (1).png>)
+![GitHub Onboarding](../.gitbook/assets/GitHub.png)
 
 4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
 
@@ -83,24 +83,24 @@ A green dot present with the GitHub organization name indicates that the Securit
 
 ![GitHub Organization](https://gblobscdn.gitbook.com/assets%2F-MCG-Km6\_RcGyUVKsLIx%2F-Mda1J-8wCyl01h8FL5W%2F-Mda314iwtsBVKz0r-dW%2FGithub%20-%20Copy.png?alt=media\&token=fa8bd9e0-71b0-4c9a-aea9-5584ac639dbd)
 
-## GitHub Application Permissions&#x20;
+## GitHub Application Permissions
 
-GitHub  has been authorized with the following permissions:
+GitHub has been authorized with the following permissions:
 
-### Repository Permissions&#x20;
+### Repository Permissions
 
 * [Administration](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-administration): read-only (so that we can discover new repositories, identify when repositories are transferred, determine if a repository is archived, deleted, etc.)
 * [Contents](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-contents): read-only (view details about the repositories)
 * [Metadata](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#metadata-permissions): read-only - required
-* [Pull Requests](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-pull-requests): read-write - allows Snyk to create pull requests based on fixable vulnerabilities (e.g. version bumps)&#x20;
+* [Pull Requests](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-pull-requests): read-write - allows Snyk to create pull requests based on fixable vulnerabilities (e.g. version bumps)
 * [Webhooks](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-repository-hooks) - read-write - required to add callbacks when PRs are created, when updates are pushed to the main branch, etc.
 * [Commit Status](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-statuses) - read-only - get commit status details
 
-### Organization Permissions&#x20;
+### Organization Permissions
 
 * [Webhooks](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-organization-hooks) - read-write - required to add callbacks when events occur for the organization
 
-### User Permissions&#x20;
+### User Permissions
 
 * [Email addresses](https://docs.github.com/en/rest/reference/permissions-required-for-github-apps#permission-on-emails) - read-only - ability to read public email ID's.
 

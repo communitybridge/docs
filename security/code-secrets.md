@@ -6,7 +6,7 @@ LFX Security has collaborated with BluBracket to scan for valuable private infor
 
 Code Secrets Detected donut chart provides you the number of code secrets detected in the project. It shows you various code secrets detected in the project. On click of the detected code secret, the page navigates to the Code Secret details page.
 
-![Code Secrets Detected](<../.gitbook/assets/Code Secret (1) (1) (1).gif>)
+![Code Secrets Detected](<../.gitbook/assets/Code Secret (1) (1) (1) (1).gif>)
 
 ## Scanning of Projects for Code Secrets <a href="#scanning-of-projects-for-code-secrets" id="scanning-of-projects-for-code-secrets"></a>
 
@@ -49,7 +49,7 @@ To check the details related to the listed code secrets, perform the following s
 
 2\. Click the ![](../.gitbook/assets/IC.png)icon listed in front of Take Action.
 
-![Code Secrets Details](<../.gitbook/assets/CS Details (1).png>)
+![Code Secrets Details](<../.gitbook/assets/CS Details.png>)
 
 3\. The code secret details box appears with a list of all the details related to the code secret. The following details are available for you to check out:
 
@@ -79,7 +79,7 @@ To perform actions on the code secrets, perform the following steps:
 
 2\. Click the ![](../.gitbook/assets/IC.png) icon listed in front of Take Action.
 
-![Code Secret](<../.gitbook/assets/CS Details (1).png>)
+![Code Secret](<../.gitbook/assets/CS Details.png>)
 
 3\. The code secret details box appears with a list of all the details related to the code secret. Click **Actions** and select the required action to be performed for the listed code secret.
 

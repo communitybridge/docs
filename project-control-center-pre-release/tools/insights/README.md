@@ -39,4 +39,4 @@ To access Insights from PCC, perform the following:
 
 2.Click **Insights** available under Tools dropdown menu.
 
-![Insights](<../../../.gitbook/assets/Insights (1) (1) (2).png>)
+![Insights](<../../../.gitbook/assets/Insights (1) (1) (2) (1).png>)

@@ -26,7 +26,7 @@ As a CLA manager for a project, you can:
 
 4\. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 
-![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (1) (1).png>)
+![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (1) (1) (1).png>)
 
 {% hint style="info" %}
 **Note:**

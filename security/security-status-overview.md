@@ -71,7 +71,7 @@ A project's criticality score defines the influence and importance of a project.
 
 Code Secrets Detected donut chart provides you the number of code secrets detected in the project. It shows you various code secrets detected in the project. On click of the detected code secret, the page navigates to the Code Secret details page.
 
-![Code Secrets  Detected](<../.gitbook/assets/Code Secret (1) (1) (1) (2).gif>)
+![Code Secrets  Detected](<../.gitbook/assets/Code Secret (1) (1) (1) (1) (1).gif>)
 
 ## Recent Alerts
 
@@ -83,7 +83,7 @@ Recent Alerts provides you with list of code secrets alerts. This list provides 
 
 The Non Inclusive Language cloud chart displays the list of non inclusive words that are used in the project.
 
-![Non Inclusive Language](<../.gitbook/assets/NIL (1).png>)
+![Non Inclusive Language](../.gitbook/assets/NIL.png)
 
 ## Vulnerabilities Detected
 

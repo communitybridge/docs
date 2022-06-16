@@ -15,13 +15,13 @@ You can also disconnect your accounts anytime you want.
 \
 Or
 
-From left side navigation pane of the landing page, navigate to **Settings > Connected Accounts, ad click**&#x20;
+From left side navigation pane of the landing page, navigate to **Settings > Connected Accounts, ad click**
 
 ![](<../.gitbook/assets/connected accounts.png>)
 
 3\. Click ![](<../.gitbook/assets/connect linkedin.png>) from the **Connect To LinkedIn** section to connect your LinkedIn profile.
 
-4\. Click ![](<../.gitbook/assets/connect github (1).png>) from the **Connect To GitHub** section to connect your GitHub profile.
+4\. Click ![](<../.gitbook/assets/connect github.png>) from the **Connect To GitHub** section to connect your GitHub profile.
 
 5\. To connect any other social account, such as Facebook and Google, navigate to the respective card under **Social Accounts**, and click **Connect** under a card.
 

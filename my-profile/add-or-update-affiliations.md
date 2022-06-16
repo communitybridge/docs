@@ -36,7 +36,7 @@ You can manage all of your project affiliations through the Individual Dashboard
 
 5\. To add work history, click ![](<../.gitbook/assets/populate work history.png>)to link your LinkedIn account to populate your employment history with the open source community.
 
-![Affiliations](../.gitbook/assets/affiliations.png)
+![Affiliations](<../.gitbook/assets/affiliations (1).png>)
 
 ### Delete affiliation:
 
@@ -75,5 +75,5 @@ You can switch contributions to/from individual contributions to affiliated with
 
 ### Connect or Disconnect GitHub
 
-1. To connect GitHub, click![](<../.gitbook/assets/connect github.png>) , log in, and authorize your GitHub account.
+1. To connect GitHub, click![](<../.gitbook/assets/connect github (1).png>) , log in, and authorize your GitHub account.
 2. To disconnect GitHub, scroll down to the page, from bottom right corner, click **Disconnect GitHub**.

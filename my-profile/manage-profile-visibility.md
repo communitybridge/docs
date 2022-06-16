@@ -16,6 +16,6 @@ You can manage your profile visibility by making your achievements, such as basi
 **Note**: Even if you click **Public**, your profile's only basic information becomes _public_ (visible to the community). To , make other information _public_, you must manually turn on each of them.
 {% endhint %}
 
-![Manage Profile Visibility](<../.gitbook/assets/profile visibility.png>)
+![Manage Profile Visibility](<../.gitbook/assets/profile visibility (1).png>)
 
 4\. To make your profile _private_ (all information visible only to you, not to the community), click the **Private** radio button.

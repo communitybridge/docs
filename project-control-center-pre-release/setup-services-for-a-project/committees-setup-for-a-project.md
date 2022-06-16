@@ -52,7 +52,7 @@ To add a member to a committee, perform the following steps:
 
 2.The Committees page appears with the list of committees that are created for the project. Click **Add** from the required committee where you want to add the members.
 
-![Add Member](<../../.gitbook/assets/Add (1).png>)
+![Add Member](../../.gitbook/assets/Add.png)
 
 4.The Add Committee Member dialog box appears. Update the following details and click **Save**:
 
@@ -118,7 +118,7 @@ To delete a member, perform the following steps:
 
 4.The Manage Committee Member dialog box appears. Click **Delete** to remove a member from the committee.
 
-![Delete Confirmation](<../../.gitbook/assets/Con\_Mem\_Del (1).png>)
+![Delete Confirmation](../../.gitbook/assets/Con\_Mem\_Del.png)
 
 ## Managing Meetings
 

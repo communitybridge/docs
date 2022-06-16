@@ -68,7 +68,7 @@ For more information on adding organization details in My Profile, see [Organiza
 
 3.The **Send Code** button is enabled, click **Send Code** to get the authorization code. You will receive the authorization code in the registered email ID. Enter the code and click **Continue with Member Access** to view project issues.
 
-![](<../.gitbook/assets/4 (1).png>)
+![](../.gitbook/assets/4.png)
 
 ### Organization Details Available in My Profile
 

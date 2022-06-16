@@ -18,7 +18,7 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../../../.gitbook/assets/Icon (1).png>) icon available next to **Connect**.
 
-![GitHub Onboarding](../../../.gitbook/assets/GitHub.png)
+![GitHub Onboarding](<../../../.gitbook/assets/github (1).png>)
 
 4.Enter the GitHub organization name in the **Organization Name** and click **Connect**.
 
@@ -171,4 +171,4 @@ If the status shows as **Security bot not configured**, you cannot select the re
 
 3\. Select the required individual repository from the **Assigned to Project** column that you want to assign to the project.
 
-![Repository Selection](<../../../.gitbook/assets/Select Sec (1).png>)
+![Repository Selection](<../../../.gitbook/assets/Select Sec.png>)

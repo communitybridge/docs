@@ -27,7 +27,7 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 4\. You can see the Open issues related to the repository. You can also refine the issues based on the priority such as Critical, High, Medium and Low.
 
-![Open Issues ](<../.gitbook/assets/GHSA - Copy.png>)
+![Open Issues](<../.gitbook/assets/GHSA - Copy.png>)
 
 5.Click the ![](../.gitbook/assets/Icon.png) icon to see more details and to investigate the vulnerabilities. You can check the following details related to vulnerabilities:
 
@@ -73,4 +73,4 @@ To download the issues CSV file, perform the following:
 
 2.From the Issues banner, click the ![](../.gitbook/assets/Download\_Icon.png) icon. The exports.csv file will be downloaded. You can check all the information related to the repository issues in the downloaded file.
 
-![Download Issues](<../.gitbook/assets/Issues (2).png>)
+![Download Issues](<../.gitbook/assets/Issues (3).png>)
