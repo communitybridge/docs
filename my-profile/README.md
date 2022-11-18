@@ -2,9 +2,7 @@
 
 Individual Dashboard (also known as My Profile) is your self-service hub for all of your open source activity. Build your personal community profile, manage credentials and contact details, display badges for completing certifications and other accomplishments, and enjoy a seamless login experience across the major systems used by the Linux Foundation projects. Most importantly, this allows you to control your data, share what you want to share, and keep private what you wish.
 
-{% hint style="info" %}
-Information in your profile is subject to the Linux Foundation's [Privacy Policy](https://linuxfoundation.org/privacy)
-{% endhint %}
+> Information in your profile is subject to the Linux Foundation's [Privacy Policy](https://linuxfoundation.org/privacy)
 
 The various sections on the profile page display respective data associated with your profile. After you log in to [https://openprofile.dev](https://openprofile.dev), you can view the following details:
 
