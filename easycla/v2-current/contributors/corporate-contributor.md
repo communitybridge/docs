@@ -41,7 +41,7 @@ Upon creating a pull request in GitHub or merge request in GitLab or submitting 
 {% hint style="info" %}
 **Note:**
 
-* If your company is not in the list, you can add the company as described in [If your company is not in the list](broken-reference/).
+* If your company is not in the list, you can add the company as described in [If your company is not in the list](corporate-contributor.md#if-your-company-is-not-in-the-list).
 {% endhint %}
 
 ![Select Organization](<../../../.gitbook/assets/select organization.png>)
